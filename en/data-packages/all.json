@@ -1559,17 +1559,15 @@
             "title": "Year"
           },
           {
-            "name": "type_of_institution",
+            "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Total",
-                "Private",
-                "Public"
+                "Total"
               ]
             },
-            "title": "Type of institution"
+            "title": "Type of education"
           }
         ]
       },
