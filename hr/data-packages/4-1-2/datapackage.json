@@ -21,7 +21,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Type_of_institution",
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
@@ -33,7 +33,7 @@
                 ""
               ]
             },
-            "title": "Type_of_institution"
+            "title": "Vrsta ustanove"
           },
           {
             "name": "SEX",

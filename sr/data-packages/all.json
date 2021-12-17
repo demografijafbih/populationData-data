@@ -2747,7 +2747,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Type_of_institution",
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2759,7 +2759,7 @@
                 ""
               ]
             },
-            "title": "Type_of_institution"
+            "title": "Врста установе"
           },
           {
             "name": "SEX",
