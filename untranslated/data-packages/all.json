@@ -4513,13 +4513,29 @@
             "type": "integer"
           },
           {
+            "name": "Type_of_disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Seeing",
+                "Hearing",
+                "walking_or_climbing_up_the_stairs",
+                "remembering_or_concentration",
+                "self_care",
+                "Communication",
+                "multiple_disabilities",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "_T",
-                "M",
-                "F",
+                "_M",
+                "_F",
                 ""
               ]
             }
@@ -4546,7 +4562,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },

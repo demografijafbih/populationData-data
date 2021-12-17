@@ -4915,12 +4915,29 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
+                "_F",
+                "_M",
                 "Total"
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Type_of_disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Communication",
+                "Hearing",
+                "Seeing",
+                "multiple_disabilities",
+                "remembering_or_concentration",
+                "self_care",
+                "walking_or_climbing_up_the_stairs"
+              ]
+            },
+            "title": "Type_of_disability"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4929,7 +4946,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

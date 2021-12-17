@@ -1,1 +1,1 @@
-{"From":["Sex"],"To":["Age"]}
+{"From":["Type_of_disability","Sex"],"To":["Sex","Age"]}
