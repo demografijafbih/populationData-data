@@ -16,19 +16,26 @@
             "title": "Година"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "Број",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "type_of_institution"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Вриједност"
           }
         ]

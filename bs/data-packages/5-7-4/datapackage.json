@@ -16,19 +16,26 @@
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "Broj",
+                "Ukupno",
+                "Javna",
+                "Privatna",
                 ""
               ]
             },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Vrsta ustanove"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

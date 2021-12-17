@@ -492,18 +492,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -907,18 +913,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -1045,18 +1057,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -1077,18 +1095,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -1373,18 +1397,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -1900,18 +1930,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -3163,18 +3199,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -3555,18 +3597,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -3758,18 +3806,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -3926,18 +3980,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -3958,18 +4018,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -3990,18 +4056,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -4633,18 +4705,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -4703,18 +4781,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -4908,18 +4992,24 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },

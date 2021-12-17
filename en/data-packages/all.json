@@ -533,25 +533,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -969,25 +976,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -1121,25 +1135,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -1156,25 +1177,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -1482,25 +1510,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -2048,25 +2083,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -3419,25 +3461,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -3854,25 +3903,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -4075,25 +4131,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -4258,25 +4321,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -4293,25 +4363,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -4328,25 +4405,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -5027,25 +5111,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -5104,25 +5195,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
@@ -5320,25 +5418,32 @@
       "schema": {
         "fields": [
           {
-            "name": "UNIT_MEASURetype_of_institution",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Number"
-              ]
-            },
-            "title": "UNIT_MEASURetype_of_institution"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
