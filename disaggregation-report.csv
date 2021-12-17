@@ -18,6 +18,6 @@ SEX,Sex,Spol,Пол,Spol,51,3
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
 type_of_institution,Type of institution,Vrsta ustanove,Врста установе,Vrsta ustanove,16,3
 Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,2,5
-Type_of_school,Type_of_school,Type_of_school,Type_of_school,Type_of_school,2,7
+Type_of_school,Type of school,Vrsta škole,Врста школе,Vrsta škole,2,7
 Type_of_user,Type_of_user,Type_of_user,Type_of_user,Type_of_user,2,3
 UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,117,29
