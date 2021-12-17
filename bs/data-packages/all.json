@@ -2724,7 +2724,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
@@ -5211,7 +5211,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
