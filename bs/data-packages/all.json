@@ -4361,17 +4361,15 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "type_of_institution",
+            "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
                 "Ukupno",
-                "Javna",
-                "Privatna",
                 ""
               ]
             },
-            "title": "Vrsta ustanove"
+            "title": "Vrsta obrazovanja"
           },
           {
             "name": "Value",
