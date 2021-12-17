@@ -1,4 +1,4 @@
-Year,Type_of_disability,Spol,Starosna dob,UNIT_MEASURE,Value
+Year,Vrsta invaliditeta,Spol,Starosna dob,UNIT_MEASURE,Value
 2013,Seeing,Oba spola,0-14,Broj,1084
 2013,Hearing,Oba spola,0-14,Broj,262
 2013,walking_or_climbing_up_the_stairs,Oba spola,0-14,Broj,671

@@ -1,4 +1,4 @@
-Year,Type_of_disability,Пол,Старосна доб,UNIT_MEASURE,Value
+Year,Врста инвалидитета,Пол,Старосна доб,UNIT_MEASURE,Value
 2013,Seeing,Оба пола,0-14,Број,1084
 2013,Hearing,Оба пола,0-14,Број,262
 2013,walking_or_climbing_up_the_stairs,Оба пола,0-14,Број,671

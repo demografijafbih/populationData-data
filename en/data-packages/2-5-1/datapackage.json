@@ -49,13 +49,13 @@
                 "Communication",
                 "Hearing",
                 "Seeing",
-                "multiple_disabilities",
-                "remembering_or_concentration",
-                "self_care",
-                "walking_or_climbing_up_the_stairs"
+                "Multiple disabilities",
+                "Remembering or concentration",
+                "Self-care",
+                "Walking or climbing up the stairs"
               ]
             },
-            "title": "Type_of_disability"
+            "title": "Type of disability"
           },
           {
             "name": "UNIT_MEASURE",
