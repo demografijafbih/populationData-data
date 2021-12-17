@@ -534,23 +534,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -876,23 +872,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -1032,23 +1024,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -1071,23 +1059,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -1401,23 +1385,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -1971,23 +1951,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -3346,23 +3322,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -3785,23 +3757,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -4010,23 +3978,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -4197,23 +4161,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -4236,23 +4196,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -4275,23 +4231,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -4868,23 +4820,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -4949,23 +4897,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Broj",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",

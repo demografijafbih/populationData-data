@@ -12,23 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Година"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
+                "Број",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",

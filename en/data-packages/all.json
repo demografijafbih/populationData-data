@@ -533,19 +533,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -554,7 +550,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -875,19 +871,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -896,7 +888,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1031,19 +1023,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -1052,7 +1040,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1070,19 +1058,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -1091,7 +1075,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1400,19 +1384,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -1421,7 +1401,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -1970,19 +1950,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -1991,7 +1967,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -3345,19 +3321,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -3366,7 +3338,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -3784,19 +3756,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -3805,7 +3773,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -4009,19 +3977,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -4030,7 +3994,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -4196,19 +4160,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -4217,7 +4177,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -4235,19 +4195,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -4256,7 +4212,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -4274,19 +4230,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -4295,7 +4247,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -4867,19 +4819,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -4888,7 +4836,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -4948,19 +4896,15 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "UNIT_MEASURetype_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Number"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURetype_of_institution"
           },
           {
             "name": "Value",
@@ -4969,7 +4913,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
