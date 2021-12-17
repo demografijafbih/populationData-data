@@ -14,9 +14,9 @@ NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,В�
 PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,35
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
 Religion,Religion,Religija,Религија,Religija,1,20
-SEX,Sex,Spol,Пол,Spol,53,3
+SEX,Sex,Spol,Пол,Spol,55,3
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
-type_of_institution,Type of institution,Vrsta ustanove,Врста установе,Vrsta ustanove,14,3
+type_of_institution,Type of institution,Vrsta ustanove,Врста установе,Vrsta ustanove,12,3
 Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,2,5
 Type_of_school,Type of school,Vrsta škole,Врста школе,Vrsta škole,2,7
 Type_of_user,Type_of_user,Type_of_user,Type_of_user,Type_of_user,2,3

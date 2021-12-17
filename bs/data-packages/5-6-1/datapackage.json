@@ -21,17 +21,17 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "type_of_institution",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "Ukupno",
-                "Javna",
-                "Privatna",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Vrsta ustanove"
+            "title": "Spol"
           },
           {
             "name": "Value",
