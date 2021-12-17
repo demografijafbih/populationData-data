@@ -321,7 +321,7 @@
           }
         ]
       },
-      "title": "Stanovništvo staro 15 i više godina prema gradu/općini, najvišoj završenoj školi i spolu"
+      "title": "Stanovništvo staro 15 i više godina prema najvišoj završenoj školi i spolu"
     },
     {
       "path": "1-4-5/data.csv",
@@ -5730,7 +5730,7 @@
           }
         ]
       },
-      "title": "Stanovništvo staro 10 i više godina prema gradu/općini, pismenosti i spolu"
+      "title": "Stanovništvo staro 10 i više godina prema pismenosti i spolu"
     },
     {
       "path": "5-2-3/data.csv",

@@ -321,7 +321,7 @@
           }
         ]
       },
-      "title": "Population over 15 years of age by city/municipality, educational attainment and sex"
+      "title": "Population over 15 years of age by educational attainment and sex"
     },
     {
       "path": "1-4-5/data.csv",
@@ -5730,7 +5730,7 @@
           }
         ]
       },
-      "title": "Population over 10 years of age by city/municipality, literacy and sex"
+      "title": "Population over 10 years of age by literacy and sex"
     },
     {
       "path": "5-2-3/data.csv",
