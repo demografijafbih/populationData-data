@@ -4448,35 +4448,6 @@
       "title": "Stanovništvo u dobi od 15-24 godine koje nije zaposleno, ne obrazuje se niti se usavršava (NEET), prema spolu"
     },
     {
-      "path": "4-2-1/data.csv",
-      "name": "4-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Ustanove socijalne zaštite prema vrsti"
-    },
-    {
       "path": "1-4-2/data.csv",
       "name": "1-4-2",
       "profile": "tabular-data-resource",
@@ -4574,35 +4545,6 @@
         ]
       },
       "title": "Bruto društveni proizvod (BDP) prema glavi stanovnika"
-    },
-    {
-      "path": "4-1-5/data.csv",
-      "name": "4-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Broj korisnika dodatka na djecu"
     },
     {
       "path": "3-5-1/data.csv",
