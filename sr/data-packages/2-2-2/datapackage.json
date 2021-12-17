@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -38,30 +38,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Islam",
-                "Orthodox",
-                "Catholic",
-                "Muslim",
-                "Roman_Catholic",
-                "Serbian",
-                "jehovah_s_witnesses",
-                "Greek_Catholic",
-                "Protestant",
-                "Romani",
-                "Christian",
-                "Bosniak",
-                "Croat",
-                "Adventist",
-                "Bosnian",
-                "Agnostic",
-                "Atheist",
-                "Others",
-                "Undeclared",
+                "Ислам",
+                "Православна",
+                "Католичка",
+                "Муслиманска",
+                "Римо-католичка",
+                "Српски",
+                "Јеховини свједоци",
+                "Гркокатоличка",
+                "Протестантска",
+                "Ромски",
+                "Кршћанска",
+                "Бошњачки",
+                "Хрват",
+                "Адвентист",
+                "Босански",
+                "Агностик",
+                "Атеист",
+                "Друго",
+                "Неопредијељен",
                 "Unknown",
                 ""
               ]
             },
-            "title": "Religion"
+            "title": "Религија"
           },
           {
             "name": "Value",

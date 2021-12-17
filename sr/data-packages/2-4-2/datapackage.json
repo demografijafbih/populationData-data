@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -38,17 +38,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "No_education",
-                "Incomplete_primary_education",
-                "Primary_school",
+                "Необразован",
+                "Незавршено основно образовање",
+                "Основна школа",
                 "Secondary_school",
-                "Post-secondary_school_specialization",
-                "High_school_and_first_grade_of_faculty",
-                "Advanced_schools_faculty_academy_university",
+                "Специјализација након завршене средње школе",
+                "Средња школа и прва година факултета",
+                "Напредне школе/факултет/академија/универзитет",
                 ""
               ]
             },
-            "title": "Highest_education_atainment"
+            "title": "Највиши достигнути степен образовања"
           },
           {
             "name": "Value",

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -38,28 +38,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bosniak",
+                "Бошњачки",
                 "Serb",
                 "Croat ",
-                "Bosnian",
-                "Romani",
-                "Muslim",
-                "Bosnian_and_Herzegovinian",
-                "Albanian",
+                "Босански",
+                "Ромски",
+                "Муслиманска",
+                "Босанско-херцеговачка",
+                "Албански",
                 "Yugoslav",
                 "Ukrainian",
                 "Montenegrin",
                 "Turk",
                 "Slovenian",
-                "Orthodox",
+                "Православна",
                 "Macedonian ",
-                "Others",
-                "Undeclared",
+                "Друго",
+                "Неопредијељен",
                 "Unknown",
                 ""
               ]
             },
-            "title": "Ethnicity_national_affiliation"
+            "title": "Етничка/национална припадност"
           },
           {
             "name": "Value",

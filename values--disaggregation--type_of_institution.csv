@@ -1,4 +1,4 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,Total,Ukupno,_T,Ukupno,16,16
-private,Private,Privatna,private,Privatna,16,16
-public,Public,Javna,public,Javna,16,16
+_T,Total,Ukupno,Укупно,Ukupno,16,16
+private,Private,Privatna,Приватна,Privatna,16,16
+public,Public,Javna,Јавна,Javna,16,16
