@@ -2559,7 +2559,7 @@
                 ""
               ]
             },
-            "title": "Type_of_user"
+            "title": "Врста корисника"
           },
           {
             "name": "SEX",
@@ -4327,7 +4327,7 @@
                 ""
               ]
             },
-            "title": "Type_of_user"
+            "title": "Врста корисника"
           },
           {
             "name": "Value",
