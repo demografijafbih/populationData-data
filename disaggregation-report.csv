@@ -16,7 +16,7 @@ PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
 Religion,Religion,Religija,Религија,Religija,1,20
 SEX,Sex,Spol,Пол,Spol,56,3
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
-type_of_education,type_of_education,type_of_education,type_of_education,type_of_education,2,1
+type_of_education,Type of education,Vrsta obrazovanja,Врста образовања,Vrsta obrazovanja,2,1
 type_of_institution,Type of institution,Vrsta ustanove,Врста установе,Vrsta ustanove,9,3
 Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,2,5
 Type_of_school,Type of school,Vrsta škole,Врста школе,Vrsta škole,2,7
