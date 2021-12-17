@@ -3238,13 +3238,13 @@
             "type": "string"
           },
           {
-            "name": "type_of_institution",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "_T",
-                "public",
-                "private",
+                "M",
+                "F",
                 ""
               ]
             }
