@@ -1973,7 +1973,7 @@
           }
         ]
       },
-      "title": "Children at the beginning of school year by type of school"
+      "title": "Children at the beginning of school year by type of high school"
     },
     {
       "path": "1-7-6/data.csv",
@@ -3768,7 +3768,7 @@
           }
         ]
       },
-      "title": "Children at the beginning of school year by sex"
+      "title": "Children at the beginning of school year by sex (high school)"
     },
     {
       "path": "1-6-4/data.csv",
@@ -4010,7 +4010,7 @@
           }
         ]
       },
-      "title": "Children at the beginning of school year by sex"
+      "title": "Children at the beginning of school year by sex (primary school)"
     },
     {
       "path": "1-4-1/data.csv",

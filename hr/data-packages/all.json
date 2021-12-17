@@ -1973,7 +1973,7 @@
           }
         ]
       },
-      "title": "Broj učenika na početku školske godine prema vrsti škole"
+      "title": "Broj učenika na početku školske godine prema vrsti srednje škole"
     },
     {
       "path": "1-7-6/data.csv",
@@ -3768,7 +3768,7 @@
           }
         ]
       },
-      "title": "Broj učenika na početku školske godine prema spolu"
+      "title": "Broj učenika na početku školske godine prema spolu (srednja škola)"
     },
     {
       "path": "1-6-4/data.csv",
@@ -4010,7 +4010,7 @@
           }
         ]
       },
-      "title": "Broj učenika na početku školske godine prema spolu"
+      "title": "Broj učenika na početku školske godine prema spolu (osnovna škola)"
     },
     {
       "path": "1-4-1/data.csv",
