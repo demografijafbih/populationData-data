@@ -5323,17 +5323,15 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "type_of_institution",
+            "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
                 "Укупно",
-                "Јавна",
-                "Приватна",
                 ""
               ]
             },
-            "title": "Врста установе"
+            "title": "type_of_education"
           },
           {
             "name": "Value",
