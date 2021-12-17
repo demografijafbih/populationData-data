@@ -496,13 +496,11 @@
             "type": "string"
           },
           {
-            "name": "type_of_institution",
+            "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
                 "_T",
-                "public",
-                "private",
                 ""
               ]
             }
