@@ -4510,7 +4510,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Type_of_disability",
@@ -4534,8 +4534,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "_M",
-                "_F",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -4562,7 +4562,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
