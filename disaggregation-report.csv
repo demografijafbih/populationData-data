@@ -20,5 +20,5 @@ type_of_education,Type of education,Vrsta obrazovanja,Врста образов�
 type_of_institution,Type of institution,Vrsta ustanove,Врста установе,Vrsta ustanove,6,3
 Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,2,5
 Type_of_school,Type of school,Vrsta škole,Врста школе,Vrsta škole,2,7
-Type_of_user,Type of user,Vrsta korisnika,Врста корисника,Vrsta korisnika,2,3
+Type_of_user,Type of beneficiary,Vrsta korisnika,Врста корисника,Vrsta korisnika,2,3
 UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,117,29

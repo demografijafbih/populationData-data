@@ -34,7 +34,7 @@
                 "Minor beneficiaries"
               ]
             },
-            "title": "Type of user"
+            "title": "Type of beneficiary"
           },
           {
             "name": "UNIT_MEASURE",
@@ -57,5 +57,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-1",
-  "title": "Social protection beneficiaries by type of beneficiary"
+  "title": "Social protection beneficiaries by type of beneficiary and sex"
 }

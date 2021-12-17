@@ -2581,7 +2581,7 @@
           }
         ]
       },
-      "title": "Korisnici socijalne zaštite prema vrsti korisnika"
+      "title": "Korisnici socijalne zaštite prema vrsti korisnika i spolu"
     },
     {
       "path": "2-2-1/data.csv",

@@ -2562,7 +2562,7 @@
                 "Minor beneficiaries"
               ]
             },
-            "title": "Type of user"
+            "title": "Type of beneficiary"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2581,7 +2581,7 @@
           }
         ]
       },
-      "title": "Social protection beneficiaries by type of beneficiary"
+      "title": "Social protection beneficiaries by type of beneficiary and sex"
     },
     {
       "path": "2-2-1/data.csv",
@@ -4317,7 +4317,7 @@
                 "Minor beneficiaries"
               ]
             },
-            "title": "Type of user"
+            "title": "Type of beneficiary"
           },
           {
             "name": "UNIT_MEASURE",
