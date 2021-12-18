@@ -548,7 +548,7 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "education",
+                "Obrazovanje",
                 "Umjetnost i humanističke nauke",
                 "Društvene nauke, novinarstvo i informisanje",
                 "Poslovanje, administracija i pravo svega",
@@ -1276,7 +1276,7 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "education",
+                "Obrazovanje",
                 "Umjetnost i humanističke nauke",
                 "Društvene nauke, novinarstvo i informisanje",
                 "Poslovanje, administracija i pravo svega",
@@ -1574,7 +1574,7 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "education",
+                "Obrazovanje",
                 "Umjetnost i humanističke nauke",
                 "Društvene nauke, novinarstvo i informisanje",
                 "Poslovanje, administracija i pravo svega",
@@ -4363,7 +4363,7 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "education",
+                "Obrazovanje",
                 "Umjetnost i humanističke nauke",
                 "Društvene nauke, novinarstvo i informisanje",
                 "Poslovanje, administracija i pravo svega",
@@ -5302,7 +5302,7 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "education",
+                "Obrazovanje",
                 "Umjetnost i humanističke nauke",
                 "Društvene nauke, novinarstvo i informisanje",
                 "Poslovanje, administracija i pravo svega",
