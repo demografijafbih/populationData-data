@@ -21,21 +21,21 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "type_of_institution",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "Укупно",
-                "Јавна",
-                "Приватна",
+                "M",
+                "Ж",
                 ""
               ]
             },
-            "title": "Врста установе"
+            "title": "Пол"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

@@ -1,11 +1,109 @@
-Year,UNIT_MEASURE,Врста образовања,Value
-2011,Број,Укупно,
-2012,Број,Укупно,
-2013,Број,Укупно,
-2014,Број,Укупно,
-2015,Број,Укупно,
-2016,Број,Укупно,
-2017,Број,Укупно,
-2018,Број,Укупно,
-2019,Број,Укупно,
-2020,Број,Укупно,
+Year,UNIT_MEASURE,Врста образовања,Unnamed: 4,Value
+2018,Број,Укупно,13394,Укупно
+2018,Број,education,1629,Укупно
+2018,Број,arts_and_humanities,1104,Укупно
+2018,Број,social_sciences_journalism_and_information,1279,Укупно
+2018,Број,business_administration_and_the_law_of_everything,3286,Укупно
+2018,Број,natural_sciences_mathematics_and_statistics_of_all,604,Укупно
+2018,Број,information and communication technologies,731,Укупно
+2018,Број,engineering_manufacturing_and_construction,1999,Укупно
+2018,Број,agriculture_forestry_fisheries_and_veterinary_medicine,585,Укупно
+2018,Број,health_and_social_protection,1352,Укупно
+2018,Број,services,740,Укупно
+2018,Број,Непознато,85,Укупно
+2018,Број,Укупно,5571,M
+2018,Број,education,384,M
+2018,Број,arts_and_humanities,327,M
+2018,Број,social_sciences_journalism_and_information,507,M
+2018,Број,business_administration_and_the_law_of_everything,1336,M
+2018,Број,natural_sciences_mathematics_and_statistics_of_all,174,M
+2018,Број,information and communication technologies,486,M
+2018,Број,engineering_manufacturing_and_construction,1250,M
+2018,Број,agriculture_forestry_fisheries_and_veterinary_medicine,286,M
+2018,Број,health_and_social_protection,314,M
+2018,Број,services,468,M
+2018,Број,Непознато,39,M
+2018,Број,Укупно,7823,F
+2018,Број,education,1245,F
+2018,Број,arts_and_humanities,777,F
+2018,Број,social_sciences_journalism_and_information,772,F
+2018,Број,business_administration_and_the_law_of_everything,1950,F
+2018,Број,natural_sciences_mathematics_and_statistics_of_all,430,F
+2018,Број,information and communication technologies,245,F
+2018,Број,engineering_manufacturing_and_construction,749,F
+2018,Број,agriculture_forestry_fisheries_and_veterinary_medicine,299,F
+2018,Број,health_and_social_protection,1038,F
+2018,Број,services,272,F
+2018,Број,Непознато,46,F
+2019,Број,Укупно,13053,Укупно
+2019,Број,education,1452,Укупно
+2019,Број,arts_and_humanities,1018,Укупно
+2019,Број,social_sciences_journalism_and_information,1075,Укупно
+2019,Број,business_administration_and_the_law_of_everything,3174,Укупно
+2019,Број,natural_sciences_mathematics_and_statistics_of_all,625,Укупно
+2019,Број,information and communication technologies,674,Укупно
+2019,Број,engineering_manufacturing_and_construction,1896,Укупно
+2019,Број,agriculture_forestry_fisheries_and_veterinary_medicine,616,Укупно
+2019,Број,health_and_social_protection,1466,Укупно
+2019,Број,services,1044,Укупно
+2019,Број,Непознато,13,Укупно
+2019,Број,Укупно,5302,M
+2019,Број,education,361,M
+2019,Број,arts_and_humanities,356,M
+2019,Број,social_sciences_journalism_and_information,397,M
+2019,Број,business_administration_and_the_law_of_everything,1255,M
+2019,Број,natural_sciences_mathematics_and_statistics_of_all,158,M
+2019,Број,information and communication technologies,481,M
+2019,Број,engineering_manufacturing_and_construction,1104,M
+2019,Број,agriculture_forestry_fisheries_and_veterinary_medicine,235,M
+2019,Број,health_and_social_protection,332,M
+2019,Број,services,610,M
+2019,Број,Непознато,13,M
+2019,Број,Укупно,7751,F
+2019,Број,education,1091,F
+2019,Број,arts_and_humanities,662,F
+2019,Број,social_sciences_journalism_and_information,678,F
+2019,Број,business_administration_and_the_law_of_everything,1919,F
+2019,Број,natural_sciences_mathematics_and_statistics_of_all,467,F
+2019,Број,information and communication technologies,193,F
+2019,Број,engineering_manufacturing_and_construction,792,F
+2019,Број,agriculture_forestry_fisheries_and_veterinary_medicine,381,F
+2019,Број,health_and_social_protection,1134,F
+2019,Број,services,434,F
+2019,Број,Непознато,0,F
+2020,Број,Укупно,12288,Укупно
+2020,Број,education,1285,Укупно
+2020,Број,arts_and_humanities,990,Укупно
+2020,Број,social_sciences_journalism_and_information,2247,Укупно
+2020,Број,business_administration_and_the_law_of_everything,1829,Укупно
+2020,Број,natural_sciences_mathematics_and_statistics_of_all,485,Укупно
+2020,Број,information and communication technologies,747,Укупно
+2020,Број,engineering_manufacturing_and_construction,1860,Укупно
+2020,Број,agriculture_forestry_fisheries_and_veterinary_medicine,612,Укупно
+2020,Број,health_and_social_protection,1330,Укупно
+2020,Број,services,887,Укупно
+2020,Број,Непознато,16,Укупно
+2020,Број,Укупно,4977,M
+2020,Број,education,269,M
+2020,Број,arts_and_humanities,339,M
+2020,Број,social_sciences_journalism_and_information,899,M
+2020,Број,business_administration_and_the_law_of_everything,738,M
+2020,Број,natural_sciences_mathematics_and_statistics_of_all,122,M
+2020,Број,information and communication technologies,500,M
+2020,Број,engineering_manufacturing_and_construction,1067,M
+2020,Број,agriculture_forestry_fisheries_and_veterinary_medicine,251,M
+2020,Број,health_and_social_protection,268,M
+2020,Број,services,514,M
+2020,Број,Непознато,10,M
+2020,Број,Укупно,7311,F
+2020,Број,education,1016,F
+2020,Број,arts_and_humanities,651,F
+2020,Број,social_sciences_journalism_and_information,1363,F
+2020,Број,business_administration_and_the_law_of_everything,1091,F
+2020,Број,natural_sciences_mathematics_and_statistics_of_all,363,F
+2020,Број,information and communication technologies,247,F
+2020,Број,engineering_manufacturing_and_construction,778,F
+2020,Број,agriculture_forestry_fisheries_and_veterinary_medicine,361,F
+2020,Број,health_and_social_protection,1062,F
+2020,Број,services,373,F
+2020,Број,Непознато,6,F
