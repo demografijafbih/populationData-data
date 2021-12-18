@@ -3948,14 +3948,37 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "total",
+                "education",
+                "arts_and_humanities",
+                "social_sciences_journalism_and_information",
+                "business_administration_and_the_law_of_everything",
+                "natural_sciences_mathematics_and_statistics_of_all",
+                "information and communication technologies",
+                "engineering_manufacturing_and_construction",
+                "agriculture_forestry_fisheries_and_veterinary_medicine",
+                "health_and_social_protection",
+                "services",
+                "unknown",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "_T",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },

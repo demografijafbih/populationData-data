@@ -1,11 +1,109 @@
-Year,UNIT_MEASURE,Vrsta obrazovanja,Value
-2011,Broj,Ukupno,
-2012,Broj,Ukupno,
-2013,Broj,Ukupno,
-2014,Broj,Ukupno,
-2015,Broj,Ukupno,
-2016,Broj,Ukupno,
-2017,Broj,Ukupno,
-2018,Broj,Ukupno,
-2019,Broj,Ukupno,
-2020,Broj,Ukupno,
+Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
+2018,Broj,Ukupno,Oba spola,3336
+2018,Broj,education,Oba spola,476
+2018,Broj,arts_and_humanities,Oba spola,268
+2018,Broj,social_sciences_journalism_and_information,Oba spola,351
+2018,Broj,business_administration_and_the_law_of_everything,Oba spola,719
+2018,Broj,natural_sciences_mathematics_and_statistics_of_all,Oba spola,235
+2018,Broj,information and communication technologies,Oba spola,128
+2018,Broj,engineering_manufacturing_and_construction,Oba spola,430
+2018,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,Oba spola,199
+2018,Broj,health_and_social_protection,Oba spola,261
+2018,Broj,services,Oba spola,223
+2018,Broj,Nepoznato,Oba spola,46
+2018,Broj,Ukupno,M,1284
+2018,Broj,education,M,140
+2018,Broj,arts_and_humanities,M,78
+2018,Broj,social_sciences_journalism_and_information,M,115
+2018,Broj,business_administration_and_the_law_of_everything,M,268
+2018,Broj,natural_sciences_mathematics_and_statistics_of_all,M,54
+2018,Broj,information and communication technologies,M,86
+2018,Broj,engineering_manufacturing_and_construction,M,251
+2018,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,M,88
+2018,Broj,health_and_social_protection,M,61
+2018,Broj,services,M,121
+2018,Broj,Nepoznato,M,22
+2018,Broj,Ukupno,Ž,2052
+2018,Broj,education,Ž,336
+2018,Broj,arts_and_humanities,Ž,190
+2018,Broj,social_sciences_journalism_and_information,Ž,236
+2018,Broj,business_administration_and_the_law_of_everything,Ž,451
+2018,Broj,natural_sciences_mathematics_and_statistics_of_all,Ž,181
+2018,Broj,information and communication technologies,Ž,42
+2018,Broj,engineering_manufacturing_and_construction,Ž,179
+2018,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,Ž,111
+2018,Broj,health_and_social_protection,Ž,200
+2018,Broj,services,Ž,102
+2018,Broj,Nepoznato,Ž,24
+2019,Broj,Ukupno,Oba spola,3388
+2019,Broj,education,Oba spola,424
+2019,Broj,arts_and_humanities,Oba spola,267
+2019,Broj,social_sciences_journalism_and_information,Oba spola,458
+2019,Broj,business_administration_and_the_law_of_everything,Oba spola,635
+2019,Broj,natural_sciences_mathematics_and_statistics_of_all,Oba spola,272
+2019,Broj,information and communication technologies,Oba spola,139
+2019,Broj,engineering_manufacturing_and_construction,Oba spola,495
+2019,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,Oba spola,154
+2019,Broj,health_and_social_protection,Oba spola,277
+2019,Broj,services,Oba spola,224
+2019,Broj,Nepoznato,Oba spola,43
+2019,Broj,Ukupno,M,1268
+2019,Broj,education,M,101
+2019,Broj,arts_and_humanities,M,62
+2019,Broj,social_sciences_journalism_and_information,M,171
+2019,Broj,business_administration_and_the_law_of_everything,M,243
+2019,Broj,natural_sciences_mathematics_and_statistics_of_all,M,53
+2019,Broj,information and communication technologies,M,82
+2019,Broj,engineering_manufacturing_and_construction,M,282
+2019,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,M,65
+2019,Broj,health_and_social_protection,M,60
+2019,Broj,services,M,129
+2019,Broj,Nepoznato,M,20
+2019,Broj,Ukupno,Ž,2120
+2019,Broj,education,Ž,323
+2019,Broj,arts_and_humanities,Ž,205
+2019,Broj,social_sciences_journalism_and_information,Ž,287
+2019,Broj,business_administration_and_the_law_of_everything,Ž,392
+2019,Broj,natural_sciences_mathematics_and_statistics_of_all,Ž,219
+2019,Broj,information and communication technologies,Ž,57
+2019,Broj,engineering_manufacturing_and_construction,Ž,213
+2019,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,Ž,89
+2019,Broj,health_and_social_protection,Ž,217
+2019,Broj,services,Ž,95
+2019,Broj,Nepoznato,Ž,23
+2020,Broj,Ukupno,Oba spola,3158
+2020,Broj,education,Oba spola,490
+2020,Broj,arts_and_humanities,Oba spola,257
+2020,Broj,social_sciences_journalism_and_information,Oba spola,675
+2020,Broj,business_administration_and_the_law_of_everything,Oba spola,266
+2020,Broj,natural_sciences_mathematics_and_statistics_of_all,Oba spola,194
+2020,Broj,information and communication technologies,Oba spola,86
+2020,Broj,engineering_manufacturing_and_construction,Oba spola,571
+2020,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,Oba spola,191
+2020,Broj,health_and_social_protection,Oba spola,252
+2020,Broj,services,Oba spola,130
+2020,Broj,Nepoznato,Oba spola,46
+2020,Broj,Ukupno,M,1118
+2020,Broj,education,M,78
+2020,Broj,arts_and_humanities,M,60
+2020,Broj,social_sciences_journalism_and_information,M,240
+2020,Broj,business_administration_and_the_law_of_everything,M,96
+2020,Broj,natural_sciences_mathematics_and_statistics_of_all,M,36
+2020,Broj,information and communication technologies,M,54
+2020,Broj,engineering_manufacturing_and_construction,M,322
+2020,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,M,75
+2020,Broj,health_and_social_protection,M,69
+2020,Broj,services,M,73
+2020,Broj,Nepoznato,M,15
+2020,Broj,Ukupno,Ž,2040
+2020,Broj,education,Ž,412
+2020,Broj,arts_and_humanities,Ž,197
+2020,Broj,social_sciences_journalism_and_information,Ž,435
+2020,Broj,business_administration_and_the_law_of_everything,Ž,170
+2020,Broj,natural_sciences_mathematics_and_statistics_of_all,Ž,158
+2020,Broj,information and communication technologies,Ž,32
+2020,Broj,engineering_manufacturing_and_construction,Ž,249
+2020,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,Ž,116
+2020,Broj,health_and_social_protection,Ž,183
+2020,Broj,services,Ž,57
+2020,Broj,Nepoznato,Ž,31
