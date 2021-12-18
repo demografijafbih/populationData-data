@@ -1,31 +1,10 @@
 Year,UNIT_MEASURE,Sex,Value
-2011,Number,Both sexes,
-2012,Number,Both sexes,
-2013,Number,Both sexes,
-2014,Number,Both sexes,
-2015,Number,Both sexes,
-2016,Number,Both sexes,
-2017,Number,Both sexes,
-2018,Number,Both sexes,
-2019,Number,Both sexes,
-2020,Number,Both sexes,
-2011,Number,M,
-2012,Number,M,
-2013,Number,M,
-2014,Number,M,
-2015,Number,M,
-2016,Number,M,
-2017,Number,M,
-2018,Number,M,
-2019,Number,M,
-2020,Number,M,
-2011,Number,F,
-2012,Number,F,
-2013,Number,F,
-2014,Number,F,
-2015,Number,F,
-2016,Number,F,
-2017,Number,F,
-2018,Number,F,
-2019,Number,F,
-2020,Number,F,
+2018,Number,Both sexes,193
+2019,Number,Both sexes,166
+2020,Number,Both sexes,148
+2018,Number,M,106
+2019,Number,M,97
+2020,Number,M,90
+2018,Number,F,87
+2019,Number,F,69
+2020,Number,F,58
