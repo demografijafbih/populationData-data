@@ -1193,6 +1193,45 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "25 - 34",
+                "26 - 34",
+                "27 - 34",
+                "35 - 44",
+                "35 - 54",
+                "36 - 44",
+                "36 - 54",
+                "37 - 44",
+                "37 - 54",
+                "45 - 54",
+                "46 - 54",
+                "47 - 54",
+                "55 - 64",
+                "56 - 64",
+                "57 - 64",
+                "Total"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
@@ -1206,19 +1245,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "type_of_institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "Private",
-                "Public"
-              ]
-            },
-            "title": "Type of institution"
           }
         ]
       },
