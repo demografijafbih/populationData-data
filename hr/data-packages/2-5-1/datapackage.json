@@ -16,6 +16,19 @@
             "title": "Godina"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupno",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
             "name": "Type_of_disability",
             "type": "string",
             "constraints": {
@@ -31,19 +44,6 @@
               ]
             },
             "title": "Vrsta invaliditeta"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupno",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
           },
           {
             "name": "AGE",

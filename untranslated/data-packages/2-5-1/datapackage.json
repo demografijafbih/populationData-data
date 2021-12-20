@@ -15,6 +15,18 @@
             "type": "integer"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Type_of_disability",
             "type": "string",
             "constraints": {
@@ -26,18 +38,6 @@
                 "self_care",
                 "Communication",
                 "multiple_disabilities",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
                 ""
               ]
             }

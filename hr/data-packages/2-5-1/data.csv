@@ -1,155 +1,155 @@
-Year,Vrsta invaliditeta,Spol,Starosna dob,UNIT_MEASURE,Value
-2013,Seeing,Oba spola,0-14,Broj,1084
-2013,Hearing,Oba spola,0-14,Broj,262
-2013,walking_or_climbing_up_the_stairs,Oba spola,0-14,Broj,671
-2013,remembering_or_concentration,Oba spola,0-14,Broj,200
-2013,self_care,Oba spola,0-14,Broj,164
-2013,Communication,Oba spola,0-14,Broj,318
-2013,multiple_disabilities,Oba spola,0-14,Broj,1826
-2013,Seeing,Oba spola,15-19,Broj,862
-2013,Hearing,Oba spola,15-19,Broj,191
-2013,walking_or_climbing_up_the_stairs,Oba spola,15-19,Broj,478
-2013,remembering_or_concentration,Oba spola,15-19,Broj,129
-2013,self_care,Oba spola,15-19,Broj,32
-2013,Communication,Oba spola,15-19,Broj,112
-2013,multiple_disabilities,Oba spola,15-19,Broj,1082
-2013,Seeing,Oba spola,20-29,Broj,1819
-2013,Hearing,Oba spola,20-29,Broj,370
-2013,walking_or_climbing_up_the_stairs,Oba spola,20-29,Broj,1350
-2013,remembering_or_concentration,Oba spola,20-29,Broj,380
-2013,self_care,Oba spola,20-29,Broj,72
-2013,Communication,Oba spola,20-29,Broj,208
-2013,multiple_disabilities,Oba spola,20-29,Broj,2199
-2013,Seeing,Oba spola,30-49,Broj,7841
-2013,Hearing,Oba spola,30-49,Broj,2460
-2013,walking_or_climbing_up_the_stairs,Oba spola,30-49,Broj,15862
-2013,remembering_or_concentration,Oba spola,30-49,Broj,2337
-2013,self_care,Oba spola,30-49,Broj,319
-2013,Communication,Oba spola,30-49,Broj,683
-2013,multiple_disabilities,Oba spola,30-49,Broj,10694
-2013,Seeing,Oba spola,50-59,Broj,12870
-2013,Hearing,Oba spola,50-59,Broj,3498
-2013,walking_or_climbing_up_the_stairs,Oba spola,50-59,Broj,21484
-2013,remembering_or_concentration,Oba spola,50-59,Broj,2035
-2013,self_care,Oba spola,50-59,Broj,259
-2013,Communication,Oba spola,50-59,Broj,488
-2013,multiple_disabilities,Oba spola,50-59,Broj,16861
-2013,Seeing,Oba spola,60-64,Broj,7189
-2013,Hearing,Oba spola,60-64,Broj,2289
-2013,walking_or_climbing_up_the_stairs,Oba spola,60-64,Broj,12727
-2013,remembering_or_concentration,Oba spola,60-64,Broj,870
-2013,self_care,Oba spola,60-64,Broj,100
-2013,Communication,Oba spola,60-64,Broj,259
-2013,multiple_disabilities,Oba spola,60-64,Broj,11125
-2013,Seeing,Oba spola,60-64,Broj,20636
-2013,Hearing,Oba spola,60-64,Broj,12505
-2013,walking_or_climbing_up_the_stairs,Oba spola,60-64,Broj,44406
-2013,remembering_or_concentration,Oba spola,60-64,Broj,2836
-2013,self_care,Oba spola,60-64,Broj,587
-2013,Communication,Oba spola,60-64,Broj,586
-2013,multiple_disabilities,Oba spola,60-64,Broj,66443
-2013,Seeing,Oba spola,65+,Broj,20636
-2013,Hearing,Oba spola,65+,Broj,12505
-2013,walking_or_climbing_up_the_stairs,Oba spola,65+,Broj,44406
-2013,remembering_or_concentration,Oba spola,65+,Broj,2836
-2013,self_care,Oba spola,65+,Broj,587
-2013,Communication,Oba spola,65+,Broj,586
-2013,multiple_disabilities,Oba spola,65+,Broj,66443
-2013,Seeing,M,0-14,Broj,571
-2013,Hearing,M,0-14,Broj,146
-2013,walking_or_climbing_up_the_stairs,M,0-14,Broj,370
-2013,remembering_or_concentration,M,0-14,Broj,123
-2013,self_care,M,0-14,Broj,104
-2013,Communication,M,0-14,Broj,215
-2013,multiple_disabilities,M,0-14,Broj,1077
-2013,Seeing,M,15-19,Broj,430
-2013,Hearing,M,15-19,Broj,101
-2013,walking_or_climbing_up_the_stairs,M,15-19,Broj,268
-2013,remembering_or_concentration,M,15-19,Broj,95
-2013,self_care,M,15-19,Broj,19
-2013,Communication,M,15-19,Broj,75
-2013,multiple_disabilities,M,15-19,Broj,653
-2013,Seeing,M,20-29,Broj,976
-2013,Hearing,M,20-29,Broj,223
-2013,walking_or_climbing_up_the_stairs,M,20-29,Broj,883
-2013,remembering_or_concentration,M,20-29,Broj,256
-2013,self_care,M,20-29,Broj,44
-2013,Communication,M,20-29,Broj,133
-2013,multiple_disabilities,M,20-29,Broj,1306
-2013,Seeing,M,30-49,Broj,4313
-2013,Hearing,M,30-49,Broj,1722
-2013,walking_or_climbing_up_the_stairs,M,30-49,Broj,10912
-2013,remembering_or_concentration,M,30-49,Broj,1488
-2013,self_care,M,30-49,Broj,216
-2013,Communication,M,30-49,Broj,442
-2013,multiple_disabilities,M,30-49,Broj,6669
-2013,Seeing,M,50-59,Broj,6088
-2013,Hearing,M,50-59,Broj,2282
-2013,walking_or_climbing_up_the_stairs,M,50-59,Broj,11557
-2013,remembering_or_concentration,M,50-59,Broj,1170
-2013,self_care,M,50-59,Broj,179
-2013,Communication,M,50-59,Broj,338
-2013,multiple_disabilities,M,50-59,Broj,9039
-2013,Seeing,M,60-64,Broj,3155
-2013,Hearing,M,60-64,Broj,1432
-2013,walking_or_climbing_up_the_stairs,M,60-64,Broj,5672
-2013,remembering_or_concentration,M,60-64,Broj,440
-2013,self_care,M,60-64,Broj,57
-2013,Communication,M,60-64,Broj,198
-2013,multiple_disabilities,M,60-64,Broj,5203
-2013,Seeing,M,65+,Broj,8036
-2013,Hearing,M,65+,Broj,6620
-2013,walking_or_climbing_up_the_stairs,M,65+,Broj,13529
-2013,remembering_or_concentration,M,65+,Broj,1092
-2013,self_care,M,65+,Broj,266
-2013,Communication,M,65+,Broj,360
-2013,multiple_disabilities,M,65+,Broj,22432
-2013,Seeing,Ž,0-14,Broj,513
-2013,Hearing,Ž,0-14,Broj,116
-2013,walking_or_climbing_up_the_stairs,Ž,0-14,Broj,301
-2013,remembering_or_concentration,Ž,0-14,Broj,77
-2013,self_care,Ž,0-14,Broj,60
-2013,Communication,Ž,0-14,Broj,103
-2013,multiple_disabilities,Ž,0-14,Broj,749
-2013,Seeing,Ž,15-19,Broj,432
-2013,Hearing,Ž,15-19,Broj,90
-2013,walking_or_climbing_up_the_stairs,Ž,15-19,Broj,210
-2013,remembering_or_concentration,Ž,15-19,Broj,34
-2013,self_care,Ž,15-19,Broj,13
-2013,Communication,Ž,15-19,Broj,37
-2013,multiple_disabilities,Ž,15-19,Broj,429
-2013,Seeing,Ž,20-29,Broj,843
-2013,Hearing,Ž,20-29,Broj,147
-2013,walking_or_climbing_up_the_stairs,Ž,20-29,Broj,467
-2013,remembering_or_concentration,Ž,20-29,Broj,124
-2013,self_care,Ž,20-29,Broj,28
-2013,Communication,Ž,20-29,Broj,75
-2013,multiple_disabilities,Ž,20-29,Broj,893
-2013,Seeing,Ž,30-49,Broj,3528
-2013,Hearing,Ž,30-49,Broj,738
-2013,walking_or_climbing_up_the_stairs,Ž,30-49,Broj,4950
-2013,remembering_or_concentration,Ž,30-49,Broj,849
-2013,self_care,Ž,30-49,Broj,103
-2013,Communication,Ž,30-49,Broj,241
-2013,multiple_disabilities,Ž,30-49,Broj,4025
-2013,Seeing,Ž,50-59,Broj,6782
-2013,Hearing,Ž,50-59,Broj,1216
-2013,walking_or_climbing_up_the_stairs,Ž,50-59,Broj,9927
-2013,remembering_or_concentration,Ž,50-59,Broj,865
-2013,self_care,Ž,50-59,Broj,80
-2013,Communication,Ž,50-59,Broj,150
-2013,multiple_disabilities,Ž,50-59,Broj,7822
-2013,Seeing,Ž,60-64,Broj,4034
-2013,Hearing,Ž,60-64,Broj,857
-2013,walking_or_climbing_up_the_stairs,Ž,60-64,Broj,7055
-2013,remembering_or_concentration,Ž,60-64,Broj,430
-2013,self_care,Ž,60-64,Broj,43
-2013,Communication,Ž,60-64,Broj,61
-2013,multiple_disabilities,Ž,60-64,Broj,5922
-2013,Seeing,Ž,65+,Broj,12600
-2013,Hearing,Ž,65+,Broj,5885
-2013,walking_or_climbing_up_the_stairs,Ž,65+,Broj,30877
-2013,remembering_or_concentration,Ž,65+,Broj,1744
-2013,self_care,Ž,65+,Broj,321
-2013,Communication,Ž,65+,Broj,226
-2013,multiple_disabilities,Ž,65+,Broj,44011
+Year,Spol,Vrsta invaliditeta,Starosna dob,UNIT_MEASURE,Value
+2013,Oba spola,Seeing,0-14,Broj,1084
+2013,Oba spola,Hearing,0-14,Broj,262
+2013,Oba spola,walking_or_climbing_up_the_stairs,0-14,Broj,671
+2013,Oba spola,remembering_or_concentration,0-14,Broj,200
+2013,Oba spola,self_care,0-14,Broj,164
+2013,Oba spola,Communication,0-14,Broj,318
+2013,Oba spola,multiple_disabilities,0-14,Broj,1826
+2013,Oba spola,Seeing,15-19,Broj,862
+2013,Oba spola,Hearing,15-19,Broj,191
+2013,Oba spola,walking_or_climbing_up_the_stairs,15-19,Broj,478
+2013,Oba spola,remembering_or_concentration,15-19,Broj,129
+2013,Oba spola,self_care,15-19,Broj,32
+2013,Oba spola,Communication,15-19,Broj,112
+2013,Oba spola,multiple_disabilities,15-19,Broj,1082
+2013,Oba spola,Seeing,20-29,Broj,1819
+2013,Oba spola,Hearing,20-29,Broj,370
+2013,Oba spola,walking_or_climbing_up_the_stairs,20-29,Broj,1350
+2013,Oba spola,remembering_or_concentration,20-29,Broj,380
+2013,Oba spola,self_care,20-29,Broj,72
+2013,Oba spola,Communication,20-29,Broj,208
+2013,Oba spola,multiple_disabilities,20-29,Broj,2199
+2013,Oba spola,Seeing,30-49,Broj,7841
+2013,Oba spola,Hearing,30-49,Broj,2460
+2013,Oba spola,walking_or_climbing_up_the_stairs,30-49,Broj,15862
+2013,Oba spola,remembering_or_concentration,30-49,Broj,2337
+2013,Oba spola,self_care,30-49,Broj,319
+2013,Oba spola,Communication,30-49,Broj,683
+2013,Oba spola,multiple_disabilities,30-49,Broj,10694
+2013,Oba spola,Seeing,50-59,Broj,12870
+2013,Oba spola,Hearing,50-59,Broj,3498
+2013,Oba spola,walking_or_climbing_up_the_stairs,50-59,Broj,21484
+2013,Oba spola,remembering_or_concentration,50-59,Broj,2035
+2013,Oba spola,self_care,50-59,Broj,259
+2013,Oba spola,Communication,50-59,Broj,488
+2013,Oba spola,multiple_disabilities,50-59,Broj,16861
+2013,Oba spola,Seeing,60-64,Broj,7189
+2013,Oba spola,Hearing,60-64,Broj,2289
+2013,Oba spola,walking_or_climbing_up_the_stairs,60-64,Broj,12727
+2013,Oba spola,remembering_or_concentration,60-64,Broj,870
+2013,Oba spola,self_care,60-64,Broj,100
+2013,Oba spola,Communication,60-64,Broj,259
+2013,Oba spola,multiple_disabilities,60-64,Broj,11125
+2013,Oba spola,Seeing,60-64,Broj,20636
+2013,Oba spola,Hearing,60-64,Broj,12505
+2013,Oba spola,walking_or_climbing_up_the_stairs,60-64,Broj,44406
+2013,Oba spola,remembering_or_concentration,60-64,Broj,2836
+2013,Oba spola,self_care,60-64,Broj,587
+2013,Oba spola,Communication,60-64,Broj,586
+2013,Oba spola,multiple_disabilities,60-64,Broj,66443
+2013,Oba spola,Seeing,65+,Broj,20636
+2013,Oba spola,Hearing,65+,Broj,12505
+2013,Oba spola,walking_or_climbing_up_the_stairs,65+,Broj,44406
+2013,Oba spola,remembering_or_concentration,65+,Broj,2836
+2013,Oba spola,self_care,65+,Broj,587
+2013,Oba spola,Communication,65+,Broj,586
+2013,Oba spola,multiple_disabilities,65+,Broj,66443
+2013,M,Seeing,0-14,Broj,571
+2013,M,Hearing,0-14,Broj,146
+2013,M,walking_or_climbing_up_the_stairs,0-14,Broj,370
+2013,M,remembering_or_concentration,0-14,Broj,123
+2013,M,self_care,0-14,Broj,104
+2013,M,Communication,0-14,Broj,215
+2013,M,multiple_disabilities,0-14,Broj,1077
+2013,M,Seeing,15-19,Broj,430
+2013,M,Hearing,15-19,Broj,101
+2013,M,walking_or_climbing_up_the_stairs,15-19,Broj,268
+2013,M,remembering_or_concentration,15-19,Broj,95
+2013,M,self_care,15-19,Broj,19
+2013,M,Communication,15-19,Broj,75
+2013,M,multiple_disabilities,15-19,Broj,653
+2013,M,Seeing,20-29,Broj,976
+2013,M,Hearing,20-29,Broj,223
+2013,M,walking_or_climbing_up_the_stairs,20-29,Broj,883
+2013,M,remembering_or_concentration,20-29,Broj,256
+2013,M,self_care,20-29,Broj,44
+2013,M,Communication,20-29,Broj,133
+2013,M,multiple_disabilities,20-29,Broj,1306
+2013,M,Seeing,30-49,Broj,4313
+2013,M,Hearing,30-49,Broj,1722
+2013,M,walking_or_climbing_up_the_stairs,30-49,Broj,10912
+2013,M,remembering_or_concentration,30-49,Broj,1488
+2013,M,self_care,30-49,Broj,216
+2013,M,Communication,30-49,Broj,442
+2013,M,multiple_disabilities,30-49,Broj,6669
+2013,M,Seeing,50-59,Broj,6088
+2013,M,Hearing,50-59,Broj,2282
+2013,M,walking_or_climbing_up_the_stairs,50-59,Broj,11557
+2013,M,remembering_or_concentration,50-59,Broj,1170
+2013,M,self_care,50-59,Broj,179
+2013,M,Communication,50-59,Broj,338
+2013,M,multiple_disabilities,50-59,Broj,9039
+2013,M,Seeing,60-64,Broj,3155
+2013,M,Hearing,60-64,Broj,1432
+2013,M,walking_or_climbing_up_the_stairs,60-64,Broj,5672
+2013,M,remembering_or_concentration,60-64,Broj,440
+2013,M,self_care,60-64,Broj,57
+2013,M,Communication,60-64,Broj,198
+2013,M,multiple_disabilities,60-64,Broj,5203
+2013,M,Seeing,65+,Broj,8036
+2013,M,Hearing,65+,Broj,6620
+2013,M,walking_or_climbing_up_the_stairs,65+,Broj,13529
+2013,M,remembering_or_concentration,65+,Broj,1092
+2013,M,self_care,65+,Broj,266
+2013,M,Communication,65+,Broj,360
+2013,M,multiple_disabilities,65+,Broj,22432
+2013,Ž,Seeing,0-14,Broj,513
+2013,Ž,Hearing,0-14,Broj,116
+2013,Ž,walking_or_climbing_up_the_stairs,0-14,Broj,301
+2013,Ž,remembering_or_concentration,0-14,Broj,77
+2013,Ž,self_care,0-14,Broj,60
+2013,Ž,Communication,0-14,Broj,103
+2013,Ž,multiple_disabilities,0-14,Broj,749
+2013,Ž,Seeing,15-19,Broj,432
+2013,Ž,Hearing,15-19,Broj,90
+2013,Ž,walking_or_climbing_up_the_stairs,15-19,Broj,210
+2013,Ž,remembering_or_concentration,15-19,Broj,34
+2013,Ž,self_care,15-19,Broj,13
+2013,Ž,Communication,15-19,Broj,37
+2013,Ž,multiple_disabilities,15-19,Broj,429
+2013,Ž,Seeing,20-29,Broj,843
+2013,Ž,Hearing,20-29,Broj,147
+2013,Ž,walking_or_climbing_up_the_stairs,20-29,Broj,467
+2013,Ž,remembering_or_concentration,20-29,Broj,124
+2013,Ž,self_care,20-29,Broj,28
+2013,Ž,Communication,20-29,Broj,75
+2013,Ž,multiple_disabilities,20-29,Broj,893
+2013,Ž,Seeing,30-49,Broj,3528
+2013,Ž,Hearing,30-49,Broj,738
+2013,Ž,walking_or_climbing_up_the_stairs,30-49,Broj,4950
+2013,Ž,remembering_or_concentration,30-49,Broj,849
+2013,Ž,self_care,30-49,Broj,103
+2013,Ž,Communication,30-49,Broj,241
+2013,Ž,multiple_disabilities,30-49,Broj,4025
+2013,Ž,Seeing,50-59,Broj,6782
+2013,Ž,Hearing,50-59,Broj,1216
+2013,Ž,walking_or_climbing_up_the_stairs,50-59,Broj,9927
+2013,Ž,remembering_or_concentration,50-59,Broj,865
+2013,Ž,self_care,50-59,Broj,80
+2013,Ž,Communication,50-59,Broj,150
+2013,Ž,multiple_disabilities,50-59,Broj,7822
+2013,Ž,Seeing,60-64,Broj,4034
+2013,Ž,Hearing,60-64,Broj,857
+2013,Ž,walking_or_climbing_up_the_stairs,60-64,Broj,7055
+2013,Ž,remembering_or_concentration,60-64,Broj,430
+2013,Ž,self_care,60-64,Broj,43
+2013,Ž,Communication,60-64,Broj,61
+2013,Ž,multiple_disabilities,60-64,Broj,5922
+2013,Ž,Seeing,65+,Broj,12600
+2013,Ž,Hearing,65+,Broj,5885
+2013,Ž,walking_or_climbing_up_the_stairs,65+,Broj,30877
+2013,Ž,remembering_or_concentration,65+,Broj,1744
+2013,Ž,self_care,65+,Broj,321
+2013,Ž,Communication,65+,Broj,226
+2013,Ž,multiple_disabilities,65+,Broj,44011

@@ -16,6 +16,19 @@
             "title": "Година"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупно",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
             "name": "Type_of_disability",
             "type": "string",
             "constraints": {
@@ -31,19 +44,6 @@
               ]
             },
             "title": "Врста инвалидитета"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Укупно",
-                "M",
-                "Ж",
-                ""
-              ]
-            },
-            "title": "Пол"
           },
           {
             "name": "AGE",
