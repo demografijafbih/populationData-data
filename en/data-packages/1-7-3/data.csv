@@ -35,18 +35,6 @@ Year,UNIT_MEASURE,Type of dependency ratio,Sex,Value
 2060,%,Old-age support ratio,Both sexes,88.59
 2065,%,Old-age support ratio,Both sexes,93.58
 2070,%,Old-age support ratio,Both sexes,94.04
-2018,%,Older persons to youth ratio,Both sexes,115.71
-2020,%,Older persons to youth ratio,Both sexes,128.11
-2025,%,Older persons to youth ratio,Both sexes,165.41
-2030,%,Older persons to youth ratio,Both sexes,206.01
-2035,%,Older persons to youth ratio,Both sexes,245.28
-2040,%,Older persons to youth ratio,Both sexes,286.61
-2045,%,Older persons to youth ratio,Both sexes,325.51
-2050,%,Older persons to youth ratio,Both sexes,359.64
-2055,%,Older persons to youth ratio,Both sexes,386.67
-2060,%,Older persons to youth ratio,Both sexes,405.45
-2065,%,Older persons to youth ratio,Both sexes,420.87
-2070,%,Older persons to youth ratio,Both sexes,424.86
 2018,%,Total support ratio,M,44.32
 2020,%,Total support ratio,M,47.11
 2025,%,Total support ratio,M,53.97
@@ -83,18 +71,6 @@ Year,UNIT_MEASURE,Type of dependency ratio,Sex,Value
 2060,%,Old-age support ratio,M,88.59
 2065,%,Old-age support ratio,M,93.58
 2070,%,Old-age support ratio,M,94.04
-2018,%,Older persons to youth ratio,M,115.71
-2020,%,Older persons to youth ratio,M,128.11
-2025,%,Older persons to youth ratio,M,165.41
-2030,%,Older persons to youth ratio,M,206.01
-2035,%,Older persons to youth ratio,M,245.28
-2040,%,Older persons to youth ratio,M,286.61
-2045,%,Older persons to youth ratio,M,325.51
-2050,%,Older persons to youth ratio,M,359.64
-2055,%,Older persons to youth ratio,M,386.67
-2060,%,Older persons to youth ratio,M,405.45
-2065,%,Older persons to youth ratio,M,420.87
-2070,%,Older persons to youth ratio,M,424.86
 2018,%,Total support ratio,F,44.32
 2020,%,Total support ratio,F,47.11
 2025,%,Total support ratio,F,53.97
@@ -131,15 +107,3 @@ Year,UNIT_MEASURE,Type of dependency ratio,Sex,Value
 2060,%,Old-age support ratio,F,88.59
 2065,%,Old-age support ratio,F,93.58
 2070,%,Old-age support ratio,F,94.04
-2018,%,Older persons to youth ratio,F,115.71
-2020,%,Older persons to youth ratio,F,128.11
-2025,%,Older persons to youth ratio,F,165.41
-2030,%,Older persons to youth ratio,F,206.01
-2035,%,Older persons to youth ratio,F,245.28
-2040,%,Older persons to youth ratio,F,286.61
-2045,%,Older persons to youth ratio,F,325.51
-2050,%,Older persons to youth ratio,F,359.64
-2055,%,Older persons to youth ratio,F,386.67
-2060,%,Older persons to youth ratio,F,405.45
-2065,%,Older persons to youth ratio,F,420.87
-2070,%,Older persons to youth ratio,F,424.86
