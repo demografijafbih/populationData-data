@@ -16,11 +16,6 @@
             "title": "Година"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -45,6 +40,11 @@
               ]
             },
             "title": "Старосна доб"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
           },
           {
             "name": "Value",

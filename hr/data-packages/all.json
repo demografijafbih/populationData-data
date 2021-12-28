@@ -4459,11 +4459,6 @@
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -4488,6 +4483,11 @@
               ]
             },
             "title": "Starosna dob"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
