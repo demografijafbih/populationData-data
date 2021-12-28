@@ -1,31 +1,44 @@
-Year,UNIT_MEASURE,Sex,Value
-2011,Number,Both sexes,27.7
-2012,Number,Both sexes,28.4
-2013,Number,Both sexes,25.8
-2014,Number,Both sexes,26.1
-2015,Number,Both sexes,27.7
-2016,Number,Both sexes,26.4
-2017,Number,Both sexes,24.3
-2018,Number,Both sexes,21.6
-2019,Number,Both sexes,21.0
-2020,Number,Both sexes,21.6
-2011,Number,M,29.2
-2012,Number,M,30.5
-2013,Number,M,27.4
-2014,Number,M,27.9
-2015,Number,M,29.2
-2016,Number,M,28.0
-2017,Number,M,24.5
-2018,Number,M,22.1
-2019,Number,M,20.7
-2020,Number,M,20.3
-2011,Number,F,26.1
-2012,Number,F,26.2
-2013,Number,F,24.1
-2014,Number,F,24.0
-2015,Number,F,26.0
-2016,Number,F,24.7
-2017,Number,F,24.0
-2018,Number,F,21.1
-2019,Number,F,21.4
-2020,Number,F,23.0
+Year,UNIT_MEASURE,Sex,Age,Value
+2011.0,Number,Both sexes,15-24,27.7
+2012.0,Number,Both sexes,15-24,28.4
+2013.0,Number,Both sexes,15-24,25.8
+2014.0,Number,Both sexes,15-24,26.1
+2015.0,Number,Both sexes,15-24,27.7
+2016.0,Number,Both sexes,15-24,26.4
+2017.0,Number,Both sexes,15-24,24.3
+2018.0,Number,Both sexes,15-24,21.6
+2019.0,Number,Both sexes,15-24,21.0
+2020.0,Number,Both sexes,15-24,21.6
+2015.0,Number,Both sexes,25-29,44.6
+2016.0,Number,Both sexes,25-29,42.6
+2017.0,Number,Both sexes,25-29,39.5
+2018.0,Number,Both sexes,25-29,35.9
+2019.0,Number,Both sexes,25-29,36.2
+2020.0,Number,Both sexes,25-29,34.3
+2015.0,Number,Both sexes,15-29,32.8
+2016.0,Number,Both sexes,15-29,31.4
+2017.0,Number,Both sexes,15-29,28.8
+2018.0,Number,Both sexes,15-29,25.5
+2019.0,Number,Both sexes,15-29,25.0
+2020.0,Number,Both sexes,15-29,25.9
+2011.0,Number,M,15-24,29.2
+2012.0,Number,M,15-24,30.5
+2013.0,Number,M,15-24,27.4
+2014.0,Number,M,15-24,27.9
+2015.0,Number,M,15-24,29.2
+2016.0,Number,M,15-24,28.0
+2017.0,Number,M,15-24,24.5
+2018.0,Number,M,15-24,22.1
+2019.0,Number,M,15-24,20.7
+2020.0,Number,M,15-24,20.3
+2011.0,Number,F,15-24,26.1
+2012.0,Number,F,15-24,26.2
+2013.0,Number,F,15-24,24.1
+2014.0,Number,F,15-24,24.0
+2015.0,Number,F,15-24,26.0
+2016.0,Number,F,15-24,24.7
+2017.0,Number,F,15-24,24.0
+2018.0,Number,F,15-24,21.1
+2019.0,Number,F,15-24,21.4
+2020.0,Number,F,15-24,23.0
+,,,,

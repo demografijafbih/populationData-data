@@ -11,6 +11,19 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "15-24",
+                "15-29",
+                "25-29"
+              ]
+            },
+            "title": "Age"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -35,7 +48,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]

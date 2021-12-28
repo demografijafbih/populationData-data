@@ -1,31 +1,44 @@
-Year,UNIT_MEASURE,Spol,Value
-2011,Broj,Oba spola,27.7
-2012,Broj,Oba spola,28.4
-2013,Broj,Oba spola,25.8
-2014,Broj,Oba spola,26.1
-2015,Broj,Oba spola,27.7
-2016,Broj,Oba spola,26.4
-2017,Broj,Oba spola,24.3
-2018,Broj,Oba spola,21.6
-2019,Broj,Oba spola,21.0
-2020,Broj,Oba spola,21.6
-2011,Broj,M,29.2
-2012,Broj,M,30.5
-2013,Broj,M,27.4
-2014,Broj,M,27.9
-2015,Broj,M,29.2
-2016,Broj,M,28.0
-2017,Broj,M,24.5
-2018,Broj,M,22.1
-2019,Broj,M,20.7
-2020,Broj,M,20.3
-2011,Broj,Ž,26.1
-2012,Broj,Ž,26.2
-2013,Broj,Ž,24.1
-2014,Broj,Ž,24.0
-2015,Broj,Ž,26.0
-2016,Broj,Ž,24.7
-2017,Broj,Ž,24.0
-2018,Broj,Ž,21.1
-2019,Broj,Ž,21.4
-2020,Broj,Ž,23.0
+Year,UNIT_MEASURE,Spol,Starosna dob,Value
+2011.0,Broj,Oba spola,15-24,27.7
+2012.0,Broj,Oba spola,15-24,28.4
+2013.0,Broj,Oba spola,15-24,25.8
+2014.0,Broj,Oba spola,15-24,26.1
+2015.0,Broj,Oba spola,15-24,27.7
+2016.0,Broj,Oba spola,15-24,26.4
+2017.0,Broj,Oba spola,15-24,24.3
+2018.0,Broj,Oba spola,15-24,21.6
+2019.0,Broj,Oba spola,15-24,21.0
+2020.0,Broj,Oba spola,15-24,21.6
+2015.0,Broj,Oba spola,25-29,44.6
+2016.0,Broj,Oba spola,25-29,42.6
+2017.0,Broj,Oba spola,25-29,39.5
+2018.0,Broj,Oba spola,25-29,35.9
+2019.0,Broj,Oba spola,25-29,36.2
+2020.0,Broj,Oba spola,25-29,34.3
+2015.0,Broj,Oba spola,15-29,32.8
+2016.0,Broj,Oba spola,15-29,31.4
+2017.0,Broj,Oba spola,15-29,28.8
+2018.0,Broj,Oba spola,15-29,25.5
+2019.0,Broj,Oba spola,15-29,25.0
+2020.0,Broj,Oba spola,15-29,25.9
+2011.0,Broj,M,15-24,29.2
+2012.0,Broj,M,15-24,30.5
+2013.0,Broj,M,15-24,27.4
+2014.0,Broj,M,15-24,27.9
+2015.0,Broj,M,15-24,29.2
+2016.0,Broj,M,15-24,28.0
+2017.0,Broj,M,15-24,24.5
+2018.0,Broj,M,15-24,22.1
+2019.0,Broj,M,15-24,20.7
+2020.0,Broj,M,15-24,20.3
+2011.0,Broj,Ž,15-24,26.1
+2012.0,Broj,Ž,15-24,26.2
+2013.0,Broj,Ž,15-24,24.1
+2014.0,Broj,Ž,15-24,24.0
+2015.0,Broj,Ž,15-24,26.0
+2016.0,Broj,Ž,15-24,24.7
+2017.0,Broj,Ž,15-24,24.0
+2018.0,Broj,Ž,15-24,21.1
+2019.0,Broj,Ž,15-24,21.4
+2020.0,Broj,Ž,15-24,23.0
+,,,,

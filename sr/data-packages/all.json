@@ -4455,7 +4455,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Година"
           },
           {
@@ -4475,6 +4475,19 @@
               ]
             },
             "title": "Пол"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-29",
+                "15-29",
+                ""
+              ]
+            },
+            "title": "Старосна доб"
           },
           {
             "name": "Value",

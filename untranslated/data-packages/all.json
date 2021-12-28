@@ -4105,7 +4105,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4119,6 +4119,18 @@
                 "_T",
                 "M",
                 "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-29",
+                "15-29",
                 ""
               ]
             }
