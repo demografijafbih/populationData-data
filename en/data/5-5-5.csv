@@ -9,7 +9,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,"Engineering, manufacturing and construction",Both sexes,1879
 2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,694
 2018,Number,Health and social protection,Both sexes,1050
-2018,Number,services,Both sexes,390
+2018,Number,Services,Both sexes,390
 2018,Number,Unknown,Both sexes,72
 2018,Number,Total,M,4563
 2018,Number,Education,M,286
@@ -21,7 +21,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,"Engineering, manufacturing and construction",M,1100
 2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,303
 2018,Number,Health and social protection,M,231
-2018,Number,services,M,209
+2018,Number,Services,M,209
 2018,Number,Unknown,M,24
 2018,Number,Total,F,7520
 2018,Number,Education,F,902
@@ -33,7 +33,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,"Engineering, manufacturing and construction",F,779
 2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,391
 2018,Number,Health and social protection,F,819
-2018,Number,services,F,181
+2018,Number,Services,F,181
 2018,Number,Unknown,F,48
 2019,Number,Total,Both sexes,12449
 2019,Number,Education,Both sexes,1129
@@ -45,7 +45,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2019,Number,"Engineering, manufacturing and construction",Both sexes,1927
 2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,737
 2019,Number,Health and social protection,Both sexes,1158
-2019,Number,services,Both sexes,603
+2019,Number,Services,Both sexes,603
 2019,Number,Unknown,Both sexes,85
 2019,Number,Total,M,4808
 2019,Number,Education,M,324
@@ -57,7 +57,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2019,Number,"Engineering, manufacturing and construction",M,1103
 2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,316
 2019,Number,Health and social protection,M,271
-2019,Number,services,M,328
+2019,Number,Services,M,328
 2019,Number,Unknown,M,27
 2019,Number,Total,F,7641
 2019,Number,Education,F,805
@@ -69,7 +69,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2019,Number,"Engineering, manufacturing and construction",F,824
 2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,421
 2019,Number,Health and social protection,F,887
-2019,Number,services,F,275
+2019,Number,Services,F,275
 2019,Number,Unknown,F,58
 2020,Number,Total,Both sexes,13192
 2020,Number,Education,Both sexes,1268
@@ -81,7 +81,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,"Engineering, manufacturing and construction",Both sexes,1971
 2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,751
 2020,Number,Health and social protection,Both sexes,1345
-2020,Number,services,Both sexes,749
+2020,Number,Services,Both sexes,749
 2020,Number,Unknown,Both sexes,65
 2020,Number,Total,M,4945
 2020,Number,Education,M,323
@@ -93,7 +93,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,"Engineering, manufacturing and construction",M,1116
 2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,325
 2020,Number,Health and social protection,M,244
-2020,Number,services,M,372
+2020,Number,Services,M,372
 2020,Number,Unknown,M,22
 2020,Number,Total,F,8247
 2020,Number,Education,F,945
@@ -105,5 +105,5 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,"Engineering, manufacturing and construction",F,855
 2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,426
 2020,Number,Health and social protection,F,1101
-2020,Number,services,F,377
+2020,Number,Services,F,377
 2020,Number,Unknown,F,43
