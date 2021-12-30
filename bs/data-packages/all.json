@@ -265,35 +265,6 @@
       "title": "Broj doktora medicine zaposlenih u ustanovama za pružanje zdravstvene zaštite"
     },
     {
-      "path": "1-4-5/data.csv",
-      "name": "1-4-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Prosječna dob prilikom razvoda braka prema spolu"
-    },
-    {
       "path": "3-7-1/data.csv",
       "name": "3-7-1",
       "profile": "tabular-data-resource",
