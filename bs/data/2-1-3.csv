@@ -50,9 +50,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,Total,Cazin,66149
 2013,Broj,M,Total,Cazin,33072
 2013,Broj,Ž,Total,Cazin,33077
-2013,Broj,Oba spola,Total,Sarajevo - Centar,55181
-2013,Broj,M,Total,Sarajevo - Centar,25369
-2013,Broj,Ž,Total,Sarajevo - Centar,29812
+2013,Broj,Oba spola,Total,Sarajevo-Centar,55181
+2013,Broj,M,Total,Sarajevo-Centar,25369
+2013,Broj,Ž,Total,Sarajevo-Centar,29812
 2013,Broj,Oba spola,Total,Čajniče,4895
 2013,Broj,M,Total,Čajniče,2474
 2013,Broj,Ž,Total,Čajniče,2421
@@ -95,12 +95,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,Total,Drvar,7036
 2013,Broj,M,Total,Drvar,3473
 2013,Broj,Ž,Total,Drvar,3563
-2013,Broj,Oba spola,Total,Foča - FBIH,1933
-2013,Broj,M,Total,Foča - FBIH,998
-2013,Broj,Ž,Total,Foča - FBIH,935
-2013,Broj,Oba spola,Total,Foča - RS,18288
-2013,Broj,M,Total,Foča - RS,9236
-2013,Broj,Ž,Total,Foča - RS,9052
+2013,Broj,Oba spola,Total,Foča-FBiH,1933
+2013,Broj,M,Total,Foča-FBiH,998
+2013,Broj,Ž,Total,Foča-FBiH,935
+2013,Broj,Oba spola,Total,Foča-RS,18288
+2013,Broj,M,Total,Foča-RS,9236
+2013,Broj,Ž,Total,Foča-RS,9052
 2013,Broj,Oba spola,Total,Fojnica,12356
 2013,Broj,M,Total,Fojnica,6197
 2013,Broj,Ž,Total,Fojnica,6159
@@ -128,18 +128,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,Total,Grude,17308
 2013,Broj,M,Total,Grude,8621
 2013,Broj,Ž,Total,Grude,8687
-2013,Broj,Oba spola,Total,Sarajevo - Hadžići,23891
-2013,Broj,M,Total,Sarajevo - Hadžići,11914
-2013,Broj,Ž,Total,Sarajevo - Hadžići,11977
+2013,Broj,Oba spola,Total,Sarajevo-Hadžići,23891
+2013,Broj,M,Total,Sarajevo-Hadžići,11914
+2013,Broj,Ž,Total,Sarajevo-Hadžići,11977
 2013,Broj,Oba spola,Total,Han Pijesak,3530
 2013,Broj,M,Total,Han Pijesak,1667
 2013,Broj,Ž,Total,Han Pijesak,1863
-2013,Broj,Oba spola,Total,Sarajevo - Ilidža,66730
-2013,Broj,M,Total,Sarajevo - Ilidža,32359
-2013,Broj,Ž,Total,Sarajevo - Ilidža,34371
-2013,Broj,Oba spola,Total,Sarajevo - Ilijaš,19603
-2013,Broj,M,Total,Sarajevo - Ilijaš,9381
-2013,Broj,Ž,Total,Sarajevo - Ilijaš,10222
+2013,Broj,Oba spola,Total,Sarajevo-Ilidža,66730
+2013,Broj,M,Total,Sarajevo-Ilidža,32359
+2013,Broj,Ž,Total,Sarajevo-Ilidža,34371
+2013,Broj,Oba spola,Total,Sarajevo-Ilijaš,19603
+2013,Broj,M,Total,Sarajevo-Ilijaš,9381
+2013,Broj,Ž,Total,Sarajevo-Ilijaš,10222
 2013,Broj,Oba spola,Total,Istočna Ilidža,14763
 2013,Broj,M,Total,Istočna Ilidža,7069
 2013,Broj,Ž,Total,Istočna Ilidža,7694
@@ -203,12 +203,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,Total,Krupa Na Uni,1597
 2013,Broj,M,Total,Krupa Na Uni,862
 2013,Broj,Ž,Total,Krupa Na Uni,735
-2013,Broj,Oba spola,Total,Kupres - FBIH,5057
-2013,Broj,M,Total,Kupres - FBIH,2541
-2013,Broj,Ž,Total,Kupres - FBIH,2516
-2013,Broj,Oba spola,Total,Kupres - RS,300
-2013,Broj,M,Total,Kupres - RS,160
-2013,Broj,Ž,Total,Kupres - RS,140
+2013,Broj,Oba spola,Total,Kupres-FBiH,5057
+2013,Broj,M,Total,Kupres-FBiH,2541
+2013,Broj,Ž,Total,Kupres-FBiH,2516
+2013,Broj,Oba spola,Total,Kupres-RS,300
+2013,Broj,M,Total,Kupres-RS,160
+2013,Broj,Ž,Total,Kupres-RS,140
 2013,Broj,Oba spola,Total,Laktaši,34966
 2013,Broj,M,Total,Laktaši,17320
 2013,Broj,Ž,Total,Laktaši,17646
@@ -251,18 +251,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,Total,Novi Grad,27115
 2013,Broj,M,Total,Novi Grad,13594
 2013,Broj,Ž,Total,Novi Grad,13521
-2013,Broj,Oba spola,Total,Sarajevo - Novi Grad,118553
-2013,Broj,M,Total,Sarajevo - Novi Grad,55735
-2013,Broj,Ž,Total,Sarajevo - Novi Grad,62818
+2013,Broj,Oba spola,Total,Sarajevo-Novi Grad,118553
+2013,Broj,M,Total,Sarajevo-Novi Grad,55735
+2013,Broj,Ž,Total,Sarajevo-Novi Grad,62818
 2013,Broj,Oba spola,Total,Novi Travnik,23832
 2013,Broj,M,Total,Novi Travnik,11862
 2013,Broj,Ž,Total,Novi Travnik,11970
 2013,Broj,Oba spola,Total,Novo Goražde,3117
 2013,Broj,M,Total,Novo Goražde,1618
 2013,Broj,Ž,Total,Novo Goražde,1499
-2013,Broj,Oba spola,Total,Sarajevo - Novo Sarajevo,64814
-2013,Broj,M,Total,Sarajevo - Novo Sarajevo,29580
-2013,Broj,Ž,Total,Sarajevo - Novo Sarajevo,35234
+2013,Broj,Oba spola,Total,Sarajevo-Novo Sarajevo,64814
+2013,Broj,M,Total,Sarajevo-Novo Sarajevo,29580
+2013,Broj,Ž,Total,Sarajevo-Novo Sarajevo,35234
 2013,Broj,Oba spola,Total,Odžak,18821
 2013,Broj,M,Total,Odžak,9373
 2013,Broj,Ž,Total,Odžak,9448
@@ -278,12 +278,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,Total,Oštra Luka,2786
 2013,Broj,M,Total,Oštra Luka,1440
 2013,Broj,Ž,Total,Oštra Luka,1346
-2013,Broj,Oba spola,Total,Pale - FBIH,904
-2013,Broj,M,Total,Pale - FBIH,456
-2013,Broj,Ž,Total,Pale - FBIH,448
-2013,Broj,Oba spola,Total,Pale - RS,20909
-2013,Broj,M,Total,Pale - RS,10038
-2013,Broj,Ž,Total,Pale - RS,10871
+2013,Broj,Oba spola,Total,Pale-FBiH,904
+2013,Broj,M,Total,Pale-FBiH,456
+2013,Broj,Ž,Total,Pale-FBiH,448
+2013,Broj,Oba spola,Total,Pale-RS,20909
+2013,Broj,M,Total,Pale-RS,10038
+2013,Broj,Ž,Total,Pale-RS,10871
 2013,Broj,Oba spola,Total,Pelagićevo,5220
 2013,Broj,M,Total,Pelagićevo,2609
 2013,Broj,Ž,Total,Pelagićevo,2611
@@ -335,9 +335,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,Total,Srebrenik,39678
 2013,Broj,M,Total,Srebrenik,19348
 2013,Broj,Ž,Total,Srebrenik,20330
-2013,Broj,Oba spola,Total,Sarajevo - Stari Grad,36976
-2013,Broj,M,Total,Sarajevo - Stari Grad,17482
-2013,Broj,Ž,Total,Sarajevo - Stari Grad,19494
+2013,Broj,Oba spola,Total,Sarajevo-Stari Grad,36976
+2013,Broj,M,Total,Sarajevo-Stari Grad,17482
+2013,Broj,Ž,Total,Sarajevo-Stari Grad,19494
 2013,Broj,Oba spola,Total,Stolac,14502
 2013,Broj,M,Total,Stolac,7326
 2013,Broj,Ž,Total,Stolac,7176
@@ -350,9 +350,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,Total,Šipovo,10293
 2013,Broj,M,Total,Šipovo,5221
 2013,Broj,Ž,Total,Šipovo,5072
-2013,Broj,Oba spola,Total,Široki Brijeg,28929
-2013,Broj,M,Total,Široki Brijeg,14381
-2013,Broj,Ž,Total,Široki Brijeg,14548
+2013,Broj,Oba spola,Total,siroki_brijeg,28929
+2013,Broj,M,Total,siroki_brijeg,14381
+2013,Broj,Ž,Total,siroki_brijeg,14548
 2013,Broj,Oba spola,Total,Teočak,7424
 2013,Broj,M,Total,Teočak,3767
 2013,Broj,Ž,Total,Teočak,3657
@@ -371,12 +371,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,Total,Trebinje,29198
 2013,Broj,M,Total,Trebinje,14251
 2013,Broj,Ž,Total,Trebinje,14947
-2013,Broj,Oba spola,Total,Trnovo - FBIH,1502
-2013,Broj,M,Total,Trnovo - FBIH,735
-2013,Broj,Ž,Total,Trnovo - FBIH,767
-2013,Broj,Oba spola,Total,Trnovo - RS,2050
-2013,Broj,M,Total,Trnovo - RS,989
-2013,Broj,Ž,Total,Trnovo - RS,1061
+2013,Broj,Oba spola,Total,Trnovo-FBiH,1502
+2013,Broj,M,Total,Trnovo-FBiH,735
+2013,Broj,Ž,Total,Trnovo-FBiH,767
+2013,Broj,Oba spola,Total,Trnovo-RS,2050
+2013,Broj,M,Total,Trnovo-RS,989
+2013,Broj,Ž,Total,Trnovo-RS,1061
 2013,Broj,Oba spola,Total,Tuzla,110979
 2013,Broj,M,Total,Tuzla,52745
 2013,Broj,Ž,Total,Tuzla,58234
@@ -404,9 +404,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,Total,Vlasenica,11467
 2013,Broj,M,Total,Vlasenica,5638
 2013,Broj,Ž,Total,Vlasenica,5829
-2013,Broj,Oba spola,Total,Sarajevo - Vogošća,26343
-2013,Broj,M,Total,Sarajevo - Vogošća,12606
-2013,Broj,Ž,Total,Sarajevo - Vogošća,13737
+2013,Broj,Oba spola,Total,Sarajevo-Vogošća,26343
+2013,Broj,M,Total,Sarajevo-Vogošća,12606
+2013,Broj,Ž,Total,Sarajevo-Vogošća,13737
 2013,Broj,Oba spola,Total,Vukosavlje,4667
 2013,Broj,M,Total,Vukosavlje,2340
 2013,Broj,Ž,Total,Vukosavlje,2327
@@ -476,9 +476,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,0-4,Cazin,3940
 2013,Broj,M,0-4,Cazin,2050
 2013,Broj,Ž,0-4,Cazin,1890
-2013,Broj,Oba spola,0-4,Sarajevo - Centar,2588
-2013,Broj,M,0-4,Sarajevo - Centar,1308
-2013,Broj,Ž,0-4,Sarajevo - Centar,1280
+2013,Broj,Oba spola,0-4,Sarajevo-Centar,2588
+2013,Broj,M,0-4,Sarajevo-Centar,1308
+2013,Broj,Ž,0-4,Sarajevo-Centar,1280
 2013,Broj,Oba spola,0-4,Čajniče,185
 2013,Broj,M,0-4,Čajniče,85
 2013,Broj,Ž,0-4,Čajniče,100
@@ -521,12 +521,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,0-4,Drvar,210
 2013,Broj,M,0-4,Drvar,106
 2013,Broj,Ž,0-4,Drvar,104
-2013,Broj,Oba spola,0-4,Foča - FBIH,85
-2013,Broj,M,0-4,Foča - FBIH,50
-2013,Broj,Ž,0-4,Foča - FBIH,35
-2013,Broj,Oba spola,0-4,Foča - RS,644
-2013,Broj,M,0-4,Foča - RS,367
-2013,Broj,Ž,0-4,Foča - RS,277
+2013,Broj,Oba spola,0-4,Foča-FBiH,85
+2013,Broj,M,0-4,Foča-FBiH,50
+2013,Broj,Ž,0-4,Foča-FBiH,35
+2013,Broj,Oba spola,0-4,Foča-RS,644
+2013,Broj,M,0-4,Foča-RS,367
+2013,Broj,Ž,0-4,Foča-RS,277
 2013,Broj,Oba spola,0-4,Fojnica,557
 2013,Broj,M,0-4,Fojnica,294
 2013,Broj,Ž,0-4,Fojnica,263
@@ -554,18 +554,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,0-4,Grude,805
 2013,Broj,M,0-4,Grude,409
 2013,Broj,Ž,0-4,Grude,396
-2013,Broj,Oba spola,0-4,Sarajevo - Hadžići,1380
-2013,Broj,M,0-4,Sarajevo - Hadžići,682
-2013,Broj,Ž,0-4,Sarajevo - Hadžići,698
+2013,Broj,Oba spola,0-4,Sarajevo-Hadžići,1380
+2013,Broj,M,0-4,Sarajevo-Hadžići,682
+2013,Broj,Ž,0-4,Sarajevo-Hadžići,698
 2013,Broj,Oba spola,0-4,Han Pijesak,134
 2013,Broj,M,0-4,Han Pijesak,72
 2013,Broj,Ž,0-4,Han Pijesak,62
-2013,Broj,Oba spola,0-4,Sarajevo - Ilidža,3915
-2013,Broj,M,0-4,Sarajevo - Ilidža,2013
-2013,Broj,Ž,0-4,Sarajevo - Ilidža,1902
-2013,Broj,Oba spola,0-4,Sarajevo - Ilijaš,1085
-2013,Broj,M,0-4,Sarajevo - Ilijaš,556
-2013,Broj,Ž,0-4,Sarajevo - Ilijaš,529
+2013,Broj,Oba spola,0-4,Sarajevo-Ilidža,3915
+2013,Broj,M,0-4,Sarajevo-Ilidža,2013
+2013,Broj,Ž,0-4,Sarajevo-Ilidža,1902
+2013,Broj,Oba spola,0-4,Sarajevo-Ilijaš,1085
+2013,Broj,M,0-4,Sarajevo-Ilijaš,556
+2013,Broj,Ž,0-4,Sarajevo-Ilijaš,529
 2013,Broj,Oba spola,0-4,Istočna Ilidža,649
 2013,Broj,M,0-4,Istočna Ilidža,342
 2013,Broj,Ž,0-4,Istočna Ilidža,307
@@ -626,11 +626,11 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,0-4,Krupa Na Uni,49
 2013,Broj,M,0-4,Krupa Na Uni,27
 2013,Broj,Ž,0-4,Krupa Na Uni,22
-2013,Broj,Oba spola,0-4,Kupres - FBIH,164
-2013,Broj,M,0-4,Kupres - FBIH,86
-2013,Broj,Ž,0-4,Kupres - FBIH,78
-2013,Broj,Oba spola,0-4,Kupres - RS,6
-2013,Broj,M,0-4,Kupres - RS,6
+2013,Broj,Oba spola,0-4,Kupres-FBiH,164
+2013,Broj,M,0-4,Kupres-FBiH,86
+2013,Broj,Ž,0-4,Kupres-FBiH,78
+2013,Broj,Oba spola,0-4,Kupres-RS,6
+2013,Broj,M,0-4,Kupres-RS,6
 2013,Broj,Oba spola,0-4,Laktaši,1687
 2013,Broj,M,0-4,Laktaši,855
 2013,Broj,Ž,0-4,Laktaši,832
@@ -673,18 +673,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,0-4,Novi Grad,981
 2013,Broj,M,0-4,Novi Grad,496
 2013,Broj,Ž,0-4,Novi Grad,485
-2013,Broj,Oba spola,0-4,Sarajevo - Novi Grad,6754
-2013,Broj,M,0-4,Sarajevo - Novi Grad,3488
-2013,Broj,Ž,0-4,Sarajevo - Novi Grad,3266
+2013,Broj,Oba spola,0-4,Sarajevo-Novi Grad,6754
+2013,Broj,M,0-4,Sarajevo-Novi Grad,3488
+2013,Broj,Ž,0-4,Sarajevo-Novi Grad,3266
 2013,Broj,Oba spola,0-4,Novi Travnik,1318
 2013,Broj,M,0-4,Novi Travnik,685
 2013,Broj,Ž,0-4,Novi Travnik,633
 2013,Broj,Oba spola,0-4,Novo Goražde,103
 2013,Broj,M,0-4,Novo Goražde,50
 2013,Broj,Ž,0-4,Novo Goražde,53
-2013,Broj,Oba spola,0-4,Sarajevo - Novo Sarajevo,3295
-2013,Broj,M,0-4,Sarajevo - Novo Sarajevo,1645
-2013,Broj,Ž,0-4,Sarajevo - Novo Sarajevo,1650
+2013,Broj,Oba spola,0-4,Sarajevo-Novo Sarajevo,3295
+2013,Broj,M,0-4,Sarajevo-Novo Sarajevo,1645
+2013,Broj,Ž,0-4,Sarajevo-Novo Sarajevo,1650
 2013,Broj,Oba spola,0-4,Odžak,693
 2013,Broj,M,0-4,Odžak,344
 2013,Broj,Ž,0-4,Odžak,349
@@ -700,12 +700,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,0-4,Oštra Luka,107
 2013,Broj,M,0-4,Oštra Luka,55
 2013,Broj,Ž,0-4,Oštra Luka,52
-2013,Broj,Oba spola,0-4,Pale - FBIH,35
-2013,Broj,M,0-4,Pale - FBIH,18
-2013,Broj,Ž,0-4,Pale - FBIH,17
-2013,Broj,Oba spola,0-4,Pale - RS,904
-2013,Broj,M,0-4,Pale - RS,462
-2013,Broj,Ž,0-4,Pale - RS,442
+2013,Broj,Oba spola,0-4,Pale-FBiH,35
+2013,Broj,M,0-4,Pale-FBiH,18
+2013,Broj,Ž,0-4,Pale-FBiH,17
+2013,Broj,Oba spola,0-4,Pale-RS,904
+2013,Broj,M,0-4,Pale-RS,462
+2013,Broj,Ž,0-4,Pale-RS,442
 2013,Broj,Oba spola,0-4,Pelagićevo,133
 2013,Broj,M,0-4,Pelagićevo,65
 2013,Broj,Ž,0-4,Pelagićevo,68
@@ -757,9 +757,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,0-4,Srebrenik,2214
 2013,Broj,M,0-4,Srebrenik,1129
 2013,Broj,Ž,0-4,Srebrenik,1085
-2013,Broj,Oba spola,0-4,Sarajevo - Stari Grad,1623
-2013,Broj,M,0-4,Sarajevo - Stari Grad,835
-2013,Broj,Ž,0-4,Sarajevo - Stari Grad,788
+2013,Broj,Oba spola,0-4,Sarajevo-Stari Grad,1623
+2013,Broj,M,0-4,Sarajevo-Stari Grad,835
+2013,Broj,Ž,0-4,Sarajevo-Stari Grad,788
 2013,Broj,Oba spola,0-4,Stolac,650
 2013,Broj,M,0-4,Stolac,337
 2013,Broj,Ž,0-4,Stolac,313
@@ -772,9 +772,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,0-4,Šipovo,431
 2013,Broj,M,0-4,Šipovo,234
 2013,Broj,Ž,0-4,Šipovo,197
-2013,Broj,Oba spola,0-4,Široki Brijeg,1623
-2013,Broj,M,0-4,Široki Brijeg,861
-2013,Broj,Ž,0-4,Široki Brijeg,762
+2013,Broj,Oba spola,0-4,siroki_brijeg,1623
+2013,Broj,M,0-4,siroki_brijeg,861
+2013,Broj,Ž,0-4,siroki_brijeg,762
 2013,Broj,Oba spola,0-4,Teočak,351
 2013,Broj,M,0-4,Teočak,192
 2013,Broj,Ž,0-4,Teočak,159
@@ -793,12 +793,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,0-4,Trebinje,1415
 2013,Broj,M,0-4,Trebinje,753
 2013,Broj,Ž,0-4,Trebinje,662
-2013,Broj,Oba spola,0-4,Trnovo - FBIH,40
-2013,Broj,M,0-4,Trnovo - FBIH,12
-2013,Broj,Ž,0-4,Trnovo - FBIH,28
-2013,Broj,Oba spola,0-4,Trnovo - RS,66
-2013,Broj,M,0-4,Trnovo - RS,30
-2013,Broj,Ž,0-4,Trnovo - RS,36
+2013,Broj,Oba spola,0-4,Trnovo-FBiH,40
+2013,Broj,M,0-4,Trnovo-FBiH,12
+2013,Broj,Ž,0-4,Trnovo-FBiH,28
+2013,Broj,Oba spola,0-4,Trnovo-RS,66
+2013,Broj,M,0-4,Trnovo-RS,30
+2013,Broj,Ž,0-4,Trnovo-RS,36
 2013,Broj,Oba spola,0-4,Tuzla,5105
 2013,Broj,M,0-4,Tuzla,2666
 2013,Broj,Ž,0-4,Tuzla,2439
@@ -826,9 +826,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,0-4,Vlasenica,499
 2013,Broj,M,0-4,Vlasenica,268
 2013,Broj,Ž,0-4,Vlasenica,231
-2013,Broj,Oba spola,0-4,Sarajevo - Vogošća,1600
-2013,Broj,M,0-4,Sarajevo - Vogošća,837
-2013,Broj,Ž,0-4,Sarajevo - Vogošća,763
+2013,Broj,Oba spola,0-4,Sarajevo-Vogošća,1600
+2013,Broj,M,0-4,Sarajevo-Vogošća,837
+2013,Broj,Ž,0-4,Sarajevo-Vogošća,763
 2013,Broj,Oba spola,0-4,Vukosavlje,207
 2013,Broj,M,0-4,Vukosavlje,107
 2013,Broj,Ž,0-4,Vukosavlje,100
@@ -898,9 +898,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,5-9,Cazin,4192
 2013,Broj,M,5-9,Cazin,2147
 2013,Broj,Ž,5-9,Cazin,2045
-2013,Broj,Oba spola,5-9,Sarajevo - Centar,2432
-2013,Broj,M,5-9,Sarajevo - Centar,1271
-2013,Broj,Ž,5-9,Sarajevo - Centar,1161
+2013,Broj,Oba spola,5-9,Sarajevo-Centar,2432
+2013,Broj,M,5-9,Sarajevo-Centar,1271
+2013,Broj,Ž,5-9,Sarajevo-Centar,1161
 2013,Broj,Oba spola,5-9,Čajniče,212
 2013,Broj,M,5-9,Čajniče,99
 2013,Broj,Ž,5-9,Čajniče,113
@@ -943,12 +943,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,5-9,Drvar,250
 2013,Broj,M,5-9,Drvar,130
 2013,Broj,Ž,5-9,Drvar,120
-2013,Broj,Oba spola,5-9,Foča - FBIH,71
-2013,Broj,M,5-9,Foča - FBIH,37
-2013,Broj,Ž,5-9,Foča - FBIH,34
-2013,Broj,Oba spola,5-9,Foča - RS,755
-2013,Broj,M,5-9,Foča - RS,393
-2013,Broj,Ž,5-9,Foča - RS,362
+2013,Broj,Oba spola,5-9,Foča-FBiH,71
+2013,Broj,M,5-9,Foča-FBiH,37
+2013,Broj,Ž,5-9,Foča-FBiH,34
+2013,Broj,Oba spola,5-9,Foča-RS,755
+2013,Broj,M,5-9,Foča-RS,393
+2013,Broj,Ž,5-9,Foča-RS,362
 2013,Broj,Oba spola,5-9,Fojnica,635
 2013,Broj,M,5-9,Fojnica,331
 2013,Broj,Ž,5-9,Fojnica,304
@@ -976,18 +976,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,5-9,Grude,952
 2013,Broj,M,5-9,Grude,482
 2013,Broj,Ž,5-9,Grude,470
-2013,Broj,Oba spola,5-9,Sarajevo - Hadžići,1339
-2013,Broj,M,5-9,Sarajevo - Hadžići,704
-2013,Broj,Ž,5-9,Sarajevo - Hadžići,635
+2013,Broj,Oba spola,5-9,Sarajevo-Hadžići,1339
+2013,Broj,M,5-9,Sarajevo-Hadžići,704
+2013,Broj,Ž,5-9,Sarajevo-Hadžići,635
 2013,Broj,Oba spola,5-9,Han Pijesak,130
 2013,Broj,M,5-9,Han Pijesak,67
 2013,Broj,Ž,5-9,Han Pijesak,63
-2013,Broj,Oba spola,5-9,Sarajevo - Ilidža,3664
-2013,Broj,M,5-9,Sarajevo - Ilidža,1896
-2013,Broj,Ž,5-9,Sarajevo - Ilidža,1768
-2013,Broj,Oba spola,5-9,Sarajevo - Ilijaš,1128
-2013,Broj,M,5-9,Sarajevo - Ilijaš,564
-2013,Broj,Ž,5-9,Sarajevo - Ilijaš,564
+2013,Broj,Oba spola,5-9,Sarajevo-Ilidža,3664
+2013,Broj,M,5-9,Sarajevo-Ilidža,1896
+2013,Broj,Ž,5-9,Sarajevo-Ilidža,1768
+2013,Broj,Oba spola,5-9,Sarajevo-Ilijaš,1128
+2013,Broj,M,5-9,Sarajevo-Ilijaš,564
+2013,Broj,Ž,5-9,Sarajevo-Ilijaš,564
 2013,Broj,Oba spola,5-9,Istočna Ilidža,683
 2013,Broj,M,5-9,Istočna Ilidža,325
 2013,Broj,Ž,5-9,Istočna Ilidža,358
@@ -1051,12 +1051,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,5-9,Krupa Na Uni,57
 2013,Broj,M,5-9,Krupa Na Uni,29
 2013,Broj,Ž,5-9,Krupa Na Uni,28
-2013,Broj,Oba spola,5-9,Kupres - FBIH,216
-2013,Broj,M,5-9,Kupres - FBIH,114
-2013,Broj,Ž,5-9,Kupres - FBIH,102
-2013,Broj,Oba spola,5-9,Kupres - RS,8
-2013,Broj,M,5-9,Kupres - RS,5
-2013,Broj,Ž,5-9,Kupres - RS,3
+2013,Broj,Oba spola,5-9,Kupres-FBiH,216
+2013,Broj,M,5-9,Kupres-FBiH,114
+2013,Broj,Ž,5-9,Kupres-FBiH,102
+2013,Broj,Oba spola,5-9,Kupres-RS,8
+2013,Broj,M,5-9,Kupres-RS,5
+2013,Broj,Ž,5-9,Kupres-RS,3
 2013,Broj,Oba spola,5-9,Laktaši,1873
 2013,Broj,M,5-9,Laktaši,947
 2013,Broj,Ž,5-9,Laktaši,926
@@ -1099,18 +1099,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,5-9,Novi Grad,1074
 2013,Broj,M,5-9,Novi Grad,562
 2013,Broj,Ž,5-9,Novi Grad,512
-2013,Broj,Oba spola,5-9,Sarajevo - Novi Grad,6046
-2013,Broj,M,5-9,Sarajevo - Novi Grad,3071
-2013,Broj,Ž,5-9,Sarajevo - Novi Grad,2975
+2013,Broj,Oba spola,5-9,Sarajevo-Novi Grad,6046
+2013,Broj,M,5-9,Sarajevo-Novi Grad,3071
+2013,Broj,Ž,5-9,Sarajevo-Novi Grad,2975
 2013,Broj,Oba spola,5-9,Novi Travnik,1345
 2013,Broj,M,5-9,Novi Travnik,689
 2013,Broj,Ž,5-9,Novi Travnik,656
 2013,Broj,Oba spola,5-9,Novo Goražde,110
 2013,Broj,M,5-9,Novo Goražde,50
 2013,Broj,Ž,5-9,Novo Goražde,60
-2013,Broj,Oba spola,5-9,Sarajevo - Novo Sarajevo,2736
-2013,Broj,M,5-9,Sarajevo - Novo Sarajevo,1414
-2013,Broj,Ž,5-9,Sarajevo - Novo Sarajevo,1322
+2013,Broj,Oba spola,5-9,Sarajevo-Novo Sarajevo,2736
+2013,Broj,M,5-9,Sarajevo-Novo Sarajevo,1414
+2013,Broj,Ž,5-9,Sarajevo-Novo Sarajevo,1322
 2013,Broj,Oba spola,5-9,Odžak,823
 2013,Broj,M,5-9,Odžak,440
 2013,Broj,Ž,5-9,Odžak,383
@@ -1126,12 +1126,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,5-9,Oštra Luka,135
 2013,Broj,M,5-9,Oštra Luka,69
 2013,Broj,Ž,5-9,Oštra Luka,66
-2013,Broj,Oba spola,5-9,Pale - FBIH,42
-2013,Broj,M,5-9,Pale - FBIH,25
-2013,Broj,Ž,5-9,Pale - FBIH,17
-2013,Broj,Oba spola,5-9,Pale - RS,900
-2013,Broj,M,5-9,Pale - RS,451
-2013,Broj,Ž,5-9,Pale - RS,449
+2013,Broj,Oba spola,5-9,Pale-FBiH,42
+2013,Broj,M,5-9,Pale-FBiH,25
+2013,Broj,Ž,5-9,Pale-FBiH,17
+2013,Broj,Oba spola,5-9,Pale-RS,900
+2013,Broj,M,5-9,Pale-RS,451
+2013,Broj,Ž,5-9,Pale-RS,449
 2013,Broj,Oba spola,5-9,Pelagićevo,193
 2013,Broj,M,5-9,Pelagićevo,100
 2013,Broj,Ž,5-9,Pelagićevo,93
@@ -1183,9 +1183,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,5-9,Srebrenik,2201
 2013,Broj,M,5-9,Srebrenik,1111
 2013,Broj,Ž,5-9,Srebrenik,1090
-2013,Broj,Oba spola,5-9,Sarajevo - Stari Grad,1593
-2013,Broj,M,5-9,Sarajevo - Stari Grad,800
-2013,Broj,Ž,5-9,Sarajevo - Stari Grad,793
+2013,Broj,Oba spola,5-9,Sarajevo-Stari Grad,1593
+2013,Broj,M,5-9,Sarajevo-Stari Grad,800
+2013,Broj,Ž,5-9,Sarajevo-Stari Grad,793
 2013,Broj,Oba spola,5-9,Stolac,676
 2013,Broj,M,5-9,Stolac,359
 2013,Broj,Ž,5-9,Stolac,317
@@ -1198,9 +1198,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,5-9,Šipovo,472
 2013,Broj,M,5-9,Šipovo,252
 2013,Broj,Ž,5-9,Šipovo,220
-2013,Broj,Oba spola,5-9,Široki Brijeg,1662
-2013,Broj,M,5-9,Široki Brijeg,865
-2013,Broj,Ž,5-9,Široki Brijeg,797
+2013,Broj,Oba spola,5-9,siroki_brijeg,1662
+2013,Broj,M,5-9,siroki_brijeg,865
+2013,Broj,Ž,5-9,siroki_brijeg,797
 2013,Broj,Oba spola,5-9,Teočak,403
 2013,Broj,M,5-9,Teočak,216
 2013,Broj,Ž,5-9,Teočak,187
@@ -1219,12 +1219,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,5-9,Trebinje,1428
 2013,Broj,M,5-9,Trebinje,726
 2013,Broj,Ž,5-9,Trebinje,702
-2013,Broj,Oba spola,5-9,Trnovo - FBIH,41
-2013,Broj,M,5-9,Trnovo - FBIH,16
-2013,Broj,Ž,5-9,Trnovo - FBIH,25
-2013,Broj,Oba spola,5-9,Trnovo - RS,67
-2013,Broj,M,5-9,Trnovo - RS,37
-2013,Broj,Ž,5-9,Trnovo - RS,30
+2013,Broj,Oba spola,5-9,Trnovo-FBiH,41
+2013,Broj,M,5-9,Trnovo-FBiH,16
+2013,Broj,Ž,5-9,Trnovo-FBiH,25
+2013,Broj,Oba spola,5-9,Trnovo-RS,67
+2013,Broj,M,5-9,Trnovo-RS,37
+2013,Broj,Ž,5-9,Trnovo-RS,30
 2013,Broj,Oba spola,5-9,Tuzla,4709
 2013,Broj,M,5-9,Tuzla,2394
 2013,Broj,Ž,5-9,Tuzla,2315
@@ -1252,9 +1252,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,5-9,Vlasenica,569
 2013,Broj,M,5-9,Vlasenica,287
 2013,Broj,Ž,5-9,Vlasenica,282
-2013,Broj,Oba spola,5-9,Sarajevo - Vogošća,1455
-2013,Broj,M,5-9,Sarajevo - Vogošća,744
-2013,Broj,Ž,5-9,Sarajevo - Vogošća,711
+2013,Broj,Oba spola,5-9,Sarajevo-Vogošća,1455
+2013,Broj,M,5-9,Sarajevo-Vogošća,744
+2013,Broj,Ž,5-9,Sarajevo-Vogošća,711
 2013,Broj,Oba spola,5-9,Vukosavlje,230
 2013,Broj,M,5-9,Vukosavlje,115
 2013,Broj,Ž,5-9,Vukosavlje,115
@@ -1324,9 +1324,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,10-14,Cazin,4356
 2013,Broj,M,10-14,Cazin,2241
 2013,Broj,Ž,10-14,Cazin,2115
-2013,Broj,Oba spola,10-14,Sarajevo - Centar,2392
-2013,Broj,M,10-14,Sarajevo - Centar,1222
-2013,Broj,Ž,10-14,Sarajevo - Centar,1170
+2013,Broj,Oba spola,10-14,Sarajevo-Centar,2392
+2013,Broj,M,10-14,Sarajevo-Centar,1222
+2013,Broj,Ž,10-14,Sarajevo-Centar,1170
 2013,Broj,Oba spola,10-14,Čajniče,234
 2013,Broj,M,10-14,Čajniče,130
 2013,Broj,Ž,10-14,Čajniče,104
@@ -1369,12 +1369,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,10-14,Drvar,268
 2013,Broj,M,10-14,Drvar,147
 2013,Broj,Ž,10-14,Drvar,121
-2013,Broj,Oba spola,10-14,Foča - FBIH,85
-2013,Broj,M,10-14,Foča - FBIH,44
-2013,Broj,Ž,10-14,Foča - FBIH,41
-2013,Broj,Oba spola,10-14,Foča - RS,839
-2013,Broj,M,10-14,Foča - RS,415
-2013,Broj,Ž,10-14,Foča - RS,424
+2013,Broj,Oba spola,10-14,Foča-FBiH,85
+2013,Broj,M,10-14,Foča-FBiH,44
+2013,Broj,Ž,10-14,Foča-FBiH,41
+2013,Broj,Oba spola,10-14,Foča-RS,839
+2013,Broj,M,10-14,Foča-RS,415
+2013,Broj,Ž,10-14,Foča-RS,424
 2013,Broj,Oba spola,10-14,Fojnica,738
 2013,Broj,M,10-14,Fojnica,375
 2013,Broj,Ž,10-14,Fojnica,363
@@ -1402,18 +1402,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,10-14,Grude,1096
 2013,Broj,M,10-14,Grude,537
 2013,Broj,Ž,10-14,Grude,559
-2013,Broj,Oba spola,10-14,Sarajevo - Hadžići,1385
-2013,Broj,M,10-14,Sarajevo - Hadžići,744
-2013,Broj,Ž,10-14,Sarajevo - Hadžići,641
+2013,Broj,Oba spola,10-14,Sarajevo-Hadžići,1385
+2013,Broj,M,10-14,Sarajevo-Hadžići,744
+2013,Broj,Ž,10-14,Sarajevo-Hadžići,641
 2013,Broj,Oba spola,10-14,Han Pijesak,137
 2013,Broj,M,10-14,Han Pijesak,70
 2013,Broj,Ž,10-14,Han Pijesak,67
-2013,Broj,Oba spola,10-14,Sarajevo - Ilidža,3675
-2013,Broj,M,10-14,Sarajevo - Ilidža,1877
-2013,Broj,Ž,10-14,Sarajevo - Ilidža,1798
-2013,Broj,Oba spola,10-14,Sarajevo - Ilijaš,1112
-2013,Broj,M,10-14,Sarajevo - Ilijaš,556
-2013,Broj,Ž,10-14,Sarajevo - Ilijaš,556
+2013,Broj,Oba spola,10-14,Sarajevo-Ilidža,3675
+2013,Broj,M,10-14,Sarajevo-Ilidža,1877
+2013,Broj,Ž,10-14,Sarajevo-Ilidža,1798
+2013,Broj,Oba spola,10-14,Sarajevo-Ilijaš,1112
+2013,Broj,M,10-14,Sarajevo-Ilijaš,556
+2013,Broj,Ž,10-14,Sarajevo-Ilijaš,556
 2013,Broj,Oba spola,10-14,Istočna Ilidža,695
 2013,Broj,M,10-14,Istočna Ilidža,331
 2013,Broj,Ž,10-14,Istočna Ilidža,364
@@ -1477,12 +1477,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,10-14,Krupa Na Uni,76
 2013,Broj,M,10-14,Krupa Na Uni,34
 2013,Broj,Ž,10-14,Krupa Na Uni,42
-2013,Broj,Oba spola,10-14,Kupres - FBIH,315
-2013,Broj,M,10-14,Kupres - FBIH,155
-2013,Broj,Ž,10-14,Kupres - FBIH,160
-2013,Broj,Oba spola,10-14,Kupres - RS,14
-2013,Broj,M,10-14,Kupres - RS,8
-2013,Broj,Ž,10-14,Kupres - RS,6
+2013,Broj,Oba spola,10-14,Kupres-FBiH,315
+2013,Broj,M,10-14,Kupres-FBiH,155
+2013,Broj,Ž,10-14,Kupres-FBiH,160
+2013,Broj,Oba spola,10-14,Kupres-RS,14
+2013,Broj,M,10-14,Kupres-RS,8
+2013,Broj,Ž,10-14,Kupres-RS,6
 2013,Broj,Oba spola,10-14,Laktaši,1940
 2013,Broj,M,10-14,Laktaši,1005
 2013,Broj,Ž,10-14,Laktaši,935
@@ -1525,18 +1525,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,10-14,Novi Grad,1309
 2013,Broj,M,10-14,Novi Grad,710
 2013,Broj,Ž,10-14,Novi Grad,599
-2013,Broj,Oba spola,10-14,Sarajevo - Novi Grad,5961
-2013,Broj,M,10-14,Sarajevo - Novi Grad,3067
-2013,Broj,Ž,10-14,Sarajevo - Novi Grad,2894
+2013,Broj,Oba spola,10-14,Sarajevo-Novi Grad,5961
+2013,Broj,M,10-14,Sarajevo-Novi Grad,3067
+2013,Broj,Ž,10-14,Sarajevo-Novi Grad,2894
 2013,Broj,Oba spola,10-14,Novi Travnik,1491
 2013,Broj,M,10-14,Novi Travnik,773
 2013,Broj,Ž,10-14,Novi Travnik,718
 2013,Broj,Oba spola,10-14,Novo Goražde,100
 2013,Broj,M,10-14,Novo Goražde,46
 2013,Broj,Ž,10-14,Novo Goražde,54
-2013,Broj,Oba spola,10-14,Sarajevo - Novo Sarajevo,2837
-2013,Broj,M,10-14,Sarajevo - Novo Sarajevo,1493
-2013,Broj,Ž,10-14,Sarajevo - Novo Sarajevo,1344
+2013,Broj,Oba spola,10-14,Sarajevo-Novo Sarajevo,2837
+2013,Broj,M,10-14,Sarajevo-Novo Sarajevo,1493
+2013,Broj,Ž,10-14,Sarajevo-Novo Sarajevo,1344
 2013,Broj,Oba spola,10-14,Odžak,1036
 2013,Broj,M,10-14,Odžak,530
 2013,Broj,Ž,10-14,Odžak,506
@@ -1552,12 +1552,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,10-14,Oštra Luka,166
 2013,Broj,M,10-14,Oštra Luka,90
 2013,Broj,Ž,10-14,Oštra Luka,76
-2013,Broj,Oba spola,10-14,Pale - FBIH,59
-2013,Broj,M,10-14,Pale - FBIH,36
-2013,Broj,Ž,10-14,Pale - FBIH,23
-2013,Broj,Oba spola,10-14,Pale - RS,1031
-2013,Broj,M,10-14,Pale - RS,557
-2013,Broj,Ž,10-14,Pale - RS,474
+2013,Broj,Oba spola,10-14,Pale-FBiH,59
+2013,Broj,M,10-14,Pale-FBiH,36
+2013,Broj,Ž,10-14,Pale-FBiH,23
+2013,Broj,Oba spola,10-14,Pale-RS,1031
+2013,Broj,M,10-14,Pale-RS,557
+2013,Broj,Ž,10-14,Pale-RS,474
 2013,Broj,Oba spola,10-14,Pelagićevo,240
 2013,Broj,M,10-14,Pelagićevo,117
 2013,Broj,Ž,10-14,Pelagićevo,123
@@ -1609,9 +1609,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,10-14,Srebrenik,2308
 2013,Broj,M,10-14,Srebrenik,1190
 2013,Broj,Ž,10-14,Srebrenik,1118
-2013,Broj,Oba spola,10-14,Sarajevo - Stari Grad,1781
-2013,Broj,M,10-14,Sarajevo - Stari Grad,927
-2013,Broj,Ž,10-14,Sarajevo - Stari Grad,854
+2013,Broj,Oba spola,10-14,Sarajevo-Stari Grad,1781
+2013,Broj,M,10-14,Sarajevo-Stari Grad,927
+2013,Broj,Ž,10-14,Sarajevo-Stari Grad,854
 2013,Broj,Oba spola,10-14,Stolac,906
 2013,Broj,M,10-14,Stolac,456
 2013,Broj,Ž,10-14,Stolac,450
@@ -1624,9 +1624,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,10-14,Šipovo,569
 2013,Broj,M,10-14,Šipovo,283
 2013,Broj,Ž,10-14,Šipovo,286
-2013,Broj,Oba spola,10-14,Široki Brijeg,1923
-2013,Broj,M,10-14,Široki Brijeg,961
-2013,Broj,Ž,10-14,Široki Brijeg,962
+2013,Broj,Oba spola,10-14,siroki_brijeg,1923
+2013,Broj,M,10-14,siroki_brijeg,961
+2013,Broj,Ž,10-14,siroki_brijeg,962
 2013,Broj,Oba spola,10-14,Teočak,446
 2013,Broj,M,10-14,Teočak,213
 2013,Broj,Ž,10-14,Teočak,233
@@ -1645,12 +1645,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,10-14,Trebinje,1545
 2013,Broj,M,10-14,Trebinje,796
 2013,Broj,Ž,10-14,Trebinje,749
-2013,Broj,Oba spola,10-14,Trnovo - FBIH,49
-2013,Broj,M,10-14,Trnovo - FBIH,28
-2013,Broj,Ž,10-14,Trnovo - FBIH,21
-2013,Broj,Oba spola,10-14,Trnovo - RS,75
-2013,Broj,M,10-14,Trnovo - RS,43
-2013,Broj,Ž,10-14,Trnovo - RS,32
+2013,Broj,Oba spola,10-14,Trnovo-FBiH,49
+2013,Broj,M,10-14,Trnovo-FBiH,28
+2013,Broj,Ž,10-14,Trnovo-FBiH,21
+2013,Broj,Oba spola,10-14,Trnovo-RS,75
+2013,Broj,M,10-14,Trnovo-RS,43
+2013,Broj,Ž,10-14,Trnovo-RS,32
 2013,Broj,Oba spola,10-14,Tuzla,4816
 2013,Broj,M,10-14,Tuzla,2408
 2013,Broj,Ž,10-14,Tuzla,2408
@@ -1678,9 +1678,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,10-14,Vlasenica,585
 2013,Broj,M,10-14,Vlasenica,314
 2013,Broj,Ž,10-14,Vlasenica,271
-2013,Broj,Oba spola,10-14,Sarajevo - Vogošća,1354
-2013,Broj,M,10-14,Sarajevo - Vogošća,693
-2013,Broj,Ž,10-14,Sarajevo - Vogošća,661
+2013,Broj,Oba spola,10-14,Sarajevo-Vogošća,1354
+2013,Broj,M,10-14,Sarajevo-Vogošća,693
+2013,Broj,Ž,10-14,Sarajevo-Vogošća,661
 2013,Broj,Oba spola,10-14,Vukosavlje,267
 2013,Broj,M,10-14,Vukosavlje,133
 2013,Broj,Ž,10-14,Vukosavlje,134
@@ -1750,9 +1750,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,15-19,Cazin,4948
 2013,Broj,M,15-19,Cazin,2507
 2013,Broj,Ž,15-19,Cazin,2441
-2013,Broj,Oba spola,15-19,Sarajevo - Centar,3158
-2013,Broj,M,15-19,Sarajevo - Centar,1568
-2013,Broj,Ž,15-19,Sarajevo - Centar,1590
+2013,Broj,Oba spola,15-19,Sarajevo-Centar,3158
+2013,Broj,M,15-19,Sarajevo-Centar,1568
+2013,Broj,Ž,15-19,Sarajevo-Centar,1590
 2013,Broj,Oba spola,15-19,Čajniče,317
 2013,Broj,M,15-19,Čajniče,176
 2013,Broj,Ž,15-19,Čajniče,141
@@ -1795,12 +1795,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,15-19,Drvar,320
 2013,Broj,M,15-19,Drvar,170
 2013,Broj,Ž,15-19,Drvar,150
-2013,Broj,Oba spola,15-19,Foča - FBIH,121
-2013,Broj,M,15-19,Foča - FBIH,65
-2013,Broj,Ž,15-19,Foča - FBIH,56
-2013,Broj,Oba spola,15-19,Foča - RS,1124
-2013,Broj,M,15-19,Foča - RS,592
-2013,Broj,Ž,15-19,Foča - RS,532
+2013,Broj,Oba spola,15-19,Foča-FBiH,121
+2013,Broj,M,15-19,Foča-FBiH,65
+2013,Broj,Ž,15-19,Foča-FBiH,56
+2013,Broj,Oba spola,15-19,Foča-RS,1124
+2013,Broj,M,15-19,Foča-RS,592
+2013,Broj,Ž,15-19,Foča-RS,532
 2013,Broj,Oba spola,15-19,Fojnica,904
 2013,Broj,M,15-19,Fojnica,434
 2013,Broj,Ž,15-19,Fojnica,470
@@ -1828,18 +1828,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,15-19,Grude,1264
 2013,Broj,M,15-19,Grude,641
 2013,Broj,Ž,15-19,Grude,623
-2013,Broj,Oba spola,15-19,Sarajevo - Hadžići,1818
-2013,Broj,M,15-19,Sarajevo - Hadžići,991
-2013,Broj,Ž,15-19,Sarajevo - Hadžići,827
+2013,Broj,Oba spola,15-19,Sarajevo-Hadžići,1818
+2013,Broj,M,15-19,Sarajevo-Hadžići,991
+2013,Broj,Ž,15-19,Sarajevo-Hadžići,827
 2013,Broj,Oba spola,15-19,Han Pijesak,218
 2013,Broj,M,15-19,Han Pijesak,89
 2013,Broj,Ž,15-19,Han Pijesak,129
-2013,Broj,Oba spola,15-19,Sarajevo - Ilidža,4839
-2013,Broj,M,15-19,Sarajevo - Ilidža,2519
-2013,Broj,Ž,15-19,Sarajevo - Ilidža,2320
-2013,Broj,Oba spola,15-19,Sarajevo - Ilijaš,1440
-2013,Broj,M,15-19,Sarajevo - Ilijaš,723
-2013,Broj,Ž,15-19,Sarajevo - Ilijaš,717
+2013,Broj,Oba spola,15-19,Sarajevo-Ilidža,4839
+2013,Broj,M,15-19,Sarajevo-Ilidža,2519
+2013,Broj,Ž,15-19,Sarajevo-Ilidža,2320
+2013,Broj,Oba spola,15-19,Sarajevo-Ilijaš,1440
+2013,Broj,M,15-19,Sarajevo-Ilijaš,723
+2013,Broj,Ž,15-19,Sarajevo-Ilijaš,717
 2013,Broj,Oba spola,15-19,Istočna Ilidža,823
 2013,Broj,M,15-19,Istočna Ilidža,416
 2013,Broj,Ž,15-19,Istočna Ilidža,407
@@ -1903,12 +1903,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,15-19,Krupa Na Uni,102
 2013,Broj,M,15-19,Krupa Na Uni,55
 2013,Broj,Ž,15-19,Krupa Na Uni,47
-2013,Broj,Oba spola,15-19,Kupres - FBIH,367
-2013,Broj,M,15-19,Kupres - FBIH,189
-2013,Broj,Ž,15-19,Kupres - FBIH,178
-2013,Broj,Oba spola,15-19,Kupres - RS,13
-2013,Broj,M,15-19,Kupres - RS,7
-2013,Broj,Ž,15-19,Kupres - RS,6
+2013,Broj,Oba spola,15-19,Kupres-FBiH,367
+2013,Broj,M,15-19,Kupres-FBiH,189
+2013,Broj,Ž,15-19,Kupres-FBiH,178
+2013,Broj,Oba spola,15-19,Kupres-RS,13
+2013,Broj,M,15-19,Kupres-RS,7
+2013,Broj,Ž,15-19,Kupres-RS,6
 2013,Broj,Oba spola,15-19,Laktaši,2190
 2013,Broj,M,15-19,Laktaši,1147
 2013,Broj,Ž,15-19,Laktaši,1043
@@ -1951,18 +1951,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,15-19,Novi Grad,1665
 2013,Broj,M,15-19,Novi Grad,864
 2013,Broj,Ž,15-19,Novi Grad,801
-2013,Broj,Oba spola,15-19,Sarajevo - Novi Grad,7216
-2013,Broj,M,15-19,Sarajevo - Novi Grad,3634
-2013,Broj,Ž,15-19,Sarajevo - Novi Grad,3582
+2013,Broj,Oba spola,15-19,Sarajevo-Novi Grad,7216
+2013,Broj,M,15-19,Sarajevo-Novi Grad,3634
+2013,Broj,Ž,15-19,Sarajevo-Novi Grad,3582
 2013,Broj,Oba spola,15-19,Novi Travnik,2000
 2013,Broj,M,15-19,Novi Travnik,1041
 2013,Broj,Ž,15-19,Novi Travnik,959
 2013,Broj,Oba spola,15-19,Novo Goražde,147
 2013,Broj,M,15-19,Novo Goražde,73
 2013,Broj,Ž,15-19,Novo Goražde,74
-2013,Broj,Oba spola,15-19,Sarajevo - Novo Sarajevo,3701
-2013,Broj,M,15-19,Sarajevo - Novo Sarajevo,1907
-2013,Broj,Ž,15-19,Sarajevo - Novo Sarajevo,1794
+2013,Broj,Oba spola,15-19,Sarajevo-Novo Sarajevo,3701
+2013,Broj,M,15-19,Sarajevo-Novo Sarajevo,1907
+2013,Broj,Ž,15-19,Sarajevo-Novo Sarajevo,1794
 2013,Broj,Oba spola,15-19,Odžak,1253
 2013,Broj,M,15-19,Odžak,675
 2013,Broj,Ž,15-19,Odžak,578
@@ -1978,12 +1978,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,15-19,Oštra Luka,220
 2013,Broj,M,15-19,Oštra Luka,118
 2013,Broj,Ž,15-19,Oštra Luka,102
-2013,Broj,Oba spola,15-19,Pale - FBIH,74
-2013,Broj,M,15-19,Pale - FBIH,29
-2013,Broj,Ž,15-19,Pale - FBIH,45
-2013,Broj,Oba spola,15-19,Pale - RS,1302
-2013,Broj,M,15-19,Pale - RS,645
-2013,Broj,Ž,15-19,Pale - RS,657
+2013,Broj,Oba spola,15-19,Pale-FBiH,74
+2013,Broj,M,15-19,Pale-FBiH,29
+2013,Broj,Ž,15-19,Pale-FBiH,45
+2013,Broj,Oba spola,15-19,Pale-RS,1302
+2013,Broj,M,15-19,Pale-RS,645
+2013,Broj,Ž,15-19,Pale-RS,657
 2013,Broj,Oba spola,15-19,Pelagićevo,301
 2013,Broj,M,15-19,Pelagićevo,158
 2013,Broj,Ž,15-19,Pelagićevo,143
@@ -2035,9 +2035,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,15-19,Srebrenik,2934
 2013,Broj,M,15-19,Srebrenik,1487
 2013,Broj,Ž,15-19,Srebrenik,1447
-2013,Broj,Oba spola,15-19,Sarajevo - Stari Grad,2301
-2013,Broj,M,15-19,Sarajevo - Stari Grad,1190
-2013,Broj,Ž,15-19,Sarajevo - Stari Grad,1111
+2013,Broj,Oba spola,15-19,Sarajevo-Stari Grad,2301
+2013,Broj,M,15-19,Sarajevo-Stari Grad,1190
+2013,Broj,Ž,15-19,Sarajevo-Stari Grad,1111
 2013,Broj,Oba spola,15-19,Stolac,1083
 2013,Broj,M,15-19,Stolac,565
 2013,Broj,Ž,15-19,Stolac,518
@@ -2050,9 +2050,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,15-19,Šipovo,609
 2013,Broj,M,15-19,Šipovo,326
 2013,Broj,Ž,15-19,Šipovo,283
-2013,Broj,Oba spola,15-19,Široki Brijeg,2331
-2013,Broj,M,15-19,Široki Brijeg,1208
-2013,Broj,Ž,15-19,Široki Brijeg,1123
+2013,Broj,Oba spola,15-19,siroki_brijeg,2331
+2013,Broj,M,15-19,siroki_brijeg,1208
+2013,Broj,Ž,15-19,siroki_brijeg,1123
 2013,Broj,Oba spola,15-19,Teočak,605
 2013,Broj,M,15-19,Teočak,310
 2013,Broj,Ž,15-19,Teočak,295
@@ -2071,12 +2071,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,15-19,Trebinje,1694
 2013,Broj,M,15-19,Trebinje,885
 2013,Broj,Ž,15-19,Trebinje,809
-2013,Broj,Oba spola,15-19,Trnovo - FBIH,59
-2013,Broj,M,15-19,Trnovo - FBIH,31
-2013,Broj,Ž,15-19,Trnovo - FBIH,28
-2013,Broj,Oba spola,15-19,Trnovo - RS,101
-2013,Broj,M,15-19,Trnovo - RS,41
-2013,Broj,Ž,15-19,Trnovo - RS,60
+2013,Broj,Oba spola,15-19,Trnovo-FBiH,59
+2013,Broj,M,15-19,Trnovo-FBiH,31
+2013,Broj,Ž,15-19,Trnovo-FBiH,28
+2013,Broj,Oba spola,15-19,Trnovo-RS,101
+2013,Broj,M,15-19,Trnovo-RS,41
+2013,Broj,Ž,15-19,Trnovo-RS,60
 2013,Broj,Oba spola,15-19,Tuzla,6823
 2013,Broj,M,15-19,Tuzla,3582
 2013,Broj,Ž,15-19,Tuzla,3241
@@ -2104,9 +2104,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,15-19,Vlasenica,806
 2013,Broj,M,15-19,Vlasenica,402
 2013,Broj,Ž,15-19,Vlasenica,404
-2013,Broj,Oba spola,15-19,Sarajevo - Vogošća,1856
-2013,Broj,M,15-19,Sarajevo - Vogošća,933
-2013,Broj,Ž,15-19,Sarajevo - Vogošća,923
+2013,Broj,Oba spola,15-19,Sarajevo-Vogošća,1856
+2013,Broj,M,15-19,Sarajevo-Vogošća,933
+2013,Broj,Ž,15-19,Sarajevo-Vogošća,923
 2013,Broj,Oba spola,15-19,Vukosavlje,298
 2013,Broj,M,15-19,Vukosavlje,167
 2013,Broj,Ž,15-19,Vukosavlje,131
@@ -2176,9 +2176,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,20-24,Cazin,5049
 2013,Broj,M,20-24,Cazin,2588
 2013,Broj,Ž,20-24,Cazin,2461
-2013,Broj,Oba spola,20-24,Sarajevo - Centar,2985
-2013,Broj,M,20-24,Sarajevo - Centar,1485
-2013,Broj,Ž,20-24,Sarajevo - Centar,1500
+2013,Broj,Oba spola,20-24,Sarajevo-Centar,2985
+2013,Broj,M,20-24,Sarajevo-Centar,1485
+2013,Broj,Ž,20-24,Sarajevo-Centar,1500
 2013,Broj,Oba spola,20-24,Čajniče,307
 2013,Broj,M,20-24,Čajniče,173
 2013,Broj,Ž,20-24,Čajniče,134
@@ -2221,12 +2221,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,20-24,Drvar,298
 2013,Broj,M,20-24,Drvar,166
 2013,Broj,Ž,20-24,Drvar,132
-2013,Broj,Oba spola,20-24,Foča - FBIH,125
-2013,Broj,M,20-24,Foča - FBIH,59
-2013,Broj,Ž,20-24,Foča - FBIH,66
-2013,Broj,Oba spola,20-24,Foča - RS,1126
-2013,Broj,M,20-24,Foča - RS,574
-2013,Broj,Ž,20-24,Foča - RS,552
+2013,Broj,Oba spola,20-24,Foča-FBiH,125
+2013,Broj,M,20-24,Foča-FBiH,59
+2013,Broj,Ž,20-24,Foča-FBiH,66
+2013,Broj,Oba spola,20-24,Foča-RS,1126
+2013,Broj,M,20-24,Foča-RS,574
+2013,Broj,Ž,20-24,Foča-RS,552
 2013,Broj,Oba spola,20-24,Fojnica,774
 2013,Broj,M,20-24,Fojnica,410
 2013,Broj,Ž,20-24,Fojnica,364
@@ -2254,18 +2254,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,20-24,Grude,1155
 2013,Broj,M,20-24,Grude,611
 2013,Broj,Ž,20-24,Grude,544
-2013,Broj,Oba spola,20-24,Sarajevo - Hadžići,1653
-2013,Broj,M,20-24,Sarajevo - Hadžići,870
-2013,Broj,Ž,20-24,Sarajevo - Hadžići,783
+2013,Broj,Oba spola,20-24,Sarajevo-Hadžići,1653
+2013,Broj,M,20-24,Sarajevo-Hadžići,870
+2013,Broj,Ž,20-24,Sarajevo-Hadžići,783
 2013,Broj,Oba spola,20-24,Han Pijesak,154
 2013,Broj,M,20-24,Han Pijesak,92
 2013,Broj,Ž,20-24,Han Pijesak,62
-2013,Broj,Oba spola,20-24,Sarajevo - Ilidža,4537
-2013,Broj,M,20-24,Sarajevo - Ilidža,2347
-2013,Broj,Ž,20-24,Sarajevo - Ilidža,2190
-2013,Broj,Oba spola,20-24,Sarajevo - Ilijaš,1577
-2013,Broj,M,20-24,Sarajevo - Ilijaš,819
-2013,Broj,Ž,20-24,Sarajevo - Ilijaš,758
+2013,Broj,Oba spola,20-24,Sarajevo-Ilidža,4537
+2013,Broj,M,20-24,Sarajevo-Ilidža,2347
+2013,Broj,Ž,20-24,Sarajevo-Ilidža,2190
+2013,Broj,Oba spola,20-24,Sarajevo-Ilijaš,1577
+2013,Broj,M,20-24,Sarajevo-Ilijaš,819
+2013,Broj,Ž,20-24,Sarajevo-Ilijaš,758
 2013,Broj,Oba spola,20-24,Istočna Ilidža,837
 2013,Broj,M,20-24,Istočna Ilidža,426
 2013,Broj,Ž,20-24,Istočna Ilidža,411
@@ -2329,12 +2329,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,20-24,Krupa Na Uni,81
 2013,Broj,M,20-24,Krupa Na Uni,50
 2013,Broj,Ž,20-24,Krupa Na Uni,31
-2013,Broj,Oba spola,20-24,Kupres - FBIH,338
-2013,Broj,M,20-24,Kupres - FBIH,162
-2013,Broj,Ž,20-24,Kupres - FBIH,176
-2013,Broj,Oba spola,20-24,Kupres - RS,8
-2013,Broj,M,20-24,Kupres - RS,5
-2013,Broj,Ž,20-24,Kupres - RS,3
+2013,Broj,Oba spola,20-24,Kupres-FBiH,338
+2013,Broj,M,20-24,Kupres-FBiH,162
+2013,Broj,Ž,20-24,Kupres-FBiH,176
+2013,Broj,Oba spola,20-24,Kupres-RS,8
+2013,Broj,M,20-24,Kupres-RS,5
+2013,Broj,Ž,20-24,Kupres-RS,3
 2013,Broj,Oba spola,20-24,Laktaši,2059
 2013,Broj,M,20-24,Laktaši,1073
 2013,Broj,Ž,20-24,Laktaši,986
@@ -2377,18 +2377,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,20-24,Novi Grad,1640
 2013,Broj,M,20-24,Novi Grad,862
 2013,Broj,Ž,20-24,Novi Grad,778
-2013,Broj,Oba spola,20-24,Sarajevo - Novi Grad,6821
-2013,Broj,M,20-24,Sarajevo - Novi Grad,3353
-2013,Broj,Ž,20-24,Sarajevo - Novi Grad,3468
+2013,Broj,Oba spola,20-24,Sarajevo-Novi Grad,6821
+2013,Broj,M,20-24,Sarajevo-Novi Grad,3353
+2013,Broj,Ž,20-24,Sarajevo-Novi Grad,3468
 2013,Broj,Oba spola,20-24,Novi Travnik,1804
 2013,Broj,M,20-24,Novi Travnik,926
 2013,Broj,Ž,20-24,Novi Travnik,878
 2013,Broj,Oba spola,20-24,Novo Goražde,194
 2013,Broj,M,20-24,Novo Goražde,112
 2013,Broj,Ž,20-24,Novo Goražde,82
-2013,Broj,Oba spola,20-24,Sarajevo - Novo Sarajevo,3789
-2013,Broj,M,20-24,Sarajevo - Novo Sarajevo,1837
-2013,Broj,Ž,20-24,Sarajevo - Novo Sarajevo,1952
+2013,Broj,Oba spola,20-24,Sarajevo-Novo Sarajevo,3789
+2013,Broj,M,20-24,Sarajevo-Novo Sarajevo,1837
+2013,Broj,Ž,20-24,Sarajevo-Novo Sarajevo,1952
 2013,Broj,Oba spola,20-24,Odžak,1191
 2013,Broj,M,20-24,Odžak,626
 2013,Broj,Ž,20-24,Odžak,565
@@ -2404,12 +2404,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,20-24,Oštra Luka,106
 2013,Broj,M,20-24,Oštra Luka,53
 2013,Broj,Ž,20-24,Oštra Luka,53
-2013,Broj,Oba spola,20-24,Pale - FBIH,53
-2013,Broj,M,20-24,Pale - FBIH,33
-2013,Broj,Ž,20-24,Pale - FBIH,20
-2013,Broj,Oba spola,20-24,Pale - RS,1404
-2013,Broj,M,20-24,Pale - RS,681
-2013,Broj,Ž,20-24,Pale - RS,723
+2013,Broj,Oba spola,20-24,Pale-FBiH,53
+2013,Broj,M,20-24,Pale-FBiH,33
+2013,Broj,Ž,20-24,Pale-FBiH,20
+2013,Broj,Oba spola,20-24,Pale-RS,1404
+2013,Broj,M,20-24,Pale-RS,681
+2013,Broj,Ž,20-24,Pale-RS,723
 2013,Broj,Oba spola,20-24,Pelagićevo,260
 2013,Broj,M,20-24,Pelagićevo,141
 2013,Broj,Ž,20-24,Pelagićevo,119
@@ -2461,9 +2461,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,20-24,Srebrenik,2915
 2013,Broj,M,20-24,Srebrenik,1521
 2013,Broj,Ž,20-24,Srebrenik,1394
-2013,Broj,Oba spola,20-24,Sarajevo - Stari Grad,2178
-2013,Broj,M,20-24,Sarajevo - Stari Grad,1097
-2013,Broj,Ž,20-24,Sarajevo - Stari Grad,1081
+2013,Broj,Oba spola,20-24,Sarajevo-Stari Grad,2178
+2013,Broj,M,20-24,Sarajevo-Stari Grad,1097
+2013,Broj,Ž,20-24,Sarajevo-Stari Grad,1081
 2013,Broj,Oba spola,20-24,Stolac,943
 2013,Broj,M,20-24,Stolac,473
 2013,Broj,Ž,20-24,Stolac,470
@@ -2476,9 +2476,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,20-24,Šipovo,586
 2013,Broj,M,20-24,Šipovo,304
 2013,Broj,Ž,20-24,Šipovo,282
-2013,Broj,Oba spola,20-24,Široki Brijeg,2243
-2013,Broj,M,20-24,Široki Brijeg,1122
-2013,Broj,Ž,20-24,Široki Brijeg,1121
+2013,Broj,Oba spola,20-24,siroki_brijeg,2243
+2013,Broj,M,20-24,siroki_brijeg,1122
+2013,Broj,Ž,20-24,siroki_brijeg,1121
 2013,Broj,Oba spola,20-24,Teočak,589
 2013,Broj,M,20-24,Teočak,297
 2013,Broj,Ž,20-24,Teočak,292
@@ -2497,12 +2497,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,20-24,Trebinje,1623
 2013,Broj,M,20-24,Trebinje,864
 2013,Broj,Ž,20-24,Trebinje,759
-2013,Broj,Oba spola,20-24,Trnovo - FBIH,68
-2013,Broj,M,20-24,Trnovo - FBIH,30
-2013,Broj,Ž,20-24,Trnovo - FBIH,38
-2013,Broj,Oba spola,20-24,Trnovo - RS,108
-2013,Broj,M,20-24,Trnovo - RS,63
-2013,Broj,Ž,20-24,Trnovo - RS,45
+2013,Broj,Oba spola,20-24,Trnovo-FBiH,68
+2013,Broj,M,20-24,Trnovo-FBiH,30
+2013,Broj,Ž,20-24,Trnovo-FBiH,38
+2013,Broj,Oba spola,20-24,Trnovo-RS,108
+2013,Broj,M,20-24,Trnovo-RS,63
+2013,Broj,Ž,20-24,Trnovo-RS,45
 2013,Broj,Oba spola,20-24,Tuzla,7029
 2013,Broj,M,20-24,Tuzla,3516
 2013,Broj,Ž,20-24,Tuzla,3513
@@ -2530,9 +2530,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,20-24,Vlasenica,736
 2013,Broj,M,20-24,Vlasenica,363
 2013,Broj,Ž,20-24,Vlasenica,373
-2013,Broj,Oba spola,20-24,Sarajevo - Vogošća,1876
-2013,Broj,M,20-24,Sarajevo - Vogošća,1007
-2013,Broj,Ž,20-24,Sarajevo - Vogošća,869
+2013,Broj,Oba spola,20-24,Sarajevo-Vogošća,1876
+2013,Broj,M,20-24,Sarajevo-Vogošća,1007
+2013,Broj,Ž,20-24,Sarajevo-Vogošća,869
 2013,Broj,Oba spola,20-24,Vukosavlje,294
 2013,Broj,M,20-24,Vukosavlje,159
 2013,Broj,Ž,20-24,Vukosavlje,135
@@ -2602,9 +2602,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,25-29,Cazin,5415
 2013,Broj,M,25-29,Cazin,2802
 2013,Broj,Ž,25-29,Cazin,2613
-2013,Broj,Oba spola,25-29,Sarajevo - Centar,3995
-2013,Broj,M,25-29,Sarajevo - Centar,1905
-2013,Broj,Ž,25-29,Sarajevo - Centar,2090
+2013,Broj,Oba spola,25-29,Sarajevo-Centar,3995
+2013,Broj,M,25-29,Sarajevo-Centar,1905
+2013,Broj,Ž,25-29,Sarajevo-Centar,2090
 2013,Broj,Oba spola,25-29,Čajniče,330
 2013,Broj,M,25-29,Čajniče,177
 2013,Broj,Ž,25-29,Čajniče,153
@@ -2647,12 +2647,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,25-29,Drvar,348
 2013,Broj,M,25-29,Drvar,184
 2013,Broj,Ž,25-29,Drvar,164
-2013,Broj,Oba spola,25-29,Foča - FBIH,110
-2013,Broj,M,25-29,Foča - FBIH,62
-2013,Broj,Ž,25-29,Foča - FBIH,48
-2013,Broj,Oba spola,25-29,Foča - RS,1268
-2013,Broj,M,25-29,Foča - RS,685
-2013,Broj,Ž,25-29,Foča - RS,583
+2013,Broj,Oba spola,25-29,Foča-FBiH,110
+2013,Broj,M,25-29,Foča-FBiH,62
+2013,Broj,Ž,25-29,Foča-FBiH,48
+2013,Broj,Oba spola,25-29,Foča-RS,1268
+2013,Broj,M,25-29,Foča-RS,685
+2013,Broj,Ž,25-29,Foča-RS,583
 2013,Broj,Oba spola,25-29,Fojnica,824
 2013,Broj,M,25-29,Fojnica,439
 2013,Broj,Ž,25-29,Fojnica,385
@@ -2680,18 +2680,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,25-29,Grude,1064
 2013,Broj,M,25-29,Grude,550
 2013,Broj,Ž,25-29,Grude,514
-2013,Broj,Oba spola,25-29,Sarajevo - Hadžići,1836
-2013,Broj,M,25-29,Sarajevo - Hadžići,1004
-2013,Broj,Ž,25-29,Sarajevo - Hadžići,832
+2013,Broj,Oba spola,25-29,Sarajevo-Hadžići,1836
+2013,Broj,M,25-29,Sarajevo-Hadžići,1004
+2013,Broj,Ž,25-29,Sarajevo-Hadžići,832
 2013,Broj,Oba spola,25-29,Han Pijesak,204
 2013,Broj,M,25-29,Han Pijesak,99
 2013,Broj,Ž,25-29,Han Pijesak,105
-2013,Broj,Oba spola,25-29,Sarajevo - Ilidža,5189
-2013,Broj,M,25-29,Sarajevo - Ilidža,2577
-2013,Broj,Ž,25-29,Sarajevo - Ilidža,2612
-2013,Broj,Oba spola,25-29,Sarajevo - Ilijaš,1441
-2013,Broj,M,25-29,Sarajevo - Ilijaš,738
-2013,Broj,Ž,25-29,Sarajevo - Ilijaš,703
+2013,Broj,Oba spola,25-29,Sarajevo-Ilidža,5189
+2013,Broj,M,25-29,Sarajevo-Ilidža,2577
+2013,Broj,Ž,25-29,Sarajevo-Ilidža,2612
+2013,Broj,Oba spola,25-29,Sarajevo-Ilijaš,1441
+2013,Broj,M,25-29,Sarajevo-Ilijaš,738
+2013,Broj,Ž,25-29,Sarajevo-Ilijaš,703
 2013,Broj,Oba spola,25-29,Istočna Ilidža,1072
 2013,Broj,M,25-29,Istočna Ilidža,556
 2013,Broj,Ž,25-29,Istočna Ilidža,516
@@ -2755,12 +2755,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,25-29,Krupa Na Uni,66
 2013,Broj,M,25-29,Krupa Na Uni,38
 2013,Broj,Ž,25-29,Krupa Na Uni,28
-2013,Broj,Oba spola,25-29,Kupres - FBIH,310
-2013,Broj,M,25-29,Kupres - FBIH,153
-2013,Broj,Ž,25-29,Kupres - FBIH,157
-2013,Broj,Oba spola,25-29,Kupres - RS,8
-2013,Broj,M,25-29,Kupres - RS,6
-2013,Broj,Ž,25-29,Kupres - RS,2
+2013,Broj,Oba spola,25-29,Kupres-FBiH,310
+2013,Broj,M,25-29,Kupres-FBiH,153
+2013,Broj,Ž,25-29,Kupres-FBiH,157
+2013,Broj,Oba spola,25-29,Kupres-RS,8
+2013,Broj,M,25-29,Kupres-RS,6
+2013,Broj,Ž,25-29,Kupres-RS,2
 2013,Broj,Oba spola,25-29,Laktaši,2445
 2013,Broj,M,25-29,Laktaši,1184
 2013,Broj,Ž,25-29,Laktaši,1261
@@ -2803,18 +2803,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,25-29,Novi Grad,1723
 2013,Broj,M,25-29,Novi Grad,912
 2013,Broj,Ž,25-29,Novi Grad,811
-2013,Broj,Oba spola,25-29,Sarajevo - Novi Grad,9236
-2013,Broj,M,25-29,Sarajevo - Novi Grad,4435
-2013,Broj,Ž,25-29,Sarajevo - Novi Grad,4801
+2013,Broj,Oba spola,25-29,Sarajevo-Novi Grad,9236
+2013,Broj,M,25-29,Sarajevo-Novi Grad,4435
+2013,Broj,Ž,25-29,Sarajevo-Novi Grad,4801
 2013,Broj,Oba spola,25-29,Novi Travnik,1925
 2013,Broj,M,25-29,Novi Travnik,1017
 2013,Broj,Ž,25-29,Novi Travnik,908
 2013,Broj,Oba spola,25-29,Novo Goražde,235
 2013,Broj,M,25-29,Novo Goražde,137
 2013,Broj,Ž,25-29,Novo Goražde,98
-2013,Broj,Oba spola,25-29,Sarajevo - Novo Sarajevo,5196
-2013,Broj,M,25-29,Sarajevo - Novo Sarajevo,2410
-2013,Broj,Ž,25-29,Sarajevo - Novo Sarajevo,2786
+2013,Broj,Oba spola,25-29,Sarajevo-Novo Sarajevo,5196
+2013,Broj,M,25-29,Sarajevo-Novo Sarajevo,2410
+2013,Broj,Ž,25-29,Sarajevo-Novo Sarajevo,2786
 2013,Broj,Oba spola,25-29,Odžak,1196
 2013,Broj,M,25-29,Odžak,619
 2013,Broj,Ž,25-29,Odžak,577
@@ -2830,12 +2830,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,25-29,Oštra Luka,136
 2013,Broj,M,25-29,Oštra Luka,76
 2013,Broj,Ž,25-29,Oštra Luka,60
-2013,Broj,Oba spola,25-29,Pale - FBIH,42
-2013,Broj,M,25-29,Pale - FBIH,25
-2013,Broj,Ž,25-29,Pale - FBIH,17
-2013,Broj,Oba spola,25-29,Pale - RS,1507
-2013,Broj,M,25-29,Pale - RS,780
-2013,Broj,Ž,25-29,Pale - RS,727
+2013,Broj,Oba spola,25-29,Pale-FBiH,42
+2013,Broj,M,25-29,Pale-FBiH,25
+2013,Broj,Ž,25-29,Pale-FBiH,17
+2013,Broj,Oba spola,25-29,Pale-RS,1507
+2013,Broj,M,25-29,Pale-RS,780
+2013,Broj,Ž,25-29,Pale-RS,727
 2013,Broj,Oba spola,25-29,Pelagićevo,231
 2013,Broj,M,25-29,Pelagićevo,126
 2013,Broj,Ž,25-29,Pelagićevo,105
@@ -2887,9 +2887,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,25-29,Srebrenik,2952
 2013,Broj,M,25-29,Srebrenik,1492
 2013,Broj,Ž,25-29,Srebrenik,1460
-2013,Broj,Oba spola,25-29,Sarajevo - Stari Grad,2822
-2013,Broj,M,25-29,Sarajevo - Stari Grad,1392
-2013,Broj,Ž,25-29,Sarajevo - Stari Grad,1430
+2013,Broj,Oba spola,25-29,Sarajevo-Stari Grad,2822
+2013,Broj,M,25-29,Sarajevo-Stari Grad,1392
+2013,Broj,Ž,25-29,Sarajevo-Stari Grad,1430
 2013,Broj,Oba spola,25-29,Stolac,993
 2013,Broj,M,25-29,Stolac,514
 2013,Broj,Ž,25-29,Stolac,479
@@ -2902,9 +2902,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,25-29,Šipovo,654
 2013,Broj,M,25-29,Šipovo,360
 2013,Broj,Ž,25-29,Šipovo,294
-2013,Broj,Oba spola,25-29,Široki Brijeg,2068
-2013,Broj,M,25-29,Široki Brijeg,1060
-2013,Broj,Ž,25-29,Široki Brijeg,1008
+2013,Broj,Oba spola,25-29,siroki_brijeg,2068
+2013,Broj,M,25-29,siroki_brijeg,1060
+2013,Broj,Ž,25-29,siroki_brijeg,1008
 2013,Broj,Oba spola,25-29,Teočak,517
 2013,Broj,M,25-29,Teočak,267
 2013,Broj,Ž,25-29,Teočak,250
@@ -2923,12 +2923,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,25-29,Trebinje,1897
 2013,Broj,M,25-29,Trebinje,968
 2013,Broj,Ž,25-29,Trebinje,929
-2013,Broj,Oba spola,25-29,Trnovo - FBIH,69
-2013,Broj,M,25-29,Trnovo - FBIH,41
-2013,Broj,Ž,25-29,Trnovo - FBIH,28
-2013,Broj,Oba spola,25-29,Trnovo - RS,143
-2013,Broj,M,25-29,Trnovo - RS,78
-2013,Broj,Ž,25-29,Trnovo - RS,65
+2013,Broj,Oba spola,25-29,Trnovo-FBiH,69
+2013,Broj,M,25-29,Trnovo-FBiH,41
+2013,Broj,Ž,25-29,Trnovo-FBiH,28
+2013,Broj,Oba spola,25-29,Trnovo-RS,143
+2013,Broj,M,25-29,Trnovo-RS,78
+2013,Broj,Ž,25-29,Trnovo-RS,65
 2013,Broj,Oba spola,25-29,Tuzla,8282
 2013,Broj,M,25-29,Tuzla,4106
 2013,Broj,Ž,25-29,Tuzla,4176
@@ -2956,9 +2956,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,25-29,Vlasenica,855
 2013,Broj,M,25-29,Vlasenica,426
 2013,Broj,Ž,25-29,Vlasenica,429
-2013,Broj,Oba spola,25-29,Sarajevo - Vogošća,2149
-2013,Broj,M,25-29,Sarajevo - Vogošća,1034
-2013,Broj,Ž,25-29,Sarajevo - Vogošća,1115
+2013,Broj,Oba spola,25-29,Sarajevo-Vogošća,2149
+2013,Broj,M,25-29,Sarajevo-Vogošća,1034
+2013,Broj,Ž,25-29,Sarajevo-Vogošća,1115
 2013,Broj,Oba spola,25-29,Vukosavlje,291
 2013,Broj,M,25-29,Vukosavlje,152
 2013,Broj,Ž,25-29,Vukosavlje,139
@@ -3028,9 +3028,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,30-24,Cazin,5425
 2013,Broj,M,30-24,Cazin,2765
 2013,Broj,Ž,30-24,Cazin,2660
-2013,Broj,Oba spola,30-24,Sarajevo - Centar,4122
-2013,Broj,M,30-24,Sarajevo - Centar,1946
-2013,Broj,Ž,30-24,Sarajevo - Centar,2176
+2013,Broj,Oba spola,30-24,Sarajevo-Centar,4122
+2013,Broj,M,30-24,Sarajevo-Centar,1946
+2013,Broj,Ž,30-24,Sarajevo-Centar,2176
 2013,Broj,Oba spola,30-24,Čajniče,280
 2013,Broj,M,30-24,Čajniče,162
 2013,Broj,Ž,30-24,Čajniče,118
@@ -3073,12 +3073,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,30-24,Drvar,388
 2013,Broj,M,30-24,Drvar,225
 2013,Broj,Ž,30-24,Drvar,163
-2013,Broj,Oba spola,30-24,Foča - FBIH,106
-2013,Broj,M,30-24,Foča - FBIH,61
-2013,Broj,Ž,30-24,Foča - FBIH,45
-2013,Broj,Oba spola,30-24,Foča - RS,1148
-2013,Broj,M,30-24,Foča - RS,652
-2013,Broj,Ž,30-24,Foča - RS,496
+2013,Broj,Oba spola,30-24,Foča-FBiH,106
+2013,Broj,M,30-24,Foča-FBiH,61
+2013,Broj,Ž,30-24,Foča-FBiH,45
+2013,Broj,Oba spola,30-24,Foča-RS,1148
+2013,Broj,M,30-24,Foča-RS,652
+2013,Broj,Ž,30-24,Foča-RS,496
 2013,Broj,Oba spola,30-24,Fojnica,865
 2013,Broj,M,30-24,Fojnica,468
 2013,Broj,Ž,30-24,Fojnica,397
@@ -3106,18 +3106,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,30-24,Grude,1004
 2013,Broj,M,30-24,Grude,494
 2013,Broj,Ž,30-24,Grude,510
-2013,Broj,Oba spola,30-24,Sarajevo - Hadžići,1833
-2013,Broj,M,30-24,Sarajevo - Hadžići,904
-2013,Broj,Ž,30-24,Sarajevo - Hadžići,929
+2013,Broj,Oba spola,30-24,Sarajevo-Hadžići,1833
+2013,Broj,M,30-24,Sarajevo-Hadžići,904
+2013,Broj,Ž,30-24,Sarajevo-Hadžići,929
 2013,Broj,Oba spola,30-24,Han Pijesak,199
 2013,Broj,M,30-24,Han Pijesak,106
 2013,Broj,Ž,30-24,Han Pijesak,93
-2013,Broj,Oba spola,30-24,Sarajevo - Ilidža,5463
-2013,Broj,M,30-24,Sarajevo - Ilidža,2675
-2013,Broj,Ž,30-24,Sarajevo - Ilidža,2788
-2013,Broj,Oba spola,30-24,Sarajevo - Ilijaš,1577
-2013,Broj,M,30-24,Sarajevo - Ilijaš,788
-2013,Broj,Ž,30-24,Sarajevo - Ilijaš,789
+2013,Broj,Oba spola,30-24,Sarajevo-Ilidža,5463
+2013,Broj,M,30-24,Sarajevo-Ilidža,2675
+2013,Broj,Ž,30-24,Sarajevo-Ilidža,2788
+2013,Broj,Oba spola,30-24,Sarajevo-Ilijaš,1577
+2013,Broj,M,30-24,Sarajevo-Ilijaš,788
+2013,Broj,Ž,30-24,Sarajevo-Ilijaš,789
 2013,Broj,Oba spola,30-24,Istočna Ilidža,1183
 2013,Broj,M,30-24,Istočna Ilidža,573
 2013,Broj,Ž,30-24,Istočna Ilidža,610
@@ -3181,12 +3181,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,30-24,Krupa Na Uni,80
 2013,Broj,M,30-24,Krupa Na Uni,50
 2013,Broj,Ž,30-24,Krupa Na Uni,30
-2013,Broj,Oba spola,30-24,Kupres - FBIH,294
-2013,Broj,M,30-24,Kupres - FBIH,156
-2013,Broj,Ž,30-24,Kupres - FBIH,138
-2013,Broj,Oba spola,30-24,Kupres - RS,7
-2013,Broj,M,30-24,Kupres - RS,1
-2013,Broj,Ž,30-24,Kupres - RS,6
+2013,Broj,Oba spola,30-24,Kupres-FBiH,294
+2013,Broj,M,30-24,Kupres-FBiH,156
+2013,Broj,Ž,30-24,Kupres-FBiH,138
+2013,Broj,Oba spola,30-24,Kupres-RS,7
+2013,Broj,M,30-24,Kupres-RS,1
+2013,Broj,Ž,30-24,Kupres-RS,6
 2013,Broj,Oba spola,30-24,Laktaši,2476
 2013,Broj,M,30-24,Laktaši,1252
 2013,Broj,Ž,30-24,Laktaši,1224
@@ -3229,18 +3229,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,30-24,Novi Grad,1771
 2013,Broj,M,30-24,Novi Grad,933
 2013,Broj,Ž,30-24,Novi Grad,838
-2013,Broj,Oba spola,30-24,Sarajevo - Novi Grad,10261
-2013,Broj,M,30-24,Sarajevo - Novi Grad,4916
-2013,Broj,Ž,30-24,Sarajevo - Novi Grad,5345
+2013,Broj,Oba spola,30-24,Sarajevo-Novi Grad,10261
+2013,Broj,M,30-24,Sarajevo-Novi Grad,4916
+2013,Broj,Ž,30-24,Sarajevo-Novi Grad,5345
 2013,Broj,Oba spola,30-24,Novi Travnik,1690
 2013,Broj,M,30-24,Novi Travnik,930
 2013,Broj,Ž,30-24,Novi Travnik,760
 2013,Broj,Oba spola,30-24,Novo Goražde,221
 2013,Broj,M,30-24,Novo Goražde,112
 2013,Broj,Ž,30-24,Novo Goražde,109
-2013,Broj,Oba spola,30-24,Sarajevo - Novo Sarajevo,5296
-2013,Broj,M,30-24,Sarajevo - Novo Sarajevo,2477
-2013,Broj,Ž,30-24,Sarajevo - Novo Sarajevo,2819
+2013,Broj,Oba spola,30-24,Sarajevo-Novo Sarajevo,5296
+2013,Broj,M,30-24,Sarajevo-Novo Sarajevo,2477
+2013,Broj,Ž,30-24,Sarajevo-Novo Sarajevo,2819
 2013,Broj,Oba spola,30-24,Odžak,1160
 2013,Broj,M,30-24,Odžak,585
 2013,Broj,Ž,30-24,Odžak,575
@@ -3256,12 +3256,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,30-24,Oštra Luka,138
 2013,Broj,M,30-24,Oštra Luka,73
 2013,Broj,Ž,30-24,Oštra Luka,65
-2013,Broj,Oba spola,30-24,Pale - FBIH,40
-2013,Broj,M,30-24,Pale - FBIH,17
-2013,Broj,Ž,30-24,Pale - FBIH,23
-2013,Broj,Oba spola,30-24,Pale - RS,1499
-2013,Broj,M,30-24,Pale - RS,721
-2013,Broj,Ž,30-24,Pale - RS,778
+2013,Broj,Oba spola,30-24,Pale-FBiH,40
+2013,Broj,M,30-24,Pale-FBiH,17
+2013,Broj,Ž,30-24,Pale-FBiH,23
+2013,Broj,Oba spola,30-24,Pale-RS,1499
+2013,Broj,M,30-24,Pale-RS,721
+2013,Broj,Ž,30-24,Pale-RS,778
 2013,Broj,Oba spola,30-24,Pelagićevo,234
 2013,Broj,M,30-24,Pelagićevo,112
 2013,Broj,Ž,30-24,Pelagićevo,122
@@ -3313,9 +3313,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,30-24,Srebrenik,2859
 2013,Broj,M,30-24,Srebrenik,1476
 2013,Broj,Ž,30-24,Srebrenik,1383
-2013,Broj,Oba spola,30-24,Sarajevo - Stari Grad,2732
-2013,Broj,M,30-24,Sarajevo - Stari Grad,1319
-2013,Broj,Ž,30-24,Sarajevo - Stari Grad,1413
+2013,Broj,Oba spola,30-24,Sarajevo-Stari Grad,2732
+2013,Broj,M,30-24,Sarajevo-Stari Grad,1319
+2013,Broj,Ž,30-24,Sarajevo-Stari Grad,1413
 2013,Broj,Oba spola,30-24,Stolac,981
 2013,Broj,M,30-24,Stolac,520
 2013,Broj,Ž,30-24,Stolac,461
@@ -3328,9 +3328,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,30-24,Šipovo,668
 2013,Broj,M,30-24,Šipovo,372
 2013,Broj,Ž,30-24,Šipovo,296
-2013,Broj,Oba spola,30-24,Široki Brijeg,1692
-2013,Broj,M,30-24,Široki Brijeg,842
-2013,Broj,Ž,30-24,Široki Brijeg,850
+2013,Broj,Oba spola,30-24,siroki_brijeg,1692
+2013,Broj,M,30-24,siroki_brijeg,842
+2013,Broj,Ž,30-24,siroki_brijeg,850
 2013,Broj,Oba spola,30-24,Teočak,549
 2013,Broj,M,30-24,Teočak,305
 2013,Broj,Ž,30-24,Teočak,244
@@ -3349,12 +3349,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,30-24,Trebinje,1968
 2013,Broj,M,30-24,Trebinje,990
 2013,Broj,Ž,30-24,Trebinje,978
-2013,Broj,Oba spola,30-24,Trnovo - FBIH,73
-2013,Broj,M,30-24,Trnovo - FBIH,39
-2013,Broj,Ž,30-24,Trnovo - FBIH,34
-2013,Broj,Oba spola,30-24,Trnovo - RS,130
-2013,Broj,M,30-24,Trnovo - RS,78
-2013,Broj,Ž,30-24,Trnovo - RS,52
+2013,Broj,Oba spola,30-24,Trnovo-FBiH,73
+2013,Broj,M,30-24,Trnovo-FBiH,39
+2013,Broj,Ž,30-24,Trnovo-FBiH,34
+2013,Broj,Oba spola,30-24,Trnovo-RS,130
+2013,Broj,M,30-24,Trnovo-RS,78
+2013,Broj,Ž,30-24,Trnovo-RS,52
 2013,Broj,Oba spola,30-24,Tuzla,8028
 2013,Broj,M,30-24,Tuzla,3994
 2013,Broj,Ž,30-24,Tuzla,4034
@@ -3382,9 +3382,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,30-24,Vlasenica,893
 2013,Broj,M,30-24,Vlasenica,474
 2013,Broj,Ž,30-24,Vlasenica,419
-2013,Broj,Oba spola,30-24,Sarajevo - Vogošća,2271
-2013,Broj,M,30-24,Sarajevo - Vogošća,1125
-2013,Broj,Ž,30-24,Sarajevo - Vogošća,1146
+2013,Broj,Oba spola,30-24,Sarajevo-Vogošća,2271
+2013,Broj,M,30-24,Sarajevo-Vogošća,1125
+2013,Broj,Ž,30-24,Sarajevo-Vogošća,1146
 2013,Broj,Oba spola,30-24,Vukosavlje,326
 2013,Broj,M,30-24,Vukosavlje,178
 2013,Broj,Ž,30-24,Vukosavlje,148
@@ -3454,9 +3454,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,35-39,Cazin,5606
 2013,Broj,M,35-39,Cazin,2839
 2013,Broj,Ž,35-39,Cazin,2767
-2013,Broj,Oba spola,35-39,Sarajevo - Centar,3730
-2013,Broj,M,35-39,Sarajevo - Centar,1775
-2013,Broj,Ž,35-39,Sarajevo - Centar,1955
+2013,Broj,Oba spola,35-39,Sarajevo-Centar,3730
+2013,Broj,M,35-39,Sarajevo-Centar,1775
+2013,Broj,Ž,35-39,Sarajevo-Centar,1955
 2013,Broj,Oba spola,35-39,Čajniče,264
 2013,Broj,M,35-39,Čajniče,142
 2013,Broj,Ž,35-39,Čajniče,122
@@ -3499,12 +3499,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,35-39,Drvar,422
 2013,Broj,M,35-39,Drvar,226
 2013,Broj,Ž,35-39,Drvar,196
-2013,Broj,Oba spola,35-39,Foča - FBIH,124
-2013,Broj,M,35-39,Foča - FBIH,70
-2013,Broj,Ž,35-39,Foča - FBIH,54
-2013,Broj,Oba spola,35-39,Foča - RS,1093
-2013,Broj,M,35-39,Foča - RS,609
-2013,Broj,Ž,35-39,Foča - RS,484
+2013,Broj,Oba spola,35-39,Foča-FBiH,124
+2013,Broj,M,35-39,Foča-FBiH,70
+2013,Broj,Ž,35-39,Foča-FBiH,54
+2013,Broj,Oba spola,35-39,Foča-RS,1093
+2013,Broj,M,35-39,Foča-RS,609
+2013,Broj,Ž,35-39,Foča-RS,484
 2013,Broj,Oba spola,35-39,Fojnica,818
 2013,Broj,M,35-39,Fojnica,404
 2013,Broj,Ž,35-39,Fojnica,414
@@ -3532,18 +3532,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,35-39,Grude,1090
 2013,Broj,M,35-39,Grude,542
 2013,Broj,Ž,35-39,Grude,548
-2013,Broj,Oba spola,35-39,Sarajevo - Hadžići,1665
-2013,Broj,M,35-39,Sarajevo - Hadžići,825
-2013,Broj,Ž,35-39,Sarajevo - Hadžići,840
+2013,Broj,Oba spola,35-39,Sarajevo-Hadžići,1665
+2013,Broj,M,35-39,Sarajevo-Hadžići,825
+2013,Broj,Ž,35-39,Sarajevo-Hadžići,840
 2013,Broj,Oba spola,35-39,Han Pijesak,194
 2013,Broj,M,35-39,Han Pijesak,98
 2013,Broj,Ž,35-39,Han Pijesak,96
-2013,Broj,Oba spola,35-39,Sarajevo - Ilidža,4766
-2013,Broj,M,35-39,Sarajevo - Ilidža,2245
-2013,Broj,Ž,35-39,Sarajevo - Ilidža,2521
-2013,Broj,Oba spola,35-39,Sarajevo - Ilijaš,1371
-2013,Broj,M,35-39,Sarajevo - Ilijaš,695
-2013,Broj,Ž,35-39,Sarajevo - Ilijaš,676
+2013,Broj,Oba spola,35-39,Sarajevo-Ilidža,4766
+2013,Broj,M,35-39,Sarajevo-Ilidža,2245
+2013,Broj,Ž,35-39,Sarajevo-Ilidža,2521
+2013,Broj,Oba spola,35-39,Sarajevo-Ilijaš,1371
+2013,Broj,M,35-39,Sarajevo-Ilijaš,695
+2013,Broj,Ž,35-39,Sarajevo-Ilijaš,676
 2013,Broj,Oba spola,35-39,Istočna Ilidža,1019
 2013,Broj,M,35-39,Istočna Ilidža,530
 2013,Broj,Ž,35-39,Istočna Ilidža,489
@@ -3607,12 +3607,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,35-39,Krupa Na Uni,89
 2013,Broj,M,35-39,Krupa Na Uni,53
 2013,Broj,Ž,35-39,Krupa Na Uni,36
-2013,Broj,Oba spola,35-39,Kupres - FBIH,335
-2013,Broj,M,35-39,Kupres - FBIH,176
-2013,Broj,Ž,35-39,Kupres - FBIH,159
-2013,Broj,Oba spola,35-39,Kupres - RS,16
-2013,Broj,M,35-39,Kupres - RS,10
-2013,Broj,Ž,35-39,Kupres - RS,6
+2013,Broj,Oba spola,35-39,Kupres-FBiH,335
+2013,Broj,M,35-39,Kupres-FBiH,176
+2013,Broj,Ž,35-39,Kupres-FBiH,159
+2013,Broj,Oba spola,35-39,Kupres-RS,16
+2013,Broj,M,35-39,Kupres-RS,10
+2013,Broj,Ž,35-39,Kupres-RS,6
 2013,Broj,Oba spola,35-39,Laktaši,2513
 2013,Broj,M,35-39,Laktaši,1308
 2013,Broj,Ž,35-39,Laktaši,1205
@@ -3655,18 +3655,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,35-39,Novi Grad,1720
 2013,Broj,M,35-39,Novi Grad,904
 2013,Broj,Ž,35-39,Novi Grad,816
-2013,Broj,Oba spola,35-39,Sarajevo - Novi Grad,9451
-2013,Broj,M,35-39,Sarajevo - Novi Grad,4592
-2013,Broj,Ž,35-39,Sarajevo - Novi Grad,4859
+2013,Broj,Oba spola,35-39,Sarajevo-Novi Grad,9451
+2013,Broj,M,35-39,Sarajevo-Novi Grad,4592
+2013,Broj,Ž,35-39,Sarajevo-Novi Grad,4859
 2013,Broj,Oba spola,35-39,Novi Travnik,1657
 2013,Broj,M,35-39,Novi Travnik,813
 2013,Broj,Ž,35-39,Novi Travnik,844
 2013,Broj,Oba spola,35-39,Novo Goražde,182
 2013,Broj,M,35-39,Novo Goražde,112
 2013,Broj,Ž,35-39,Novo Goražde,70
-2013,Broj,Oba spola,35-39,Sarajevo - Novo Sarajevo,4614
-2013,Broj,M,35-39,Sarajevo - Novo Sarajevo,2165
-2013,Broj,Ž,35-39,Sarajevo - Novo Sarajevo,2449
+2013,Broj,Oba spola,35-39,Sarajevo-Novo Sarajevo,4614
+2013,Broj,M,35-39,Sarajevo-Novo Sarajevo,2165
+2013,Broj,Ž,35-39,Sarajevo-Novo Sarajevo,2449
 2013,Broj,Oba spola,35-39,Odžak,1317
 2013,Broj,M,35-39,Odžak,680
 2013,Broj,Ž,35-39,Odžak,637
@@ -3682,12 +3682,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,35-39,Oštra Luka,204
 2013,Broj,M,35-39,Oštra Luka,108
 2013,Broj,Ž,35-39,Oštra Luka,96
-2013,Broj,Oba spola,35-39,Pale - FBIH,51
-2013,Broj,M,35-39,Pale - FBIH,28
-2013,Broj,Ž,35-39,Pale - FBIH,23
-2013,Broj,Oba spola,35-39,Pale - RS,1329
-2013,Broj,M,35-39,Pale - RS,703
-2013,Broj,Ž,35-39,Pale - RS,626
+2013,Broj,Oba spola,35-39,Pale-FBiH,51
+2013,Broj,M,35-39,Pale-FBiH,28
+2013,Broj,Ž,35-39,Pale-FBiH,23
+2013,Broj,Oba spola,35-39,Pale-RS,1329
+2013,Broj,M,35-39,Pale-RS,703
+2013,Broj,Ž,35-39,Pale-RS,626
 2013,Broj,Oba spola,35-39,Pelagićevo,329
 2013,Broj,M,35-39,Pelagićevo,156
 2013,Broj,Ž,35-39,Pelagićevo,173
@@ -3739,9 +3739,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,35-39,Srebrenik,2798
 2013,Broj,M,35-39,Srebrenik,1354
 2013,Broj,Ž,35-39,Srebrenik,1444
-2013,Broj,Oba spola,35-39,Sarajevo - Stari Grad,2445
-2013,Broj,M,35-39,Sarajevo - Stari Grad,1156
-2013,Broj,Ž,35-39,Sarajevo - Stari Grad,1289
+2013,Broj,Oba spola,35-39,Sarajevo-Stari Grad,2445
+2013,Broj,M,35-39,Sarajevo-Stari Grad,1156
+2013,Broj,Ž,35-39,Sarajevo-Stari Grad,1289
 2013,Broj,Oba spola,35-39,Stolac,906
 2013,Broj,M,35-39,Stolac,474
 2013,Broj,Ž,35-39,Stolac,432
@@ -3754,9 +3754,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,35-39,Šipovo,630
 2013,Broj,M,35-39,Šipovo,337
 2013,Broj,Ž,35-39,Šipovo,293
-2013,Broj,Oba spola,35-39,Široki Brijeg,1706
-2013,Broj,M,35-39,Široki Brijeg,848
-2013,Broj,Ž,35-39,Široki Brijeg,858
+2013,Broj,Oba spola,35-39,siroki_brijeg,1706
+2013,Broj,M,35-39,siroki_brijeg,848
+2013,Broj,Ž,35-39,siroki_brijeg,858
 2013,Broj,Oba spola,35-39,Teočak,586
 2013,Broj,M,35-39,Teočak,308
 2013,Broj,Ž,35-39,Teočak,278
@@ -3775,12 +3775,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,35-39,Trebinje,1921
 2013,Broj,M,35-39,Trebinje,1029
 2013,Broj,Ž,35-39,Trebinje,892
-2013,Broj,Oba spola,35-39,Trnovo - FBIH,66
-2013,Broj,M,35-39,Trnovo - FBIH,38
-2013,Broj,Ž,35-39,Trnovo - FBIH,28
-2013,Broj,Oba spola,35-39,Trnovo - RS,90
-2013,Broj,M,35-39,Trnovo - RS,45
-2013,Broj,Ž,35-39,Trnovo - RS,45
+2013,Broj,Oba spola,35-39,Trnovo-FBiH,66
+2013,Broj,M,35-39,Trnovo-FBiH,38
+2013,Broj,Ž,35-39,Trnovo-FBiH,28
+2013,Broj,Oba spola,35-39,Trnovo-RS,90
+2013,Broj,M,35-39,Trnovo-RS,45
+2013,Broj,Ž,35-39,Trnovo-RS,45
 2013,Broj,Oba spola,35-39,Tuzla,7412
 2013,Broj,M,35-39,Tuzla,3602
 2013,Broj,Ž,35-39,Tuzla,3810
@@ -3808,9 +3808,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,35-39,Vlasenica,866
 2013,Broj,M,35-39,Vlasenica,471
 2013,Broj,Ž,35-39,Vlasenica,395
-2013,Broj,Oba spola,35-39,Sarajevo - Vogošća,1989
-2013,Broj,M,35-39,Sarajevo - Vogošća,981
-2013,Broj,Ž,35-39,Sarajevo - Vogošća,1008
+2013,Broj,Oba spola,35-39,Sarajevo-Vogošća,1989
+2013,Broj,M,35-39,Sarajevo-Vogošća,981
+2013,Broj,Ž,35-39,Sarajevo-Vogošća,1008
 2013,Broj,Oba spola,35-39,Vukosavlje,323
 2013,Broj,M,35-39,Vukosavlje,161
 2013,Broj,Ž,35-39,Vukosavlje,162
@@ -3880,9 +3880,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,40-44,Cazin,5482
 2013,Broj,M,40-44,Cazin,2738
 2013,Broj,Ž,40-44,Cazin,2744
-2013,Broj,Oba spola,40-44,Sarajevo - Centar,3429
-2013,Broj,M,40-44,Sarajevo - Centar,1552
-2013,Broj,Ž,40-44,Sarajevo - Centar,1877
+2013,Broj,Oba spola,40-44,Sarajevo-Centar,3429
+2013,Broj,M,40-44,Sarajevo-Centar,1552
+2013,Broj,Ž,40-44,Sarajevo-Centar,1877
 2013,Broj,Oba spola,40-44,Čajniče,304
 2013,Broj,M,40-44,Čajniče,178
 2013,Broj,Ž,40-44,Čajniče,126
@@ -3925,12 +3925,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,40-44,Drvar,400
 2013,Broj,M,40-44,Drvar,228
 2013,Broj,Ž,40-44,Drvar,172
-2013,Broj,Oba spola,40-44,Foča - FBIH,105
-2013,Broj,M,40-44,Foča - FBIH,66
-2013,Broj,Ž,40-44,Foča - FBIH,39
-2013,Broj,Oba spola,40-44,Foča - RS,1034
-2013,Broj,M,40-44,Foča - RS,546
-2013,Broj,Ž,40-44,Foča - RS,488
+2013,Broj,Oba spola,40-44,Foča-FBiH,105
+2013,Broj,M,40-44,Foča-FBiH,66
+2013,Broj,Ž,40-44,Foča-FBiH,39
+2013,Broj,Oba spola,40-44,Foča-RS,1034
+2013,Broj,M,40-44,Foča-RS,546
+2013,Broj,Ž,40-44,Foča-RS,488
 2013,Broj,Oba spola,40-44,Fojnica,899
 2013,Broj,M,40-44,Fojnica,476
 2013,Broj,Ž,40-44,Fojnica,423
@@ -3958,18 +3958,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,40-44,Grude,1170
 2013,Broj,M,40-44,Grude,595
 2013,Broj,Ž,40-44,Grude,575
-2013,Broj,Oba spola,40-44,Sarajevo - Hadžići,1633
-2013,Broj,M,40-44,Sarajevo - Hadžići,832
-2013,Broj,Ž,40-44,Sarajevo - Hadžići,801
+2013,Broj,Oba spola,40-44,Sarajevo-Hadžići,1633
+2013,Broj,M,40-44,Sarajevo-Hadžići,832
+2013,Broj,Ž,40-44,Sarajevo-Hadžići,801
 2013,Broj,Oba spola,40-44,Han Pijesak,194
 2013,Broj,M,40-44,Han Pijesak,96
 2013,Broj,Ž,40-44,Han Pijesak,98
-2013,Broj,Oba spola,40-44,Sarajevo - Ilidža,4564
-2013,Broj,M,40-44,Sarajevo - Ilidža,2208
-2013,Broj,Ž,40-44,Sarajevo - Ilidža,2356
-2013,Broj,Oba spola,40-44,Sarajevo - Ilijaš,1350
-2013,Broj,M,40-44,Sarajevo - Ilijaš,645
-2013,Broj,Ž,40-44,Sarajevo - Ilijaš,705
+2013,Broj,Oba spola,40-44,Sarajevo-Ilidža,4564
+2013,Broj,M,40-44,Sarajevo-Ilidža,2208
+2013,Broj,Ž,40-44,Sarajevo-Ilidža,2356
+2013,Broj,Oba spola,40-44,Sarajevo-Ilijaš,1350
+2013,Broj,M,40-44,Sarajevo-Ilijaš,645
+2013,Broj,Ž,40-44,Sarajevo-Ilijaš,705
 2013,Broj,Oba spola,40-44,Istočna Ilidža,892
 2013,Broj,M,40-44,Istočna Ilidža,470
 2013,Broj,Ž,40-44,Istočna Ilidža,422
@@ -4033,12 +4033,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,40-44,Krupa Na Uni,111
 2013,Broj,M,40-44,Krupa Na Uni,70
 2013,Broj,Ž,40-44,Krupa Na Uni,41
-2013,Broj,Oba spola,40-44,Kupres - FBIH,343
-2013,Broj,M,40-44,Kupres - FBIH,173
-2013,Broj,Ž,40-44,Kupres - FBIH,170
-2013,Broj,Oba spola,40-44,Kupres - RS,17
-2013,Broj,M,40-44,Kupres - RS,8
-2013,Broj,Ž,40-44,Kupres - RS,9
+2013,Broj,Oba spola,40-44,Kupres-FBiH,343
+2013,Broj,M,40-44,Kupres-FBiH,173
+2013,Broj,Ž,40-44,Kupres-FBiH,170
+2013,Broj,Oba spola,40-44,Kupres-RS,17
+2013,Broj,M,40-44,Kupres-RS,8
+2013,Broj,Ž,40-44,Kupres-RS,9
 2013,Broj,Oba spola,40-44,Laktaši,2365
 2013,Broj,M,40-44,Laktaši,1216
 2013,Broj,Ž,40-44,Laktaši,1149
@@ -4081,18 +4081,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,40-44,Novi Grad,1931
 2013,Broj,M,40-44,Novi Grad,1007
 2013,Broj,Ž,40-44,Novi Grad,924
-2013,Broj,Oba spola,40-44,Sarajevo - Novi Grad,7789
-2013,Broj,M,40-44,Sarajevo - Novi Grad,3746
-2013,Broj,Ž,40-44,Sarajevo - Novi Grad,4043
+2013,Broj,Oba spola,40-44,Sarajevo-Novi Grad,7789
+2013,Broj,M,40-44,Sarajevo-Novi Grad,3746
+2013,Broj,Ž,40-44,Sarajevo-Novi Grad,4043
 2013,Broj,Oba spola,40-44,Novi Travnik,1727
 2013,Broj,M,40-44,Novi Travnik,882
 2013,Broj,Ž,40-44,Novi Travnik,845
 2013,Broj,Oba spola,40-44,Novo Goražde,180
 2013,Broj,M,40-44,Novo Goražde,101
 2013,Broj,Ž,40-44,Novo Goražde,79
-2013,Broj,Oba spola,40-44,Sarajevo - Novo Sarajevo,4120
-2013,Broj,M,40-44,Sarajevo - Novo Sarajevo,1840
-2013,Broj,Ž,40-44,Sarajevo - Novo Sarajevo,2280
+2013,Broj,Oba spola,40-44,Sarajevo-Novo Sarajevo,4120
+2013,Broj,M,40-44,Sarajevo-Novo Sarajevo,1840
+2013,Broj,Ž,40-44,Sarajevo-Novo Sarajevo,2280
 2013,Broj,Oba spola,40-44,Odžak,1515
 2013,Broj,M,40-44,Odžak,772
 2013,Broj,Ž,40-44,Odžak,743
@@ -4108,12 +4108,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,40-44,Oštra Luka,180
 2013,Broj,M,40-44,Oštra Luka,106
 2013,Broj,Ž,40-44,Oštra Luka,74
-2013,Broj,Oba spola,40-44,Pale - FBIH,60
-2013,Broj,M,40-44,Pale - FBIH,24
-2013,Broj,Ž,40-44,Pale - FBIH,36
-2013,Broj,Oba spola,40-44,Pale - RS,1109
-2013,Broj,M,40-44,Pale - RS,537
-2013,Broj,Ž,40-44,Pale - RS,572
+2013,Broj,Oba spola,40-44,Pale-FBiH,60
+2013,Broj,M,40-44,Pale-FBiH,24
+2013,Broj,Ž,40-44,Pale-FBiH,36
+2013,Broj,Oba spola,40-44,Pale-RS,1109
+2013,Broj,M,40-44,Pale-RS,537
+2013,Broj,Ž,40-44,Pale-RS,572
 2013,Broj,Oba spola,40-44,Pelagićevo,361
 2013,Broj,M,40-44,Pelagićevo,212
 2013,Broj,Ž,40-44,Pelagićevo,149
@@ -4165,9 +4165,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,40-44,Srebrenik,2962
 2013,Broj,M,40-44,Srebrenik,1469
 2013,Broj,Ž,40-44,Srebrenik,1493
-2013,Broj,Oba spola,40-44,Sarajevo - Stari Grad,2104
-2013,Broj,M,40-44,Sarajevo - Stari Grad,1048
-2013,Broj,Ž,40-44,Sarajevo - Stari Grad,1056
+2013,Broj,Oba spola,40-44,Sarajevo-Stari Grad,2104
+2013,Broj,M,40-44,Sarajevo-Stari Grad,1048
+2013,Broj,Ž,40-44,Sarajevo-Stari Grad,1056
 2013,Broj,Oba spola,40-44,Stolac,990
 2013,Broj,M,40-44,Stolac,523
 2013,Broj,Ž,40-44,Stolac,467
@@ -4180,9 +4180,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,40-44,Šipovo,523
 2013,Broj,M,40-44,Šipovo,296
 2013,Broj,Ž,40-44,Šipovo,227
-2013,Broj,Oba spola,40-44,Široki Brijeg,1889
-2013,Broj,M,40-44,Široki Brijeg,950
-2013,Broj,Ž,40-44,Široki Brijeg,939
+2013,Broj,Oba spola,40-44,siroki_brijeg,1889
+2013,Broj,M,40-44,siroki_brijeg,950
+2013,Broj,Ž,40-44,siroki_brijeg,939
 2013,Broj,Oba spola,40-44,Teočak,562
 2013,Broj,M,40-44,Teočak,302
 2013,Broj,Ž,40-44,Teočak,260
@@ -4201,12 +4201,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,40-44,Trebinje,1748
 2013,Broj,M,40-44,Trebinje,897
 2013,Broj,Ž,40-44,Trebinje,851
-2013,Broj,Oba spola,40-44,Trnovo - FBIH,78
-2013,Broj,M,40-44,Trnovo - FBIH,43
-2013,Broj,Ž,40-44,Trnovo - FBIH,35
-2013,Broj,Oba spola,40-44,Trnovo - RS,101
-2013,Broj,M,40-44,Trnovo - RS,53
-2013,Broj,Ž,40-44,Trnovo - RS,48
+2013,Broj,Oba spola,40-44,Trnovo-FBiH,78
+2013,Broj,M,40-44,Trnovo-FBiH,43
+2013,Broj,Ž,40-44,Trnovo-FBiH,35
+2013,Broj,Oba spola,40-44,Trnovo-RS,101
+2013,Broj,M,40-44,Trnovo-RS,53
+2013,Broj,Ž,40-44,Trnovo-RS,48
 2013,Broj,Oba spola,40-44,Tuzla,6798
 2013,Broj,M,40-44,Tuzla,3296
 2013,Broj,Ž,40-44,Tuzla,3502
@@ -4234,9 +4234,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,40-44,Vlasenica,797
 2013,Broj,M,40-44,Vlasenica,428
 2013,Broj,Ž,40-44,Vlasenica,369
-2013,Broj,Oba spola,40-44,Sarajevo - Vogošća,1761
-2013,Broj,M,40-44,Sarajevo - Vogošća,831
-2013,Broj,Ž,40-44,Sarajevo - Vogošća,930
+2013,Broj,Oba spola,40-44,Sarajevo-Vogošća,1761
+2013,Broj,M,40-44,Sarajevo-Vogošća,831
+2013,Broj,Ž,40-44,Sarajevo-Vogošća,930
 2013,Broj,Oba spola,40-44,Vukosavlje,329
 2013,Broj,M,40-44,Vukosavlje,179
 2013,Broj,Ž,40-44,Vukosavlje,150
@@ -4306,9 +4306,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,45-49,Cazin,5175
 2013,Broj,M,45-49,Cazin,2632
 2013,Broj,Ž,45-49,Cazin,2543
-2013,Broj,Oba spola,45-49,Sarajevo - Centar,3675
-2013,Broj,M,45-49,Sarajevo - Centar,1718
-2013,Broj,Ž,45-49,Sarajevo - Centar,1957
+2013,Broj,Oba spola,45-49,Sarajevo-Centar,3675
+2013,Broj,M,45-49,Sarajevo-Centar,1718
+2013,Broj,Ž,45-49,Sarajevo-Centar,1957
 2013,Broj,Oba spola,45-49,Čajniče,383
 2013,Broj,M,45-49,Čajniče,211
 2013,Broj,Ž,45-49,Čajniče,172
@@ -4351,12 +4351,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,45-49,Drvar,446
 2013,Broj,M,45-49,Drvar,241
 2013,Broj,Ž,45-49,Drvar,205
-2013,Broj,Oba spola,45-49,Foča - FBIH,140
-2013,Broj,M,45-49,Foča - FBIH,71
-2013,Broj,Ž,45-49,Foča - FBIH,69
-2013,Broj,Oba spola,45-49,Foča - RS,1262
-2013,Broj,M,45-49,Foča - RS,664
-2013,Broj,Ž,45-49,Foča - RS,598
+2013,Broj,Oba spola,45-49,Foča-FBiH,140
+2013,Broj,M,45-49,Foča-FBiH,71
+2013,Broj,Ž,45-49,Foča-FBiH,69
+2013,Broj,Oba spola,45-49,Foča-RS,1262
+2013,Broj,M,45-49,Foča-RS,664
+2013,Broj,Ž,45-49,Foča-RS,598
 2013,Broj,Oba spola,45-49,Fojnica,1000
 2013,Broj,M,45-49,Fojnica,481
 2013,Broj,Ž,45-49,Fojnica,519
@@ -4384,18 +4384,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,45-49,Grude,1338
 2013,Broj,M,45-49,Grude,695
 2013,Broj,Ž,45-49,Grude,643
-2013,Broj,Oba spola,45-49,Sarajevo - Hadžići,1846
-2013,Broj,M,45-49,Sarajevo - Hadžići,906
-2013,Broj,Ž,45-49,Sarajevo - Hadžići,940
+2013,Broj,Oba spola,45-49,Sarajevo-Hadžići,1846
+2013,Broj,M,45-49,Sarajevo-Hadžići,906
+2013,Broj,Ž,45-49,Sarajevo-Hadžići,940
 2013,Broj,Oba spola,45-49,Han Pijesak,252
 2013,Broj,M,45-49,Han Pijesak,128
 2013,Broj,Ž,45-49,Han Pijesak,124
-2013,Broj,Oba spola,45-49,Sarajevo - Ilidža,4805
-2013,Broj,M,45-49,Sarajevo - Ilidža,2352
-2013,Broj,Ž,45-49,Sarajevo - Ilidža,2453
-2013,Broj,Oba spola,45-49,Sarajevo - Ilijaš,1427
-2013,Broj,M,45-49,Sarajevo - Ilijaš,653
-2013,Broj,Ž,45-49,Sarajevo - Ilijaš,774
+2013,Broj,Oba spola,45-49,Sarajevo-Ilidža,4805
+2013,Broj,M,45-49,Sarajevo-Ilidža,2352
+2013,Broj,Ž,45-49,Sarajevo-Ilidža,2453
+2013,Broj,Oba spola,45-49,Sarajevo-Ilijaš,1427
+2013,Broj,M,45-49,Sarajevo-Ilijaš,653
+2013,Broj,Ž,45-49,Sarajevo-Ilijaš,774
 2013,Broj,Oba spola,45-49,Istočna Ilidža,951
 2013,Broj,M,45-49,Istočna Ilidža,460
 2013,Broj,Ž,45-49,Istočna Ilidža,491
@@ -4459,12 +4459,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,45-49,Krupa Na Uni,121
 2013,Broj,M,45-49,Krupa Na Uni,75
 2013,Broj,Ž,45-49,Krupa Na Uni,46
-2013,Broj,Oba spola,45-49,Kupres - FBIH,458
-2013,Broj,M,45-49,Kupres - FBIH,223
-2013,Broj,Ž,45-49,Kupres - FBIH,235
-2013,Broj,Oba spola,45-49,Kupres - RS,18
-2013,Broj,M,45-49,Kupres - RS,14
-2013,Broj,Ž,45-49,Kupres - RS,4
+2013,Broj,Oba spola,45-49,Kupres-FBiH,458
+2013,Broj,M,45-49,Kupres-FBiH,223
+2013,Broj,Ž,45-49,Kupres-FBiH,235
+2013,Broj,Oba spola,45-49,Kupres-RS,18
+2013,Broj,M,45-49,Kupres-RS,14
+2013,Broj,Ž,45-49,Kupres-RS,4
 2013,Broj,Oba spola,45-49,Laktaši,2432
 2013,Broj,M,45-49,Laktaši,1220
 2013,Broj,Ž,45-49,Laktaši,1212
@@ -4507,18 +4507,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,45-49,Novi Grad,2145
 2013,Broj,M,45-49,Novi Grad,1110
 2013,Broj,Ž,45-49,Novi Grad,1035
-2013,Broj,Oba spola,45-49,Sarajevo - Novi Grad,8130
-2013,Broj,M,45-49,Sarajevo - Novi Grad,3938
-2013,Broj,Ž,45-49,Sarajevo - Novi Grad,4192
+2013,Broj,Oba spola,45-49,Sarajevo-Novi Grad,8130
+2013,Broj,M,45-49,Sarajevo-Novi Grad,3938
+2013,Broj,Ž,45-49,Sarajevo-Novi Grad,4192
 2013,Broj,Oba spola,45-49,Novi Travnik,1864
 2013,Broj,M,45-49,Novi Travnik,913
 2013,Broj,Ž,45-49,Novi Travnik,951
 2013,Broj,Oba spola,45-49,Novo Goražde,227
 2013,Broj,M,45-49,Novo Goražde,117
 2013,Broj,Ž,45-49,Novo Goražde,110
-2013,Broj,Oba spola,45-49,Sarajevo - Novo Sarajevo,4490
-2013,Broj,M,45-49,Sarajevo - Novo Sarajevo,2007
-2013,Broj,Ž,45-49,Sarajevo - Novo Sarajevo,2483
+2013,Broj,Oba spola,45-49,Sarajevo-Novo Sarajevo,4490
+2013,Broj,M,45-49,Sarajevo-Novo Sarajevo,2007
+2013,Broj,Ž,45-49,Sarajevo-Novo Sarajevo,2483
 2013,Broj,Oba spola,45-49,Odžak,1758
 2013,Broj,M,45-49,Odžak,926
 2013,Broj,Ž,45-49,Odžak,832
@@ -4534,12 +4534,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,45-49,Oštra Luka,190
 2013,Broj,M,45-49,Oštra Luka,117
 2013,Broj,Ž,45-49,Oštra Luka,73
-2013,Broj,Oba spola,45-49,Pale - FBIH,74
-2013,Broj,M,45-49,Pale - FBIH,42
-2013,Broj,Ž,45-49,Pale - FBIH,32
-2013,Broj,Oba spola,45-49,Pale - RS,1344
-2013,Broj,M,45-49,Pale - RS,654
-2013,Broj,Ž,45-49,Pale - RS,690
+2013,Broj,Oba spola,45-49,Pale-FBiH,74
+2013,Broj,M,45-49,Pale-FBiH,42
+2013,Broj,Ž,45-49,Pale-FBiH,32
+2013,Broj,Oba spola,45-49,Pale-RS,1344
+2013,Broj,M,45-49,Pale-RS,654
+2013,Broj,Ž,45-49,Pale-RS,690
 2013,Broj,Oba spola,45-49,Pelagićevo,496
 2013,Broj,M,45-49,Pelagićevo,263
 2013,Broj,Ž,45-49,Pelagićevo,233
@@ -4591,9 +4591,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,45-49,Srebrenik,2944
 2013,Broj,M,45-49,Srebrenik,1409
 2013,Broj,Ž,45-49,Srebrenik,1535
-2013,Broj,Oba spola,45-49,Sarajevo - Stari Grad,2464
-2013,Broj,M,45-49,Sarajevo - Stari Grad,1153
-2013,Broj,Ž,45-49,Sarajevo - Stari Grad,1311
+2013,Broj,Oba spola,45-49,Sarajevo-Stari Grad,2464
+2013,Broj,M,45-49,Sarajevo-Stari Grad,1153
+2013,Broj,Ž,45-49,Sarajevo-Stari Grad,1311
 2013,Broj,Oba spola,45-49,Stolac,1162
 2013,Broj,M,45-49,Stolac,625
 2013,Broj,Ž,45-49,Stolac,537
@@ -4606,9 +4606,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,45-49,Šipovo,643
 2013,Broj,M,45-49,Šipovo,340
 2013,Broj,Ž,45-49,Šipovo,303
-2013,Broj,Oba spola,45-49,Široki Brijeg,2304
-2013,Broj,M,45-49,Široki Brijeg,1160
-2013,Broj,Ž,45-49,Široki Brijeg,1144
+2013,Broj,Oba spola,45-49,siroki_brijeg,2304
+2013,Broj,M,45-49,siroki_brijeg,1160
+2013,Broj,Ž,45-49,siroki_brijeg,1144
 2013,Broj,Oba spola,45-49,Teočak,532
 2013,Broj,M,45-49,Teočak,262
 2013,Broj,Ž,45-49,Teočak,270
@@ -4627,12 +4627,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,45-49,Trebinje,2001
 2013,Broj,M,45-49,Trebinje,973
 2013,Broj,Ž,45-49,Trebinje,1028
-2013,Broj,Oba spola,45-49,Trnovo - FBIH,87
-2013,Broj,M,45-49,Trnovo - FBIH,48
-2013,Broj,Ž,45-49,Trnovo - FBIH,39
-2013,Broj,Oba spola,45-49,Trnovo - RS,151
-2013,Broj,M,45-49,Trnovo - RS,79
-2013,Broj,Ž,45-49,Trnovo - RS,72
+2013,Broj,Oba spola,45-49,Trnovo-FBiH,87
+2013,Broj,M,45-49,Trnovo-FBiH,48
+2013,Broj,Ž,45-49,Trnovo-FBiH,39
+2013,Broj,Oba spola,45-49,Trnovo-RS,151
+2013,Broj,M,45-49,Trnovo-RS,79
+2013,Broj,Ž,45-49,Trnovo-RS,72
 2013,Broj,Oba spola,45-49,Tuzla,8386
 2013,Broj,M,45-49,Tuzla,3872
 2013,Broj,Ž,45-49,Tuzla,4514
@@ -4660,9 +4660,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,45-49,Vlasenica,810
 2013,Broj,M,45-49,Vlasenica,391
 2013,Broj,Ž,45-49,Vlasenica,419
-2013,Broj,Oba spola,45-49,Sarajevo - Vogošća,1852
-2013,Broj,M,45-49,Sarajevo - Vogošća,820
-2013,Broj,Ž,45-49,Sarajevo - Vogošća,1032
+2013,Broj,Oba spola,45-49,Sarajevo-Vogošća,1852
+2013,Broj,M,45-49,Sarajevo-Vogošća,820
+2013,Broj,Ž,45-49,Sarajevo-Vogošća,1032
 2013,Broj,Oba spola,45-49,Vukosavlje,387
 2013,Broj,M,45-49,Vukosavlje,205
 2013,Broj,Ž,45-49,Vukosavlje,182
@@ -4732,9 +4732,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,50-54,Cazin,4738
 2013,Broj,M,50-54,Cazin,2396
 2013,Broj,Ž,50-54,Cazin,2342
-2013,Broj,Oba spola,50-54,Sarajevo - Centar,4111
-2013,Broj,M,50-54,Sarajevo - Centar,1842
-2013,Broj,Ž,50-54,Sarajevo - Centar,2269
+2013,Broj,Oba spola,50-54,Sarajevo-Centar,4111
+2013,Broj,M,50-54,Sarajevo-Centar,1842
+2013,Broj,Ž,50-54,Sarajevo-Centar,2269
 2013,Broj,Oba spola,50-54,Čajniče,409
 2013,Broj,M,50-54,Čajniče,203
 2013,Broj,Ž,50-54,Čajniče,206
@@ -4777,12 +4777,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,50-54,Drvar,503
 2013,Broj,M,50-54,Drvar,262
 2013,Broj,Ž,50-54,Drvar,241
-2013,Broj,Oba spola,50-54,Foča - FBIH,135
-2013,Broj,M,50-54,Foča - FBIH,79
-2013,Broj,Ž,50-54,Foča - FBIH,56
-2013,Broj,Oba spola,50-54,Foča - RS,1469
-2013,Broj,M,50-54,Foča - RS,772
-2013,Broj,Ž,50-54,Foča - RS,697
+2013,Broj,Oba spola,50-54,Foča-FBiH,135
+2013,Broj,M,50-54,Foča-FBiH,79
+2013,Broj,Ž,50-54,Foča-FBiH,56
+2013,Broj,Oba spola,50-54,Foča-RS,1469
+2013,Broj,M,50-54,Foča-RS,772
+2013,Broj,Ž,50-54,Foča-RS,697
 2013,Broj,Oba spola,50-54,Fojnica,1085
 2013,Broj,M,50-54,Fojnica,575
 2013,Broj,Ž,50-54,Fojnica,510
@@ -4810,18 +4810,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,50-54,Grude,1344
 2013,Broj,M,50-54,Grude,745
 2013,Broj,Ž,50-54,Grude,599
-2013,Broj,Oba spola,50-54,Sarajevo - Hadžići,1952
-2013,Broj,M,50-54,Sarajevo - Hadžići,941
-2013,Broj,Ž,50-54,Sarajevo - Hadžići,1011
+2013,Broj,Oba spola,50-54,Sarajevo-Hadžići,1952
+2013,Broj,M,50-54,Sarajevo-Hadžići,941
+2013,Broj,Ž,50-54,Sarajevo-Hadžići,1011
 2013,Broj,Oba spola,50-54,Han Pijesak,326
 2013,Broj,M,50-54,Han Pijesak,171
 2013,Broj,Ž,50-54,Han Pijesak,155
-2013,Broj,Oba spola,50-54,Sarajevo - Ilidža,5065
-2013,Broj,M,50-54,Sarajevo - Ilidža,2472
-2013,Broj,Ž,50-54,Sarajevo - Ilidža,2593
-2013,Broj,Oba spola,50-54,Sarajevo - Ilijaš,1519
-2013,Broj,M,50-54,Sarajevo - Ilijaš,692
-2013,Broj,Ž,50-54,Sarajevo - Ilijaš,827
+2013,Broj,Oba spola,50-54,Sarajevo-Ilidža,5065
+2013,Broj,M,50-54,Sarajevo-Ilidža,2472
+2013,Broj,Ž,50-54,Sarajevo-Ilidža,2593
+2013,Broj,Oba spola,50-54,Sarajevo-Ilijaš,1519
+2013,Broj,M,50-54,Sarajevo-Ilijaš,692
+2013,Broj,Ž,50-54,Sarajevo-Ilijaš,827
 2013,Broj,Oba spola,50-54,Istočna Ilidža,1159
 2013,Broj,M,50-54,Istočna Ilidža,541
 2013,Broj,Ž,50-54,Istočna Ilidža,618
@@ -4885,12 +4885,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,50-54,Krupa Na Uni,122
 2013,Broj,M,50-54,Krupa Na Uni,78
 2013,Broj,Ž,50-54,Krupa Na Uni,44
-2013,Broj,Oba spola,50-54,Kupres - FBIH,487
-2013,Broj,M,50-54,Kupres - FBIH,267
-2013,Broj,Ž,50-54,Kupres - FBIH,220
-2013,Broj,Oba spola,50-54,Kupres - RS,17
-2013,Broj,M,50-54,Kupres - RS,11
-2013,Broj,Ž,50-54,Kupres - RS,6
+2013,Broj,Oba spola,50-54,Kupres-FBiH,487
+2013,Broj,M,50-54,Kupres-FBiH,267
+2013,Broj,Ž,50-54,Kupres-FBiH,220
+2013,Broj,Oba spola,50-54,Kupres-RS,17
+2013,Broj,M,50-54,Kupres-RS,11
+2013,Broj,Ž,50-54,Kupres-RS,6
 2013,Broj,Oba spola,50-54,Laktaši,2617
 2013,Broj,M,50-54,Laktaši,1294
 2013,Broj,Ž,50-54,Laktaši,1323
@@ -4933,18 +4933,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,50-54,Novi Grad,2386
 2013,Broj,M,50-54,Novi Grad,1253
 2013,Broj,Ž,50-54,Novi Grad,1133
-2013,Broj,Oba spola,50-54,Sarajevo - Novi Grad,8559
-2013,Broj,M,50-54,Sarajevo - Novi Grad,3915
-2013,Broj,Ž,50-54,Sarajevo - Novi Grad,4644
+2013,Broj,Oba spola,50-54,Sarajevo-Novi Grad,8559
+2013,Broj,M,50-54,Sarajevo-Novi Grad,3915
+2013,Broj,Ž,50-54,Sarajevo-Novi Grad,4644
 2013,Broj,Oba spola,50-54,Novi Travnik,1917
 2013,Broj,M,50-54,Novi Travnik,927
 2013,Broj,Ž,50-54,Novi Travnik,990
 2013,Broj,Oba spola,50-54,Novo Goražde,255
 2013,Broj,M,50-54,Novo Goražde,130
 2013,Broj,Ž,50-54,Novo Goražde,125
-2013,Broj,Oba spola,50-54,Sarajevo - Novo Sarajevo,4908
-2013,Broj,M,50-54,Sarajevo - Novo Sarajevo,2285
-2013,Broj,Ž,50-54,Sarajevo - Novo Sarajevo,2623
+2013,Broj,Oba spola,50-54,Sarajevo-Novo Sarajevo,4908
+2013,Broj,M,50-54,Sarajevo-Novo Sarajevo,2285
+2013,Broj,Ž,50-54,Sarajevo-Novo Sarajevo,2623
 2013,Broj,Oba spola,50-54,Odžak,1572
 2013,Broj,M,50-54,Odžak,806
 2013,Broj,Ž,50-54,Odžak,766
@@ -4960,12 +4960,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,50-54,Oštra Luka,211
 2013,Broj,M,50-54,Oštra Luka,129
 2013,Broj,Ž,50-54,Oštra Luka,82
-2013,Broj,Oba spola,50-54,Pale - FBIH,64
-2013,Broj,M,50-54,Pale - FBIH,39
-2013,Broj,Ž,50-54,Pale - FBIH,25
-2013,Broj,Oba spola,50-54,Pale - RS,1689
-2013,Broj,M,50-54,Pale - RS,775
-2013,Broj,Ž,50-54,Pale - RS,914
+2013,Broj,Oba spola,50-54,Pale-FBiH,64
+2013,Broj,M,50-54,Pale-FBiH,39
+2013,Broj,Ž,50-54,Pale-FBiH,25
+2013,Broj,Oba spola,50-54,Pale-RS,1689
+2013,Broj,M,50-54,Pale-RS,775
+2013,Broj,Ž,50-54,Pale-RS,914
 2013,Broj,Oba spola,50-54,Pelagićevo,387
 2013,Broj,M,50-54,Pelagićevo,222
 2013,Broj,Ž,50-54,Pelagićevo,165
@@ -5017,9 +5017,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,50-54,Srebrenik,3106
 2013,Broj,M,50-54,Srebrenik,1532
 2013,Broj,Ž,50-54,Srebrenik,1574
-2013,Broj,Oba spola,50-54,Sarajevo - Stari Grad,2918
-2013,Broj,M,50-54,Sarajevo - Stari Grad,1324
-2013,Broj,Ž,50-54,Sarajevo - Stari Grad,1594
+2013,Broj,Oba spola,50-54,Sarajevo-Stari Grad,2918
+2013,Broj,M,50-54,Sarajevo-Stari Grad,1324
+2013,Broj,Ž,50-54,Sarajevo-Stari Grad,1594
 2013,Broj,Oba spola,50-54,Stolac,1150
 2013,Broj,M,50-54,Stolac,617
 2013,Broj,Ž,50-54,Stolac,533
@@ -5032,9 +5032,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,50-54,Šipovo,825
 2013,Broj,M,50-54,Šipovo,431
 2013,Broj,Ž,50-54,Šipovo,394
-2013,Broj,Oba spola,50-54,Široki Brijeg,2154
-2013,Broj,M,50-54,Široki Brijeg,1171
-2013,Broj,Ž,50-54,Široki Brijeg,983
+2013,Broj,Oba spola,50-54,siroki_brijeg,2154
+2013,Broj,M,50-54,siroki_brijeg,1171
+2013,Broj,Ž,50-54,siroki_brijeg,983
 2013,Broj,Oba spola,50-54,Teočak,591
 2013,Broj,M,50-54,Teočak,302
 2013,Broj,Ž,50-54,Teočak,289
@@ -5053,12 +5053,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,50-54,Trebinje,2248
 2013,Broj,M,50-54,Trebinje,1048
 2013,Broj,Ž,50-54,Trebinje,1200
-2013,Broj,Oba spola,50-54,Trnovo - FBIH,113
-2013,Broj,M,50-54,Trnovo - FBIH,62
-2013,Broj,Ž,50-54,Trnovo - FBIH,51
-2013,Broj,Oba spola,50-54,Trnovo - RS,179
-2013,Broj,M,50-54,Trnovo - RS,81
-2013,Broj,Ž,50-54,Trnovo - RS,98
+2013,Broj,Oba spola,50-54,Trnovo-FBiH,113
+2013,Broj,M,50-54,Trnovo-FBiH,62
+2013,Broj,Ž,50-54,Trnovo-FBiH,51
+2013,Broj,Oba spola,50-54,Trnovo-RS,179
+2013,Broj,M,50-54,Trnovo-RS,81
+2013,Broj,Ž,50-54,Trnovo-RS,98
 2013,Broj,Oba spola,50-54,Tuzla,9910
 2013,Broj,M,50-54,Tuzla,4654
 2013,Broj,Ž,50-54,Tuzla,5256
@@ -5086,9 +5086,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,50-54,Vlasenica,921
 2013,Broj,M,50-54,Vlasenica,436
 2013,Broj,Ž,50-54,Vlasenica,485
-2013,Broj,Oba spola,50-54,Sarajevo - Vogošća,2046
-2013,Broj,M,50-54,Sarajevo - Vogošća,952
-2013,Broj,Ž,50-54,Sarajevo - Vogošća,1094
+2013,Broj,Oba spola,50-54,Sarajevo-Vogošća,2046
+2013,Broj,M,50-54,Sarajevo-Vogošća,952
+2013,Broj,Ž,50-54,Sarajevo-Vogošća,1094
 2013,Broj,Oba spola,50-54,Vukosavlje,338
 2013,Broj,M,50-54,Vukosavlje,175
 2013,Broj,Ž,50-54,Vukosavlje,163
@@ -5158,9 +5158,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,55-59,Cazin,3514
 2013,Broj,M,55-59,Cazin,1717
 2013,Broj,Ž,55-59,Cazin,1797
-2013,Broj,Oba spola,55-59,Sarajevo - Centar,4539
-2013,Broj,M,55-59,Sarajevo - Centar,2033
-2013,Broj,Ž,55-59,Sarajevo - Centar,2506
+2013,Broj,Oba spola,55-59,Sarajevo-Centar,4539
+2013,Broj,M,55-59,Sarajevo-Centar,2033
+2013,Broj,Ž,55-59,Sarajevo-Centar,2506
 2013,Broj,Oba spola,55-59,Čajniče,380
 2013,Broj,M,55-59,Čajniče,204
 2013,Broj,Ž,55-59,Čajniče,176
@@ -5203,12 +5203,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,55-59,Drvar,570
 2013,Broj,M,55-59,Drvar,289
 2013,Broj,Ž,55-59,Drvar,281
-2013,Broj,Oba spola,55-59,Foča - FBIH,150
-2013,Broj,M,55-59,Foča - FBIH,81
-2013,Broj,Ž,55-59,Foča - FBIH,69
-2013,Broj,Oba spola,55-59,Foča - RS,1649
-2013,Broj,M,55-59,Foča - RS,829
-2013,Broj,Ž,55-59,Foča - RS,820
+2013,Broj,Oba spola,55-59,Foča-FBiH,150
+2013,Broj,M,55-59,Foča-FBiH,81
+2013,Broj,Ž,55-59,Foča-FBiH,69
+2013,Broj,Oba spola,55-59,Foča-RS,1649
+2013,Broj,M,55-59,Foča-RS,829
+2013,Broj,Ž,55-59,Foča-RS,820
 2013,Broj,Oba spola,55-59,Fojnica,964
 2013,Broj,M,55-59,Fojnica,481
 2013,Broj,Ž,55-59,Fojnica,483
@@ -5236,18 +5236,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,55-59,Grude,1116
 2013,Broj,M,55-59,Grude,588
 2013,Broj,Ž,55-59,Grude,528
-2013,Broj,Oba spola,55-59,Sarajevo - Hadžići,1673
-2013,Broj,M,55-59,Sarajevo - Hadžići,822
-2013,Broj,Ž,55-59,Sarajevo - Hadžići,851
+2013,Broj,Oba spola,55-59,Sarajevo-Hadžići,1673
+2013,Broj,M,55-59,Sarajevo-Hadžići,822
+2013,Broj,Ž,55-59,Sarajevo-Hadžići,851
 2013,Broj,Oba spola,55-59,Han Pijesak,328
 2013,Broj,M,55-59,Han Pijesak,158
 2013,Broj,Ž,55-59,Han Pijesak,170
-2013,Broj,Oba spola,55-59,Sarajevo - Ilidža,4655
-2013,Broj,M,55-59,Sarajevo - Ilidža,2187
-2013,Broj,Ž,55-59,Sarajevo - Ilidža,2468
-2013,Broj,Oba spola,55-59,Sarajevo - Ilijaš,1385
-2013,Broj,M,55-59,Sarajevo - Ilijaš,643
-2013,Broj,Ž,55-59,Sarajevo - Ilijaš,742
+2013,Broj,Oba spola,55-59,Sarajevo-Ilidža,4655
+2013,Broj,M,55-59,Sarajevo-Ilidža,2187
+2013,Broj,Ž,55-59,Sarajevo-Ilidža,2468
+2013,Broj,Oba spola,55-59,Sarajevo-Ilijaš,1385
+2013,Broj,M,55-59,Sarajevo-Ilijaš,643
+2013,Broj,Ž,55-59,Sarajevo-Ilijaš,742
 2013,Broj,Oba spola,55-59,Istočna Ilidža,1330
 2013,Broj,M,55-59,Istočna Ilidža,624
 2013,Broj,Ž,55-59,Istočna Ilidža,706
@@ -5311,12 +5311,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,55-59,Krupa Na Uni,118
 2013,Broj,M,55-59,Krupa Na Uni,74
 2013,Broj,Ž,55-59,Krupa Na Uni,44
-2013,Broj,Oba spola,55-59,Kupres - FBIH,381
-2013,Broj,M,55-59,Kupres - FBIH,203
-2013,Broj,Ž,55-59,Kupres - FBIH,178
-2013,Broj,Oba spola,55-59,Kupres - RS,19
-2013,Broj,M,55-59,Kupres - RS,13
-2013,Broj,Ž,55-59,Kupres - RS,6
+2013,Broj,Oba spola,55-59,Kupres-FBiH,381
+2013,Broj,M,55-59,Kupres-FBiH,203
+2013,Broj,Ž,55-59,Kupres-FBiH,178
+2013,Broj,Oba spola,55-59,Kupres-RS,19
+2013,Broj,M,55-59,Kupres-RS,13
+2013,Broj,Ž,55-59,Kupres-RS,6
 2013,Broj,Oba spola,55-59,Laktaši,2630
 2013,Broj,M,55-59,Laktaši,1307
 2013,Broj,Ž,55-59,Laktaši,1323
@@ -5359,18 +5359,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,55-59,Novi Grad,2207
 2013,Broj,M,55-59,Novi Grad,1123
 2013,Broj,Ž,55-59,Novi Grad,1084
-2013,Broj,Oba spola,55-59,Sarajevo - Novi Grad,8642
-2013,Broj,M,55-59,Sarajevo - Novi Grad,3863
-2013,Broj,Ž,55-59,Sarajevo - Novi Grad,4779
+2013,Broj,Oba spola,55-59,Sarajevo-Novi Grad,8642
+2013,Broj,M,55-59,Sarajevo-Novi Grad,3863
+2013,Broj,Ž,55-59,Sarajevo-Novi Grad,4779
 2013,Broj,Oba spola,55-59,Novi Travnik,1608
 2013,Broj,M,55-59,Novi Travnik,796
 2013,Broj,Ž,55-59,Novi Travnik,812
 2013,Broj,Oba spola,55-59,Novo Goražde,324
 2013,Broj,M,55-59,Novo Goražde,162
 2013,Broj,Ž,55-59,Novo Goražde,162
-2013,Broj,Oba spola,55-59,Sarajevo - Novo Sarajevo,4877
-2013,Broj,M,55-59,Sarajevo - Novo Sarajevo,2218
-2013,Broj,Ž,55-59,Sarajevo - Novo Sarajevo,2659
+2013,Broj,Oba spola,55-59,Sarajevo-Novo Sarajevo,4877
+2013,Broj,M,55-59,Sarajevo-Novo Sarajevo,2218
+2013,Broj,Ž,55-59,Sarajevo-Novo Sarajevo,2659
 2013,Broj,Oba spola,55-59,Odžak,1202
 2013,Broj,M,55-59,Odžak,614
 2013,Broj,Ž,55-59,Odžak,588
@@ -5386,12 +5386,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,55-59,Oštra Luka,212
 2013,Broj,M,55-59,Oštra Luka,102
 2013,Broj,Ž,55-59,Oštra Luka,110
-2013,Broj,Oba spola,55-59,Pale - FBIH,64
-2013,Broj,M,55-59,Pale - FBIH,30
-2013,Broj,Ž,55-59,Pale - FBIH,34
-2013,Broj,Oba spola,55-59,Pale - RS,1957
-2013,Broj,M,55-59,Pale - RS,961
-2013,Broj,Ž,55-59,Pale - RS,996
+2013,Broj,Oba spola,55-59,Pale-FBiH,64
+2013,Broj,M,55-59,Pale-FBiH,30
+2013,Broj,Ž,55-59,Pale-FBiH,34
+2013,Broj,Oba spola,55-59,Pale-RS,1957
+2013,Broj,M,55-59,Pale-RS,961
+2013,Broj,Ž,55-59,Pale-RS,996
 2013,Broj,Oba spola,55-59,Pelagićevo,399
 2013,Broj,M,55-59,Pelagićevo,215
 2013,Broj,Ž,55-59,Pelagićevo,184
@@ -5443,9 +5443,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,55-59,Srebrenik,2678
 2013,Broj,M,55-59,Srebrenik,1234
 2013,Broj,Ž,55-59,Srebrenik,1444
-2013,Broj,Oba spola,55-59,Sarajevo - Stari Grad,3215
-2013,Broj,M,55-59,Sarajevo - Stari Grad,1505
-2013,Broj,Ž,55-59,Sarajevo - Stari Grad,1710
+2013,Broj,Oba spola,55-59,Sarajevo-Stari Grad,3215
+2013,Broj,M,55-59,Sarajevo-Stari Grad,1505
+2013,Broj,Ž,55-59,Sarajevo-Stari Grad,1710
 2013,Broj,Oba spola,55-59,Stolac,1006
 2013,Broj,M,55-59,Stolac,519
 2013,Broj,Ž,55-59,Stolac,487
@@ -5458,9 +5458,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,55-59,Šipovo,987
 2013,Broj,M,55-59,Šipovo,506
 2013,Broj,Ž,55-59,Šipovo,481
-2013,Broj,Oba spola,55-59,Široki Brijeg,1763
-2013,Broj,M,55-59,Široki Brijeg,964
-2013,Broj,Ž,55-59,Široki Brijeg,799
+2013,Broj,Oba spola,55-59,siroki_brijeg,1763
+2013,Broj,M,55-59,siroki_brijeg,964
+2013,Broj,Ž,55-59,siroki_brijeg,799
 2013,Broj,Oba spola,55-59,Teočak,534
 2013,Broj,M,55-59,Teočak,265
 2013,Broj,Ž,55-59,Teočak,269
@@ -5479,12 +5479,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,55-59,Trebinje,2302
 2013,Broj,M,55-59,Trebinje,1111
 2013,Broj,Ž,55-59,Trebinje,1191
-2013,Broj,Oba spola,55-59,Trnovo - FBIH,171
-2013,Broj,M,55-59,Trnovo - FBIH,70
-2013,Broj,Ž,55-59,Trnovo - FBIH,101
-2013,Broj,Oba spola,55-59,Trnovo - RS,237
-2013,Broj,M,55-59,Trnovo - RS,114
-2013,Broj,Ž,55-59,Trnovo - RS,123
+2013,Broj,Oba spola,55-59,Trnovo-FBiH,171
+2013,Broj,M,55-59,Trnovo-FBiH,70
+2013,Broj,Ž,55-59,Trnovo-FBiH,101
+2013,Broj,Oba spola,55-59,Trnovo-RS,237
+2013,Broj,M,55-59,Trnovo-RS,114
+2013,Broj,Ž,55-59,Trnovo-RS,123
 2013,Broj,Oba spola,55-59,Tuzla,9065
 2013,Broj,M,55-59,Tuzla,4272
 2013,Broj,Ž,55-59,Tuzla,4793
@@ -5512,9 +5512,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,55-59,Vlasenica,979
 2013,Broj,M,55-59,Vlasenica,472
 2013,Broj,Ž,55-59,Vlasenica,507
-2013,Broj,Oba spola,55-59,Sarajevo - Vogošća,1958
-2013,Broj,M,55-59,Sarajevo - Vogošća,879
-2013,Broj,Ž,55-59,Sarajevo - Vogošća,1079
+2013,Broj,Oba spola,55-59,Sarajevo-Vogošća,1958
+2013,Broj,M,55-59,Sarajevo-Vogošća,879
+2013,Broj,Ž,55-59,Sarajevo-Vogošća,1079
 2013,Broj,Oba spola,55-59,Vukosavlje,290
 2013,Broj,M,55-59,Vukosavlje,151
 2013,Broj,Ž,55-59,Vukosavlje,139
@@ -5584,9 +5584,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,60-64,Cazin,2694
 2013,Broj,M,60-64,Cazin,1285
 2013,Broj,Ž,60-64,Cazin,1409
-2013,Broj,Oba spola,60-64,Sarajevo - Centar,4097
-2013,Broj,M,60-64,Sarajevo - Centar,1772
-2013,Broj,Ž,60-64,Sarajevo - Centar,2325
+2013,Broj,Oba spola,60-64,Sarajevo-Centar,4097
+2013,Broj,M,60-64,Sarajevo-Centar,1772
+2013,Broj,Ž,60-64,Sarajevo-Centar,2325
 2013,Broj,Oba spola,60-64,Čajniče,378
 2013,Broj,M,60-64,Čajniče,182
 2013,Broj,Ž,60-64,Čajniče,196
@@ -5629,12 +5629,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,60-64,Drvar,566
 2013,Broj,M,60-64,Drvar,276
 2013,Broj,Ž,60-64,Drvar,290
-2013,Broj,Oba spola,60-64,Foča - FBIH,142
-2013,Broj,M,60-64,Foča - FBIH,62
-2013,Broj,Ž,60-64,Foča - FBIH,80
-2013,Broj,Oba spola,60-64,Foča - RS,1306
-2013,Broj,M,60-64,Foča - RS,633
-2013,Broj,Ž,60-64,Foča - RS,673
+2013,Broj,Oba spola,60-64,Foča-FBiH,142
+2013,Broj,M,60-64,Foča-FBiH,62
+2013,Broj,Ž,60-64,Foča-FBiH,80
+2013,Broj,Oba spola,60-64,Foča-RS,1306
+2013,Broj,M,60-64,Foča-RS,633
+2013,Broj,Ž,60-64,Foča-RS,673
 2013,Broj,Oba spola,60-64,Fojnica,722
 2013,Broj,M,60-64,Fojnica,344
 2013,Broj,Ž,60-64,Fojnica,378
@@ -5662,18 +5662,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,60-64,Grude,903
 2013,Broj,M,60-64,Grude,481
 2013,Broj,Ž,60-64,Grude,422
-2013,Broj,Oba spola,60-64,Sarajevo - Hadžići,1320
-2013,Broj,M,60-64,Sarajevo - Hadžići,621
-2013,Broj,Ž,60-64,Sarajevo - Hadžići,699
+2013,Broj,Oba spola,60-64,Sarajevo-Hadžići,1320
+2013,Broj,M,60-64,Sarajevo-Hadžići,621
+2013,Broj,Ž,60-64,Sarajevo-Hadžići,699
 2013,Broj,Oba spola,60-64,Han Pijesak,275
 2013,Broj,M,60-64,Han Pijesak,133
 2013,Broj,Ž,60-64,Han Pijesak,142
-2013,Broj,Oba spola,60-64,Sarajevo - Ilidža,3832
-2013,Broj,M,60-64,Sarajevo - Ilidža,1722
-2013,Broj,Ž,60-64,Sarajevo - Ilidža,2110
-2013,Broj,Oba spola,60-64,Sarajevo - Ilijaš,1078
-2013,Broj,M,60-64,Sarajevo - Ilijaš,460
-2013,Broj,Ž,60-64,Sarajevo - Ilijaš,618
+2013,Broj,Oba spola,60-64,Sarajevo-Ilidža,3832
+2013,Broj,M,60-64,Sarajevo-Ilidža,1722
+2013,Broj,Ž,60-64,Sarajevo-Ilidža,2110
+2013,Broj,Oba spola,60-64,Sarajevo-Ilijaš,1078
+2013,Broj,M,60-64,Sarajevo-Ilijaš,460
+2013,Broj,Ž,60-64,Sarajevo-Ilijaš,618
 2013,Broj,Oba spola,60-64,Istočna Ilidža,1175
 2013,Broj,M,60-64,Istočna Ilidža,553
 2013,Broj,Ž,60-64,Istočna Ilidža,622
@@ -5737,12 +5737,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,60-64,Krupa Na Uni,111
 2013,Broj,M,60-64,Krupa Na Uni,56
 2013,Broj,Ž,60-64,Krupa Na Uni,55
-2013,Broj,Oba spola,60-64,Kupres - FBIH,278
-2013,Broj,M,60-64,Kupres - FBIH,143
-2013,Broj,Ž,60-64,Kupres - FBIH,135
-2013,Broj,Oba spola,60-64,Kupres - RS,13
-2013,Broj,M,60-64,Kupres - RS,5
-2013,Broj,Ž,60-64,Kupres - RS,8
+2013,Broj,Oba spola,60-64,Kupres-FBiH,278
+2013,Broj,M,60-64,Kupres-FBiH,143
+2013,Broj,Ž,60-64,Kupres-FBiH,135
+2013,Broj,Oba spola,60-64,Kupres-RS,13
+2013,Broj,M,60-64,Kupres-RS,5
+2013,Broj,Ž,60-64,Kupres-RS,8
 2013,Broj,Oba spola,60-64,Laktaši,2438
 2013,Broj,M,60-64,Laktaši,1192
 2013,Broj,Ž,60-64,Laktaši,1246
@@ -5785,18 +5785,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,60-64,Novi Grad,1936
 2013,Broj,M,60-64,Novi Grad,965
 2013,Broj,Ž,60-64,Novi Grad,971
-2013,Broj,Oba spola,60-64,Sarajevo - Novi Grad,7928
-2013,Broj,M,60-64,Sarajevo - Novi Grad,3372
-2013,Broj,Ž,60-64,Sarajevo - Novi Grad,4556
+2013,Broj,Oba spola,60-64,Sarajevo-Novi Grad,7928
+2013,Broj,M,60-64,Sarajevo-Novi Grad,3372
+2013,Broj,Ž,60-64,Sarajevo-Novi Grad,4556
 2013,Broj,Oba spola,60-64,Novi Travnik,1100
 2013,Broj,M,60-64,Novi Travnik,515
 2013,Broj,Ž,60-64,Novi Travnik,585
 2013,Broj,Oba spola,60-64,Novo Goražde,296
 2013,Broj,M,60-64,Novo Goražde,157
 2013,Broj,Ž,60-64,Novo Goražde,139
-2013,Broj,Oba spola,60-64,Sarajevo - Novo Sarajevo,4292
-2013,Broj,M,60-64,Sarajevo - Novo Sarajevo,1829
-2013,Broj,Ž,60-64,Sarajevo - Novo Sarajevo,2463
+2013,Broj,Oba spola,60-64,Sarajevo-Novo Sarajevo,4292
+2013,Broj,M,60-64,Sarajevo-Novo Sarajevo,1829
+2013,Broj,Ž,60-64,Sarajevo-Novo Sarajevo,2463
 2013,Broj,Oba spola,60-64,Odžak,1069
 2013,Broj,M,60-64,Odžak,498
 2013,Broj,Ž,60-64,Odžak,571
@@ -5812,12 +5812,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,60-64,Oštra Luka,206
 2013,Broj,M,60-64,Oštra Luka,115
 2013,Broj,Ž,60-64,Oštra Luka,91
-2013,Broj,Oba spola,60-64,Pale - FBIH,70
-2013,Broj,M,60-64,Pale - FBIH,30
-2013,Broj,Ž,60-64,Pale - FBIH,40
-2013,Broj,Oba spola,60-64,Pale - RS,1508
-2013,Broj,M,60-64,Pale - RS,718
-2013,Broj,Ž,60-64,Pale - RS,790
+2013,Broj,Oba spola,60-64,Pale-FBiH,70
+2013,Broj,M,60-64,Pale-FBiH,30
+2013,Broj,Ž,60-64,Pale-FBiH,40
+2013,Broj,Oba spola,60-64,Pale-RS,1508
+2013,Broj,M,60-64,Pale-RS,718
+2013,Broj,Ž,60-64,Pale-RS,790
 2013,Broj,Oba spola,60-64,Pelagićevo,410
 2013,Broj,M,60-64,Pelagićevo,208
 2013,Broj,Ž,60-64,Pelagićevo,202
@@ -5869,9 +5869,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,60-64,Srebrenik,2242
 2013,Broj,M,60-64,Srebrenik,1066
 2013,Broj,Ž,60-64,Srebrenik,1176
-2013,Broj,Oba spola,60-64,Sarajevo - Stari Grad,2846
-2013,Broj,M,60-64,Sarajevo - Stari Grad,1343
-2013,Broj,Ž,60-64,Sarajevo - Stari Grad,1503
+2013,Broj,Oba spola,60-64,Sarajevo-Stari Grad,2846
+2013,Broj,M,60-64,Sarajevo-Stari Grad,1343
+2013,Broj,Ž,60-64,Sarajevo-Stari Grad,1503
 2013,Broj,Oba spola,60-64,Stolac,781
 2013,Broj,M,60-64,Stolac,389
 2013,Broj,Ž,60-64,Stolac,392
@@ -5884,9 +5884,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,60-64,Šipovo,792
 2013,Broj,M,60-64,Šipovo,387
 2013,Broj,Ž,60-64,Šipovo,405
-2013,Broj,Oba spola,60-64,Široki Brijeg,1204
-2013,Broj,M,60-64,Široki Brijeg,596
-2013,Broj,Ž,60-64,Široki Brijeg,608
+2013,Broj,Oba spola,60-64,siroki_brijeg,1204
+2013,Broj,M,60-64,siroki_brijeg,596
+2013,Broj,Ž,60-64,siroki_brijeg,608
 2013,Broj,Oba spola,60-64,Teočak,413
 2013,Broj,M,60-64,Teočak,215
 2013,Broj,Ž,60-64,Teočak,198
@@ -5905,12 +5905,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,60-64,Trebinje,2129
 2013,Broj,M,60-64,Trebinje,1016
 2013,Broj,Ž,60-64,Trebinje,1113
-2013,Broj,Oba spola,60-64,Trnovo - FBIH,194
-2013,Broj,M,60-64,Trnovo - FBIH,86
-2013,Broj,Ž,60-64,Trnovo - FBIH,108
-2013,Broj,Oba spola,60-64,Trnovo - RS,171
-2013,Broj,M,60-64,Trnovo - RS,80
-2013,Broj,Ž,60-64,Trnovo - RS,91
+2013,Broj,Oba spola,60-64,Trnovo-FBiH,194
+2013,Broj,M,60-64,Trnovo-FBiH,86
+2013,Broj,Ž,60-64,Trnovo-FBiH,108
+2013,Broj,Oba spola,60-64,Trnovo-RS,171
+2013,Broj,M,60-64,Trnovo-RS,80
+2013,Broj,Ž,60-64,Trnovo-RS,91
 2013,Broj,Oba spola,60-64,Tuzla,7796
 2013,Broj,M,60-64,Tuzla,3531
 2013,Broj,Ž,60-64,Tuzla,4265
@@ -5938,9 +5938,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,60-64,Vlasenica,841
 2013,Broj,M,60-64,Vlasenica,391
 2013,Broj,Ž,60-64,Vlasenica,450
-2013,Broj,Oba spola,60-64,Sarajevo - Vogošća,1540
-2013,Broj,M,60-64,Sarajevo - Vogošća,680
-2013,Broj,Ž,60-64,Sarajevo - Vogošća,860
+2013,Broj,Oba spola,60-64,Sarajevo-Vogošća,1540
+2013,Broj,M,60-64,Sarajevo-Vogošća,680
+2013,Broj,Ž,60-64,Sarajevo-Vogošća,860
 2013,Broj,Oba spola,60-64,Vukosavlje,262
 2013,Broj,M,60-64,Vukosavlje,121
 2013,Broj,Ž,60-64,Vukosavlje,141
@@ -6010,9 +6010,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,65-69,Cazin,2024
 2013,Broj,M,65-69,Cazin,909
 2013,Broj,Ž,65-69,Cazin,1115
-2013,Broj,Oba spola,65-69,Sarajevo - Centar,2905
-2013,Broj,M,65-69,Sarajevo - Centar,1210
-2013,Broj,Ž,65-69,Sarajevo - Centar,1695
+2013,Broj,Oba spola,65-69,Sarajevo-Centar,2905
+2013,Broj,M,65-69,Sarajevo-Centar,1210
+2013,Broj,Ž,65-69,Sarajevo-Centar,1695
 2013,Broj,Oba spola,65-69,Čajniče,270
 2013,Broj,M,65-69,Čajniče,116
 2013,Broj,Ž,65-69,Čajniče,154
@@ -6055,12 +6055,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,65-69,Drvar,515
 2013,Broj,M,65-69,Drvar,220
 2013,Broj,Ž,65-69,Drvar,295
-2013,Broj,Oba spola,65-69,Foča - FBIH,122
-2013,Broj,M,65-69,Foča - FBIH,54
-2013,Broj,Ž,65-69,Foča - FBIH,68
-2013,Broj,Oba spola,65-69,Foča - RS,913
-2013,Broj,M,65-69,Foča - RS,412
-2013,Broj,Ž,65-69,Foča - RS,501
+2013,Broj,Oba spola,65-69,Foča-FBiH,122
+2013,Broj,M,65-69,Foča-FBiH,54
+2013,Broj,Ž,65-69,Foča-FBiH,68
+2013,Broj,Oba spola,65-69,Foča-RS,913
+2013,Broj,M,65-69,Foča-RS,412
+2013,Broj,Ž,65-69,Foča-RS,501
 2013,Broj,Oba spola,65-69,Fojnica,534
 2013,Broj,M,65-69,Fojnica,248
 2013,Broj,Ž,65-69,Fojnica,286
@@ -6088,18 +6088,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,65-69,Grude,726
 2013,Broj,M,65-69,Grude,362
 2013,Broj,Ž,65-69,Grude,364
-2013,Broj,Oba spola,65-69,Sarajevo - Hadžići,887
-2013,Broj,M,65-69,Sarajevo - Hadžići,375
-2013,Broj,Ž,65-69,Sarajevo - Hadžići,512
+2013,Broj,Oba spola,65-69,Sarajevo-Hadžići,887
+2013,Broj,M,65-69,Sarajevo-Hadžići,375
+2013,Broj,Ž,65-69,Sarajevo-Hadžići,512
 2013,Broj,Oba spola,65-69,Han Pijesak,196
 2013,Broj,M,65-69,Han Pijesak,70
 2013,Broj,Ž,65-69,Han Pijesak,126
-2013,Broj,Oba spola,65-69,Sarajevo - Ilidža,2498
-2013,Broj,M,65-69,Sarajevo - Ilidža,1124
-2013,Broj,Ž,65-69,Sarajevo - Ilidža,1374
-2013,Broj,Oba spola,65-69,Sarajevo - Ilijaš,645
-2013,Broj,M,65-69,Sarajevo - Ilijaš,271
-2013,Broj,Ž,65-69,Sarajevo - Ilijaš,374
+2013,Broj,Oba spola,65-69,Sarajevo-Ilidža,2498
+2013,Broj,M,65-69,Sarajevo-Ilidža,1124
+2013,Broj,Ž,65-69,Sarajevo-Ilidža,1374
+2013,Broj,Oba spola,65-69,Sarajevo-Ilijaš,645
+2013,Broj,M,65-69,Sarajevo-Ilijaš,271
+2013,Broj,Ž,65-69,Sarajevo-Ilijaš,374
 2013,Broj,Oba spola,65-69,Istočna Ilidža,721
 2013,Broj,M,65-69,Istočna Ilidža,301
 2013,Broj,Ž,65-69,Istočna Ilidža,420
@@ -6163,12 +6163,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,65-69,Krupa Na Uni,90
 2013,Broj,M,65-69,Krupa Na Uni,51
 2013,Broj,Ž,65-69,Krupa Na Uni,39
-2013,Broj,Oba spola,65-69,Kupres - FBIH,155
-2013,Broj,M,65-69,Kupres - FBIH,74
-2013,Broj,Ž,65-69,Kupres - FBIH,81
-2013,Broj,Oba spola,65-69,Kupres - RS,28
-2013,Broj,M,65-69,Kupres - RS,13
-2013,Broj,Ž,65-69,Kupres - RS,15
+2013,Broj,Oba spola,65-69,Kupres-FBiH,155
+2013,Broj,M,65-69,Kupres-FBiH,74
+2013,Broj,Ž,65-69,Kupres-FBiH,81
+2013,Broj,Oba spola,65-69,Kupres-RS,28
+2013,Broj,M,65-69,Kupres-RS,13
+2013,Broj,Ž,65-69,Kupres-RS,15
 2013,Broj,Oba spola,65-69,Laktaši,1684
 2013,Broj,M,65-69,Laktaši,826
 2013,Broj,Ž,65-69,Laktaši,858
@@ -6211,18 +6211,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,65-69,Novi Grad,1309
 2013,Broj,M,65-69,Novi Grad,582
 2013,Broj,Ž,65-69,Novi Grad,727
-2013,Broj,Oba spola,65-69,Sarajevo - Novi Grad,5096
-2013,Broj,M,65-69,Sarajevo - Novi Grad,2112
-2013,Broj,Ž,65-69,Sarajevo - Novi Grad,2984
+2013,Broj,Oba spola,65-69,Sarajevo-Novi Grad,5096
+2013,Broj,M,65-69,Sarajevo-Novi Grad,2112
+2013,Broj,Ž,65-69,Sarajevo-Novi Grad,2984
 2013,Broj,Oba spola,65-69,Novi Travnik,749
 2013,Broj,M,65-69,Novi Travnik,301
 2013,Broj,Ž,65-69,Novi Travnik,448
 2013,Broj,Oba spola,65-69,Novo Goražde,147
 2013,Broj,M,65-69,Novo Goražde,82
 2013,Broj,Ž,65-69,Novo Goražde,65
-2013,Broj,Oba spola,65-69,Sarajevo - Novo Sarajevo,2828
-2013,Broj,M,65-69,Sarajevo - Novo Sarajevo,1112
-2013,Broj,Ž,65-69,Sarajevo - Novo Sarajevo,1716
+2013,Broj,Oba spola,65-69,Sarajevo-Novo Sarajevo,2828
+2013,Broj,M,65-69,Sarajevo-Novo Sarajevo,1112
+2013,Broj,Ž,65-69,Sarajevo-Novo Sarajevo,1716
 2013,Broj,Oba spola,65-69,Odžak,891
 2013,Broj,M,65-69,Odžak,398
 2013,Broj,Ž,65-69,Odžak,493
@@ -6238,12 +6238,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,65-69,Oštra Luka,140
 2013,Broj,M,65-69,Oštra Luka,61
 2013,Broj,Ž,65-69,Oštra Luka,79
-2013,Broj,Oba spola,65-69,Pale - FBIH,48
-2013,Broj,M,65-69,Pale - FBIH,19
-2013,Broj,Ž,65-69,Pale - FBIH,29
-2013,Broj,Oba spola,65-69,Pale - RS,926
-2013,Broj,M,65-69,Pale - RS,395
-2013,Broj,Ž,65-69,Pale - RS,531
+2013,Broj,Oba spola,65-69,Pale-FBiH,48
+2013,Broj,M,65-69,Pale-FBiH,19
+2013,Broj,Ž,65-69,Pale-FBiH,29
+2013,Broj,Oba spola,65-69,Pale-RS,926
+2013,Broj,M,65-69,Pale-RS,395
+2013,Broj,Ž,65-69,Pale-RS,531
 2013,Broj,Oba spola,65-69,Pelagićevo,374
 2013,Broj,M,65-69,Pelagićevo,174
 2013,Broj,Ž,65-69,Pelagićevo,200
@@ -6295,9 +6295,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,65-69,Srebrenik,1636
 2013,Broj,M,65-69,Srebrenik,736
 2013,Broj,Ž,65-69,Srebrenik,900
-2013,Broj,Oba spola,65-69,Sarajevo - Stari Grad,1828
-2013,Broj,M,65-69,Sarajevo - Stari Grad,813
-2013,Broj,Ž,65-69,Sarajevo - Stari Grad,1015
+2013,Broj,Oba spola,65-69,Sarajevo-Stari Grad,1828
+2013,Broj,M,65-69,Sarajevo-Stari Grad,813
+2013,Broj,Ž,65-69,Sarajevo-Stari Grad,1015
 2013,Broj,Oba spola,65-69,Stolac,517
 2013,Broj,M,65-69,Stolac,251
 2013,Broj,Ž,65-69,Stolac,266
@@ -6310,9 +6310,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,65-69,Šipovo,534
 2013,Broj,M,65-69,Šipovo,241
 2013,Broj,Ž,65-69,Šipovo,293
-2013,Broj,Oba spola,65-69,Široki Brijeg,909
-2013,Broj,M,65-69,Široki Brijeg,448
-2013,Broj,Ž,65-69,Široki Brijeg,461
+2013,Broj,Oba spola,65-69,siroki_brijeg,909
+2013,Broj,M,65-69,siroki_brijeg,448
+2013,Broj,Ž,65-69,siroki_brijeg,461
 2013,Broj,Oba spola,65-69,Teočak,264
 2013,Broj,M,65-69,Teočak,116
 2013,Broj,Ž,65-69,Teočak,148
@@ -6331,12 +6331,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,65-69,Trebinje,1368
 2013,Broj,M,65-69,Trebinje,616
 2013,Broj,Ž,65-69,Trebinje,752
-2013,Broj,Oba spola,65-69,Trnovo - FBIH,141
-2013,Broj,M,65-69,Trnovo - FBIH,70
-2013,Broj,Ž,65-69,Trnovo - FBIH,71
-2013,Broj,Oba spola,65-69,Trnovo - RS,117
-2013,Broj,M,65-69,Trnovo - RS,37
-2013,Broj,Ž,65-69,Trnovo - RS,80
+2013,Broj,Oba spola,65-69,Trnovo-FBiH,141
+2013,Broj,M,65-69,Trnovo-FBiH,70
+2013,Broj,Ž,65-69,Trnovo-FBiH,71
+2013,Broj,Oba spola,65-69,Trnovo-RS,117
+2013,Broj,M,65-69,Trnovo-RS,37
+2013,Broj,Ž,65-69,Trnovo-RS,80
 2013,Broj,Oba spola,65-69,Tuzla,5127
 2013,Broj,M,65-69,Tuzla,2209
 2013,Broj,Ž,65-69,Tuzla,2918
@@ -6364,9 +6364,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,65-69,Vlasenica,417
 2013,Broj,M,65-69,Vlasenica,184
 2013,Broj,Ž,65-69,Vlasenica,233
-2013,Broj,Oba spola,65-69,Sarajevo - Vogošća,834
-2013,Broj,M,65-69,Sarajevo - Vogošća,364
-2013,Broj,Ž,65-69,Sarajevo - Vogošća,470
+2013,Broj,Oba spola,65-69,Sarajevo-Vogošća,834
+2013,Broj,M,65-69,Sarajevo-Vogošća,364
+2013,Broj,Ž,65-69,Sarajevo-Vogošća,470
 2013,Broj,Oba spola,65-69,Vukosavlje,241
 2013,Broj,M,65-69,Vukosavlje,95
 2013,Broj,Ž,65-69,Vukosavlje,146
@@ -6436,9 +6436,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,70-74,Cazin,1763
 2013,Broj,M,70-74,Cazin,781
 2013,Broj,Ž,70-74,Cazin,982
-2013,Broj,Oba spola,70-74,Sarajevo - Centar,2572
-2013,Broj,M,70-74,Sarajevo - Centar,1045
-2013,Broj,Ž,70-74,Sarajevo - Centar,1527
+2013,Broj,Oba spola,70-74,Sarajevo-Centar,2572
+2013,Broj,M,70-74,Sarajevo-Centar,1045
+2013,Broj,Ž,70-74,Sarajevo-Centar,1527
 2013,Broj,Oba spola,70-74,Čajniče,255
 2013,Broj,M,70-74,Čajniče,99
 2013,Broj,Ž,70-74,Čajniče,156
@@ -6481,12 +6481,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,70-74,Drvar,483
 2013,Broj,M,70-74,Drvar,204
 2013,Broj,Ž,70-74,Drvar,279
-2013,Broj,Oba spola,70-74,Foča - FBIH,124
-2013,Broj,M,70-74,Foča - FBIH,54
-2013,Broj,Ž,70-74,Foča - FBIH,70
-2013,Broj,Oba spola,70-74,Foča - RS,1052
-2013,Broj,M,70-74,Foča - RS,421
-2013,Broj,Ž,70-74,Foča - RS,631
+2013,Broj,Oba spola,70-74,Foča-FBiH,124
+2013,Broj,M,70-74,Foča-FBiH,54
+2013,Broj,Ž,70-74,Foča-FBiH,70
+2013,Broj,Oba spola,70-74,Foča-RS,1052
+2013,Broj,M,70-74,Foča-RS,421
+2013,Broj,Ž,70-74,Foča-RS,631
 2013,Broj,Oba spola,70-74,Fojnica,456
 2013,Broj,M,70-74,Fojnica,200
 2013,Broj,Ž,70-74,Fojnica,256
@@ -6514,18 +6514,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,70-74,Grude,790
 2013,Broj,M,70-74,Grude,369
 2013,Broj,Ž,70-74,Grude,421
-2013,Broj,Oba spola,70-74,Sarajevo - Hadžići,662
-2013,Broj,M,70-74,Sarajevo - Hadžići,289
-2013,Broj,Ž,70-74,Sarajevo - Hadžići,373
+2013,Broj,Oba spola,70-74,Sarajevo-Hadžići,662
+2013,Broj,M,70-74,Sarajevo-Hadžići,289
+2013,Broj,Ž,70-74,Sarajevo-Hadžići,373
 2013,Broj,Oba spola,70-74,Han Pijesak,185
 2013,Broj,M,70-74,Han Pijesak,72
 2013,Broj,Ž,70-74,Han Pijesak,113
-2013,Broj,Oba spola,70-74,Sarajevo - Ilidža,2175
-2013,Broj,M,70-74,Sarajevo - Ilidža,911
-2013,Broj,Ž,70-74,Sarajevo - Ilidža,1264
-2013,Broj,Oba spola,70-74,Sarajevo - Ilijaš,593
-2013,Broj,M,70-74,Sarajevo - Ilijaš,218
-2013,Broj,Ž,70-74,Sarajevo - Ilijaš,375
+2013,Broj,Oba spola,70-74,Sarajevo-Ilidža,2175
+2013,Broj,M,70-74,Sarajevo-Ilidža,911
+2013,Broj,Ž,70-74,Sarajevo-Ilidža,1264
+2013,Broj,Oba spola,70-74,Sarajevo-Ilijaš,593
+2013,Broj,M,70-74,Sarajevo-Ilijaš,218
+2013,Broj,Ž,70-74,Sarajevo-Ilijaš,375
 2013,Broj,Oba spola,70-74,Istočna Ilidža,607
 2013,Broj,M,70-74,Istočna Ilidža,253
 2013,Broj,Ž,70-74,Istočna Ilidža,354
@@ -6589,12 +6589,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,70-74,Krupa Na Uni,99
 2013,Broj,M,70-74,Krupa Na Uni,42
 2013,Broj,Ž,70-74,Krupa Na Uni,57
-2013,Broj,Oba spola,70-74,Kupres - FBIH,229
-2013,Broj,M,70-74,Kupres - FBIH,103
-2013,Broj,Ž,70-74,Kupres - FBIH,126
-2013,Broj,Oba spola,70-74,Kupres - RS,44
-2013,Broj,M,70-74,Kupres - RS,18
-2013,Broj,Ž,70-74,Kupres - RS,26
+2013,Broj,Oba spola,70-74,Kupres-FBiH,229
+2013,Broj,M,70-74,Kupres-FBiH,103
+2013,Broj,Ž,70-74,Kupres-FBiH,126
+2013,Broj,Oba spola,70-74,Kupres-RS,44
+2013,Broj,M,70-74,Kupres-RS,18
+2013,Broj,Ž,70-74,Kupres-RS,26
 2013,Broj,Oba spola,70-74,Laktaši,1509
 2013,Broj,M,70-74,Laktaši,687
 2013,Broj,Ž,70-74,Laktaši,822
@@ -6637,18 +6637,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,70-74,Novi Grad,1247
 2013,Broj,M,70-74,Novi Grad,542
 2013,Broj,Ž,70-74,Novi Grad,705
-2013,Broj,Oba spola,70-74,Sarajevo - Novi Grad,4430
-2013,Broj,M,70-74,Sarajevo - Novi Grad,1847
-2013,Broj,Ž,70-74,Sarajevo - Novi Grad,2583
+2013,Broj,Oba spola,70-74,Sarajevo-Novi Grad,4430
+2013,Broj,M,70-74,Sarajevo-Novi Grad,1847
+2013,Broj,Ž,70-74,Sarajevo-Novi Grad,2583
 2013,Broj,Oba spola,70-74,Novi Travnik,693
 2013,Broj,M,70-74,Novi Travnik,279
 2013,Broj,Ž,70-74,Novi Travnik,414
 2013,Broj,Oba spola,70-74,Novo Goražde,135
 2013,Broj,M,70-74,Novo Goražde,54
 2013,Broj,Ž,70-74,Novo Goražde,81
-2013,Broj,Oba spola,70-74,Sarajevo - Novo Sarajevo,2634
-2013,Broj,M,70-74,Sarajevo - Novo Sarajevo,1020
-2013,Broj,Ž,70-74,Sarajevo - Novo Sarajevo,1614
+2013,Broj,Oba spola,70-74,Sarajevo-Novo Sarajevo,2634
+2013,Broj,M,70-74,Sarajevo-Novo Sarajevo,1020
+2013,Broj,Ž,70-74,Sarajevo-Novo Sarajevo,1614
 2013,Broj,Oba spola,70-74,Odžak,940
 2013,Broj,M,70-74,Odžak,426
 2013,Broj,Ž,70-74,Odžak,514
@@ -6664,12 +6664,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,70-74,Oštra Luka,171
 2013,Broj,M,70-74,Oštra Luka,65
 2013,Broj,Ž,70-74,Oštra Luka,106
-2013,Broj,Oba spola,70-74,Pale - FBIH,52
-2013,Broj,M,70-74,Pale - FBIH,28
-2013,Broj,Ž,70-74,Pale - FBIH,24
-2013,Broj,Oba spola,70-74,Pale - RS,962
-2013,Broj,M,70-74,Pale - RS,394
-2013,Broj,Ž,70-74,Pale - RS,568
+2013,Broj,Oba spola,70-74,Pale-FBiH,52
+2013,Broj,M,70-74,Pale-FBiH,28
+2013,Broj,Ž,70-74,Pale-FBiH,24
+2013,Broj,Oba spola,70-74,Pale-RS,962
+2013,Broj,M,70-74,Pale-RS,394
+2013,Broj,Ž,70-74,Pale-RS,568
 2013,Broj,Oba spola,70-74,Pelagićevo,341
 2013,Broj,M,70-74,Pelagićevo,141
 2013,Broj,Ž,70-74,Pelagićevo,200
@@ -6721,9 +6721,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,70-74,Srebrenik,1259
 2013,Broj,M,70-74,Srebrenik,548
 2013,Broj,Ž,70-74,Srebrenik,711
-2013,Broj,Oba spola,70-74,Sarajevo - Stari Grad,1568
-2013,Broj,M,70-74,Sarajevo - Stari Grad,635
-2013,Broj,Ž,70-74,Sarajevo - Stari Grad,933
+2013,Broj,Oba spola,70-74,Sarajevo-Stari Grad,1568
+2013,Broj,M,70-74,Sarajevo-Stari Grad,635
+2013,Broj,Ž,70-74,Sarajevo-Stari Grad,933
 2013,Broj,Oba spola,70-74,Stolac,578
 2013,Broj,M,70-74,Stolac,243
 2013,Broj,Ž,70-74,Stolac,335
@@ -6736,9 +6736,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,70-74,Šipovo,423
 2013,Broj,M,70-74,Šipovo,176
 2013,Broj,Ž,70-74,Šipovo,247
-2013,Broj,Oba spola,70-74,Široki Brijeg,1227
-2013,Broj,M,70-74,Široki Brijeg,535
-2013,Broj,Ž,70-74,Široki Brijeg,692
+2013,Broj,Oba spola,70-74,siroki_brijeg,1227
+2013,Broj,M,70-74,siroki_brijeg,535
+2013,Broj,Ž,70-74,siroki_brijeg,692
 2013,Broj,Oba spola,70-74,Teočak,224
 2013,Broj,M,70-74,Teočak,96
 2013,Broj,Ž,70-74,Teočak,128
@@ -6757,12 +6757,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,70-74,Trebinje,1365
 2013,Broj,M,70-74,Trebinje,583
 2013,Broj,Ž,70-74,Trebinje,782
-2013,Broj,Oba spola,70-74,Trnovo - FBIH,113
-2013,Broj,M,70-74,Trnovo - FBIH,52
-2013,Broj,Ž,70-74,Trnovo - FBIH,61
-2013,Broj,Oba spola,70-74,Trnovo - RS,122
-2013,Broj,M,70-74,Trnovo - RS,46
-2013,Broj,Ž,70-74,Trnovo - RS,76
+2013,Broj,Oba spola,70-74,Trnovo-FBiH,113
+2013,Broj,M,70-74,Trnovo-FBiH,52
+2013,Broj,Ž,70-74,Trnovo-FBiH,61
+2013,Broj,Oba spola,70-74,Trnovo-RS,122
+2013,Broj,M,70-74,Trnovo-RS,46
+2013,Broj,Ž,70-74,Trnovo-RS,76
 2013,Broj,Oba spola,70-74,Tuzla,4824
 2013,Broj,M,70-74,Tuzla,1996
 2013,Broj,Ž,70-74,Tuzla,2828
@@ -6790,9 +6790,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,70-74,Vlasenica,343
 2013,Broj,M,70-74,Vlasenica,134
 2013,Broj,Ž,70-74,Vlasenica,209
-2013,Broj,Oba spola,70-74,Sarajevo - Vogošća,721
-2013,Broj,M,70-74,Sarajevo - Vogošća,310
-2013,Broj,Ž,70-74,Sarajevo - Vogošća,411
+2013,Broj,Oba spola,70-74,Sarajevo-Vogošća,721
+2013,Broj,M,70-74,Sarajevo-Vogošća,310
+2013,Broj,Ž,70-74,Sarajevo-Vogošća,411
 2013,Broj,Oba spola,70-74,Vukosavlje,242
 2013,Broj,M,70-74,Vukosavlje,114
 2013,Broj,Ž,70-74,Vukosavlje,128
@@ -6862,9 +6862,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,75-79,Cazin,1116
 2013,Broj,M,75-79,Cazin,438
 2013,Broj,Ž,75-79,Cazin,678
-2013,Broj,Oba spola,75-79,Sarajevo - Centar,2282
-2013,Broj,M,75-79,Sarajevo - Centar,919
-2013,Broj,Ž,75-79,Sarajevo - Centar,1363
+2013,Broj,Oba spola,75-79,Sarajevo-Centar,2282
+2013,Broj,M,75-79,Sarajevo-Centar,919
+2013,Broj,Ž,75-79,Sarajevo-Centar,1363
 2013,Broj,Oba spola,75-79,Čajniče,229
 2013,Broj,M,75-79,Čajniče,87
 2013,Broj,Ž,75-79,Čajniče,142
@@ -6907,12 +6907,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,75-79,Drvar,563
 2013,Broj,M,75-79,Drvar,220
 2013,Broj,Ž,75-79,Drvar,343
-2013,Broj,Oba spola,75-79,Foča - FBIH,121
-2013,Broj,M,75-79,Foča - FBIH,46
-2013,Broj,Ž,75-79,Foča - FBIH,75
-2013,Broj,Oba spola,75-79,Foča - RS,897
-2013,Broj,M,75-79,Foča - RS,380
-2013,Broj,Ž,75-79,Foča - RS,517
+2013,Broj,Oba spola,75-79,Foča-FBiH,121
+2013,Broj,M,75-79,Foča-FBiH,46
+2013,Broj,Ž,75-79,Foča-FBiH,75
+2013,Broj,Oba spola,75-79,Foča-RS,897
+2013,Broj,M,75-79,Foča-RS,380
+2013,Broj,Ž,75-79,Foča-RS,517
 2013,Broj,Oba spola,75-79,Fojnica,340
 2013,Broj,M,75-79,Fojnica,144
 2013,Broj,Ž,75-79,Fojnica,196
@@ -6940,18 +6940,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,75-79,Grude,711
 2013,Broj,M,75-79,Grude,267
 2013,Broj,Ž,75-79,Grude,444
-2013,Broj,Oba spola,75-79,Sarajevo - Hadžići,602
-2013,Broj,M,75-79,Sarajevo - Hadžići,240
-2013,Broj,Ž,75-79,Sarajevo - Hadžići,362
+2013,Broj,Oba spola,75-79,Sarajevo-Hadžići,602
+2013,Broj,M,75-79,Sarajevo-Hadžići,240
+2013,Broj,Ž,75-79,Sarajevo-Hadžići,362
 2013,Broj,Oba spola,75-79,Han Pijesak,221
 2013,Broj,M,75-79,Han Pijesak,77
 2013,Broj,Ž,75-79,Han Pijesak,144
-2013,Broj,Oba spola,75-79,Sarajevo - Ilidža,1853
-2013,Broj,M,75-79,Sarajevo - Ilidža,775
-2013,Broj,Ž,75-79,Sarajevo - Ilidža,1078
-2013,Broj,Oba spola,75-79,Sarajevo - Ilijaš,513
-2013,Broj,M,75-79,Sarajevo - Ilijaš,220
-2013,Broj,Ž,75-79,Sarajevo - Ilijaš,293
+2013,Broj,Oba spola,75-79,Sarajevo-Ilidža,1853
+2013,Broj,M,75-79,Sarajevo-Ilidža,775
+2013,Broj,Ž,75-79,Sarajevo-Ilidža,1078
+2013,Broj,Oba spola,75-79,Sarajevo-Ilijaš,513
+2013,Broj,M,75-79,Sarajevo-Ilijaš,220
+2013,Broj,Ž,75-79,Sarajevo-Ilijaš,293
 2013,Broj,Oba spola,75-79,Istočna Ilidža,558
 2013,Broj,M,75-79,Istočna Ilidža,227
 2013,Broj,Ž,75-79,Istočna Ilidža,331
@@ -7015,12 +7015,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,75-79,Krupa Na Uni,124
 2013,Broj,M,75-79,Krupa Na Uni,47
 2013,Broj,Ž,75-79,Krupa Na Uni,77
-2013,Broj,Oba spola,75-79,Kupres - FBIH,210
-2013,Broj,M,75-79,Kupres - FBIH,95
-2013,Broj,Ž,75-79,Kupres - FBIH,115
-2013,Broj,Oba spola,75-79,Kupres - RS,42
-2013,Broj,M,75-79,Kupres - RS,17
-2013,Broj,Ž,75-79,Kupres - RS,25
+2013,Broj,Oba spola,75-79,Kupres-FBiH,210
+2013,Broj,M,75-79,Kupres-FBiH,95
+2013,Broj,Ž,75-79,Kupres-FBiH,115
+2013,Broj,Oba spola,75-79,Kupres-RS,42
+2013,Broj,M,75-79,Kupres-RS,17
+2013,Broj,Ž,75-79,Kupres-RS,25
 2013,Broj,Oba spola,75-79,Laktaši,1142
 2013,Broj,M,75-79,Laktaši,459
 2013,Broj,Ž,75-79,Laktaši,683
@@ -7063,18 +7063,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,75-79,Novi Grad,1161
 2013,Broj,M,75-79,Novi Grad,447
 2013,Broj,Ž,75-79,Novi Grad,714
-2013,Broj,Oba spola,75-79,Sarajevo - Novi Grad,3664
-2013,Broj,M,75-79,Sarajevo - Novi Grad,1437
-2013,Broj,Ž,75-79,Sarajevo - Novi Grad,2227
+2013,Broj,Oba spola,75-79,Sarajevo-Novi Grad,3664
+2013,Broj,M,75-79,Sarajevo-Novi Grad,1437
+2013,Broj,Ž,75-79,Sarajevo-Novi Grad,2227
 2013,Broj,Oba spola,75-79,Novi Travnik,581
 2013,Broj,M,75-79,Novi Travnik,246
 2013,Broj,Ž,75-79,Novi Travnik,335
 2013,Broj,Oba spola,75-79,Novo Goražde,145
 2013,Broj,M,75-79,Novo Goražde,65
 2013,Broj,Ž,75-79,Novo Goražde,80
-2013,Broj,Oba spola,75-79,Sarajevo - Novo Sarajevo,2731
-2013,Broj,M,75-79,Sarajevo - Novo Sarajevo,1024
-2013,Broj,Ž,75-79,Sarajevo - Novo Sarajevo,1707
+2013,Broj,Oba spola,75-79,Sarajevo-Novo Sarajevo,2731
+2013,Broj,M,75-79,Sarajevo-Novo Sarajevo,1024
+2013,Broj,Ž,75-79,Sarajevo-Novo Sarajevo,1707
 2013,Broj,Oba spola,75-79,Odžak,748
 2013,Broj,M,75-79,Odžak,284
 2013,Broj,Ž,75-79,Odžak,464
@@ -7090,12 +7090,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,75-79,Oštra Luka,162
 2013,Broj,M,75-79,Oštra Luka,65
 2013,Broj,Ž,75-79,Oštra Luka,97
-2013,Broj,Oba spola,75-79,Pale - FBIH,41
-2013,Broj,M,75-79,Pale - FBIH,13
-2013,Broj,Ž,75-79,Pale - FBIH,28
-2013,Broj,Oba spola,75-79,Pale - RS,872
-2013,Broj,M,75-79,Pale - RS,350
-2013,Broj,Ž,75-79,Pale - RS,522
+2013,Broj,Oba spola,75-79,Pale-FBiH,41
+2013,Broj,M,75-79,Pale-FBiH,13
+2013,Broj,Ž,75-79,Pale-FBiH,28
+2013,Broj,Oba spola,75-79,Pale-RS,872
+2013,Broj,M,75-79,Pale-RS,350
+2013,Broj,Ž,75-79,Pale-RS,522
 2013,Broj,Oba spola,75-79,Pelagićevo,291
 2013,Broj,M,75-79,Pelagićevo,113
 2013,Broj,Ž,75-79,Pelagićevo,178
@@ -7147,9 +7147,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,75-79,Srebrenik,963
 2013,Broj,M,75-79,Srebrenik,357
 2013,Broj,Ž,75-79,Srebrenik,606
-2013,Broj,Oba spola,75-79,Sarajevo - Stari Grad,1399
-2013,Broj,M,75-79,Sarajevo - Stari Grad,554
-2013,Broj,Ž,75-79,Sarajevo - Stari Grad,845
+2013,Broj,Oba spola,75-79,Sarajevo-Stari Grad,1399
+2013,Broj,M,75-79,Sarajevo-Stari Grad,554
+2013,Broj,Ž,75-79,Sarajevo-Stari Grad,845
 2013,Broj,Oba spola,75-79,Stolac,589
 2013,Broj,M,75-79,Stolac,242
 2013,Broj,Ž,75-79,Stolac,347
@@ -7162,9 +7162,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,75-79,Šipovo,518
 2013,Broj,M,75-79,Šipovo,209
 2013,Broj,Ž,75-79,Šipovo,309
-2013,Broj,Oba spola,75-79,Široki Brijeg,1089
-2013,Broj,M,75-79,Široki Brijeg,414
-2013,Broj,Ž,75-79,Široki Brijeg,675
+2013,Broj,Oba spola,75-79,siroki_brijeg,1089
+2013,Broj,M,75-79,siroki_brijeg,414
+2013,Broj,Ž,75-79,siroki_brijeg,675
 2013,Broj,Oba spola,75-79,Teočak,131
 2013,Broj,M,75-79,Teočak,54
 2013,Broj,Ž,75-79,Teočak,77
@@ -7183,12 +7183,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,75-79,Trebinje,1291
 2013,Broj,M,75-79,Trebinje,538
 2013,Broj,Ž,75-79,Trebinje,753
-2013,Broj,Oba spola,75-79,Trnovo - FBIH,76
-2013,Broj,M,75-79,Trnovo - FBIH,37
-2013,Broj,Ž,75-79,Trnovo - FBIH,39
-2013,Broj,Oba spola,75-79,Trnovo - RS,109
-2013,Broj,M,75-79,Trnovo - RS,53
-2013,Broj,Ž,75-79,Trnovo - RS,56
+2013,Broj,Oba spola,75-79,Trnovo-FBiH,76
+2013,Broj,M,75-79,Trnovo-FBiH,37
+2013,Broj,Ž,75-79,Trnovo-FBiH,39
+2013,Broj,Oba spola,75-79,Trnovo-RS,109
+2013,Broj,M,75-79,Trnovo-RS,53
+2013,Broj,Ž,75-79,Trnovo-RS,56
 2013,Broj,Oba spola,75-79,Tuzla,3976
 2013,Broj,M,75-79,Tuzla,1587
 2013,Broj,Ž,75-79,Tuzla,2389
@@ -7216,9 +7216,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,75-79,Vlasenica,304
 2013,Broj,M,75-79,Vlasenica,103
 2013,Broj,Ž,75-79,Vlasenica,201
-2013,Broj,Oba spola,75-79,Sarajevo - Vogošća,597
-2013,Broj,M,75-79,Sarajevo - Vogošća,244
-2013,Broj,Ž,75-79,Sarajevo - Vogošća,353
+2013,Broj,Oba spola,75-79,Sarajevo-Vogošća,597
+2013,Broj,M,75-79,Sarajevo-Vogošća,244
+2013,Broj,Ž,75-79,Sarajevo-Vogošća,353
 2013,Broj,Oba spola,75-79,Vukosavlje,199
 2013,Broj,M,75-79,Vukosavlje,76
 2013,Broj,Ž,75-79,Vukosavlje,123
@@ -7288,9 +7288,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,80-84,Cazin,520
 2013,Broj,M,80-84,Cazin,185
 2013,Broj,Ž,80-84,Cazin,335
-2013,Broj,Oba spola,80-84,Sarajevo - Centar,1399
-2013,Broj,M,80-84,Sarajevo - Centar,512
-2013,Broj,Ž,80-84,Sarajevo - Centar,887
+2013,Broj,Oba spola,80-84,Sarajevo-Centar,1399
+2013,Broj,M,80-84,Sarajevo-Centar,512
+2013,Broj,Ž,80-84,Sarajevo-Centar,887
 2013,Broj,Oba spola,80-84,Čajniče,110
 2013,Broj,M,80-84,Čajniče,39
 2013,Broj,Ž,80-84,Čajniče,71
@@ -7333,12 +7333,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,80-84,Drvar,335
 2013,Broj,M,80-84,Drvar,136
 2013,Broj,Ž,80-84,Drvar,199
-2013,Broj,Oba spola,80-84,Foča - FBIH,50
-2013,Broj,M,80-84,Foča - FBIH,30
-2013,Broj,Ž,80-84,Foča - FBIH,20
-2013,Broj,Oba spola,80-84,Foča - RS,488
-2013,Broj,M,80-84,Foča - RS,207
-2013,Broj,Ž,80-84,Foča - RS,281
+2013,Broj,Oba spola,80-84,Foča-FBiH,50
+2013,Broj,M,80-84,Foča-FBiH,30
+2013,Broj,Ž,80-84,Foča-FBiH,20
+2013,Broj,Oba spola,80-84,Foča-RS,488
+2013,Broj,M,80-84,Foča-RS,207
+2013,Broj,Ž,80-84,Foča-RS,281
 2013,Broj,Oba spola,80-84,Fojnica,171
 2013,Broj,M,80-84,Fojnica,67
 2013,Broj,Ž,80-84,Fojnica,104
@@ -7366,18 +7366,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,80-84,Grude,500
 2013,Broj,M,80-84,Grude,181
 2013,Broj,Ž,80-84,Grude,319
-2013,Broj,Oba spola,80-84,Sarajevo - Hadžići,293
-2013,Broj,M,80-84,Sarajevo - Hadžići,122
-2013,Broj,Ž,80-84,Sarajevo - Hadžići,171
+2013,Broj,Oba spola,80-84,Sarajevo-Hadžići,293
+2013,Broj,M,80-84,Sarajevo-Hadžići,122
+2013,Broj,Ž,80-84,Sarajevo-Hadžići,171
 2013,Broj,Oba spola,80-84,Han Pijesak,135
 2013,Broj,M,80-84,Han Pijesak,54
 2013,Broj,Ž,80-84,Han Pijesak,81
-2013,Broj,Oba spola,80-84,Sarajevo - Ilidža,890
-2013,Broj,M,80-84,Sarajevo - Ilidža,338
-2013,Broj,Ž,80-84,Sarajevo - Ilidža,552
-2013,Broj,Oba spola,80-84,Sarajevo - Ilijaš,261
-2013,Broj,M,80-84,Sarajevo - Ilijaš,98
-2013,Broj,Ž,80-84,Sarajevo - Ilijaš,163
+2013,Broj,Oba spola,80-84,Sarajevo-Ilidža,890
+2013,Broj,M,80-84,Sarajevo-Ilidža,338
+2013,Broj,Ž,80-84,Sarajevo-Ilidža,552
+2013,Broj,Oba spola,80-84,Sarajevo-Ilijaš,261
+2013,Broj,M,80-84,Sarajevo-Ilijaš,98
+2013,Broj,Ž,80-84,Sarajevo-Ilijaš,163
 2013,Broj,Oba spola,80-84,Istočna Ilidža,279
 2013,Broj,M,80-84,Istočna Ilidža,100
 2013,Broj,Ž,80-84,Istočna Ilidža,179
@@ -7441,12 +7441,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,80-84,Krupa Na Uni,73
 2013,Broj,M,80-84,Krupa Na Uni,26
 2013,Broj,Ž,80-84,Krupa Na Uni,47
-2013,Broj,Oba spola,80-84,Kupres - FBIH,116
-2013,Broj,M,80-84,Kupres - FBIH,47
-2013,Broj,Ž,80-84,Kupres - FBIH,69
-2013,Broj,Oba spola,80-84,Kupres - RS,16
-2013,Broj,M,80-84,Kupres - RS,11
-2013,Broj,Ž,80-84,Kupres - RS,5
+2013,Broj,Oba spola,80-84,Kupres-FBiH,116
+2013,Broj,M,80-84,Kupres-FBiH,47
+2013,Broj,Ž,80-84,Kupres-FBiH,69
+2013,Broj,Oba spola,80-84,Kupres-RS,16
+2013,Broj,M,80-84,Kupres-RS,11
+2013,Broj,Ž,80-84,Kupres-RS,5
 2013,Broj,Oba spola,80-84,Laktaši,668
 2013,Broj,M,80-84,Laktaši,251
 2013,Broj,Ž,80-84,Laktaši,417
@@ -7489,18 +7489,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,80-84,Novi Grad,627
 2013,Broj,M,80-84,Novi Grad,235
 2013,Broj,Ž,80-84,Novi Grad,392
-2013,Broj,Oba spola,80-84,Sarajevo - Novi Grad,1834
-2013,Broj,M,80-84,Sarajevo - Novi Grad,689
-2013,Broj,Ž,80-84,Sarajevo - Novi Grad,1145
+2013,Broj,Oba spola,80-84,Sarajevo-Novi Grad,1834
+2013,Broj,M,80-84,Sarajevo-Novi Grad,689
+2013,Broj,Ž,80-84,Sarajevo-Novi Grad,1145
 2013,Broj,Oba spola,80-84,Novi Travnik,276
 2013,Broj,M,80-84,Novi Travnik,106
 2013,Broj,Ž,80-84,Novi Travnik,170
 2013,Broj,Oba spola,80-84,Novo Goražde,81
 2013,Broj,M,80-84,Novo Goražde,46
 2013,Broj,Ž,80-84,Novo Goražde,35
-2013,Broj,Oba spola,80-84,Sarajevo - Novo Sarajevo,1651
-2013,Broj,M,80-84,Sarajevo - Novo Sarajevo,608
-2013,Broj,Ž,80-84,Sarajevo - Novo Sarajevo,1043
+2013,Broj,Oba spola,80-84,Sarajevo-Novo Sarajevo,1651
+2013,Broj,M,80-84,Sarajevo-Novo Sarajevo,608
+2013,Broj,Ž,80-84,Sarajevo-Novo Sarajevo,1043
 2013,Broj,Oba spola,80-84,Odžak,341
 2013,Broj,M,80-84,Odžak,125
 2013,Broj,Ž,80-84,Odžak,216
@@ -7516,12 +7516,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,80-84,Oštra Luka,74
 2013,Broj,M,80-84,Oštra Luka,26
 2013,Broj,Ž,80-84,Oštra Luka,48
-2013,Broj,Oba spola,80-84,Pale - FBIH,24
-2013,Broj,M,80-84,Pale - FBIH,14
-2013,Broj,Ž,80-84,Pale - FBIH,10
-2013,Broj,Oba spola,80-84,Pale - RS,472
-2013,Broj,M,80-84,Pale - RS,188
-2013,Broj,Ž,80-84,Pale - RS,284
+2013,Broj,Oba spola,80-84,Pale-FBiH,24
+2013,Broj,M,80-84,Pale-FBiH,14
+2013,Broj,Ž,80-84,Pale-FBiH,10
+2013,Broj,Oba spola,80-84,Pale-RS,472
+2013,Broj,M,80-84,Pale-RS,188
+2013,Broj,Ž,80-84,Pale-RS,284
 2013,Broj,Oba spola,80-84,Pelagićevo,185
 2013,Broj,M,80-84,Pelagićevo,68
 2013,Broj,Ž,80-84,Pelagićevo,117
@@ -7573,9 +7573,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,80-84,Srebrenik,501
 2013,Broj,M,80-84,Srebrenik,174
 2013,Broj,Ž,80-84,Srebrenik,327
-2013,Broj,Oba spola,80-84,Sarajevo - Stari Grad,746
-2013,Broj,M,80-84,Sarajevo - Stari Grad,284
-2013,Broj,Ž,80-84,Sarajevo - Stari Grad,462
+2013,Broj,Oba spola,80-84,Sarajevo-Stari Grad,746
+2013,Broj,M,80-84,Sarajevo-Stari Grad,284
+2013,Broj,Ž,80-84,Sarajevo-Stari Grad,462
 2013,Broj,Oba spola,80-84,Stolac,415
 2013,Broj,M,80-84,Stolac,171
 2013,Broj,Ž,80-84,Stolac,244
@@ -7588,9 +7588,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,80-84,Šipovo,281
 2013,Broj,M,80-84,Šipovo,101
 2013,Broj,Ž,80-84,Šipovo,180
-2013,Broj,Oba spola,80-84,Široki Brijeg,720
-2013,Broj,M,80-84,Široki Brijeg,287
-2013,Broj,Ž,80-84,Široki Brijeg,433
+2013,Broj,Oba spola,80-84,siroki_brijeg,720
+2013,Broj,M,80-84,siroki_brijeg,287
+2013,Broj,Ž,80-84,siroki_brijeg,433
 2013,Broj,Oba spola,80-84,Teočak,82
 2013,Broj,M,80-84,Teočak,28
 2013,Broj,Ž,80-84,Teočak,54
@@ -7609,12 +7609,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,80-84,Trebinje,798
 2013,Broj,M,80-84,Trebinje,299
 2013,Broj,Ž,80-84,Trebinje,499
-2013,Broj,Oba spola,80-84,Trnovo - FBIH,52
-2013,Broj,M,80-84,Trnovo - FBIH,26
-2013,Broj,Ž,80-84,Trnovo - FBIH,26
-2013,Broj,Oba spola,80-84,Trnovo - RS,55
-2013,Broj,M,80-84,Trnovo - RS,20
-2013,Broj,Ž,80-84,Trnovo - RS,35
+2013,Broj,Oba spola,80-84,Trnovo-FBiH,52
+2013,Broj,M,80-84,Trnovo-FBiH,26
+2013,Broj,Ž,80-84,Trnovo-FBiH,26
+2013,Broj,Oba spola,80-84,Trnovo-RS,55
+2013,Broj,M,80-84,Trnovo-RS,20
+2013,Broj,Ž,80-84,Trnovo-RS,35
 2013,Broj,Oba spola,80-84,Tuzla,2029
 2013,Broj,M,80-84,Tuzla,787
 2013,Broj,Ž,80-84,Tuzla,1242
@@ -7642,9 +7642,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,80-84,Vlasenica,179
 2013,Broj,M,80-84,Vlasenica,78
 2013,Broj,Ž,80-84,Vlasenica,101
-2013,Broj,Oba spola,80-84,Sarajevo - Vogošća,357
-2013,Broj,M,80-84,Sarajevo - Vogošća,129
-2013,Broj,Ž,80-84,Sarajevo - Vogošća,228
+2013,Broj,Oba spola,80-84,Sarajevo-Vogošća,357
+2013,Broj,M,80-84,Sarajevo-Vogošća,129
+2013,Broj,Ž,80-84,Sarajevo-Vogošća,228
 2013,Broj,Oba spola,80-84,Vukosavlje,110
 2013,Broj,M,80-84,Vukosavlje,44
 2013,Broj,Ž,80-84,Vukosavlje,66
@@ -7714,9 +7714,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,85+,Cazin,192
 2013,Broj,M,85+,Cazin,52
 2013,Broj,Ž,85+,Cazin,140
-2013,Broj,Oba spola,85+,Sarajevo - Centar,770
-2013,Broj,M,85+,Sarajevo - Centar,286
-2013,Broj,Ž,85+,Sarajevo - Centar,484
+2013,Broj,Oba spola,85+,Sarajevo-Centar,770
+2013,Broj,M,85+,Sarajevo-Centar,286
+2013,Broj,Ž,85+,Sarajevo-Centar,484
 2013,Broj,Oba spola,85+,Čajniče,48
 2013,Broj,M,85+,Čajniče,11
 2013,Broj,Ž,85+,Čajniče,37
@@ -7759,12 +7759,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,85+,Drvar,151
 2013,Broj,M,85+,Drvar,43
 2013,Broj,Ž,85+,Drvar,108
-2013,Broj,Oba spola,85+,Foča - FBIH,17
-2013,Broj,M,85+,Foča - FBIH,7
-2013,Broj,Ž,85+,Foča - FBIH,10
-2013,Broj,Oba spola,85+,Foča - RS,221
-2013,Broj,M,85+,Foča - RS,85
-2013,Broj,Ž,85+,Foča - RS,136
+2013,Broj,Oba spola,85+,Foča-FBiH,17
+2013,Broj,M,85+,Foča-FBiH,7
+2013,Broj,Ž,85+,Foča-FBiH,10
+2013,Broj,Oba spola,85+,Foča-RS,221
+2013,Broj,M,85+,Foča-RS,85
+2013,Broj,Ž,85+,Foča-RS,136
 2013,Broj,Oba spola,85+,Fojnica,70
 2013,Broj,M,85+,Fojnica,26
 2013,Broj,Ž,85+,Fojnica,44
@@ -7792,18 +7792,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,85+,Grude,280
 2013,Broj,M,85+,Grude,72
 2013,Broj,Ž,85+,Grude,208
-2013,Broj,Oba spola,85+,Sarajevo - Hadžići,114
-2013,Broj,M,85+,Sarajevo - Hadžići,42
-2013,Broj,Ž,85+,Sarajevo - Hadžići,72
+2013,Broj,Oba spola,85+,Sarajevo-Hadžići,114
+2013,Broj,M,85+,Sarajevo-Hadžići,42
+2013,Broj,Ž,85+,Sarajevo-Hadžići,72
 2013,Broj,Oba spola,85+,Han Pijesak,48
 2013,Broj,M,85+,Han Pijesak,15
 2013,Broj,Ž,85+,Han Pijesak,33
-2013,Broj,Oba spola,85+,Sarajevo - Ilidža,345
-2013,Broj,M,85+,Sarajevo - Ilidža,121
-2013,Broj,Ž,85+,Sarajevo - Ilidža,224
-2013,Broj,Oba spola,85+,Sarajevo - Ilijaš,101
-2013,Broj,M,85+,Sarajevo - Ilijaš,42
-2013,Broj,Ž,85+,Sarajevo - Ilijaš,59
+2013,Broj,Oba spola,85+,Sarajevo-Ilidža,345
+2013,Broj,M,85+,Sarajevo-Ilidža,121
+2013,Broj,Ž,85+,Sarajevo-Ilidža,224
+2013,Broj,Oba spola,85+,Sarajevo-Ilijaš,101
+2013,Broj,M,85+,Sarajevo-Ilijaš,42
+2013,Broj,Ž,85+,Sarajevo-Ilijaš,59
 2013,Broj,Oba spola,85+,Istočna Ilidža,130
 2013,Broj,M,85+,Istočna Ilidža,41
 2013,Broj,Ž,85+,Istočna Ilidža,89
@@ -7867,12 +7867,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,85+,Krupa Na Uni,28
 2013,Broj,M,85+,Krupa Na Uni,7
 2013,Broj,Ž,85+,Krupa Na Uni,21
-2013,Broj,Oba spola,85+,Kupres - FBIH,61
-2013,Broj,M,85+,Kupres - FBIH,22
-2013,Broj,Ž,85+,Kupres - FBIH,39
-2013,Broj,Oba spola,85+,Kupres - RS,6
-2013,Broj,M,85+,Kupres - RS,2
-2013,Broj,Ž,85+,Kupres - RS,4
+2013,Broj,Oba spola,85+,Kupres-FBiH,61
+2013,Broj,M,85+,Kupres-FBiH,22
+2013,Broj,Ž,85+,Kupres-FBiH,39
+2013,Broj,Oba spola,85+,Kupres-RS,6
+2013,Broj,M,85+,Kupres-RS,2
+2013,Broj,Ž,85+,Kupres-RS,4
 2013,Broj,Oba spola,85+,Laktaši,298
 2013,Broj,M,85+,Laktaši,97
 2013,Broj,Ž,85+,Laktaši,201
@@ -7915,18 +7915,18 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,85+,Novi Grad,283
 2013,Broj,M,85+,Novi Grad,87
 2013,Broj,Ž,85+,Novi Grad,196
-2013,Broj,Oba spola,85+,Sarajevo - Novi Grad,735
-2013,Broj,M,85+,Sarajevo - Novi Grad,260
-2013,Broj,Ž,85+,Sarajevo - Novi Grad,475
+2013,Broj,Oba spola,85+,Sarajevo-Novi Grad,735
+2013,Broj,M,85+,Sarajevo-Novi Grad,260
+2013,Broj,Ž,85+,Sarajevo-Novi Grad,475
 2013,Broj,Oba spola,85+,Novi Travnik,87
 2013,Broj,M,85+,Novi Travnik,23
 2013,Broj,Ž,85+,Novi Travnik,64
 2013,Broj,Oba spola,85+,Novo Goražde,35
 2013,Broj,M,85+,Novo Goražde,12
 2013,Broj,Ž,85+,Novo Goražde,23
-2013,Broj,Oba spola,85+,Sarajevo - Novo Sarajevo,819
-2013,Broj,M,85+,Sarajevo - Novo Sarajevo,289
-2013,Broj,Ž,85+,Sarajevo - Novo Sarajevo,530
+2013,Broj,Oba spola,85+,Sarajevo-Novo Sarajevo,819
+2013,Broj,M,85+,Sarajevo-Novo Sarajevo,289
+2013,Broj,Ž,85+,Sarajevo-Novo Sarajevo,530
 2013,Broj,Oba spola,85+,Odžak,116
 2013,Broj,M,85+,Odžak,25
 2013,Broj,Ž,85+,Odžak,91
@@ -7942,12 +7942,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,85+,Oštra Luka,28
 2013,Broj,M,85+,Oštra Luka,12
 2013,Broj,Ž,85+,Oštra Luka,16
-2013,Broj,Oba spola,85+,Pale - FBIH,11
-2013,Broj,M,85+,Pale - FBIH,6
-2013,Broj,Ž,85+,Pale - FBIH,5
-2013,Broj,Oba spola,85+,Pale - RS,194
-2013,Broj,M,85+,Pale - RS,66
-2013,Broj,Ž,85+,Pale - RS,128
+2013,Broj,Oba spola,85+,Pale-FBiH,11
+2013,Broj,M,85+,Pale-FBiH,6
+2013,Broj,Ž,85+,Pale-FBiH,5
+2013,Broj,Oba spola,85+,Pale-RS,194
+2013,Broj,M,85+,Pale-RS,66
+2013,Broj,Ž,85+,Pale-RS,128
 2013,Broj,Oba spola,85+,Pelagićevo,55
 2013,Broj,M,85+,Pelagićevo,18
 2013,Broj,Ž,85+,Pelagićevo,37
@@ -7999,9 +7999,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,85+,Srebrenik,206
 2013,Broj,M,85+,Srebrenik,63
 2013,Broj,Ž,85+,Srebrenik,143
-2013,Broj,Oba spola,85+,Sarajevo - Stari Grad,413
-2013,Broj,M,85+,Sarajevo - Stari Grad,107
-2013,Broj,Ž,85+,Sarajevo - Stari Grad,306
+2013,Broj,Oba spola,85+,Sarajevo-Stari Grad,413
+2013,Broj,M,85+,Sarajevo-Stari Grad,107
+2013,Broj,Ž,85+,Sarajevo-Stari Grad,306
 2013,Broj,Oba spola,85+,Stolac,176
 2013,Broj,M,85+,Stolac,48
 2013,Broj,Ž,85+,Stolac,128
@@ -8014,9 +8014,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,85+,Šipovo,148
 2013,Broj,M,85+,Šipovo,66
 2013,Broj,Ž,85+,Šipovo,82
-2013,Broj,Oba spola,85+,Široki Brijeg,422
-2013,Broj,M,85+,Široki Brijeg,89
-2013,Broj,Ž,85+,Široki Brijeg,333
+2013,Broj,Oba spola,85+,siroki_brijeg,422
+2013,Broj,M,85+,siroki_brijeg,89
+2013,Broj,Ž,85+,siroki_brijeg,333
 2013,Broj,Oba spola,85+,Teočak,45
 2013,Broj,M,85+,Teočak,19
 2013,Broj,Ž,85+,Teočak,26
@@ -8035,12 +8035,12 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,85+,Trebinje,457
 2013,Broj,M,85+,Trebinje,159
 2013,Broj,Ž,85+,Trebinje,298
-2013,Broj,Oba spola,85+,Trnovo - FBIH,12
-2013,Broj,M,85+,Trnovo - FBIH,6
-2013,Broj,Ž,85+,Trnovo - FBIH,6
-2013,Broj,Oba spola,85+,Trnovo - RS,28
-2013,Broj,M,85+,Trnovo - RS,11
-2013,Broj,Ž,85+,Trnovo - RS,17
+2013,Broj,Oba spola,85+,Trnovo-FBiH,12
+2013,Broj,M,85+,Trnovo-FBiH,6
+2013,Broj,Ž,85+,Trnovo-FBiH,6
+2013,Broj,Oba spola,85+,Trnovo-RS,28
+2013,Broj,M,85+,Trnovo-RS,11
+2013,Broj,Ž,85+,Trnovo-RS,17
 2013,Broj,Oba spola,85+,Tuzla,864
 2013,Broj,M,85+,Tuzla,273
 2013,Broj,Ž,85+,Tuzla,591
@@ -8068,9 +8068,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,85+,Vlasenica,67
 2013,Broj,M,85+,Vlasenica,16
 2013,Broj,Ž,85+,Vlasenica,51
-2013,Broj,Oba spola,85+,Sarajevo - Vogošća,127
-2013,Broj,M,85+,Sarajevo - Vogošća,43
-2013,Broj,Ž,85+,Sarajevo - Vogošća,84
+2013,Broj,Oba spola,85+,Sarajevo-Vogošća,127
+2013,Broj,M,85+,Sarajevo-Vogošća,43
+2013,Broj,Ž,85+,Sarajevo-Vogošća,84
 2013,Broj,Oba spola,85+,Vukosavlje,33
 2013,Broj,M,85+,Vukosavlje,8
 2013,Broj,Ž,85+,Vukosavlje,25
