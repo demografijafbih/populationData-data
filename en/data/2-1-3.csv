@@ -350,9 +350,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,Total,Sipovo,10293
 2013,Number,M,Total,Sipovo,5221
 2013,Number,F,Total,Sipovo,5072
-2013,Number,Both sexes,Total,siroki_brijeg,28929
-2013,Number,M,Total,siroki_brijeg,14381
-2013,Number,F,Total,siroki_brijeg,14548
+2013,Number,Both sexes,Total,Siroki Brijeg,28929
+2013,Number,M,Total,Siroki Brijeg,14381
+2013,Number,F,Total,Siroki Brijeg,14548
 2013,Number,Both sexes,Total,Teocak,7424
 2013,Number,M,Total,Teocak,3767
 2013,Number,F,Total,Teocak,3657
@@ -772,9 +772,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,0-4,Sipovo,431
 2013,Number,M,0-4,Sipovo,234
 2013,Number,F,0-4,Sipovo,197
-2013,Number,Both sexes,0-4,siroki_brijeg,1623
-2013,Number,M,0-4,siroki_brijeg,861
-2013,Number,F,0-4,siroki_brijeg,762
+2013,Number,Both sexes,0-4,Siroki Brijeg,1623
+2013,Number,M,0-4,Siroki Brijeg,861
+2013,Number,F,0-4,Siroki Brijeg,762
 2013,Number,Both sexes,0-4,Teocak,351
 2013,Number,M,0-4,Teocak,192
 2013,Number,F,0-4,Teocak,159
@@ -1198,9 +1198,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,5-9,Sipovo,472
 2013,Number,M,5-9,Sipovo,252
 2013,Number,F,5-9,Sipovo,220
-2013,Number,Both sexes,5-9,siroki_brijeg,1662
-2013,Number,M,5-9,siroki_brijeg,865
-2013,Number,F,5-9,siroki_brijeg,797
+2013,Number,Both sexes,5-9,Siroki Brijeg,1662
+2013,Number,M,5-9,Siroki Brijeg,865
+2013,Number,F,5-9,Siroki Brijeg,797
 2013,Number,Both sexes,5-9,Teocak,403
 2013,Number,M,5-9,Teocak,216
 2013,Number,F,5-9,Teocak,187
@@ -1624,9 +1624,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,10-14,Sipovo,569
 2013,Number,M,10-14,Sipovo,283
 2013,Number,F,10-14,Sipovo,286
-2013,Number,Both sexes,10-14,siroki_brijeg,1923
-2013,Number,M,10-14,siroki_brijeg,961
-2013,Number,F,10-14,siroki_brijeg,962
+2013,Number,Both sexes,10-14,Siroki Brijeg,1923
+2013,Number,M,10-14,Siroki Brijeg,961
+2013,Number,F,10-14,Siroki Brijeg,962
 2013,Number,Both sexes,10-14,Teocak,446
 2013,Number,M,10-14,Teocak,213
 2013,Number,F,10-14,Teocak,233
@@ -2050,9 +2050,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,15-19,Sipovo,609
 2013,Number,M,15-19,Sipovo,326
 2013,Number,F,15-19,Sipovo,283
-2013,Number,Both sexes,15-19,siroki_brijeg,2331
-2013,Number,M,15-19,siroki_brijeg,1208
-2013,Number,F,15-19,siroki_brijeg,1123
+2013,Number,Both sexes,15-19,Siroki Brijeg,2331
+2013,Number,M,15-19,Siroki Brijeg,1208
+2013,Number,F,15-19,Siroki Brijeg,1123
 2013,Number,Both sexes,15-19,Teocak,605
 2013,Number,M,15-19,Teocak,310
 2013,Number,F,15-19,Teocak,295
@@ -2476,9 +2476,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,20-24,Sipovo,586
 2013,Number,M,20-24,Sipovo,304
 2013,Number,F,20-24,Sipovo,282
-2013,Number,Both sexes,20-24,siroki_brijeg,2243
-2013,Number,M,20-24,siroki_brijeg,1122
-2013,Number,F,20-24,siroki_brijeg,1121
+2013,Number,Both sexes,20-24,Siroki Brijeg,2243
+2013,Number,M,20-24,Siroki Brijeg,1122
+2013,Number,F,20-24,Siroki Brijeg,1121
 2013,Number,Both sexes,20-24,Teocak,589
 2013,Number,M,20-24,Teocak,297
 2013,Number,F,20-24,Teocak,292
@@ -2902,9 +2902,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,25-29,Sipovo,654
 2013,Number,M,25-29,Sipovo,360
 2013,Number,F,25-29,Sipovo,294
-2013,Number,Both sexes,25-29,siroki_brijeg,2068
-2013,Number,M,25-29,siroki_brijeg,1060
-2013,Number,F,25-29,siroki_brijeg,1008
+2013,Number,Both sexes,25-29,Siroki Brijeg,2068
+2013,Number,M,25-29,Siroki Brijeg,1060
+2013,Number,F,25-29,Siroki Brijeg,1008
 2013,Number,Both sexes,25-29,Teocak,517
 2013,Number,M,25-29,Teocak,267
 2013,Number,F,25-29,Teocak,250
@@ -3328,9 +3328,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,30-24,Sipovo,668
 2013,Number,M,30-24,Sipovo,372
 2013,Number,F,30-24,Sipovo,296
-2013,Number,Both sexes,30-24,siroki_brijeg,1692
-2013,Number,M,30-24,siroki_brijeg,842
-2013,Number,F,30-24,siroki_brijeg,850
+2013,Number,Both sexes,30-24,Siroki Brijeg,1692
+2013,Number,M,30-24,Siroki Brijeg,842
+2013,Number,F,30-24,Siroki Brijeg,850
 2013,Number,Both sexes,30-24,Teocak,549
 2013,Number,M,30-24,Teocak,305
 2013,Number,F,30-24,Teocak,244
@@ -3754,9 +3754,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,35-39,Sipovo,630
 2013,Number,M,35-39,Sipovo,337
 2013,Number,F,35-39,Sipovo,293
-2013,Number,Both sexes,35-39,siroki_brijeg,1706
-2013,Number,M,35-39,siroki_brijeg,848
-2013,Number,F,35-39,siroki_brijeg,858
+2013,Number,Both sexes,35-39,Siroki Brijeg,1706
+2013,Number,M,35-39,Siroki Brijeg,848
+2013,Number,F,35-39,Siroki Brijeg,858
 2013,Number,Both sexes,35-39,Teocak,586
 2013,Number,M,35-39,Teocak,308
 2013,Number,F,35-39,Teocak,278
@@ -4180,9 +4180,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,40-44,Sipovo,523
 2013,Number,M,40-44,Sipovo,296
 2013,Number,F,40-44,Sipovo,227
-2013,Number,Both sexes,40-44,siroki_brijeg,1889
-2013,Number,M,40-44,siroki_brijeg,950
-2013,Number,F,40-44,siroki_brijeg,939
+2013,Number,Both sexes,40-44,Siroki Brijeg,1889
+2013,Number,M,40-44,Siroki Brijeg,950
+2013,Number,F,40-44,Siroki Brijeg,939
 2013,Number,Both sexes,40-44,Teocak,562
 2013,Number,M,40-44,Teocak,302
 2013,Number,F,40-44,Teocak,260
@@ -4606,9 +4606,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,45-49,Sipovo,643
 2013,Number,M,45-49,Sipovo,340
 2013,Number,F,45-49,Sipovo,303
-2013,Number,Both sexes,45-49,siroki_brijeg,2304
-2013,Number,M,45-49,siroki_brijeg,1160
-2013,Number,F,45-49,siroki_brijeg,1144
+2013,Number,Both sexes,45-49,Siroki Brijeg,2304
+2013,Number,M,45-49,Siroki Brijeg,1160
+2013,Number,F,45-49,Siroki Brijeg,1144
 2013,Number,Both sexes,45-49,Teocak,532
 2013,Number,M,45-49,Teocak,262
 2013,Number,F,45-49,Teocak,270
@@ -5032,9 +5032,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,50-54,Sipovo,825
 2013,Number,M,50-54,Sipovo,431
 2013,Number,F,50-54,Sipovo,394
-2013,Number,Both sexes,50-54,siroki_brijeg,2154
-2013,Number,M,50-54,siroki_brijeg,1171
-2013,Number,F,50-54,siroki_brijeg,983
+2013,Number,Both sexes,50-54,Siroki Brijeg,2154
+2013,Number,M,50-54,Siroki Brijeg,1171
+2013,Number,F,50-54,Siroki Brijeg,983
 2013,Number,Both sexes,50-54,Teocak,591
 2013,Number,M,50-54,Teocak,302
 2013,Number,F,50-54,Teocak,289
@@ -5458,9 +5458,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,55-59,Sipovo,987
 2013,Number,M,55-59,Sipovo,506
 2013,Number,F,55-59,Sipovo,481
-2013,Number,Both sexes,55-59,siroki_brijeg,1763
-2013,Number,M,55-59,siroki_brijeg,964
-2013,Number,F,55-59,siroki_brijeg,799
+2013,Number,Both sexes,55-59,Siroki Brijeg,1763
+2013,Number,M,55-59,Siroki Brijeg,964
+2013,Number,F,55-59,Siroki Brijeg,799
 2013,Number,Both sexes,55-59,Teocak,534
 2013,Number,M,55-59,Teocak,265
 2013,Number,F,55-59,Teocak,269
@@ -5884,9 +5884,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,60-64,Sipovo,792
 2013,Number,M,60-64,Sipovo,387
 2013,Number,F,60-64,Sipovo,405
-2013,Number,Both sexes,60-64,siroki_brijeg,1204
-2013,Number,M,60-64,siroki_brijeg,596
-2013,Number,F,60-64,siroki_brijeg,608
+2013,Number,Both sexes,60-64,Siroki Brijeg,1204
+2013,Number,M,60-64,Siroki Brijeg,596
+2013,Number,F,60-64,Siroki Brijeg,608
 2013,Number,Both sexes,60-64,Teocak,413
 2013,Number,M,60-64,Teocak,215
 2013,Number,F,60-64,Teocak,198
@@ -6310,9 +6310,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,65-69,Sipovo,534
 2013,Number,M,65-69,Sipovo,241
 2013,Number,F,65-69,Sipovo,293
-2013,Number,Both sexes,65-69,siroki_brijeg,909
-2013,Number,M,65-69,siroki_brijeg,448
-2013,Number,F,65-69,siroki_brijeg,461
+2013,Number,Both sexes,65-69,Siroki Brijeg,909
+2013,Number,M,65-69,Siroki Brijeg,448
+2013,Number,F,65-69,Siroki Brijeg,461
 2013,Number,Both sexes,65-69,Teocak,264
 2013,Number,M,65-69,Teocak,116
 2013,Number,F,65-69,Teocak,148
@@ -6736,9 +6736,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,70-74,Sipovo,423
 2013,Number,M,70-74,Sipovo,176
 2013,Number,F,70-74,Sipovo,247
-2013,Number,Both sexes,70-74,siroki_brijeg,1227
-2013,Number,M,70-74,siroki_brijeg,535
-2013,Number,F,70-74,siroki_brijeg,692
+2013,Number,Both sexes,70-74,Siroki Brijeg,1227
+2013,Number,M,70-74,Siroki Brijeg,535
+2013,Number,F,70-74,Siroki Brijeg,692
 2013,Number,Both sexes,70-74,Teocak,224
 2013,Number,M,70-74,Teocak,96
 2013,Number,F,70-74,Teocak,128
@@ -7162,9 +7162,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,75-79,Sipovo,518
 2013,Number,M,75-79,Sipovo,209
 2013,Number,F,75-79,Sipovo,309
-2013,Number,Both sexes,75-79,siroki_brijeg,1089
-2013,Number,M,75-79,siroki_brijeg,414
-2013,Number,F,75-79,siroki_brijeg,675
+2013,Number,Both sexes,75-79,Siroki Brijeg,1089
+2013,Number,M,75-79,Siroki Brijeg,414
+2013,Number,F,75-79,Siroki Brijeg,675
 2013,Number,Both sexes,75-79,Teocak,131
 2013,Number,M,75-79,Teocak,54
 2013,Number,F,75-79,Teocak,77
@@ -7588,9 +7588,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,80-84,Sipovo,281
 2013,Number,M,80-84,Sipovo,101
 2013,Number,F,80-84,Sipovo,180
-2013,Number,Both sexes,80-84,siroki_brijeg,720
-2013,Number,M,80-84,siroki_brijeg,287
-2013,Number,F,80-84,siroki_brijeg,433
+2013,Number,Both sexes,80-84,Siroki Brijeg,720
+2013,Number,M,80-84,Siroki Brijeg,287
+2013,Number,F,80-84,Siroki Brijeg,433
 2013,Number,Both sexes,80-84,Teocak,82
 2013,Number,M,80-84,Teocak,28
 2013,Number,F,80-84,Teocak,54
@@ -8014,9 +8014,9 @@ Year,UNIT_MEASURE,Sex,Age,Municipality,Value
 2013,Number,Both sexes,85+,Sipovo,148
 2013,Number,M,85+,Sipovo,66
 2013,Number,F,85+,Sipovo,82
-2013,Number,Both sexes,85+,siroki_brijeg,422
-2013,Number,M,85+,siroki_brijeg,89
-2013,Number,F,85+,siroki_brijeg,333
+2013,Number,Both sexes,85+,Siroki Brijeg,422
+2013,Number,M,85+,Siroki Brijeg,89
+2013,Number,F,85+,Siroki Brijeg,333
 2013,Number,Both sexes,85+,Teocak,45
 2013,Number,M,85+,Teocak,19
 2013,Number,F,85+,Teocak,26

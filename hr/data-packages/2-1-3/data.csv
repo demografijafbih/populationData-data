@@ -350,9 +350,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,Total,Šipovo,10293
 2013,Broj,M,Total,Šipovo,5221
 2013,Broj,Ž,Total,Šipovo,5072
-2013,Broj,Oba spola,Total,siroki_brijeg,28929
-2013,Broj,M,Total,siroki_brijeg,14381
-2013,Broj,Ž,Total,siroki_brijeg,14548
+2013,Broj,Oba spola,Total,Široki Brijeg,28929
+2013,Broj,M,Total,Široki Brijeg,14381
+2013,Broj,Ž,Total,Široki Brijeg,14548
 2013,Broj,Oba spola,Total,Teočak,7424
 2013,Broj,M,Total,Teočak,3767
 2013,Broj,Ž,Total,Teočak,3657
@@ -772,9 +772,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,0-4,Šipovo,431
 2013,Broj,M,0-4,Šipovo,234
 2013,Broj,Ž,0-4,Šipovo,197
-2013,Broj,Oba spola,0-4,siroki_brijeg,1623
-2013,Broj,M,0-4,siroki_brijeg,861
-2013,Broj,Ž,0-4,siroki_brijeg,762
+2013,Broj,Oba spola,0-4,Široki Brijeg,1623
+2013,Broj,M,0-4,Široki Brijeg,861
+2013,Broj,Ž,0-4,Široki Brijeg,762
 2013,Broj,Oba spola,0-4,Teočak,351
 2013,Broj,M,0-4,Teočak,192
 2013,Broj,Ž,0-4,Teočak,159
@@ -1198,9 +1198,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,5-9,Šipovo,472
 2013,Broj,M,5-9,Šipovo,252
 2013,Broj,Ž,5-9,Šipovo,220
-2013,Broj,Oba spola,5-9,siroki_brijeg,1662
-2013,Broj,M,5-9,siroki_brijeg,865
-2013,Broj,Ž,5-9,siroki_brijeg,797
+2013,Broj,Oba spola,5-9,Široki Brijeg,1662
+2013,Broj,M,5-9,Široki Brijeg,865
+2013,Broj,Ž,5-9,Široki Brijeg,797
 2013,Broj,Oba spola,5-9,Teočak,403
 2013,Broj,M,5-9,Teočak,216
 2013,Broj,Ž,5-9,Teočak,187
@@ -1624,9 +1624,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,10-14,Šipovo,569
 2013,Broj,M,10-14,Šipovo,283
 2013,Broj,Ž,10-14,Šipovo,286
-2013,Broj,Oba spola,10-14,siroki_brijeg,1923
-2013,Broj,M,10-14,siroki_brijeg,961
-2013,Broj,Ž,10-14,siroki_brijeg,962
+2013,Broj,Oba spola,10-14,Široki Brijeg,1923
+2013,Broj,M,10-14,Široki Brijeg,961
+2013,Broj,Ž,10-14,Široki Brijeg,962
 2013,Broj,Oba spola,10-14,Teočak,446
 2013,Broj,M,10-14,Teočak,213
 2013,Broj,Ž,10-14,Teočak,233
@@ -2050,9 +2050,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,15-19,Šipovo,609
 2013,Broj,M,15-19,Šipovo,326
 2013,Broj,Ž,15-19,Šipovo,283
-2013,Broj,Oba spola,15-19,siroki_brijeg,2331
-2013,Broj,M,15-19,siroki_brijeg,1208
-2013,Broj,Ž,15-19,siroki_brijeg,1123
+2013,Broj,Oba spola,15-19,Široki Brijeg,2331
+2013,Broj,M,15-19,Široki Brijeg,1208
+2013,Broj,Ž,15-19,Široki Brijeg,1123
 2013,Broj,Oba spola,15-19,Teočak,605
 2013,Broj,M,15-19,Teočak,310
 2013,Broj,Ž,15-19,Teočak,295
@@ -2476,9 +2476,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,20-24,Šipovo,586
 2013,Broj,M,20-24,Šipovo,304
 2013,Broj,Ž,20-24,Šipovo,282
-2013,Broj,Oba spola,20-24,siroki_brijeg,2243
-2013,Broj,M,20-24,siroki_brijeg,1122
-2013,Broj,Ž,20-24,siroki_brijeg,1121
+2013,Broj,Oba spola,20-24,Široki Brijeg,2243
+2013,Broj,M,20-24,Široki Brijeg,1122
+2013,Broj,Ž,20-24,Široki Brijeg,1121
 2013,Broj,Oba spola,20-24,Teočak,589
 2013,Broj,M,20-24,Teočak,297
 2013,Broj,Ž,20-24,Teočak,292
@@ -2902,9 +2902,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,25-29,Šipovo,654
 2013,Broj,M,25-29,Šipovo,360
 2013,Broj,Ž,25-29,Šipovo,294
-2013,Broj,Oba spola,25-29,siroki_brijeg,2068
-2013,Broj,M,25-29,siroki_brijeg,1060
-2013,Broj,Ž,25-29,siroki_brijeg,1008
+2013,Broj,Oba spola,25-29,Široki Brijeg,2068
+2013,Broj,M,25-29,Široki Brijeg,1060
+2013,Broj,Ž,25-29,Široki Brijeg,1008
 2013,Broj,Oba spola,25-29,Teočak,517
 2013,Broj,M,25-29,Teočak,267
 2013,Broj,Ž,25-29,Teočak,250
@@ -3328,9 +3328,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,30-24,Šipovo,668
 2013,Broj,M,30-24,Šipovo,372
 2013,Broj,Ž,30-24,Šipovo,296
-2013,Broj,Oba spola,30-24,siroki_brijeg,1692
-2013,Broj,M,30-24,siroki_brijeg,842
-2013,Broj,Ž,30-24,siroki_brijeg,850
+2013,Broj,Oba spola,30-24,Široki Brijeg,1692
+2013,Broj,M,30-24,Široki Brijeg,842
+2013,Broj,Ž,30-24,Široki Brijeg,850
 2013,Broj,Oba spola,30-24,Teočak,549
 2013,Broj,M,30-24,Teočak,305
 2013,Broj,Ž,30-24,Teočak,244
@@ -3754,9 +3754,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,35-39,Šipovo,630
 2013,Broj,M,35-39,Šipovo,337
 2013,Broj,Ž,35-39,Šipovo,293
-2013,Broj,Oba spola,35-39,siroki_brijeg,1706
-2013,Broj,M,35-39,siroki_brijeg,848
-2013,Broj,Ž,35-39,siroki_brijeg,858
+2013,Broj,Oba spola,35-39,Široki Brijeg,1706
+2013,Broj,M,35-39,Široki Brijeg,848
+2013,Broj,Ž,35-39,Široki Brijeg,858
 2013,Broj,Oba spola,35-39,Teočak,586
 2013,Broj,M,35-39,Teočak,308
 2013,Broj,Ž,35-39,Teočak,278
@@ -4180,9 +4180,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,40-44,Šipovo,523
 2013,Broj,M,40-44,Šipovo,296
 2013,Broj,Ž,40-44,Šipovo,227
-2013,Broj,Oba spola,40-44,siroki_brijeg,1889
-2013,Broj,M,40-44,siroki_brijeg,950
-2013,Broj,Ž,40-44,siroki_brijeg,939
+2013,Broj,Oba spola,40-44,Široki Brijeg,1889
+2013,Broj,M,40-44,Široki Brijeg,950
+2013,Broj,Ž,40-44,Široki Brijeg,939
 2013,Broj,Oba spola,40-44,Teočak,562
 2013,Broj,M,40-44,Teočak,302
 2013,Broj,Ž,40-44,Teočak,260
@@ -4606,9 +4606,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,45-49,Šipovo,643
 2013,Broj,M,45-49,Šipovo,340
 2013,Broj,Ž,45-49,Šipovo,303
-2013,Broj,Oba spola,45-49,siroki_brijeg,2304
-2013,Broj,M,45-49,siroki_brijeg,1160
-2013,Broj,Ž,45-49,siroki_brijeg,1144
+2013,Broj,Oba spola,45-49,Široki Brijeg,2304
+2013,Broj,M,45-49,Široki Brijeg,1160
+2013,Broj,Ž,45-49,Široki Brijeg,1144
 2013,Broj,Oba spola,45-49,Teočak,532
 2013,Broj,M,45-49,Teočak,262
 2013,Broj,Ž,45-49,Teočak,270
@@ -5032,9 +5032,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,50-54,Šipovo,825
 2013,Broj,M,50-54,Šipovo,431
 2013,Broj,Ž,50-54,Šipovo,394
-2013,Broj,Oba spola,50-54,siroki_brijeg,2154
-2013,Broj,M,50-54,siroki_brijeg,1171
-2013,Broj,Ž,50-54,siroki_brijeg,983
+2013,Broj,Oba spola,50-54,Široki Brijeg,2154
+2013,Broj,M,50-54,Široki Brijeg,1171
+2013,Broj,Ž,50-54,Široki Brijeg,983
 2013,Broj,Oba spola,50-54,Teočak,591
 2013,Broj,M,50-54,Teočak,302
 2013,Broj,Ž,50-54,Teočak,289
@@ -5458,9 +5458,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,55-59,Šipovo,987
 2013,Broj,M,55-59,Šipovo,506
 2013,Broj,Ž,55-59,Šipovo,481
-2013,Broj,Oba spola,55-59,siroki_brijeg,1763
-2013,Broj,M,55-59,siroki_brijeg,964
-2013,Broj,Ž,55-59,siroki_brijeg,799
+2013,Broj,Oba spola,55-59,Široki Brijeg,1763
+2013,Broj,M,55-59,Široki Brijeg,964
+2013,Broj,Ž,55-59,Široki Brijeg,799
 2013,Broj,Oba spola,55-59,Teočak,534
 2013,Broj,M,55-59,Teočak,265
 2013,Broj,Ž,55-59,Teočak,269
@@ -5884,9 +5884,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,60-64,Šipovo,792
 2013,Broj,M,60-64,Šipovo,387
 2013,Broj,Ž,60-64,Šipovo,405
-2013,Broj,Oba spola,60-64,siroki_brijeg,1204
-2013,Broj,M,60-64,siroki_brijeg,596
-2013,Broj,Ž,60-64,siroki_brijeg,608
+2013,Broj,Oba spola,60-64,Široki Brijeg,1204
+2013,Broj,M,60-64,Široki Brijeg,596
+2013,Broj,Ž,60-64,Široki Brijeg,608
 2013,Broj,Oba spola,60-64,Teočak,413
 2013,Broj,M,60-64,Teočak,215
 2013,Broj,Ž,60-64,Teočak,198
@@ -6310,9 +6310,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,65-69,Šipovo,534
 2013,Broj,M,65-69,Šipovo,241
 2013,Broj,Ž,65-69,Šipovo,293
-2013,Broj,Oba spola,65-69,siroki_brijeg,909
-2013,Broj,M,65-69,siroki_brijeg,448
-2013,Broj,Ž,65-69,siroki_brijeg,461
+2013,Broj,Oba spola,65-69,Široki Brijeg,909
+2013,Broj,M,65-69,Široki Brijeg,448
+2013,Broj,Ž,65-69,Široki Brijeg,461
 2013,Broj,Oba spola,65-69,Teočak,264
 2013,Broj,M,65-69,Teočak,116
 2013,Broj,Ž,65-69,Teočak,148
@@ -6736,9 +6736,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,70-74,Šipovo,423
 2013,Broj,M,70-74,Šipovo,176
 2013,Broj,Ž,70-74,Šipovo,247
-2013,Broj,Oba spola,70-74,siroki_brijeg,1227
-2013,Broj,M,70-74,siroki_brijeg,535
-2013,Broj,Ž,70-74,siroki_brijeg,692
+2013,Broj,Oba spola,70-74,Široki Brijeg,1227
+2013,Broj,M,70-74,Široki Brijeg,535
+2013,Broj,Ž,70-74,Široki Brijeg,692
 2013,Broj,Oba spola,70-74,Teočak,224
 2013,Broj,M,70-74,Teočak,96
 2013,Broj,Ž,70-74,Teočak,128
@@ -7162,9 +7162,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,75-79,Šipovo,518
 2013,Broj,M,75-79,Šipovo,209
 2013,Broj,Ž,75-79,Šipovo,309
-2013,Broj,Oba spola,75-79,siroki_brijeg,1089
-2013,Broj,M,75-79,siroki_brijeg,414
-2013,Broj,Ž,75-79,siroki_brijeg,675
+2013,Broj,Oba spola,75-79,Široki Brijeg,1089
+2013,Broj,M,75-79,Široki Brijeg,414
+2013,Broj,Ž,75-79,Široki Brijeg,675
 2013,Broj,Oba spola,75-79,Teočak,131
 2013,Broj,M,75-79,Teočak,54
 2013,Broj,Ž,75-79,Teočak,77
@@ -7588,9 +7588,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,80-84,Šipovo,281
 2013,Broj,M,80-84,Šipovo,101
 2013,Broj,Ž,80-84,Šipovo,180
-2013,Broj,Oba spola,80-84,siroki_brijeg,720
-2013,Broj,M,80-84,siroki_brijeg,287
-2013,Broj,Ž,80-84,siroki_brijeg,433
+2013,Broj,Oba spola,80-84,Široki Brijeg,720
+2013,Broj,M,80-84,Široki Brijeg,287
+2013,Broj,Ž,80-84,Široki Brijeg,433
 2013,Broj,Oba spola,80-84,Teočak,82
 2013,Broj,M,80-84,Teočak,28
 2013,Broj,Ž,80-84,Teočak,54
@@ -8014,9 +8014,9 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Općina,Value
 2013,Broj,Oba spola,85+,Šipovo,148
 2013,Broj,M,85+,Šipovo,66
 2013,Broj,Ž,85+,Šipovo,82
-2013,Broj,Oba spola,85+,siroki_brijeg,422
-2013,Broj,M,85+,siroki_brijeg,89
-2013,Broj,Ž,85+,siroki_brijeg,333
+2013,Broj,Oba spola,85+,Široki Brijeg,422
+2013,Broj,M,85+,Široki Brijeg,89
+2013,Broj,Ž,85+,Široki Brijeg,333
 2013,Broj,Oba spola,85+,Teočak,45
 2013,Broj,M,85+,Teočak,19
 2013,Broj,Ž,85+,Teočak,26
