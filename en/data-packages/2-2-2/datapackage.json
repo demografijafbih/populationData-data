@@ -11,47 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "Religion",
+            "name": "AGRICULTURAL_ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Adventist",
-                "Agnostic",
-                "Atheist",
-                "Bosniak",
-                "Bosnian",
-                "Catholic",
-                "Christian",
-                "Croat",
-                "Greek Catholic",
-                "Islam",
-                "Muslim",
-                "Orthodox",
-                "Others",
-                "Protestant",
-                "Roman Catholic",
-                "Romani",
-                "Serbian",
-                "Undaclared",
-                "Unknown",
-                "Jehovah's Witnesses"
+                "Performing agricultural activity",
+                "Performing agricultural activity and selling agricultural products in the market"
               ]
             },
-            "title": "Religion"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
+            "title": "Agricultural activity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -60,7 +29,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -74,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-2",
-  "title": "Population by city/municipality, religion and sex"
+  "title": "Households by agricultural activity"
 }

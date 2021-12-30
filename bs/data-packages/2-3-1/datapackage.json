@@ -16,27 +16,34 @@
             "title": "Godina"
           },
           {
-            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "1 član",
-                "2 člana",
-                "3 člana",
-                "4 člana",
-                "5 članova",
-                "6 članova",
-                "7 članova",
-                "8+ članova",
+                "Ukupno",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Veličina domaćinstva"
+            "title": "Spol"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Literacy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Literate ",
+                "Nepismen",
+                ""
+              ]
+            },
+            "title": "Literacy"
           },
           {
             "name": "Value",
@@ -49,5 +56,5 @@
   ],
   "profile": "data-package",
   "name": "2-3-1",
-  "title": "Domaćinstva prema gradu/općini i broju članova"
+  "title": "Stanovništvo staro 10 i više godina prema pismenosti i spolu"
 }

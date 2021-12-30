@@ -11,45 +11,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Ethnicity_national_affiliation",
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Albanian",
-                "Bosniak",
-                "Bosnian",
-                "Bosnian and Herzegovinian",
-                "Croat ",
-                "Macedonian ",
-                "Montenegrin",
-                "Muslim",
-                "Orthodox",
-                "Others",
-                "Romani",
-                "Serb",
-                "Slovenian",
-                "Turk",
-                "Ukrainian",
-                "Undaclared",
-                "Unknown",
-                "Yugoslav"
+                "2 members",
+                "3 members",
+                "4 members",
+                "5 members",
+                "6 members",
+                "7 members",
+                "8+ members",
+                "1 member"
               ]
             },
-            "title": "Ethnicity/national affiliation"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
+            "title": "Household size"
           },
           {
             "name": "UNIT_MEASURE",
@@ -58,7 +35,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -72,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-1",
-  "title": "Population by city/municipality, ethnicity/nationality and sex"
+  "title": "Households by number of members"
 }

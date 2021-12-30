@@ -11,16 +11,34 @@
       "schema": {
         "fields": [
           {
-            "name": "AGRICULTURAL_ACTIVITY",
+            "name": "Highest_education_atainment",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Performing agricultural activity",
-                "Performing agricultural activity and selling agricultural products in the market"
+                "Advanced schools/faculty/academy/university",
+                "High school and first grade of faculty",
+                "Incomplete primary education",
+                "No education",
+                "Post-secondary school specialization",
+                "Primary school",
+                "Secondary school"
               ]
             },
-            "title": "Agricultural activity"
+            "title": "Highest education atainment"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -43,5 +61,5 @@
   ],
   "profile": "data-package",
   "name": "2-3-2",
-  "title": "Households by city/municipality and agricultural activity"
+  "title": "Population over 15 years of age by educational attainment and sex"
 }

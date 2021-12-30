@@ -11,16 +11,21 @@
       "schema": {
         "fields": [
           {
-            "name": "Literacy",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Illiterate",
-                "Literate "
+                "0-14",
+                "15-19",
+                "20-29",
+                "30-49",
+                "50-59",
+                "60-64",
+                "65+"
               ]
             },
-            "title": "Literacy"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -34,6 +39,23 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Type_of_disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Communication",
+                "Hearing",
+                "Seeing",
+                "Multiple disabilities",
+                "Remembering or concentration",
+                "Self-care",
+                "Walking or climbing up the stairs"
+              ]
+            },
+            "title": "Type of disability"
           },
           {
             "name": "UNIT_MEASURE",
@@ -56,5 +78,5 @@
   ],
   "profile": "data-package",
   "name": "2-4-1",
-  "title": "Population over 10 years of age by literacy and sex"
+  "title": "Population with disabilities by type of disability, age and sex"
 }

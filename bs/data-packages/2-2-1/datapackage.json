@@ -16,17 +16,22 @@
             "title": "Godina"
           },
           {
-            "name": "SEX",
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
-                "M",
-                "Ž",
+                "1 član",
+                "2 člana",
+                "3 člana",
+                "4 člana",
+                "5 članova",
+                "6 članova",
+                "7 članova",
+                "8+ članova",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Veličina domaćinstva"
           },
           {
             "name": "UNIT_MEASURE",
@@ -34,36 +39,8 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Ethnicity_national_affiliation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bošnjački",
-                "Serb",
-                "Croat ",
-                "Bosanski",
-                "Romski",
-                "Muslimanska",
-                "Bosansko-hercegovačka",
-                "Albanski",
-                "Yugoslav",
-                "Ukrainian",
-                "Montenegrin",
-                "Turk",
-                "Slovenian",
-                "Pravoslavna",
-                "Macedonian ",
-                "Drugo",
-                "Neopredijeljen",
-                "Unknown",
-                ""
-              ]
-            },
-            "title": "Etnička/nacionalna pripadnost"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -72,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-1",
-  "title": "Stanovništvo prema gradu/općini, etničkoj/nacionalnoj pripadnosti i spolu"
+  "title": "Domaćinstva prema broju članova"
 }

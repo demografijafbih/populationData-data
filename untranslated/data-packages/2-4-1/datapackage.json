@@ -15,6 +15,22 @@
             "type": "integer"
           },
           {
+            "name": "Type_of_disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Seeing",
+                "Hearing",
+                "walking_or_climbing_up_the_stairs",
+                "remembering_or_concentration",
+                "self_care",
+                "Communication",
+                "multiple_disabilities",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -27,19 +43,24 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Literacy",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Literate ",
-                "Illiterate",
+                "0-14",
+                "15-19",
+                "20-29",
+                "30-49",
+                "50-59",
+                "60-64",
+                "65+",
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

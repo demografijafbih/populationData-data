@@ -16,6 +16,23 @@
             "title": "Godina"
           },
           {
+            "name": "Type_of_disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Seeing",
+                "Hearing",
+                "walking_or_climbing_up_the_stairs",
+                "remembering_or_concentration",
+                "self_care",
+                "Communication",
+                "multiple_disabilities",
+                ""
+              ]
+            },
+            "title": "Vrsta invaliditeta"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -29,21 +46,26 @@
             "title": "Spol"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Literacy",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Literate ",
-                "Nepismen",
+                "0-14",
+                "15-19",
+                "20-29",
+                "30-49",
+                "50-59",
+                "60-64",
+                "65+",
                 ""
               ]
             },
-            "title": "Literacy"
+            "title": "Starosna dob"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -56,5 +78,5 @@
   ],
   "profile": "data-package",
   "name": "2-4-1",
-  "title": "Stanovništvo staro 10 i više godina prema pismenosti i spolu"
+  "title": "Stanovništvo sa poteškoćama prema vrsti poteškoće, dobnim skupinama i spolu"
 }

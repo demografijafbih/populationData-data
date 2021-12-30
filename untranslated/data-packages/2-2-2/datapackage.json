@@ -15,53 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "Religion",
+            "name": "AGRICULTURAL_ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "Islam",
-                "Orthodox",
-                "Catholic",
-                "Muslim",
-                "Roman_Catholic",
-                "Serbian",
-                "jehovah_s_witnesses",
-                "Greek_Catholic",
-                "Protestant",
-                "Romani",
-                "Christian",
-                "Bosniak",
-                "Croat",
-                "Adventist",
-                "Bosnian",
-                "Agnostic",
-                "Atheist",
-                "Others",
-                "Undeclared",
-                "Unknown",
+                "Performing_agricultural_activity",
+                "Performing_agricultural_activity_and_selling_agricultural_products_in_the_market",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

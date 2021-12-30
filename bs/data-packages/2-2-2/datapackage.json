@@ -16,56 +16,25 @@
             "title": "Godina"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupno",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Religion",
+            "name": "AGRICULTURAL_ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "Islam",
-                "Pravoslavna",
-                "Katolička",
-                "Muslimanska",
-                "Rimokatolička",
-                "Srpski",
-                "Jehovini svjedoci",
-                "Grkokatolička",
-                "Protestantska",
-                "Romski",
-                "Kršćanska",
-                "Bošnjački",
-                "Hrvat",
-                "Adventist",
-                "Bosanski",
-                "Agnostik",
-                "Ateist",
-                "Drugo",
-                "Neopredijeljen",
-                "Unknown",
+                "Obavljanje poljoprivredne djelatnosti",
+                "Obavljanje poljoprivredne djelatnosti i prodaja poljoprivrednih proizvoda na pijaci",
                 ""
               ]
             },
-            "title": "Religija"
+            "title": "Poljoprivredna aktivnost"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -74,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-2",
-  "title": "Stanovništvo prema gradu/općini, vjeroispovijesti i spolu"
+  "title": "Domaćinstva prema poljoprivrednoj aktivnosti"
 }

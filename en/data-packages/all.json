@@ -265,65 +265,6 @@
       "title": "Medical doctors employed in health care institutions"
     },
     {
-      "path": "2-4-2/data.csv",
-      "name": "2-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Highest_education_atainment",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Advanced schools/faculty/academy/university",
-                "High school and first grade of faculty",
-                "Incomplete primary education",
-                "No education",
-                "Post-secondary school specialization",
-                "Primary school",
-                "Secondary school"
-              ]
-            },
-            "title": "Highest education atainment"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population over 15 years of age by educational attainment and sex"
-    },
-    {
       "path": "1-4-5/data.csv",
       "name": "1-4-5",
       "profile": "tabular-data-resource",
@@ -492,16 +433,34 @@
       "schema": {
         "fields": [
           {
-            "name": "AGRICULTURAL_ACTIVITY",
+            "name": "Highest_education_atainment",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Performing agricultural activity",
-                "Performing agricultural activity and selling agricultural products in the market"
+                "Advanced schools/faculty/academy/university",
+                "High school and first grade of faculty",
+                "Incomplete primary education",
+                "No education",
+                "Post-secondary school specialization",
+                "Primary school",
+                "Secondary school"
               ]
             },
-            "title": "Agricultural activity"
+            "title": "Highest education atainment"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -520,7 +479,7 @@
           }
         ]
       },
-      "title": "Households by city/municipality and agricultural activity"
+      "title": "Population over 15 years of age by educational attainment and sex"
     },
     {
       "path": "5-6-4/data.csv",
@@ -1438,22 +1397,29 @@
       "schema": {
         "fields": [
           {
-            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "name": "Literacy",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "2 members",
-                "3 members",
-                "4 members",
-                "5 members",
-                "6 members",
-                "7 members",
-                "8+ members",
-                "1 member"
+                "Illiterate",
+                "Literate "
               ]
             },
-            "title": "Household size"
+            "title": "Literacy"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1472,7 +1438,7 @@
           }
         ]
       },
-      "title": "Households by city/municipality and number of members"
+      "title": "Population over 10 years of age by literacy and sex"
     },
     {
       "path": "3-2-3/data.csv",
@@ -2741,45 +2707,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Ethnicity_national_affiliation",
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Albanian",
-                "Bosniak",
-                "Bosnian",
-                "Bosnian and Herzegovinian",
-                "Croat ",
-                "Macedonian ",
-                "Montenegrin",
-                "Muslim",
-                "Orthodox",
-                "Others",
-                "Romani",
-                "Serb",
-                "Slovenian",
-                "Turk",
-                "Ukrainian",
-                "Undaclared",
-                "Unknown",
-                "Yugoslav"
+                "2 members",
+                "3 members",
+                "4 members",
+                "5 members",
+                "6 members",
+                "7 members",
+                "8+ members",
+                "1 member"
               ]
             },
-            "title": "Ethnicity/national affiliation"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
+            "title": "Household size"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2788,7 +2731,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -2798,7 +2741,7 @@
           }
         ]
       },
-      "title": "Population by city/municipality, ethnicity/nationality and sex"
+      "title": "Households by number of members"
     },
     {
       "path": "2-2-2/data.csv",
@@ -2811,47 +2754,16 @@
       "schema": {
         "fields": [
           {
-            "name": "Religion",
+            "name": "AGRICULTURAL_ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Adventist",
-                "Agnostic",
-                "Atheist",
-                "Bosniak",
-                "Bosnian",
-                "Catholic",
-                "Christian",
-                "Croat",
-                "Greek Catholic",
-                "Islam",
-                "Muslim",
-                "Orthodox",
-                "Others",
-                "Protestant",
-                "Roman Catholic",
-                "Romani",
-                "Serbian",
-                "Undaclared",
-                "Unknown",
-                "Jehovah's Witnesses"
+                "Performing agricultural activity",
+                "Performing agricultural activity and selling agricultural products in the market"
               ]
             },
-            "title": "Religion"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
+            "title": "Agricultural activity"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2860,7 +2772,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -2870,7 +2782,7 @@
           }
         ]
       },
-      "title": "Population by city/municipality, religion and sex"
+      "title": "Households by agricultural activity"
     },
     {
       "path": "7-1-1/data.csv",
@@ -5144,82 +5056,6 @@
       "title": "3-3-4"
     },
     {
-      "path": "2-5-1/data.csv",
-      "name": "2-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0-14",
-                "15-19",
-                "20-29",
-                "30-49",
-                "50-59",
-                "60-64",
-                "65+"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Type_of_disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Communication",
-                "Hearing",
-                "Seeing",
-                "Multiple disabilities",
-                "Remembering or concentration",
-                "Self-care",
-                "Walking or climbing up the stairs"
-              ]
-            },
-            "title": "Type of disability"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population with disabilities by type of disability, age and sex"
-    },
-    {
       "path": "1-3-3/data.csv",
       "name": "1-3-3",
       "profile": "tabular-data-resource",
@@ -5260,76 +5096,6 @@
         ]
       },
       "title": "Infant (up to 12 months of age) mortality rate"
-    },
-    {
-      "path": "2-2-3/data.csv",
-      "name": "2-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Mother_tongue",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Albanian",
-                "Bosniak",
-                "Bosnian ",
-                "Bosnian_Croatian",
-                "Bosnian_Croatian_Serbian",
-                "Bosnian_Herzegovinian",
-                "Bosnian_Serbian_Croatian",
-                "Croatian",
-                "Croato_Serbian",
-                "German",
-                "Other",
-                "Romani",
-                "Serbian",
-                "Serbo_Croatian",
-                "Serbo_Croatian ",
-                "Turkish",
-                "Ukranian",
-                "Unknown"
-              ]
-            },
-            "title": "Mother tongue"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population by city/municipality, mother tongue and sex"
     },
     {
       "path": "5-5-3/data.csv",
@@ -5825,16 +5591,21 @@
       "schema": {
         "fields": [
           {
-            "name": "Literacy",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Illiterate",
-                "Literate "
+                "0-14",
+                "15-19",
+                "20-29",
+                "30-49",
+                "50-59",
+                "60-64",
+                "65+"
               ]
             },
-            "title": "Literacy"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -5848,6 +5619,23 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Type_of_disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Communication",
+                "Hearing",
+                "Seeing",
+                "Multiple disabilities",
+                "Remembering or concentration",
+                "Self-care",
+                "Walking or climbing up the stairs"
+              ]
+            },
+            "title": "Type of disability"
           },
           {
             "name": "UNIT_MEASURE",
@@ -5866,7 +5654,7 @@
           }
         ]
       },
-      "title": "Population over 10 years of age by literacy and sex"
+      "title": "Population with disabilities by type of disability, age and sex"
     },
     {
       "path": "5-2-3/data.csv",

@@ -1,55 +1,33 @@
-Year,Spol,UNIT_MEASURE,Etnička/nacionalna pripadnost,Value
-2013,Oba spola,Broj,Bošnjački,
-2013,Oba spola,Broj,Serb,
-2013,Oba spola,Broj,Croat ,
-2013,Oba spola,Broj,Bosanski,
-2013,Oba spola,Broj,Romski,
-2013,Oba spola,Broj,Muslimanska,
-2013,Oba spola,Broj,Bosansko-hercegovačka,
-2013,Oba spola,Broj,Albanski,
-2013,Oba spola,Broj,Yugoslav,
-2013,Oba spola,Broj,Ukrainian,
-2013,Oba spola,Broj,Montenegrin,
-2013,Oba spola,Broj,Turk,
-2013,Oba spola,Broj,Slovenian,
-2013,Oba spola,Broj,Pravoslavna,
-2013,Oba spola,Broj,Macedonian ,
-2013,Oba spola,Broj,Drugo,
-2013,Oba spola,Broj,Neopredijeljen,
-2013,Oba spola,Broj,Unknown,
-2013,M,Broj,Bošnjački,
-2013,M,Broj,Serb,
-2013,M,Broj,Croat ,
-2013,M,Broj,Bosanski,
-2013,M,Broj,Romski,
-2013,M,Broj,Muslimanska,
-2013,M,Broj,Bosansko-hercegovačka,
-2013,M,Broj,Albanski,
-2013,M,Broj,Yugoslav,
-2013,M,Broj,Ukrainian,
-2013,M,Broj,Montenegrin,
-2013,M,Broj,Turk,
-2013,M,Broj,Slovenian,
-2013,M,Broj,Pravoslavna,
-2013,M,Broj,Macedonian ,
-2013,M,Broj,Drugo,
-2013,M,Broj,Neopredijeljen,
-2013,M,Broj,Unknown,
-2013,Ž,Broj,Bošnjački,
-2013,Ž,Broj,Serb,
-2013,Ž,Broj,Croat ,
-2013,Ž,Broj,Bosanski,
-2013,Ž,Broj,Romski,
-2013,Ž,Broj,Muslimanska,
-2013,Ž,Broj,Bosansko-hercegovačka,
-2013,Ž,Broj,Albanski,
-2013,Ž,Broj,Yugoslav,
-2013,Ž,Broj,Ukrainian,
-2013,Ž,Broj,Montenegrin,
-2013,Ž,Broj,Turk,
-2013,Ž,Broj,Slovenian,
-2013,Ž,Broj,Pravoslavna,
-2013,Ž,Broj,Macedonian ,
-2013,Ž,Broj,Drugo,
-2013,Ž,Broj,Neopredijeljen,
-2013,Ž,Broj,Unknown,
+Year,Veličina domaćinstva,UNIT_MEASURE,Value
+1971,1 član,Broj,82305
+1971,2 člana,Broj,97312
+1971,3 člana,Broj,125680
+1971,4 člana,Broj,174650
+1971,5 članova,Broj,134703
+1971,6 članova,Broj,94479
+1971,7 članova,Broj,60558
+1971,8+ članova,Broj,78858
+1981,1 član,Broj,97423
+1981,2 člana,Broj,143225
+1981,3 člana,Broj,181500
+1981,4 člana,Broj,264179
+1981,5 članova,Broj,151073
+1981,6 članova,Broj,90453
+1981,7 članova,Broj,48831
+1981,8+ članova,Broj,54005
+1991,1 član,Broj,130222
+1991,2 člana,Broj,201096
+1991,3 člana,Broj,229788
+1991,4 člana,Broj,347705
+1991,5 članova,Broj,156474
+1991,6 članova,Broj,78561
+1991,7 članova,Broj,33655
+1991,8+ članova,Broj,29597
+2013,1 član,Broj,217477
+2013,2 člana,Broj,277173
+2013,3 člana,Broj,232161
+2013,4 člana,Broj,238614
+2013,5 članova,Broj,107223
+2013,6 članova,Broj,49856
+2013,7 članova,Broj,18818
+2013,8+ članova,Broj,14230

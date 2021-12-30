@@ -16,21 +16,39 @@
             "title": "Godina"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupno",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGRICULTURAL_ACTIVITY",
+            "name": "Highest_education_atainment",
             "type": "string",
             "constraints": {
               "enum": [
-                "Obavljanje poljoprivredne djelatnosti",
-                "Obavljanje poljoprivredne djelatnosti i prodaja poljoprivrednih proizvoda na pijaci",
+                "Neobrazovan",
+                "Nezavršeno osnovno obrazovanje",
+                "Osnovna škola",
+                "Secondary_school",
+                "Specijalizacija nakon završene srednje škole",
+                "Srednja škola i prva godina fakulteta",
+                "Napredne škole /fakultet/akademija/univerzitet",
                 ""
               ]
             },
-            "title": "Poljoprivredna aktivnost"
+            "title": "Najviši dostignuti stepen obrazovanja"
           },
           {
             "name": "Value",
@@ -43,5 +61,5 @@
   ],
   "profile": "data-package",
   "name": "2-3-2",
-  "title": "Domaćinstva prema gradu/općini i poljoprivrednoj aktivnosti"
+  "title": "Stanovništvo staro 15 i više godina prema najvišoj završenoj školi i spolu"
 }
