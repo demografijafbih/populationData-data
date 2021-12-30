@@ -34,8 +34,8 @@
             "constraints": {
               "enum": [
                 "Živorođeni",
-                "Smrtni slučajevi",
-                "Prirodno kretanje",
+                "Umrli",
+                "Prirodni priraštaj",
                 ""
               ]
             },
