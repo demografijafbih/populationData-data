@@ -18,7 +18,7 @@
                 "",
                 "F",
                 "M",
-                "Total"
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -29,7 +29,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Total",
+                "Both sexes",
                 "Art schools",
                 "Gymnasium",
                 "High schools for children with special needs",

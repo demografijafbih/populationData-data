@@ -1,14 +1,14 @@
 Year,UNIT_MEASURE,Type of school,Sex,Value
-2011,Number,Total,Both sexes,163284
-2012,Number,Total,Both sexes,166662
-2013,Number,Total,Both sexes,156350
-2014,Number,Total,Both sexes,143881
-2015,Number,Total,Both sexes,133228
-2016,Number,Total,Both sexes,126824
-2017,Number,Total,Both sexes,124148
-2018,Number,Total,Both sexes,117475
-2019,Number,Total,Both sexes,112796
-2020,Number,Total,Both sexes,110404
+2011,Number,Both sexes,Both sexes,163284
+2012,Number,Both sexes,Both sexes,166662
+2013,Number,Both sexes,Both sexes,156350
+2014,Number,Both sexes,Both sexes,143881
+2015,Number,Both sexes,Both sexes,133228
+2016,Number,Both sexes,Both sexes,126824
+2017,Number,Both sexes,Both sexes,124148
+2018,Number,Both sexes,Both sexes,117475
+2019,Number,Both sexes,Both sexes,112796
+2020,Number,Both sexes,Both sexes,110404
 2011,Number,Gymnasium,Both sexes,41081
 2012,Number,Gymnasium,Both sexes,42225
 2013,Number,Gymnasium,Both sexes,40065
@@ -69,16 +69,16 @@ Year,UNIT_MEASURE,Type of school,Sex,Value
 2018,Number,High schools for children with special needs,Both sexes,347
 2019,Number,High schools for children with special needs,Both sexes,316
 2020,Number,High schools for children with special needs,Both sexes,325
-2011,Number,Total,M,82745
-2012,Number,Total,M,84420
-2013,Number,Total,M,78882
-2014,Number,Total,M,72095
-2015,Number,Total,M,66708
-2016,Number,Total,M,63232
-2017,Number,Total,M,61934
-2018,Number,Total,M,58821
-2019,Number,Total,M,56328
-2020,Number,Total,M,55068
+2011,Number,Both sexes,M,82745
+2012,Number,Both sexes,M,84420
+2013,Number,Both sexes,M,78882
+2014,Number,Both sexes,M,72095
+2015,Number,Both sexes,M,66708
+2016,Number,Both sexes,M,63232
+2017,Number,Both sexes,M,61934
+2018,Number,Both sexes,M,58821
+2019,Number,Both sexes,M,56328
+2020,Number,Both sexes,M,55068
 2011,Number,Gymnasium,M,15329
 2012,Number,Gymnasium,M,15779
 2013,Number,Gymnasium,M,14829
@@ -139,16 +139,16 @@ Year,UNIT_MEASURE,Type of school,Sex,Value
 2018,Number,High schools for children with special needs,M,220
 2019,Number,High schools for children with special needs,M,204
 2020,Number,High schools for children with special needs,M,209
-2011,Number,Total,F,80539
-2012,Number,Total,F,82242
-2013,Number,Total,F,77468
-2014,Number,Total,F,71786
-2015,Number,Total,F,66520
-2016,Number,Total,F,63592
-2017,Number,Total,F,62214
-2018,Number,Total,F,58654
-2019,Number,Total,F,56468
-2020,Number,Total,F,55336
+2011,Number,Both sexes,F,80539
+2012,Number,Both sexes,F,82242
+2013,Number,Both sexes,F,77468
+2014,Number,Both sexes,F,71786
+2015,Number,Both sexes,F,66520
+2016,Number,Both sexes,F,63592
+2017,Number,Both sexes,F,62214
+2018,Number,Both sexes,F,58654
+2019,Number,Both sexes,F,56468
+2020,Number,Both sexes,F,55336
 2011,Number,Gymnasium,F,25752
 2012,Number,Gymnasium,F,26446
 2013,Number,Gymnasium,F,25236

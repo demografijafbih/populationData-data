@@ -12,7 +12,7 @@ NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,В�
 PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,35
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
 SEX,Sex,Spol,Пол,Spol,61,3
-statistics_sex,statistics_sex,statistics_sex,statistics_sex,statistics_sex,1,3
+statistics_sex,Spol,Spol,Пол,Spol,1,3
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
 Type_of_disability,Type of disability,Vrsta invaliditeta,Врста инвалидитета,Vrsta invaliditeta,1,7
 type_of_education,Type of education,Vrsta obrazovanja,Врста образовања,Vrsta obrazovanja,6,12

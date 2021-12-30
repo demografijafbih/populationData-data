@@ -38,7 +38,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
                 "Ж",
                 ""

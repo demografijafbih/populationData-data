@@ -1,28 +1,28 @@
-Year,UNIT_MEASURE,statistics_sex,Vitalna statistika,Value
-1996,Broj,Ukupno,Živorođeni,46594
-1997,Broj,Ukupno,Živorođeni,48397
-1998,Broj,Ukupno,Živorođeni,45007
-1999,Broj,Ukupno,Živorođeni,42464
-2000,Broj,Ukupno,Živorođeni,39563
-2001,Broj,Ukupno,Živorođeni,37717
-2002,Broj,Ukupno,Živorođeni,35587
-2003,Broj,Ukupno,Živorođeni,35234
-2004,Broj,Ukupno,Živorođeni,35151
-2005,Broj,Ukupno,Živorođeni,34627
-2006,Broj,Ukupno,Živorođeni,34033
-2007,Broj,Ukupno,Živorođeni,33835
-2008,Broj,Ukupno,Živorođeni,34176
-2009,Broj,Ukupno,Živorođeni,34550
-2010,Broj,Ukupno,Živorođeni,33528
-2011,Broj,Ukupno,Živorođeni,31811
-2012,Broj,Ukupno,Živorođeni,32547
-2013,Broj,Ukupno,Živorođeni,30684
-2014,Broj,Ukupno,Živorođeni,30268
-2015,Broj,Ukupno,Živorođeni,29770
-2016,Broj,Ukupno,Živorođeni,30183
-2017,Broj,Ukupno,Živorođeni,30200
-2018,Broj,Ukupno,Živorođeni,29467
-2019,Broj,Ukupno,Živorođeni,28360
+Year,UNIT_MEASURE,Spol,Vitalna statistika,Value
+1996,Broj,Oba spola,Živorođeni,46594
+1997,Broj,Oba spola,Živorođeni,48397
+1998,Broj,Oba spola,Živorođeni,45007
+1999,Broj,Oba spola,Živorođeni,42464
+2000,Broj,Oba spola,Živorođeni,39563
+2001,Broj,Oba spola,Živorođeni,37717
+2002,Broj,Oba spola,Živorođeni,35587
+2003,Broj,Oba spola,Živorođeni,35234
+2004,Broj,Oba spola,Živorođeni,35151
+2005,Broj,Oba spola,Živorođeni,34627
+2006,Broj,Oba spola,Živorođeni,34033
+2007,Broj,Oba spola,Živorođeni,33835
+2008,Broj,Oba spola,Živorođeni,34176
+2009,Broj,Oba spola,Živorođeni,34550
+2010,Broj,Oba spola,Živorođeni,33528
+2011,Broj,Oba spola,Živorođeni,31811
+2012,Broj,Oba spola,Živorođeni,32547
+2013,Broj,Oba spola,Živorođeni,30684
+2014,Broj,Oba spola,Živorođeni,30268
+2015,Broj,Oba spola,Živorođeni,29770
+2016,Broj,Oba spola,Živorođeni,30183
+2017,Broj,Oba spola,Živorođeni,30200
+2018,Broj,Oba spola,Živorođeni,29467
+2019,Broj,Oba spola,Živorođeni,28360
 1996,Broj,M,Živorođeni,24398
 1997,Broj,M,Živorođeni,25297
 1998,Broj,M,Živorođeni,23425
@@ -47,54 +47,54 @@ Year,UNIT_MEASURE,statistics_sex,Vitalna statistika,Value
 2017,Broj,M,Živorođeni,15674
 2018,Broj,M,Živorođeni,15268
 2019,Broj,M,Živorođeni,14806
-1996,Broj,F,Živorođeni,22196
-1997,Broj,F,Živorođeni,23100
-1998,Broj,F,Živorođeni,21582
-1999,Broj,F,Živorođeni,20828
-2000,Broj,F,Živorođeni,19156
-2001,Broj,F,Živorođeni,18317
-2002,Broj,F,Živorođeni,17290
-2003,Broj,F,Živorođeni,16904
-2004,Broj,F,Živorođeni,17018
-2005,Broj,F,Živorođeni,16830
-2006,Broj,F,Živorođeni,16486
-2007,Broj,F,Živorođeni,16301
-2008,Broj,F,Živorođeni,16591
-2009,Broj,F,Živorođeni,16549
-2010,Broj,F,Živorođeni,16251
-2011,Broj,F,Živorođeni,15280
-2012,Broj,F,Živorođeni,15757
-2013,Broj,F,Živorođeni,14849
-2014,Broj,F,Živorođeni,14671
-2015,Broj,F,Živorođeni,14462
-2016,Broj,F,Živorođeni,14467
-2017,Broj,F,Živorođeni,14526
-2018,Broj,F,Živorođeni,14199
-2019,Broj,F,Živorođeni,13554
-1996,Broj,Ukupno,Umrli,25152
-1997,Broj,Ukupno,Umrli,27875
-1998,Broj,Ukupno,Umrli,28679
-1999,Broj,Ukupno,Umrli,28637
-2000,Broj,Ukupno,Umrli,30482
-2001,Broj,Ukupno,Umrli,30325
-2002,Broj,Ukupno,Umrli,30155
-2003,Broj,Ukupno,Umrli,31757
-2004,Broj,Ukupno,Umrli,32616
-2005,Broj,Ukupno,Umrli,34402
-2006,Broj,Ukupno,Umrli,33221
-2007,Broj,Ukupno,Umrli,35044
-2008,Broj,Ukupno,Umrli,34026
-2009,Broj,Ukupno,Umrli,34904
-2010,Broj,Ukupno,Umrli,35118
-2011,Broj,Ukupno,Umrli,35028
-2012,Broj,Ukupno,Umrli,35817
-2013,Broj,Ukupno,Umrli,35662
-2014,Broj,Ukupno,Umrli,35980
-2015,Broj,Ukupno,Umrli,38150
-2016,Broj,Ukupno,Umrli,36571
-2017,Broj,Ukupno,Umrli,37979
-2018,Broj,Ukupno,Umrli,37744
-2019,Broj,Ukupno,Umrli,38829
+1996,Broj,Ž,Živorođeni,22196
+1997,Broj,Ž,Živorođeni,23100
+1998,Broj,Ž,Živorođeni,21582
+1999,Broj,Ž,Živorođeni,20828
+2000,Broj,Ž,Živorođeni,19156
+2001,Broj,Ž,Živorođeni,18317
+2002,Broj,Ž,Živorođeni,17290
+2003,Broj,Ž,Živorođeni,16904
+2004,Broj,Ž,Živorođeni,17018
+2005,Broj,Ž,Živorođeni,16830
+2006,Broj,Ž,Živorođeni,16486
+2007,Broj,Ž,Živorođeni,16301
+2008,Broj,Ž,Živorođeni,16591
+2009,Broj,Ž,Živorođeni,16549
+2010,Broj,Ž,Živorođeni,16251
+2011,Broj,Ž,Živorođeni,15280
+2012,Broj,Ž,Živorođeni,15757
+2013,Broj,Ž,Živorođeni,14849
+2014,Broj,Ž,Živorođeni,14671
+2015,Broj,Ž,Živorođeni,14462
+2016,Broj,Ž,Živorođeni,14467
+2017,Broj,Ž,Živorođeni,14526
+2018,Broj,Ž,Živorođeni,14199
+2019,Broj,Ž,Živorođeni,13554
+1996,Broj,Oba spola,Umrli,25152
+1997,Broj,Oba spola,Umrli,27875
+1998,Broj,Oba spola,Umrli,28679
+1999,Broj,Oba spola,Umrli,28637
+2000,Broj,Oba spola,Umrli,30482
+2001,Broj,Oba spola,Umrli,30325
+2002,Broj,Oba spola,Umrli,30155
+2003,Broj,Oba spola,Umrli,31757
+2004,Broj,Oba spola,Umrli,32616
+2005,Broj,Oba spola,Umrli,34402
+2006,Broj,Oba spola,Umrli,33221
+2007,Broj,Oba spola,Umrli,35044
+2008,Broj,Oba spola,Umrli,34026
+2009,Broj,Oba spola,Umrli,34904
+2010,Broj,Oba spola,Umrli,35118
+2011,Broj,Oba spola,Umrli,35028
+2012,Broj,Oba spola,Umrli,35817
+2013,Broj,Oba spola,Umrli,35662
+2014,Broj,Oba spola,Umrli,35980
+2015,Broj,Oba spola,Umrli,38150
+2016,Broj,Oba spola,Umrli,36571
+2017,Broj,Oba spola,Umrli,37979
+2018,Broj,Oba spola,Umrli,37744
+2019,Broj,Oba spola,Umrli,38829
 1996,Broj,M,Umrli,13952
 1997,Broj,M,Umrli,15184
 1998,Broj,M,Umrli,15303
@@ -119,51 +119,51 @@ Year,UNIT_MEASURE,statistics_sex,Vitalna statistika,Value
 2017,Broj,M,Umrli,19186
 2018,Broj,M,Umrli,19007
 2019,Broj,M,Umrli,19787
-1996,Broj,F,Umrli,11200
-1997,Broj,F,Umrli,12691
-1998,Broj,F,Umrli,13376
-1999,Broj,F,Umrli,13476
-2000,Broj,F,Umrli,14424
-2001,Broj,F,Umrli,14123
-2002,Broj,F,Umrli,14508
-2003,Broj,F,Umrli,15167
-2004,Broj,F,Umrli,15836
-2005,Broj,F,Umrli,16384
-2006,Broj,F,Umrli,15913
-2007,Broj,F,Umrli,16890
-2008,Broj,F,Umrli,16339
-2009,Broj,F,Umrli,17020
-2010,Broj,F,Umrli,17218
-2011,Broj,F,Umrli,17063
-2012,Broj,F,Umrli,17381
-2013,Broj,F,Umrli,17445
-2014,Broj,F,Umrli,17620
-2015,Broj,F,Umrli,18931
-2016,Broj,F,Umrli,18029
-2017,Broj,F,Umrli,18793
-2018,Broj,F,Umrli,18737
-2019,Broj,F,Umrli,19042
-1996,Broj,Ukupno,Prirodni priraštaj,21442
-1997,Broj,Ukupno,Prirodni priraštaj,20522
-1998,Broj,Ukupno,Prirodni priraštaj,16328
-1999,Broj,Ukupno,Prirodni priraštaj,13827
-2000,Broj,Ukupno,Prirodni priraštaj,9081
-2001,Broj,Ukupno,Prirodni priraštaj,7392
-2002,Broj,Ukupno,Prirodni priraštaj,5432
-2003,Broj,Ukupno,Prirodni priraštaj,3477
-2004,Broj,Ukupno,Prirodni priraštaj,2535
-2005,Broj,Ukupno,Prirodni priraštaj,225
-2006,Broj,Ukupno,Prirodni priraštaj,812
-2007,Broj,Ukupno,Prirodni priraštaj,-1209
-2008,Broj,Ukupno,Prirodni priraštaj,150
-2009,Broj,Ukupno,Prirodni priraštaj,-354
-2010,Broj,Ukupno,Prirodni priraštaj,-1590
-2011,Broj,Ukupno,Prirodni priraštaj,-3217
-2012,Broj,Ukupno,Prirodni priraštaj,-3270
-2013,Broj,Ukupno,Prirodni priraštaj,-4978
-2014,Broj,Ukupno,Prirodni priraštaj,-5712
-2015,Broj,Ukupno,Prirodni priraštaj,-8380
-2016,Broj,Ukupno,Prirodni priraštaj,-6388
-2017,Broj,Ukupno,Prirodni priraštaj,-7779
-2018,Broj,Ukupno,Prirodni priraštaj,-8277
-2019,Broj,Ukupno,Prirodni priraštaj,-10469
+1996,Broj,Ž,Umrli,11200
+1997,Broj,Ž,Umrli,12691
+1998,Broj,Ž,Umrli,13376
+1999,Broj,Ž,Umrli,13476
+2000,Broj,Ž,Umrli,14424
+2001,Broj,Ž,Umrli,14123
+2002,Broj,Ž,Umrli,14508
+2003,Broj,Ž,Umrli,15167
+2004,Broj,Ž,Umrli,15836
+2005,Broj,Ž,Umrli,16384
+2006,Broj,Ž,Umrli,15913
+2007,Broj,Ž,Umrli,16890
+2008,Broj,Ž,Umrli,16339
+2009,Broj,Ž,Umrli,17020
+2010,Broj,Ž,Umrli,17218
+2011,Broj,Ž,Umrli,17063
+2012,Broj,Ž,Umrli,17381
+2013,Broj,Ž,Umrli,17445
+2014,Broj,Ž,Umrli,17620
+2015,Broj,Ž,Umrli,18931
+2016,Broj,Ž,Umrli,18029
+2017,Broj,Ž,Umrli,18793
+2018,Broj,Ž,Umrli,18737
+2019,Broj,Ž,Umrli,19042
+1996,Broj,Oba spola,Prirodni priraštaj,21442
+1997,Broj,Oba spola,Prirodni priraštaj,20522
+1998,Broj,Oba spola,Prirodni priraštaj,16328
+1999,Broj,Oba spola,Prirodni priraštaj,13827
+2000,Broj,Oba spola,Prirodni priraštaj,9081
+2001,Broj,Oba spola,Prirodni priraštaj,7392
+2002,Broj,Oba spola,Prirodni priraštaj,5432
+2003,Broj,Oba spola,Prirodni priraštaj,3477
+2004,Broj,Oba spola,Prirodni priraštaj,2535
+2005,Broj,Oba spola,Prirodni priraštaj,225
+2006,Broj,Oba spola,Prirodni priraštaj,812
+2007,Broj,Oba spola,Prirodni priraštaj,-1209
+2008,Broj,Oba spola,Prirodni priraštaj,150
+2009,Broj,Oba spola,Prirodni priraštaj,-354
+2010,Broj,Oba spola,Prirodni priraštaj,-1590
+2011,Broj,Oba spola,Prirodni priraštaj,-3217
+2012,Broj,Oba spola,Prirodni priraštaj,-3270
+2013,Broj,Oba spola,Prirodni priraštaj,-4978
+2014,Broj,Oba spola,Prirodni priraštaj,-5712
+2015,Broj,Oba spola,Prirodni priraštaj,-8380
+2016,Broj,Oba spola,Prirodni priraštaj,-6388
+2017,Broj,Oba spola,Prirodni priraštaj,-7779
+2018,Broj,Oba spola,Prirodni priraštaj,-8277
+2019,Broj,Oba spola,Prirodni priraštaj,-10469

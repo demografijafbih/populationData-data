@@ -38,7 +38,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""

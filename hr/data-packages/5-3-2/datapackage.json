@@ -25,7 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "Gimnazija",
                 "Tehničke škole",
                 "Umjetničke škole",
@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""

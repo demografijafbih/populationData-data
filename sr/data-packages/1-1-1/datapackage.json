@@ -25,13 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
-            "title": "statistics_sex"
+            "title": "Пол"
           },
           {
             "name": "BIRTHS",

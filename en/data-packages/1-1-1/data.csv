@@ -1,28 +1,28 @@
-Year,UNIT_MEASURE,statistics_sex,Vital statistics,Value
-1996,Number,Total,Live births,46594
-1997,Number,Total,Live births,48397
-1998,Number,Total,Live births,45007
-1999,Number,Total,Live births,42464
-2000,Number,Total,Live births,39563
-2001,Number,Total,Live births,37717
-2002,Number,Total,Live births,35587
-2003,Number,Total,Live births,35234
-2004,Number,Total,Live births,35151
-2005,Number,Total,Live births,34627
-2006,Number,Total,Live births,34033
-2007,Number,Total,Live births,33835
-2008,Number,Total,Live births,34176
-2009,Number,Total,Live births,34550
-2010,Number,Total,Live births,33528
-2011,Number,Total,Live births,31811
-2012,Number,Total,Live births,32547
-2013,Number,Total,Live births,30684
-2014,Number,Total,Live births,30268
-2015,Number,Total,Live births,29770
-2016,Number,Total,Live births,30183
-2017,Number,Total,Live births,30200
-2018,Number,Total,Live births,29467
-2019,Number,Total,Live births,28360
+Year,UNIT_MEASURE,Spol,Vital statistics,Value
+1996,Number,Both sexes,Live births,46594
+1997,Number,Both sexes,Live births,48397
+1998,Number,Both sexes,Live births,45007
+1999,Number,Both sexes,Live births,42464
+2000,Number,Both sexes,Live births,39563
+2001,Number,Both sexes,Live births,37717
+2002,Number,Both sexes,Live births,35587
+2003,Number,Both sexes,Live births,35234
+2004,Number,Both sexes,Live births,35151
+2005,Number,Both sexes,Live births,34627
+2006,Number,Both sexes,Live births,34033
+2007,Number,Both sexes,Live births,33835
+2008,Number,Both sexes,Live births,34176
+2009,Number,Both sexes,Live births,34550
+2010,Number,Both sexes,Live births,33528
+2011,Number,Both sexes,Live births,31811
+2012,Number,Both sexes,Live births,32547
+2013,Number,Both sexes,Live births,30684
+2014,Number,Both sexes,Live births,30268
+2015,Number,Both sexes,Live births,29770
+2016,Number,Both sexes,Live births,30183
+2017,Number,Both sexes,Live births,30200
+2018,Number,Both sexes,Live births,29467
+2019,Number,Both sexes,Live births,28360
 1996,Number,M,Live births,24398
 1997,Number,M,Live births,25297
 1998,Number,M,Live births,23425
@@ -71,30 +71,30 @@ Year,UNIT_MEASURE,statistics_sex,Vital statistics,Value
 2017,Number,F,Live births,14526
 2018,Number,F,Live births,14199
 2019,Number,F,Live births,13554
-1996,Number,Total,Deaths,25152
-1997,Number,Total,Deaths,27875
-1998,Number,Total,Deaths,28679
-1999,Number,Total,Deaths,28637
-2000,Number,Total,Deaths,30482
-2001,Number,Total,Deaths,30325
-2002,Number,Total,Deaths,30155
-2003,Number,Total,Deaths,31757
-2004,Number,Total,Deaths,32616
-2005,Number,Total,Deaths,34402
-2006,Number,Total,Deaths,33221
-2007,Number,Total,Deaths,35044
-2008,Number,Total,Deaths,34026
-2009,Number,Total,Deaths,34904
-2010,Number,Total,Deaths,35118
-2011,Number,Total,Deaths,35028
-2012,Number,Total,Deaths,35817
-2013,Number,Total,Deaths,35662
-2014,Number,Total,Deaths,35980
-2015,Number,Total,Deaths,38150
-2016,Number,Total,Deaths,36571
-2017,Number,Total,Deaths,37979
-2018,Number,Total,Deaths,37744
-2019,Number,Total,Deaths,38829
+1996,Number,Both sexes,Deaths,25152
+1997,Number,Both sexes,Deaths,27875
+1998,Number,Both sexes,Deaths,28679
+1999,Number,Both sexes,Deaths,28637
+2000,Number,Both sexes,Deaths,30482
+2001,Number,Both sexes,Deaths,30325
+2002,Number,Both sexes,Deaths,30155
+2003,Number,Both sexes,Deaths,31757
+2004,Number,Both sexes,Deaths,32616
+2005,Number,Both sexes,Deaths,34402
+2006,Number,Both sexes,Deaths,33221
+2007,Number,Both sexes,Deaths,35044
+2008,Number,Both sexes,Deaths,34026
+2009,Number,Both sexes,Deaths,34904
+2010,Number,Both sexes,Deaths,35118
+2011,Number,Both sexes,Deaths,35028
+2012,Number,Both sexes,Deaths,35817
+2013,Number,Both sexes,Deaths,35662
+2014,Number,Both sexes,Deaths,35980
+2015,Number,Both sexes,Deaths,38150
+2016,Number,Both sexes,Deaths,36571
+2017,Number,Both sexes,Deaths,37979
+2018,Number,Both sexes,Deaths,37744
+2019,Number,Both sexes,Deaths,38829
 1996,Number,M,Deaths,13952
 1997,Number,M,Deaths,15184
 1998,Number,M,Deaths,15303
@@ -143,27 +143,27 @@ Year,UNIT_MEASURE,statistics_sex,Vital statistics,Value
 2017,Number,F,Deaths,18793
 2018,Number,F,Deaths,18737
 2019,Number,F,Deaths,19042
-1996,Number,Total,Natural change,21442
-1997,Number,Total,Natural change,20522
-1998,Number,Total,Natural change,16328
-1999,Number,Total,Natural change,13827
-2000,Number,Total,Natural change,9081
-2001,Number,Total,Natural change,7392
-2002,Number,Total,Natural change,5432
-2003,Number,Total,Natural change,3477
-2004,Number,Total,Natural change,2535
-2005,Number,Total,Natural change,225
-2006,Number,Total,Natural change,812
-2007,Number,Total,Natural change,-1209
-2008,Number,Total,Natural change,150
-2009,Number,Total,Natural change,-354
-2010,Number,Total,Natural change,-1590
-2011,Number,Total,Natural change,-3217
-2012,Number,Total,Natural change,-3270
-2013,Number,Total,Natural change,-4978
-2014,Number,Total,Natural change,-5712
-2015,Number,Total,Natural change,-8380
-2016,Number,Total,Natural change,-6388
-2017,Number,Total,Natural change,-7779
-2018,Number,Total,Natural change,-8277
-2019,Number,Total,Natural change,-10469
+1996,Number,Both sexes,Natural change,21442
+1997,Number,Both sexes,Natural change,20522
+1998,Number,Both sexes,Natural change,16328
+1999,Number,Both sexes,Natural change,13827
+2000,Number,Both sexes,Natural change,9081
+2001,Number,Both sexes,Natural change,7392
+2002,Number,Both sexes,Natural change,5432
+2003,Number,Both sexes,Natural change,3477
+2004,Number,Both sexes,Natural change,2535
+2005,Number,Both sexes,Natural change,225
+2006,Number,Both sexes,Natural change,812
+2007,Number,Both sexes,Natural change,-1209
+2008,Number,Both sexes,Natural change,150
+2009,Number,Both sexes,Natural change,-354
+2010,Number,Both sexes,Natural change,-1590
+2011,Number,Both sexes,Natural change,-3217
+2012,Number,Both sexes,Natural change,-3270
+2013,Number,Both sexes,Natural change,-4978
+2014,Number,Both sexes,Natural change,-5712
+2015,Number,Both sexes,Natural change,-8380
+2016,Number,Both sexes,Natural change,-6388
+2017,Number,Both sexes,Natural change,-7779
+2018,Number,Both sexes,Natural change,-8277
+2019,Number,Both sexes,Natural change,-10469

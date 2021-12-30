@@ -18,7 +18,7 @@
                 "",
                 "F",
                 "M",
-                "Total"
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -44,7 +44,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Total",
+                "Both sexes",
                 "Social protection institutions for children, youth and adults with mental and physical disabilities",
                 "Homes for children and youth without parental care",
                 "Social welfare institutions for adults",

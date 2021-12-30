@@ -16,7 +16,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Total"
+                "Both sexes"
               ]
             },
             "title": "Sex"

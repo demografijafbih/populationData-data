@@ -27,13 +27,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
-                "F",
+                "Ž",
                 ""
               ]
             },
-            "title": "statistics_sex"
+            "title": "Spol"
           },
           {
             "name": "BIRTHS",
@@ -77,7 +77,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -169,7 +169,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -284,7 +284,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -413,7 +413,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -499,7 +499,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -541,7 +541,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -716,7 +716,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -978,7 +978,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -1042,7 +1042,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -1161,7 +1161,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 ""
               ]
             },
@@ -1227,7 +1227,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -1271,7 +1271,7 @@
               "enum": [
                 "M",
                 "Ž",
-                "Ukupno",
+                "Oba spola",
                 ""
               ]
             },
@@ -1340,7 +1340,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -1377,7 +1377,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -1494,7 +1494,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -1574,7 +1574,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -1703,7 +1703,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -1955,7 +1955,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "Gimnazija",
                 "Tehničke škole",
                 "Umjetničke škole",
@@ -1972,7 +1972,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -2149,7 +2149,7 @@
               "enum": [
                 "M",
                 "Ž",
-                "Ukupno",
+                "Oba spola",
                 ""
               ]
             },
@@ -2189,7 +2189,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -2231,7 +2231,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -2382,7 +2382,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -2424,7 +2424,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 ""
               ]
             },
@@ -2459,7 +2459,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -2595,7 +2595,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -2637,7 +2637,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "Maloljetni korisnici",
                 "Odrasli korisnici",
                 ""
@@ -2650,7 +2650,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -2780,7 +2780,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -2839,7 +2839,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "Domovi za djecu i mlade bez roditeljskog staranja",
                 "Ustanove socijalne zaštite za djecu, mlade i odrasle s mentalnim i fizičkim invaliditetom",
                 "Ustanove socijalne zaštite za odrasle osobe s invaliditetom",
@@ -2854,7 +2854,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -2891,7 +2891,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -2970,7 +2970,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 ""
               ]
             },
@@ -3023,7 +3023,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -3135,7 +3135,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -3310,7 +3310,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "F",
+                "Ž",
                 ""
               ]
             },
@@ -3493,7 +3493,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -3535,7 +3535,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -3606,7 +3606,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -3706,7 +3706,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -3777,7 +3777,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -3901,7 +3901,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -3977,7 +3977,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "Javna",
                 "Privatna",
                 ""
@@ -4019,7 +4019,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -4061,7 +4061,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -4132,7 +4132,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -4247,7 +4247,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "Javna",
                 "Privatna",
                 ""
@@ -4319,7 +4319,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "F",
+                "Ž",
                 ""
               ]
             },
@@ -4393,7 +4393,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -4435,7 +4435,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -4472,7 +4472,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -4660,7 +4660,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "Javna",
                 "Privatna",
                 ""
@@ -4702,7 +4702,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -4739,7 +4739,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -4823,7 +4823,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -4893,7 +4893,7 @@
               "enum": [
                 "M",
                 "Ž",
-                "Ukupno",
+                "Oba spola",
                 ""
               ]
             },
@@ -4935,7 +4935,7 @@
               "enum": [
                 "M",
                 "Ž",
-                "Ukupno",
+                "Oba spola",
                 ""
               ]
             },
@@ -4997,7 +4997,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -5039,7 +5039,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -5122,7 +5122,7 @@
               "enum": [
                 "M",
                 "Ž",
-                "Ukupno",
+                "Oba spola",
                 ""
               ]
             },
@@ -5167,7 +5167,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -5223,7 +5223,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -5294,7 +5294,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "Gimnazija",
                 "Tehničke škole",
                 "Umjetničke škole",
@@ -5311,7 +5311,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -5365,7 +5365,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -5429,7 +5429,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""
@@ -5466,7 +5466,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""

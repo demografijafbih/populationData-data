@@ -25,7 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "Malodobni korisnici",
                 "Odrasli korisnici",
                 ""
@@ -38,7 +38,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "Oba spola",
                 "M",
                 "Ž",
                 ""

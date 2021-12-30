@@ -1,7 +1,7 @@
 Year,UNIT_MEASURE,Type of institution,Sex,Value
-2015,Number,Total,Both sexes,7871
-2015,Number,Total,M,3645
-2015,Number,Total,F,4226
+2015,Number,Both sexes,Both sexes,7871
+2015,Number,Both sexes,M,3645
+2015,Number,Both sexes,F,4226
 2015,Number,Homes for children and youth without parental care,Both sexes,997
 2015,Number,Homes for children and youth without parental care,M,527
 2015,Number,Homes for children and youth without parental care,F,470
@@ -14,9 +14,9 @@ Year,UNIT_MEASURE,Type of institution,Sex,Value
 2015,Number,Social welfare institutions for adults,Both sexes,4850
 2015,Number,Social welfare institutions for adults,M,1876
 2015,Number,Social welfare institutions for adults,F,2974
-2016,Number,Total,Both sexes,9249
-2016,Number,Total,M,4455
-2016,Number,Total,F,4794
+2016,Number,Both sexes,Both sexes,9249
+2016,Number,Both sexes,M,4455
+2016,Number,Both sexes,F,4794
 2016,Number,Homes for children and youth without parental care,Both sexes,970
 2016,Number,Homes for children and youth without parental care,M,487
 2016,Number,Homes for children and youth without parental care,F,483
@@ -29,9 +29,9 @@ Year,UNIT_MEASURE,Type of institution,Sex,Value
 2016,Number,Social welfare institutions for adults,Both sexes,5324
 2016,Number,Social welfare institutions for adults,M,2159
 2016,Number,Social welfare institutions for adults,F,3165
-2017,Number,Total,Both sexes,9800
-2017,Number,Total,M,4489
-2017,Number,Total,F,5311
+2017,Number,Both sexes,Both sexes,9800
+2017,Number,Both sexes,M,4489
+2017,Number,Both sexes,F,5311
 2017,Number,Homes for children and youth without parental care,Both sexes,1070
 2017,Number,Homes for children and youth without parental care,M,538
 2017,Number,Homes for children and youth without parental care,F,532
@@ -44,9 +44,9 @@ Year,UNIT_MEASURE,Type of institution,Sex,Value
 2017,Number,Social welfare institutions for adults,Both sexes,5778
 2017,Number,Social welfare institutions for adults,M,2187
 2017,Number,Social welfare institutions for adults,F,3591
-2018,Number,Total,Both sexes,10232
-2018,Number,Total,M,4710
-2018,Number,Total,F,5522
+2018,Number,Both sexes,Both sexes,10232
+2018,Number,Both sexes,M,4710
+2018,Number,Both sexes,F,5522
 2018,Number,Homes for children and youth without parental care,Both sexes,965
 2018,Number,Homes for children and youth without parental care,M,476
 2018,Number,Homes for children and youth without parental care,F,489
@@ -59,9 +59,9 @@ Year,UNIT_MEASURE,Type of institution,Sex,Value
 2018,Number,Social welfare institutions for adults,Both sexes,6284
 2018,Number,Social welfare institutions for adults,M,2436
 2018,Number,Social welfare institutions for adults,F,3848
-2019,Number,Total,Both sexes,11443
-2019,Number,Total,M,4968
-2019,Number,Total,F,6475
+2019,Number,Both sexes,Both sexes,11443
+2019,Number,Both sexes,M,4968
+2019,Number,Both sexes,F,6475
 2019,Number,Homes for children and youth without parental care,Both sexes,1121
 2019,Number,Homes for children and youth without parental care,M,607
 2019,Number,Homes for children and youth without parental care,F,514
@@ -74,9 +74,9 @@ Year,UNIT_MEASURE,Type of institution,Sex,Value
 2019,Number,Social welfare institutions for adults,Both sexes,7453
 2019,Number,Social welfare institutions for adults,M,2655
 2019,Number,Social welfare institutions for adults,F,4798
-2020,Number,Total,Both sexes,10902
-2020,Number,Total,M,4687
-2020,Number,Total,F,6215
+2020,Number,Both sexes,Both sexes,10902
+2020,Number,Both sexes,M,4687
+2020,Number,Both sexes,F,6215
 2020,Number,Homes for children and youth without parental care,Both sexes,1103
 2020,Number,Homes for children and youth without parental care,M,590
 2020,Number,Homes for children and youth without parental care,F,513
