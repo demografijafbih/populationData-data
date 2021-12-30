@@ -5454,13 +5454,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Seeing",
-                "Hearing",
-                "walking_or_climbing_up_the_stairs",
-                "remembering_or_concentration",
-                "self_care",
-                "Communication",
-                "multiple_disabilities",
+                "Потешкоће са видом",
+                "Потешкоће са слухом",
+                "Потешкоће са ходом или пењањем уз степенице",
+                "Потешкоће са памћењем",
+                "Потешкоће са одјевањем и одржавањем личне хигијене",
+                "Потешкоће са комуникацијом",
+                "Вишеструке потешкоће",
                 ""
               ]
             },

@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Seeing",
-                "Hearing",
-                "walking_or_climbing_up_the_stairs",
-                "remembering_or_concentration",
-                "self_care",
-                "Communication",
-                "multiple_disabilities",
+                "Poteškoće sa vidom",
+                "Poteškoće sa sluhom",
+                "Poteškoće sa hodom ili penjanjem uz stepenice",
+                "Poteškoće sa pamćenjem",
+                "Poteškoće sa odjevanjem i održavanjem lične higijene",
+                "Poteškoće sa komunikacijom",
+                "Višestruke poteškoće",
                 ""
               ]
             },
