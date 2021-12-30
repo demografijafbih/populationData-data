@@ -3,8 +3,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,Education,Both sexes,476
 2018,Number,Arts and humanities,Both sexes,268
 2018,Number,"Social sciences, journalism and information",Both sexes,351
-2018,Number,Business administration and the law of everything,Both sexes,719
-2018,Number,"Natural sciences, mathematics and statistics of all",Both sexes,235
+2018,Number,Business administration and the law,Both sexes,719
+2018,Number,"Natural sciences, mathematics and statistics",Both sexes,235
 2018,Number,Information and communication technologies,Both sexes,128
 2018,Number,"Engineering, manufacturing and construction",Both sexes,430
 2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,199
@@ -15,8 +15,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,Education,M,140
 2018,Number,Arts and humanities,M,78
 2018,Number,"Social sciences, journalism and information",M,115
-2018,Number,Business administration and the law of everything,M,268
-2018,Number,"Natural sciences, mathematics and statistics of all",M,54
+2018,Number,Business administration and the law,M,268
+2018,Number,"Natural sciences, mathematics and statistics",M,54
 2018,Number,Information and communication technologies,M,86
 2018,Number,"Engineering, manufacturing and construction",M,251
 2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,88
@@ -27,8 +27,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,Education,F,336
 2018,Number,Arts and humanities,F,190
 2018,Number,"Social sciences, journalism and information",F,236
-2018,Number,Business administration and the law of everything,F,451
-2018,Number,"Natural sciences, mathematics and statistics of all",F,181
+2018,Number,Business administration and the law,F,451
+2018,Number,"Natural sciences, mathematics and statistics",F,181
 2018,Number,Information and communication technologies,F,42
 2018,Number,"Engineering, manufacturing and construction",F,179
 2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,111
@@ -39,8 +39,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2019,Number,Education,Both sexes,424
 2019,Number,Arts and humanities,Both sexes,267
 2019,Number,"Social sciences, journalism and information",Both sexes,458
-2019,Number,Business administration and the law of everything,Both sexes,635
-2019,Number,"Natural sciences, mathematics and statistics of all",Both sexes,272
+2019,Number,Business administration and the law,Both sexes,635
+2019,Number,"Natural sciences, mathematics and statistics",Both sexes,272
 2019,Number,Information and communication technologies,Both sexes,139
 2019,Number,"Engineering, manufacturing and construction",Both sexes,495
 2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,154
@@ -51,8 +51,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2019,Number,Education,M,101
 2019,Number,Arts and humanities,M,62
 2019,Number,"Social sciences, journalism and information",M,171
-2019,Number,Business administration and the law of everything,M,243
-2019,Number,"Natural sciences, mathematics and statistics of all",M,53
+2019,Number,Business administration and the law,M,243
+2019,Number,"Natural sciences, mathematics and statistics",M,53
 2019,Number,Information and communication technologies,M,82
 2019,Number,"Engineering, manufacturing and construction",M,282
 2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,65
@@ -63,8 +63,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2019,Number,Education,F,323
 2019,Number,Arts and humanities,F,205
 2019,Number,"Social sciences, journalism and information",F,287
-2019,Number,Business administration and the law of everything,F,392
-2019,Number,"Natural sciences, mathematics and statistics of all",F,219
+2019,Number,Business administration and the law,F,392
+2019,Number,"Natural sciences, mathematics and statistics",F,219
 2019,Number,Information and communication technologies,F,57
 2019,Number,"Engineering, manufacturing and construction",F,213
 2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,89
@@ -75,8 +75,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,Education,Both sexes,490
 2020,Number,Arts and humanities,Both sexes,257
 2020,Number,"Social sciences, journalism and information",Both sexes,675
-2020,Number,Business administration and the law of everything,Both sexes,266
-2020,Number,"Natural sciences, mathematics and statistics of all",Both sexes,194
+2020,Number,Business administration and the law,Both sexes,266
+2020,Number,"Natural sciences, mathematics and statistics",Both sexes,194
 2020,Number,Information and communication technologies,Both sexes,86
 2020,Number,"Engineering, manufacturing and construction",Both sexes,571
 2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,191
@@ -87,8 +87,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,Education,M,78
 2020,Number,Arts and humanities,M,60
 2020,Number,"Social sciences, journalism and information",M,240
-2020,Number,Business administration and the law of everything,M,96
-2020,Number,"Natural sciences, mathematics and statistics of all",M,36
+2020,Number,Business administration and the law,M,96
+2020,Number,"Natural sciences, mathematics and statistics",M,36
 2020,Number,Information and communication technologies,M,54
 2020,Number,"Engineering, manufacturing and construction",M,322
 2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,75
@@ -99,8 +99,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,Education,F,412
 2020,Number,Arts and humanities,F,197
 2020,Number,"Social sciences, journalism and information",F,435
-2020,Number,Business administration and the law of everything,F,170
-2020,Number,"Natural sciences, mathematics and statistics of all",F,158
+2020,Number,Business administration and the law,F,170
+2020,Number,"Natural sciences, mathematics and statistics",F,158
 2020,Number,Information and communication technologies,F,32
 2020,Number,"Engineering, manufacturing and construction",F,249
 2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,116

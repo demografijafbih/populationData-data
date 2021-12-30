@@ -25,16 +25,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "education",
-                "arts_and_humanities",
-                "social_sciences_journalism_and_information",
-                "business_administration_and_the_law_of_everything",
-                "natural_sciences_mathematics_and_statistics_of_all",
-                "information_and_communication_technologies",
-                "engineering_manufacturing_and_construction",
-                "agriculture_forestry_fisheries_and_veterinary_medicine",
-                "health_and_social_protection",
-                "services",
+                "Obrazovanje",
+                "Umjetnost i humanističke znanosti",
+                "Društvene znanosti, novinarstvo i informiranje",
+                "Poslovanje, administracija i pravo",
+                "Prirodne znanosti, matematika i statistika",
+                "Informacijske i komunikacijske tehnologije",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
+                "Zdravstvo i socijalna skrb",
+                "Usluge",
                 "Nepoznato",
                 ""
               ]

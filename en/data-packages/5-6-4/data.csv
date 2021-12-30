@@ -3,8 +3,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,Education,Both sexes,8
 2018,Number,Arts and humanities,Both sexes,18
 2018,Number,"Social sciences, journalism and information",Both sexes,28
-2018,Number,Business administration and the law of everything,Both sexes,44
-2018,Number,"Natural sciences, mathematics and statistics of all",Both sexes,19
+2018,Number,Business administration and the law,Both sexes,44
+2018,Number,"Natural sciences, mathematics and statistics",Both sexes,19
 2018,Number,Information and communication technologies,Both sexes,8
 2018,Number,"Engineering, manufacturing and construction",Both sexes,21
 2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,16
@@ -15,8 +15,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,Education,M,4
 2018,Number,Arts and humanities,M,9
 2018,Number,"Social sciences, journalism and information",M,18
-2018,Number,Business administration and the law of everything,M,25
-2018,Number,"Natural sciences, mathematics and statistics of all",M,11
+2018,Number,Business administration and the law,M,25
+2018,Number,"Natural sciences, mathematics and statistics",M,11
 2018,Number,Information and communication technologies,M,7
 2018,Number,"Engineering, manufacturing and construction",M,12
 2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,8
@@ -27,8 +27,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,Education,F,4
 2018,Number,Arts and humanities,F,9
 2018,Number,"Social sciences, journalism and information",F,10
-2018,Number,Business administration and the law of everything,F,19
-2018,Number,"Natural sciences, mathematics and statistics of all",F,8
+2018,Number,Business administration and the law,F,19
+2018,Number,"Natural sciences, mathematics and statistics",F,8
 2018,Number,Information and communication technologies,F,1
 2018,Number,"Engineering, manufacturing and construction",F,9
 2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,8
@@ -39,8 +39,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2019,Number,Education,Both sexes,7
 2019,Number,Arts and humanities,Both sexes,21
 2019,Number,"Social sciences, journalism and information",Both sexes,37
-2019,Number,Business administration and the law of everything,Both sexes,42
-2019,Number,"Natural sciences, mathematics and statistics of all",Both sexes,10
+2019,Number,Business administration and the law,Both sexes,42
+2019,Number,"Natural sciences, mathematics and statistics",Both sexes,10
 2019,Number,Information and communication technologies,Both sexes,5
 2019,Number,"Engineering, manufacturing and construction",Both sexes,16
 2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,9
@@ -51,8 +51,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2019,Number,Education,M,3
 2019,Number,Arts and humanities,M,9
 2019,Number,"Social sciences, journalism and information",M,30
-2019,Number,Business administration and the law of everything,M,27
-2019,Number,"Natural sciences, mathematics and statistics of all",M,3
+2019,Number,Business administration and the law,M,27
+2019,Number,"Natural sciences, mathematics and statistics",M,3
 2019,Number,Information and communication technologies,M,3
 2019,Number,"Engineering, manufacturing and construction",M,9
 2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,6
@@ -63,8 +63,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2019,Number,Education,F,4
 2019,Number,Arts and humanities,F,12
 2019,Number,"Social sciences, journalism and information",F,7
-2019,Number,Business administration and the law of everything,F,15
-2019,Number,"Natural sciences, mathematics and statistics of all",F,7
+2019,Number,Business administration and the law,F,15
+2019,Number,"Natural sciences, mathematics and statistics",F,7
 2019,Number,Information and communication technologies,F,2
 2019,Number,"Engineering, manufacturing and construction",F,7
 2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,3
@@ -75,8 +75,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,Education,Both sexes,11
 2020,Number,Arts and humanities,Both sexes,9
 2020,Number,"Social sciences, journalism and information",Both sexes,45
-2020,Number,Business administration and the law of everything,Both sexes,21
-2020,Number,"Natural sciences, mathematics and statistics of all",Both sexes,11
+2020,Number,Business administration and the law,Both sexes,21
+2020,Number,"Natural sciences, mathematics and statistics",Both sexes,11
 2020,Number,Information and communication technologies,Both sexes,6
 2020,Number,"Engineering, manufacturing and construction",Both sexes,17
 2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,6
@@ -87,8 +87,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,Education,M,7
 2020,Number,Arts and humanities,M,2
 2020,Number,"Social sciences, journalism and information",M,34
-2020,Number,Business administration and the law of everything,M,16
-2020,Number,"Natural sciences, mathematics and statistics of all",M,7
+2020,Number,Business administration and the law,M,16
+2020,Number,"Natural sciences, mathematics and statistics",M,7
 2020,Number,Information and communication technologies,M,3
 2020,Number,"Engineering, manufacturing and construction",M,10
 2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,1
@@ -99,8 +99,8 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,Education,F,4
 2020,Number,Arts and humanities,F,7
 2020,Number,"Social sciences, journalism and information",F,12
-2020,Number,Business administration and the law of everything,F,4
-2020,Number,"Natural sciences, mathematics and statistics of all",F,4
+2020,Number,Business administration and the law,F,4
+2020,Number,"Natural sciences, mathematics and statistics",F,4
 2020,Number,Information and communication technologies,F,3
 2020,Number,"Engineering, manufacturing and construction",F,7
 2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,5

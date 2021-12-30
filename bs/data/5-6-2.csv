@@ -2,10 +2,10 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2018,Broj,Ukupno,Oba spola,981
 2018,Broj,Obrazovanje,Oba spola,36
 2018,Broj,Umjetnost i humanističke nauke,Oba spola,108
-2018,Broj,"Društvene nauke, novinarstvo i informisanje",Oba spola,90
-2018,Broj,"Poslovanje, administracija i pravo svega",Oba spola,190
-2018,Broj,"Prirodne nauke, matematika i statistika svega",Oba spola,88
-2018,Broj,Informacione i komunikacione tehnologije,Oba spola,51
+2018,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,90
+2018,Broj,"Poslovanje, administracija i pravo",Oba spola,190
+2018,Broj,"Prirodne nauke, matematika i statistika",Oba spola,88
+2018,Broj,Informacijske i komunikacijske tehnologije,Oba spola,51
 2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,103
 2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,20
 2018,Broj,Zdravstvo i socijalna zaštita,Oba spola,222
@@ -14,10 +14,10 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2018,Broj,Ukupno,M,508
 2018,Broj,Obrazovanje,M,24
 2018,Broj,Umjetnost i humanističke nauke,M,36
-2018,Broj,"Društvene nauke, novinarstvo i informisanje",M,55
-2018,Broj,"Poslovanje, administracija i pravo svega",M,111
-2018,Broj,"Prirodne nauke, matematika i statistika svega",M,32
-2018,Broj,Informacione i komunikacione tehnologije,M,42
+2018,Broj,"Društvene nauke, novinarstvo i informiranje",M,55
+2018,Broj,"Poslovanje, administracija i pravo",M,111
+2018,Broj,"Prirodne nauke, matematika i statistika",M,32
+2018,Broj,Informacijske i komunikacijske tehnologije,M,42
 2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,70
 2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,11
 2018,Broj,Zdravstvo i socijalna zaštita,M,80
@@ -26,10 +26,10 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2018,Broj,Ukupno,Ž,473
 2018,Broj,Obrazovanje,Ž,12
 2018,Broj,Umjetnost i humanističke nauke,Ž,72
-2018,Broj,"Društvene nauke, novinarstvo i informisanje",Ž,35
-2018,Broj,"Poslovanje, administracija i pravo svega",Ž,79
-2018,Broj,"Prirodne nauke, matematika i statistika svega",Ž,56
-2018,Broj,Informacione i komunikacione tehnologije,Ž,9
+2018,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,35
+2018,Broj,"Poslovanje, administracija i pravo",Ž,79
+2018,Broj,"Prirodne nauke, matematika i statistika",Ž,56
+2018,Broj,Informacijske i komunikacijske tehnologije,Ž,9
 2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,33
 2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,9
 2018,Broj,Zdravstvo i socijalna zaštita,Ž,142
@@ -38,10 +38,10 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2019,Broj,Ukupno,Oba spola,1022
 2019,Broj,Obrazovanje,Oba spola,40
 2019,Broj,Umjetnost i humanističke nauke,Oba spola,119
-2019,Broj,"Društvene nauke, novinarstvo i informisanje",Oba spola,173
-2019,Broj,"Poslovanje, administracija i pravo svega",Oba spola,183
-2019,Broj,"Prirodne nauke, matematika i statistika svega",Oba spola,85
-2019,Broj,Informacione i komunikacione tehnologije,Oba spola,12
+2019,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,173
+2019,Broj,"Poslovanje, administracija i pravo",Oba spola,183
+2019,Broj,"Prirodne nauke, matematika i statistika",Oba spola,85
+2019,Broj,Informacijske i komunikacijske tehnologije,Oba spola,12
 2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,88
 2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,97
 2019,Broj,Zdravstvo i socijalna zaštita,Oba spola,173
@@ -50,10 +50,10 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2019,Broj,Ukupno,M,492
 2019,Broj,Obrazovanje,M,20
 2019,Broj,Umjetnost i humanističke nauke,M,48
-2019,Broj,"Društvene nauke, novinarstvo i informisanje",M,91
-2019,Broj,"Poslovanje, administracija i pravo svega",M,97
-2019,Broj,"Prirodne nauke, matematika i statistika svega",M,36
-2019,Broj,Informacione i komunikacione tehnologije,M,7
+2019,Broj,"Društvene nauke, novinarstvo i informiranje",M,91
+2019,Broj,"Poslovanje, administracija i pravo",M,97
+2019,Broj,"Prirodne nauke, matematika i statistika",M,36
+2019,Broj,Informacijske i komunikacijske tehnologije,M,7
 2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,54
 2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,17
 2019,Broj,Zdravstvo i socijalna zaštita,M,88
@@ -62,10 +62,10 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2019,Broj,Ukupno,Ž,530
 2019,Broj,Obrazovanje,Ž,20
 2019,Broj,Umjetnost i humanističke nauke,Ž,71
-2019,Broj,"Društvene nauke, novinarstvo i informisanje",Ž,82
-2019,Broj,"Poslovanje, administracija i pravo svega",Ž,86
-2019,Broj,"Prirodne nauke, matematika i statistika svega",Ž,49
-2019,Broj,Informacione i komunikacione tehnologije,Ž,5
+2019,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,82
+2019,Broj,"Poslovanje, administracija i pravo",Ž,86
+2019,Broj,"Prirodne nauke, matematika i statistika",Ž,49
+2019,Broj,Informacijske i komunikacijske tehnologije,Ž,5
 2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,25
 2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,24
 2019,Broj,Zdravstvo i socijalna zaštita,Ž,150
@@ -74,10 +74,10 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2020,Broj,Ukupno,Oba spola,1208
 2020,Broj,Obrazovanje,Oba spola,54
 2020,Broj,Umjetnost i humanističke nauke,Oba spola,116
-2020,Broj,"Društvene nauke, novinarstvo i informisanje",Oba spola,56
-2020,Broj,"Poslovanje, administracija i pravo svega",Oba spola,188
-2020,Broj,"Prirodne nauke, matematika i statistika svega",Oba spola,116
-2020,Broj,Informacione i komunikacione tehnologije,Oba spola,56
+2020,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,56
+2020,Broj,"Poslovanje, administracija i pravo",Oba spola,188
+2020,Broj,"Prirodne nauke, matematika i statistika",Oba spola,116
+2020,Broj,Informacijske i komunikacijske tehnologije,Oba spola,56
 2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,163
 2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,43
 2020,Broj,Zdravstvo i socijalna zaštita,Oba spola,371
@@ -86,10 +86,10 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2020,Broj,Ukupno,M,606
 2020,Broj,Obrazovanje,M,22
 2020,Broj,Umjetnost i humanističke nauke,M,40
-2020,Broj,"Društvene nauke, novinarstvo i informisanje",M,28
-2020,Broj,"Poslovanje, administracija i pravo svega",M,99
-2020,Broj,"Prirodne nauke, matematika i statistika svega",M,50
-2020,Broj,Informacione i komunikacione tehnologije,M,41
+2020,Broj,"Društvene nauke, novinarstvo i informiranje",M,28
+2020,Broj,"Poslovanje, administracija i pravo",M,99
+2020,Broj,"Prirodne nauke, matematika i statistika",M,50
+2020,Broj,Informacijske i komunikacijske tehnologije,M,41
 2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,130
 2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,22
 2020,Broj,Zdravstvo i socijalna zaštita,M,151
@@ -98,10 +98,10 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2020,Broj,Ukupno,Ž,602
 2020,Broj,Obrazovanje,Ž,32
 2020,Broj,Umjetnost i humanističke nauke,Ž,76
-2020,Broj,"Društvene nauke, novinarstvo i informisanje",Ž,28
-2020,Broj,"Poslovanje, administracija i pravo svega",Ž,89
-2020,Broj,"Prirodne nauke, matematika i statistika svega",Ž,66
-2020,Broj,Informacione i komunikacione tehnologije,Ž,15
+2020,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,28
+2020,Broj,"Poslovanje, administracija i pravo",Ž,89
+2020,Broj,"Prirodne nauke, matematika i statistika",Ž,66
+2020,Broj,Informacijske i komunikacijske tehnologije,Ž,15
 2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,33
 2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,21
 2020,Broj,Zdravstvo i socijalna zaštita,Ž,220
