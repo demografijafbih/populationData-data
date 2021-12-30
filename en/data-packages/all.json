@@ -2077,6 +2077,57 @@
       "title": "Crude birth rate"
     },
     {
+      "path": "7-1-5/data.csv",
+      "name": "7-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "status_in_employment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Employees"
+              ]
+            },
+            "title": "Status in employment"
+          }
+        ]
+      },
+      "title": "Population 15-24 years of age not in employment, education or training (NEET) by sex"
+    },
+    {
       "path": "8-1-1/data.csv",
       "name": "8-1-1",
       "profile": "tabular-data-resource",
@@ -5149,7 +5200,7 @@
                 "Unpaid family workers"
               ]
             },
-            "title": "status_in_employment"
+            "title": "Status in employment"
           }
         ]
       },
