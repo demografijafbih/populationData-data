@@ -1127,7 +1127,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-5-title"
+      "title": "Upisani na magistarske, master i specijalističke studije prema oblasti obrazovanja"
     },
     {
       "path": "3-4-1/data.csv",
@@ -1354,7 +1354,7 @@
           }
         ]
       },
-      "title": "Upisani na magistarske, master i specijalističke studije prema oblasti obrazovanja"
+      "title": "Diplomirani studenti integriranih studija prema spolu"
     },
     {
       "path": "3-2-4/data.csv",
@@ -2225,7 +2225,7 @@
           }
         ]
       },
-      "title": "Upisani na magistarske, master i specijalističke studije prema spolu"
+      "title": "Upisani na integrirane studije prema spolu"
     },
     {
       "path": "5-1-2/data.csv",
@@ -2460,7 +2460,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-7-title"
+      "title": "Magistri nauka, masteri i specijalisti prema oblasti obrazovanja"
     },
     {
       "path": "3-1-5/data.csv",
@@ -4151,7 +4151,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-6-title"
+      "title": "Magistri nauka, masteri i specijalisti prema spolu"
     },
     {
       "path": "5-2-1/data.csv",
@@ -4525,7 +4525,7 @@
           }
         ]
       },
-      "title": "Magistri nauka, masteri i specijalisti prema oblasti obrazovanja"
+      "title": "Upisani na magistarske, master i specijalističke studije prema spolu"
     },
     {
       "path": "5-6-1/data.csv",
@@ -5392,7 +5392,7 @@
           }
         ]
       },
-      "title": "Magistri nauka, masteri i specijalisti prema spolu"
+      "title": "Diplomirani studenti integriranih studija oblasti obrazovanja"
     },
     {
       "path": "3-1-3/data.csv",
