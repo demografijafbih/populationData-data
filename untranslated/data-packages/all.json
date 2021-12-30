@@ -21,7 +21,7 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "statistics_sex",
             "type": "string",
             "constraints": {
               "enum": [

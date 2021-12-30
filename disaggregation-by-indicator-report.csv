@@ -1,5 +1,5 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,"UNIT_MEASURE, SEX, BIRTHS",3
+#1-1-1,"UNIT_MEASURE, statistics_sex, BIRTHS",3
 #1-1-2,UNIT_MEASURE,1
 #1-2-1,UNIT_MEASURE,1
 #1-2-2,UNIT_MEASURE,1
@@ -24,7 +24,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-7-1,"UNIT_MEASURE, SEX, AGE",3
 #1-7-2,"UNIT_MEASURE, SEX, AGE",3
 #1-7-3,"UNIT_MEASURE, SEX, TYPE_OF_DEPENDENCY_RATIO",3
-#1-7-4,"UNIT_MEASURE, SEX, BIRTHS",3
+#1-7-4,"UNIT_MEASURE, BIRTHS, SEX",3
 #1-7-5,UNIT_MEASURE,1
 #1-7-6,UNIT_MEASURE,1
 #1-7-7,"UNIT_MEASURE, SEX",2

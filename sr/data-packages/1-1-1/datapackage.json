@@ -21,17 +21,17 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
+            "name": "statistics_sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "Укупно",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "statistics_sex"
           },
           {
             "name": "BIRTHS",
