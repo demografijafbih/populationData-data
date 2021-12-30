@@ -16,7 +16,7 @@
             "title": "Godina"
           },
           {
-            "name": "SEX",
+            "name": "population_sex",
             "type": "string",
             "constraints": {
               "enum": [

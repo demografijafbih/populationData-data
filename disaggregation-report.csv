@@ -9,10 +9,10 @@ LIVE_BORN_CHILDREN,Live-born children,Živorođena djeca,Живорођена д
 MICS_NUMBER,Method,Metoda,Метода,Metoda,1,3
 Municipality,Municipality,Općina,Oпштина,Općina,1,142
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,Величина домаћинства,Veličina kućanstva,1,8
+population_sex,Spol,Spol,Пол,Spol,2,3
 PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,35
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
-SEX,Sex,Spol,Пол,Spol,61,3
-statistics_sex,Spol,Spol,Пол,Spol,1,3
+SEX,Sex,Spol,Пол,Spol,60,3
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
 Type_of_disability,Type of disability,Vrsta invaliditeta,Врста инвалидитета,Vrsta invaliditeta,1,7
 type_of_education,Type of education,Vrsta obrazovanja,Врста образовања,Vrsta obrazovanja,6,12

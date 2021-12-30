@@ -1,4 +1,4 @@
-Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
+Year,Spol,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 1999,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,4591
 1999,Both sexes,(I00-I99) Diseases of the circulatory system,Number,15911
 1999,Both sexes,(J00-J99) Diseases of the respiratory system,Number,866

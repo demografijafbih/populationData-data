@@ -21,7 +21,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "statistics_sex",
+            "name": "population_sex",
             "type": "string",
             "constraints": {
               "enum": [
