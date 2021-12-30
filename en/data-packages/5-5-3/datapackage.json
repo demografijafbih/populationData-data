@@ -37,6 +37,27 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Agriculture, forestry, fisheries and veterinary medicine",
+                "Arts and humanities",
+                "Business administration and the law of everything",
+                "Education",
+                "Engineering, manufacturing and construction",
+                "Health and social protection",
+                "Information and communication technologies",
+                "Natural sciences, mathematics and statistics of all",
+                "services",
+                "Social sciences, journalism and information",
+                "Unknown"
+              ]
+            },
+            "title": "Type of education"
           }
         ]
       }

@@ -553,7 +553,7 @@
                 "social_sciences_journalism_and_information",
                 "business_administration_and_the_law_of_everything",
                 "natural_sciences_mathematics_and_statistics_of_all",
-                "information and communication technologies",
+                "information_and_communication_technologies",
                 "engineering_manufacturing_and_construction",
                 "agriculture_forestry_fisheries_and_veterinary_medicine",
                 "health_and_social_protection",
@@ -1066,6 +1066,70 @@
       "title": "Дипломирани студенти према полу"
     },
     {
+      "path": "5-5-5/data.csv",
+      "name": "5-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "type_of_education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупно",
+                "education",
+                "arts_and_humanities",
+                "social_sciences_journalism_and_information",
+                "business_administration_and_the_law_of_everything",
+                "natural_sciences_mathematics_and_statistics_of_all",
+                "information_and_communication_technologies",
+                "engineering_manufacturing_and_construction",
+                "agriculture_forestry_fisheries_and_veterinary_medicine",
+                "health_and_social_protection",
+                "services",
+                "Непознато",
+                ""
+              ]
+            },
+            "title": "Врста образовања"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупно",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "global_indicators.5-5-5-title"
+    },
+    {
       "path": "3-4-1/data.csv",
       "name": "3-4-1",
       "profile": "tabular-data-resource",
@@ -1271,35 +1335,13 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "type_of_education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Укупно",
-                "education",
-                "arts_and_humanities",
-                "social_sciences_journalism_and_information",
-                "business_administration_and_the_law_of_everything",
-                "natural_sciences_mathematics_and_statistics_of_all",
-                "information and communication technologies",
-                "engineering_manufacturing_and_construction",
-                "agriculture_forestry_fisheries_and_veterinary_medicine",
-                "health_and_social_protection",
-                "services",
-                "Непознато",
-                ""
-              ]
-            },
-            "title": "Врста образовања"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
                 "M",
                 "Ж",
+                "Укупно",
                 ""
               ]
             },
@@ -1579,7 +1621,7 @@
                 "social_sciences_journalism_and_information",
                 "business_administration_and_the_law_of_everything",
                 "natural_sciences_mathematics_and_statistics_of_all",
-                "information and communication technologies",
+                "information_and_communication_technologies",
                 "engineering_manufacturing_and_construction",
                 "agriculture_forestry_fisheries_and_veterinary_medicine",
                 "health_and_social_protection",
@@ -2168,9 +2210,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
                 "M",
                 "Ж",
+                "Укупно",
                 ""
               ]
             },
@@ -2355,6 +2397,70 @@
         ]
       },
       "title": "Број специјалиста породичне медицине запослених у установама за пружање здравствене заштите"
+    },
+    {
+      "path": "5-5-7/data.csv",
+      "name": "5-5-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "type_of_education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупно",
+                "education",
+                "arts_and_humanities",
+                "social_sciences_journalism_and_information",
+                "business_administration_and_the_law_of_everything",
+                "natural_sciences_mathematics_and_statistics_of_all",
+                "information_and_communication_technologies",
+                "engineering_manufacturing_and_construction",
+                "agriculture_forestry_fisheries_and_veterinary_medicine",
+                "health_and_social_protection",
+                "services",
+                "Непознато",
+                ""
+              ]
+            },
+            "title": "Врста образовања"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупно",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "global_indicators.5-5-7-title"
     },
     {
       "path": "3-1-5/data.csv",
@@ -4006,6 +4112,48 @@
       "title": "Становништво старо 15 и више година према граду/општини, највишој завршеној школи и полу"
     },
     {
+      "path": "5-5-6/data.csv",
+      "name": "5-5-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупно",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "global_indicators.5-5-6-title"
+    },
+    {
       "path": "5-2-1/data.csv",
       "name": "5-2-1",
       "profile": "tabular-data-resource",
@@ -4356,28 +4504,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Мјерна јединица"
-          },
-          {
-            "name": "type_of_education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Укупно",
-                "education",
-                "arts_and_humanities",
-                "social_sciences_journalism_and_information",
-                "business_administration_and_the_law_of_everything",
-                "natural_sciences_mathematics_and_statistics_of_all",
-                "information and communication technologies",
-                "engineering_manufacturing_and_construction",
-                "agriculture_forestry_fisheries_and_veterinary_medicine",
-                "health_and_social_protection",
-                "services",
-                "Непознато",
-                ""
-              ]
-            },
-            "title": "Врста образовања"
           },
           {
             "name": "SEX",
@@ -5091,7 +5217,7 @@
           }
         ]
       },
-      "title": "Становништво са потешкоћама према врсти потешкоће и полу"
+      "title": "Становништво са потешкоћама према врсти потешкоће, старосним групама и полу"
     },
     {
       "path": "1-3-3/data.csv",
@@ -5226,13 +5352,34 @@
             "title": "Мјерна јединица"
           },
           {
+            "name": "type_of_education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "education",
+                "arts_and_humanities",
+                "social_sciences_journalism_and_information",
+                "business_administration_and_the_law_of_everything",
+                "natural_sciences_mathematics_and_statistics_of_all",
+                "information_and_communication_technologies",
+                "engineering_manufacturing_and_construction",
+                "agriculture_forestry_fisheries_and_veterinary_medicine",
+                "health_and_social_protection",
+                "services",
+                "Непознато",
+                ""
+              ]
+            },
+            "title": "Врста образовања"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
                 "M",
                 "Ж",
+                "Укупно",
                 ""
               ]
             },
@@ -5320,7 +5467,7 @@
                 "social_sciences_journalism_and_information",
                 "business_administration_and_the_law_of_everything",
                 "natural_sciences_mathematics_and_statistics_of_all",
-                "information and communication technologies",
+                "information_and_communication_technologies",
                 "engineering_manufacturing_and_construction",
                 "agriculture_forestry_fisheries_and_veterinary_medicine",
                 "health_and_social_protection",

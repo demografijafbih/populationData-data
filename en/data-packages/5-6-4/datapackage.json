@@ -44,16 +44,16 @@
             "constraints": {
               "enum": [
                 "",
-                "agriculture_forestry_fisheries_and_veterinary_medicine",
-                "arts_and_humanities",
-                "business_administration_and_the_law_of_everything",
-                "education",
-                "engineering_manufacturing_and_construction",
-                "health_and_social_protection",
-                "information and communication technologies",
-                "natural_sciences_mathematics_and_statistics_of_all",
+                "Agriculture, forestry, fisheries and veterinary medicine",
+                "Arts and humanities",
+                "Business administration and the law of everything",
+                "Education",
+                "Engineering, manufacturing and construction",
+                "Health and social protection",
+                "Information and communication technologies",
+                "Natural sciences, mathematics and statistics of all",
                 "services",
-                "social_sciences_journalism_and_information",
+                "Social sciences, journalism and information",
                 "Total",
                 "Unknown"
               ]

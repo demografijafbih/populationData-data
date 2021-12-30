@@ -5,7 +5,7 @@ Year,UNIT_MEASURE,Врста образовања,Пол,Value
 2018,Број,social_sciences_journalism_and_information,Оба пола,1279
 2018,Број,business_administration_and_the_law_of_everything,Оба пола,3286
 2018,Број,natural_sciences_mathematics_and_statistics_of_all,Оба пола,604
-2018,Број,information and communication technologies,Оба пола,731
+2018,Број,information_and_communication_technologies,Оба пола,731
 2018,Број,engineering_manufacturing_and_construction,Оба пола,1999
 2018,Број,agriculture_forestry_fisheries_and_veterinary_medicine,Оба пола,585
 2018,Број,health_and_social_protection,Оба пола,1352
@@ -17,7 +17,7 @@ Year,UNIT_MEASURE,Врста образовања,Пол,Value
 2018,Број,social_sciences_journalism_and_information,M,507
 2018,Број,business_administration_and_the_law_of_everything,M,1336
 2018,Број,natural_sciences_mathematics_and_statistics_of_all,M,174
-2018,Број,information and communication technologies,M,486
+2018,Број,information_and_communication_technologies,M,486
 2018,Број,engineering_manufacturing_and_construction,M,1250
 2018,Број,agriculture_forestry_fisheries_and_veterinary_medicine,M,286
 2018,Број,health_and_social_protection,M,314
@@ -29,7 +29,7 @@ Year,UNIT_MEASURE,Врста образовања,Пол,Value
 2018,Број,social_sciences_journalism_and_information,Ж,772
 2018,Број,business_administration_and_the_law_of_everything,Ж,1950
 2018,Број,natural_sciences_mathematics_and_statistics_of_all,Ж,430
-2018,Број,information and communication technologies,Ж,245
+2018,Број,information_and_communication_technologies,Ж,245
 2018,Број,engineering_manufacturing_and_construction,Ж,749
 2018,Број,agriculture_forestry_fisheries_and_veterinary_medicine,Ж,299
 2018,Број,health_and_social_protection,Ж,1038
@@ -41,7 +41,7 @@ Year,UNIT_MEASURE,Врста образовања,Пол,Value
 2019,Број,social_sciences_journalism_and_information,Оба пола,1075
 2019,Број,business_administration_and_the_law_of_everything,Оба пола,3174
 2019,Број,natural_sciences_mathematics_and_statistics_of_all,Оба пола,625
-2019,Број,information and communication technologies,Оба пола,674
+2019,Број,information_and_communication_technologies,Оба пола,674
 2019,Број,engineering_manufacturing_and_construction,Оба пола,1896
 2019,Број,agriculture_forestry_fisheries_and_veterinary_medicine,Оба пола,616
 2019,Број,health_and_social_protection,Оба пола,1466
@@ -53,7 +53,7 @@ Year,UNIT_MEASURE,Врста образовања,Пол,Value
 2019,Број,social_sciences_journalism_and_information,M,397
 2019,Број,business_administration_and_the_law_of_everything,M,1255
 2019,Број,natural_sciences_mathematics_and_statistics_of_all,M,158
-2019,Број,information and communication technologies,M,481
+2019,Број,information_and_communication_technologies,M,481
 2019,Број,engineering_manufacturing_and_construction,M,1104
 2019,Број,agriculture_forestry_fisheries_and_veterinary_medicine,M,235
 2019,Број,health_and_social_protection,M,332
@@ -65,7 +65,7 @@ Year,UNIT_MEASURE,Врста образовања,Пол,Value
 2019,Број,social_sciences_journalism_and_information,Ж,678
 2019,Број,business_administration_and_the_law_of_everything,Ж,1919
 2019,Број,natural_sciences_mathematics_and_statistics_of_all,Ж,467
-2019,Број,information and communication technologies,Ж,193
+2019,Број,information_and_communication_technologies,Ж,193
 2019,Број,engineering_manufacturing_and_construction,Ж,792
 2019,Број,agriculture_forestry_fisheries_and_veterinary_medicine,Ж,381
 2019,Број,health_and_social_protection,Ж,1134
@@ -77,7 +77,7 @@ Year,UNIT_MEASURE,Врста образовања,Пол,Value
 2020,Број,social_sciences_journalism_and_information,Оба пола,2247
 2020,Број,business_administration_and_the_law_of_everything,Оба пола,1829
 2020,Број,natural_sciences_mathematics_and_statistics_of_all,Оба пола,485
-2020,Број,information and communication technologies,Оба пола,747
+2020,Број,information_and_communication_technologies,Оба пола,747
 2020,Број,engineering_manufacturing_and_construction,Оба пола,1860
 2020,Број,agriculture_forestry_fisheries_and_veterinary_medicine,Оба пола,612
 2020,Број,health_and_social_protection,Оба пола,1330
@@ -89,7 +89,7 @@ Year,UNIT_MEASURE,Врста образовања,Пол,Value
 2020,Број,social_sciences_journalism_and_information,M,899
 2020,Број,business_administration_and_the_law_of_everything,M,738
 2020,Број,natural_sciences_mathematics_and_statistics_of_all,M,122
-2020,Број,information and communication technologies,M,500
+2020,Број,information_and_communication_technologies,M,500
 2020,Број,engineering_manufacturing_and_construction,M,1067
 2020,Број,agriculture_forestry_fisheries_and_veterinary_medicine,M,251
 2020,Број,health_and_social_protection,M,268
@@ -101,7 +101,7 @@ Year,UNIT_MEASURE,Врста образовања,Пол,Value
 2020,Број,social_sciences_journalism_and_information,Ж,1363
 2020,Број,business_administration_and_the_law_of_everything,Ж,1091
 2020,Број,natural_sciences_mathematics_and_statistics_of_all,Ж,363
-2020,Број,information and communication technologies,Ж,247
+2020,Број,information_and_communication_technologies,Ж,247
 2020,Број,engineering_manufacturing_and_construction,Ж,778
 2020,Број,agriculture_forestry_fisheries_and_veterinary_medicine,Ж,361
 2020,Број,health_and_social_protection,Ж,1062

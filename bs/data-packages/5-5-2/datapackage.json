@@ -21,35 +21,13 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "type_of_education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupno",
-                "Obrazovanje",
-                "Umjetnost i humanističke nauke",
-                "Društvene nauke, novinarstvo i informisanje",
-                "Poslovanje, administracija i pravo svega",
-                "Prirodne nauke, matematika i statistika svega",
-                "Informacione i komunikacione tehnologije",
-                "Inženjerstvo, proizvodnja i građevinarstvo",
-                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
-                "Zdravstvo i socijalna zaštita",
-                "services",
-                "Nepoznato",
-                ""
-              ]
-            },
-            "title": "Vrsta obrazovanja"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
                 "M",
                 "Ž",
+                "Ukupno",
                 ""
               ]
             },

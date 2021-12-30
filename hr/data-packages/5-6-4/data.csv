@@ -5,7 +5,7 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2018,Broj,social_sciences_journalism_and_information,Oba spola,28
 2018,Broj,business_administration_and_the_law_of_everything,Oba spola,44
 2018,Broj,natural_sciences_mathematics_and_statistics_of_all,Oba spola,19
-2018,Broj,information and communication technologies,Oba spola,8
+2018,Broj,information_and_communication_technologies,Oba spola,8
 2018,Broj,engineering_manufacturing_and_construction,Oba spola,21
 2018,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,Oba spola,16
 2018,Broj,health_and_social_protection,Oba spola,22
@@ -17,7 +17,7 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2018,Broj,social_sciences_journalism_and_information,M,18
 2018,Broj,business_administration_and_the_law_of_everything,M,25
 2018,Broj,natural_sciences_mathematics_and_statistics_of_all,M,11
-2018,Broj,information and communication technologies,M,7
+2018,Broj,information_and_communication_technologies,M,7
 2018,Broj,engineering_manufacturing_and_construction,M,12
 2018,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,M,8
 2018,Broj,health_and_social_protection,M,7
@@ -29,7 +29,7 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2018,Broj,social_sciences_journalism_and_information,Ž,10
 2018,Broj,business_administration_and_the_law_of_everything,Ž,19
 2018,Broj,natural_sciences_mathematics_and_statistics_of_all,Ž,8
-2018,Broj,information and communication technologies,Ž,1
+2018,Broj,information_and_communication_technologies,Ž,1
 2018,Broj,engineering_manufacturing_and_construction,Ž,9
 2018,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,Ž,8
 2018,Broj,health_and_social_protection,Ž,15
@@ -41,7 +41,7 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2019,Broj,social_sciences_journalism_and_information,Oba spola,37
 2019,Broj,business_administration_and_the_law_of_everything,Oba spola,42
 2019,Broj,natural_sciences_mathematics_and_statistics_of_all,Oba spola,10
-2019,Broj,information and communication technologies,Oba spola,5
+2019,Broj,information_and_communication_technologies,Oba spola,5
 2019,Broj,engineering_manufacturing_and_construction,Oba spola,16
 2019,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,Oba spola,9
 2019,Broj,health_and_social_protection,Oba spola,14
@@ -53,7 +53,7 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2019,Broj,social_sciences_journalism_and_information,M,30
 2019,Broj,business_administration_and_the_law_of_everything,M,27
 2019,Broj,natural_sciences_mathematics_and_statistics_of_all,M,3
-2019,Broj,information and communication technologies,M,3
+2019,Broj,information_and_communication_technologies,M,3
 2019,Broj,engineering_manufacturing_and_construction,M,9
 2019,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,M,6
 2019,Broj,health_and_social_protection,M,3
@@ -65,7 +65,7 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2019,Broj,social_sciences_journalism_and_information,Ž,7
 2019,Broj,business_administration_and_the_law_of_everything,Ž,15
 2019,Broj,natural_sciences_mathematics_and_statistics_of_all,Ž,7
-2019,Broj,information and communication technologies,Ž,2
+2019,Broj,information_and_communication_technologies,Ž,2
 2019,Broj,engineering_manufacturing_and_construction,Ž,7
 2019,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,Ž,3
 2019,Broj,health_and_social_protection,Ž,11
@@ -77,7 +77,7 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2020,Broj,social_sciences_journalism_and_information,Oba spola,45
 2020,Broj,business_administration_and_the_law_of_everything,Oba spola,21
 2020,Broj,natural_sciences_mathematics_and_statistics_of_all,Oba spola,11
-2020,Broj,information and communication technologies,Oba spola,6
+2020,Broj,information_and_communication_technologies,Oba spola,6
 2020,Broj,engineering_manufacturing_and_construction,Oba spola,17
 2020,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,Oba spola,6
 2020,Broj,health_and_social_protection,Oba spola,15
@@ -89,7 +89,7 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2020,Broj,social_sciences_journalism_and_information,M,34
 2020,Broj,business_administration_and_the_law_of_everything,M,16
 2020,Broj,natural_sciences_mathematics_and_statistics_of_all,M,7
-2020,Broj,information and communication technologies,M,3
+2020,Broj,information_and_communication_technologies,M,3
 2020,Broj,engineering_manufacturing_and_construction,M,10
 2020,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,M,1
 2020,Broj,health_and_social_protection,M,4
@@ -101,7 +101,7 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
 2020,Broj,social_sciences_journalism_and_information,Ž,12
 2020,Broj,business_administration_and_the_law_of_everything,Ž,4
 2020,Broj,natural_sciences_mathematics_and_statistics_of_all,Ž,4
-2020,Broj,information and communication technologies,Ž,3
+2020,Broj,information_and_communication_technologies,Ž,3
 2020,Broj,engineering_manufacturing_and_construction,Ž,7
 2020,Broj,agriculture_forestry_fisheries_and_veterinary_medicine,Ž,5
 2020,Broj,health_and_social_protection,Ž,11

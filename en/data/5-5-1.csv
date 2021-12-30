@@ -1,10 +1,10 @@
 Year,UNIT_MEASURE,Sex,Value
-2018,Number,Both sexes,12083
-2019,Number,Both sexes,12449
-2020,Number,Both sexes,13192
-2018,Number,M,4563
-2019,Number,M,4808
-2020,Number,M,4945
-2018,Number,F,7520
-2019,Number,F,7641
-2020,Number,F,8247
+2018,Number,M,2703
+2019,Number,M,2703
+2020,Number,M,2629
+2018,Number,F,6218
+2019,Number,F,6452
+2020,Number,F,6633
+2018,Number,Both sexes,8921
+2019,Number,Both sexes,9155
+2020,Number,Both sexes,9262
