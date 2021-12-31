@@ -1259,9 +1259,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
                 "M",
                 "Ž",
-                "Oba spola",
                 ""
               ]
             },
