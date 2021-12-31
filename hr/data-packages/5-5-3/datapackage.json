@@ -25,6 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ukupno",
                 "Obrazovanje",
                 "Umjetnost i humanističke znanosti",
                 "Društvene znanosti, novinarstvo i informiranje",
@@ -46,9 +47,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Oba spola",
                 "M",
                 "Ž",
-                "Oba spola",
                 ""
               ]
             },

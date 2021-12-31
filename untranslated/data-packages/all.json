@@ -4512,6 +4512,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "total",
                 "education",
                 "arts_and_humanities",
                 "social_sciences_journalism_and_information",
@@ -4532,9 +4533,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "M",
                 "F",
-                "_T",
                 ""
               ]
             }
