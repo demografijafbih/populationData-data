@@ -23,7 +23,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
+                "25 - 64",
                 "25 - 34",
                 "35 - 44",
                 "35 - 54",

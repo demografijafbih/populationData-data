@@ -68,6 +68,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 25 - 34,25 - 34,25 - 34,25 - 34,25 - 34,3,1
 25-34,25-34,25-34,25-34,25-34,1,1
 25 - 49,25 - 49,25 - 49,25 - 49,25 - 49,9,3
+25 - 64,25 - 64,25 - 64,25 - 64,25 - 64,3,1
 25,25,25,25,25,15,3
 26,26,26,26,26,15,3
 27,27,27,27,27,15,3
@@ -182,5 +183,4 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 99,99,99,99,99,15,3
 9,9,9,9,9,15,3
 Total,Total,Total,Total,Total,450,6
-total,Total,Ukupno,Укупно,Ukupno,3,1
 Unknown,Unknown,Unknown,Unknown,Unknown,18,4

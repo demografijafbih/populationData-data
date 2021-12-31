@@ -1,7 +1,7 @@
 Year,UNIT_MEASURE,Age,Sex,Value
-2016,Number,Total,Both sexes,6.9
-2016,Number,Total,M,7.1
-2016,Number,Total,F,6.7
+2016,Number,25 - 64,Both sexes,6.9
+2016,Number,25 - 64,M,7.1
+2016,Number,25 - 64,F,6.7
 2016,Number,25 - 34,Both sexes,16.6
 2016,Number,25 - 34,M,16.4
 2016,Number,25 - 34,F,16.8
