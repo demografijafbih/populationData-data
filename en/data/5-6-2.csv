@@ -1,4 +1,148 @@
 Year,UNIT_MEASURE,Type of education,Sex,Value
+2014,Number,Total,Both sexes,717
+2014,Number,Education,Both sexes,55
+2014,Number,Arts and humanities,Both sexes,100
+2014,Number,"Social sciences, journalism and information",Both sexes,79
+2014,Number,Business administration and the law,Both sexes,203
+2014,Number,"Natural sciences, mathematics and statistics",Both sexes,64
+2014,Number,Information and communication technologies,Both sexes,30
+2014,Number,"Engineering, manufacturing and construction",Both sexes,31
+2014,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,23
+2014,Number,Health and social protection,Both sexes,85
+2014,Number,Services,Both sexes,39
+2014,Number,Unknown,Both sexes,8
+2014,Number,Total,M,396
+2014,Number,Education,M,23
+2014,Number,Arts and humanities,M,52
+2014,Number,"Social sciences, journalism and information",M,51
+2014,Number,Business administration and the law,M,133
+2014,Number,"Natural sciences, mathematics and statistics",M,30
+2014,Number,Information and communication technologies,M,24
+2014,Number,"Engineering, manufacturing and construction",M,23
+2014,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,13
+2014,Number,Health and social protection,M,24
+2014,Number,Services,M,23
+2014,Number,Unknown,M,0
+2014,Number,Total,F,321
+2014,Number,Education,F,32
+2014,Number,Arts and humanities,F,48
+2014,Number,"Social sciences, journalism and information",F,28
+2014,Number,Business administration and the law,F,70
+2014,Number,"Natural sciences, mathematics and statistics",F,34
+2014,Number,Information and communication technologies,F,6
+2014,Number,"Engineering, manufacturing and construction",F,8
+2014,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,10
+2014,Number,Health and social protection,F,61
+2014,Number,Services,F,16
+2014,Number,Unknown,F,8
+2015,Number,Total,Both sexes,846
+2015,Number,Education,Both sexes,99
+2015,Number,Arts and humanities,Both sexes,101
+2015,Number,"Social sciences, journalism and information",Both sexes,109
+2015,Number,Business administration and the law,Both sexes,167
+2015,Number,"Natural sciences, mathematics and statistics",Both sexes,98
+2015,Number,Information and communication technologies,Both sexes,52
+2015,Number,"Engineering, manufacturing and construction",Both sexes,118
+2015,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,28
+2015,Number,Health and social protection,Both sexes,29
+2015,Number,Services,Both sexes,45
+2015,Number,Unknown,Both sexes,61
+2015,Number,Total,M,491
+2015,Number,Education,M,51
+2015,Number,Arts and humanities,M,50
+2015,Number,"Social sciences, journalism and information",M,65
+2015,Number,Business administration and the law,M,110
+2015,Number,"Natural sciences, mathematics and statistics",M,33
+2015,Number,Information and communication technologies,M,36
+2015,Number,"Engineering, manufacturing and construction",M,95
+2015,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,16
+2015,Number,Health and social protection,M,9
+2015,Number,Services,M,26
+2015,Number,Unknown,M,23
+2015,Number,Total,F,355
+2015,Number,Education,F,48
+2015,Number,Arts and humanities,F,51
+2015,Number,"Social sciences, journalism and information",F,44
+2015,Number,Business administration and the law,F,57
+2015,Number,"Natural sciences, mathematics and statistics",F,65
+2015,Number,Information and communication technologies,F,16
+2015,Number,"Engineering, manufacturing and construction",F,23
+2015,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,12
+2015,Number,Health and social protection,F,20
+2015,Number,Services,F,19
+2015,Number,Unknown,F,0
+2016,Number,Total,Both sexes,913
+2016,Number,Education,Both sexes,71
+2016,Number,Arts and humanities,Both sexes,105
+2016,Number,"Social sciences, journalism and information",Both sexes,98
+2016,Number,Business administration and the law,Both sexes,224
+2016,Number,"Natural sciences, mathematics and statistics",Both sexes,78
+2016,Number,Information and communication technologies,Both sexes,18
+2016,Number,"Engineering, manufacturing and construction",Both sexes,123
+2016,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,28
+2016,Number,Health and social protection,Both sexes,121
+2016,Number,Services,Both sexes,47
+2016,Number,Unknown,Both sexes,0
+2016,Number,Total,M,486
+2016,Number,Education,M,38
+2016,Number,Arts and humanities,M,35
+2016,Number,"Social sciences, journalism and information",M,53
+2016,Number,Business administration and the law,M,143
+2016,Number,"Natural sciences, mathematics and statistics",M,31
+2016,Number,Information and communication technologies,M,9
+2016,Number,"Engineering, manufacturing and construction",M,81
+2016,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,12
+2016,Number,Health and social protection,M,44
+2016,Number,Services,M,40
+2016,Number,Unknown,M,0
+2016,Number,Total,F,427
+2016,Number,Education,F,33
+2016,Number,Arts and humanities,F,70
+2016,Number,"Social sciences, journalism and information",F,45
+2016,Number,Business administration and the law,F,81
+2016,Number,"Natural sciences, mathematics and statistics",F,47
+2016,Number,Information and communication technologies,F,9
+2016,Number,"Engineering, manufacturing and construction",F,42
+2016,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,16
+2016,Number,Health and social protection,F,77
+2016,Number,Services,F,7
+2016,Number,Unknown,F,0
+2017,Number,Total,Both sexes,856
+2017,Number,Education,Both sexes,43
+2017,Number,Arts and humanities,Both sexes,171
+2017,Number,"Social sciences, journalism and information",Both sexes,66
+2017,Number,Business administration and the law,Both sexes,191
+2017,Number,"Natural sciences, mathematics and statistics",Both sexes,79
+2017,Number,Information and communication technologies,Both sexes,44
+2017,Number,"Engineering, manufacturing and construction",Both sexes,110
+2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,30
+2017,Number,Health and social protection,Both sexes,72
+2017,Number,Services,Both sexes,50
+2017,Number,Unknown,Both sexes,0
+2017,Number,Total,M,482
+2017,Number,Education,M,34
+2017,Number,Arts and humanities,M,81
+2017,Number,"Social sciences, journalism and information",M,38
+2017,Number,Business administration and the law,M,117
+2017,Number,"Natural sciences, mathematics and statistics",M,31
+2017,Number,Information and communication technologies,M,33
+2017,Number,"Engineering, manufacturing and construction",M,74
+2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,8
+2017,Number,Health and social protection,M,26
+2017,Number,Services,M,40
+2017,Number,Unknown,M,0
+2017,Number,Total,F,374
+2017,Number,Education,F,9
+2017,Number,Arts and humanities,F,90
+2017,Number,"Social sciences, journalism and information",F,28
+2017,Number,Business administration and the law,F,74
+2017,Number,"Natural sciences, mathematics and statistics",F,48
+2017,Number,Information and communication technologies,F,11
+2017,Number,"Engineering, manufacturing and construction",F,36
+2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,22
+2017,Number,Health and social protection,F,46
+2017,Number,Services,F,10
+2017,Number,Unknown,F,0
 2018,Number,Total,Both sexes,981
 2018,Number,Education,Both sexes,36
 2018,Number,Arts and humanities,Both sexes,108
