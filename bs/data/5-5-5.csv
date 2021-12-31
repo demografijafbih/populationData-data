@@ -1,4 +1,148 @@
 Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
+2014,Broj,Ukupno,Oba spola,11333
+2014,Broj,Obrazovanje,Oba spola,1199
+2014,Broj,Umjetnost i humanističke nauke,Oba spola,1393
+2014,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,2491
+2014,Broj,"Poslovanje, administracija i pravo",Oba spola,1674
+2014,Broj,"Prirodne nauke, matematika i statistika",Oba spola,593
+2014,Broj,Informacijske i komunikacijske tehnologije,Oba spola,286
+2014,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,1516
+2014,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,539
+2014,Broj,Zdravstvo i socijalna zaštita,Oba spola,961
+2014,Broj,Usluge,Oba spola,586
+2014,Broj,Nepoznato,Oba spola,95
+2014,Broj,Ukupno,M,4494
+2014,Broj,Obrazovanje,M,313
+2014,Broj,Umjetnost i humanističke nauke,M,470
+2014,Broj,"Društvene nauke, novinarstvo i informiranje",M,968
+2014,Broj,"Poslovanje, administracija i pravo",M,625
+2014,Broj,"Prirodne nauke, matematika i statistika",M,175
+2014,Broj,Informacijske i komunikacijske tehnologije,M,176
+2014,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,965
+2014,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,248
+2014,Broj,Zdravstvo i socijalna zaštita,M,189
+2014,Broj,Usluge,M,334
+2014,Broj,Nepoznato,M,31
+2014,Broj,Ukupno,Ž,6839
+2014,Broj,Obrazovanje,Ž,886
+2014,Broj,Umjetnost i humanističke nauke,Ž,923
+2014,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,1523
+2014,Broj,"Poslovanje, administracija i pravo",Ž,1049
+2014,Broj,"Prirodne nauke, matematika i statistika",Ž,418
+2014,Broj,Informacijske i komunikacijske tehnologije,Ž,110
+2014,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,551
+2014,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,291
+2014,Broj,Zdravstvo i socijalna zaštita,Ž,772
+2014,Broj,Usluge,Ž,252
+2014,Broj,Nepoznato,Ž,64
+2015,Broj,Ukupno,Oba spola,12062
+2015,Broj,Obrazovanje,Oba spola,910
+2015,Broj,Umjetnost i humanističke nauke,Oba spola,1407
+2015,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,2674
+2015,Broj,"Poslovanje, administracija i pravo",Oba spola,2158
+2015,Broj,"Prirodne nauke, matematika i statistika",Oba spola,659
+2015,Broj,Informacijske i komunikacijske tehnologije,Oba spola,332
+2015,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,1827
+2015,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,585
+2015,Broj,Zdravstvo i socijalna zaštita,Oba spola,905
+2015,Broj,Usluge,Oba spola,574
+2015,Broj,Nepoznato,Oba spola,31
+2015,Broj,Ukupno,M,4717
+2015,Broj,Obrazovanje,M,245
+2015,Broj,Umjetnost i humanističke nauke,M,438
+2015,Broj,"Društvene nauke, novinarstvo i informiranje",M,1031
+2015,Broj,"Poslovanje, administracija i pravo",M,723
+2015,Broj,"Prirodne nauke, matematika i statistika",M,182
+2015,Broj,Informacijske i komunikacijske tehnologije,M,224
+2015,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,1128
+2015,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,257
+2015,Broj,Zdravstvo i socijalna zaštita,M,172
+2015,Broj,Usluge,M,308
+2015,Broj,Nepoznato,M,9
+2015,Broj,Ukupno,Ž,7345
+2015,Broj,Obrazovanje,Ž,665
+2015,Broj,Umjetnost i humanističke nauke,Ž,969
+2015,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,1643
+2015,Broj,"Poslovanje, administracija i pravo",Ž,1435
+2015,Broj,"Prirodne nauke, matematika i statistika",Ž,477
+2015,Broj,Informacijske i komunikacijske tehnologije,Ž,108
+2015,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,699
+2015,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,328
+2015,Broj,Zdravstvo i socijalna zaštita,Ž,733
+2015,Broj,Usluge,Ž,266
+2015,Broj,Nepoznato,Ž,22
+2016,Broj,Ukupno,Oba spola,11604
+2016,Broj,Obrazovanje,Oba spola,900
+2016,Broj,Umjetnost i humanističke nauke,Oba spola,1399
+2016,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,1839
+2016,Broj,"Poslovanje, administracija i pravo",Oba spola,2676
+2016,Broj,"Prirodne nauke, matematika i statistika",Oba spola,724
+2016,Broj,Informacijske i komunikacijske tehnologije,Oba spola,510
+2016,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,1626
+2016,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,566
+2016,Broj,Zdravstvo i socijalna zaštita,Oba spola,859
+2016,Broj,Usluge,Oba spola,454
+2016,Broj,Nepoznato,Oba spola,51
+2016,Broj,Ukupno,M,4655
+2016,Broj,Obrazovanje,M,275
+2016,Broj,Umjetnost i humanističke nauke,M,448
+2016,Broj,"Društvene nauke, novinarstvo i informiranje",M,704
+2016,Broj,"Poslovanje, administracija i pravo",M,971
+2016,Broj,"Prirodne nauke, matematika i statistika",M,215
+2016,Broj,Informacijske i komunikacijske tehnologije,M,351
+2016,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,978
+2016,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,267
+2016,Broj,Zdravstvo i socijalna zaštita,M,204
+2016,Broj,Usluge,M,218
+2016,Broj,Nepoznato,M,24
+2016,Broj,Ukupno,Ž,6949
+2016,Broj,Obrazovanje,Ž,625
+2016,Broj,Umjetnost i humanističke nauke,Ž,951
+2016,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,1135
+2016,Broj,"Poslovanje, administracija i pravo",Ž,1705
+2016,Broj,"Prirodne nauke, matematika i statistika",Ž,509
+2016,Broj,Informacijske i komunikacijske tehnologije,Ž,159
+2016,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,648
+2016,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,299
+2016,Broj,Zdravstvo i socijalna zaštita,Ž,655
+2016,Broj,Usluge,Ž,236
+2016,Broj,Nepoznato,Ž,27
+2017,Broj,Ukupno,Oba spola,11360
+2017,Broj,Obrazovanje,Oba spola,838
+2017,Broj,Umjetnost i humanističke nauke,Oba spola,1336
+2017,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,1767
+2017,Broj,"Poslovanje, administracija i pravo",Oba spola,2456
+2017,Broj,"Prirodne nauke, matematika i statistika",Oba spola,656
+2017,Broj,Informacijske i komunikacijske tehnologije,Oba spola,494
+2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,1763
+2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,595
+2017,Broj,Zdravstvo i socijalna zaštita,Oba spola,786
+2017,Broj,Usluge,Oba spola,517
+2017,Broj,Nepoznato,Oba spola,152
+2017,Broj,Ukupno,M,4471
+2017,Broj,Obrazovanje,M,206
+2017,Broj,Umjetnost i humanističke nauke,M,394
+2017,Broj,"Društvene nauke, novinarstvo i informiranje",M,662
+2017,Broj,"Poslovanje, administracija i pravo",M,876
+2017,Broj,"Prirodne nauke, matematika i statistika",M,169
+2017,Broj,Informacijske i komunikacijske tehnologije,M,331
+2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,1070
+2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,269
+2017,Broj,Zdravstvo i socijalna zaštita,M,174
+2017,Broj,Usluge,M,280
+2017,Broj,Nepoznato,M,40
+2017,Broj,Ukupno,Ž,6889
+2017,Broj,Obrazovanje,Ž,632
+2017,Broj,Umjetnost i humanističke nauke,Ž,942
+2017,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,1105
+2017,Broj,"Poslovanje, administracija i pravo",Ž,1580
+2017,Broj,"Prirodne nauke, matematika i statistika",Ž,487
+2017,Broj,Informacijske i komunikacijske tehnologije,Ž,163
+2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,693
+2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,326
+2017,Broj,Zdravstvo i socijalna zaštita,Ž,612
+2017,Broj,Usluge,Ž,237
+2017,Broj,Nepoznato,Ž,112
 2018,Broj,Ukupno,Oba spola,12083
 2018,Broj,Obrazovanje,Oba spola,1188
 2018,Broj,Umjetnost i humanističke nauke,Oba spola,1348
