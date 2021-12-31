@@ -25,9 +25,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "employees",
-                "self_employed",
-                "unpaid_family_workers",
+                "Запосленици",
+                "Самозапосленици",
+                "Неплаћени помажући чланови",
                 ""
               ]
             },
