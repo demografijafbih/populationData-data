@@ -19,7 +19,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 _%,% of total,% od ukupno,% од укупно,% od ukupno,995,13
 Age,Age,Starosna dob,Старосна доб,Starosna dob,10,5
 BAM,BAM,BAM,BAM,BAM,2,2
-boys_to_girls,Number of boys to 100 girls,Broj dječaka na 100 djevojčica,Број дјечака на 100 ђевојчица,Broj dječaka na 100 djevojčica,1,1
+boys_to_girls,Number of boys to 100 girls,Broj dječaka na 100 djevojčica,Број дјечака на 100 дјевојчица,Broj dječaka na 100 djevojčica,1,1
 children_pre_woman,Number of children born per woman during reproductive years (15-49),Broj živorođene djece po jednoj ženi u fertilnom periodu (15-49),Број живорођене дјеце по једној жени у фертилном периоду (15-49),Broj živorođene djece po jednoj ženi u fertilnom periodu (15-49),10,2
 crude_death_rate_1000,Number per 1000 population,Broj na 1.000 stanovnika,Број на 1.000 становника,Broj na 1.000 stanovnika,1,1
 EUR,EUR,EUR,EUR,EUR,2,2
