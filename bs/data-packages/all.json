@@ -3791,7 +3791,7 @@
           }
         ]
       },
-      "title": "Broj doktora medicine specijalista zaposlenih u ustanovama za pružanje zdravstvene zaštite na 100.000 stanovnika"
+      "title": "global_indicators.3-5-9-title"
     },
     {
       "path": "5-3-1/data.csv",
@@ -3891,7 +3891,7 @@
           }
         ]
       },
-      "title": "Broj doktora medicine specijalista zaposlenih u ustanovama za pružanje zdravstvene zaštite"
+      "title": "Broj medicinskih tehničara zaposlenih u ustanovama za pružanje zdravstvene zaštite"
     },
     {
       "path": "6-1-3/data.csv",
