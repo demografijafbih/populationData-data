@@ -3791,7 +3791,7 @@
           }
         ]
       },
-      "title": "Specialist doctors employed in health care institutions per 100,000 population"
+      "title": "global_indicators.3-5-9-title"
     },
     {
       "path": "5-3-1/data.csv",
@@ -3891,7 +3891,7 @@
           }
         ]
       },
-      "title": "Specialist doctors employed in health care institutions"
+      "title": "Nurses employed in health care institutions"
     },
     {
       "path": "6-1-3/data.csv",
