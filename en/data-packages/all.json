@@ -922,7 +922,7 @@
           }
         ]
       },
-      "title": "Family medicine doctors employed in health care institutions per 100,000 population"
+      "title": "Midwives employed in health care institutions"
     },
     {
       "path": "3-6-4/data.csv",
@@ -2374,7 +2374,7 @@
           }
         ]
       },
-      "title": "Family medicine doctors employed in health care institutions"
+      "title": "Family medicine doctors employed in health care institutions per 100,000 population"
     },
     {
       "path": "5-5-7/data.csv",
@@ -3720,7 +3720,7 @@
           }
         ]
       },
-      "title": "Medical doctors employed in health care institutions per 100,000 population"
+      "title": "Family medicine doctors employed in health care institutions"
     },
     {
       "path": "5-3-5/data.csv",
@@ -3891,7 +3891,7 @@
           }
         ]
       },
-      "title": "Nurses employed in health care institutions"
+      "title": "global_indicators.3-5-8-title"
     },
     {
       "path": "6-1-3/data.csv",
@@ -4261,7 +4261,7 @@
           }
         ]
       },
-      "title": "Midwives employed in health care institutions"
+      "title": "Nurses employed in health care institutions"
     },
     {
       "path": "5-7-3/data.csv",
