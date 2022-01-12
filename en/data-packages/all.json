@@ -935,7 +935,7 @@
           }
         ]
       },
-      "title": "Midwives employed in health care institutions"
+      "title": "Nurses employed in health care institutions"
     },
     {
       "path": "3-6-4/data.csv",
@@ -4216,7 +4216,7 @@
           }
         ]
       },
-      "title": "Nurses employed in health care institutions"
+      "title": "global_indicators.3-5-7-title"
     },
     {
       "path": "5-7-3/data.csv",
@@ -5652,7 +5652,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-5-title"
+      "title": "Midwives employed in health care institutions"
     },
     {
       "path": "3-5-4/data.csv",
