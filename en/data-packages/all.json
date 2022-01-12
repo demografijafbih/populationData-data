@@ -909,35 +909,6 @@
       "title": "Marriages"
     },
     {
-      "path": "3-5-6/data.csv",
-      "name": "3-5-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Nurses employed in health care institutions"
-    },
-    {
       "path": "3-6-4/data.csv",
       "name": "3-6-4",
       "profile": "tabular-data-resource",
@@ -2359,6 +2330,35 @@
         ]
       },
       "title": "Contraceptive prevalence rate"
+    },
+    {
+      "path": "3-5-5/data.csv",
+      "name": "3-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Midwives employed in health care institutions"
     },
     {
       "path": "5-5-7/data.csv",
@@ -4161,35 +4161,6 @@
       "title": "Population by age groups and sex"
     },
     {
-      "path": "3-5-7/data.csv",
-      "name": "3-5-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "global_indicators.3-5-7-title"
-    },
-    {
       "path": "5-7-3/data.csv",
       "name": "5-7-3",
       "profile": "tabular-data-resource",
@@ -5602,8 +5573,8 @@
       "title": "Total fertility rate"
     },
     {
-      "path": "3-5-5/data.csv",
-      "name": "3-5-5",
+      "path": "3-5-7/data.csv",
+      "name": "3-5-7",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -5623,7 +5594,7 @@
           }
         ]
       },
-      "title": "Midwives employed in health care institutions"
+      "title": "global_indicators.3-5-7-title"
     },
     {
       "path": "3-5-4/data.csv",
@@ -5648,6 +5619,30 @@
         ]
       },
       "title": "Obstetricians and gynaecologists employed in health care institutions"
+    },
+    {
+      "path": "3-5-6/data.csv",
+      "name": "3-5-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Nurses employed in health care institutions"
     },
     {
       "path": "3-5-9/data.csv",
