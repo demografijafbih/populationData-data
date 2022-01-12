@@ -5185,28 +5185,6 @@
         ]
       },
       "title": "global_indicators.3-5-6-title"
-    },
-    {
-      "path": "3-5-9/data.csv",
-      "name": "3-5-9",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-5-9-title"
     }
   ]
 }
