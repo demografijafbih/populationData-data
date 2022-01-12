@@ -3694,35 +3694,6 @@
       "title": "Stopa prirodnog rasta"
     },
     {
-      "path": "3-5-4/data.csv",
-      "name": "3-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Broj doktora medicine zaposlenih u ustanovama za pružanje zdravstvene zaštite na 100-000 stanovnika"
-    },
-    {
       "path": "5-3-5/data.csv",
       "name": "5-3-5",
       "profile": "tabular-data-resource",
@@ -5674,6 +5645,30 @@
         ]
       },
       "title": "Stopa ukupnog fertiliteta"
+    },
+    {
+      "path": "3-5-4/data.csv",
+      "name": "3-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Broj doktora medicine zaposlenih u ustanovama za pružanje zdravstvene zaštite na 100-000 stanovnika"
     }
   ]
 }
