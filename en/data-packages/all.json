@@ -3720,35 +3720,6 @@
       "title": "Teachers in high schools by sex"
     },
     {
-      "path": "3-5-9/data.csv",
-      "name": "3-5-9",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "global_indicators.3-5-9-title"
-    },
-    {
       "path": "5-3-1/data.csv",
       "name": "5-3-1",
       "profile": "tabular-data-resource",
@@ -5677,6 +5648,30 @@
         ]
       },
       "title": "Obstetricians and gynaecologists employed in health care institutions"
+    },
+    {
+      "path": "3-5-9/data.csv",
+      "name": "3-5-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "global_indicators.3-5-9-title"
     }
   ]
 }
