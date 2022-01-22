@@ -44,18 +44,17 @@
             "constraints": {
               "enum": [
                 "",
-                "Agriculture, forestry, fisheries and veterinary medicine",
-                "Arts and humanities",
-                "Business administration and the law",
+                "TOTAL",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine: ",
+                "business,_administration_and_law",
                 "Education",
-                "Engineering, manufacturing and construction",
+                "engineering,_production_and_construction",
                 "Health and social protection",
-                "Information and communication technologies",
-                "Natural sciences, mathematics and statistics",
+                "humanities_and_arts",
+                "information_and_communication_technologie",
+                "natural_sciences,_mathematics_and_statistics",
                 "Services",
-                "Social sciences, journalism and information",
-                "Total",
-                "Unknown"
+                "social_sciences,_journalism_and_information"
               ]
             },
             "title": "Type of education"
