@@ -3270,17 +3270,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
+                "Ukupno",
                 "Obrazovanje",
-                "humanities_and_arts",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
-                "information_and_communication_technologie",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine: ",
+                "Umjetnost i humanističke nauke",
+                "Društvene nauke, novinarstvo i informiranje",
+                "Poslovanje, administracija i pravo",
+                "Prirodne nauke, matematika i statistika",
+                "Informacijske i komunikacijske tehnologije",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
                 "Zdravstvo i socijalna zaštita",
                 "Usluge",
+                "Nepoznato",
                 ""
               ]
             },
