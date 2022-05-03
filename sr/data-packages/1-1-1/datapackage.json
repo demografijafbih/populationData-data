@@ -21,13 +21,11 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "population_sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "Оба пола",
-                "M",
-                "Ж",
                 ""
               ]
             },
@@ -39,8 +37,6 @@
             "constraints": {
               "enum": [
                 "Живорођени",
-                "Умрли",
-                "Природни прираштај",
                 ""
               ]
             },

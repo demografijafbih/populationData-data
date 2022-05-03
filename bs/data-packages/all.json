@@ -2769,13 +2769,11 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "population_sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "Oba spola",
-                "M",
-                "Ž",
                 ""
               ]
             },
@@ -2787,8 +2785,6 @@
             "constraints": {
               "enum": [
                 "Živorođeni",
-                "Umrli",
-                "Prirodni priraštaj",
                 ""
               ]
             },

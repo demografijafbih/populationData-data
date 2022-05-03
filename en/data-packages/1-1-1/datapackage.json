@@ -16,12 +16,21 @@
             "constraints": {
               "enum": [
                 "",
-                "Deaths",
-                "Live births",
-                "Natural change"
+                "Live births"
               ]
             },
             "title": "Vital statistics"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -37,19 +46,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "population_sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
           }
         ]
       }

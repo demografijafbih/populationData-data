@@ -2530,13 +2530,11 @@
             "type": "string"
           },
           {
-            "name": "population_sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "_T",
-                "M",
-                "F",
                 ""
               ]
             }
@@ -2547,8 +2545,6 @@
             "constraints": {
               "enum": [
                 "LIVE_BIRTH",
-                "DEATHS",
-                "NATURAL_CHANGE",
                 ""
               ]
             }
