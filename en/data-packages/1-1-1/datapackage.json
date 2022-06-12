@@ -11,12 +11,35 @@
       "schema": {
         "fields": [
           {
+            "name": "Admin Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "bosnian-podrinje_canton",
+                "canton_10",
+                "central_bosnia_canton",
+                "federation_of_bih",
+                "herzegovina-neretva_canton",
+                "posavina_canton",
+                "sarajevo_canton",
+                "tuzla_canton",
+                "una-sana_canton",
+                "west_herzegovina_canton",
+                "zenica-doboj_canton"
+              ]
+            },
+            "title": "Admin Area"
+          },
+          {
             "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Live births"
+                "Deaths",
+                "Live births",
+                "Natural change"
               ]
             },
             "title": "Vital statistics"
@@ -27,6 +50,8 @@
             "constraints": {
               "enum": [
                 "",
+                "F",
+                "M",
                 "Both sexes"
               ]
             },
@@ -39,7 +64,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {

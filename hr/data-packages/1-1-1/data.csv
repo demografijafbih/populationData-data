@@ -1,11 +1,991 @@
-Year,UNIT_MEASURE,Spol,Vitalna statistika,Value
-2011,Broj,Oba spola,Živorođeni,21161
-2012,Broj,Oba spola,Živorođeni,21389
-2013,Broj,Oba spola,Živorođeni,20083
-2014,Broj,Oba spola,Živorođeni,19823
-2015,Broj,Oba spola,Živorođeni,19317
-2016,Broj,Oba spola,Živorođeni,19655
-2017,Broj,Oba spola,Živorođeni,19824
-2018,Broj,Oba spola,Živorođeni,18899
-2019,Broj,Oba spola,Živorođeni,18019
-2020,Broj,Oba spola,Živorođeni,17211
+Year,UNIT_MEASURE,Spol,Admin Area,Vitalna statistika,Value
+2011,Broj,Oba spola,federation_of_bih,Živorođeni,21161.0
+2011,Broj,Oba spola,una-sana_canton,Živorođeni,2496.0
+2011,Broj,Oba spola,posavina_canton,Živorođeni,228.0
+2011,Broj,Oba spola,tuzla_canton,Živorođeni,4417.0
+2011,Broj,Oba spola,zenica-doboj_canton,Živorođeni,3760.0
+2011,Broj,Oba spola,bosnian-podrinje_canton,Živorođeni,191.0
+2011,Broj,Oba spola,central_bosnia_canton,Živorođeni,2300.0
+2011,Broj,Oba spola,herzegovina-neretva_canton,Živorođeni,1817.0
+2011,Broj,Oba spola,west_herzegovina_canton,Živorođeni,772.0
+2011,Broj,Oba spola,sarajevo_canton,Živorođeni,4722.0
+2011,Broj,Oba spola,canton_10,Živorođeni,458.0
+2011,Broj,M,federation_of_bih,Živorođeni,10981.0
+2011,Broj,M,una-sana_canton,Živorođeni,1312.0
+2011,Broj,M,posavina_canton,Živorođeni,112.0
+2011,Broj,M,tuzla_canton,Živorođeni,2305.0
+2011,Broj,M,zenica-doboj_canton,Živorođeni,1945.0
+2011,Broj,M,bosnian-podrinje_canton,Živorođeni,99.0
+2011,Broj,M,central_bosnia_canton,Živorođeni,1219.0
+2011,Broj,M,herzegovina-neretva_canton,Živorođeni,946.0
+2011,Broj,M,west_herzegovina_canton,Živorođeni,401.0
+2011,Broj,M,sarajevo_canton,Živorođeni,2411.0
+2011,Broj,M,canton_10,Živorođeni,231.0
+2011,Broj,Ž,federation_of_bih,Živorođeni,10180.0
+2011,Broj,Ž,una-sana_canton,Živorođeni,1184.0
+2011,Broj,Ž,posavina_canton,Živorođeni,116.0
+2011,Broj,Ž,tuzla_canton,Živorođeni,2112.0
+2011,Broj,Ž,zenica-doboj_canton,Živorođeni,1815.0
+2011,Broj,Ž,bosnian-podrinje_canton,Živorođeni,92.0
+2011,Broj,Ž,central_bosnia_canton,Živorođeni,1081.0
+2011,Broj,Ž,herzegovina-neretva_canton,Živorođeni,871.0
+2011,Broj,Ž,west_herzegovina_canton,Živorođeni,371.0
+2011,Broj,Ž,sarajevo_canton,Živorođeni,2311.0
+2011,Broj,Ž,canton_10,Živorođeni,227.0
+2012,Broj,Oba spola,federation_of_bih,Živorođeni,21389.0
+2012,Broj,Oba spola,una-sana_canton,Živorođeni,2351.0
+2012,Broj,Oba spola,posavina_canton,Živorođeni,220.0
+2012,Broj,Oba spola,tuzla_canton,Živorođeni,4587.0
+2012,Broj,Oba spola,zenica-doboj_canton,Živorođeni,3807.0
+2012,Broj,Oba spola,bosnian-podrinje_canton,Živorođeni,216.0
+2012,Broj,Oba spola,central_bosnia_canton,Živorođeni,2361.0
+2012,Broj,Oba spola,herzegovina-neretva_canton,Živorođeni,1901.0
+2012,Broj,Oba spola,west_herzegovina_canton,Živorođeni,798.0
+2012,Broj,Oba spola,sarajevo_canton,Živorođeni,4682.0
+2012,Broj,Oba spola,canton_10,Živorođeni,466.0
+2012,Broj,M,federation_of_bih,Živorođeni,11110.0
+2012,Broj,M,una-sana_canton,Živorođeni,1227.0
+2012,Broj,M,posavina_canton,Živorođeni,125.0
+2012,Broj,M,tuzla_canton,Živorođeni,2351.0
+2012,Broj,M,zenica-doboj_canton,Živorođeni,1995.0
+2012,Broj,M,bosnian-podrinje_canton,Živorođeni,121.0
+2012,Broj,M,central_bosnia_canton,Živorođeni,1207.0
+2012,Broj,M,herzegovina-neretva_canton,Živorođeni,985.0
+2012,Broj,M,west_herzegovina_canton,Živorođeni,397.0
+2012,Broj,M,sarajevo_canton,Živorođeni,2465.0
+2012,Broj,M,canton_10,Živorođeni,237.0
+2012,Broj,Ž,federation_of_bih,Živorođeni,10279.0
+2012,Broj,Ž,una-sana_canton,Živorođeni,1124.0
+2012,Broj,Ž,posavina_canton,Živorođeni,95.0
+2012,Broj,Ž,tuzla_canton,Živorođeni,2236.0
+2012,Broj,Ž,zenica-doboj_canton,Živorođeni,1812.0
+2012,Broj,Ž,bosnian-podrinje_canton,Živorođeni,95.0
+2012,Broj,Ž,central_bosnia_canton,Živorođeni,1154.0
+2012,Broj,Ž,herzegovina-neretva_canton,Živorođeni,916.0
+2012,Broj,Ž,west_herzegovina_canton,Živorođeni,401.0
+2012,Broj,Ž,sarajevo_canton,Živorođeni,2217.0
+2012,Broj,Ž,canton_10,Živorođeni,229.0
+2013,Broj,Oba spola,federation_of_bih,Živorođeni,20083.0
+2013,Broj,Oba spola,una-sana_canton,Živorođeni,2174.0
+2013,Broj,Oba spola,posavina_canton,Živorođeni,167.0
+2013,Broj,Oba spola,tuzla_canton,Živorođeni,4323.0
+2013,Broj,Oba spola,zenica-doboj_canton,Živorođeni,3416.0
+2013,Broj,Oba spola,bosnian-podrinje_canton,Živorođeni,236.0
+2013,Broj,Oba spola,central_bosnia_canton,Živorođeni,2184.0
+2013,Broj,Oba spola,herzegovina-neretva_canton,Živorođeni,1831.0
+2013,Broj,Oba spola,west_herzegovina_canton,Živorođeni,773.0
+2013,Broj,Oba spola,sarajevo_canton,Živorođeni,4550.0
+2013,Broj,Oba spola,canton_10,Živorođeni,429.0
+2013,Broj,M,federation_of_bih,Živorođeni,10358.0
+2013,Broj,M,una-sana_canton,Živorođeni,1108.0
+2013,Broj,M,posavina_canton,Živorođeni,85.0
+2013,Broj,M,tuzla_canton,Živorođeni,2243.0
+2013,Broj,M,zenica-doboj_canton,Živorođeni,1799.0
+2013,Broj,M,bosnian-podrinje_canton,Živorođeni,132.0
+2013,Broj,M,central_bosnia_canton,Živorođeni,1126.0
+2013,Broj,M,herzegovina-neretva_canton,Živorođeni,939.0
+2013,Broj,M,west_herzegovina_canton,Živorođeni,399.0
+2013,Broj,M,sarajevo_canton,Živorođeni,2305.0
+2013,Broj,M,canton_10,Živorođeni,222.0
+2013,Broj,Ž,federation_of_bih,Živorođeni,9725.0
+2013,Broj,Ž,una-sana_canton,Živorođeni,1066.0
+2013,Broj,Ž,posavina_canton,Živorođeni,82.0
+2013,Broj,Ž,tuzla_canton,Živorođeni,2080.0
+2013,Broj,Ž,zenica-doboj_canton,Živorođeni,1617.0
+2013,Broj,Ž,bosnian-podrinje_canton,Živorođeni,104.0
+2013,Broj,Ž,central_bosnia_canton,Živorođeni,1058.0
+2013,Broj,Ž,herzegovina-neretva_canton,Živorođeni,892.0
+2013,Broj,Ž,west_herzegovina_canton,Živorođeni,374.0
+2013,Broj,Ž,sarajevo_canton,Živorođeni,2245.0
+2013,Broj,Ž,canton_10,Živorođeni,207.0
+2014,Broj,Oba spola,federation_of_bih,Živorođeni,19823.0
+2014,Broj,Oba spola,una-sana_canton,Živorođeni,2154.0
+2014,Broj,Oba spola,posavina_canton,Živorođeni,212.0
+2014,Broj,Oba spola,tuzla_canton,Živorođeni,4069.0
+2014,Broj,Oba spola,zenica-doboj_canton,Živorođeni,3391.0
+2014,Broj,Oba spola,bosnian-podrinje_canton,Živorođeni,268.0
+2014,Broj,Oba spola,central_bosnia_canton,Živorođeni,2090.0
+2014,Broj,Oba spola,herzegovina-neretva_canton,Živorođeni,1824.0
+2014,Broj,Oba spola,west_herzegovina_canton,Živorođeni,816.0
+2014,Broj,Oba spola,sarajevo_canton,Živorođeni,4566.0
+2014,Broj,Oba spola,canton_10,Živorođeni,433.0
+2014,Broj,M,federation_of_bih,Živorođeni,10156.0
+2014,Broj,M,una-sana_canton,Živorođeni,1112.0
+2014,Broj,M,posavina_canton,Živorođeni,107.0
+2014,Broj,M,tuzla_canton,Živorođeni,2091.0
+2014,Broj,M,zenica-doboj_canton,Živorođeni,1724.0
+2014,Broj,M,bosnian-podrinje_canton,Živorođeni,134.0
+2014,Broj,M,central_bosnia_canton,Živorođeni,1088.0
+2014,Broj,M,herzegovina-neretva_canton,Živorođeni,921.0
+2014,Broj,M,west_herzegovina_canton,Živorođeni,403.0
+2014,Broj,M,sarajevo_canton,Živorođeni,2355.0
+2014,Broj,M,canton_10,Živorođeni,221.0
+2014,Broj,Ž,federation_of_bih,Živorođeni,9667.0
+2014,Broj,Ž,una-sana_canton,Živorođeni,1042.0
+2014,Broj,Ž,posavina_canton,Živorođeni,105.0
+2014,Broj,Ž,tuzla_canton,Živorođeni,1978.0
+2014,Broj,Ž,zenica-doboj_canton,Živorođeni,1667.0
+2014,Broj,Ž,bosnian-podrinje_canton,Živorođeni,134.0
+2014,Broj,Ž,central_bosnia_canton,Živorođeni,1002.0
+2014,Broj,Ž,herzegovina-neretva_canton,Živorođeni,903.0
+2014,Broj,Ž,west_herzegovina_canton,Živorođeni,413.0
+2014,Broj,Ž,sarajevo_canton,Živorođeni,2211.0
+2014,Broj,Ž,canton_10,Živorođeni,212.0
+2015,Broj,Oba spola,federation_of_bih,Živorođeni,19317.0
+2015,Broj,Oba spola,una-sana_canton,Živorođeni,2096.0
+2015,Broj,Oba spola,posavina_canton,Živorođeni,193.0
+2015,Broj,Oba spola,tuzla_canton,Živorođeni,3888.0
+2015,Broj,Oba spola,zenica-doboj_canton,Živorođeni,3438.0
+2015,Broj,Oba spola,bosnian-podrinje_canton,Živorođeni,214.0
+2015,Broj,Oba spola,central_bosnia_canton,Živorođeni,1965.0
+2015,Broj,Oba spola,herzegovina-neretva_canton,Živorođeni,1762.0
+2015,Broj,Oba spola,west_herzegovina_canton,Živorođeni,734.0
+2015,Broj,Oba spola,sarajevo_canton,Živorođeni,4619.0
+2015,Broj,Oba spola,canton_10,Živorođeni,408.0
+2015,Broj,M,federation_of_bih,Živorođeni,9868.0
+2015,Broj,M,una-sana_canton,Živorođeni,1098.0
+2015,Broj,M,posavina_canton,Živorođeni,108.0
+2015,Broj,M,tuzla_canton,Živorođeni,1919.0
+2015,Broj,M,zenica-doboj_canton,Živorođeni,1782.0
+2015,Broj,M,bosnian-podrinje_canton,Živorođeni,114.0
+2015,Broj,M,central_bosnia_canton,Živorođeni,1047.0
+2015,Broj,M,herzegovina-neretva_canton,Živorođeni,913.0
+2015,Broj,M,west_herzegovina_canton,Živorođeni,390.0
+2015,Broj,M,sarajevo_canton,Živorođeni,2304.0
+2015,Broj,M,canton_10,Živorođeni,193.0
+2015,Broj,Ž,federation_of_bih,Živorođeni,9449.0
+2015,Broj,Ž,una-sana_canton,Živorođeni,998.0
+2015,Broj,Ž,posavina_canton,Živorođeni,85.0
+2015,Broj,Ž,tuzla_canton,Živorođeni,1969.0
+2015,Broj,Ž,zenica-doboj_canton,Živorođeni,1656.0
+2015,Broj,Ž,bosnian-podrinje_canton,Živorođeni,100.0
+2015,Broj,Ž,central_bosnia_canton,Živorođeni,918.0
+2015,Broj,Ž,herzegovina-neretva_canton,Živorođeni,849.0
+2015,Broj,Ž,west_herzegovina_canton,Živorođeni,344.0
+2015,Broj,Ž,sarajevo_canton,Živorođeni,2315.0
+2015,Broj,Ž,canton_10,Živorođeni,215.0
+2016,Broj,Oba spola,federation_of_bih,Živorođeni,19655.0
+2016,Broj,Oba spola,una-sana_canton,Živorođeni,2105.0
+2016,Broj,Oba spola,posavina_canton,Živorođeni,144.0
+2016,Broj,Oba spola,tuzla_canton,Živorođeni,3903.0
+2016,Broj,Oba spola,zenica-doboj_canton,Živorođeni,3452.0
+2016,Broj,Oba spola,bosnian-podrinje_canton,Živorođeni,234.0
+2016,Broj,Oba spola,central_bosnia_canton,Živorođeni,2135.0
+2016,Broj,Oba spola,herzegovina-neretva_canton,Živorođeni,1833.0
+2016,Broj,Oba spola,west_herzegovina_canton,Živorođeni,709.0
+2016,Broj,Oba spola,sarajevo_canton,Živorođeni,4774.0
+2016,Broj,Oba spola,canton_10,Živorođeni,366.0
+2016,Broj,M,federation_of_bih,Živorođeni,10214.0
+2016,Broj,M,una-sana_canton,Živorođeni,1090.0
+2016,Broj,M,posavina_canton,Živorođeni,75.0
+2016,Broj,M,tuzla_canton,Živorođeni,1995.0
+2016,Broj,M,zenica-doboj_canton,Živorođeni,1816.0
+2016,Broj,M,bosnian-podrinje_canton,Živorođeni,131.0
+2016,Broj,M,central_bosnia_canton,Živorođeni,1106.0
+2016,Broj,M,herzegovina-neretva_canton,Živorođeni,915.0
+2016,Broj,M,west_herzegovina_canton,Živorođeni,371.0
+2016,Broj,M,sarajevo_canton,Živorođeni,2516.0
+2016,Broj,M,canton_10,Živorođeni,199.0
+2016,Broj,Ž,federation_of_bih,Živorođeni,9441.0
+2016,Broj,Ž,una-sana_canton,Živorođeni,1015.0
+2016,Broj,Ž,posavina_canton,Živorođeni,69.0
+2016,Broj,Ž,tuzla_canton,Živorođeni,1908.0
+2016,Broj,Ž,zenica-doboj_canton,Živorođeni,1636.0
+2016,Broj,Ž,bosnian-podrinje_canton,Živorođeni,103.0
+2016,Broj,Ž,central_bosnia_canton,Živorođeni,1029.0
+2016,Broj,Ž,herzegovina-neretva_canton,Živorođeni,918.0
+2016,Broj,Ž,west_herzegovina_canton,Živorođeni,338.0
+2016,Broj,Ž,sarajevo_canton,Živorođeni,2258.0
+2016,Broj,Ž,canton_10,Živorođeni,167.0
+2017,Broj,Oba spola,federation_of_bih,Živorođeni,19824.0
+2017,Broj,Oba spola,una-sana_canton,Živorođeni,2057.0
+2017,Broj,Oba spola,posavina_canton,Živorođeni,154.0
+2017,Broj,Oba spola,tuzla_canton,Živorođeni,3966.0
+2017,Broj,Oba spola,zenica-doboj_canton,Živorođeni,3585.0
+2017,Broj,Oba spola,bosnian-podrinje_canton,Živorođeni,241.0
+2017,Broj,Oba spola,central_bosnia_canton,Živorođeni,2167.0
+2017,Broj,Oba spola,herzegovina-neretva_canton,Živorođeni,1712.0
+2017,Broj,Oba spola,west_herzegovina_canton,Živorođeni,709.0
+2017,Broj,Oba spola,sarajevo_canton,Živorođeni,4856.0
+2017,Broj,Oba spola,canton_10,Živorođeni,377.0
+2017,Broj,M,federation_of_bih,Živorođeni,10247.0
+2017,Broj,M,una-sana_canton,Živorođeni,1051.0
+2017,Broj,M,posavina_canton,Živorođeni,75.0
+2017,Broj,M,tuzla_canton,Živorođeni,2036.0
+2017,Broj,M,zenica-doboj_canton,Živorođeni,1827.0
+2017,Broj,M,bosnian-podrinje_canton,Živorođeni,133.0
+2017,Broj,M,central_bosnia_canton,Živorođeni,1189.0
+2017,Broj,M,herzegovina-neretva_canton,Živorođeni,919.0
+2017,Broj,M,west_herzegovina_canton,Živorođeni,364.0
+2017,Broj,M,sarajevo_canton,Živorođeni,2459.0
+2017,Broj,M,canton_10,Živorođeni,194.0
+2017,Broj,Ž,federation_of_bih,Živorođeni,9577.0
+2017,Broj,Ž,una-sana_canton,Živorođeni,1006.0
+2017,Broj,Ž,posavina_canton,Živorođeni,79.0
+2017,Broj,Ž,tuzla_canton,Živorođeni,1930.0
+2017,Broj,Ž,zenica-doboj_canton,Živorođeni,1758.0
+2017,Broj,Ž,bosnian-podrinje_canton,Živorođeni,108.0
+2017,Broj,Ž,central_bosnia_canton,Živorođeni,978.0
+2017,Broj,Ž,herzegovina-neretva_canton,Živorođeni,793.0
+2017,Broj,Ž,west_herzegovina_canton,Živorođeni,345.0
+2017,Broj,Ž,sarajevo_canton,Živorođeni,2397.0
+2017,Broj,Ž,canton_10,Živorođeni,183.0
+2018,Broj,Oba spola,federation_of_bih,Živorođeni,18899.0
+2018,Broj,Oba spola,una-sana_canton,Živorođeni,1804.0
+2018,Broj,Oba spola,posavina_canton,Živorođeni,151.0
+2018,Broj,Oba spola,tuzla_canton,Živorođeni,3723.0
+2018,Broj,Oba spola,zenica-doboj_canton,Živorođeni,3488.0
+2018,Broj,Oba spola,bosnian-podrinje_canton,Živorođeni,240.0
+2018,Broj,Oba spola,central_bosnia_canton,Živorođeni,2040.0
+2018,Broj,Oba spola,herzegovina-neretva_canton,Živorođeni,1790.0
+2018,Broj,Oba spola,west_herzegovina_canton,Živorođeni,760.0
+2018,Broj,Oba spola,sarajevo_canton,Živorođeni,4530.0
+2018,Broj,Oba spola,canton_10,Živorođeni,373.0
+2018,Broj,M,federation_of_bih,Živorođeni,9742.0
+2018,Broj,M,una-sana_canton,Živorođeni,975.0
+2018,Broj,M,posavina_canton,Živorođeni,68.0
+2018,Broj,M,tuzla_canton,Živorođeni,1895.0
+2018,Broj,M,zenica-doboj_canton,Živorođeni,1760.0
+2018,Broj,M,bosnian-podrinje_canton,Živorođeni,125.0
+2018,Broj,M,central_bosnia_canton,Živorođeni,1059.0
+2018,Broj,M,herzegovina-neretva_canton,Živorođeni,914.0
+2018,Broj,M,west_herzegovina_canton,Živorođeni,397.0
+2018,Broj,M,sarajevo_canton,Živorođeni,2340.0
+2018,Broj,M,canton_10,Živorođeni,209.0
+2018,Broj,Ž,federation_of_bih,Živorođeni,9157.0
+2018,Broj,Ž,una-sana_canton,Živorođeni,829.0
+2018,Broj,Ž,posavina_canton,Živorođeni,83.0
+2018,Broj,Ž,tuzla_canton,Živorođeni,1828.0
+2018,Broj,Ž,zenica-doboj_canton,Živorođeni,1728.0
+2018,Broj,Ž,bosnian-podrinje_canton,Živorođeni,115.0
+2018,Broj,Ž,central_bosnia_canton,Živorođeni,981.0
+2018,Broj,Ž,herzegovina-neretva_canton,Živorođeni,876.0
+2018,Broj,Ž,west_herzegovina_canton,Živorođeni,363.0
+2018,Broj,Ž,sarajevo_canton,Živorođeni,2190.0
+2018,Broj,Ž,canton_10,Živorođeni,164.0
+2019,Broj,Oba spola,federation_of_bih,Živorođeni,18019.0
+2019,Broj,Oba spola,una-sana_canton,Živorođeni,1735.0
+2019,Broj,Oba spola,posavina_canton,Živorođeni,124.0
+2019,Broj,Oba spola,tuzla_canton,Živorođeni,3636.0
+2019,Broj,Oba spola,zenica-doboj_canton,Živorođeni,3337.0
+2019,Broj,Oba spola,bosnian-podrinje_canton,Živorođeni,200.0
+2019,Broj,Oba spola,central_bosnia_canton,Živorođeni,1929.0
+2019,Broj,Oba spola,herzegovina-neretva_canton,Živorođeni,1632.0
+2019,Broj,Oba spola,west_herzegovina_canton,Živorođeni,729.0
+2019,Broj,Oba spola,sarajevo_canton,Živorođeni,4339.0
+2019,Broj,Oba spola,canton_10,Živorođeni,358.0
+2019,Broj,M,federation_of_bih,Živorođeni,9342.0
+2019,Broj,M,una-sana_canton,Živorođeni,876.0
+2019,Broj,M,posavina_canton,Živorođeni,68.0
+2019,Broj,M,tuzla_canton,Živorođeni,1887.0
+2019,Broj,M,zenica-doboj_canton,Živorođeni,1733.0
+2019,Broj,M,bosnian-podrinje_canton,Živorođeni,100.0
+2019,Broj,M,central_bosnia_canton,Živorođeni,1041.0
+2019,Broj,M,herzegovina-neretva_canton,Živorođeni,823.0
+2019,Broj,M,west_herzegovina_canton,Živorođeni,381.0
+2019,Broj,M,sarajevo_canton,Živorođeni,2249.0
+2019,Broj,M,canton_10,Živorođeni,184.0
+2019,Broj,Ž,federation_of_bih,Živorođeni,8677.0
+2019,Broj,Ž,una-sana_canton,Živorođeni,859.0
+2019,Broj,Ž,posavina_canton,Živorođeni,56.0
+2019,Broj,Ž,tuzla_canton,Živorođeni,1749.0
+2019,Broj,Ž,zenica-doboj_canton,Živorođeni,1604.0
+2019,Broj,Ž,bosnian-podrinje_canton,Živorođeni,100.0
+2019,Broj,Ž,central_bosnia_canton,Živorođeni,888.0
+2019,Broj,Ž,herzegovina-neretva_canton,Živorođeni,809.0
+2019,Broj,Ž,west_herzegovina_canton,Živorođeni,348.0
+2019,Broj,Ž,sarajevo_canton,Živorođeni,2090.0
+2019,Broj,Ž,canton_10,Živorođeni,174.0
+2020,Broj,Oba spola,federation_of_bih,Živorođeni,17211.0
+2020,Broj,Oba spola,una-sana_canton,Živorođeni,1552.0
+2020,Broj,Oba spola,posavina_canton,Živorođeni,128.0
+2020,Broj,Oba spola,tuzla_canton,Živorođeni,3425.0
+2020,Broj,Oba spola,zenica-doboj_canton,Živorođeni,3259.0
+2020,Broj,Oba spola,bosnian-podrinje_canton,Živorođeni,173.0
+2020,Broj,Oba spola,central_bosnia_canton,Živorođeni,1854.0
+2020,Broj,Oba spola,herzegovina-neretva_canton,Živorođeni,1532.0
+2020,Broj,Oba spola,west_herzegovina_canton,Živorođeni,756.0
+2020,Broj,Oba spola,sarajevo_canton,Živorođeni,4206.0
+2020,Broj,Oba spola,canton_10,Živorođeni,326.0
+2020,Broj,M,federation_of_bih,Živorođeni,8901.0
+2020,Broj,M,una-sana_canton,Živorođeni,808.0
+2020,Broj,M,posavina_canton,Živorođeni,69.0
+2020,Broj,M,tuzla_canton,Živorođeni,1775.0
+2020,Broj,M,zenica-doboj_canton,Živorođeni,1683.0
+2020,Broj,M,bosnian-podrinje_canton,Živorođeni,88.0
+2020,Broj,M,central_bosnia_canton,Živorođeni,978.0
+2020,Broj,M,herzegovina-neretva_canton,Živorođeni,805.0
+2020,Broj,M,west_herzegovina_canton,Živorođeni,373.0
+2020,Broj,M,sarajevo_canton,Živorođeni,2164.0
+2020,Broj,M,canton_10,Živorođeni,158.0
+2020,Broj,Ž,federation_of_bih,Živorođeni,8310.0
+2020,Broj,Ž,una-sana_canton,Živorođeni,744.0
+2020,Broj,Ž,posavina_canton,Živorođeni,59.0
+2020,Broj,Ž,tuzla_canton,Živorođeni,1650.0
+2020,Broj,Ž,zenica-doboj_canton,Živorođeni,1576.0
+2020,Broj,Ž,bosnian-podrinje_canton,Živorođeni,85.0
+2020,Broj,Ž,central_bosnia_canton,Živorođeni,876.0
+2020,Broj,Ž,herzegovina-neretva_canton,Živorođeni,727.0
+2020,Broj,Ž,west_herzegovina_canton,Živorođeni,383.0
+2020,Broj,Ž,sarajevo_canton,Živorođeni,2042.0
+2020,Broj,Ž,canton_10,Živorođeni,168.0
+2011,Broj,Oba spola,federation_of_bih,Umrli,
+2011,Broj,Oba spola,una-sana_canton,Umrli,
+2011,Broj,Oba spola,posavina_canton,Umrli,
+2011,Broj,Oba spola,tuzla_canton,Umrli,
+2011,Broj,Oba spola,zenica-doboj_canton,Umrli,
+2011,Broj,Oba spola,bosnian-podrinje_canton,Umrli,
+2011,Broj,Oba spola,central_bosnia_canton,Umrli,
+2011,Broj,Oba spola,herzegovina-neretva_canton,Umrli,
+2011,Broj,Oba spola,west_herzegovina_canton,Umrli,
+2011,Broj,Oba spola,sarajevo_canton,Umrli,
+2011,Broj,Oba spola,canton_10,Umrli,
+2011,Broj,M,federation_of_bih,Umrli,
+2011,Broj,M,una-sana_canton,Umrli,
+2011,Broj,M,posavina_canton,Umrli,
+2011,Broj,M,tuzla_canton,Umrli,
+2011,Broj,M,zenica-doboj_canton,Umrli,
+2011,Broj,M,bosnian-podrinje_canton,Umrli,
+2011,Broj,M,central_bosnia_canton,Umrli,
+2011,Broj,M,herzegovina-neretva_canton,Umrli,
+2011,Broj,M,west_herzegovina_canton,Umrli,
+2011,Broj,M,sarajevo_canton,Umrli,
+2011,Broj,M,canton_10,Umrli,
+2011,Broj,Ž,federation_of_bih,Umrli,
+2011,Broj,Ž,una-sana_canton,Umrli,
+2011,Broj,Ž,posavina_canton,Umrli,
+2011,Broj,Ž,tuzla_canton,Umrli,
+2011,Broj,Ž,zenica-doboj_canton,Umrli,
+2011,Broj,Ž,bosnian-podrinje_canton,Umrli,
+2011,Broj,Ž,central_bosnia_canton,Umrli,
+2011,Broj,Ž,herzegovina-neretva_canton,Umrli,
+2011,Broj,Ž,west_herzegovina_canton,Umrli,
+2011,Broj,Ž,sarajevo_canton,Umrli,
+2011,Broj,Ž,canton_10,Umrli,
+2012,Broj,Oba spola,federation_of_bih,Umrli,
+2012,Broj,Oba spola,una-sana_canton,Umrli,
+2012,Broj,Oba spola,posavina_canton,Umrli,
+2012,Broj,Oba spola,tuzla_canton,Umrli,
+2012,Broj,Oba spola,zenica-doboj_canton,Umrli,
+2012,Broj,Oba spola,bosnian-podrinje_canton,Umrli,
+2012,Broj,Oba spola,central_bosnia_canton,Umrli,
+2012,Broj,Oba spola,herzegovina-neretva_canton,Umrli,
+2012,Broj,Oba spola,west_herzegovina_canton,Umrli,
+2012,Broj,Oba spola,sarajevo_canton,Umrli,
+2012,Broj,Oba spola,canton_10,Umrli,
+2012,Broj,M,federation_of_bih,Umrli,
+2012,Broj,M,una-sana_canton,Umrli,
+2012,Broj,M,posavina_canton,Umrli,
+2012,Broj,M,tuzla_canton,Umrli,
+2012,Broj,M,zenica-doboj_canton,Umrli,
+2012,Broj,M,bosnian-podrinje_canton,Umrli,
+2012,Broj,M,central_bosnia_canton,Umrli,
+2012,Broj,M,herzegovina-neretva_canton,Umrli,
+2012,Broj,M,west_herzegovina_canton,Umrli,
+2012,Broj,M,sarajevo_canton,Umrli,
+2012,Broj,M,canton_10,Umrli,
+2012,Broj,Ž,federation_of_bih,Umrli,
+2012,Broj,Ž,una-sana_canton,Umrli,
+2012,Broj,Ž,posavina_canton,Umrli,
+2012,Broj,Ž,tuzla_canton,Umrli,
+2012,Broj,Ž,zenica-doboj_canton,Umrli,
+2012,Broj,Ž,bosnian-podrinje_canton,Umrli,
+2012,Broj,Ž,central_bosnia_canton,Umrli,
+2012,Broj,Ž,herzegovina-neretva_canton,Umrli,
+2012,Broj,Ž,west_herzegovina_canton,Umrli,
+2012,Broj,Ž,sarajevo_canton,Umrli,
+2012,Broj,Ž,canton_10,Umrli,
+2013,Broj,Oba spola,federation_of_bih,Umrli,
+2013,Broj,Oba spola,una-sana_canton,Umrli,
+2013,Broj,Oba spola,posavina_canton,Umrli,
+2013,Broj,Oba spola,tuzla_canton,Umrli,
+2013,Broj,Oba spola,zenica-doboj_canton,Umrli,
+2013,Broj,Oba spola,bosnian-podrinje_canton,Umrli,
+2013,Broj,Oba spola,central_bosnia_canton,Umrli,
+2013,Broj,Oba spola,herzegovina-neretva_canton,Umrli,
+2013,Broj,Oba spola,west_herzegovina_canton,Umrli,
+2013,Broj,Oba spola,sarajevo_canton,Umrli,
+2013,Broj,Oba spola,canton_10,Umrli,
+2013,Broj,M,federation_of_bih,Umrli,
+2013,Broj,M,una-sana_canton,Umrli,
+2013,Broj,M,posavina_canton,Umrli,
+2013,Broj,M,tuzla_canton,Umrli,
+2013,Broj,M,zenica-doboj_canton,Umrli,
+2013,Broj,M,bosnian-podrinje_canton,Umrli,
+2013,Broj,M,central_bosnia_canton,Umrli,
+2013,Broj,M,herzegovina-neretva_canton,Umrli,
+2013,Broj,M,west_herzegovina_canton,Umrli,
+2013,Broj,M,sarajevo_canton,Umrli,
+2013,Broj,M,canton_10,Umrli,
+2013,Broj,Ž,federation_of_bih,Umrli,
+2013,Broj,Ž,una-sana_canton,Umrli,
+2013,Broj,Ž,posavina_canton,Umrli,
+2013,Broj,Ž,tuzla_canton,Umrli,
+2013,Broj,Ž,zenica-doboj_canton,Umrli,
+2013,Broj,Ž,bosnian-podrinje_canton,Umrli,
+2013,Broj,Ž,central_bosnia_canton,Umrli,
+2013,Broj,Ž,herzegovina-neretva_canton,Umrli,
+2013,Broj,Ž,west_herzegovina_canton,Umrli,
+2013,Broj,Ž,sarajevo_canton,Umrli,
+2013,Broj,Ž,canton_10,Umrli,
+2014,Broj,Oba spola,federation_of_bih,Umrli,
+2014,Broj,Oba spola,una-sana_canton,Umrli,
+2014,Broj,Oba spola,posavina_canton,Umrli,
+2014,Broj,Oba spola,tuzla_canton,Umrli,
+2014,Broj,Oba spola,zenica-doboj_canton,Umrli,
+2014,Broj,Oba spola,bosnian-podrinje_canton,Umrli,
+2014,Broj,Oba spola,central_bosnia_canton,Umrli,
+2014,Broj,Oba spola,herzegovina-neretva_canton,Umrli,
+2014,Broj,Oba spola,west_herzegovina_canton,Umrli,
+2014,Broj,Oba spola,sarajevo_canton,Umrli,
+2014,Broj,Oba spola,canton_10,Umrli,
+2014,Broj,M,federation_of_bih,Umrli,
+2014,Broj,M,una-sana_canton,Umrli,
+2014,Broj,M,posavina_canton,Umrli,
+2014,Broj,M,tuzla_canton,Umrli,
+2014,Broj,M,zenica-doboj_canton,Umrli,
+2014,Broj,M,bosnian-podrinje_canton,Umrli,
+2014,Broj,M,central_bosnia_canton,Umrli,
+2014,Broj,M,herzegovina-neretva_canton,Umrli,
+2014,Broj,M,west_herzegovina_canton,Umrli,
+2014,Broj,M,sarajevo_canton,Umrli,
+2014,Broj,M,canton_10,Umrli,
+2014,Broj,Ž,federation_of_bih,Umrli,
+2014,Broj,Ž,una-sana_canton,Umrli,
+2014,Broj,Ž,posavina_canton,Umrli,
+2014,Broj,Ž,tuzla_canton,Umrli,
+2014,Broj,Ž,zenica-doboj_canton,Umrli,
+2014,Broj,Ž,bosnian-podrinje_canton,Umrli,
+2014,Broj,Ž,central_bosnia_canton,Umrli,
+2014,Broj,Ž,herzegovina-neretva_canton,Umrli,
+2014,Broj,Ž,west_herzegovina_canton,Umrli,
+2014,Broj,Ž,sarajevo_canton,Umrli,
+2014,Broj,Ž,canton_10,Umrli,
+2015,Broj,Oba spola,federation_of_bih,Umrli,
+2015,Broj,Oba spola,una-sana_canton,Umrli,
+2015,Broj,Oba spola,posavina_canton,Umrli,
+2015,Broj,Oba spola,tuzla_canton,Umrli,
+2015,Broj,Oba spola,zenica-doboj_canton,Umrli,
+2015,Broj,Oba spola,bosnian-podrinje_canton,Umrli,
+2015,Broj,Oba spola,central_bosnia_canton,Umrli,
+2015,Broj,Oba spola,herzegovina-neretva_canton,Umrli,
+2015,Broj,Oba spola,west_herzegovina_canton,Umrli,
+2015,Broj,Oba spola,sarajevo_canton,Umrli,
+2015,Broj,Oba spola,canton_10,Umrli,
+2015,Broj,M,federation_of_bih,Umrli,
+2015,Broj,M,una-sana_canton,Umrli,
+2015,Broj,M,posavina_canton,Umrli,
+2015,Broj,M,tuzla_canton,Umrli,
+2015,Broj,M,zenica-doboj_canton,Umrli,
+2015,Broj,M,bosnian-podrinje_canton,Umrli,
+2015,Broj,M,central_bosnia_canton,Umrli,
+2015,Broj,M,herzegovina-neretva_canton,Umrli,
+2015,Broj,M,west_herzegovina_canton,Umrli,
+2015,Broj,M,sarajevo_canton,Umrli,
+2015,Broj,M,canton_10,Umrli,
+2015,Broj,Ž,federation_of_bih,Umrli,
+2015,Broj,Ž,una-sana_canton,Umrli,
+2015,Broj,Ž,posavina_canton,Umrli,
+2015,Broj,Ž,tuzla_canton,Umrli,
+2015,Broj,Ž,zenica-doboj_canton,Umrli,
+2015,Broj,Ž,bosnian-podrinje_canton,Umrli,
+2015,Broj,Ž,central_bosnia_canton,Umrli,
+2015,Broj,Ž,herzegovina-neretva_canton,Umrli,
+2015,Broj,Ž,west_herzegovina_canton,Umrli,
+2015,Broj,Ž,sarajevo_canton,Umrli,
+2015,Broj,Ž,canton_10,Umrli,
+2016,Broj,Oba spola,federation_of_bih,Umrli,
+2016,Broj,Oba spola,una-sana_canton,Umrli,
+2016,Broj,Oba spola,posavina_canton,Umrli,
+2016,Broj,Oba spola,tuzla_canton,Umrli,
+2016,Broj,Oba spola,zenica-doboj_canton,Umrli,
+2016,Broj,Oba spola,bosnian-podrinje_canton,Umrli,
+2016,Broj,Oba spola,central_bosnia_canton,Umrli,
+2016,Broj,Oba spola,herzegovina-neretva_canton,Umrli,
+2016,Broj,Oba spola,west_herzegovina_canton,Umrli,
+2016,Broj,Oba spola,sarajevo_canton,Umrli,
+2016,Broj,Oba spola,canton_10,Umrli,
+2016,Broj,M,federation_of_bih,Umrli,
+2016,Broj,M,una-sana_canton,Umrli,
+2016,Broj,M,posavina_canton,Umrli,
+2016,Broj,M,tuzla_canton,Umrli,
+2016,Broj,M,zenica-doboj_canton,Umrli,
+2016,Broj,M,bosnian-podrinje_canton,Umrli,
+2016,Broj,M,central_bosnia_canton,Umrli,
+2016,Broj,M,herzegovina-neretva_canton,Umrli,
+2016,Broj,M,west_herzegovina_canton,Umrli,
+2016,Broj,M,sarajevo_canton,Umrli,
+2016,Broj,M,canton_10,Umrli,
+2016,Broj,Ž,federation_of_bih,Umrli,
+2016,Broj,Ž,una-sana_canton,Umrli,
+2016,Broj,Ž,posavina_canton,Umrli,
+2016,Broj,Ž,tuzla_canton,Umrli,
+2016,Broj,Ž,zenica-doboj_canton,Umrli,
+2016,Broj,Ž,bosnian-podrinje_canton,Umrli,
+2016,Broj,Ž,central_bosnia_canton,Umrli,
+2016,Broj,Ž,herzegovina-neretva_canton,Umrli,
+2016,Broj,Ž,west_herzegovina_canton,Umrli,
+2016,Broj,Ž,sarajevo_canton,Umrli,
+2016,Broj,Ž,canton_10,Umrli,
+2017,Broj,Oba spola,federation_of_bih,Umrli,
+2017,Broj,Oba spola,una-sana_canton,Umrli,
+2017,Broj,Oba spola,posavina_canton,Umrli,
+2017,Broj,Oba spola,tuzla_canton,Umrli,
+2017,Broj,Oba spola,zenica-doboj_canton,Umrli,
+2017,Broj,Oba spola,bosnian-podrinje_canton,Umrli,
+2017,Broj,Oba spola,central_bosnia_canton,Umrli,
+2017,Broj,Oba spola,herzegovina-neretva_canton,Umrli,
+2017,Broj,Oba spola,west_herzegovina_canton,Umrli,
+2017,Broj,Oba spola,sarajevo_canton,Umrli,
+2017,Broj,Oba spola,canton_10,Umrli,
+2017,Broj,M,federation_of_bih,Umrli,
+2017,Broj,M,una-sana_canton,Umrli,
+2017,Broj,M,posavina_canton,Umrli,
+2017,Broj,M,tuzla_canton,Umrli,
+2017,Broj,M,zenica-doboj_canton,Umrli,
+2017,Broj,M,bosnian-podrinje_canton,Umrli,
+2017,Broj,M,central_bosnia_canton,Umrli,
+2017,Broj,M,herzegovina-neretva_canton,Umrli,
+2017,Broj,M,west_herzegovina_canton,Umrli,
+2017,Broj,M,sarajevo_canton,Umrli,
+2017,Broj,M,canton_10,Umrli,
+2017,Broj,Ž,federation_of_bih,Umrli,
+2017,Broj,Ž,una-sana_canton,Umrli,
+2017,Broj,Ž,posavina_canton,Umrli,
+2017,Broj,Ž,tuzla_canton,Umrli,
+2017,Broj,Ž,zenica-doboj_canton,Umrli,
+2017,Broj,Ž,bosnian-podrinje_canton,Umrli,
+2017,Broj,Ž,central_bosnia_canton,Umrli,
+2017,Broj,Ž,herzegovina-neretva_canton,Umrli,
+2017,Broj,Ž,west_herzegovina_canton,Umrli,
+2017,Broj,Ž,sarajevo_canton,Umrli,
+2017,Broj,Ž,canton_10,Umrli,
+2018,Broj,Oba spola,federation_of_bih,Umrli,
+2018,Broj,Oba spola,una-sana_canton,Umrli,
+2018,Broj,Oba spola,posavina_canton,Umrli,
+2018,Broj,Oba spola,tuzla_canton,Umrli,
+2018,Broj,Oba spola,zenica-doboj_canton,Umrli,
+2018,Broj,Oba spola,bosnian-podrinje_canton,Umrli,
+2018,Broj,Oba spola,central_bosnia_canton,Umrli,
+2018,Broj,Oba spola,herzegovina-neretva_canton,Umrli,
+2018,Broj,Oba spola,west_herzegovina_canton,Umrli,
+2018,Broj,Oba spola,sarajevo_canton,Umrli,
+2018,Broj,Oba spola,canton_10,Umrli,
+2018,Broj,M,federation_of_bih,Umrli,
+2018,Broj,M,una-sana_canton,Umrli,
+2018,Broj,M,posavina_canton,Umrli,
+2018,Broj,M,tuzla_canton,Umrli,
+2018,Broj,M,zenica-doboj_canton,Umrli,
+2018,Broj,M,bosnian-podrinje_canton,Umrli,
+2018,Broj,M,central_bosnia_canton,Umrli,
+2018,Broj,M,herzegovina-neretva_canton,Umrli,
+2018,Broj,M,west_herzegovina_canton,Umrli,
+2018,Broj,M,sarajevo_canton,Umrli,
+2018,Broj,M,canton_10,Umrli,
+2018,Broj,Ž,federation_of_bih,Umrli,
+2018,Broj,Ž,una-sana_canton,Umrli,
+2018,Broj,Ž,posavina_canton,Umrli,
+2018,Broj,Ž,tuzla_canton,Umrli,
+2018,Broj,Ž,zenica-doboj_canton,Umrli,
+2018,Broj,Ž,bosnian-podrinje_canton,Umrli,
+2018,Broj,Ž,central_bosnia_canton,Umrli,
+2018,Broj,Ž,herzegovina-neretva_canton,Umrli,
+2018,Broj,Ž,west_herzegovina_canton,Umrli,
+2018,Broj,Ž,sarajevo_canton,Umrli,
+2018,Broj,Ž,canton_10,Umrli,
+2019,Broj,Oba spola,federation_of_bih,Umrli,
+2019,Broj,Oba spola,una-sana_canton,Umrli,
+2019,Broj,Oba spola,posavina_canton,Umrli,
+2019,Broj,Oba spola,tuzla_canton,Umrli,
+2019,Broj,Oba spola,zenica-doboj_canton,Umrli,
+2019,Broj,Oba spola,bosnian-podrinje_canton,Umrli,
+2019,Broj,Oba spola,central_bosnia_canton,Umrli,
+2019,Broj,Oba spola,herzegovina-neretva_canton,Umrli,
+2019,Broj,Oba spola,west_herzegovina_canton,Umrli,
+2019,Broj,Oba spola,sarajevo_canton,Umrli,
+2019,Broj,Oba spola,canton_10,Umrli,
+2019,Broj,M,federation_of_bih,Umrli,
+2019,Broj,M,una-sana_canton,Umrli,
+2019,Broj,M,posavina_canton,Umrli,
+2019,Broj,M,tuzla_canton,Umrli,
+2019,Broj,M,zenica-doboj_canton,Umrli,
+2019,Broj,M,bosnian-podrinje_canton,Umrli,
+2019,Broj,M,central_bosnia_canton,Umrli,
+2019,Broj,M,herzegovina-neretva_canton,Umrli,
+2019,Broj,M,west_herzegovina_canton,Umrli,
+2019,Broj,M,sarajevo_canton,Umrli,
+2019,Broj,M,canton_10,Umrli,
+2019,Broj,Ž,federation_of_bih,Umrli,
+2019,Broj,Ž,una-sana_canton,Umrli,
+2019,Broj,Ž,posavina_canton,Umrli,
+2019,Broj,Ž,tuzla_canton,Umrli,
+2019,Broj,Ž,zenica-doboj_canton,Umrli,
+2019,Broj,Ž,bosnian-podrinje_canton,Umrli,
+2019,Broj,Ž,central_bosnia_canton,Umrli,
+2019,Broj,Ž,herzegovina-neretva_canton,Umrli,
+2019,Broj,Ž,west_herzegovina_canton,Umrli,
+2019,Broj,Ž,sarajevo_canton,Umrli,
+2019,Broj,Ž,canton_10,Umrli,
+2020,Broj,Oba spola,federation_of_bih,Umrli,
+2020,Broj,Oba spola,una-sana_canton,Umrli,
+2020,Broj,Oba spola,posavina_canton,Umrli,
+2020,Broj,Oba spola,tuzla_canton,Umrli,
+2020,Broj,Oba spola,zenica-doboj_canton,Umrli,
+2020,Broj,Oba spola,bosnian-podrinje_canton,Umrli,
+2020,Broj,Oba spola,central_bosnia_canton,Umrli,
+2020,Broj,Oba spola,herzegovina-neretva_canton,Umrli,
+2020,Broj,Oba spola,west_herzegovina_canton,Umrli,
+2020,Broj,Oba spola,sarajevo_canton,Umrli,
+2020,Broj,Oba spola,canton_10,Umrli,
+2020,Broj,M,federation_of_bih,Umrli,
+2020,Broj,M,una-sana_canton,Umrli,
+2020,Broj,M,posavina_canton,Umrli,
+2020,Broj,M,tuzla_canton,Umrli,
+2020,Broj,M,zenica-doboj_canton,Umrli,
+2020,Broj,M,bosnian-podrinje_canton,Umrli,
+2020,Broj,M,central_bosnia_canton,Umrli,
+2020,Broj,M,herzegovina-neretva_canton,Umrli,
+2020,Broj,M,west_herzegovina_canton,Umrli,
+2020,Broj,M,sarajevo_canton,Umrli,
+2020,Broj,M,canton_10,Umrli,
+2020,Broj,Ž,federation_of_bih,Umrli,
+2020,Broj,Ž,una-sana_canton,Umrli,
+2020,Broj,Ž,posavina_canton,Umrli,
+2020,Broj,Ž,tuzla_canton,Umrli,
+2020,Broj,Ž,zenica-doboj_canton,Umrli,
+2020,Broj,Ž,bosnian-podrinje_canton,Umrli,
+2020,Broj,Ž,central_bosnia_canton,Umrli,
+2020,Broj,Ž,herzegovina-neretva_canton,Umrli,
+2020,Broj,Ž,west_herzegovina_canton,Umrli,
+2020,Broj,Ž,sarajevo_canton,Umrli,
+2020,Broj,Ž,canton_10,Umrli,
+2011,Broj,Oba spola,federation_of_bih,Prirodni priraštaj,
+2011,Broj,Oba spola,una-sana_canton,Prirodni priraštaj,
+2011,Broj,Oba spola,posavina_canton,Prirodni priraštaj,
+2011,Broj,Oba spola,tuzla_canton,Prirodni priraštaj,
+2011,Broj,Oba spola,zenica-doboj_canton,Prirodni priraštaj,
+2011,Broj,Oba spola,bosnian-podrinje_canton,Prirodni priraštaj,
+2011,Broj,Oba spola,central_bosnia_canton,Prirodni priraštaj,
+2011,Broj,Oba spola,herzegovina-neretva_canton,Prirodni priraštaj,
+2011,Broj,Oba spola,west_herzegovina_canton,Prirodni priraštaj,
+2011,Broj,Oba spola,sarajevo_canton,Prirodni priraštaj,
+2011,Broj,Oba spola,canton_10,Prirodni priraštaj,
+2011,Broj,M,federation_of_bih,Prirodni priraštaj,
+2011,Broj,M,una-sana_canton,Prirodni priraštaj,
+2011,Broj,M,posavina_canton,Prirodni priraštaj,
+2011,Broj,M,tuzla_canton,Prirodni priraštaj,
+2011,Broj,M,zenica-doboj_canton,Prirodni priraštaj,
+2011,Broj,M,bosnian-podrinje_canton,Prirodni priraštaj,
+2011,Broj,M,central_bosnia_canton,Prirodni priraštaj,
+2011,Broj,M,herzegovina-neretva_canton,Prirodni priraštaj,
+2011,Broj,M,west_herzegovina_canton,Prirodni priraštaj,
+2011,Broj,M,sarajevo_canton,Prirodni priraštaj,
+2011,Broj,M,canton_10,Prirodni priraštaj,
+2011,Broj,Ž,federation_of_bih,Prirodni priraštaj,
+2011,Broj,Ž,una-sana_canton,Prirodni priraštaj,
+2011,Broj,Ž,posavina_canton,Prirodni priraštaj,
+2011,Broj,Ž,tuzla_canton,Prirodni priraštaj,
+2011,Broj,Ž,zenica-doboj_canton,Prirodni priraštaj,
+2011,Broj,Ž,bosnian-podrinje_canton,Prirodni priraštaj,
+2011,Broj,Ž,central_bosnia_canton,Prirodni priraštaj,
+2011,Broj,Ž,herzegovina-neretva_canton,Prirodni priraštaj,
+2011,Broj,Ž,west_herzegovina_canton,Prirodni priraštaj,
+2011,Broj,Ž,sarajevo_canton,Prirodni priraštaj,
+2011,Broj,Ž,canton_10,Prirodni priraštaj,
+2012,Broj,Oba spola,federation_of_bih,Prirodni priraštaj,
+2012,Broj,Oba spola,una-sana_canton,Prirodni priraštaj,
+2012,Broj,Oba spola,posavina_canton,Prirodni priraštaj,
+2012,Broj,Oba spola,tuzla_canton,Prirodni priraštaj,
+2012,Broj,Oba spola,zenica-doboj_canton,Prirodni priraštaj,
+2012,Broj,Oba spola,bosnian-podrinje_canton,Prirodni priraštaj,
+2012,Broj,Oba spola,central_bosnia_canton,Prirodni priraštaj,
+2012,Broj,Oba spola,herzegovina-neretva_canton,Prirodni priraštaj,
+2012,Broj,Oba spola,west_herzegovina_canton,Prirodni priraštaj,
+2012,Broj,Oba spola,sarajevo_canton,Prirodni priraštaj,
+2012,Broj,Oba spola,canton_10,Prirodni priraštaj,
+2012,Broj,M,federation_of_bih,Prirodni priraštaj,
+2012,Broj,M,una-sana_canton,Prirodni priraštaj,
+2012,Broj,M,posavina_canton,Prirodni priraštaj,
+2012,Broj,M,tuzla_canton,Prirodni priraštaj,
+2012,Broj,M,zenica-doboj_canton,Prirodni priraštaj,
+2012,Broj,M,bosnian-podrinje_canton,Prirodni priraštaj,
+2012,Broj,M,central_bosnia_canton,Prirodni priraštaj,
+2012,Broj,M,herzegovina-neretva_canton,Prirodni priraštaj,
+2012,Broj,M,west_herzegovina_canton,Prirodni priraštaj,
+2012,Broj,M,sarajevo_canton,Prirodni priraštaj,
+2012,Broj,M,canton_10,Prirodni priraštaj,
+2012,Broj,Ž,federation_of_bih,Prirodni priraštaj,
+2012,Broj,Ž,una-sana_canton,Prirodni priraštaj,
+2012,Broj,Ž,posavina_canton,Prirodni priraštaj,
+2012,Broj,Ž,tuzla_canton,Prirodni priraštaj,
+2012,Broj,Ž,zenica-doboj_canton,Prirodni priraštaj,
+2012,Broj,Ž,bosnian-podrinje_canton,Prirodni priraštaj,
+2012,Broj,Ž,central_bosnia_canton,Prirodni priraštaj,
+2012,Broj,Ž,herzegovina-neretva_canton,Prirodni priraštaj,
+2012,Broj,Ž,west_herzegovina_canton,Prirodni priraštaj,
+2012,Broj,Ž,sarajevo_canton,Prirodni priraštaj,
+2012,Broj,Ž,canton_10,Prirodni priraštaj,
+2013,Broj,Oba spola,federation_of_bih,Prirodni priraštaj,
+2013,Broj,Oba spola,una-sana_canton,Prirodni priraštaj,
+2013,Broj,Oba spola,posavina_canton,Prirodni priraštaj,
+2013,Broj,Oba spola,tuzla_canton,Prirodni priraštaj,
+2013,Broj,Oba spola,zenica-doboj_canton,Prirodni priraštaj,
+2013,Broj,Oba spola,bosnian-podrinje_canton,Prirodni priraštaj,
+2013,Broj,Oba spola,central_bosnia_canton,Prirodni priraštaj,
+2013,Broj,Oba spola,herzegovina-neretva_canton,Prirodni priraštaj,
+2013,Broj,Oba spola,west_herzegovina_canton,Prirodni priraštaj,
+2013,Broj,Oba spola,sarajevo_canton,Prirodni priraštaj,
+2013,Broj,Oba spola,canton_10,Prirodni priraštaj,
+2013,Broj,M,federation_of_bih,Prirodni priraštaj,
+2013,Broj,M,una-sana_canton,Prirodni priraštaj,
+2013,Broj,M,posavina_canton,Prirodni priraštaj,
+2013,Broj,M,tuzla_canton,Prirodni priraštaj,
+2013,Broj,M,zenica-doboj_canton,Prirodni priraštaj,
+2013,Broj,M,bosnian-podrinje_canton,Prirodni priraštaj,
+2013,Broj,M,central_bosnia_canton,Prirodni priraštaj,
+2013,Broj,M,herzegovina-neretva_canton,Prirodni priraštaj,
+2013,Broj,M,west_herzegovina_canton,Prirodni priraštaj,
+2013,Broj,M,sarajevo_canton,Prirodni priraštaj,
+2013,Broj,M,canton_10,Prirodni priraštaj,
+2013,Broj,Ž,federation_of_bih,Prirodni priraštaj,
+2013,Broj,Ž,una-sana_canton,Prirodni priraštaj,
+2013,Broj,Ž,posavina_canton,Prirodni priraštaj,
+2013,Broj,Ž,tuzla_canton,Prirodni priraštaj,
+2013,Broj,Ž,zenica-doboj_canton,Prirodni priraštaj,
+2013,Broj,Ž,bosnian-podrinje_canton,Prirodni priraštaj,
+2013,Broj,Ž,central_bosnia_canton,Prirodni priraštaj,
+2013,Broj,Ž,herzegovina-neretva_canton,Prirodni priraštaj,
+2013,Broj,Ž,west_herzegovina_canton,Prirodni priraštaj,
+2013,Broj,Ž,sarajevo_canton,Prirodni priraštaj,
+2013,Broj,Ž,canton_10,Prirodni priraštaj,
+2014,Broj,Oba spola,federation_of_bih,Prirodni priraštaj,
+2014,Broj,Oba spola,una-sana_canton,Prirodni priraštaj,
+2014,Broj,Oba spola,posavina_canton,Prirodni priraštaj,
+2014,Broj,Oba spola,tuzla_canton,Prirodni priraštaj,
+2014,Broj,Oba spola,zenica-doboj_canton,Prirodni priraštaj,
+2014,Broj,Oba spola,bosnian-podrinje_canton,Prirodni priraštaj,
+2014,Broj,Oba spola,central_bosnia_canton,Prirodni priraštaj,
+2014,Broj,Oba spola,herzegovina-neretva_canton,Prirodni priraštaj,
+2014,Broj,Oba spola,west_herzegovina_canton,Prirodni priraštaj,
+2014,Broj,Oba spola,sarajevo_canton,Prirodni priraštaj,
+2014,Broj,Oba spola,canton_10,Prirodni priraštaj,
+2014,Broj,M,federation_of_bih,Prirodni priraštaj,
+2014,Broj,M,una-sana_canton,Prirodni priraštaj,
+2014,Broj,M,posavina_canton,Prirodni priraštaj,
+2014,Broj,M,tuzla_canton,Prirodni priraštaj,
+2014,Broj,M,zenica-doboj_canton,Prirodni priraštaj,
+2014,Broj,M,bosnian-podrinje_canton,Prirodni priraštaj,
+2014,Broj,M,central_bosnia_canton,Prirodni priraštaj,
+2014,Broj,M,herzegovina-neretva_canton,Prirodni priraštaj,
+2014,Broj,M,west_herzegovina_canton,Prirodni priraštaj,
+2014,Broj,M,sarajevo_canton,Prirodni priraštaj,
+2014,Broj,M,canton_10,Prirodni priraštaj,
+2014,Broj,Ž,federation_of_bih,Prirodni priraštaj,
+2014,Broj,Ž,una-sana_canton,Prirodni priraštaj,
+2014,Broj,Ž,posavina_canton,Prirodni priraštaj,
+2014,Broj,Ž,tuzla_canton,Prirodni priraštaj,
+2014,Broj,Ž,zenica-doboj_canton,Prirodni priraštaj,
+2014,Broj,Ž,bosnian-podrinje_canton,Prirodni priraštaj,
+2014,Broj,Ž,central_bosnia_canton,Prirodni priraštaj,
+2014,Broj,Ž,herzegovina-neretva_canton,Prirodni priraštaj,
+2014,Broj,Ž,west_herzegovina_canton,Prirodni priraštaj,
+2014,Broj,Ž,sarajevo_canton,Prirodni priraštaj,
+2014,Broj,Ž,canton_10,Prirodni priraštaj,
+2015,Broj,Oba spola,federation_of_bih,Prirodni priraštaj,
+2015,Broj,Oba spola,una-sana_canton,Prirodni priraštaj,
+2015,Broj,Oba spola,posavina_canton,Prirodni priraštaj,
+2015,Broj,Oba spola,tuzla_canton,Prirodni priraštaj,
+2015,Broj,Oba spola,zenica-doboj_canton,Prirodni priraštaj,
+2015,Broj,Oba spola,bosnian-podrinje_canton,Prirodni priraštaj,
+2015,Broj,Oba spola,central_bosnia_canton,Prirodni priraštaj,
+2015,Broj,Oba spola,herzegovina-neretva_canton,Prirodni priraštaj,
+2015,Broj,Oba spola,west_herzegovina_canton,Prirodni priraštaj,
+2015,Broj,Oba spola,sarajevo_canton,Prirodni priraštaj,
+2015,Broj,Oba spola,canton_10,Prirodni priraštaj,
+2015,Broj,M,federation_of_bih,Prirodni priraštaj,
+2015,Broj,M,una-sana_canton,Prirodni priraštaj,
+2015,Broj,M,posavina_canton,Prirodni priraštaj,
+2015,Broj,M,tuzla_canton,Prirodni priraštaj,
+2015,Broj,M,zenica-doboj_canton,Prirodni priraštaj,
+2015,Broj,M,bosnian-podrinje_canton,Prirodni priraštaj,
+2015,Broj,M,central_bosnia_canton,Prirodni priraštaj,
+2015,Broj,M,herzegovina-neretva_canton,Prirodni priraštaj,
+2015,Broj,M,west_herzegovina_canton,Prirodni priraštaj,
+2015,Broj,M,sarajevo_canton,Prirodni priraštaj,
+2015,Broj,M,canton_10,Prirodni priraštaj,
+2015,Broj,Ž,federation_of_bih,Prirodni priraštaj,
+2015,Broj,Ž,una-sana_canton,Prirodni priraštaj,
+2015,Broj,Ž,posavina_canton,Prirodni priraštaj,
+2015,Broj,Ž,tuzla_canton,Prirodni priraštaj,
+2015,Broj,Ž,zenica-doboj_canton,Prirodni priraštaj,
+2015,Broj,Ž,bosnian-podrinje_canton,Prirodni priraštaj,
+2015,Broj,Ž,central_bosnia_canton,Prirodni priraštaj,
+2015,Broj,Ž,herzegovina-neretva_canton,Prirodni priraštaj,
+2015,Broj,Ž,west_herzegovina_canton,Prirodni priraštaj,
+2015,Broj,Ž,sarajevo_canton,Prirodni priraštaj,
+2015,Broj,Ž,canton_10,Prirodni priraštaj,
+2016,Broj,Oba spola,federation_of_bih,Prirodni priraštaj,
+2016,Broj,Oba spola,una-sana_canton,Prirodni priraštaj,
+2016,Broj,Oba spola,posavina_canton,Prirodni priraštaj,
+2016,Broj,Oba spola,tuzla_canton,Prirodni priraštaj,
+2016,Broj,Oba spola,zenica-doboj_canton,Prirodni priraštaj,
+2016,Broj,Oba spola,bosnian-podrinje_canton,Prirodni priraštaj,
+2016,Broj,Oba spola,central_bosnia_canton,Prirodni priraštaj,
+2016,Broj,Oba spola,herzegovina-neretva_canton,Prirodni priraštaj,
+2016,Broj,Oba spola,west_herzegovina_canton,Prirodni priraštaj,
+2016,Broj,Oba spola,sarajevo_canton,Prirodni priraštaj,
+2016,Broj,Oba spola,canton_10,Prirodni priraštaj,
+2016,Broj,M,federation_of_bih,Prirodni priraštaj,
+2016,Broj,M,una-sana_canton,Prirodni priraštaj,
+2016,Broj,M,posavina_canton,Prirodni priraštaj,
+2016,Broj,M,tuzla_canton,Prirodni priraštaj,
+2016,Broj,M,zenica-doboj_canton,Prirodni priraštaj,
+2016,Broj,M,bosnian-podrinje_canton,Prirodni priraštaj,
+2016,Broj,M,central_bosnia_canton,Prirodni priraštaj,
+2016,Broj,M,herzegovina-neretva_canton,Prirodni priraštaj,
+2016,Broj,M,west_herzegovina_canton,Prirodni priraštaj,
+2016,Broj,M,sarajevo_canton,Prirodni priraštaj,
+2016,Broj,M,canton_10,Prirodni priraštaj,
+2016,Broj,Ž,federation_of_bih,Prirodni priraštaj,
+2016,Broj,Ž,una-sana_canton,Prirodni priraštaj,
+2016,Broj,Ž,posavina_canton,Prirodni priraštaj,
+2016,Broj,Ž,tuzla_canton,Prirodni priraštaj,
+2016,Broj,Ž,zenica-doboj_canton,Prirodni priraštaj,
+2016,Broj,Ž,bosnian-podrinje_canton,Prirodni priraštaj,
+2016,Broj,Ž,central_bosnia_canton,Prirodni priraštaj,
+2016,Broj,Ž,herzegovina-neretva_canton,Prirodni priraštaj,
+2016,Broj,Ž,west_herzegovina_canton,Prirodni priraštaj,
+2016,Broj,Ž,sarajevo_canton,Prirodni priraštaj,
+2016,Broj,Ž,canton_10,Prirodni priraštaj,
+2017,Broj,Oba spola,federation_of_bih,Prirodni priraštaj,
+2017,Broj,Oba spola,una-sana_canton,Prirodni priraštaj,
+2017,Broj,Oba spola,posavina_canton,Prirodni priraštaj,
+2017,Broj,Oba spola,tuzla_canton,Prirodni priraštaj,
+2017,Broj,Oba spola,zenica-doboj_canton,Prirodni priraštaj,
+2017,Broj,Oba spola,bosnian-podrinje_canton,Prirodni priraštaj,
+2017,Broj,Oba spola,central_bosnia_canton,Prirodni priraštaj,
+2017,Broj,Oba spola,herzegovina-neretva_canton,Prirodni priraštaj,
+2017,Broj,Oba spola,west_herzegovina_canton,Prirodni priraštaj,
+2017,Broj,Oba spola,sarajevo_canton,Prirodni priraštaj,
+2017,Broj,Oba spola,canton_10,Prirodni priraštaj,
+2017,Broj,M,federation_of_bih,Prirodni priraštaj,
+2017,Broj,M,una-sana_canton,Prirodni priraštaj,
+2017,Broj,M,posavina_canton,Prirodni priraštaj,
+2017,Broj,M,tuzla_canton,Prirodni priraštaj,
+2017,Broj,M,zenica-doboj_canton,Prirodni priraštaj,
+2017,Broj,M,bosnian-podrinje_canton,Prirodni priraštaj,
+2017,Broj,M,central_bosnia_canton,Prirodni priraštaj,
+2017,Broj,M,herzegovina-neretva_canton,Prirodni priraštaj,
+2017,Broj,M,west_herzegovina_canton,Prirodni priraštaj,
+2017,Broj,M,sarajevo_canton,Prirodni priraštaj,
+2017,Broj,M,canton_10,Prirodni priraštaj,
+2017,Broj,Ž,federation_of_bih,Prirodni priraštaj,
+2017,Broj,Ž,una-sana_canton,Prirodni priraštaj,
+2017,Broj,Ž,posavina_canton,Prirodni priraštaj,
+2017,Broj,Ž,tuzla_canton,Prirodni priraštaj,
+2017,Broj,Ž,zenica-doboj_canton,Prirodni priraštaj,
+2017,Broj,Ž,bosnian-podrinje_canton,Prirodni priraštaj,
+2017,Broj,Ž,central_bosnia_canton,Prirodni priraštaj,
+2017,Broj,Ž,herzegovina-neretva_canton,Prirodni priraštaj,
+2017,Broj,Ž,west_herzegovina_canton,Prirodni priraštaj,
+2017,Broj,Ž,sarajevo_canton,Prirodni priraštaj,
+2017,Broj,Ž,canton_10,Prirodni priraštaj,
+2018,Broj,Oba spola,federation_of_bih,Prirodni priraštaj,
+2018,Broj,Oba spola,una-sana_canton,Prirodni priraštaj,
+2018,Broj,Oba spola,posavina_canton,Prirodni priraštaj,
+2018,Broj,Oba spola,tuzla_canton,Prirodni priraštaj,
+2018,Broj,Oba spola,zenica-doboj_canton,Prirodni priraštaj,
+2018,Broj,Oba spola,bosnian-podrinje_canton,Prirodni priraštaj,
+2018,Broj,Oba spola,central_bosnia_canton,Prirodni priraštaj,
+2018,Broj,Oba spola,herzegovina-neretva_canton,Prirodni priraštaj,
+2018,Broj,Oba spola,west_herzegovina_canton,Prirodni priraštaj,
+2018,Broj,Oba spola,sarajevo_canton,Prirodni priraštaj,
+2018,Broj,Oba spola,canton_10,Prirodni priraštaj,
+2018,Broj,M,federation_of_bih,Prirodni priraštaj,
+2018,Broj,M,una-sana_canton,Prirodni priraštaj,
+2018,Broj,M,posavina_canton,Prirodni priraštaj,
+2018,Broj,M,tuzla_canton,Prirodni priraštaj,
+2018,Broj,M,zenica-doboj_canton,Prirodni priraštaj,
+2018,Broj,M,bosnian-podrinje_canton,Prirodni priraštaj,
+2018,Broj,M,central_bosnia_canton,Prirodni priraštaj,
+2018,Broj,M,herzegovina-neretva_canton,Prirodni priraštaj,
+2018,Broj,M,west_herzegovina_canton,Prirodni priraštaj,
+2018,Broj,M,sarajevo_canton,Prirodni priraštaj,
+2018,Broj,M,canton_10,Prirodni priraštaj,
+2018,Broj,Ž,federation_of_bih,Prirodni priraštaj,
+2018,Broj,Ž,una-sana_canton,Prirodni priraštaj,
+2018,Broj,Ž,posavina_canton,Prirodni priraštaj,
+2018,Broj,Ž,tuzla_canton,Prirodni priraštaj,
+2018,Broj,Ž,zenica-doboj_canton,Prirodni priraštaj,
+2018,Broj,Ž,bosnian-podrinje_canton,Prirodni priraštaj,
+2018,Broj,Ž,central_bosnia_canton,Prirodni priraštaj,
+2018,Broj,Ž,herzegovina-neretva_canton,Prirodni priraštaj,
+2018,Broj,Ž,west_herzegovina_canton,Prirodni priraštaj,
+2018,Broj,Ž,sarajevo_canton,Prirodni priraštaj,
+2018,Broj,Ž,canton_10,Prirodni priraštaj,
+2019,Broj,Oba spola,federation_of_bih,Prirodni priraštaj,
+2019,Broj,Oba spola,una-sana_canton,Prirodni priraštaj,
+2019,Broj,Oba spola,posavina_canton,Prirodni priraštaj,
+2019,Broj,Oba spola,tuzla_canton,Prirodni priraštaj,
+2019,Broj,Oba spola,zenica-doboj_canton,Prirodni priraštaj,
+2019,Broj,Oba spola,bosnian-podrinje_canton,Prirodni priraštaj,
+2019,Broj,Oba spola,central_bosnia_canton,Prirodni priraštaj,
+2019,Broj,Oba spola,herzegovina-neretva_canton,Prirodni priraštaj,
+2019,Broj,Oba spola,west_herzegovina_canton,Prirodni priraštaj,
+2019,Broj,Oba spola,sarajevo_canton,Prirodni priraštaj,
+2019,Broj,Oba spola,canton_10,Prirodni priraštaj,
+2019,Broj,M,federation_of_bih,Prirodni priraštaj,
+2019,Broj,M,una-sana_canton,Prirodni priraštaj,
+2019,Broj,M,posavina_canton,Prirodni priraštaj,
+2019,Broj,M,tuzla_canton,Prirodni priraštaj,
+2019,Broj,M,zenica-doboj_canton,Prirodni priraštaj,
+2019,Broj,M,bosnian-podrinje_canton,Prirodni priraštaj,
+2019,Broj,M,central_bosnia_canton,Prirodni priraštaj,
+2019,Broj,M,herzegovina-neretva_canton,Prirodni priraštaj,
+2019,Broj,M,west_herzegovina_canton,Prirodni priraštaj,
+2019,Broj,M,sarajevo_canton,Prirodni priraštaj,
+2019,Broj,M,canton_10,Prirodni priraštaj,
+2019,Broj,Ž,federation_of_bih,Prirodni priraštaj,
+2019,Broj,Ž,una-sana_canton,Prirodni priraštaj,
+2019,Broj,Ž,posavina_canton,Prirodni priraštaj,
+2019,Broj,Ž,tuzla_canton,Prirodni priraštaj,
+2019,Broj,Ž,zenica-doboj_canton,Prirodni priraštaj,
+2019,Broj,Ž,bosnian-podrinje_canton,Prirodni priraštaj,
+2019,Broj,Ž,central_bosnia_canton,Prirodni priraštaj,
+2019,Broj,Ž,herzegovina-neretva_canton,Prirodni priraštaj,
+2019,Broj,Ž,west_herzegovina_canton,Prirodni priraštaj,
+2019,Broj,Ž,sarajevo_canton,Prirodni priraštaj,
+2019,Broj,Ž,canton_10,Prirodni priraštaj,
+2020,Broj,Oba spola,federation_of_bih,Prirodni priraštaj,
+2020,Broj,Oba spola,una-sana_canton,Prirodni priraštaj,
+2020,Broj,Oba spola,posavina_canton,Prirodni priraštaj,
+2020,Broj,Oba spola,tuzla_canton,Prirodni priraštaj,
+2020,Broj,Oba spola,zenica-doboj_canton,Prirodni priraštaj,
+2020,Broj,Oba spola,bosnian-podrinje_canton,Prirodni priraštaj,
+2020,Broj,Oba spola,central_bosnia_canton,Prirodni priraštaj,
+2020,Broj,Oba spola,herzegovina-neretva_canton,Prirodni priraštaj,
+2020,Broj,Oba spola,west_herzegovina_canton,Prirodni priraštaj,
+2020,Broj,Oba spola,sarajevo_canton,Prirodni priraštaj,
+2020,Broj,Oba spola,canton_10,Prirodni priraštaj,
+2020,Broj,M,federation_of_bih,Prirodni priraštaj,
+2020,Broj,M,una-sana_canton,Prirodni priraštaj,
+2020,Broj,M,posavina_canton,Prirodni priraštaj,
+2020,Broj,M,tuzla_canton,Prirodni priraštaj,
+2020,Broj,M,zenica-doboj_canton,Prirodni priraštaj,
+2020,Broj,M,bosnian-podrinje_canton,Prirodni priraštaj,
+2020,Broj,M,central_bosnia_canton,Prirodni priraštaj,
+2020,Broj,M,herzegovina-neretva_canton,Prirodni priraštaj,
+2020,Broj,M,west_herzegovina_canton,Prirodni priraštaj,
+2020,Broj,M,sarajevo_canton,Prirodni priraštaj,
+2020,Broj,M,canton_10,Prirodni priraštaj,
+2020,Broj,Ž,federation_of_bih,Prirodni priraštaj,
+2020,Broj,Ž,una-sana_canton,Prirodni priraštaj,
+2020,Broj,Ž,posavina_canton,Prirodni priraštaj,
+2020,Broj,Ž,tuzla_canton,Prirodni priraštaj,
+2020,Broj,Ž,zenica-doboj_canton,Prirodni priraštaj,
+2020,Broj,Ž,bosnian-podrinje_canton,Prirodni priraštaj,
+2020,Broj,Ž,central_bosnia_canton,Prirodni priraštaj,
+2020,Broj,Ž,herzegovina-neretva_canton,Prirodni priraštaj,
+2020,Broj,Ž,west_herzegovina_canton,Prirodni priraštaj,
+2020,Broj,Ž,sarajevo_canton,Prirodni priraštaj,
+2020,Broj,Ž,canton_10,Prirodni priraštaj,

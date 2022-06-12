@@ -26,10 +26,33 @@
             "constraints": {
               "enum": [
                 "Оба пола",
+                "M",
+                "Ж",
                 ""
               ]
             },
             "title": "Пол"
+          },
+          {
+            "name": "Admin Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            },
+            "title": "Admin Area"
           },
           {
             "name": "BIRTHS",
@@ -37,6 +60,8 @@
             "constraints": {
               "enum": [
                 "Живорођени",
+                "Умрли",
+                "Природни прираштај",
                 ""
               ]
             },
@@ -44,7 +69,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Вриједност"
           }
         ]

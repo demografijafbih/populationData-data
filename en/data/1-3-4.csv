@@ -1,1127 +1,651 @@
-Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
-1999,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,4591
-1999,Both sexes,(I00-I99) Diseases of the circulatory system,Number,15911
-1999,Both sexes,(J00-J99) Diseases of the respiratory system,Number,866
-1999,Both sexes,(K00-K93) Diseases of the digestive system,Number,709
-1999,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2552
-1999,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1022
-1999,Both sexes,Total,Number,25651
-1999,M,"(C00-C97,D00-D48) Neoplasms",Number,2752
-1999,M,(I00-I99) Diseases of the circulatory system,Number,7700
-1999,M,(J00-J99) Diseases of the respiratory system,Number,498
-1999,M,(K00-K93) Diseases of the digestive system,Number,445
-1999,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1347
-1999,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,786
-1999,M,Total,Number,13528
-1999,F,"(C00-C97,D00-D48) Neoplasms",Number,1839
-1999,F,(I00-I99) Diseases of the circulatory system,Number,8211
-1999,F,(J00-J99) Diseases of the respiratory system,Number,368
-1999,F,(K00-K93) Diseases of the digestive system,Number,264
-1999,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1205
-1999,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,236
-1999,F,Total,Number,12123
-2000,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,5122
-2000,Both sexes,(I00-I99) Diseases of the circulatory system,Number,16283
-2000,Both sexes,(J00-J99) Diseases of the respiratory system,Number,805
-2000,Both sexes,(K00-K93) Diseases of the digestive system,Number,848
-2000,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2860
-2000,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1091
-2000,Both sexes,Total,Number,27009
-2000,M,"(C00-C97,D00-D48) Neoplasms",Number,3144
-2000,M,(I00-I99) Diseases of the circulatory system,Number,7810
-2000,M,(J00-J99) Diseases of the respiratory system,Number,464
-2000,M,(K00-K93) Diseases of the digestive system,Number,518
-2000,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1484
-2000,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,812
-2000,M,Total,Number,14232
-2000,F,"(C00-C97,D00-D48) Neoplasms",Number,1978
-2000,F,(I00-I99) Diseases of the circulatory system,Number,8473
-2000,F,(J00-J99) Diseases of the respiratory system,Number,341
-2000,F,(K00-K93) Diseases of the digestive system,Number,330
-2000,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1376
-2000,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,279
-2000,F,Total,Number,12777
-2001,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,257
-2001,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,5347
-2001,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,20
-2001,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,667
-2001,Both sexes,(F00-F99) Mental and behavioural disorders,Number,48
-2001,Both sexes,(G00-G99) Diseases of the nervous system,Number,161
-2001,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2001,Both sexes,(I00-I99) Diseases of the circulatory system,Number,16328
-2001,Both sexes,(J00-J99) Diseases of the respiratory system,Number,745
-2001,Both sexes,(K00-K93) Diseases of the digestive system,Number,827
-2001,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,17
-2001,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,14
-2001,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,397
-2001,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2001,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,188
-2001,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,43
-2001,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,3031
-2001,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1017
-2001,Both sexes,(V01-Y98) External causes of mortality,Number,261
-2001,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2001,Both sexes,Unknown,Number,954
-2001,Both sexes,Total,Number,30325
-2001,M,(A00-B99) Infectious and parasitic diseases,Number,157
-2001,M,"(C00-C97,D00-D48) Neoplasms",Number,3288
-2001,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,7
-2001,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,240
-2001,M,(F00-F99) Mental and behavioural disorders,Number,37
-2001,M,(G00-G99) Diseases of the nervous system,Number,79
-2001,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2001,M,(I00-I99) Diseases of the circulatory system,Number,7943
-2001,M,(J00-J99) Diseases of the respiratory system,Number,434
-2001,M,(K00-K93) Diseases of the digestive system,Number,540
-2001,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,5
-2001,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,6
-2001,M,(N00-N99) Diseases of the genitourinary system,Number,200
-2001,M,(P00-P96) Certain conditions originating in the perinatal period,Number,109
-2001,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,18
-2001,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1637
-2001,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,768
-2001,M,(V01-Y98) External causes of mortality,Number,206
-2001,M,Unknown,Number,527
-2001,M,Total,Number,16202
-2001,F,(A00-B99) Infectious and parasitic diseases,Number,100
-2001,F,"(C00-C97,D00-D48) Neoplasms",Number,2059
-2001,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,13
-2001,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,427
-2001,F,(F00-F99) Mental and behavioural disorders,Number,11
-2001,F,(G00-G99) Diseases of the nervous system,Number,82
-2001,F,(I00-I99) Diseases of the circulatory system,Number,8385
-2001,F,(J00-J99) Diseases of the respiratory system,Number,311
-2001,F,(K00-K93) Diseases of the digestive system,Number,287
-2001,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,12
-2001,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,8
-2001,F,(N00-N99) Diseases of the genitourinary system,Number,197
-2001,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2001,F,(P00-P96) Certain conditions originating in the perinatal period,Number,79
-2001,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,25
-2001,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1394
-2001,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,249
-2001,F,(V01-Y98) External causes of mortality,Number,55
-2001,F,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2001,F,Unknown,Number,427
-2001,F,Total,Number,14123
-2002,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,263
-2002,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,5288
-2002,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,19
-2002,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,862
-2002,Both sexes,(F00-F99) Mental and behavioural disorders,Number,66
-2002,Both sexes,(G00-G99) Diseases of the nervous system,Number,157
-2002,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2002,Both sexes,(I00-I99) Diseases of the circulatory system,Number,16007
-2002,Both sexes,(J00-J99) Diseases of the respiratory system,Number,817
-2002,Both sexes,(K00-K93) Diseases of the digestive system,Number,820
-2002,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,17
-2002,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,10
-2002,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,219
-2002,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,3
-2002,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,226
-2002,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,56
-2002,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2983
-2002,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,984
-2002,Both sexes,(V01-Y98) External causes of mortality,Number,242
-2002,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2002,Both sexes,Unknown,Number,1790
-2002,Both sexes,Total,Number,30831
-2002,M,(A00-B99) Infectious and parasitic diseases,Number,160
-2002,M,"(C00-C97,D00-D48) Neoplasms",Number,3201
-2002,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,11
-2002,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,300
-2002,M,(F00-F99) Mental and behavioural disorders,Number,39
-2002,M,(G00-G99) Diseases of the nervous system,Number,87
-2002,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2002,M,(I00-I99) Diseases of the circulatory system,Number,7544
-2002,M,(J00-J99) Diseases of the respiratory system,Number,478
-2002,M,(K00-K93) Diseases of the digestive system,Number,495
-2002,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,3
-2002,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,2
-2002,M,(N00-N99) Diseases of the genitourinary system,Number,120
-2002,M,(P00-P96) Certain conditions originating in the perinatal period,Number,128
-2002,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,32
-2002,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1535
-2002,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,751
-2002,M,(V01-Y98) External causes of mortality,Number,180
-2002,M,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2002,M,Unknown,Number,965
-2002,M,Total,Number,16033
-2002,F,(A00-B99) Infectious and parasitic diseases,Number,103
-2002,F,"(C00-C97,D00-D48) Neoplasms",Number,2087
-2002,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,8
-2002,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,562
-2002,F,(F00-F99) Mental and behavioural disorders,Number,27
-2002,F,(G00-G99) Diseases of the nervous system,Number,70
-2002,F,(I00-I99) Diseases of the circulatory system,Number,8463
-2002,F,(J00-J99) Diseases of the respiratory system,Number,339
-2002,F,(K00-K93) Diseases of the digestive system,Number,325
-2002,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,14
-2002,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,8
-2002,F,(N00-N99) Diseases of the genitourinary system,Number,99
-2002,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,3
-2002,F,(P00-P96) Certain conditions originating in the perinatal period,Number,98
-2002,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,24
-2002,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1448
-2002,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,233
-2002,F,(V01-Y98) External causes of mortality,Number,62
-2002,F,Unknown,Number,825
-2002,F,Total,Number,14798
-2003,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,5771
-2003,Both sexes,(I00-I99) Diseases of the circulatory system,Number,16990
-2003,Both sexes,(J00-J99) Diseases of the respiratory system,Number,876
-2003,Both sexes,(K00-K93) Diseases of the digestive system,Number,810
-2003,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,3166
-2003,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,950
-2003,Both sexes,Unknown,Number,770
-2003,Both sexes,Total,Number,29333
-2003,M,"(C00-C97,D00-D48) Neoplasms",Number,3499
-2003,M,(I00-I99) Diseases of the circulatory system,Number,8001
-2003,M,(J00-J99) Diseases of the respiratory system,Number,542
-2003,M,(K00-K93) Diseases of the digestive system,Number,499
-2003,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1612
-2003,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,706
-2003,M,Unknown,Number,424
-2003,M,Total,Number,15283
-2003,F,"(C00-C97,D00-D48) Neoplasms",Number,2272
-2003,F,(I00-I99) Diseases of the circulatory system,Number,8989
-2003,F,(J00-J99) Diseases of the respiratory system,Number,334
-2003,F,(K00-K93) Diseases of the digestive system,Number,311
-2003,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1554
-2003,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,244
-2003,F,Unknown,Number,346
-2003,F,Total,Number,14050
-2004,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,255
-2004,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,5709
-2004,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,31
-2004,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,993
-2004,Both sexes,(F00-F99) Mental and behavioural disorders,Number,104
-2004,Both sexes,(G00-G99) Diseases of the nervous system,Number,251
-2004,Both sexes,(I00-I99) Diseases of the circulatory system,Number,17700
-2004,Both sexes,(J00-J99) Diseases of the respiratory system,Number,907
-2004,Both sexes,(K00-K93) Diseases of the digestive system,Number,839
-2004,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,11
-2004,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,16
-2004,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,467
-2004,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2004,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,163
-2004,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,42
-2004,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2723
-2004,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,920
-2004,Both sexes,(V01-Y98) External causes of mortality,Number,273
-2004,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2004,Both sexes,Unknown,Number,1210
-2004,Both sexes,Total,Number,32616
-2004,M,(A00-B99) Infectious and parasitic diseases,Number,152
-2004,M,"(C00-C97,D00-D48) Neoplasms",Number,3398
-2004,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,10
-2004,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,377
-2004,M,(F00-F99) Mental and behavioural disorders,Number,80
-2004,M,(G00-G99) Diseases of the nervous system,Number,126
-2004,M,(I00-I99) Diseases of the circulatory system,Number,8262
-2004,M,(J00-J99) Diseases of the respiratory system,Number,551
-2004,M,(K00-K93) Diseases of the digestive system,Number,498
-2004,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,2
-2004,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,9
-2004,M,(N00-N99) Diseases of the genitourinary system,Number,248
-2004,M,(P00-P96) Certain conditions originating in the perinatal period,Number,101
-2004,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,26
-2004,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1399
-2004,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,691
-2004,M,(V01-Y98) External causes of mortality,Number,198
-2004,M,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2004,M,Unknown,Number,651
-2004,M,Total,Number,16780
-2004,F,(A00-B99) Infectious and parasitic diseases,Number,103
-2004,F,"(C00-C97,D00-D48) Neoplasms",Number,2311
-2004,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,21
-2004,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,616
-2004,F,(F00-F99) Mental and behavioural disorders,Number,24
-2004,F,(G00-G99) Diseases of the nervous system,Number,125
-2004,F,(I00-I99) Diseases of the circulatory system,Number,9438
-2004,F,(J00-J99) Diseases of the respiratory system,Number,356
-2004,F,(K00-K93) Diseases of the digestive system,Number,341
-2004,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,9
-2004,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,7
-2004,F,(N00-N99) Diseases of the genitourinary system,Number,219
-2004,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2004,F,(P00-P96) Certain conditions originating in the perinatal period,Number,62
-2004,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,16
-2004,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1324
-2004,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,229
-2004,F,(V01-Y98) External causes of mortality,Number,75
-2004,F,Unknown,Number,559
-2004,F,Total,Number,15836
-2005,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,6255
-2005,Both sexes,(I00-I99) Diseases of the circulatory system,Number,17915
-2005,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1242
-2005,Both sexes,(K00-K93) Diseases of the digestive system,Number,818
-2005,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2394
-2005,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,952
-2005,Both sexes,Total,Number,29576
-2005,M,"(C00-C97,D00-D48) Neoplasms",Number,3766
-2005,M,(I00-I99) Diseases of the circulatory system,Number,8559
-2005,M,(J00-J99) Diseases of the respiratory system,Number,726
-2005,M,(K00-K93) Diseases of the digestive system,Number,491
-2005,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1312
-2005,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,718
-2005,M,Total,Number,15572
-2005,F,"(C00-C97,D00-D48) Neoplasms",Number,2489
-2005,F,(I00-I99) Diseases of the circulatory system,Number,9356
-2005,F,(J00-J99) Diseases of the respiratory system,Number,516
-2005,F,(K00-K93) Diseases of the digestive system,Number,327
-2005,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1082
-2005,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,234
-2005,F,Total,Number,14004
-2006,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,237
-2006,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,6252
-2006,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,20
-2006,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1537
-2006,Both sexes,(F00-F99) Mental and behavioural disorders,Number,118
-2006,Both sexes,(G00-G99) Diseases of the nervous system,Number,298
-2006,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2006,Both sexes,(I00-I99) Diseases of the circulatory system,Number,16967
-2006,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1132
-2006,Both sexes,(K00-K93) Diseases of the digestive system,Number,826
-2006,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,11
-2006,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,16
-2006,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,547
-2006,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,3
-2006,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,185
-2006,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,56
-2006,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2744
-2006,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1017
-2006,Both sexes,(V01-Y98) External causes of mortality,Number,212
-2006,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2006,Both sexes,Unknown,Number,1041
-2006,Both sexes,Total,Number,33221
-2006,M,(A00-B99) Infectious and parasitic diseases,Number,147
-2006,M,"(C00-C97,D00-D48) Neoplasms",Number,3697
-2006,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,9
-2006,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,598
-2006,M,(F00-F99) Mental and behavioural disorders,Number,88
-2006,M,(G00-G99) Diseases of the nervous system,Number,174
-2006,M,(I00-I99) Diseases of the circulatory system,Number,7941
-2006,M,(J00-J99) Diseases of the respiratory system,Number,677
-2006,M,(K00-K93) Diseases of the digestive system,Number,493
-2006,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,6
-2006,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,3
-2006,M,(N00-N99) Diseases of the genitourinary system,Number,293
-2006,M,(P00-P96) Certain conditions originating in the perinatal period,Number,118
-2006,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,32
-2006,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1527
-2006,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,775
-2006,M,(V01-Y98) External causes of mortality,Number,152
-2006,M,Unknown,Number,578
-2006,M,Total,Number,17308
-2006,F,(A00-B99) Infectious and parasitic diseases,Number,90
-2006,F,"(C00-C97,D00-D48) Neoplasms",Number,2555
-2006,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,11
-2006,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,939
-2006,F,(F00-F99) Mental and behavioural disorders,Number,30
-2006,F,(G00-G99) Diseases of the nervous system,Number,124
-2006,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2006,F,(I00-I99) Diseases of the circulatory system,Number,9026
-2006,F,(J00-J99) Diseases of the respiratory system,Number,455
-2006,F,(K00-K93) Diseases of the digestive system,Number,333
-2006,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,5
-2006,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,13
-2006,F,(N00-N99) Diseases of the genitourinary system,Number,254
-2006,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,3
-2006,F,(P00-P96) Certain conditions originating in the perinatal period,Number,67
-2006,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,24
-2006,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1217
-2006,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,242
-2006,F,(V01-Y98) External causes of mortality,Number,60
-2006,F,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2006,F,Unknown,Number,463
-2006,F,Total,Number,15913
-2007,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,250
-2007,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,6713
-2007,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,54
-2007,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1582
-2007,Both sexes,(F00-F99) Mental and behavioural disorders,Number,162
-2007,Both sexes,(G00-G99) Diseases of the nervous system,Number,317
-2007,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2007,Both sexes,(I00-I99) Diseases of the circulatory system,Number,18516
-2007,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1145
-2007,Both sexes,(K00-K93) Diseases of the digestive system,Number,924
-2007,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,10
-2007,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,32
-2007,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,558
-2007,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2007,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,133
-2007,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,54
-2007,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2219
-2007,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1030
-2007,Both sexes,(V01-Y98) External causes of mortality,Number,267
-2007,Both sexes,Unknown,Number,1076
-2007,Both sexes,Total,Number,35044
-2007,M,(A00-B99) Infectious and parasitic diseases,Number,164
-2007,M,"(C00-C97,D00-D48) Neoplasms",Number,3983
-2007,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,22
-2007,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,609
-2007,M,(F00-F99) Mental and behavioural disorders,Number,113
-2007,M,(G00-G99) Diseases of the nervous system,Number,161
-2007,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2007,M,(I00-I99) Diseases of the circulatory system,Number,8697
-2007,M,(J00-J99) Diseases of the respiratory system,Number,664
-2007,M,(K00-K93) Diseases of the digestive system,Number,570
-2007,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,4
-2007,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,9
-2007,M,(N00-N99) Diseases of the genitourinary system,Number,320
-2007,M,(P00-P96) Certain conditions originating in the perinatal period,Number,79
-2007,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,28
-2007,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1143
-2007,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,766
-2007,M,(V01-Y98) External causes of mortality,Number,199
-2007,M,Unknown,Number,622
-2007,M,Total,Number,18154
-2007,F,(A00-B99) Infectious and parasitic diseases,Number,86
-2007,F,"(C00-C97,D00-D48) Neoplasms",Number,2730
-2007,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,32
-2007,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,973
-2007,F,(F00-F99) Mental and behavioural disorders,Number,49
-2007,F,(G00-G99) Diseases of the nervous system,Number,156
-2007,F,(I00-I99) Diseases of the circulatory system,Number,9819
-2007,F,(J00-J99) Diseases of the respiratory system,Number,481
-2007,F,(K00-K93) Diseases of the digestive system,Number,354
-2007,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,6
-2007,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,23
-2007,F,(N00-N99) Diseases of the genitourinary system,Number,238
-2007,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2007,F,(P00-P96) Certain conditions originating in the perinatal period,Number,54
-2007,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,26
-2007,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1076
-2007,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,264
-2007,F,(V01-Y98) External causes of mortality,Number,68
-2007,F,Unknown,Number,454
-2007,F,Total,Number,16890
-2008,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,275
-2008,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,6734
-2008,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,37
-2008,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1563
-2008,Both sexes,(F00-F99) Mental and behavioural disorders,Number,169
-2008,Both sexes,(G00-G99) Diseases of the nervous system,Number,287
-2008,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2008,Both sexes,(I00-I99) Diseases of the circulatory system,Number,17988
-2008,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1035
-2008,Both sexes,(K00-K93) Diseases of the digestive system,Number,846
-2008,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,10
-2008,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,40
-2008,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,571
-2008,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,4
-2008,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,136
-2008,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,61
-2008,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2028
-2008,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1200
-2008,Both sexes,(V01-Y98) External causes of mortality,Number,2
-2008,Both sexes,Unknown,Number,1039
-2008,Both sexes,Total,Number,34026
-2008,M,(A00-B99) Infectious and parasitic diseases,Number,170
-2008,M,"(C00-C97,D00-D48) Neoplasms",Number,4053
-2008,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,16
-2008,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,618
-2008,M,(F00-F99) Mental and behavioural disorders,Number,127
-2008,M,(G00-G99) Diseases of the nervous system,Number,167
-2008,M,(I00-I99) Diseases of the circulatory system,Number,8385
-2008,M,(J00-J99) Diseases of the respiratory system,Number,627
-2008,M,(K00-K93) Diseases of the digestive system,Number,512
-2008,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,3
-2008,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,14
-2008,M,(N00-N99) Diseases of the genitourinary system,Number,306
-2008,M,(P00-P96) Certain conditions originating in the perinatal period,Number,75
-2008,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,32
-2008,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1052
-2008,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,942
-2008,M,(V01-Y98) External causes of mortality,Number,2
-2008,M,Unknown,Number,586
-2008,M,Total,Number,17687
-2008,F,(A00-B99) Infectious and parasitic diseases,Number,105
-2008,F,"(C00-C97,D00-D48) Neoplasms",Number,2681
-2008,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,21
-2008,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,945
-2008,F,(F00-F99) Mental and behavioural disorders,Number,42
-2008,F,(G00-G99) Diseases of the nervous system,Number,120
-2008,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2008,F,(I00-I99) Diseases of the circulatory system,Number,9603
-2008,F,(J00-J99) Diseases of the respiratory system,Number,408
-2008,F,(K00-K93) Diseases of the digestive system,Number,334
-2008,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,7
-2008,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,26
-2008,F,(N00-N99) Diseases of the genitourinary system,Number,265
-2008,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,4
-2008,F,(P00-P96) Certain conditions originating in the perinatal period,Number,61
-2008,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,29
-2008,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,976
-2008,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,258
-2008,F,Unknown,Number,453
-2008,F,Total,Number,16339
-2009,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,287
-2009,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,6970
-2009,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,41
-2009,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1999
-2009,Both sexes,(F00-F99) Mental and behavioural disorders,Number,191
-2009,Both sexes,(G00-G99) Diseases of the nervous system,Number,319
-2009,Both sexes,(I00-I99) Diseases of the circulatory system,Number,18295
-2009,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1133
-2009,Both sexes,(K00-K93) Diseases of the digestive system,Number,936
-2009,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,9
-2009,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,35
-2009,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,588
-2009,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2009,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,144
-2009,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,61
-2009,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1985
-2009,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1256
-2009,Both sexes,(V01-Y98) External causes of mortality,Number,2
-2009,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,2
-2009,Both sexes,Unknown,Number,650
-2009,Both sexes,Total,Number,34904
-2009,M,(A00-B99) Infectious and parasitic diseases,Number,180
-2009,M,"(C00-C97,D00-D48) Neoplasms",Number,4118
-2009,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,17
-2009,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,766
-2009,M,(F00-F99) Mental and behavioural disorders,Number,127
-2009,M,(G00-G99) Diseases of the nervous system,Number,167
-2009,M,(I00-I99) Diseases of the circulatory system,Number,8586
-2009,M,(J00-J99) Diseases of the respiratory system,Number,644
-2009,M,(K00-K93) Diseases of the digestive system,Number,559
-2009,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,4
-2009,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,8
-2009,M,(N00-N99) Diseases of the genitourinary system,Number,299
-2009,M,(P00-P96) Certain conditions originating in the perinatal period,Number,76
-2009,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,31
-2009,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1012
-2009,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,941
-2009,M,(V01-Y98) External causes of mortality,Number,2
-2009,M,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2009,M,Unknown,Number,346
-2009,M,Total,Number,17884
-2009,F,(A00-B99) Infectious and parasitic diseases,Number,107
-2009,F,"(C00-C97,D00-D48) Neoplasms",Number,2852
-2009,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,24
-2009,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1233
-2009,F,(F00-F99) Mental and behavioural disorders,Number,64
-2009,F,(G00-G99) Diseases of the nervous system,Number,152
-2009,F,(I00-I99) Diseases of the circulatory system,Number,9709
-2009,F,(J00-J99) Diseases of the respiratory system,Number,489
-2009,F,(K00-K93) Diseases of the digestive system,Number,377
-2009,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,5
-2009,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,27
-2009,F,(N00-N99) Diseases of the genitourinary system,Number,289
-2009,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2009,F,(P00-P96) Certain conditions originating in the perinatal period,Number,68
-2009,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,30
-2009,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,973
-2009,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,315
-2009,F,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2009,F,Unknown,Number,304
-2009,F,Total,Number,17020
-2010,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,285
-2010,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,6973
-2010,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,45
-2010,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1903
-2010,Both sexes,(F00-F99) Mental and behavioural disorders,Number,171
-2010,Both sexes,(G00-G99) Diseases of the nervous system,Number,350
-2010,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,2
-2010,Both sexes,(I00-I99) Diseases of the circulatory system,Number,18805
-2010,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1145
-2010,Both sexes,(K00-K93) Diseases of the digestive system,Number,918
-2010,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,14
-2010,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,42
-2010,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,577
-2010,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2010,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,138
-2010,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,63
-2010,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1916
-2010,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1117
-2010,Both sexes,(V01-Y98) External causes of mortality,Number,15
-2010,Both sexes,Unknown,Number,638
-2010,Both sexes,Total,Number,35118
-2010,M,(A00-B99) Infectious and parasitic diseases,Number,183
-2010,M,"(C00-C97,D00-D48) Neoplasms",Number,4059
-2010,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,17
-2010,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,729
-2010,M,(F00-F99) Mental and behavioural disorders,Number,118
-2010,M,(G00-G99) Diseases of the nervous system,Number,178
-2010,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2010,M,(I00-I99) Diseases of the circulatory system,Number,8699
-2010,M,(J00-J99) Diseases of the respiratory system,Number,681
-2010,M,(K00-K93) Diseases of the digestive system,Number,544
-2010,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,5
-2010,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,16
-2010,M,(N00-N99) Diseases of the genitourinary system,Number,296
-2010,M,(P00-P96) Certain conditions originating in the perinatal period,Number,76
-2010,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,37
-2010,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1008
-2010,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,878
-2010,M,(V01-Y98) External causes of mortality,Number,11
-2010,M,Unknown,Number,364
-2010,M,Total,Number,17900
-2010,F,(A00-B99) Infectious and parasitic diseases,Number,102
-2010,F,"(C00-C97,D00-D48) Neoplasms",Number,2914
-2010,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,28
-2010,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1174
-2010,F,(F00-F99) Mental and behavioural disorders,Number,53
-2010,F,(G00-G99) Diseases of the nervous system,Number,172
-2010,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2010,F,(I00-I99) Diseases of the circulatory system,Number,10106
-2010,F,(J00-J99) Diseases of the respiratory system,Number,464
-2010,F,(K00-K93) Diseases of the digestive system,Number,374
-2010,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,9
-2010,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,26
-2010,F,(N00-N99) Diseases of the genitourinary system,Number,281
-2010,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2010,F,(P00-P96) Certain conditions originating in the perinatal period,Number,62
-2010,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,26
-2010,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,908
-2010,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,239
-2010,F,(V01-Y98) External causes of mortality,Number,4
-2010,F,Unknown,Number,274
-2010,F,Total,Number,17218
-2011,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,298
-2011,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7214
-2011,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,59
-2011,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1940
-2011,Both sexes,(F00-F99) Mental and behavioural disorders,Number,161
-2011,Both sexes,(G00-G99) Diseases of the nervous system,Number,410
-2011,Both sexes,(I00-I99) Diseases of the circulatory system,Number,18468
-2011,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1281
-2011,Both sexes,(K00-K93) Diseases of the digestive system,Number,874
-2011,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,12
-2011,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,45
-2011,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,551
-2011,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,2
-2011,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,118
-2011,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,58
-2011,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1665
-2011,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1162
-2011,Both sexes,(V01-Y98) External causes of mortality,Number,14
-2011,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2011,Both sexes,Unknown,Number,695
-2011,Both sexes,Total,Number,35028
-2011,M,(A00-B99) Infectious and parasitic diseases,Number,192
-2011,M,"(C00-C97,D00-D48) Neoplasms",Number,4316
-2011,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,20
-2011,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,761
-2011,M,(F00-F99) Mental and behavioural disorders,Number,89
-2011,M,(G00-G99) Diseases of the nervous system,Number,213
-2011,M,(I00-I99) Diseases of the circulatory system,Number,8542
-2011,M,(J00-J99) Diseases of the respiratory system,Number,725
-2011,M,(K00-K93) Diseases of the digestive system,Number,543
-2011,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,2
-2011,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,12
-2011,M,(N00-N99) Diseases of the genitourinary system,Number,302
-2011,M,(P00-P96) Certain conditions originating in the perinatal period,Number,67
-2011,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,30
-2011,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,829
-2011,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,930
-2011,M,(V01-Y98) External causes of mortality,Number,13
-2011,M,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2011,M,Unknown,Number,378
-2011,M,Total,Number,17965
-2011,F,(A00-B99) Infectious and parasitic diseases,Number,106
-2011,F,"(C00-C97,D00-D48) Neoplasms",Number,2898
-2011,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,39
-2011,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1179
-2011,F,(F00-F99) Mental and behavioural disorders,Number,72
-2011,F,(G00-G99) Diseases of the nervous system,Number,197
-2011,F,(I00-I99) Diseases of the circulatory system,Number,9926
-2011,F,(J00-J99) Diseases of the respiratory system,Number,556
-2011,F,(K00-K93) Diseases of the digestive system,Number,331
-2011,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,10
-2011,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,33
-2011,F,(N00-N99) Diseases of the genitourinary system,Number,249
-2011,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,2
-2011,F,(P00-P96) Certain conditions originating in the perinatal period,Number,51
-2011,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,28
-2011,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,836
-2011,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,232
-2011,F,(V01-Y98) External causes of mortality,Number,1
-2011,F,Unknown,Number,317
-2011,F,Total,Number,17063
-2012,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,344
-2012,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7598
-2012,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,47
-2012,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1926
-2012,Both sexes,(F00-F99) Mental and behavioural disorders,Number,160
-2012,Both sexes,(G00-G99) Diseases of the nervous system,Number,409
-2012,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2012,Both sexes,(I00-I99) Diseases of the circulatory system,Number,19252
-2012,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1266
-2012,Both sexes,(K00-K93) Diseases of the digestive system,Number,978
-2012,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,13
-2012,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,54
-2012,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,601
-2012,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,3
-2012,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,111
-2012,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,40
-2012,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1207
-2012,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1067
-2012,Both sexes,Unknown,Number,740
-2012,Both sexes,Total,Number,35817
-2012,M,(A00-B99) Infectious and parasitic diseases,Number,185
-2012,M,"(C00-C97,D00-D48) Neoplasms",Number,4458
-2012,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,25
-2012,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,785
-2012,M,(F00-F99) Mental and behavioural disorders,Number,109
-2012,M,(G00-G99) Diseases of the nervous system,Number,207
-2012,M,(I00-I99) Diseases of the circulatory system,Number,9060
-2012,M,(J00-J99) Diseases of the respiratory system,Number,754
-2012,M,(K00-K93) Diseases of the digestive system,Number,588
-2012,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,6
-2012,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,15
-2012,M,(N00-N99) Diseases of the genitourinary system,Number,303
-2012,M,(P00-P96) Certain conditions originating in the perinatal period,Number,67
-2012,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,26
-2012,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,609
-2012,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,830
-2012,M,Unknown,Number,409
-2012,M,Total,Number,18436
-2012,F,(A00-B99) Infectious and parasitic diseases,Number,159
-2012,F,"(C00-C97,D00-D48) Neoplasms",Number,3140
-2012,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,22
-2012,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1141
-2012,F,(F00-F99) Mental and behavioural disorders,Number,51
-2012,F,(G00-G99) Diseases of the nervous system,Number,202
-2012,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2012,F,(I00-I99) Diseases of the circulatory system,Number,10192
-2012,F,(J00-J99) Diseases of the respiratory system,Number,512
-2012,F,(K00-K93) Diseases of the digestive system,Number,390
-2012,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,7
-2012,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,39
-2012,F,(N00-N99) Diseases of the genitourinary system,Number,298
-2012,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,3
-2012,F,(P00-P96) Certain conditions originating in the perinatal period,Number,44
-2012,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,14
-2012,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,598
-2012,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,237
-2012,F,Unknown,Number,331
-2012,F,Total,Number,17381
-2013,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,268
-2013,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7506
-2013,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,50
-2013,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1970
-2013,Both sexes,(F00-F99) Mental and behavioural disorders,Number,192
-2013,Both sexes,(G00-G99) Diseases of the nervous system,Number,382
-2013,Both sexes,(I00-I99) Diseases of the circulatory system,Number,18186
-2013,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1428
-2013,Both sexes,(K00-K93) Diseases of the digestive system,Number,955
-2013,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,31
-2013,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,57
-2013,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,581
-2013,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,101
-2013,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,38
-2013,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2107
-2013,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1024
-2013,Both sexes,(V01-Y98) External causes of mortality,Number,4
-2013,Both sexes,Unknown,Number,782
-2013,Both sexes,Total,Number,35662
-2013,M,(A00-B99) Infectious and parasitic diseases,Number,165
-2013,M,"(C00-C97,D00-D48) Neoplasms",Number,4384
-2013,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,20
-2013,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,820
-2013,M,(F00-F99) Mental and behavioural disorders,Number,101
-2013,M,(G00-G99) Diseases of the nervous system,Number,198
-2013,M,(I00-I99) Diseases of the circulatory system,Number,8458
-2013,M,(J00-J99) Diseases of the respiratory system,Number,827
-2013,M,(K00-K93) Diseases of the digestive system,Number,526
-2013,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,12
-2013,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,18
-2013,M,(N00-N99) Diseases of the genitourinary system,Number,304
-2013,M,(P00-P96) Certain conditions originating in the perinatal period,Number,62
-2013,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,19
-2013,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1112
-2013,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,794
-2013,M,(V01-Y98) External causes of mortality,Number,4
-2013,M,Unknown,Number,393
-2013,M,Total,Number,18217
-2013,F,(A00-B99) Infectious and parasitic diseases,Number,103
-2013,F,"(C00-C97,D00-D48) Neoplasms",Number,3122
-2013,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,30
-2013,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1150
-2013,F,(F00-F99) Mental and behavioural disorders,Number,91
-2013,F,(G00-G99) Diseases of the nervous system,Number,184
-2013,F,(I00-I99) Diseases of the circulatory system,Number,9728
-2013,F,(J00-J99) Diseases of the respiratory system,Number,601
-2013,F,(K00-K93) Diseases of the digestive system,Number,429
-2013,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,19
-2013,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,39
-2013,F,(N00-N99) Diseases of the genitourinary system,Number,277
-2013,F,(P00-P96) Certain conditions originating in the perinatal period,Number,39
-2013,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,19
-2013,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,995
-2013,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,230
-2013,F,Unknown,Number,389
-2013,F,Total,Number,17445
-2014,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,291
-2014,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7821
-2014,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,42
-2014,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,2267
-2014,Both sexes,(F00-F99) Mental and behavioural disorders,Number,225
-2014,Both sexes,(G00-G99) Diseases of the nervous system,Number,396
-2014,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,6
-2014,Both sexes,(I00-I99) Diseases of the circulatory system,Number,17930
-2014,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1409
-2014,Both sexes,(K00-K93) Diseases of the digestive system,Number,949
-2014,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,32
-2014,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,61
-2014,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,536
-2014,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,85
-2014,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,49
-2014,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2241
-2014,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1032
-2014,Both sexes,(V01-Y98) External causes of mortality,Number,17
-2014,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2014,Both sexes,Unknown,Number,590
-2014,Both sexes,Total,Number,35980
-2014,M,(A00-B99) Infectious and parasitic diseases,Number,164
-2014,M,"(C00-C97,D00-D48) Neoplasms",Number,4569
-2014,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,14
-2014,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,925
-2014,M,(F00-F99) Mental and behavioural disorders,Number,142
-2014,M,(G00-G99) Diseases of the nervous system,Number,207
-2014,M,(I00-I99) Diseases of the circulatory system,Number,8336
-2014,M,(J00-J99) Diseases of the respiratory system,Number,840
-2014,M,(K00-K93) Diseases of the digestive system,Number,545
-2014,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,16
-2014,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,16
-2014,M,(N00-N99) Diseases of the genitourinary system,Number,260
-2014,M,(P00-P96) Certain conditions originating in the perinatal period,Number,42
-2014,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,20
-2014,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1132
-2014,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,795
-2014,M,(V01-Y98) External causes of mortality,Number,10
-2014,M,Unknown,Number,327
-2014,M,Total,Number,18360
-2014,F,(A00-B99) Infectious and parasitic diseases,Number,127
-2014,F,"(C00-C97,D00-D48) Neoplasms",Number,3252
-2014,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,28
-2014,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1342
-2014,F,(F00-F99) Mental and behavioural disorders,Number,83
-2014,F,(G00-G99) Diseases of the nervous system,Number,189
-2014,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,6
-2014,F,(I00-I99) Diseases of the circulatory system,Number,9594
-2014,F,(J00-J99) Diseases of the respiratory system,Number,569
-2014,F,(K00-K93) Diseases of the digestive system,Number,404
-2014,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,16
-2014,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,45
-2014,F,(N00-N99) Diseases of the genitourinary system,Number,276
-2014,F,(P00-P96) Certain conditions originating in the perinatal period,Number,43
-2014,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,29
-2014,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1109
-2014,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,237
-2014,F,(V01-Y98) External causes of mortality,Number,7
-2014,F,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2014,F,Unknown,Number,263
-2014,F,Total,Number,17620
-2015,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,370
-2015,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7956
-2015,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,55
-2015,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,2025
-2015,Both sexes,(F00-F99) Mental and behavioural disorders,Number,188
-2015,Both sexes,(G00-G99) Diseases of the nervous system,Number,447
-2015,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2015,Both sexes,(I00-I99) Diseases of the circulatory system,Number,19713
-2015,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1718
-2015,Both sexes,(K00-K93) Diseases of the digestive system,Number,988
-2015,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,42
-2015,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,55
-2015,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,684
-2015,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2015,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,126
-2015,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,31
-2015,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2098
-2015,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1103
-2015,Both sexes,(V01-Y98) External causes of mortality,Number,8
-2015,Both sexes,Unknown,Number,541
-2015,Both sexes,Total,Number,38150
-2015,M,(A00-B99) Infectious and parasitic diseases,Number,207
-2015,M,"(C00-C97,D00-D48) Neoplasms",Number,4525
-2015,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,19
-2015,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,856
-2015,M,(F00-F99) Mental and behavioural disorders,Number,102
-2015,M,(G00-G99) Diseases of the nervous system,Number,241
-2015,M,(I00-I99) Diseases of the circulatory system,Number,9012
-2015,M,(J00-J99) Diseases of the respiratory system,Number,972
-2015,M,(K00-K93) Diseases of the digestive system,Number,571
-2015,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,16
-2015,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,21
-2015,M,(N00-N99) Diseases of the genitourinary system,Number,331
-2015,M,(P00-P96) Certain conditions originating in the perinatal period,Number,67
-2015,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,15
-2015,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1102
-2015,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,840
-2015,M,(V01-Y98) External causes of mortality,Number,5
-2015,M,Unknown,Number,317
-2015,M,Total,Number,19219
-2015,F,(A00-B99) Infectious and parasitic diseases,Number,163
-2015,F,"(C00-C97,D00-D48) Neoplasms",Number,3431
-2015,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,36
-2015,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1169
-2015,F,(F00-F99) Mental and behavioural disorders,Number,86
-2015,F,(G00-G99) Diseases of the nervous system,Number,206
-2015,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
-2015,F,(I00-I99) Diseases of the circulatory system,Number,10701
-2015,F,(J00-J99) Diseases of the respiratory system,Number,746
-2015,F,(K00-K93) Diseases of the digestive system,Number,417
-2015,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,26
-2015,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,34
-2015,F,(N00-N99) Diseases of the genitourinary system,Number,353
-2015,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2015,F,(P00-P96) Certain conditions originating in the perinatal period,Number,59
-2015,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,16
-2015,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,996
-2015,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,263
-2015,F,(V01-Y98) External causes of mortality,Number,3
-2015,F,Unknown,Number,224
-2015,F,Total,Number,18931
-2016,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,412
-2016,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7761
-2016,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,54
-2016,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1961
-2016,Both sexes,(F00-F99) Mental and behavioural disorders,Number,226
-2016,Both sexes,(G00-G99) Diseases of the nervous system,Number,386
-2016,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,8
-2016,Both sexes,(I00-I99) Diseases of the circulatory system,Number,18959
-2016,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1487
-2016,Both sexes,(K00-K93) Diseases of the digestive system,Number,1077
-2016,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,35
-2016,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,46
-2016,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,696
-2016,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2016,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,117
-2016,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,16
-2016,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1730
-2016,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1040
-2016,Both sexes,(V01-Y98) External causes of mortality,Number,14
-2016,Both sexes,Unknown,Number,545
-2016,Both sexes,Total,Number,36571
-2016,M,(A00-B99) Infectious and parasitic diseases,Number,214
-2016,M,"(C00-C97,D00-D48) Neoplasms",Number,4464
-2016,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,22
-2016,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,789
-2016,M,(F00-F99) Mental and behavioural disorders,Number,141
-2016,M,(G00-G99) Diseases of the nervous system,Number,213
-2016,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,6
-2016,M,(I00-I99) Diseases of the circulatory system,Number,8780
-2016,M,(J00-J99) Diseases of the respiratory system,Number,879
-2016,M,(K00-K93) Diseases of the digestive system,Number,619
-2016,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,16
-2016,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,9
-2016,M,(N00-N99) Diseases of the genitourinary system,Number,345
-2016,M,(P00-P96) Certain conditions originating in the perinatal period,Number,74
-2016,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,9
-2016,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,872
-2016,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,783
-2016,M,(V01-Y98) External causes of mortality,Number,11
-2016,M,Unknown,Number,296
-2016,M,Total,Number,18542
-2016,F,(A00-B99) Infectious and parasitic diseases,Number,198
-2016,F,"(C00-C97,D00-D48) Neoplasms",Number,3297
-2016,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,32
-2016,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1172
-2016,F,(F00-F99) Mental and behavioural disorders,Number,85
-2016,F,(G00-G99) Diseases of the nervous system,Number,173
-2016,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,2
-2016,F,(I00-I99) Diseases of the circulatory system,Number,10179
-2016,F,(J00-J99) Diseases of the respiratory system,Number,608
-2016,F,(K00-K93) Diseases of the digestive system,Number,458
-2016,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,19
-2016,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,37
-2016,F,(N00-N99) Diseases of the genitourinary system,Number,351
-2016,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2016,F,(P00-P96) Certain conditions originating in the perinatal period,Number,43
-2016,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,7
-2016,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,858
-2016,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,257
-2016,F,(V01-Y98) External causes of mortality,Number,3
-2016,F,Unknown,Number,249
-2016,F,Total,Number,18029
-2017,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,395
-2017,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,8136
-2017,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,69
-2017,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,2170
-2017,Both sexes,(F00-F99) Mental and behavioural disorders,Number,265
-2017,Both sexes,(G00-G99) Diseases of the nervous system,Number,382
-2017,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,5
-2017,Both sexes,(I00-I99) Diseases of the circulatory system,Number,19207
-2017,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1579
-2017,Both sexes,(K00-K93) Diseases of the digestive system,Number,1007
-2017,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,44
-2017,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,44
-2017,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,587
-2017,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,136
-2017,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,27
-2017,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2294
-2017,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1067
-2017,Both sexes,(V01-Y98) External causes of mortality,Number,15
-2017,Both sexes,Unknown,Number,550
-2017,Both sexes,Total,Number,37979
-2017,M,(A00-B99) Infectious and parasitic diseases,Number,209
-2017,M,"(C00-C97,D00-D48) Neoplasms",Number,4632
-2017,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,25
-2017,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,885
-2017,M,(F00-F99) Mental and behavioural disorders,Number,147
-2017,M,(G00-G99) Diseases of the nervous system,Number,193
-2017,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,2
-2017,M,(I00-I99) Diseases of the circulatory system,Number,8880
-2017,M,(J00-J99) Diseases of the respiratory system,Number,936
-2017,M,(K00-K93) Diseases of the digestive system,Number,570
-2017,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,12
-2017,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,17
-2017,M,(N00-N99) Diseases of the genitourinary system,Number,299
-2017,M,(P00-P96) Certain conditions originating in the perinatal period,Number,75
-2017,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,16
-2017,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1168
-2017,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,780
-2017,M,(V01-Y98) External causes of mortality,Number,9
-2017,M,Unknown,Number,331
-2017,M,Total,Number,19186
-2017,F,(A00-B99) Infectious and parasitic diseases,Number,186
-2017,F,"(C00-C97,D00-D48) Neoplasms",Number,3504
-2017,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,44
-2017,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1285
-2017,F,(F00-F99) Mental and behavioural disorders,Number,118
-2017,F,(G00-G99) Diseases of the nervous system,Number,189
-2017,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,3
-2017,F,(I00-I99) Diseases of the circulatory system,Number,10327
-2017,F,(J00-J99) Diseases of the respiratory system,Number,643
-2017,F,(K00-K93) Diseases of the digestive system,Number,437
-2017,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,32
-2017,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,27
-2017,F,(N00-N99) Diseases of the genitourinary system,Number,288
-2017,F,(P00-P96) Certain conditions originating in the perinatal period,Number,61
-2017,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,11
-2017,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1126
-2017,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,287
-2017,F,(V01-Y98) External causes of mortality,Number,6
-2017,F,Unknown,Number,219
-2017,F,Total,Number,18793
-2018,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,443
-2018,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7881
-2018,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,72
-2018,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,2086
-2018,Both sexes,(F00-F99) Mental and behavioural disorders,Number,236
-2018,Both sexes,(G00-G99) Diseases of the nervous system,Number,337
-2018,Both sexes,(I00-I99) Diseases of the circulatory system,Number,18818
-2018,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1856
-2018,Both sexes,(K00-K93) Diseases of the digestive system,Number,1052
-2018,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,40
-2018,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,53
-2018,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,631
-2018,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2018,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,134
-2018,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,26
-2018,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2581
-2018,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1015
-2018,Both sexes,(V01-Y98) External causes of mortality,Number,11
-2018,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2018,Both sexes,Unknown,Number,470
-2018,Both sexes,Total,Number,37744
-2018,M,(A00-B99) Infectious and parasitic diseases,Number,243
-2018,M,"(C00-C97,D00-D48) Neoplasms",Number,4606
-2018,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,27
-2018,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,881
-2018,M,(F00-F99) Mental and behavioural disorders,Number,121
-2018,M,(G00-G99) Diseases of the nervous system,Number,171
-2018,M,(I00-I99) Diseases of the circulatory system,Number,8577
-2018,M,(J00-J99) Diseases of the respiratory system,Number,990
-2018,M,(K00-K93) Diseases of the digestive system,Number,610
-2018,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,21
-2018,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,13
-2018,M,(N00-N99) Diseases of the genitourinary system,Number,337
-2018,M,(P00-P96) Certain conditions originating in the perinatal period,Number,67
-2018,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,12
-2018,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1301
-2018,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,773
-2018,M,(V01-Y98) External causes of mortality,Number,9
-2018,M,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2018,M,Unknown,Number,247
-2018,M,Total,Number,19007
-2018,F,(A00-B99) Infectious and parasitic diseases,Number,200
-2018,F,"(C00-C97,D00-D48) Neoplasms",Number,3275
-2018,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,45
-2018,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1205
-2018,F,(F00-F99) Mental and behavioural disorders,Number,115
-2018,F,(G00-G99) Diseases of the nervous system,Number,166
-2018,F,(I00-I99) Diseases of the circulatory system,Number,10241
-2018,F,(J00-J99) Diseases of the respiratory system,Number,866
-2018,F,(K00-K93) Diseases of the digestive system,Number,442
-2018,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,19
-2018,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,40
-2018,F,(N00-N99) Diseases of the genitourinary system,Number,294
-2018,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,1
-2018,F,(P00-P96) Certain conditions originating in the perinatal period,Number,67
-2018,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,14
-2018,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1280
-2018,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,242
-2018,F,(V01-Y98) External causes of mortality,Number,2
-2018,F,Unknown,Number,223
-2018,F,Total,Number,18737
-2019,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,451
-2019,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,8053
-2019,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,90
-2019,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1925
-2019,Both sexes,(F00-F99) Mental and behavioural disorders,Number,290
-2019,Both sexes,(G00-G99) Diseases of the nervous system,Number,388
-2019,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,9
-2019,Both sexes,(I00-I99) Diseases of the circulatory system,Number,18939
-2019,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1946
-2019,Both sexes,(K00-K93) Diseases of the digestive system,Number,1043
-2019,Both sexes,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,43
-2019,Both sexes,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,57
-2019,Both sexes,(N00-N99) Diseases of the genitourinary system,Number,600
-2019,Both sexes,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,3
-2019,Both sexes,(P00-P96) Certain conditions originating in the perinatal period,Number,130
-2019,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,30
-2019,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,3312
-2019,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,918
-2019,Both sexes,(V01-Y98) External causes of mortality,Number,9
-2019,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,10
-2019,Both sexes,Unknown,Number,583
-2019,Both sexes,Total,Number,38829
-2019,M,(A00-B99) Infectious and parasitic diseases,Number,241
-2019,M,"(C00-C97,D00-D48) Neoplasms",Number,4606
-2019,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,30
-2019,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,806
-2019,M,(F00-F99) Mental and behavioural disorders,Number,153
-2019,M,(G00-G99) Diseases of the nervous system,Number,202
-2019,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,3
-2019,M,(I00-I99) Diseases of the circulatory system,Number,8848
-2019,M,(J00-J99) Diseases of the respiratory system,Number,1076
-2019,M,(K00-K93) Diseases of the digestive system,Number,603
-2019,M,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,17
-2019,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,15
-2019,M,(N00-N99) Diseases of the genitourinary system,Number,314
-2019,M,(P00-P96) Certain conditions originating in the perinatal period,Number,70
-2019,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,11
-2019,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1727
-2019,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,701
-2019,M,(V01-Y98) External causes of mortality,Number,8
-2019,M,(Z00-Z99) Factors influencing health status and contract with health services,Number,7
-2019,M,Unknown,Number,349
-2019,M,Total,Number,19787
-2019,F,(A00-B99) Infectious and parasitic diseases,Number,210
-2019,F,"(C00-C97,D00-D48) Neoplasms",Number,3447
-2019,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,60
-2019,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1119
-2019,F,(F00-F99) Mental and behavioural disorders,Number,137
-2019,F,(G00-G99) Diseases of the nervous system,Number,186
-2019,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,6
-2019,F,(I00-I99) Diseases of the circulatory system,Number,10091
-2019,F,(J00-J99) Diseases of the respiratory system,Number,870
-2019,F,(K00-K93) Diseases of the digestive system,Number,440
-2019,F,(L00-L99) Diseases of the skin and subcutaneous tissue,Number,26
-2019,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,Number,42
-2019,F,(N00-N99) Diseases of the genitourinary system,Number,286
-2019,F,"(O00-O99) Pregnancy, childbirth and the puerperium",Number,3
-2019,F,(P00-P96) Certain conditions originating in the perinatal period,Number,60
-2019,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,19
-2019,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1585
-2019,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,217
-2019,F,(V01-Y98) External causes of mortality,Number,1
-2019,F,(Z00-Z99) Factors influencing health status and contract with health services,Number,3
-2019,F,Unknown,Number,234
-2019,F,Total,Number,19042
+Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
+2011,Number,Both sexes,Total,20208
+2012,Number,Both sexes,Total,20859
+2013,Number,Both sexes,Total,20465
+2014,Number,Both sexes,Total,20283
+2015,Number,Both sexes,Total,21703
+2016,Number,Both sexes,Total,21105
+2017,Number,Both sexes,Total,21689
+2018,Number,Both sexes,Total,21442
+2019,Number,Both sexes,Total,22024
+2020,Number,Both sexes,Total,26026
+2011,Number,Both sexes,infectious_and_parasitic_diseases,179
+2012,Number,Both sexes,infectious_and_parasitic_diseases,208
+2013,Number,Both sexes,infectious_and_parasitic_diseases,143
+2014,Number,Both sexes,infectious_and_parasitic_diseases,149
+2015,Number,Both sexes,infectious_and_parasitic_diseases,202
+2016,Number,Both sexes,infectious_and_parasitic_diseases,213
+2017,Number,Both sexes,infectious_and_parasitic_diseases,214
+2018,Number,Both sexes,infectious_and_parasitic_diseases,215
+2019,Number,Both sexes,infectious_and_parasitic_diseases,213
+2020,Number,Both sexes,infectious_and_parasitic_diseases,229
+2011,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",4228
+2012,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",4490
+2013,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",4217
+2014,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",4421
+2015,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",4607
+2016,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",4592
+2017,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",4833
+2018,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",4664
+2019,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",4868
+2020,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",4856
+2011,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,41
+2012,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,30
+2013,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,32
+2014,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,27
+2015,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,35
+2016,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,30
+2017,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,45
+2018,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,35
+2019,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,62
+2020,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,61
+2011,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,1226
+2012,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,1309
+2013,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,1125
+2014,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,1303
+2015,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,1197
+2016,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,1203
+2017,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,1297
+2018,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,1190
+2019,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,1282
+2020,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,1323
+2011,Number,Both sexes,mental_disorders_and_behavioral_disorders,80
+2012,Number,Both sexes,mental_disorders_and_behavioral_disorders,91
+2013,Number,Both sexes,mental_disorders_and_behavioral_disorders,70
+2014,Number,Both sexes,mental_disorders_and_behavioral_disorders,103
+2015,Number,Both sexes,mental_disorders_and_behavioral_disorders,84
+2016,Number,Both sexes,mental_disorders_and_behavioral_disorders,95
+2017,Number,Both sexes,mental_disorders_and_behavioral_disorders,99
+2018,Number,Both sexes,mental_disorders_and_behavioral_disorders,104
+2019,Number,Both sexes,mental_disorders_and_behavioral_disorders,153
+2020,Number,Both sexes,mental_disorders_and_behavioral_disorders,174
+2011,Number,Both sexes,diseases_of_the_nervous_system,189
+2012,Number,Both sexes,diseases_of_the_nervous_system,183
+2013,Number,Both sexes,diseases_of_the_nervous_system,189
+2014,Number,Both sexes,diseases_of_the_nervous_system,194
+2015,Number,Both sexes,diseases_of_the_nervous_system,206
+2016,Number,Both sexes,diseases_of_the_nervous_system,193
+2017,Number,Both sexes,diseases_of_the_nervous_system,167
+2018,Number,Both sexes,diseases_of_the_nervous_system,152
+2019,Number,Both sexes,diseases_of_the_nervous_system,203
+2020,Number,Both sexes,diseases_of_the_nervous_system,251
+2011,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2012,Number,Both sexes,eye_diseases_and_eye_soldering_disease,1
+2013,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2014,Number,Both sexes,eye_diseases_and_eye_soldering_disease,5
+2015,Number,Both sexes,eye_diseases_and_eye_soldering_disease,1
+2016,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2017,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2018,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2019,Number,Both sexes,eye_diseases_and_eye_soldering_disease,2
+2020,Number,Both sexes,eye_diseases_and_eye_soldering_disease,4
+2011,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2012,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2013,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2014,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2015,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2016,Number,Both sexes,diseases_of_ear_and_mastoid_process,1
+2017,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2018,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2019,Number,Both sexes,diseases_of_ear_and_mastoid_process,1
+2020,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2011,Number,Both sexes,diseases_of_the_circulatory_system,10589
+2012,Number,Both sexes,diseases_of_the_circulatory_system,11028
+2013,Number,Both sexes,diseases_of_the_circulatory_system,10914
+2014,Number,Both sexes,diseases_of_the_circulatory_system,10536
+2015,Number,Both sexes,diseases_of_the_circulatory_system,11672
+2016,Number,Both sexes,diseases_of_the_circulatory_system,11211
+2017,Number,Both sexes,diseases_of_the_circulatory_system,11187
+2018,Number,Both sexes,diseases_of_the_circulatory_system,11043
+2019,Number,Both sexes,diseases_of_the_circulatory_system,10560
+2020,Number,Both sexes,diseases_of_the_circulatory_system,11605
+2011,Number,Both sexes,diseases_of_the_respiratory_system,709
+2012,Number,Both sexes,diseases_of_the_respiratory_system,814
+2013,Number,Both sexes,diseases_of_the_respiratory_system,837
+2014,Number,Both sexes,diseases_of_the_respiratory_system,843
+2015,Number,Both sexes,diseases_of_the_respiratory_system,1054
+2016,Number,Both sexes,diseases_of_the_respiratory_system,915
+2017,Number,Both sexes,diseases_of_the_respiratory_system,906
+2018,Number,Both sexes,diseases_of_the_respiratory_system,1134
+2019,Number,Both sexes,diseases_of_the_respiratory_system,1227
+2020,Number,Both sexes,diseases_of_the_respiratory_system,1537
+2011,Number,Both sexes,diseases_of_the_digestive_system,474
+2012,Number,Both sexes,diseases_of_the_digestive_system,573
+2013,Number,Both sexes,diseases_of_the_digestive_system,541
+2014,Number,Both sexes,diseases_of_the_digestive_system,500
+2015,Number,Both sexes,diseases_of_the_digestive_system,514
+2016,Number,Both sexes,diseases_of_the_digestive_system,568
+2017,Number,Both sexes,diseases_of_the_digestive_system,540
+2018,Number,Both sexes,diseases_of_the_digestive_system,515
+2019,Number,Both sexes,diseases_of_the_digestive_system,582
+2020,Number,Both sexes,diseases_of_the_digestive_system,575
+2011,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,11
+2012,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,8
+2013,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,10
+2014,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,10
+2015,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,10
+2016,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,1
+2017,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,7
+2018,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,4
+2019,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,9
+2020,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,12
+2011,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,27
+2012,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,38
+2013,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,29
+2014,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,39
+2015,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,25
+2016,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,25
+2017,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,22
+2018,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,29
+2019,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,39
+2020,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,26
+2011,Number,Both sexes,diseases_of_the_genitourinary_system,357
+2012,Number,Both sexes,diseases_of_the_genitourinary_system,333
+2013,Number,Both sexes,diseases_of_the_genitourinary_system,338
+2014,Number,Both sexes,diseases_of_the_genitourinary_system,341
+2015,Number,Both sexes,diseases_of_the_genitourinary_system,449
+2016,Number,Both sexes,diseases_of_the_genitourinary_system,431
+2017,Number,Both sexes,diseases_of_the_genitourinary_system,361
+2018,Number,Both sexes,diseases_of_the_genitourinary_system,367
+2019,Number,Both sexes,diseases_of_the_genitourinary_system,368
+2020,Number,Both sexes,diseases_of_the_genitourinary_system,363
+2011,Number,Both sexes,pregnancy_childbirth_and_puerperium,1
+2012,Number,Both sexes,pregnancy_childbirth_and_puerperium,3
+2013,Number,Both sexes,pregnancy_childbirth_and_puerperium,0
+2014,Number,Both sexes,pregnancy_childbirth_and_puerperium,0
+2015,Number,Both sexes,pregnancy_childbirth_and_puerperium,0
+2016,Number,Both sexes,pregnancy_childbirth_and_puerperium,0
+2017,Number,Both sexes,pregnancy_childbirth_and_puerperium,0
+2018,Number,Both sexes,pregnancy_childbirth_and_puerperium,0
+2019,Number,Both sexes,pregnancy_childbirth_and_puerperium,2
+2020,Number,Both sexes,pregnancy_childbirth_and_puerperium,1
+2011,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,82
+2012,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,82
+2013,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,80
+2014,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,69
+2015,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,106
+2016,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,94
+2017,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,112
+2018,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,120
+2019,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,111
+2020,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,78
+2011,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,49
+2012,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,34
+2013,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,28
+2014,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,38
+2015,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,24
+2016,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,10
+2017,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,20
+2018,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,19
+2019,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,26
+2020,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,28
+2011,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,964
+2012,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,583
+2013,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,832
+2014,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,763
+2015,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,515
+2016,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,489
+2017,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,816
+2018,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,892
+2019,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1288
+2020,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1194
+2011,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,545
+2012,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,508
+2013,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,501
+2014,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,476
+2015,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,507
+2016,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,492
+2017,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,521
+2018,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,494
+2019,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,448
+2020,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,443
+2011,Number,Both sexes,special_purpose_codes,0
+2012,Number,Both sexes,special_purpose_codes,0
+2013,Number,Both sexes,special_purpose_codes,0
+2014,Number,Both sexes,special_purpose_codes,0
+2015,Number,Both sexes,special_purpose_codes,0
+2016,Number,Both sexes,special_purpose_codes,0
+2017,Number,Both sexes,special_purpose_codes,0
+2018,Number,Both sexes,special_purpose_codes,0
+2019,Number,Both sexes,special_purpose_codes,0
+2020,Number,Both sexes,special_purpose_codes,2690
+2011,Number,Both sexes,Unknown,456
+2012,Number,Both sexes,Unknown,543
+2013,Number,Both sexes,Unknown,579
+2014,Number,Both sexes,Unknown,465
+2015,Number,Both sexes,Unknown,495
+2016,Number,Both sexes,Unknown,542
+2017,Number,Both sexes,Unknown,542
+2018,Number,Both sexes,Unknown,464
+2019,Number,Both sexes,Unknown,570
+2020,Number,Both sexes,Unknown,565
+2011,Number,M,Total,10369
+2012,Number,M,Total,10744
+2013,Number,M,Total,10357
+2014,Number,M,Total,10328
+2015,Number,M,Total,10855
+2016,Number,M,Total,10538
+2017,Number,M,Total,10979
+2018,Number,M,Total,10756
+2019,Number,M,Total,11140
+2020,Number,M,Total,13525
+2011,Number,M,infectious_and_parasitic_diseases,111
+2012,Number,M,infectious_and_parasitic_diseases,116
+2013,Number,M,infectious_and_parasitic_diseases,92
+2014,Number,M,infectious_and_parasitic_diseases,80
+2015,Number,M,infectious_and_parasitic_diseases,112
+2016,Number,M,infectious_and_parasitic_diseases,105
+2017,Number,M,infectious_and_parasitic_diseases,106
+2018,Number,M,infectious_and_parasitic_diseases,106
+2019,Number,M,infectious_and_parasitic_diseases,95
+2020,Number,M,infectious_and_parasitic_diseases,122
+2011,Number,M,"(C00-C97,D00-D48) Neoplasms",2518
+2012,Number,M,"(C00-C97,D00-D48) Neoplasms",2598
+2013,Number,M,"(C00-C97,D00-D48) Neoplasms",2406
+2014,Number,M,"(C00-C97,D00-D48) Neoplasms",2621
+2015,Number,M,"(C00-C97,D00-D48) Neoplasms",2619
+2016,Number,M,"(C00-C97,D00-D48) Neoplasms",2596
+2017,Number,M,"(C00-C97,D00-D48) Neoplasms",2722
+2018,Number,M,"(C00-C97,D00-D48) Neoplasms",2706
+2019,Number,M,"(C00-C97,D00-D48) Neoplasms",2732
+2020,Number,M,"(C00-C97,D00-D48) Neoplasms",2731
+2011,Number,M,diseases_of_the_blood_and_blood_forming_organs,13
+2012,Number,M,diseases_of_the_blood_and_blood_forming_organs,14
+2013,Number,M,diseases_of_the_blood_and_blood_forming_organs,11
+2014,Number,M,diseases_of_the_blood_and_blood_forming_organs,9
+2015,Number,M,diseases_of_the_blood_and_blood_forming_organs,10
+2016,Number,M,diseases_of_the_blood_and_blood_forming_organs,13
+2017,Number,M,diseases_of_the_blood_and_blood_forming_organs,20
+2018,Number,M,diseases_of_the_blood_and_blood_forming_organs,9
+2019,Number,M,diseases_of_the_blood_and_blood_forming_organs,21
+2020,Number,M,diseases_of_the_blood_and_blood_forming_organs,24
+2011,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,480
+2012,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,547
+2013,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,466
+2014,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,493
+2015,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,458
+2016,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,446
+2017,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,494
+2018,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,468
+2019,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,525
+2020,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,514
+2011,Number,M,mental_disorders_and_behavioral_disorders,27
+2012,Number,M,mental_disorders_and_behavioral_disorders,58
+2013,Number,M,mental_disorders_and_behavioral_disorders,28
+2014,Number,M,mental_disorders_and_behavioral_disorders,60
+2015,Number,M,mental_disorders_and_behavioral_disorders,49
+2016,Number,M,mental_disorders_and_behavioral_disorders,53
+2017,Number,M,mental_disorders_and_behavioral_disorders,50
+2018,Number,M,mental_disorders_and_behavioral_disorders,49
+2019,Number,M,mental_disorders_and_behavioral_disorders,74
+2020,Number,M,mental_disorders_and_behavioral_disorders,74
+2011,Number,M,diseases_of_the_nervous_system,95
+2012,Number,M,diseases_of_the_nervous_system,95
+2013,Number,M,diseases_of_the_nervous_system,97
+2014,Number,M,diseases_of_the_nervous_system,101
+2015,Number,M,diseases_of_the_nervous_system,113
+2016,Number,M,diseases_of_the_nervous_system,102
+2017,Number,M,diseases_of_the_nervous_system,80
+2018,Number,M,diseases_of_the_nervous_system,80
+2019,Number,M,diseases_of_the_nervous_system,107
+2020,Number,M,diseases_of_the_nervous_system,121
+2011,Number,M,eye_diseases_and_eye_soldering_disease,0
+2012,Number,M,eye_diseases_and_eye_soldering_disease,0
+2013,Number,M,eye_diseases_and_eye_soldering_disease,0
+2014,Number,M,eye_diseases_and_eye_soldering_disease,0
+2015,Number,M,eye_diseases_and_eye_soldering_disease,0
+2016,Number,M,eye_diseases_and_eye_soldering_disease,0
+2017,Number,M,eye_diseases_and_eye_soldering_disease,0
+2018,Number,M,eye_diseases_and_eye_soldering_disease,0
+2019,Number,M,eye_diseases_and_eye_soldering_disease,0
+2020,Number,M,eye_diseases_and_eye_soldering_disease,3
+2011,Number,M,diseases_of_ear_and_mastoid_process,0
+2012,Number,M,diseases_of_ear_and_mastoid_process,0
+2013,Number,M,diseases_of_ear_and_mastoid_process,0
+2014,Number,M,diseases_of_ear_and_mastoid_process,0
+2015,Number,M,diseases_of_ear_and_mastoid_process,0
+2016,Number,M,diseases_of_ear_and_mastoid_process,0
+2017,Number,M,diseases_of_ear_and_mastoid_process,0
+2018,Number,M,diseases_of_ear_and_mastoid_process,0
+2019,Number,M,diseases_of_ear_and_mastoid_process,0
+2020,Number,M,diseases_of_ear_and_mastoid_process,0
+2011,Number,M,diseases_of_the_circulatory_system,4971
+2012,Number,M,diseases_of_the_circulatory_system,5232
+2013,Number,M,diseases_of_the_circulatory_system,5096
+2014,Number,M,diseases_of_the_circulatory_system,4909
+2015,Number,M,diseases_of_the_circulatory_system,5339
+2016,Number,M,diseases_of_the_circulatory_system,5195
+2017,Number,M,diseases_of_the_circulatory_system,5245
+2018,Number,M,diseases_of_the_circulatory_system,5123
+2019,Number,M,diseases_of_the_circulatory_system,4976
+2020,Number,M,diseases_of_the_circulatory_system,5466
+2011,Number,M,diseases_of_the_respiratory_system,401
+2012,Number,M,diseases_of_the_respiratory_system,478
+2013,Number,M,diseases_of_the_respiratory_system,474
+2014,Number,M,diseases_of_the_respiratory_system,502
+2015,Number,M,diseases_of_the_respiratory_system,577
+2016,Number,M,diseases_of_the_respiratory_system,528
+2017,Number,M,diseases_of_the_respiratory_system,542
+2018,Number,M,diseases_of_the_respiratory_system,593
+2019,Number,M,diseases_of_the_respiratory_system,666
+2020,Number,M,diseases_of_the_respiratory_system,894
+2011,Number,M,diseases_of_the_digestive_system,282
+2012,Number,M,diseases_of_the_digestive_system,333
+2013,Number,M,diseases_of_the_digestive_system,303
+2014,Number,M,diseases_of_the_digestive_system,293
+2015,Number,M,diseases_of_the_digestive_system,298
+2016,Number,M,diseases_of_the_digestive_system,316
+2017,Number,M,diseases_of_the_digestive_system,313
+2018,Number,M,diseases_of_the_digestive_system,286
+2019,Number,M,diseases_of_the_digestive_system,347
+2020,Number,M,diseases_of_the_digestive_system,341
+2011,Number,M,skin_and_subcutaneous_tissue_disorders,2
+2012,Number,M,skin_and_subcutaneous_tissue_disorders,2
+2013,Number,M,skin_and_subcutaneous_tissue_disorders,3
+2014,Number,M,skin_and_subcutaneous_tissue_disorders,3
+2015,Number,M,skin_and_subcutaneous_tissue_disorders,2
+2016,Number,M,skin_and_subcutaneous_tissue_disorders,0
+2017,Number,M,skin_and_subcutaneous_tissue_disorders,3
+2018,Number,M,skin_and_subcutaneous_tissue_disorders,2
+2019,Number,M,skin_and_subcutaneous_tissue_disorders,2
+2020,Number,M,skin_and_subcutaneous_tissue_disorders,5
+2011,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,8
+2012,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,11
+2013,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,9
+2014,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,8
+2015,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,9
+2016,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,3
+2017,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,7
+2018,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,8
+2019,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,10
+2020,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,6
+2011,Number,M,diseases_of_the_genitourinary_system,188
+2012,Number,M,diseases_of_the_genitourinary_system,171
+2013,Number,M,diseases_of_the_genitourinary_system,169
+2014,Number,M,diseases_of_the_genitourinary_system,171
+2015,Number,M,diseases_of_the_genitourinary_system,209
+2016,Number,M,diseases_of_the_genitourinary_system,199
+2017,Number,M,diseases_of_the_genitourinary_system,188
+2018,Number,M,diseases_of_the_genitourinary_system,197
+2019,Number,M,diseases_of_the_genitourinary_system,194
+2020,Number,M,diseases_of_the_genitourinary_system,194
+2011,Number,M,certain_conditions_occurred_in_the_perinatal_period,47
+2012,Number,M,certain_conditions_occurred_in_the_perinatal_period,49
+2013,Number,M,certain_conditions_occurred_in_the_perinatal_period,49
+2014,Number,M,certain_conditions_occurred_in_the_perinatal_period,35
+2015,Number,M,certain_conditions_occurred_in_the_perinatal_period,59
+2016,Number,M,certain_conditions_occurred_in_the_perinatal_period,56
+2017,Number,M,certain_conditions_occurred_in_the_perinatal_period,63
+2018,Number,M,certain_conditions_occurred_in_the_perinatal_period,64
+2019,Number,M,certain_conditions_occurred_in_the_perinatal_period,58
+2020,Number,M,certain_conditions_occurred_in_the_perinatal_period,45
+2011,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,23
+2012,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,21
+2013,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,12
+2014,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,17
+2015,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,12
+2016,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,6
+2017,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,12
+2018,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,8
+2019,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,11
+2020,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,19
+2011,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,516
+2012,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,324
+2013,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,444
+2014,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,404
+2015,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,303
+2016,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,254
+2017,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,420
+2018,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,438
+2019,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,646
+2020,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,611
+2011,Number,M,injuries_poisonings_and_consequences_of_external_factors,435
+2012,Number,M,injuries_poisonings_and_consequences_of_external_factors,396
+2013,Number,M,injuries_poisonings_and_consequences_of_external_factors,402
+2014,Number,M,injuries_poisonings_and_consequences_of_external_factors,367
+2015,Number,M,injuries_poisonings_and_consequences_of_external_factors,394
+2016,Number,M,injuries_poisonings_and_consequences_of_external_factors,370
+2017,Number,M,injuries_poisonings_and_consequences_of_external_factors,388
+2018,Number,M,injuries_poisonings_and_consequences_of_external_factors,373
+2019,Number,M,injuries_poisonings_and_consequences_of_external_factors,330
+2020,Number,M,injuries_poisonings_and_consequences_of_external_factors,337
+2011,Number,M,special_purpose_codes,0
+2012,Number,M,special_purpose_codes,0
+2013,Number,M,special_purpose_codes,0
+2014,Number,M,special_purpose_codes,0
+2015,Number,M,special_purpose_codes,0
+2016,Number,M,special_purpose_codes,0
+2017,Number,M,special_purpose_codes,0
+2018,Number,M,special_purpose_codes,0
+2019,Number,M,special_purpose_codes,0
+2020,Number,M,special_purpose_codes,1711
+2011,Number,M,Unknown,251
+2012,Number,M,Unknown,299
+2013,Number,M,Unknown,296
+2014,Number,M,Unknown,255
+2015,Number,M,Unknown,292
+2016,Number,M,Unknown,296
+2017,Number,M,Unknown,326
+2018,Number,M,Unknown,245
+2019,Number,M,Unknown,339
+2020,Number,M,Unknown,300
+2011,Number,F,Total,9839
+2012,Number,F,Total,10115
+2013,Number,F,Total,10108
+2014,Number,F,Total,9955
+2015,Number,F,Total,10848
+2016,Number,F,Total,10567
+2017,Number,F,Total,10710
+2018,Number,F,Total,10686
+2019,Number,F,Total,10884
+2020,Number,F,Total,12501
+2011,Number,F,infectious_and_parasitic_diseases,68
+2012,Number,F,infectious_and_parasitic_diseases,92
+2013,Number,F,infectious_and_parasitic_diseases,51
+2014,Number,F,infectious_and_parasitic_diseases,69
+2015,Number,F,infectious_and_parasitic_diseases,90
+2016,Number,F,infectious_and_parasitic_diseases,108
+2017,Number,F,infectious_and_parasitic_diseases,108
+2018,Number,F,infectious_and_parasitic_diseases,109
+2019,Number,F,infectious_and_parasitic_diseases,118
+2020,Number,F,infectious_and_parasitic_diseases,107
+2011,Number,F,"(C00-C97,D00-D48) Neoplasms",1710
+2012,Number,F,"(C00-C97,D00-D48) Neoplasms",1892
+2013,Number,F,"(C00-C97,D00-D48) Neoplasms",1811
+2014,Number,F,"(C00-C97,D00-D48) Neoplasms",1800
+2015,Number,F,"(C00-C97,D00-D48) Neoplasms",1988
+2016,Number,F,"(C00-C97,D00-D48) Neoplasms",1996
+2017,Number,F,"(C00-C97,D00-D48) Neoplasms",2111
+2018,Number,F,"(C00-C97,D00-D48) Neoplasms",1958
+2019,Number,F,"(C00-C97,D00-D48) Neoplasms",2136
+2020,Number,F,"(C00-C97,D00-D48) Neoplasms",2125
+2011,Number,F,diseases_of_the_blood_and_blood_forming_organs,28
+2012,Number,F,diseases_of_the_blood_and_blood_forming_organs,16
+2013,Number,F,diseases_of_the_blood_and_blood_forming_organs,21
+2014,Number,F,diseases_of_the_blood_and_blood_forming_organs,18
+2015,Number,F,diseases_of_the_blood_and_blood_forming_organs,25
+2016,Number,F,diseases_of_the_blood_and_blood_forming_organs,17
+2017,Number,F,diseases_of_the_blood_and_blood_forming_organs,25
+2018,Number,F,diseases_of_the_blood_and_blood_forming_organs,26
+2019,Number,F,diseases_of_the_blood_and_blood_forming_organs,41
+2020,Number,F,diseases_of_the_blood_and_blood_forming_organs,37
+2011,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,746
+2012,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,762
+2013,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,659
+2014,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,810
+2015,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,739
+2016,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,757
+2017,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,803
+2018,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,722
+2019,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,757
+2020,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,809
+2011,Number,F,mental_disorders_and_behavioral_disorders,53
+2012,Number,F,mental_disorders_and_behavioral_disorders,33
+2013,Number,F,mental_disorders_and_behavioral_disorders,42
+2014,Number,F,mental_disorders_and_behavioral_disorders,43
+2015,Number,F,mental_disorders_and_behavioral_disorders,35
+2016,Number,F,mental_disorders_and_behavioral_disorders,42
+2017,Number,F,mental_disorders_and_behavioral_disorders,49
+2018,Number,F,mental_disorders_and_behavioral_disorders,55
+2019,Number,F,mental_disorders_and_behavioral_disorders,79
+2020,Number,F,mental_disorders_and_behavioral_disorders,100
+2011,Number,F,diseases_of_the_nervous_system,94
+2012,Number,F,diseases_of_the_nervous_system,88
+2013,Number,F,diseases_of_the_nervous_system,92
+2014,Number,F,diseases_of_the_nervous_system,93
+2015,Number,F,diseases_of_the_nervous_system,93
+2016,Number,F,diseases_of_the_nervous_system,91
+2017,Number,F,diseases_of_the_nervous_system,87
+2018,Number,F,diseases_of_the_nervous_system,72
+2019,Number,F,diseases_of_the_nervous_system,96
+2020,Number,F,diseases_of_the_nervous_system,130
+2011,Number,F,eye_diseases_and_eye_soldering_disease,0
+2012,Number,F,eye_diseases_and_eye_soldering_disease,0
+2013,Number,F,eye_diseases_and_eye_soldering_disease,0
+2014,Number,F,eye_diseases_and_eye_soldering_disease,0
+2015,Number,F,eye_diseases_and_eye_soldering_disease,0
+2016,Number,F,eye_diseases_and_eye_soldering_disease,0
+2017,Number,F,eye_diseases_and_eye_soldering_disease,0
+2018,Number,F,eye_diseases_and_eye_soldering_disease,0
+2019,Number,F,eye_diseases_and_eye_soldering_disease,2
+2020,Number,F,eye_diseases_and_eye_soldering_disease,1
+2011,Number,F,diseases_of_ear_and_mastoid_process,0
+2012,Number,F,diseases_of_ear_and_mastoid_process,1
+2013,Number,F,diseases_of_ear_and_mastoid_process,0
+2014,Number,F,diseases_of_ear_and_mastoid_process,5
+2015,Number,F,diseases_of_ear_and_mastoid_process,1
+2016,Number,F,diseases_of_ear_and_mastoid_process,1
+2017,Number,F,diseases_of_ear_and_mastoid_process,0
+2018,Number,F,diseases_of_ear_and_mastoid_process,0
+2019,Number,F,diseases_of_ear_and_mastoid_process,1
+2020,Number,F,diseases_of_ear_and_mastoid_process,0
+2011,Number,F,diseases_of_the_circulatory_system,5618
+2012,Number,F,diseases_of_the_circulatory_system,5796
+2013,Number,F,diseases_of_the_circulatory_system,5818
+2014,Number,F,diseases_of_the_circulatory_system,5627
+2015,Number,F,diseases_of_the_circulatory_system,6333
+2016,Number,F,diseases_of_the_circulatory_system,6016
+2017,Number,F,diseases_of_the_circulatory_system,5942
+2018,Number,F,diseases_of_the_circulatory_system,5920
+2019,Number,F,diseases_of_the_circulatory_system,5584
+2020,Number,F,diseases_of_the_circulatory_system,6139
+2011,Number,F,diseases_of_the_respiratory_system,308
+2012,Number,F,diseases_of_the_respiratory_system,336
+2013,Number,F,diseases_of_the_respiratory_system,363
+2014,Number,F,diseases_of_the_respiratory_system,341
+2015,Number,F,diseases_of_the_respiratory_system,477
+2016,Number,F,diseases_of_the_respiratory_system,387
+2017,Number,F,diseases_of_the_respiratory_system,364
+2018,Number,F,diseases_of_the_respiratory_system,541
+2019,Number,F,diseases_of_the_respiratory_system,561
+2020,Number,F,diseases_of_the_respiratory_system,643
+2011,Number,F,diseases_of_the_digestive_system,192
+2012,Number,F,diseases_of_the_digestive_system,240
+2013,Number,F,diseases_of_the_digestive_system,238
+2014,Number,F,diseases_of_the_digestive_system,207
+2015,Number,F,diseases_of_the_digestive_system,216
+2016,Number,F,diseases_of_the_digestive_system,252
+2017,Number,F,diseases_of_the_digestive_system,227
+2018,Number,F,diseases_of_the_digestive_system,229
+2019,Number,F,diseases_of_the_digestive_system,235
+2020,Number,F,diseases_of_the_digestive_system,234
+2011,Number,F,skin_and_subcutaneous_tissue_disorders,9
+2012,Number,F,skin_and_subcutaneous_tissue_disorders,6
+2013,Number,F,skin_and_subcutaneous_tissue_disorders,7
+2014,Number,F,skin_and_subcutaneous_tissue_disorders,7
+2015,Number,F,skin_and_subcutaneous_tissue_disorders,8
+2016,Number,F,skin_and_subcutaneous_tissue_disorders,1
+2017,Number,F,skin_and_subcutaneous_tissue_disorders,4
+2018,Number,F,skin_and_subcutaneous_tissue_disorders,2
+2019,Number,F,skin_and_subcutaneous_tissue_disorders,7
+2020,Number,F,skin_and_subcutaneous_tissue_disorders,7
+2011,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,19
+2012,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,27
+2013,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,20
+2014,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,31
+2015,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,16
+2016,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,22
+2017,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,15
+2018,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,21
+2019,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,29
+2020,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,20
+2011,Number,F,diseases_of_the_genitourinary_system,169
+2012,Number,F,diseases_of_the_genitourinary_system,162
+2013,Number,F,diseases_of_the_genitourinary_system,169
+2014,Number,F,diseases_of_the_genitourinary_system,170
+2015,Number,F,diseases_of_the_genitourinary_system,240
+2016,Number,F,diseases_of_the_genitourinary_system,232
+2017,Number,F,diseases_of_the_genitourinary_system,173
+2018,Number,F,diseases_of_the_genitourinary_system,170
+2019,Number,F,diseases_of_the_genitourinary_system,174
+2020,Number,F,diseases_of_the_genitourinary_system,169
+2011,Number,F,pregnancy_childbirth_and_puerperium,1
+2012,Number,F,pregnancy_childbirth_and_puerperium,3
+2013,Number,F,pregnancy_childbirth_and_puerperium,0
+2014,Number,F,pregnancy_childbirth_and_puerperium,0
+2015,Number,F,pregnancy_childbirth_and_puerperium,0
+2016,Number,F,pregnancy_childbirth_and_puerperium,0
+2017,Number,F,pregnancy_childbirth_and_puerperium,0
+2018,Number,F,pregnancy_childbirth_and_puerperium,0
+2019,Number,F,pregnancy_childbirth_and_puerperium,2
+2020,Number,F,pregnancy_childbirth_and_puerperium,1
+2011,Number,F,certain_conditions_occurred_in_the_perinatal_period,35
+2012,Number,F,certain_conditions_occurred_in_the_perinatal_period,33
+2013,Number,F,certain_conditions_occurred_in_the_perinatal_period,31
+2014,Number,F,certain_conditions_occurred_in_the_perinatal_period,34
+2015,Number,F,certain_conditions_occurred_in_the_perinatal_period,47
+2016,Number,F,certain_conditions_occurred_in_the_perinatal_period,38
+2017,Number,F,certain_conditions_occurred_in_the_perinatal_period,49
+2018,Number,F,certain_conditions_occurred_in_the_perinatal_period,56
+2019,Number,F,certain_conditions_occurred_in_the_perinatal_period,53
+2020,Number,F,certain_conditions_occurred_in_the_perinatal_period,33
+2011,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,26
+2012,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,13
+2013,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,16
+2014,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,21
+2015,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,12
+2016,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,4
+2017,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,8
+2018,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,11
+2019,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,15
+2020,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,9
+2011,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,448
+2012,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,259
+2013,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,388
+2014,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,359
+2015,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,212
+2016,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,235
+2017,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,396
+2018,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,454
+2019,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,642
+2020,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,583
+2011,Number,F,injuries_poisonings_and_consequences_of_external_factors,110
+2012,Number,F,injuries_poisonings_and_consequences_of_external_factors,112
+2013,Number,F,injuries_poisonings_and_consequences_of_external_factors,99
+2014,Number,F,injuries_poisonings_and_consequences_of_external_factors,109
+2015,Number,F,injuries_poisonings_and_consequences_of_external_factors,113
+2016,Number,F,injuries_poisonings_and_consequences_of_external_factors,122
+2017,Number,F,injuries_poisonings_and_consequences_of_external_factors,133
+2018,Number,F,injuries_poisonings_and_consequences_of_external_factors,121
+2019,Number,F,injuries_poisonings_and_consequences_of_external_factors,118
+2020,Number,F,injuries_poisonings_and_consequences_of_external_factors,106
+2011,Number,F,special_purpose_codes,0
+2012,Number,F,special_purpose_codes,0
+2013,Number,F,special_purpose_codes,0
+2014,Number,F,special_purpose_codes,0
+2015,Number,F,special_purpose_codes,0
+2016,Number,F,special_purpose_codes,0
+2017,Number,F,special_purpose_codes,0
+2018,Number,F,special_purpose_codes,0
+2019,Number,F,special_purpose_codes,0
+2020,Number,F,special_purpose_codes,979
+2011,Number,F,Unknown,205
+2012,Number,F,Unknown,244
+2013,Number,F,Unknown,283
+2014,Number,F,Unknown,210
+2015,Number,F,Unknown,203
+2016,Number,F,Unknown,246
+2017,Number,F,Unknown,216
+2018,Number,F,Unknown,219
+2019,Number,F,Unknown,231
+2020,Number,F,Unknown,265

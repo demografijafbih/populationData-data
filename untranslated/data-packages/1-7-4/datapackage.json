@@ -15,6 +15,10 @@
             "type": "integer"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -27,20 +31,15 @@
             }
           },
           {
-            "name": "BIRTHS",
+            "name": "BIRTH",
             "type": "string",
             "constraints": {
               "enum": [
                 "LIVE_BIRTH",
                 "DEATHS",
-                "NATURAL_CHANGE",
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "Value",

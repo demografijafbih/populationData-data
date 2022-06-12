@@ -137,7 +137,7 @@
                 "97",
                 "98",
                 "99",
-                "Total"
+                "Both sexes"
               ]
             },
             "title": "Age"
@@ -162,7 +162,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

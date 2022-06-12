@@ -1,109 +1,100 @@
 Year,UNIT_MEASURE,Type of dependency ratio,Sex,Value
-2018,%,Total support ratio,Both sexes,44.32
-2020,%,Total support ratio,Both sexes,47.11
-2025,%,Total support ratio,Both sexes,53.97
-2030,%,Total support ratio,Both sexes,62.1
-2035,%,Total support ratio,Both sexes,68.98
-2040,%,Total support ratio,Both sexes,76.0
-2045,%,Total support ratio,Both sexes,84.34
-2050,%,Total support ratio,Both sexes,94.16
-2055,%,Total support ratio,Both sexes,103.66
-2060,%,Total support ratio,Both sexes,110.44
-2065,%,Total support ratio,Both sexes,115.81
-2070,%,Total support ratio,Both sexes,116.18
-2018,%,Young-age support ratio,Both sexes,20.55
-2020,%,Young-age support ratio,Both sexes,20.65
-2025,%,Young-age support ratio,Both sexes,20.34
-2030,%,Young-age support ratio,Both sexes,20.29
-2035,%,Young-age support ratio,Both sexes,19.98
-2040,%,Young-age support ratio,Both sexes,19.66
-2045,%,Young-age support ratio,Both sexes,19.82
-2050,%,Young-age support ratio,Both sexes,20.49
-2055,%,Young-age support ratio,Both sexes,21.3
-2060,%,Young-age support ratio,Both sexes,21.85
-2065,%,Young-age support ratio,Both sexes,22.23
-2070,%,Young-age support ratio,Both sexes,22.13
-2018,%,Old-age support ratio,Both sexes,23.78
-2020,%,Old-age support ratio,Both sexes,26.46
-2025,%,Old-age support ratio,Both sexes,33.64
-2030,%,Old-age support ratio,Both sexes,41.81
-2035,%,Old-age support ratio,Both sexes,49.0
-2040,%,Old-age support ratio,Both sexes,56.34
-2045,%,Old-age support ratio,Both sexes,64.52
-2050,%,Old-age support ratio,Both sexes,73.67
-2055,%,Old-age support ratio,Both sexes,82.36
-2060,%,Old-age support ratio,Both sexes,88.59
-2065,%,Old-age support ratio,Both sexes,93.58
-2070,%,Old-age support ratio,Both sexes,94.04
-2018,%,Total support ratio,M,44.32
-2020,%,Total support ratio,M,47.11
-2025,%,Total support ratio,M,53.97
-2030,%,Total support ratio,M,62.1
-2035,%,Total support ratio,M,68.98
-2040,%,Total support ratio,M,76.0
-2045,%,Total support ratio,M,84.34
-2050,%,Total support ratio,M,94.16
-2055,%,Total support ratio,M,103.66
-2060,%,Total support ratio,M,110.44
-2065,%,Total support ratio,M,115.81
-2070,%,Total support ratio,M,116.18
-2018,%,Young-age support ratio,M,20.55
-2020,%,Young-age support ratio,M,20.65
-2025,%,Young-age support ratio,M,20.34
-2030,%,Young-age support ratio,M,20.29
-2035,%,Young-age support ratio,M,19.98
-2040,%,Young-age support ratio,M,19.66
-2045,%,Young-age support ratio,M,19.82
-2050,%,Young-age support ratio,M,20.49
-2055,%,Young-age support ratio,M,21.3
-2060,%,Young-age support ratio,M,21.85
-2065,%,Young-age support ratio,M,22.23
-2070,%,Young-age support ratio,M,22.13
-2018,%,Old-age support ratio,M,23.78
-2020,%,Old-age support ratio,M,26.46
-2025,%,Old-age support ratio,M,33.64
-2030,%,Old-age support ratio,M,41.81
-2035,%,Old-age support ratio,M,49.0
-2040,%,Old-age support ratio,M,56.34
-2045,%,Old-age support ratio,M,64.52
-2050,%,Old-age support ratio,M,73.67
-2055,%,Old-age support ratio,M,82.36
-2060,%,Old-age support ratio,M,88.59
-2065,%,Old-age support ratio,M,93.58
-2070,%,Old-age support ratio,M,94.04
-2018,%,Total support ratio,F,44.32
-2020,%,Total support ratio,F,47.11
-2025,%,Total support ratio,F,53.97
-2030,%,Total support ratio,F,62.1
-2035,%,Total support ratio,F,68.98
-2040,%,Total support ratio,F,76.0
-2045,%,Total support ratio,F,84.34
-2050,%,Total support ratio,F,94.16
-2055,%,Total support ratio,F,103.66
-2060,%,Total support ratio,F,110.44
-2065,%,Total support ratio,F,115.81
-2070,%,Total support ratio,F,116.18
-2018,%,Young-age support ratio,F,20.55
-2020,%,Young-age support ratio,F,20.65
-2025,%,Young-age support ratio,F,20.34
-2030,%,Young-age support ratio,F,20.29
-2035,%,Young-age support ratio,F,19.98
-2040,%,Young-age support ratio,F,19.66
-2045,%,Young-age support ratio,F,19.82
-2050,%,Young-age support ratio,F,20.49
-2055,%,Young-age support ratio,F,21.3
-2060,%,Young-age support ratio,F,21.85
-2065,%,Young-age support ratio,F,22.23
-2070,%,Young-age support ratio,F,22.13
-2018,%,Old-age support ratio,F,23.78
-2020,%,Old-age support ratio,F,26.46
-2025,%,Old-age support ratio,F,33.64
-2030,%,Old-age support ratio,F,41.81
-2035,%,Old-age support ratio,F,49.0
-2040,%,Old-age support ratio,F,56.34
-2045,%,Old-age support ratio,F,64.52
-2050,%,Old-age support ratio,F,73.67
-2055,%,Old-age support ratio,F,82.36
-2060,%,Old-age support ratio,F,88.59
-2065,%,Old-age support ratio,F,93.58
-2070,%,Old-age support ratio,F,94.04
+2020,%,(0-14+60+)/(15-59),Both sexes,60.4
+2020,%,(0-19+65+)/(20-64),Both sexes,56.2
+2020,%,(0-14+50+)/(15-49),Both sexes,110.6
+2025,%,(0-14+60+)/(15-59),Both sexes,70.4
+2025,%,(0-19+65+)/(20-64),Both sexes,63.9
+2025,%,(0-14+50+)/(15-49),Both sexes,125.8
+2030,%,(0-14+60+)/(15-59),Both sexes,79.9
+2030,%,(0-19+65+)/(20-64),Both sexes,72.4
+2030,%,(0-14+50+)/(15-49),Both sexes,143.7
+2035,%,(0-14+60+)/(15-59),Both sexes,90.2
+2035,%,(0-19+65+)/(20-64),Both sexes,80.3
+2035,%,(0-14+50+)/(15-49),Both sexes,165.7
+2040,%,(0-14+60+)/(15-59),Both sexes,100.7
+2040,%,(0-19+65+)/(20-64),Both sexes,88.7
+2040,%,(0-14+50+)/(15-49),Both sexes,187.2
+2045,%,(0-14+60+)/(15-59),Both sexes,112.8
+2045,%,(0-19+65+)/(20-64),Both sexes,97.3
+2045,%,(0-14+50+)/(15-49),Both sexes,204.8
+2050,%,(0-14+60+)/(15-59),Both sexes,125.8
+2050,%,(0-19+65+)/(20-64),Both sexes,107.5
+2050,%,(0-14+50+)/(15-49),Both sexes,223.3
+2055,%,(0-14+60+)/(15-59),Both sexes,136.0
+2055,%,(0-19+65+)/(20-64),Both sexes,118.6
+2055,%,(0-14+50+)/(15-49),Both sexes,230.3
+2060,%,(0-14+60+)/(15-59),Both sexes,146.0
+2060,%,(0-19+65+)/(20-64),Both sexes,127.2
+2060,%,(0-14+50+)/(15-49),Both sexes,238.3
+2065,%,(0-14+60+)/(15-59),Both sexes,148.3
+2065,%,(0-19+65+)/(20-64),Both sexes,135.6
+2065,%,(0-14+50+)/(15-49),Both sexes,243.8
+2070,%,(0-14+60+)/(15-59),Both sexes,151.2
+2070,%,(0-19+65+)/(20-64),Both sexes,136.7
+2070,%,(0-14+50+)/(15-49),Both sexes,245.9
+2020,%,(0-14+60+)/(15-59),M,56.6
+2020,%,(0-19+65+)/(20-64),M,53.6
+2020,%,(0-14+50+)/(15-49),M,103.9
+2025,%,(0-14+60+)/(15-59),M,66.9
+2025,%,(0-19+65+)/(20-64),M,61.7
+2025,%,(0-14+50+)/(15-49),M,120.2
+2030,%,(0-14+60+)/(15-59),M,77.2
+2030,%,(0-19+65+)/(20-64),M,70.7
+2030,%,(0-14+50+)/(15-49),M,139.3
+2035,%,(0-14+60+)/(15-59),M,88.1
+2035,%,(0-19+65+)/(20-64),M,79.5
+2035,%,(0-14+50+)/(15-49),M,162.2
+2040,%,(0-14+60+)/(15-59),M,99.3
+2040,%,(0-19+65+)/(20-64),M,88.6
+2040,%,(0-14+50+)/(15-49),M,183.9
+2045,%,(0-14+60+)/(15-59),M,112.0
+2045,%,(0-19+65+)/(20-64),M,98.0
+2045,%,(0-14+50+)/(15-49),M,200.5
+2050,%,(0-14+60+)/(15-59),M,125.1
+2050,%,(0-19+65+)/(20-64),M,109.0
+2050,%,(0-14+50+)/(15-49),M,216.8
+2055,%,(0-14+60+)/(15-59),M,134.7
+2055,%,(0-19+65+)/(20-64),M,120.4
+2055,%,(0-14+50+)/(15-49),M,222.6
+2060,%,(0-14+60+)/(15-59),M,143.1
+2060,%,(0-19+65+)/(20-64),M,128.5
+2060,%,(0-14+50+)/(15-49),M,228.6
+2065,%,(0-14+60+)/(15-59),M,144.5
+2065,%,(0-19+65+)/(20-64),M,135.6
+2065,%,(0-14+50+)/(15-49),M,231.7
+2070,%,(0-14+60+)/(15-59),M,146.1
+2070,%,(0-19+65+)/(20-64),M,136.0
+2070,%,(0-14+50+)/(15-49),M,232.3
+2020,%,(0-14+60+)/(15-59),F,64.3
+2020,%,(0-19+65+)/(20-64),F,58.8
+2020,%,(0-14+50+)/(15-49),F,117.4
+2025,%,(0-14+60+)/(15-59),F,73.7
+2025,%,(0-19+65+)/(20-64),F,66.0
+2025,%,(0-14+50+)/(15-49),F,131.5
+2030,%,(0-14+60+)/(15-59),F,82.4
+2030,%,(0-19+65+)/(20-64),F,74.0
+2030,%,(0-14+50+)/(15-49),F,147.9
+2035,%,(0-14+60+)/(15-59),F,92.1
+2035,%,(0-19+65+)/(20-64),F,81.1
+2035,%,(0-14+50+)/(15-49),F,169.0
+2040,%,(0-14+60+)/(15-59),F,101.9
+2040,%,(0-19+65+)/(20-64),F,88.8
+2040,%,(0-14+50+)/(15-49),F,190.3
+2045,%,(0-14+60+)/(15-59),F,113.6
+2045,%,(0-19+65+)/(20-64),F,96.6
+2045,%,(0-14+50+)/(15-49),F,208.7
+2050,%,(0-14+60+)/(15-59),F,126.4
+2050,%,(0-19+65+)/(20-64),F,106.2
+2050,%,(0-14+50+)/(15-49),F,229.1
+2055,%,(0-14+60+)/(15-59),F,137.2
+2055,%,(0-19+65+)/(20-64),F,117.1
+2055,%,(0-14+50+)/(15-49),F,237.2
+2060,%,(0-14+60+)/(15-59),F,148.5
+2060,%,(0-19+65+)/(20-64),F,126.0
+2060,%,(0-14+50+)/(15-49),F,246.9
+2065,%,(0-14+60+)/(15-59),F,151.6
+2065,%,(0-19+65+)/(20-64),F,135.5
+2065,%,(0-14+50+)/(15-49),F,254.5
+2070,%,(0-14+60+)/(15-59),F,155.6
+2070,%,(0-19+65+)/(20-64),F,137.3
+2070,%,(0-14+50+)/(15-49),F,257.9

@@ -1,76 +1,70 @@
-Year,Sex,UNIT_MEASURE,Value
-1996,Both sexes,Number,653
-1997,Both sexes,Number,601
-1998,Both sexes,Number,494
-1999,Both sexes,Number,431
-2000,Both sexes,Number,383
-2001,Both sexes,Number,287
-2002,Both sexes,Number,334
-2003,Both sexes,Number,268
-2004,Both sexes,Number,253
-2005,Both sexes,Number,233
-2006,Both sexes,Number,255
-2007,Both sexes,Number,231
-2008,Both sexes,Number,235
-2009,Both sexes,Number,224
-2010,Both sexes,Number,216
-2011,Both sexes,Number,184
-2012,Both sexes,Number,177
-2013,Both sexes,Number,181
-2014,Both sexes,Number,156
-2015,Both sexes,Number,182
-2016,Both sexes,Number,178
-2017,Both sexes,Number,196
-2018,Both sexes,Number,183
-2019,Both sexes,Number,190
-2020,Both sexes,Number,168
-1996,M,Number,360
-1997,M,Number,369
-1998,M,Number,302
-1999,M,Number,242
-2000,M,Number,220
-2001,M,Number,159
-2002,M,Number,191
-2003,M,Number,154
-2004,M,Number,151
-2005,M,Number,133
-2006,M,Number,158
-2007,M,Number,132
-2008,M,Number,131
-2009,M,Number,116
-2010,M,Number,125
-2011,M,Number,111
-2012,M,Number,111
-2013,M,Number,109
-2014,M,Number,74
-2015,M,Number,94
-2016,M,Number,111
-2017,M,Number,105
-2018,M,Number,91
-2019,M,Number,102
-2020,M,Number,93
-1996,F,Number,293
-1997,F,Number,232
-1998,F,Number,192
-1999,F,Number,189
-2000,F,Number,163
-2001,F,Number,128
-2002,F,Number,143
-2003,F,Number,114
-2004,F,Number,102
-2005,F,Number,100
-2006,F,Number,97
-2007,F,Number,99
-2008,F,Number,104
-2009,F,Number,108
-2010,F,Number,91
-2011,F,Number,73
-2012,F,Number,66
-2013,F,Number,72
-2014,F,Number,82
-2015,F,Number,88
-2016,F,Number,67
-2017,F,Number,91
-2018,F,Number,92
-2019,F,Number,88
-2020,F,Number,75
+Year,UNIT_MEASURE,Sex,Value
+1997,Number,Both sexes,445
+1998,Number,Both sexes,382
+1999,Number,Both sexes,312
+2000,Number,Both sexes,280
+2001,Number,Both sexes,214
+2002,Number,Both sexes,245
+2003,Number,Both sexes,202
+2004,Number,Both sexes,190
+2005,Number,Both sexes,194
+2006,Number,Both sexes,205
+2007,Number,Both sexes,193
+2008,Number,Both sexes,194
+2009,Number,Both sexes,173
+2010,Number,Both sexes,172
+2011,Number,Both sexes,141
+2012,Number,Both sexes,139
+2013,Number,Both sexes,148
+2014,Number,Both sexes,127
+2015,Number,Both sexes,154
+2016,Number,Both sexes,147
+2017,Number,Both sexes,162
+2018,Number,Both sexes,158
+2019,Number,Both sexes,167
+1997,Number,M,276
+1998,Number,M,235
+1999,Number,M,174
+2000,Number,M,163
+2001,Number,M,118
+2002,Number,M,138
+2003,Number,M,122
+2004,Number,M,107
+2005,Number,M,113
+2006,Number,M,127
+2007,Number,M,114
+2008,Number,M,110
+2009,Number,M,87
+2010,Number,M,105
+2011,Number,M,85
+2012,Number,M,85
+2013,Number,M,88
+2014,Number,M,63
+2015,Number,M,84
+2016,Number,M,87
+2017,Number,M,87
+2018,Number,M,81
+2019,Number,M,89
+1997,Number,F,169
+1998,Number,F,147
+1999,Number,F,138
+2000,Number,F,117
+2001,Number,F,96
+2002,Number,F,107
+2003,Number,F,80
+2004,Number,F,83
+2005,Number,F,81
+2006,Number,F,78
+2007,Number,F,79
+2008,Number,F,84
+2009,Number,F,86
+2010,Number,F,67
+2011,Number,F,56
+2012,Number,F,54
+2013,Number,F,60
+2014,Number,F,64
+2015,Number,F,70
+2016,Number,F,60
+2017,Number,F,75
+2018,Number,F,77
+2019,Number,F,78

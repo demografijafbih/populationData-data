@@ -16,6 +16,11 @@
             "title": "Godina"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -27,11 +32,6 @@
               ]
             },
             "title": "Spol"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
