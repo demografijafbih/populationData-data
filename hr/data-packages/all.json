@@ -5264,7 +5264,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Godina"
           },
           {
@@ -5277,34 +5277,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "M",
+                "Ž",
                 ""
               ]
             },
             "title": "Spol"
           },
           {
-            "name": "Admin Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Admin Area"
-          },
-          {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Vitalna statistika"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

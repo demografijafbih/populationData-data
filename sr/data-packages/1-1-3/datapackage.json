@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Година"
           },
           {
@@ -25,34 +25,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "M",
+                "Ж",
                 ""
               ]
             },
             "title": "Пол"
           },
           {
-            "name": "Admin Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Admin Area"
-          },
-          {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Витална статистика"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Вриједност"
           }
         ]

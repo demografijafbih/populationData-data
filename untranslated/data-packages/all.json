@@ -4844,7 +4844,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4855,31 +4855,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Admin Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
