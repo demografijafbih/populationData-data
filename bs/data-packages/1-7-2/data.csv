@@ -1,8 +1,8 @@
 Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2020,Broj,Oba spola,Oba spola,2171831
 2020,Broj,Oba spola,0-4,92546
-2020,Broj,Oba spola,5-9,105221
-2020,Broj,Oba spola,10-14,116991
+2020,Broj,Oba spola, 5-9,105221
+2020,Broj,Oba spola, 10-14,116991
 2020,Broj,Oba spola,15-19,117679
 2020,Broj,Oba spola,20-24,147842
 2020,Broj,Oba spola,25-29,142627
@@ -27,8 +27,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2020,Broj,Oba spola,120+,0
 2025,Broj,Oba spola,Oba spola,2084413
 2025,Broj,Oba spola,0-4,87792
-2025,Broj,Oba spola,5-9,90639
-2025,Broj,Oba spola,10-14,103885
+2025,Broj,Oba spola, 5-9,90639
+2025,Broj,Oba spola, 10-14,103885
 2025,Broj,Oba spola,15-19,113657
 2025,Broj,Oba spola,20-24,105552
 2025,Broj,Oba spola,25-29,128261
@@ -53,8 +53,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2025,Broj,Oba spola,120+,0
 2030,Broj,Oba spola,Oba spola,1988405
 2030,Broj,Oba spola,0-4,77510
-2030,Broj,Oba spola,5-9,85772
-2030,Broj,Oba spola,10-14,89578
+2030,Broj,Oba spola, 5-9,85772
+2030,Broj,Oba spola, 10-14,89578
 2030,Broj,Oba spola,15-19,100762
 2030,Broj,Oba spola,20-24,101705
 2030,Broj,Oba spola,25-29,92694
@@ -79,8 +79,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2030,Broj,Oba spola,120+,0
 2035,Broj,Oba spola,Oba spola,1882044
 2035,Broj,Oba spola,0-4,67776
-2035,Broj,Oba spola,5-9,75753
-2035,Broj,Oba spola,10-14,84584
+2035,Broj,Oba spola, 5-9,75753
+2035,Broj,Oba spola, 10-14,84584
 2035,Broj,Oba spola,15-19,87050
 2035,Broj,Oba spola,20-24,89936
 2035,Broj,Oba spola,25-29,88865
@@ -105,8 +105,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2035,Broj,Oba spola,120+,0
 2040,Broj,Oba spola,Oba spola,1767237
 2040,Broj,Oba spola,0-4,60287
-2040,Broj,Oba spola,5-9,66278
-2040,Broj,Oba spola,10-14,74727
+2040,Broj,Oba spola, 5-9,66278
+2040,Broj,Oba spola, 10-14,74727
 2040,Broj,Oba spola,15-19,82031
 2040,Broj,Oba spola,20-24,77954
 2040,Broj,Oba spola,25-29,78594
@@ -131,8 +131,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2040,Broj,Oba spola,120+,0
 2045,Broj,Oba spola,Oba spola,1646377
 2045,Broj,Oba spola,0-4,54526
-2045,Broj,Oba spola,5-9,58965
-2045,Broj,Oba spola,10-14,65430
+2045,Broj,Oba spola, 5-9,58965
+2045,Broj,Oba spola, 10-14,65430
 2045,Broj,Oba spola,15-19,72497
 2045,Broj,Oba spola,20-24,73257
 2045,Broj,Oba spola,25-29,68298
@@ -157,8 +157,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2045,Broj,Oba spola,120+,0
 2050,Broj,Oba spola,Oba spola,1522418
 2050,Broj,Oba spola,0-4,49418
-2050,Broj,Oba spola,5-9,53315
-2050,Broj,Oba spola,10-14,58227
+2050,Broj,Oba spola, 5-9,53315
+2050,Broj,Oba spola, 10-14,58227
 2050,Broj,Oba spola,15-19,63526
 2050,Broj,Oba spola,20-24,64778
 2050,Broj,Oba spola,25-29,63951
@@ -183,8 +183,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2050,Broj,Oba spola,120+,0
 2055,Broj,Oba spola,Oba spola,1399095
 2055,Broj,Oba spola,0-4,44877
-2055,Broj,Oba spola,5-9,48302
-2055,Broj,Oba spola,10-14,52631
+2055,Broj,Oba spola, 5-9,48302
+2055,Broj,Oba spola, 10-14,52631
 2055,Broj,Oba spola,15-19,56551
 2055,Broj,Oba spola,20-24,56816
 2055,Broj,Oba spola,25-29,56600
@@ -209,8 +209,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2055,Broj,Oba spola,120+,0
 2060,Broj,Oba spola,Oba spola,1279085
 2060,Broj,Oba spola,0-4,40605
-2060,Broj,Oba spola,5-9,43845
-2060,Broj,Oba spola,10-14,47664
+2060,Broj,Oba spola, 5-9,43845
+2060,Broj,Oba spola, 10-14,47664
 2060,Broj,Oba spola,15-19,51103
 2060,Broj,Oba spola,20-24,50606
 2060,Broj,Oba spola,25-29,49707
@@ -235,8 +235,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2060,Broj,Oba spola,120+,0
 2065,Broj,Oba spola,Oba spola,1164182
 2065,Broj,Oba spola,0-4,36476
-2065,Broj,Oba spola,5-9,39665
-2065,Broj,Oba spola,10-14,43253
+2065,Broj,Oba spola, 5-9,39665
+2065,Broj,Oba spola, 10-14,43253
 2065,Broj,Oba spola,15-19,46272
 2065,Broj,Oba spola,20-24,45726
 2065,Broj,Oba spola,25-29,44301
@@ -261,8 +261,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2065,Broj,Oba spola,120+,0
 2070,Broj,Oba spola,Oba spola,1055456
 2070,Broj,Oba spola,0-4,32803
-2070,Broj,Oba spola,5-9,35638
-2070,Broj,Oba spola,10-14,39128
+2070,Broj,Oba spola, 5-9,35638
+2070,Broj,Oba spola, 10-14,39128
 2070,Broj,Oba spola,15-19,41983
 2070,Broj,Oba spola,20-24,41400
 2070,Broj,Oba spola,25-29,40027
@@ -287,8 +287,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2070,Broj,Oba spola,120+,0
 2020,Broj,M,Oba spola,1063957
 2020,Broj,M,0-4,47858
-2020,Broj,M,5-9,53894
-2020,Broj,M,10-14,60102
+2020,Broj,M, 5-9,53894
+2020,Broj,M, 10-14,60102
 2020,Broj,M,15-19,60391
 2020,Broj,M,20-24,75377
 2020,Broj,M,25-29,72508
@@ -313,8 +313,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2020,Broj,M,120+,0
 2025,Broj,M,Oba spola,1011625
 2025,Broj,M,0-4,45201
-2025,Broj,M,5-9,46763
-2025,Broj,M,10-14,53028
+2025,Broj,M, 5-9,46763
+2025,Broj,M, 10-14,53028
 2025,Broj,M,15-19,58129
 2025,Broj,M,20-24,53220
 2025,Broj,M,25-29,63652
@@ -339,8 +339,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2025,Broj,M,120+,0
 2030,Broj,M,Oba spola,956335
 2030,Broj,M,0-4,39902
-2030,Broj,M,5-9,44045
-2030,Broj,M,10-14,46023
+2030,Broj,M, 5-9,44045
+2030,Broj,M, 10-14,46023
 2030,Broj,M,15-19,51175
 2030,Broj,M,20-24,51084
 2030,Broj,M,25-29,45627
@@ -365,8 +365,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2030,Broj,M,120+,0
 2035,Broj,M,Oba spola,897037
 2035,Broj,M,0-4,34888
-2035,Broj,M,5-9,38877
-2035,Broj,M,10-14,43243
+2035,Broj,M, 5-9,38877
+2035,Broj,M, 10-14,43243
 2035,Broj,M,15-19,44478
 2035,Broj,M,20-24,44799
 2035,Broj,M,25-29,43488
@@ -391,8 +391,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2035,Broj,M,120+,0
 2040,Broj,M,Oba spola,834858
 2040,Broj,M,0-4,31030
-2040,Broj,M,5-9,33995
-2040,Broj,M,10-14,38163
+2040,Broj,M, 5-9,33995
+2040,Broj,M, 10-14,38163
 2040,Broj,M,15-19,41696
 2040,Broj,M,20-24,39068
 2040,Broj,M,25-29,38104
@@ -417,8 +417,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2040,Broj,M,120+,0
 2045,Broj,M,Oba spola,771064
 2045,Broj,M,0-4,28062
-2045,Broj,M,5-9,30229
-2045,Broj,M,10-14,33380
+2045,Broj,M, 5-9,30229
+2045,Broj,M, 10-14,33380
 2045,Broj,M,15-19,36796
 2045,Broj,M,20-24,36500
 2045,Broj,M,25-29,33320
@@ -443,8 +443,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2045,Broj,M,120+,0
 2050,Broj,M,Oba spola,707033
 2050,Broj,M,0-4,25431
-2050,Broj,M,5-9,27321
-2050,Broj,M,10-14,29679
+2050,Broj,M, 5-9,27321
+2050,Broj,M, 10-14,29679
 2050,Broj,M,15-19,32197
 2050,Broj,M,20-24,32216
 2050,Broj,M,25-29,30970
@@ -469,8 +469,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2050,Broj,M,120+,0
 2055,Broj,M,Oba spola,644472
 2055,Broj,M,0-4,23093
-2055,Broj,M,5-9,24744
-2055,Broj,M,10-14,26808
+2055,Broj,M, 5-9,24744
+2055,Broj,M, 10-14,26808
 2055,Broj,M,15-19,28629
 2055,Broj,M,20-24,28207
 2055,Broj,M,25-29,27352
@@ -495,8 +495,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2055,Broj,M,120+,0
 2060,Broj,M,Oba spola,584420
 2060,Broj,M,0-4,20894
-2060,Broj,M,5-9,22456
-2060,Broj,M,10-14,24266
+2060,Broj,M, 5-9,22456
+2060,Broj,M, 10-14,24266
 2060,Broj,M,15-19,25850
 2060,Broj,M,20-24,25091
 2060,Broj,M,25-29,23977
@@ -521,8 +521,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2060,Broj,M,120+,0
 2065,Broj,M,Oba spola,527732
 2065,Broj,M,0-4,18768
-2065,Broj,M,5-9,20311
-2065,Broj,M,10-14,22012
+2065,Broj,M, 5-9,20311
+2065,Broj,M, 10-14,22012
 2065,Broj,M,15-19,23390
 2065,Broj,M,20-24,22648
 2065,Broj,M,25-29,21338
@@ -547,8 +547,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2065,Broj,M,120+,0
 2070,Broj,M,Oba spola,475030
 2070,Broj,M,0-4,16877
-2070,Broj,M,5-9,18245
-2070,Broj,M,10-14,19906
+2070,Broj,M, 5-9,18245
+2070,Broj,M, 10-14,19906
 2070,Broj,M,15-19,21212
 2070,Broj,M,20-24,20488
 2070,Broj,M,25-29,19253
@@ -573,8 +573,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2070,Broj,M,120+,0
 2020,Broj,Ž,Oba spola,1107874
 2020,Broj,Ž,0-4,44688
-2020,Broj,Ž,5-9,51327
-2020,Broj,Ž,10-14,56889
+2020,Broj,Ž, 5-9,51327
+2020,Broj,Ž, 10-14,56889
 2020,Broj,Ž,15-19,57288
 2020,Broj,Ž,20-24,72465
 2020,Broj,Ž,25-29,70119
@@ -599,8 +599,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2020,Broj,Ž,120+,0
 2025,Broj,Ž,Oba spola,1072788
 2025,Broj,Ž,0-4,42591
-2025,Broj,Ž,5-9,43876
-2025,Broj,Ž,10-14,50857
+2025,Broj,Ž, 5-9,43876
+2025,Broj,Ž, 10-14,50857
 2025,Broj,Ž,15-19,55528
 2025,Broj,Ž,20-24,52332
 2025,Broj,Ž,25-29,64608
@@ -625,8 +625,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2025,Broj,Ž,120+,0
 2030,Broj,Ž,Oba spola,1032070
 2030,Broj,Ž,0-4,37607
-2030,Broj,Ž,5-9,41727
-2030,Broj,Ž,10-14,43555
+2030,Broj,Ž, 5-9,41727
+2030,Broj,Ž, 10-14,43555
 2030,Broj,Ž,15-19,49586
 2030,Broj,Ž,20-24,50621
 2030,Broj,Ž,25-29,47067
@@ -651,8 +651,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2030,Broj,Ž,120+,0
 2035,Broj,Ž,Oba spola,985007
 2035,Broj,Ž,0-4,32888
-2035,Broj,Ž,5-9,36876
-2035,Broj,Ž,10-14,41340
+2035,Broj,Ž, 5-9,36876
+2035,Broj,Ž, 10-14,41340
 2035,Broj,Ž,15-19,42572
 2035,Broj,Ž,20-24,45138
 2035,Broj,Ž,25-29,45377
@@ -677,8 +677,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2035,Broj,Ž,120+,0
 2040,Broj,Ž,Oba spola,932380
 2040,Broj,Ž,0-4,29257
-2040,Broj,Ž,5-9,32283
-2040,Broj,Ž,10-14,36564
+2040,Broj,Ž, 5-9,32283
+2040,Broj,Ž, 10-14,36564
 2040,Broj,Ž,15-19,40335
 2040,Broj,Ž,20-24,38886
 2040,Broj,Ž,25-29,40490
@@ -703,8 +703,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2040,Broj,Ž,120+,0
 2045,Broj,Ž,Oba spola,875313
 2045,Broj,Ž,0-4,26464
-2045,Broj,Ž,5-9,28736
-2045,Broj,Ž,10-14,32051
+2045,Broj,Ž, 5-9,28736
+2045,Broj,Ž, 10-14,32051
 2045,Broj,Ž,15-19,35700
 2045,Broj,Ž,20-24,36757
 2045,Broj,Ž,25-29,34978
@@ -729,8 +729,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2045,Broj,Ž,120+,0
 2050,Broj,Ž,Oba spola,815385
 2050,Broj,Ž,0-4,23987
-2050,Broj,Ž,5-9,25994
-2050,Broj,Ž,10-14,28549
+2050,Broj,Ž, 5-9,25994
+2050,Broj,Ž, 10-14,28549
 2050,Broj,Ž,15-19,31328
 2050,Broj,Ž,20-24,32562
 2050,Broj,Ž,25-29,32980
@@ -755,8 +755,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2050,Broj,Ž,120+,0
 2055,Broj,Ž,Oba spola,754622
 2055,Broj,Ž,0-4,21784
-2055,Broj,Ž,5-9,23557
-2055,Broj,Ž,10-14,25822
+2055,Broj,Ž, 5-9,23557
+2055,Broj,Ž, 10-14,25822
 2055,Broj,Ž,15-19,27921
 2055,Broj,Ž,20-24,28608
 2055,Broj,Ž,25-29,29248
@@ -781,8 +781,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2055,Broj,Ž,120+,0
 2060,Broj,Ž,Oba spola,694665
 2060,Broj,Ž,0-4,19712
-2060,Broj,Ž,5-9,21389
-2060,Broj,Ž,10-14,23398
+2060,Broj,Ž, 5-9,21389
+2060,Broj,Ž, 10-14,23398
 2060,Broj,Ž,15-19,25254
 2060,Broj,Ž,20-24,25515
 2060,Broj,Ž,25-29,25730
@@ -807,8 +807,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2060,Broj,Ž,120+,0
 2065,Broj,Ž,Oba spola,636450
 2065,Broj,Ž,0-4,17708
-2065,Broj,Ž,5-9,19354
-2065,Broj,Ž,10-14,21241
+2065,Broj,Ž, 5-9,19354
+2065,Broj,Ž, 10-14,21241
 2065,Broj,Ž,15-19,22881
 2065,Broj,Ž,20-24,23078
 2065,Broj,Ž,25-29,22964
@@ -833,8 +833,8 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Value
 2065,Broj,Ž,120+,0
 2070,Broj,Ž,Oba spola,580426
 2070,Broj,Ž,0-4,15926
-2070,Broj,Ž,5-9,17393
-2070,Broj,Ž,10-14,19222
+2070,Broj,Ž, 5-9,17393
+2070,Broj,Ž, 10-14,19222
 2070,Broj,Ž,15-19,20772
 2070,Broj,Ž,20-24,20911
 2070,Broj,Ž,25-29,20774

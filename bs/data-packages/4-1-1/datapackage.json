@@ -21,17 +21,25 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Type_of_user",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "Maloljetni korisnici",
-                "Odrasli korisnici",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Vrsta korisnika"
+            "title": "Administrativna oblast"
           },
           {
             "name": "SEX",
@@ -48,7 +56,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

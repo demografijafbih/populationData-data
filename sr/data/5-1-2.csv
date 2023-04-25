@@ -1,31 +1,298 @@
-Year,UNIT_MEASURE,Пол,Value
-2011,Број,Оба пола,17293
-2012,Број,Оба пола,18817
-2013,Број,Оба пола,19880
-2014,Број,Оба пола,21490
-2015,Број,Оба пола,22901
-2016,Број,Оба пола,24918
-2017,Број,Оба пола,25889
-2018,Број,Оба пола,28511
-2019,Број,Оба пола,30587
-2020,Број,Оба пола,27698
-2011,Број,M,9082
-2012,Број,M,9859
-2013,Број,M,10497
-2014,Број,M,11200
-2015,Број,M,11918
-2016,Број,M,13086
-2017,Број,M,13436
-2018,Број,M,14855
-2019,Број,M,15857
-2020,Број,M,14477
-2011,Број,Ж,8211
-2012,Број,Ж,8958
-2013,Број,Ж,9383
-2014,Број,Ж,10290
-2015,Број,Ж,10983
-2016,Број,Ж,11832
-2017,Број,Ж,12453
-2018,Број,Ж,13656
-2019,Број,Ж,14730
-2020,Број,Ж,13221
+Year,UNIT_MEASURE,Административно подручје,Пол,Value
+2010,Број,federation_of_bih,Оба пола,10179
+2010,Број,una-sana_canton,Оба пола,996
+2010,Број,posavina_canton,Оба пола,117
+2010,Број,tuzla_canton,Оба пола,1865
+2010,Број,zenica-doboj_canton,Оба пола,1032
+2010,Број,bosnian-podrinje_canton,Оба пола,158
+2010,Број,central_bosnia_canton,Оба пола,703
+2010,Број,herzegovina-neretva_canton,Оба пола,1445
+2010,Број,west_herzegovina_canton,Оба пола,679
+2010,Број,sarajevo_canton,Оба пола,2811
+2010,Број,canton_10,Оба пола,373
+2010,Број,federation_of_bih,M,5359
+2010,Број,una-sana_canton,M,534
+2010,Број,posavina_canton,M,55
+2010,Број,tuzla_canton,M,953
+2010,Број,zenica-doboj_canton,M,563
+2010,Број,bosnian-podrinje_canton,M,82
+2010,Број,central_bosnia_canton,M,400
+2010,Број,herzegovina-neretva_canton,M,746
+2010,Број,west_herzegovina_canton,M,372
+2010,Број,sarajevo_canton,M,1456
+2010,Број,canton_10,M,198
+2010,Број,federation_of_bih,Ж,4820
+2010,Број,una-sana_canton,Ж,462
+2010,Број,posavina_canton,Ж,62
+2010,Број,tuzla_canton,Ж,912
+2010,Број,zenica-doboj_canton,Ж,469
+2010,Број,bosnian-podrinje_canton,Ж,76
+2010,Број,central_bosnia_canton,Ж,303
+2010,Број,herzegovina-neretva_canton,Ж,699
+2010,Број,west_herzegovina_canton,Ж,307
+2010,Број,sarajevo_canton,Ж,1355
+2010,Број,canton_10,Ж,175
+2011,Број,federation_of_bih,Оба пола,10179
+2011,Број,una-sana_canton,Оба пола,996
+2011,Број,posavina_canton,Оба пола,117
+2011,Број,tuzla_canton,Оба пола,1865
+2011,Број,zenica-doboj_canton,Оба пола,1032
+2011,Број,bosnian-podrinje_canton,Оба пола,158
+2011,Број,central_bosnia_canton,Оба пола,703
+2011,Број,herzegovina-neretva_canton,Оба пола,1445
+2011,Број,west_herzegovina_canton,Оба пола,679
+2011,Број,sarajevo_canton,Оба пола,2811
+2011,Број,canton_10,Оба пола,373
+2011,Број,federation_of_bih,M,5359
+2011,Број,una-sana_canton,M,534
+2011,Број,posavina_canton,M,55
+2011,Број,tuzla_canton,M,953
+2011,Број,zenica-doboj_canton,M,563
+2011,Број,bosnian-podrinje_canton,M,82
+2011,Број,central_bosnia_canton,M,400
+2011,Број,herzegovina-neretva_canton,M,746
+2011,Број,west_herzegovina_canton,M,372
+2011,Број,sarajevo_canton,M,1456
+2011,Број,canton_10,M,198
+2011,Број,federation_of_bih,Ж,4820
+2011,Број,una-sana_canton,Ж,462
+2011,Број,posavina_canton,Ж,62
+2011,Број,tuzla_canton,Ж,912
+2011,Број,zenica-doboj_canton,Ж,469
+2011,Број,bosnian-podrinje_canton,Ж,76
+2011,Број,central_bosnia_canton,Ж,303
+2011,Број,herzegovina-neretva_canton,Ж,699
+2011,Број,west_herzegovina_canton,Ж,307
+2011,Број,sarajevo_canton,Ж,1355
+2011,Број,canton_10,Ж,175
+2012,Број,federation_of_bih,Оба пола,10969
+2012,Број,una-sana_canton,Оба пола,1065
+2012,Број,posavina_canton,Оба пола,141
+2012,Број,tuzla_canton,Оба пола,2011
+2012,Број,zenica-doboj_canton,Оба пола,1251
+2012,Број,bosnian-podrinje_canton,Оба пола,192
+2012,Број,central_bosnia_canton,Оба пола,656
+2012,Број,herzegovina-neretva_canton,Оба пола,1421
+2012,Број,west_herzegovina_canton,Оба пола,756
+2012,Број,sarajevo_canton,Оба пола,3101
+2012,Број,canton_10,Оба пола,375
+2012,Број,federation_of_bih,M,5700
+2012,Број,una-sana_canton,M,564
+2012,Број,posavina_canton,M,91
+2012,Број,tuzla_canton,M,1096
+2012,Број,zenica-doboj_canton,M,651
+2012,Број,bosnian-podrinje_canton,M,92
+2012,Број,central_bosnia_canton,M,332
+2012,Број,herzegovina-neretva_canton,M,721
+2012,Број,west_herzegovina_canton,M,411
+2012,Број,sarajevo_canton,M,1550
+2012,Број,canton_10,M,192
+2012,Број,federation_of_bih,Ж,5269
+2012,Број,una-sana_canton,Ж,501
+2012,Број,posavina_canton,Ж,50
+2012,Број,tuzla_canton,Ж,915
+2012,Број,zenica-doboj_canton,Ж,600
+2012,Број,bosnian-podrinje_canton,Ж,100
+2012,Број,central_bosnia_canton,Ж,324
+2012,Број,herzegovina-neretva_canton,Ж,700
+2012,Број,west_herzegovina_canton,Ж,345
+2012,Број,sarajevo_canton,Ж,1551
+2012,Број,canton_10,Ж,183
+2013,Број,federation_of_bih,Оба пола,156
+2013,Број,una-sana_canton,Оба пола,14
+2013,Број,posavina_canton,Оба пола,3
+2013,Број,tuzla_canton,Оба пола,21
+2013,Број,zenica-doboj_canton,Оба пола,24
+2013,Број,bosnian-podrinje_canton,Оба пола,2
+2013,Број,central_bosnia_canton,Оба пола,12
+2013,Број,herzegovina-neretva_canton,Оба пола,22
+2013,Број,west_herzegovina_canton,Оба пола,12
+2013,Број,sarajevo_canton,Оба пола,40
+2013,Број,canton_10,Оба пола,6
+2013,Број,federation_of_bih,M,6229
+2013,Број,una-sana_canton,M,587
+2013,Број,posavina_canton,M,74
+2013,Број,tuzla_canton,M,1054
+2013,Број,zenica-doboj_canton,M,711
+2013,Број,bosnian-podrinje_canton,M,91
+2013,Број,central_bosnia_canton,M,290
+2013,Број,herzegovina-neretva_canton,M,780
+2013,Број,west_herzegovina_canton,M,424
+2013,Број,sarajevo_canton,M,2028
+2013,Број,canton_10,M,190
+2013,Број,federation_of_bih,Ж,5579
+2013,Број,una-sana_canton,Ж,533
+2013,Број,posavina_canton,Ж,68
+2013,Број,tuzla_canton,Ж,858
+2013,Број,zenica-doboj_canton,Ж,687
+2013,Број,bosnian-podrinje_canton,Ж,80
+2013,Број,central_bosnia_canton,Ж,318
+2013,Број,herzegovina-neretva_canton,Ж,739
+2013,Број,west_herzegovina_canton,Ж,371
+2013,Број,sarajevo_canton,Ж,1745
+2013,Број,canton_10,Ж,180
+2014,Број,federation_of_bih,Оба пола,12737
+2014,Број,una-sana_canton,Оба пола,1244
+2014,Број,posavina_canton,Оба пола,149
+2014,Број,tuzla_canton,Оба пола,2033
+2014,Број,zenica-doboj_canton,Оба пола,1406
+2014,Број,bosnian-podrinje_canton,Оба пола,139
+2014,Број,central_bosnia_canton,Оба пола,821
+2014,Број,herzegovina-neretva_canton,Оба пола,1794
+2014,Број,west_herzegovina_canton,Оба пола,789
+2014,Број,sarajevo_canton,Оба пола,4003
+2014,Број,canton_10,Оба пола,359
+2014,Број,federation_of_bih,M,6632
+2014,Број,una-sana_canton,M,651
+2014,Број,posavina_canton,M,74
+2014,Број,tuzla_canton,M,1108
+2014,Број,zenica-doboj_canton,M,731
+2014,Број,bosnian-podrinje_canton,M,64
+2014,Број,central_bosnia_canton,M,420
+2014,Број,herzegovina-neretva_canton,M,914
+2014,Број,west_herzegovina_canton,M,421
+2014,Број,sarajevo_canton,M,2070
+2014,Број,canton_10,M,179
+2014,Број,federation_of_bih,Ж,6105
+2014,Број,una-sana_canton,Ж,593
+2014,Број,posavina_canton,Ж,75
+2014,Број,tuzla_canton,Ж,925
+2014,Број,zenica-doboj_canton,Ж,675
+2014,Број,bosnian-podrinje_canton,Ж,75
+2014,Број,central_bosnia_canton,Ж,401
+2014,Број,herzegovina-neretva_canton,Ж,880
+2014,Број,west_herzegovina_canton,Ж,368
+2014,Број,sarajevo_canton,Ж,1933
+2014,Број,canton_10,Ж,180
+2015,Број,federation_of_bih,Оба пола,13268
+2015,Број,una-sana_canton,Оба пола,1311
+2015,Број,posavina_canton,Оба пола,161
+2015,Број,tuzla_canton,Оба пола,2213
+2015,Број,zenica-doboj_canton,Оба пола,1594
+2015,Број,bosnian-podrinje_canton,Оба пола,141
+2015,Број,central_bosnia_canton,Оба пола,889
+2015,Број,herzegovina-neretva_canton,Оба пола,1975
+2015,Број,west_herzegovina_canton,Оба пола,738
+2015,Број,sarajevo_canton,Оба пола,3856
+2015,Број,canton_10,Оба пола,390
+2015,Број,federation_of_bih,M,6906
+2015,Број,una-sana_canton,M,695
+2015,Број,posavina_canton,M,81
+2015,Број,tuzla_canton,M,1187
+2015,Број,zenica-doboj_canton,M,835
+2015,Број,bosnian-podrinje_canton,M,67
+2015,Број,central_bosnia_canton,M,447
+2015,Број,herzegovina-neretva_canton,M,999
+2015,Број,west_herzegovina_canton,M,365
+2015,Број,sarajevo_canton,M,2037
+2015,Број,canton_10,M,193
+2015,Број,federation_of_bih,Ж,6362
+2015,Број,una-sana_canton,Ж,616
+2015,Број,posavina_canton,Ж,80
+2015,Број,tuzla_canton,Ж,1026
+2015,Број,zenica-doboj_canton,Ж,759
+2015,Број,bosnian-podrinje_canton,Ж,74
+2015,Број,central_bosnia_canton,Ж,442
+2015,Број,herzegovina-neretva_canton,Ж,976
+2015,Број,west_herzegovina_canton,Ж,373
+2015,Број,sarajevo_canton,Ж,1819
+2015,Број,canton_10,Ж,197
+2016,Број,federation_of_bih,Оба пола,14405
+2016,Број,una-sana_canton,Оба пола,1351
+2016,Број,posavina_canton,Оба пола,160
+2016,Број,tuzla_canton,Оба пола,2337
+2016,Број,zenica-doboj_canton,Оба пола,1893
+2016,Број,bosnian-podrinje_canton,Оба пола,146
+2016,Број,central_bosnia_canton,Оба пола,970
+2016,Број,herzegovina-neretva_canton,Оба пола,2100
+2016,Број,west_herzegovina_canton,Оба пола,851
+2016,Број,sarajevo_canton,Оба пола,4206
+2016,Број,canton_10,Оба пола,391
+2016,Број,federation_of_bih,M,7604
+2016,Број,una-sana_canton,M,743
+2016,Број,posavina_canton,M,83
+2016,Број,tuzla_canton,M,1252
+2016,Број,zenica-doboj_canton,M,968
+2016,Број,bosnian-podrinje_canton,M,68
+2016,Број,central_bosnia_canton,M,495
+2016,Број,herzegovina-neretva_canton,M,1071
+2016,Број,west_herzegovina_canton,M,437
+2016,Број,sarajevo_canton,M,2298
+2016,Број,canton_10,M,189
+2016,Број,federation_of_bih,Ж,6801
+2016,Број,una-sana_canton,Ж,608
+2016,Број,posavina_canton,Ж,77
+2016,Број,tuzla_canton,Ж,1085
+2016,Број,zenica-doboj_canton,Ж,925
+2016,Број,bosnian-podrinje_canton,Ж,78
+2016,Број,central_bosnia_canton,Ж,475
+2016,Број,herzegovina-neretva_canton,Ж,1029
+2016,Број,west_herzegovina_canton,Ж,414
+2016,Број,sarajevo_canton,Ж,1908
+2016,Број,canton_10,Ж,202
+2017,Број,federation_of_bih,Оба пола,15093
+2017,Број,una-sana_canton,Оба пола,1398
+2017,Број,posavina_canton,Оба пола,158
+2017,Број,tuzla_canton,Оба пола,2484
+2017,Број,zenica-doboj_canton,Оба пола,2017
+2017,Број,bosnian-podrinje_canton,Оба пола,155
+2017,Број,central_bosnia_canton,Оба пола,1034
+2017,Број,herzegovina-neretva_canton,Оба пола,2317
+2017,Број,west_herzegovina_canton,Оба пола,901
+2017,Број,sarajevo_canton,Оба пола,4221
+2017,Број,canton_10,Оба пола,408
+2017,Број,federation_of_bih,M,7850
+2017,Број,una-sana_canton,M,768
+2017,Број,posavina_canton,M,84
+2017,Број,tuzla_canton,M,1289
+2017,Број,zenica-doboj_canton,M,998
+2017,Број,bosnian-podrinje_canton,M,84
+2017,Број,central_bosnia_canton,M,559
+2017,Број,herzegovina-neretva_canton,M,1137
+2017,Број,west_herzegovina_canton,M,444
+2017,Број,sarajevo_canton,M,2284
+2017,Број,canton_10,M,203
+2017,Број,federation_of_bih,Ж,7243
+2017,Број,una-sana_canton,Ж,630
+2017,Број,posavina_canton,Ж,74
+2017,Број,tuzla_canton,Ж,1195
+2017,Број,zenica-doboj_canton,Ж,1019
+2017,Број,bosnian-podrinje_canton,Ж,71
+2017,Број,central_bosnia_canton,Ж,475
+2017,Број,herzegovina-neretva_canton,Ж,1180
+2017,Број,west_herzegovina_canton,Ж,457
+2017,Број,sarajevo_canton,Ж,1937
+2017,Број,canton_10,Ж,205
+2018,Број,federation_of_bih,Оба пола,15722
+2018,Број,una-sana_canton,Оба пола,1428
+2018,Број,posavina_canton,Оба пола,165
+2018,Број,tuzla_canton,Оба пола,2492
+2018,Број,zenica-doboj_canton,Оба пола,2255
+2018,Број,bosnian-podrinje_canton,Оба пола,165
+2018,Број,central_bosnia_canton,Оба пола,1094
+2018,Број,herzegovina-neretva_canton,Оба пола,2519
+2018,Број,west_herzegovina_canton,Оба пола,991
+2018,Број,sarajevo_canton,Оба пола,4204
+2018,Број,canton_10,Оба пола,409
+2018,Број,federation_of_bih,M,8175
+2018,Број,una-sana_canton,M,806
+2018,Број,posavina_canton,M,76
+2018,Број,tuzla_canton,M,1278
+2018,Број,zenica-doboj_canton,M,1126
+2018,Број,bosnian-podrinje_canton,M,90
+2018,Број,central_bosnia_canton,M,533
+2018,Број,herzegovina-neretva_canton,M,1270
+2018,Број,west_herzegovina_canton,M,477
+2018,Број,sarajevo_canton,M,2311
+2018,Број,canton_10,M,208
+2018,Број,federation_of_bih,Ж,7547
+2018,Број,una-sana_canton,Ж,622
+2018,Број,posavina_canton,Ж,89
+2018,Број,tuzla_canton,Ж,1214
+2018,Број,zenica-doboj_canton,Ж,1129
+2018,Број,bosnian-podrinje_canton,Ж,75
+2018,Број,central_bosnia_canton,Ж,561
+2018,Број,herzegovina-neretva_canton,Ж,1249
+2018,Број,west_herzegovina_canton,Ж,514
+2018,Број,sarajevo_canton,Ж,1893
+2018,Број,canton_10,Ж,201

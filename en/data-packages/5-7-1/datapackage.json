@@ -11,22 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "25 - 34",
-                "25 - 64",
-                "35 - 44",
-                "35 - 54",
-                "45 - 54",
-                "55 - 64"
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {

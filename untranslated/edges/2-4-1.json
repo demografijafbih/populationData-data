@@ -1,1 +1,1 @@
-{"From":["Type_of_disability","SEX"],"To":["SEX","AGE"]}
+{"From":["ADMIN_AREA","SEX"],"To":["SEX","Disabilities"]}

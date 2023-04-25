@@ -23,7 +23,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "total",
                 "public",
                 "private",
                 ""
@@ -32,7 +32,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

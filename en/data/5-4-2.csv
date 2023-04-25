@@ -1,31 +1,241 @@
-Year,UNIT_MEASURE,Sex,Value
-2011,Number,Both sexes,17724
-2012,Number,Both sexes,18040
-2013,Number,Both sexes,18007
-2014,Number,Both sexes,16131
-2015,Number,Both sexes,15149
-2016,Number,Both sexes,14407
-2017,Number,Both sexes,13709
-2018,Number,Both sexes,13394
-2019,Number,Both sexes,13053
-2020,Number,Both sexes,12288
-2011,Number,M,6984
-2012,Number,M,7168
-2013,Number,M,7248
-2014,Number,M,6554
-2015,Number,M,6382
-2016,Number,M,6062
-2017,Number,M,5845
-2018,Number,M,5571
-2019,Number,M,5302
-2020,Number,M,4977
-2011,Number,F,10740
-2012,Number,F,10872
-2013,Number,F,10759
-2014,Number,F,9577
-2015,Number,F,8767
-2016,Number,F,8345
-2017,Number,F,7864
-2018,Number,F,7823
-2019,Number,F,7751
-2020,Number,F,7311
+Year,UNIT_MEASURE,Administrative area,Sex,Value
+2010,Number,federation_of_bih,Both sexes,10096.0
+2011,Number,federation_of_bih,Both sexes,11350.0
+2012,Number,federation_of_bih,Both sexes,11209.0
+2013,Number,federation_of_bih,Both sexes,12231.0
+2014,Number,federation_of_bih,Both sexes,13491.0
+2015,Number,federation_of_bih,Both sexes,12183.0
+2016,Number,federation_of_bih,Both sexes,11846.0
+2017,Number,federation_of_bih,Both sexes,12149.0
+2018,Number,federation_of_bih,Both sexes,12060.0
+2019,Number,federation_of_bih,Both sexes,11747.0
+2010,Number,federation_of_bih,M,
+2011,Number,federation_of_bih,M,
+2012,Number,federation_of_bih,M,
+2013,Number,federation_of_bih,M,
+2014,Number,federation_of_bih,M,
+2015,Number,federation_of_bih,M,
+2016,Number,federation_of_bih,M,
+2017,Number,federation_of_bih,M,
+2018,Number,federation_of_bih,M,
+2019,Number,federation_of_bih,M,
+2010,Number,federation_of_bih,F,
+2011,Number,federation_of_bih,F,
+2012,Number,federation_of_bih,F,
+2013,Number,federation_of_bih,F,
+2014,Number,federation_of_bih,F,
+2015,Number,federation_of_bih,F,
+2016,Number,federation_of_bih,F,
+2017,Number,federation_of_bih,F,
+2018,Number,federation_of_bih,F,
+2019,Number,federation_of_bih,F,
+2010,Number,una-sana_canton,Both sexes,553.0
+2011,Number,una-sana_canton,Both sexes,787.0
+2012,Number,una-sana_canton,Both sexes,574.0
+2013,Number,una-sana_canton,Both sexes,868.0
+2014,Number,una-sana_canton,Both sexes,728.0
+2015,Number,una-sana_canton,Both sexes,610.0
+2016,Number,una-sana_canton,Both sexes,608.0
+2017,Number,una-sana_canton,Both sexes,456.0
+2018,Number,una-sana_canton,Both sexes,499.0
+2019,Number,una-sana_canton,Both sexes,423.0
+2010,Number,una-sana_canton,M,
+2011,Number,una-sana_canton,M,
+2012,Number,una-sana_canton,M,
+2013,Number,una-sana_canton,M,
+2014,Number,una-sana_canton,M,
+2015,Number,una-sana_canton,M,
+2016,Number,una-sana_canton,M,
+2017,Number,una-sana_canton,M,
+2018,Number,una-sana_canton,M,
+2019,Number,una-sana_canton,M,
+2010,Number,una-sana_canton,F,
+2011,Number,una-sana_canton,F,
+2012,Number,una-sana_canton,F,
+2013,Number,una-sana_canton,F,
+2014,Number,una-sana_canton,F,
+2015,Number,una-sana_canton,F,
+2016,Number,una-sana_canton,F,
+2017,Number,una-sana_canton,F,
+2018,Number,una-sana_canton,F,
+2019,Number,una-sana_canton,F,
+2010,Number,tuzla_canton,Both sexes,1187.0
+2011,Number,tuzla_canton,Both sexes,1957.0
+2012,Number,tuzla_canton,Both sexes,1970.0
+2013,Number,tuzla_canton,Both sexes,2049.0
+2014,Number,tuzla_canton,Both sexes,2001.0
+2015,Number,tuzla_canton,Both sexes,1902.0
+2016,Number,tuzla_canton,Both sexes,1681.0
+2017,Number,tuzla_canton,Both sexes,1533.0
+2018,Number,tuzla_canton,Both sexes,1428.0
+2019,Number,tuzla_canton,Both sexes,1520.0
+2010,Number,tuzla_canton,M,
+2011,Number,tuzla_canton,M,
+2012,Number,tuzla_canton,M,
+2013,Number,tuzla_canton,M,
+2014,Number,tuzla_canton,M,
+2015,Number,tuzla_canton,M,
+2016,Number,tuzla_canton,M,
+2017,Number,tuzla_canton,M,
+2018,Number,tuzla_canton,M,
+2019,Number,tuzla_canton,M,
+2010,Number,tuzla_canton,F,
+2011,Number,tuzla_canton,F,
+2012,Number,tuzla_canton,F,
+2013,Number,tuzla_canton,F,
+2014,Number,tuzla_canton,F,
+2015,Number,tuzla_canton,F,
+2016,Number,tuzla_canton,F,
+2017,Number,tuzla_canton,F,
+2018,Number,tuzla_canton,F,
+2019,Number,tuzla_canton,F,
+2010,Number,zenica-doboj_canton,Both sexes,462.0
+2011,Number,zenica-doboj_canton,Both sexes,490.0
+2012,Number,zenica-doboj_canton,Both sexes,567.0
+2013,Number,zenica-doboj_canton,Both sexes,643.0
+2014,Number,zenica-doboj_canton,Both sexes,654.0
+2015,Number,zenica-doboj_canton,Both sexes,343.0
+2016,Number,zenica-doboj_canton,Both sexes,457.0
+2017,Number,zenica-doboj_canton,Both sexes,445.0
+2018,Number,zenica-doboj_canton,Both sexes,508.0
+2019,Number,zenica-doboj_canton,Both sexes,519.0
+2010,Number,zenica-doboj_canton,M,
+2011,Number,zenica-doboj_canton,M,
+2012,Number,zenica-doboj_canton,M,
+2013,Number,zenica-doboj_canton,M,
+2014,Number,zenica-doboj_canton,M,
+2015,Number,zenica-doboj_canton,M,
+2016,Number,zenica-doboj_canton,M,
+2017,Number,zenica-doboj_canton,M,
+2018,Number,zenica-doboj_canton,M,
+2019,Number,zenica-doboj_canton,M,
+2010,Number,zenica-doboj_canton,F,
+2011,Number,zenica-doboj_canton,F,
+2012,Number,zenica-doboj_canton,F,
+2013,Number,zenica-doboj_canton,F,
+2014,Number,zenica-doboj_canton,F,
+2015,Number,zenica-doboj_canton,F,
+2016,Number,zenica-doboj_canton,F,
+2017,Number,zenica-doboj_canton,F,
+2018,Number,zenica-doboj_canton,F,
+2019,Number,zenica-doboj_canton,F,
+2010,Number,bosnian-podrinje_canton,Both sexes,0.0
+2011,Number,bosnian-podrinje_canton,Both sexes,0.0
+2012,Number,bosnian-podrinje_canton,Both sexes,0.0
+2013,Number,bosnian-podrinje_canton,Both sexes,0.0
+2014,Number,bosnian-podrinje_canton,Both sexes,0.0
+2015,Number,bosnian-podrinje_canton,Both sexes,0.0
+2016,Number,bosnian-podrinje_canton,Both sexes,0.0
+2017,Number,bosnian-podrinje_canton,Both sexes,0.0
+2018,Number,bosnian-podrinje_canton,Both sexes,18.0
+2019,Number,bosnian-podrinje_canton,Both sexes,44.0
+2010,Number,bosnian-podrinje_canton,M,
+2011,Number,bosnian-podrinje_canton,M,
+2012,Number,bosnian-podrinje_canton,M,
+2013,Number,bosnian-podrinje_canton,M,
+2014,Number,bosnian-podrinje_canton,M,
+2015,Number,bosnian-podrinje_canton,M,
+2016,Number,bosnian-podrinje_canton,M,
+2017,Number,bosnian-podrinje_canton,M,
+2018,Number,bosnian-podrinje_canton,M,
+2019,Number,bosnian-podrinje_canton,M,
+2010,Number,bosnian-podrinje_canton,F,
+2011,Number,bosnian-podrinje_canton,F,
+2012,Number,bosnian-podrinje_canton,F,
+2013,Number,bosnian-podrinje_canton,F,
+2014,Number,bosnian-podrinje_canton,F,
+2015,Number,bosnian-podrinje_canton,F,
+2016,Number,bosnian-podrinje_canton,F,
+2017,Number,bosnian-podrinje_canton,F,
+2018,Number,bosnian-podrinje_canton,F,
+2019,Number,bosnian-podrinje_canton,F,
+2010,Number,central_bosnia_canton,Both sexes,168.0
+2011,Number,central_bosnia_canton,Both sexes,260.0
+2012,Number,central_bosnia_canton,Both sexes,148.0
+2013,Number,central_bosnia_canton,Both sexes,546.0
+2014,Number,central_bosnia_canton,Both sexes,1030.0
+2015,Number,central_bosnia_canton,Both sexes,898.0
+2016,Number,central_bosnia_canton,Both sexes,1110.0
+2017,Number,central_bosnia_canton,Both sexes,1277.0
+2018,Number,central_bosnia_canton,Both sexes,1548.0
+2019,Number,central_bosnia_canton,Both sexes,1318.0
+2010,Number,central_bosnia_canton,M,
+2011,Number,central_bosnia_canton,M,
+2012,Number,central_bosnia_canton,M,
+2013,Number,central_bosnia_canton,M,
+2014,Number,central_bosnia_canton,M,
+2015,Number,central_bosnia_canton,M,
+2016,Number,central_bosnia_canton,M,
+2017,Number,central_bosnia_canton,M,
+2018,Number,central_bosnia_canton,M,
+2019,Number,central_bosnia_canton,M,
+2010,Number,central_bosnia_canton,F,
+2011,Number,central_bosnia_canton,F,
+2012,Number,central_bosnia_canton,F,
+2013,Number,central_bosnia_canton,F,
+2014,Number,central_bosnia_canton,F,
+2015,Number,central_bosnia_canton,F,
+2016,Number,central_bosnia_canton,F,
+2017,Number,central_bosnia_canton,F,
+2018,Number,central_bosnia_canton,F,
+2019,Number,central_bosnia_canton,F,
+2010,Number,herzegovina-neretva_canton,Both sexes,2059.0
+2011,Number,herzegovina-neretva_canton,Both sexes,2273.0
+2012,Number,herzegovina-neretva_canton,Both sexes,2435.0
+2013,Number,herzegovina-neretva_canton,Both sexes,2441.0
+2014,Number,herzegovina-neretva_canton,Both sexes,2969.0
+2015,Number,herzegovina-neretva_canton,Both sexes,3097.0
+2016,Number,herzegovina-neretva_canton,Both sexes,2783.0
+2017,Number,herzegovina-neretva_canton,Both sexes,2789.0
+2018,Number,herzegovina-neretva_canton,Both sexes,2943.0
+2019,Number,herzegovina-neretva_canton,Both sexes,2638.0
+2010,Number,herzegovina-neretva_canton,M,
+2011,Number,herzegovina-neretva_canton,M,
+2012,Number,herzegovina-neretva_canton,M,
+2013,Number,herzegovina-neretva_canton,M,
+2014,Number,herzegovina-neretva_canton,M,
+2015,Number,herzegovina-neretva_canton,M,
+2016,Number,herzegovina-neretva_canton,M,
+2017,Number,herzegovina-neretva_canton,M,
+2018,Number,herzegovina-neretva_canton,M,
+2019,Number,herzegovina-neretva_canton,M,
+2010,Number,herzegovina-neretva_canton,F,
+2011,Number,herzegovina-neretva_canton,F,
+2012,Number,herzegovina-neretva_canton,F,
+2013,Number,herzegovina-neretva_canton,F,
+2014,Number,herzegovina-neretva_canton,F,
+2015,Number,herzegovina-neretva_canton,F,
+2016,Number,herzegovina-neretva_canton,F,
+2017,Number,herzegovina-neretva_canton,F,
+2018,Number,herzegovina-neretva_canton,F,
+2019,Number,herzegovina-neretva_canton,F,
+2010,Number,sarajevo_canton,Both sexes,5667.0
+2011,Number,sarajevo_canton,Both sexes,5583.0
+2012,Number,sarajevo_canton,Both sexes,5515.0
+2013,Number,sarajevo_canton,Both sexes,5684.0
+2014,Number,sarajevo_canton,Both sexes,6109.0
+2015,Number,sarajevo_canton,Both sexes,5333.0
+2016,Number,sarajevo_canton,Both sexes,5207.0
+2017,Number,sarajevo_canton,Both sexes,5649.0
+2018,Number,sarajevo_canton,Both sexes,5116.0
+2019,Number,sarajevo_canton,Both sexes,5285.0
+2010,Number,sarajevo_canton,M,
+2011,Number,sarajevo_canton,M,
+2012,Number,sarajevo_canton,M,
+2013,Number,sarajevo_canton,M,
+2014,Number,sarajevo_canton,M,
+2015,Number,sarajevo_canton,M,
+2016,Number,sarajevo_canton,M,
+2017,Number,sarajevo_canton,M,
+2018,Number,sarajevo_canton,M,
+2019,Number,sarajevo_canton,M,
+2010,Number,sarajevo_canton,F,
+2011,Number,sarajevo_canton,F,
+2012,Number,sarajevo_canton,F,
+2013,Number,sarajevo_canton,F,
+2014,Number,sarajevo_canton,F,
+2015,Number,sarajevo_canton,F,
+2016,Number,sarajevo_canton,F,
+2017,Number,sarajevo_canton,F,
+2018,Number,sarajevo_canton,F,
+2019,Number,sarajevo_canton,F,

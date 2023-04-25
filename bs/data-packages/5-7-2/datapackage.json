@@ -16,35 +16,21 @@
             "title": "Godina"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
                 "M",
                 "Ž",
                 ""
               ]
             },
             "title": "Spol"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24",
-                "25-29",
-                "15-29",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",

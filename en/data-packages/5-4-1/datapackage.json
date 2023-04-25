@@ -11,6 +11,24 @@
       "schema": {
         "fields": [
           {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "federation_of_bih",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
+                "tuzla_canton",
+                "una-sana_canton",
+                "zenica-doboj_canton"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {

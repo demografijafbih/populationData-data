@@ -1,2 +1,3 @@
 From,To
-Vrsta škole,Spol
+Administrativna oblast,type_of_school
+type_of_school,Spol

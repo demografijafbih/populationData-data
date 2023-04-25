@@ -1,31 +1,331 @@
-Year,UNIT_MEASURE,Spol,Value
-2011,Broj,Oba spola,163284
-2012,Broj,Oba spola,166662
-2013,Broj,Oba spola,156350
-2014,Broj,Oba spola,143881
-2015,Broj,Oba spola,133228
-2016,Broj,Oba spola,126824
-2017,Broj,Oba spola,124148
-2018,Broj,Oba spola,117475
-2019,Broj,Oba spola,112796
-2020,Broj,Oba spola,110404
-2011,Broj,M,82745
-2012,Broj,M,84420
-2013,Broj,M,78882
-2014,Broj,M,72095
-2015,Broj,M,66708
-2016,Broj,M,63232
-2017,Broj,M,61934
-2018,Broj,M,58821
-2019,Broj,M,56328
-2020,Broj,M,55068
-2011,Broj,Ž,80539
-2012,Broj,Ž,82242
-2013,Broj,Ž,77468
-2014,Broj,Ž,71786
-2015,Broj,Ž,66520
-2016,Broj,Ž,63592
-2017,Broj,Ž,62214
-2018,Broj,Ž,58654
-2019,Broj,Ž,56468
-2020,Broj,Ž,55336
+Year,UNIT_MEASURE,Administrativna oblast,Spol,Value
+2010,Broj,federation_of_bih,Oba spola,95134.0
+2011,Broj,federation_of_bih,Oba spola,99228.0
+2012,Broj,federation_of_bih,Oba spola,108957.0
+2013,Broj,federation_of_bih,Oba spola,113214.0
+2014,Broj,federation_of_bih,Oba spola,106056.0
+2015,Broj,federation_of_bih,Oba spola,96331.0
+2016,Broj,federation_of_bih,Oba spola,87813.0
+2017,Broj,federation_of_bih,Oba spola,82675.0
+2018,Broj,federation_of_bih,Oba spola,81454.0
+2019,Broj,federation_of_bih,Oba spola,76174.0
+2010,Broj,federation_of_bih,M,
+2011,Broj,federation_of_bih,M,
+2012,Broj,federation_of_bih,M,
+2013,Broj,federation_of_bih,M,
+2014,Broj,federation_of_bih,M,
+2015,Broj,federation_of_bih,M,
+2016,Broj,federation_of_bih,M,
+2017,Broj,federation_of_bih,M,
+2018,Broj,federation_of_bih,M,
+2019,Broj,federation_of_bih,M,
+2010,Broj,federation_of_bih,Ž,
+2011,Broj,federation_of_bih,Ž,
+2012,Broj,federation_of_bih,Ž,
+2013,Broj,federation_of_bih,Ž,
+2014,Broj,federation_of_bih,Ž,
+2015,Broj,federation_of_bih,Ž,
+2016,Broj,federation_of_bih,Ž,
+2017,Broj,federation_of_bih,Ž,
+2018,Broj,federation_of_bih,Ž,
+2019,Broj,federation_of_bih,Ž,
+2010,Broj,una-sana_canton,Oba spola,10547.0
+2011,Broj,una-sana_canton,Oba spola,10302.0
+2012,Broj,una-sana_canton,Oba spola,11913.0
+2013,Broj,una-sana_canton,Oba spola,12734.0
+2014,Broj,una-sana_canton,Oba spola,11904.0
+2015,Broj,una-sana_canton,Oba spola,11058.0
+2016,Broj,una-sana_canton,Oba spola,10239.0
+2017,Broj,una-sana_canton,Oba spola,9619.0
+2018,Broj,una-sana_canton,Oba spola,9496.0
+2019,Broj,una-sana_canton,Oba spola,8698.0
+2010,Broj,una-sana_canton,M,
+2011,Broj,una-sana_canton,M,
+2012,Broj,una-sana_canton,M,
+2013,Broj,una-sana_canton,M,
+2014,Broj,una-sana_canton,M,
+2015,Broj,una-sana_canton,M,
+2016,Broj,una-sana_canton,M,
+2017,Broj,una-sana_canton,M,
+2018,Broj,una-sana_canton,M,
+2019,Broj,una-sana_canton,M,
+2010,Broj,una-sana_canton,Ž,
+2011,Broj,una-sana_canton,Ž,
+2012,Broj,una-sana_canton,Ž,
+2013,Broj,una-sana_canton,Ž,
+2014,Broj,una-sana_canton,Ž,
+2015,Broj,una-sana_canton,Ž,
+2016,Broj,una-sana_canton,Ž,
+2017,Broj,una-sana_canton,Ž,
+2018,Broj,una-sana_canton,Ž,
+2019,Broj,una-sana_canton,Ž,
+2010,Broj,posavina_canton,Oba spola,1467.0
+2011,Broj,posavina_canton,Oba spola,1516.0
+2012,Broj,posavina_canton,Oba spola,1591.0
+2013,Broj,posavina_canton,Oba spola,1673.0
+2014,Broj,posavina_canton,Oba spola,1670.0
+2015,Broj,posavina_canton,Oba spola,1600.0
+2016,Broj,posavina_canton,Oba spola,1413.0
+2017,Broj,posavina_canton,Oba spola,1300.0
+2018,Broj,posavina_canton,Oba spola,1160.0
+2019,Broj,posavina_canton,Oba spola,1037.0
+2010,Broj,posavina_canton,M,
+2011,Broj,posavina_canton,M,
+2012,Broj,posavina_canton,M,
+2013,Broj,posavina_canton,M,
+2014,Broj,posavina_canton,M,
+2015,Broj,posavina_canton,M,
+2016,Broj,posavina_canton,M,
+2017,Broj,posavina_canton,M,
+2018,Broj,posavina_canton,M,
+2019,Broj,posavina_canton,M,
+2010,Broj,posavina_canton,Ž,
+2011,Broj,posavina_canton,Ž,
+2012,Broj,posavina_canton,Ž,
+2013,Broj,posavina_canton,Ž,
+2014,Broj,posavina_canton,Ž,
+2015,Broj,posavina_canton,Ž,
+2016,Broj,posavina_canton,Ž,
+2017,Broj,posavina_canton,Ž,
+2018,Broj,posavina_canton,Ž,
+2019,Broj,posavina_canton,Ž,
+2010,Broj,tuzla_canton,Oba spola,21374.0
+2011,Broj,tuzla_canton,Oba spola,22329.0
+2012,Broj,tuzla_canton,Oba spola,24166.0
+2013,Broj,tuzla_canton,Oba spola,24680.0
+2014,Broj,tuzla_canton,Oba spola,22484.0
+2015,Broj,tuzla_canton,Oba spola,19226.0
+2016,Broj,tuzla_canton,Oba spola,16850.0
+2017,Broj,tuzla_canton,Oba spola,15751.0
+2018,Broj,tuzla_canton,Oba spola,15966.0
+2019,Broj,tuzla_canton,Oba spola,15582.0
+2010,Broj,tuzla_canton,M,
+2011,Broj,tuzla_canton,M,
+2012,Broj,tuzla_canton,M,
+2013,Broj,tuzla_canton,M,
+2014,Broj,tuzla_canton,M,
+2015,Broj,tuzla_canton,M,
+2016,Broj,tuzla_canton,M,
+2017,Broj,tuzla_canton,M,
+2018,Broj,tuzla_canton,M,
+2019,Broj,tuzla_canton,M,
+2010,Broj,tuzla_canton,Ž,
+2011,Broj,tuzla_canton,Ž,
+2012,Broj,tuzla_canton,Ž,
+2013,Broj,tuzla_canton,Ž,
+2014,Broj,tuzla_canton,Ž,
+2015,Broj,tuzla_canton,Ž,
+2016,Broj,tuzla_canton,Ž,
+2017,Broj,tuzla_canton,Ž,
+2018,Broj,tuzla_canton,Ž,
+2019,Broj,tuzla_canton,Ž,
+2010,Broj,zenica-doboj_canton,Oba spola,15966.0
+2011,Broj,zenica-doboj_canton,Oba spola,17124.0
+2012,Broj,zenica-doboj_canton,Oba spola,19199.0
+2013,Broj,zenica-doboj_canton,Oba spola,19271.0
+2014,Broj,zenica-doboj_canton,Oba spola,17900.0
+2015,Broj,zenica-doboj_canton,Oba spola,16228.0
+2016,Broj,zenica-doboj_canton,Oba spola,14778.0
+2017,Broj,zenica-doboj_canton,Oba spola,14478.0
+2018,Broj,zenica-doboj_canton,Oba spola,14006.0
+2019,Broj,zenica-doboj_canton,Oba spola,13558.0
+2010,Broj,zenica-doboj_canton,M,
+2011,Broj,zenica-doboj_canton,M,
+2012,Broj,zenica-doboj_canton,M,
+2013,Broj,zenica-doboj_canton,M,
+2014,Broj,zenica-doboj_canton,M,
+2015,Broj,zenica-doboj_canton,M,
+2016,Broj,zenica-doboj_canton,M,
+2017,Broj,zenica-doboj_canton,M,
+2018,Broj,zenica-doboj_canton,M,
+2019,Broj,zenica-doboj_canton,M,
+2010,Broj,zenica-doboj_canton,Ž,
+2011,Broj,zenica-doboj_canton,Ž,
+2012,Broj,zenica-doboj_canton,Ž,
+2013,Broj,zenica-doboj_canton,Ž,
+2014,Broj,zenica-doboj_canton,Ž,
+2015,Broj,zenica-doboj_canton,Ž,
+2016,Broj,zenica-doboj_canton,Ž,
+2017,Broj,zenica-doboj_canton,Ž,
+2018,Broj,zenica-doboj_canton,Ž,
+2019,Broj,zenica-doboj_canton,Ž,
+2010,Broj,bosnian-podrinje_canton,Oba spola,1088.0
+2011,Broj,bosnian-podrinje_canton,Oba spola,1136.0
+2012,Broj,bosnian-podrinje_canton,Oba spola,1247.0
+2013,Broj,bosnian-podrinje_canton,Oba spola,1389.0
+2014,Broj,bosnian-podrinje_canton,Oba spola,1242.0
+2015,Broj,bosnian-podrinje_canton,Oba spola,1202.0
+2016,Broj,bosnian-podrinje_canton,Oba spola,1031.0
+2017,Broj,bosnian-podrinje_canton,Oba spola,948.0
+2018,Broj,bosnian-podrinje_canton,Oba spola,964.0
+2019,Broj,bosnian-podrinje_canton,Oba spola,896.0
+2010,Broj,bosnian-podrinje_canton,M,
+2011,Broj,bosnian-podrinje_canton,M,
+2012,Broj,bosnian-podrinje_canton,M,
+2013,Broj,bosnian-podrinje_canton,M,
+2014,Broj,bosnian-podrinje_canton,M,
+2015,Broj,bosnian-podrinje_canton,M,
+2016,Broj,bosnian-podrinje_canton,M,
+2017,Broj,bosnian-podrinje_canton,M,
+2018,Broj,bosnian-podrinje_canton,M,
+2019,Broj,bosnian-podrinje_canton,M,
+2010,Broj,bosnian-podrinje_canton,Ž,
+2011,Broj,bosnian-podrinje_canton,Ž,
+2012,Broj,bosnian-podrinje_canton,Ž,
+2013,Broj,bosnian-podrinje_canton,Ž,
+2014,Broj,bosnian-podrinje_canton,Ž,
+2015,Broj,bosnian-podrinje_canton,Ž,
+2016,Broj,bosnian-podrinje_canton,Ž,
+2017,Broj,bosnian-podrinje_canton,Ž,
+2018,Broj,bosnian-podrinje_canton,Ž,
+2019,Broj,bosnian-podrinje_canton,Ž,
+2010,Broj,central_bosnia_canton,Oba spola,10688.0
+2011,Broj,central_bosnia_canton,Oba spola,11531.0
+2012,Broj,central_bosnia_canton,Oba spola,12712.0
+2013,Broj,central_bosnia_canton,Oba spola,13583.0
+2014,Broj,central_bosnia_canton,Oba spola,13402.0
+2015,Broj,central_bosnia_canton,Oba spola,12333.0
+2016,Broj,central_bosnia_canton,Oba spola,11420.0
+2017,Broj,central_bosnia_canton,Oba spola,10610.0
+2018,Broj,central_bosnia_canton,Oba spola,10087.0
+2019,Broj,central_bosnia_canton,Oba spola,8320.0
+2010,Broj,central_bosnia_canton,M,
+2011,Broj,central_bosnia_canton,M,
+2012,Broj,central_bosnia_canton,M,
+2013,Broj,central_bosnia_canton,M,
+2014,Broj,central_bosnia_canton,M,
+2015,Broj,central_bosnia_canton,M,
+2016,Broj,central_bosnia_canton,M,
+2017,Broj,central_bosnia_canton,M,
+2018,Broj,central_bosnia_canton,M,
+2019,Broj,central_bosnia_canton,M,
+2010,Broj,central_bosnia_canton,Ž,
+2011,Broj,central_bosnia_canton,Ž,
+2012,Broj,central_bosnia_canton,Ž,
+2013,Broj,central_bosnia_canton,Ž,
+2014,Broj,central_bosnia_canton,Ž,
+2015,Broj,central_bosnia_canton,Ž,
+2016,Broj,central_bosnia_canton,Ž,
+2017,Broj,central_bosnia_canton,Ž,
+2018,Broj,central_bosnia_canton,Ž,
+2019,Broj,central_bosnia_canton,Ž,
+2010,Broj,herzegovina-neretva_canton,Oba spola,9433.0
+2011,Broj,herzegovina-neretva_canton,Oba spola,9924.0
+2012,Broj,herzegovina-neretva_canton,Oba spola,10847.0
+2013,Broj,herzegovina-neretva_canton,Oba spola,11385.0
+2014,Broj,herzegovina-neretva_canton,Oba spola,11170.0
+2015,Broj,herzegovina-neretva_canton,Oba spola,9621.0
+2016,Broj,herzegovina-neretva_canton,Oba spola,9386.0
+2017,Broj,herzegovina-neretva_canton,Oba spola,8614.0
+2018,Broj,herzegovina-neretva_canton,Oba spola,8089.0
+2019,Broj,herzegovina-neretva_canton,Oba spola,7614.0
+2010,Broj,herzegovina-neretva_canton,M,
+2011,Broj,herzegovina-neretva_canton,M,
+2012,Broj,herzegovina-neretva_canton,M,
+2013,Broj,herzegovina-neretva_canton,M,
+2014,Broj,herzegovina-neretva_canton,M,
+2015,Broj,herzegovina-neretva_canton,M,
+2016,Broj,herzegovina-neretva_canton,M,
+2017,Broj,herzegovina-neretva_canton,M,
+2018,Broj,herzegovina-neretva_canton,M,
+2019,Broj,herzegovina-neretva_canton,M,
+2010,Broj,herzegovina-neretva_canton,Ž,
+2011,Broj,herzegovina-neretva_canton,Ž,
+2012,Broj,herzegovina-neretva_canton,Ž,
+2013,Broj,herzegovina-neretva_canton,Ž,
+2014,Broj,herzegovina-neretva_canton,Ž,
+2015,Broj,herzegovina-neretva_canton,Ž,
+2016,Broj,herzegovina-neretva_canton,Ž,
+2017,Broj,herzegovina-neretva_canton,Ž,
+2018,Broj,herzegovina-neretva_canton,Ž,
+2019,Broj,herzegovina-neretva_canton,Ž,
+2010,Broj,west_herzegovina_canton,Oba spola,4002.0
+2011,Broj,west_herzegovina_canton,Oba spola,4115.0
+2012,Broj,west_herzegovina_canton,Oba spola,4250.0
+2013,Broj,west_herzegovina_canton,Oba spola,4406.0
+2014,Broj,west_herzegovina_canton,Oba spola,4494.0
+2015,Broj,west_herzegovina_canton,Oba spola,4419.0
+2016,Broj,west_herzegovina_canton,Oba spola,4265.0
+2017,Broj,west_herzegovina_canton,Oba spola,4029.0
+2018,Broj,west_herzegovina_canton,Oba spola,3803.0
+2019,Broj,west_herzegovina_canton,Oba spola,3390.0
+2010,Broj,west_herzegovina_canton,M,
+2011,Broj,west_herzegovina_canton,M,
+2012,Broj,west_herzegovina_canton,M,
+2013,Broj,west_herzegovina_canton,M,
+2014,Broj,west_herzegovina_canton,M,
+2015,Broj,west_herzegovina_canton,M,
+2016,Broj,west_herzegovina_canton,M,
+2017,Broj,west_herzegovina_canton,M,
+2018,Broj,west_herzegovina_canton,M,
+2019,Broj,west_herzegovina_canton,M,
+2010,Broj,west_herzegovina_canton,Ž,
+2011,Broj,west_herzegovina_canton,Ž,
+2012,Broj,west_herzegovina_canton,Ž,
+2013,Broj,west_herzegovina_canton,Ž,
+2014,Broj,west_herzegovina_canton,Ž,
+2015,Broj,west_herzegovina_canton,Ž,
+2016,Broj,west_herzegovina_canton,Ž,
+2017,Broj,west_herzegovina_canton,Ž,
+2018,Broj,west_herzegovina_canton,Ž,
+2019,Broj,west_herzegovina_canton,Ž,
+2010,Broj,sarajevo_canton,Oba spola,17915.0
+2011,Broj,sarajevo_canton,Oba spola,18625.0
+2012,Broj,sarajevo_canton,Oba spola,20301.0
+2013,Broj,sarajevo_canton,Oba spola,21229.0
+2014,Broj,sarajevo_canton,Oba spola,18966.0
+2015,Broj,sarajevo_canton,Oba spola,17904.0
+2016,Broj,sarajevo_canton,Oba spola,16148.0
+2017,Broj,sarajevo_canton,Oba spola,15285.0
+2018,Broj,sarajevo_canton,Oba spola,15926.0
+2019,Broj,sarajevo_canton,Oba spola,15162.0
+2010,Broj,sarajevo_canton,M,
+2011,Broj,sarajevo_canton,M,
+2012,Broj,sarajevo_canton,M,
+2013,Broj,sarajevo_canton,M,
+2014,Broj,sarajevo_canton,M,
+2015,Broj,sarajevo_canton,M,
+2016,Broj,sarajevo_canton,M,
+2017,Broj,sarajevo_canton,M,
+2018,Broj,sarajevo_canton,M,
+2019,Broj,sarajevo_canton,M,
+2010,Broj,sarajevo_canton,Ž,
+2011,Broj,sarajevo_canton,Ž,
+2012,Broj,sarajevo_canton,Ž,
+2013,Broj,sarajevo_canton,Ž,
+2014,Broj,sarajevo_canton,Ž,
+2015,Broj,sarajevo_canton,Ž,
+2016,Broj,sarajevo_canton,Ž,
+2017,Broj,sarajevo_canton,Ž,
+2018,Broj,sarajevo_canton,Ž,
+2019,Broj,sarajevo_canton,Ž,
+2010,Broj,canton_10,Oba spola,2654.0
+2011,Broj,canton_10,Oba spola,2626.0
+2012,Broj,canton_10,Oba spola,2731.0
+2013,Broj,canton_10,Oba spola,2864.0
+2014,Broj,canton_10,Oba spola,2824.0
+2015,Broj,canton_10,Oba spola,2740.0
+2016,Broj,canton_10,Oba spola,2283.0
+2017,Broj,canton_10,Oba spola,2041.0
+2018,Broj,canton_10,Oba spola,1957.0
+2019,Broj,canton_10,Oba spola,1917.0
+2010,Broj,canton_10,M,
+2011,Broj,canton_10,M,
+2012,Broj,canton_10,M,
+2013,Broj,canton_10,M,
+2014,Broj,canton_10,M,
+2015,Broj,canton_10,M,
+2016,Broj,canton_10,M,
+2017,Broj,canton_10,M,
+2018,Broj,canton_10,M,
+2019,Broj,canton_10,M,
+2010,Broj,canton_10,Ž,
+2011,Broj,canton_10,Ž,
+2012,Broj,canton_10,Ž,
+2013,Broj,canton_10,Ž,
+2014,Broj,canton_10,Ž,
+2015,Broj,canton_10,Ž,
+2016,Broj,canton_10,Ž,
+2017,Broj,canton_10,Ž,
+2018,Broj,canton_10,Ž,
+2019,Broj,canton_10,Ž,

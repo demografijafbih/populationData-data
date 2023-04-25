@@ -21,22 +21,31 @@
             "title": "Mjerna jedinica"
           },
           {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "tuzla_canton",
+                "una-sana_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
+          },
+          {
             "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
-                "Obrazovanje",
-                "Umjetnost i humanističke nauke",
-                "Društvene nauke, novinarstvo i informiranje",
-                "Poslovanje, administracija i pravo",
-                "Prirodne nauke, matematika i statistika",
-                "Informacijske i komunikacijske tehnologije",
-                "Inženjerstvo, proizvodnja i građevinarstvo",
-                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
-                "Zdravstvo i socijalna zaštita",
-                "Usluge",
-                "Nepoznato",
+                "masters_of_science",
+                "masters",
+                "specialists",
                 ""
               ]
             },
@@ -57,7 +66,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

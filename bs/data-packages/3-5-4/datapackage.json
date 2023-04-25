@@ -21,20 +21,8 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

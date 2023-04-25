@@ -1,253 +1,881 @@
-Year,UNIT_MEASURE,Vrsta obrazovanja,Spol,Value
-2014,Broj,Ukupno,Oba spola,301
-2014,Broj,Obrazovanje,Oba spola,16
-2014,Broj,Umjetnost i humanističke nauke,Oba spola,16
-2014,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,62
-2014,Broj,"Poslovanje, administracija i pravo",Oba spola,39
-2014,Broj,"Prirodne nauke, matematika i statistika",Oba spola,6
-2014,Broj,Informacijske i komunikacijske tehnologije,Oba spola,7
-2014,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,33
-2014,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,14
-2014,Broj,Zdravstvo i socijalna zaštita,Oba spola,86
-2014,Broj,Usluge,Oba spola,7
-2014,Broj,Nepoznato,Oba spola,15
-2014,Broj,Ukupno,M,185
-2014,Broj,Obrazovanje,M,10
-2014,Broj,Umjetnost i humanističke nauke,M,11
-2014,Broj,"Društvene nauke, novinarstvo i informiranje",M,41
-2014,Broj,"Poslovanje, administracija i pravo",M,28
-2014,Broj,"Prirodne nauke, matematika i statistika",M,3
-2014,Broj,Informacijske i komunikacijske tehnologije,M,5
-2014,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,25
-2014,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,10
-2014,Broj,Zdravstvo i socijalna zaštita,M,33
-2014,Broj,Usluge,M,5
-2014,Broj,Nepoznato,M,14
-2014,Broj,Ukupno,Ž,116
-2014,Broj,Obrazovanje,Ž,6
-2014,Broj,Umjetnost i humanističke nauke,Ž,5
-2014,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,21
-2014,Broj,"Poslovanje, administracija i pravo",Ž,11
-2014,Broj,"Prirodne nauke, matematika i statistika",Ž,3
-2014,Broj,Informacijske i komunikacijske tehnologije,Ž,2
-2014,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,8
-2014,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,4
-2014,Broj,Zdravstvo i socijalna zaštita,Ž,53
-2014,Broj,Usluge,Ž,2
-2014,Broj,Nepoznato,Ž,1
-2015,Broj,Ukupno,Oba spola,285
-2015,Broj,Obrazovanje,Oba spola,15
-2015,Broj,Umjetnost i humanističke nauke,Oba spola,7
-2015,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,53
-2015,Broj,"Poslovanje, administracija i pravo",Oba spola,39
-2015,Broj,"Prirodne nauke, matematika i statistika",Oba spola,17
-2015,Broj,Informacijske i komunikacijske tehnologije,Oba spola,5
-2015,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,49
-2015,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,12
-2015,Broj,Zdravstvo i socijalna zaštita,Oba spola,80
-2015,Broj,Usluge,Oba spola,7
-2015,Broj,Nepoznato,Oba spola,1
-2015,Broj,Ukupno,M,157
-2015,Broj,Obrazovanje,M,6
-2015,Broj,Umjetnost i humanističke nauke,M,3
-2015,Broj,"Društvene nauke, novinarstvo i informiranje",M,35
-2015,Broj,"Poslovanje, administracija i pravo",M,22
-2015,Broj,"Prirodne nauke, matematika i statistika",M,7
-2015,Broj,Informacijske i komunikacijske tehnologije,M,4
-2015,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,36
-2015,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,8
-2015,Broj,Zdravstvo i socijalna zaštita,M,31
-2015,Broj,Usluge,M,5
-2015,Broj,Nepoznato,M,0
-2015,Broj,Ukupno,Ž,128
-2015,Broj,Obrazovanje,Ž,9
-2015,Broj,Umjetnost i humanističke nauke,Ž,4
-2015,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,18
-2015,Broj,"Poslovanje, administracija i pravo",Ž,17
-2015,Broj,"Prirodne nauke, matematika i statistika",Ž,10
-2015,Broj,Informacijske i komunikacijske tehnologije,Ž,1
-2015,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,13
-2015,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,4
-2015,Broj,Zdravstvo i socijalna zaštita,Ž,49
-2015,Broj,Usluge,Ž,2
-2015,Broj,Nepoznato,Ž,1
-2016,Broj,Ukupno,Oba spola,241
-2016,Broj,Obrazovanje,Oba spola,10
-2016,Broj,Umjetnost i humanističke nauke,Oba spola,25
-2016,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,41
-2016,Broj,"Poslovanje, administracija i pravo",Oba spola,38
-2016,Broj,"Prirodne nauke, matematika i statistika",Oba spola,9
-2016,Broj,Informacijske i komunikacijske tehnologije,Oba spola,10
-2016,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,47
-2016,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,21
-2016,Broj,Zdravstvo i socijalna zaštita,Oba spola,37
-2016,Broj,Usluge,Oba spola,2
-2016,Broj,Nepoznato,Oba spola,1
-2016,Broj,Ukupno,M,142
-2016,Broj,Obrazovanje,M,5
-2016,Broj,Umjetnost i humanističke nauke,M,12
-2016,Broj,"Društvene nauke, novinarstvo i informiranje",M,22
-2016,Broj,"Poslovanje, administracija i pravo",M,24
-2016,Broj,"Prirodne nauke, matematika i statistika",M,4
-2016,Broj,Informacijske i komunikacijske tehnologije,M,6
-2016,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,38
-2016,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,12
-2016,Broj,Zdravstvo i socijalna zaštita,M,17
-2016,Broj,Usluge,M,1
-2016,Broj,Nepoznato,M,1
-2016,Broj,Ukupno,Ž,99
-2016,Broj,Obrazovanje,Ž,5
-2016,Broj,Umjetnost i humanističke nauke,Ž,13
-2016,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,19
-2016,Broj,"Poslovanje, administracija i pravo",Ž,14
-2016,Broj,"Prirodne nauke, matematika i statistika",Ž,5
-2016,Broj,Informacijske i komunikacijske tehnologije,Ž,4
-2016,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,9
-2016,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,9
-2016,Broj,Zdravstvo i socijalna zaštita,Ž,20
-2016,Broj,Usluge,Ž,1
-2016,Broj,Nepoznato,Ž,0
-2017,Broj,Ukupno,Oba spola,285
-2017,Broj,Obrazovanje,Oba spola,14
-2017,Broj,Umjetnost i humanističke nauke,Oba spola,34
-2017,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,31
-2017,Broj,"Poslovanje, administracija i pravo",Oba spola,63
-2017,Broj,"Prirodne nauke, matematika i statistika",Oba spola,33
-2017,Broj,Informacijske i komunikacijske tehnologije,Oba spola,8
-2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,38
-2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,10
-2017,Broj,Zdravstvo i socijalna zaštita,Oba spola,47
-2017,Broj,Usluge,Oba spola,4
-2017,Broj,Nepoznato,Oba spola,3
-2017,Broj,Ukupno,M,152
-2017,Broj,Obrazovanje,M,5
-2017,Broj,Umjetnost i humanističke nauke,M,14
-2017,Broj,"Društvene nauke, novinarstvo i informiranje",M,20
-2017,Broj,"Poslovanje, administracija i pravo",M,36
-2017,Broj,"Prirodne nauke, matematika i statistika",M,12
-2017,Broj,Informacijske i komunikacijske tehnologije,M,4
-2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,28
-2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,8
-2017,Broj,Zdravstvo i socijalna zaštita,M,21
-2017,Broj,Usluge,M,3
-2017,Broj,Nepoznato,M,1
-2017,Broj,Ukupno,Ž,133
-2017,Broj,Obrazovanje,Ž,9
-2017,Broj,Umjetnost i humanističke nauke,Ž,20
-2017,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,11
-2017,Broj,"Poslovanje, administracija i pravo",Ž,27
-2017,Broj,"Prirodne nauke, matematika i statistika",Ž,21
-2017,Broj,Informacijske i komunikacijske tehnologije,Ž,4
-2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,10
-2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,2
-2017,Broj,Zdravstvo i socijalna zaštita,Ž,26
-2017,Broj,Usluge,Ž,1
-2017,Broj,Nepoznato,Ž,2
-2018,Broj,Ukupno,Oba spola,193
-2018,Broj,Obrazovanje,Oba spola,8
-2018,Broj,Umjetnost i humanističke nauke,Oba spola,18
-2018,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,28
-2018,Broj,"Poslovanje, administracija i pravo",Oba spola,44
-2018,Broj,"Prirodne nauke, matematika i statistika",Oba spola,19
-2018,Broj,Informacijske i komunikacijske tehnologije,Oba spola,8
-2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,21
-2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,16
-2018,Broj,Zdravstvo i socijalna zaštita,Oba spola,22
-2018,Broj,Usluge,Oba spola,8
-2018,Broj,Nepoznato,Oba spola,1
-2018,Broj,Ukupno,M,106
-2018,Broj,Obrazovanje,M,4
-2018,Broj,Umjetnost i humanističke nauke,M,9
-2018,Broj,"Društvene nauke, novinarstvo i informiranje",M,18
-2018,Broj,"Poslovanje, administracija i pravo",M,25
-2018,Broj,"Prirodne nauke, matematika i statistika",M,11
-2018,Broj,Informacijske i komunikacijske tehnologije,M,7
-2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,12
-2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,8
-2018,Broj,Zdravstvo i socijalna zaštita,M,7
-2018,Broj,Usluge,M,5
-2018,Broj,Nepoznato,M,0
-2018,Broj,Ukupno,Ž,87
-2018,Broj,Obrazovanje,Ž,4
-2018,Broj,Umjetnost i humanističke nauke,Ž,9
-2018,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,10
-2018,Broj,"Poslovanje, administracija i pravo",Ž,19
-2018,Broj,"Prirodne nauke, matematika i statistika",Ž,8
-2018,Broj,Informacijske i komunikacijske tehnologije,Ž,1
-2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,9
-2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,8
-2018,Broj,Zdravstvo i socijalna zaštita,Ž,15
-2018,Broj,Usluge,Ž,3
-2018,Broj,Nepoznato,Ž,1
-2019,Broj,Ukupno,Oba spola,166
-2019,Broj,Obrazovanje,Oba spola,7
-2019,Broj,Umjetnost i humanističke nauke,Oba spola,21
-2019,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,37
-2019,Broj,"Poslovanje, administracija i pravo",Oba spola,42
-2019,Broj,"Prirodne nauke, matematika i statistika",Oba spola,10
-2019,Broj,Informacijske i komunikacijske tehnologije,Oba spola,5
-2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,16
-2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,9
-2019,Broj,Zdravstvo i socijalna zaštita,Oba spola,14
-2019,Broj,Usluge,Oba spola,3
-2019,Broj,Nepoznato,Oba spola,2
-2019,Broj,Ukupno,M,97
-2019,Broj,Obrazovanje,M,3
-2019,Broj,Umjetnost i humanističke nauke,M,9
-2019,Broj,"Društvene nauke, novinarstvo i informiranje",M,30
-2019,Broj,"Poslovanje, administracija i pravo",M,27
-2019,Broj,"Prirodne nauke, matematika i statistika",M,3
-2019,Broj,Informacijske i komunikacijske tehnologije,M,3
-2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,9
-2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,6
-2019,Broj,Zdravstvo i socijalna zaštita,M,3
-2019,Broj,Usluge,M,2
-2019,Broj,Nepoznato,M,2
-2019,Broj,Ukupno,Ž,69
-2019,Broj,Obrazovanje,Ž,4
-2019,Broj,Umjetnost i humanističke nauke,Ž,12
-2019,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,7
-2019,Broj,"Poslovanje, administracija i pravo",Ž,15
-2019,Broj,"Prirodne nauke, matematika i statistika",Ž,7
-2019,Broj,Informacijske i komunikacijske tehnologije,Ž,2
-2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,7
-2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,3
-2019,Broj,Zdravstvo i socijalna zaštita,Ž,11
-2019,Broj,Usluge,Ž,1
-2019,Broj,Nepoznato,Ž,0
-2020,Broj,Ukupno,Oba spola,148
-2020,Broj,Obrazovanje,Oba spola,11
-2020,Broj,Umjetnost i humanističke nauke,Oba spola,9
-2020,Broj,"Društvene nauke, novinarstvo i informiranje",Oba spola,45
-2020,Broj,"Poslovanje, administracija i pravo",Oba spola,21
-2020,Broj,"Prirodne nauke, matematika i statistika",Oba spola,11
-2020,Broj,Informacijske i komunikacijske tehnologije,Oba spola,6
-2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Oba spola,17
-2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Oba spola,6
-2020,Broj,Zdravstvo i socijalna zaštita,Oba spola,15
-2020,Broj,Usluge,Oba spola,7
-2020,Broj,Nepoznato,Oba spola,0
-2020,Broj,Ukupno,M,90
-2020,Broj,Obrazovanje,M,7
-2020,Broj,Umjetnost i humanističke nauke,M,2
-2020,Broj,"Društvene nauke, novinarstvo i informiranje",M,34
-2020,Broj,"Poslovanje, administracija i pravo",M,16
-2020,Broj,"Prirodne nauke, matematika i statistika",M,7
-2020,Broj,Informacijske i komunikacijske tehnologije,M,3
-2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",M,10
-2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,1
-2020,Broj,Zdravstvo i socijalna zaštita,M,4
-2020,Broj,Usluge,M,6
-2020,Broj,Nepoznato,M,0
-2020,Broj,Ukupno,Ž,58
-2020,Broj,Obrazovanje,Ž,4
-2020,Broj,Umjetnost i humanističke nauke,Ž,7
-2020,Broj,"Društvene nauke, novinarstvo i informiranje",Ž,12
-2020,Broj,"Poslovanje, administracija i pravo",Ž,4
-2020,Broj,"Prirodne nauke, matematika i statistika",Ž,4
-2020,Broj,Informacijske i komunikacijske tehnologije,Ž,3
-2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Ž,7
-2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ž,5
-2020,Broj,Zdravstvo i socijalna zaštita,Ž,11
-2020,Broj,Usluge,Ž,1
-2020,Broj,Nepoznato,Ž,0
+Year,UNIT_MEASURE,Administrativna oblast,scientific_field,Value
+2010,Broj,federation_of_bih,Obrazovanje,
+2010,Broj,federation_of_bih,Umjetnost i humanističke nauke,
+2010,Broj,federation_of_bih,"social_sciences,_journalism_and_information",
+2010,Broj,federation_of_bih,"business,_administration_and_law",
+2010,Broj,federation_of_bih,"natural_sciences,_mathematics_and_statistics",
+2010,Broj,federation_of_bih,Informacijske i komunikacijske tehnologije,
+2010,Broj,federation_of_bih,"engineering,_production_and_construction",
+2010,Broj,federation_of_bih,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2010,Broj,federation_of_bih,Zdravstvo i socijalna zaštita,
+2010,Broj,federation_of_bih,Usluge,
+2010,Broj,una-sana_canton,Obrazovanje,
+2010,Broj,una-sana_canton,Umjetnost i humanističke nauke,
+2010,Broj,una-sana_canton,"social_sciences,_journalism_and_information",
+2010,Broj,una-sana_canton,"business,_administration_and_law",
+2010,Broj,una-sana_canton,"natural_sciences,_mathematics_and_statistics",
+2010,Broj,una-sana_canton,Informacijske i komunikacijske tehnologije,
+2010,Broj,una-sana_canton,"engineering,_production_and_construction",
+2010,Broj,una-sana_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2010,Broj,una-sana_canton,Zdravstvo i socijalna zaštita,
+2010,Broj,una-sana_canton,Usluge,
+2010,Broj,tuzla_canton,Obrazovanje,
+2010,Broj,tuzla_canton,Umjetnost i humanističke nauke,
+2010,Broj,tuzla_canton,"social_sciences,_journalism_and_information",
+2010,Broj,tuzla_canton,"business,_administration_and_law",
+2010,Broj,tuzla_canton,"natural_sciences,_mathematics_and_statistics",
+2010,Broj,tuzla_canton,Informacijske i komunikacijske tehnologije,
+2010,Broj,tuzla_canton,"engineering,_production_and_construction",
+2010,Broj,tuzla_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2010,Broj,tuzla_canton,Zdravstvo i socijalna zaštita,
+2010,Broj,tuzla_canton,Usluge,
+2010,Broj,zenica-doboj_canton,Obrazovanje,
+2010,Broj,zenica-doboj_canton,Umjetnost i humanističke nauke,
+2010,Broj,zenica-doboj_canton,"social_sciences,_journalism_and_information",
+2010,Broj,zenica-doboj_canton,"business,_administration_and_law",
+2010,Broj,zenica-doboj_canton,"natural_sciences,_mathematics_and_statistics",
+2010,Broj,zenica-doboj_canton,Informacijske i komunikacijske tehnologije,
+2010,Broj,zenica-doboj_canton,"engineering,_production_and_construction",
+2010,Broj,zenica-doboj_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2010,Broj,zenica-doboj_canton,Zdravstvo i socijalna zaštita,
+2010,Broj,zenica-doboj_canton,Usluge,
+2010,Broj,bosnian-podrinje_canton,Obrazovanje,
+2010,Broj,bosnian-podrinje_canton,Umjetnost i humanističke nauke,
+2010,Broj,bosnian-podrinje_canton,"social_sciences,_journalism_and_information",
+2010,Broj,bosnian-podrinje_canton,"business,_administration_and_law",
+2010,Broj,bosnian-podrinje_canton,"natural_sciences,_mathematics_and_statistics",
+2010,Broj,bosnian-podrinje_canton,Informacijske i komunikacijske tehnologije,
+2010,Broj,bosnian-podrinje_canton,"engineering,_production_and_construction",
+2010,Broj,bosnian-podrinje_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2010,Broj,bosnian-podrinje_canton,Zdravstvo i socijalna zaštita,
+2010,Broj,bosnian-podrinje_canton,Usluge,
+2010,Broj,central_bosnia_canton,Obrazovanje,
+2010,Broj,central_bosnia_canton,Umjetnost i humanističke nauke,
+2010,Broj,central_bosnia_canton,"social_sciences,_journalism_and_information",
+2010,Broj,central_bosnia_canton,"business,_administration_and_law",
+2010,Broj,central_bosnia_canton,"natural_sciences,_mathematics_and_statistics",
+2010,Broj,central_bosnia_canton,Informacijske i komunikacijske tehnologije,
+2010,Broj,central_bosnia_canton,"engineering,_production_and_construction",
+2010,Broj,central_bosnia_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2010,Broj,central_bosnia_canton,Zdravstvo i socijalna zaštita,
+2010,Broj,central_bosnia_canton,Usluge,
+2010,Broj,herzegovina-neretva_canton,Obrazovanje,
+2010,Broj,herzegovina-neretva_canton,Umjetnost i humanističke nauke,
+2010,Broj,herzegovina-neretva_canton,"social_sciences,_journalism_and_information",
+2010,Broj,herzegovina-neretva_canton,"business,_administration_and_law",
+2010,Broj,herzegovina-neretva_canton,"natural_sciences,_mathematics_and_statistics",
+2010,Broj,herzegovina-neretva_canton,Informacijske i komunikacijske tehnologije,
+2010,Broj,herzegovina-neretva_canton,"engineering,_production_and_construction",
+2010,Broj,herzegovina-neretva_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2010,Broj,herzegovina-neretva_canton,Zdravstvo i socijalna zaštita,
+2010,Broj,herzegovina-neretva_canton,Usluge,
+2010,Broj,sarajevo_canton,Obrazovanje,
+2010,Broj,sarajevo_canton,Umjetnost i humanističke nauke,
+2010,Broj,sarajevo_canton,"social_sciences,_journalism_and_information",
+2010,Broj,sarajevo_canton,"business,_administration_and_law",
+2010,Broj,sarajevo_canton,"natural_sciences,_mathematics_and_statistics",
+2010,Broj,sarajevo_canton,Informacijske i komunikacijske tehnologije,
+2010,Broj,sarajevo_canton,"engineering,_production_and_construction",
+2010,Broj,sarajevo_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2010,Broj,sarajevo_canton,Zdravstvo i socijalna zaštita,
+2010,Broj,sarajevo_canton,Usluge,
+2011,Broj,federation_of_bih,Obrazovanje,
+2011,Broj,federation_of_bih,Umjetnost i humanističke nauke,
+2011,Broj,federation_of_bih,"social_sciences,_journalism_and_information",
+2011,Broj,federation_of_bih,"business,_administration_and_law",
+2011,Broj,federation_of_bih,"natural_sciences,_mathematics_and_statistics",
+2011,Broj,federation_of_bih,Informacijske i komunikacijske tehnologije,
+2011,Broj,federation_of_bih,"engineering,_production_and_construction",
+2011,Broj,federation_of_bih,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2011,Broj,federation_of_bih,Zdravstvo i socijalna zaštita,
+2011,Broj,federation_of_bih,Usluge,
+2011,Broj,una-sana_canton,Obrazovanje,
+2011,Broj,una-sana_canton,Umjetnost i humanističke nauke,
+2011,Broj,una-sana_canton,"social_sciences,_journalism_and_information",
+2011,Broj,una-sana_canton,"business,_administration_and_law",
+2011,Broj,una-sana_canton,"natural_sciences,_mathematics_and_statistics",
+2011,Broj,una-sana_canton,Informacijske i komunikacijske tehnologije,
+2011,Broj,una-sana_canton,"engineering,_production_and_construction",
+2011,Broj,una-sana_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2011,Broj,una-sana_canton,Zdravstvo i socijalna zaštita,
+2011,Broj,una-sana_canton,Usluge,
+2011,Broj,tuzla_canton,Obrazovanje,
+2011,Broj,tuzla_canton,Umjetnost i humanističke nauke,
+2011,Broj,tuzla_canton,"social_sciences,_journalism_and_information",
+2011,Broj,tuzla_canton,"business,_administration_and_law",
+2011,Broj,tuzla_canton,"natural_sciences,_mathematics_and_statistics",
+2011,Broj,tuzla_canton,Informacijske i komunikacijske tehnologije,
+2011,Broj,tuzla_canton,"engineering,_production_and_construction",
+2011,Broj,tuzla_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2011,Broj,tuzla_canton,Zdravstvo i socijalna zaštita,
+2011,Broj,tuzla_canton,Usluge,
+2011,Broj,zenica-doboj_canton,Obrazovanje,
+2011,Broj,zenica-doboj_canton,Umjetnost i humanističke nauke,
+2011,Broj,zenica-doboj_canton,"social_sciences,_journalism_and_information",
+2011,Broj,zenica-doboj_canton,"business,_administration_and_law",
+2011,Broj,zenica-doboj_canton,"natural_sciences,_mathematics_and_statistics",
+2011,Broj,zenica-doboj_canton,Informacijske i komunikacijske tehnologije,
+2011,Broj,zenica-doboj_canton,"engineering,_production_and_construction",
+2011,Broj,zenica-doboj_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2011,Broj,zenica-doboj_canton,Zdravstvo i socijalna zaštita,
+2011,Broj,zenica-doboj_canton,Usluge,
+2011,Broj,bosnian-podrinje_canton,Obrazovanje,
+2011,Broj,bosnian-podrinje_canton,Umjetnost i humanističke nauke,
+2011,Broj,bosnian-podrinje_canton,"social_sciences,_journalism_and_information",
+2011,Broj,bosnian-podrinje_canton,"business,_administration_and_law",
+2011,Broj,bosnian-podrinje_canton,"natural_sciences,_mathematics_and_statistics",
+2011,Broj,bosnian-podrinje_canton,Informacijske i komunikacijske tehnologije,
+2011,Broj,bosnian-podrinje_canton,"engineering,_production_and_construction",
+2011,Broj,bosnian-podrinje_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2011,Broj,bosnian-podrinje_canton,Zdravstvo i socijalna zaštita,
+2011,Broj,bosnian-podrinje_canton,Usluge,
+2011,Broj,central_bosnia_canton,Obrazovanje,
+2011,Broj,central_bosnia_canton,Umjetnost i humanističke nauke,
+2011,Broj,central_bosnia_canton,"social_sciences,_journalism_and_information",
+2011,Broj,central_bosnia_canton,"business,_administration_and_law",
+2011,Broj,central_bosnia_canton,"natural_sciences,_mathematics_and_statistics",
+2011,Broj,central_bosnia_canton,Informacijske i komunikacijske tehnologije,
+2011,Broj,central_bosnia_canton,"engineering,_production_and_construction",
+2011,Broj,central_bosnia_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2011,Broj,central_bosnia_canton,Zdravstvo i socijalna zaštita,
+2011,Broj,central_bosnia_canton,Usluge,
+2011,Broj,herzegovina-neretva_canton,Obrazovanje,
+2011,Broj,herzegovina-neretva_canton,Umjetnost i humanističke nauke,
+2011,Broj,herzegovina-neretva_canton,"social_sciences,_journalism_and_information",
+2011,Broj,herzegovina-neretva_canton,"business,_administration_and_law",
+2011,Broj,herzegovina-neretva_canton,"natural_sciences,_mathematics_and_statistics",
+2011,Broj,herzegovina-neretva_canton,Informacijske i komunikacijske tehnologije,
+2011,Broj,herzegovina-neretva_canton,"engineering,_production_and_construction",
+2011,Broj,herzegovina-neretva_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2011,Broj,herzegovina-neretva_canton,Zdravstvo i socijalna zaštita,
+2011,Broj,herzegovina-neretva_canton,Usluge,
+2011,Broj,sarajevo_canton,Obrazovanje,
+2011,Broj,sarajevo_canton,Umjetnost i humanističke nauke,
+2011,Broj,sarajevo_canton,"social_sciences,_journalism_and_information",
+2011,Broj,sarajevo_canton,"business,_administration_and_law",
+2011,Broj,sarajevo_canton,"natural_sciences,_mathematics_and_statistics",
+2011,Broj,sarajevo_canton,Informacijske i komunikacijske tehnologije,
+2011,Broj,sarajevo_canton,"engineering,_production_and_construction",
+2011,Broj,sarajevo_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2011,Broj,sarajevo_canton,Zdravstvo i socijalna zaštita,
+2011,Broj,sarajevo_canton,Usluge,
+2012,Broj,federation_of_bih,Obrazovanje,
+2012,Broj,federation_of_bih,Umjetnost i humanističke nauke,
+2012,Broj,federation_of_bih,"social_sciences,_journalism_and_information",
+2012,Broj,federation_of_bih,"business,_administration_and_law",
+2012,Broj,federation_of_bih,"natural_sciences,_mathematics_and_statistics",
+2012,Broj,federation_of_bih,Informacijske i komunikacijske tehnologije,
+2012,Broj,federation_of_bih,"engineering,_production_and_construction",
+2012,Broj,federation_of_bih,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2012,Broj,federation_of_bih,Zdravstvo i socijalna zaštita,
+2012,Broj,federation_of_bih,Usluge,
+2012,Broj,una-sana_canton,Obrazovanje,
+2012,Broj,una-sana_canton,Umjetnost i humanističke nauke,
+2012,Broj,una-sana_canton,"social_sciences,_journalism_and_information",
+2012,Broj,una-sana_canton,"business,_administration_and_law",
+2012,Broj,una-sana_canton,"natural_sciences,_mathematics_and_statistics",
+2012,Broj,una-sana_canton,Informacijske i komunikacijske tehnologije,
+2012,Broj,una-sana_canton,"engineering,_production_and_construction",
+2012,Broj,una-sana_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2012,Broj,una-sana_canton,Zdravstvo i socijalna zaštita,
+2012,Broj,una-sana_canton,Usluge,
+2012,Broj,tuzla_canton,Obrazovanje,
+2012,Broj,tuzla_canton,Umjetnost i humanističke nauke,
+2012,Broj,tuzla_canton,"social_sciences,_journalism_and_information",
+2012,Broj,tuzla_canton,"business,_administration_and_law",
+2012,Broj,tuzla_canton,"natural_sciences,_mathematics_and_statistics",
+2012,Broj,tuzla_canton,Informacijske i komunikacijske tehnologije,
+2012,Broj,tuzla_canton,"engineering,_production_and_construction",
+2012,Broj,tuzla_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2012,Broj,tuzla_canton,Zdravstvo i socijalna zaštita,
+2012,Broj,tuzla_canton,Usluge,
+2012,Broj,zenica-doboj_canton,Obrazovanje,
+2012,Broj,zenica-doboj_canton,Umjetnost i humanističke nauke,
+2012,Broj,zenica-doboj_canton,"social_sciences,_journalism_and_information",
+2012,Broj,zenica-doboj_canton,"business,_administration_and_law",
+2012,Broj,zenica-doboj_canton,"natural_sciences,_mathematics_and_statistics",
+2012,Broj,zenica-doboj_canton,Informacijske i komunikacijske tehnologije,
+2012,Broj,zenica-doboj_canton,"engineering,_production_and_construction",
+2012,Broj,zenica-doboj_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2012,Broj,zenica-doboj_canton,Zdravstvo i socijalna zaštita,
+2012,Broj,zenica-doboj_canton,Usluge,
+2012,Broj,bosnian-podrinje_canton,Obrazovanje,
+2012,Broj,bosnian-podrinje_canton,Umjetnost i humanističke nauke,
+2012,Broj,bosnian-podrinje_canton,"social_sciences,_journalism_and_information",
+2012,Broj,bosnian-podrinje_canton,"business,_administration_and_law",
+2012,Broj,bosnian-podrinje_canton,"natural_sciences,_mathematics_and_statistics",
+2012,Broj,bosnian-podrinje_canton,Informacijske i komunikacijske tehnologije,
+2012,Broj,bosnian-podrinje_canton,"engineering,_production_and_construction",
+2012,Broj,bosnian-podrinje_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2012,Broj,bosnian-podrinje_canton,Zdravstvo i socijalna zaštita,
+2012,Broj,bosnian-podrinje_canton,Usluge,
+2012,Broj,central_bosnia_canton,Obrazovanje,
+2012,Broj,central_bosnia_canton,Umjetnost i humanističke nauke,
+2012,Broj,central_bosnia_canton,"social_sciences,_journalism_and_information",
+2012,Broj,central_bosnia_canton,"business,_administration_and_law",
+2012,Broj,central_bosnia_canton,"natural_sciences,_mathematics_and_statistics",
+2012,Broj,central_bosnia_canton,Informacijske i komunikacijske tehnologije,
+2012,Broj,central_bosnia_canton,"engineering,_production_and_construction",
+2012,Broj,central_bosnia_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2012,Broj,central_bosnia_canton,Zdravstvo i socijalna zaštita,
+2012,Broj,central_bosnia_canton,Usluge,
+2012,Broj,herzegovina-neretva_canton,Obrazovanje,
+2012,Broj,herzegovina-neretva_canton,Umjetnost i humanističke nauke,
+2012,Broj,herzegovina-neretva_canton,"social_sciences,_journalism_and_information",
+2012,Broj,herzegovina-neretva_canton,"business,_administration_and_law",
+2012,Broj,herzegovina-neretva_canton,"natural_sciences,_mathematics_and_statistics",
+2012,Broj,herzegovina-neretva_canton,Informacijske i komunikacijske tehnologije,
+2012,Broj,herzegovina-neretva_canton,"engineering,_production_and_construction",
+2012,Broj,herzegovina-neretva_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2012,Broj,herzegovina-neretva_canton,Zdravstvo i socijalna zaštita,
+2012,Broj,herzegovina-neretva_canton,Usluge,
+2012,Broj,sarajevo_canton,Obrazovanje,
+2012,Broj,sarajevo_canton,Umjetnost i humanističke nauke,
+2012,Broj,sarajevo_canton,"social_sciences,_journalism_and_information",
+2012,Broj,sarajevo_canton,"business,_administration_and_law",
+2012,Broj,sarajevo_canton,"natural_sciences,_mathematics_and_statistics",
+2012,Broj,sarajevo_canton,Informacijske i komunikacijske tehnologije,
+2012,Broj,sarajevo_canton,"engineering,_production_and_construction",
+2012,Broj,sarajevo_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2012,Broj,sarajevo_canton,Zdravstvo i socijalna zaštita,
+2012,Broj,sarajevo_canton,Usluge,
+2013,Broj,federation_of_bih,Obrazovanje,
+2013,Broj,federation_of_bih,Umjetnost i humanističke nauke,
+2013,Broj,federation_of_bih,"social_sciences,_journalism_and_information",
+2013,Broj,federation_of_bih,"business,_administration_and_law",
+2013,Broj,federation_of_bih,"natural_sciences,_mathematics_and_statistics",
+2013,Broj,federation_of_bih,Informacijske i komunikacijske tehnologije,
+2013,Broj,federation_of_bih,"engineering,_production_and_construction",
+2013,Broj,federation_of_bih,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2013,Broj,federation_of_bih,Zdravstvo i socijalna zaštita,
+2013,Broj,federation_of_bih,Usluge,
+2013,Broj,una-sana_canton,Obrazovanje,
+2013,Broj,una-sana_canton,Umjetnost i humanističke nauke,
+2013,Broj,una-sana_canton,"social_sciences,_journalism_and_information",
+2013,Broj,una-sana_canton,"business,_administration_and_law",
+2013,Broj,una-sana_canton,"natural_sciences,_mathematics_and_statistics",
+2013,Broj,una-sana_canton,Informacijske i komunikacijske tehnologije,
+2013,Broj,una-sana_canton,"engineering,_production_and_construction",
+2013,Broj,una-sana_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2013,Broj,una-sana_canton,Zdravstvo i socijalna zaštita,
+2013,Broj,una-sana_canton,Usluge,
+2013,Broj,tuzla_canton,Obrazovanje,
+2013,Broj,tuzla_canton,Umjetnost i humanističke nauke,
+2013,Broj,tuzla_canton,"social_sciences,_journalism_and_information",
+2013,Broj,tuzla_canton,"business,_administration_and_law",
+2013,Broj,tuzla_canton,"natural_sciences,_mathematics_and_statistics",
+2013,Broj,tuzla_canton,Informacijske i komunikacijske tehnologije,
+2013,Broj,tuzla_canton,"engineering,_production_and_construction",
+2013,Broj,tuzla_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2013,Broj,tuzla_canton,Zdravstvo i socijalna zaštita,
+2013,Broj,tuzla_canton,Usluge,
+2013,Broj,zenica-doboj_canton,Obrazovanje,
+2013,Broj,zenica-doboj_canton,Umjetnost i humanističke nauke,
+2013,Broj,zenica-doboj_canton,"social_sciences,_journalism_and_information",
+2013,Broj,zenica-doboj_canton,"business,_administration_and_law",
+2013,Broj,zenica-doboj_canton,"natural_sciences,_mathematics_and_statistics",
+2013,Broj,zenica-doboj_canton,Informacijske i komunikacijske tehnologije,
+2013,Broj,zenica-doboj_canton,"engineering,_production_and_construction",
+2013,Broj,zenica-doboj_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2013,Broj,zenica-doboj_canton,Zdravstvo i socijalna zaštita,
+2013,Broj,zenica-doboj_canton,Usluge,
+2013,Broj,bosnian-podrinje_canton,Obrazovanje,
+2013,Broj,bosnian-podrinje_canton,Umjetnost i humanističke nauke,
+2013,Broj,bosnian-podrinje_canton,"social_sciences,_journalism_and_information",
+2013,Broj,bosnian-podrinje_canton,"business,_administration_and_law",
+2013,Broj,bosnian-podrinje_canton,"natural_sciences,_mathematics_and_statistics",
+2013,Broj,bosnian-podrinje_canton,Informacijske i komunikacijske tehnologije,
+2013,Broj,bosnian-podrinje_canton,"engineering,_production_and_construction",
+2013,Broj,bosnian-podrinje_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2013,Broj,bosnian-podrinje_canton,Zdravstvo i socijalna zaštita,
+2013,Broj,bosnian-podrinje_canton,Usluge,
+2013,Broj,central_bosnia_canton,Obrazovanje,
+2013,Broj,central_bosnia_canton,Umjetnost i humanističke nauke,
+2013,Broj,central_bosnia_canton,"social_sciences,_journalism_and_information",
+2013,Broj,central_bosnia_canton,"business,_administration_and_law",
+2013,Broj,central_bosnia_canton,"natural_sciences,_mathematics_and_statistics",
+2013,Broj,central_bosnia_canton,Informacijske i komunikacijske tehnologije,
+2013,Broj,central_bosnia_canton,"engineering,_production_and_construction",
+2013,Broj,central_bosnia_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2013,Broj,central_bosnia_canton,Zdravstvo i socijalna zaštita,
+2013,Broj,central_bosnia_canton,Usluge,
+2013,Broj,herzegovina-neretva_canton,Obrazovanje,
+2013,Broj,herzegovina-neretva_canton,Umjetnost i humanističke nauke,
+2013,Broj,herzegovina-neretva_canton,"social_sciences,_journalism_and_information",
+2013,Broj,herzegovina-neretva_canton,"business,_administration_and_law",
+2013,Broj,herzegovina-neretva_canton,"natural_sciences,_mathematics_and_statistics",
+2013,Broj,herzegovina-neretva_canton,Informacijske i komunikacijske tehnologije,
+2013,Broj,herzegovina-neretva_canton,"engineering,_production_and_construction",
+2013,Broj,herzegovina-neretva_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2013,Broj,herzegovina-neretva_canton,Zdravstvo i socijalna zaštita,
+2013,Broj,herzegovina-neretva_canton,Usluge,
+2013,Broj,sarajevo_canton,Obrazovanje,
+2013,Broj,sarajevo_canton,Umjetnost i humanističke nauke,
+2013,Broj,sarajevo_canton,"social_sciences,_journalism_and_information",
+2013,Broj,sarajevo_canton,"business,_administration_and_law",
+2013,Broj,sarajevo_canton,"natural_sciences,_mathematics_and_statistics",
+2013,Broj,sarajevo_canton,Informacijske i komunikacijske tehnologije,
+2013,Broj,sarajevo_canton,"engineering,_production_and_construction",
+2013,Broj,sarajevo_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2013,Broj,sarajevo_canton,Zdravstvo i socijalna zaštita,
+2013,Broj,sarajevo_canton,Usluge,
+2014,Broj,federation_of_bih,Obrazovanje,
+2014,Broj,federation_of_bih,Umjetnost i humanističke nauke,
+2014,Broj,federation_of_bih,"social_sciences,_journalism_and_information",
+2014,Broj,federation_of_bih,"business,_administration_and_law",
+2014,Broj,federation_of_bih,"natural_sciences,_mathematics_and_statistics",
+2014,Broj,federation_of_bih,Informacijske i komunikacijske tehnologije,
+2014,Broj,federation_of_bih,"engineering,_production_and_construction",
+2014,Broj,federation_of_bih,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2014,Broj,federation_of_bih,Zdravstvo i socijalna zaštita,
+2014,Broj,federation_of_bih,Usluge,
+2014,Broj,una-sana_canton,Obrazovanje,
+2014,Broj,una-sana_canton,Umjetnost i humanističke nauke,
+2014,Broj,una-sana_canton,"social_sciences,_journalism_and_information",
+2014,Broj,una-sana_canton,"business,_administration_and_law",
+2014,Broj,una-sana_canton,"natural_sciences,_mathematics_and_statistics",
+2014,Broj,una-sana_canton,Informacijske i komunikacijske tehnologije,
+2014,Broj,una-sana_canton,"engineering,_production_and_construction",
+2014,Broj,una-sana_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2014,Broj,una-sana_canton,Zdravstvo i socijalna zaštita,
+2014,Broj,una-sana_canton,Usluge,
+2014,Broj,tuzla_canton,Obrazovanje,
+2014,Broj,tuzla_canton,Umjetnost i humanističke nauke,
+2014,Broj,tuzla_canton,"social_sciences,_journalism_and_information",
+2014,Broj,tuzla_canton,"business,_administration_and_law",
+2014,Broj,tuzla_canton,"natural_sciences,_mathematics_and_statistics",
+2014,Broj,tuzla_canton,Informacijske i komunikacijske tehnologije,
+2014,Broj,tuzla_canton,"engineering,_production_and_construction",
+2014,Broj,tuzla_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2014,Broj,tuzla_canton,Zdravstvo i socijalna zaštita,
+2014,Broj,tuzla_canton,Usluge,
+2014,Broj,zenica-doboj_canton,Obrazovanje,
+2014,Broj,zenica-doboj_canton,Umjetnost i humanističke nauke,
+2014,Broj,zenica-doboj_canton,"social_sciences,_journalism_and_information",
+2014,Broj,zenica-doboj_canton,"business,_administration_and_law",
+2014,Broj,zenica-doboj_canton,"natural_sciences,_mathematics_and_statistics",
+2014,Broj,zenica-doboj_canton,Informacijske i komunikacijske tehnologije,
+2014,Broj,zenica-doboj_canton,"engineering,_production_and_construction",
+2014,Broj,zenica-doboj_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2014,Broj,zenica-doboj_canton,Zdravstvo i socijalna zaštita,
+2014,Broj,zenica-doboj_canton,Usluge,
+2014,Broj,bosnian-podrinje_canton,Obrazovanje,
+2014,Broj,bosnian-podrinje_canton,Umjetnost i humanističke nauke,
+2014,Broj,bosnian-podrinje_canton,"social_sciences,_journalism_and_information",
+2014,Broj,bosnian-podrinje_canton,"business,_administration_and_law",
+2014,Broj,bosnian-podrinje_canton,"natural_sciences,_mathematics_and_statistics",
+2014,Broj,bosnian-podrinje_canton,Informacijske i komunikacijske tehnologije,
+2014,Broj,bosnian-podrinje_canton,"engineering,_production_and_construction",
+2014,Broj,bosnian-podrinje_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2014,Broj,bosnian-podrinje_canton,Zdravstvo i socijalna zaštita,
+2014,Broj,bosnian-podrinje_canton,Usluge,
+2014,Broj,central_bosnia_canton,Obrazovanje,
+2014,Broj,central_bosnia_canton,Umjetnost i humanističke nauke,
+2014,Broj,central_bosnia_canton,"social_sciences,_journalism_and_information",
+2014,Broj,central_bosnia_canton,"business,_administration_and_law",
+2014,Broj,central_bosnia_canton,"natural_sciences,_mathematics_and_statistics",
+2014,Broj,central_bosnia_canton,Informacijske i komunikacijske tehnologije,
+2014,Broj,central_bosnia_canton,"engineering,_production_and_construction",
+2014,Broj,central_bosnia_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2014,Broj,central_bosnia_canton,Zdravstvo i socijalna zaštita,
+2014,Broj,central_bosnia_canton,Usluge,
+2014,Broj,herzegovina-neretva_canton,Obrazovanje,
+2014,Broj,herzegovina-neretva_canton,Umjetnost i humanističke nauke,
+2014,Broj,herzegovina-neretva_canton,"social_sciences,_journalism_and_information",
+2014,Broj,herzegovina-neretva_canton,"business,_administration_and_law",
+2014,Broj,herzegovina-neretva_canton,"natural_sciences,_mathematics_and_statistics",
+2014,Broj,herzegovina-neretva_canton,Informacijske i komunikacijske tehnologije,
+2014,Broj,herzegovina-neretva_canton,"engineering,_production_and_construction",
+2014,Broj,herzegovina-neretva_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2014,Broj,herzegovina-neretva_canton,Zdravstvo i socijalna zaštita,
+2014,Broj,herzegovina-neretva_canton,Usluge,
+2014,Broj,sarajevo_canton,Obrazovanje,
+2014,Broj,sarajevo_canton,Umjetnost i humanističke nauke,
+2014,Broj,sarajevo_canton,"social_sciences,_journalism_and_information",
+2014,Broj,sarajevo_canton,"business,_administration_and_law",
+2014,Broj,sarajevo_canton,"natural_sciences,_mathematics_and_statistics",
+2014,Broj,sarajevo_canton,Informacijske i komunikacijske tehnologije,
+2014,Broj,sarajevo_canton,"engineering,_production_and_construction",
+2014,Broj,sarajevo_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2014,Broj,sarajevo_canton,Zdravstvo i socijalna zaštita,
+2014,Broj,sarajevo_canton,Usluge,
+2015,Broj,federation_of_bih,Obrazovanje,
+2015,Broj,federation_of_bih,Umjetnost i humanističke nauke,
+2015,Broj,federation_of_bih,"social_sciences,_journalism_and_information",
+2015,Broj,federation_of_bih,"business,_administration_and_law",
+2015,Broj,federation_of_bih,"natural_sciences,_mathematics_and_statistics",
+2015,Broj,federation_of_bih,Informacijske i komunikacijske tehnologije,
+2015,Broj,federation_of_bih,"engineering,_production_and_construction",
+2015,Broj,federation_of_bih,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2015,Broj,federation_of_bih,Zdravstvo i socijalna zaštita,
+2015,Broj,federation_of_bih,Usluge,
+2015,Broj,una-sana_canton,Obrazovanje,
+2015,Broj,una-sana_canton,Umjetnost i humanističke nauke,
+2015,Broj,una-sana_canton,"social_sciences,_journalism_and_information",
+2015,Broj,una-sana_canton,"business,_administration_and_law",
+2015,Broj,una-sana_canton,"natural_sciences,_mathematics_and_statistics",
+2015,Broj,una-sana_canton,Informacijske i komunikacijske tehnologije,
+2015,Broj,una-sana_canton,"engineering,_production_and_construction",
+2015,Broj,una-sana_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2015,Broj,una-sana_canton,Zdravstvo i socijalna zaštita,
+2015,Broj,una-sana_canton,Usluge,
+2015,Broj,tuzla_canton,Obrazovanje,
+2015,Broj,tuzla_canton,Umjetnost i humanističke nauke,
+2015,Broj,tuzla_canton,"social_sciences,_journalism_and_information",
+2015,Broj,tuzla_canton,"business,_administration_and_law",
+2015,Broj,tuzla_canton,"natural_sciences,_mathematics_and_statistics",
+2015,Broj,tuzla_canton,Informacijske i komunikacijske tehnologije,
+2015,Broj,tuzla_canton,"engineering,_production_and_construction",
+2015,Broj,tuzla_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2015,Broj,tuzla_canton,Zdravstvo i socijalna zaštita,
+2015,Broj,tuzla_canton,Usluge,
+2015,Broj,zenica-doboj_canton,Obrazovanje,
+2015,Broj,zenica-doboj_canton,Umjetnost i humanističke nauke,
+2015,Broj,zenica-doboj_canton,"social_sciences,_journalism_and_information",
+2015,Broj,zenica-doboj_canton,"business,_administration_and_law",
+2015,Broj,zenica-doboj_canton,"natural_sciences,_mathematics_and_statistics",
+2015,Broj,zenica-doboj_canton,Informacijske i komunikacijske tehnologije,
+2015,Broj,zenica-doboj_canton,"engineering,_production_and_construction",
+2015,Broj,zenica-doboj_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2015,Broj,zenica-doboj_canton,Zdravstvo i socijalna zaštita,
+2015,Broj,zenica-doboj_canton,Usluge,
+2015,Broj,bosnian-podrinje_canton,Obrazovanje,
+2015,Broj,bosnian-podrinje_canton,Umjetnost i humanističke nauke,
+2015,Broj,bosnian-podrinje_canton,"social_sciences,_journalism_and_information",
+2015,Broj,bosnian-podrinje_canton,"business,_administration_and_law",
+2015,Broj,bosnian-podrinje_canton,"natural_sciences,_mathematics_and_statistics",
+2015,Broj,bosnian-podrinje_canton,Informacijske i komunikacijske tehnologije,
+2015,Broj,bosnian-podrinje_canton,"engineering,_production_and_construction",
+2015,Broj,bosnian-podrinje_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2015,Broj,bosnian-podrinje_canton,Zdravstvo i socijalna zaštita,
+2015,Broj,bosnian-podrinje_canton,Usluge,
+2015,Broj,central_bosnia_canton,Obrazovanje,
+2015,Broj,central_bosnia_canton,Umjetnost i humanističke nauke,
+2015,Broj,central_bosnia_canton,"social_sciences,_journalism_and_information",
+2015,Broj,central_bosnia_canton,"business,_administration_and_law",
+2015,Broj,central_bosnia_canton,"natural_sciences,_mathematics_and_statistics",
+2015,Broj,central_bosnia_canton,Informacijske i komunikacijske tehnologije,
+2015,Broj,central_bosnia_canton,"engineering,_production_and_construction",
+2015,Broj,central_bosnia_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2015,Broj,central_bosnia_canton,Zdravstvo i socijalna zaštita,
+2015,Broj,central_bosnia_canton,Usluge,
+2015,Broj,herzegovina-neretva_canton,Obrazovanje,
+2015,Broj,herzegovina-neretva_canton,Umjetnost i humanističke nauke,
+2015,Broj,herzegovina-neretva_canton,"social_sciences,_journalism_and_information",
+2015,Broj,herzegovina-neretva_canton,"business,_administration_and_law",
+2015,Broj,herzegovina-neretva_canton,"natural_sciences,_mathematics_and_statistics",
+2015,Broj,herzegovina-neretva_canton,Informacijske i komunikacijske tehnologije,
+2015,Broj,herzegovina-neretva_canton,"engineering,_production_and_construction",
+2015,Broj,herzegovina-neretva_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2015,Broj,herzegovina-neretva_canton,Zdravstvo i socijalna zaštita,
+2015,Broj,herzegovina-neretva_canton,Usluge,
+2015,Broj,sarajevo_canton,Obrazovanje,
+2015,Broj,sarajevo_canton,Umjetnost i humanističke nauke,
+2015,Broj,sarajevo_canton,"social_sciences,_journalism_and_information",
+2015,Broj,sarajevo_canton,"business,_administration_and_law",
+2015,Broj,sarajevo_canton,"natural_sciences,_mathematics_and_statistics",
+2015,Broj,sarajevo_canton,Informacijske i komunikacijske tehnologije,
+2015,Broj,sarajevo_canton,"engineering,_production_and_construction",
+2015,Broj,sarajevo_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2015,Broj,sarajevo_canton,Zdravstvo i socijalna zaštita,
+2015,Broj,sarajevo_canton,Usluge,
+2016,Broj,federation_of_bih,Obrazovanje,
+2016,Broj,federation_of_bih,Umjetnost i humanističke nauke,
+2016,Broj,federation_of_bih,"social_sciences,_journalism_and_information",
+2016,Broj,federation_of_bih,"business,_administration_and_law",
+2016,Broj,federation_of_bih,"natural_sciences,_mathematics_and_statistics",
+2016,Broj,federation_of_bih,Informacijske i komunikacijske tehnologije,
+2016,Broj,federation_of_bih,"engineering,_production_and_construction",
+2016,Broj,federation_of_bih,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2016,Broj,federation_of_bih,Zdravstvo i socijalna zaštita,
+2016,Broj,federation_of_bih,Usluge,
+2016,Broj,una-sana_canton,Obrazovanje,
+2016,Broj,una-sana_canton,Umjetnost i humanističke nauke,
+2016,Broj,una-sana_canton,"social_sciences,_journalism_and_information",
+2016,Broj,una-sana_canton,"business,_administration_and_law",
+2016,Broj,una-sana_canton,"natural_sciences,_mathematics_and_statistics",
+2016,Broj,una-sana_canton,Informacijske i komunikacijske tehnologije,
+2016,Broj,una-sana_canton,"engineering,_production_and_construction",
+2016,Broj,una-sana_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2016,Broj,una-sana_canton,Zdravstvo i socijalna zaštita,
+2016,Broj,una-sana_canton,Usluge,
+2016,Broj,tuzla_canton,Obrazovanje,
+2016,Broj,tuzla_canton,Umjetnost i humanističke nauke,
+2016,Broj,tuzla_canton,"social_sciences,_journalism_and_information",
+2016,Broj,tuzla_canton,"business,_administration_and_law",
+2016,Broj,tuzla_canton,"natural_sciences,_mathematics_and_statistics",
+2016,Broj,tuzla_canton,Informacijske i komunikacijske tehnologije,
+2016,Broj,tuzla_canton,"engineering,_production_and_construction",
+2016,Broj,tuzla_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2016,Broj,tuzla_canton,Zdravstvo i socijalna zaštita,
+2016,Broj,tuzla_canton,Usluge,
+2016,Broj,zenica-doboj_canton,Obrazovanje,
+2016,Broj,zenica-doboj_canton,Umjetnost i humanističke nauke,
+2016,Broj,zenica-doboj_canton,"social_sciences,_journalism_and_information",
+2016,Broj,zenica-doboj_canton,"business,_administration_and_law",
+2016,Broj,zenica-doboj_canton,"natural_sciences,_mathematics_and_statistics",
+2016,Broj,zenica-doboj_canton,Informacijske i komunikacijske tehnologije,
+2016,Broj,zenica-doboj_canton,"engineering,_production_and_construction",
+2016,Broj,zenica-doboj_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2016,Broj,zenica-doboj_canton,Zdravstvo i socijalna zaštita,
+2016,Broj,zenica-doboj_canton,Usluge,
+2016,Broj,bosnian-podrinje_canton,Obrazovanje,
+2016,Broj,bosnian-podrinje_canton,Umjetnost i humanističke nauke,
+2016,Broj,bosnian-podrinje_canton,"social_sciences,_journalism_and_information",
+2016,Broj,bosnian-podrinje_canton,"business,_administration_and_law",
+2016,Broj,bosnian-podrinje_canton,"natural_sciences,_mathematics_and_statistics",
+2016,Broj,bosnian-podrinje_canton,Informacijske i komunikacijske tehnologije,
+2016,Broj,bosnian-podrinje_canton,"engineering,_production_and_construction",
+2016,Broj,bosnian-podrinje_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2016,Broj,bosnian-podrinje_canton,Zdravstvo i socijalna zaštita,
+2016,Broj,bosnian-podrinje_canton,Usluge,
+2016,Broj,central_bosnia_canton,Obrazovanje,
+2016,Broj,central_bosnia_canton,Umjetnost i humanističke nauke,
+2016,Broj,central_bosnia_canton,"social_sciences,_journalism_and_information",
+2016,Broj,central_bosnia_canton,"business,_administration_and_law",
+2016,Broj,central_bosnia_canton,"natural_sciences,_mathematics_and_statistics",
+2016,Broj,central_bosnia_canton,Informacijske i komunikacijske tehnologije,
+2016,Broj,central_bosnia_canton,"engineering,_production_and_construction",
+2016,Broj,central_bosnia_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2016,Broj,central_bosnia_canton,Zdravstvo i socijalna zaštita,
+2016,Broj,central_bosnia_canton,Usluge,
+2016,Broj,herzegovina-neretva_canton,Obrazovanje,
+2016,Broj,herzegovina-neretva_canton,Umjetnost i humanističke nauke,
+2016,Broj,herzegovina-neretva_canton,"social_sciences,_journalism_and_information",
+2016,Broj,herzegovina-neretva_canton,"business,_administration_and_law",
+2016,Broj,herzegovina-neretva_canton,"natural_sciences,_mathematics_and_statistics",
+2016,Broj,herzegovina-neretva_canton,Informacijske i komunikacijske tehnologije,
+2016,Broj,herzegovina-neretva_canton,"engineering,_production_and_construction",
+2016,Broj,herzegovina-neretva_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2016,Broj,herzegovina-neretva_canton,Zdravstvo i socijalna zaštita,
+2016,Broj,herzegovina-neretva_canton,Usluge,
+2016,Broj,sarajevo_canton,Obrazovanje,
+2016,Broj,sarajevo_canton,Umjetnost i humanističke nauke,
+2016,Broj,sarajevo_canton,"social_sciences,_journalism_and_information",
+2016,Broj,sarajevo_canton,"business,_administration_and_law",
+2016,Broj,sarajevo_canton,"natural_sciences,_mathematics_and_statistics",
+2016,Broj,sarajevo_canton,Informacijske i komunikacijske tehnologije,
+2016,Broj,sarajevo_canton,"engineering,_production_and_construction",
+2016,Broj,sarajevo_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2016,Broj,sarajevo_canton,Zdravstvo i socijalna zaštita,
+2016,Broj,sarajevo_canton,Usluge,
+2017,Broj,federation_of_bih,Obrazovanje,
+2017,Broj,federation_of_bih,Umjetnost i humanističke nauke,
+2017,Broj,federation_of_bih,"social_sciences,_journalism_and_information",
+2017,Broj,federation_of_bih,"business,_administration_and_law",
+2017,Broj,federation_of_bih,"natural_sciences,_mathematics_and_statistics",
+2017,Broj,federation_of_bih,Informacijske i komunikacijske tehnologije,
+2017,Broj,federation_of_bih,"engineering,_production_and_construction",
+2017,Broj,federation_of_bih,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2017,Broj,federation_of_bih,Zdravstvo i socijalna zaštita,
+2017,Broj,federation_of_bih,Usluge,
+2017,Broj,una-sana_canton,Obrazovanje,
+2017,Broj,una-sana_canton,Umjetnost i humanističke nauke,
+2017,Broj,una-sana_canton,"social_sciences,_journalism_and_information",
+2017,Broj,una-sana_canton,"business,_administration_and_law",
+2017,Broj,una-sana_canton,"natural_sciences,_mathematics_and_statistics",
+2017,Broj,una-sana_canton,Informacijske i komunikacijske tehnologije,
+2017,Broj,una-sana_canton,"engineering,_production_and_construction",
+2017,Broj,una-sana_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2017,Broj,una-sana_canton,Zdravstvo i socijalna zaštita,
+2017,Broj,una-sana_canton,Usluge,
+2017,Broj,tuzla_canton,Obrazovanje,
+2017,Broj,tuzla_canton,Umjetnost i humanističke nauke,
+2017,Broj,tuzla_canton,"social_sciences,_journalism_and_information",
+2017,Broj,tuzla_canton,"business,_administration_and_law",
+2017,Broj,tuzla_canton,"natural_sciences,_mathematics_and_statistics",
+2017,Broj,tuzla_canton,Informacijske i komunikacijske tehnologije,
+2017,Broj,tuzla_canton,"engineering,_production_and_construction",
+2017,Broj,tuzla_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2017,Broj,tuzla_canton,Zdravstvo i socijalna zaštita,
+2017,Broj,tuzla_canton,Usluge,
+2017,Broj,zenica-doboj_canton,Obrazovanje,
+2017,Broj,zenica-doboj_canton,Umjetnost i humanističke nauke,
+2017,Broj,zenica-doboj_canton,"social_sciences,_journalism_and_information",
+2017,Broj,zenica-doboj_canton,"business,_administration_and_law",
+2017,Broj,zenica-doboj_canton,"natural_sciences,_mathematics_and_statistics",
+2017,Broj,zenica-doboj_canton,Informacijske i komunikacijske tehnologije,
+2017,Broj,zenica-doboj_canton,"engineering,_production_and_construction",
+2017,Broj,zenica-doboj_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2017,Broj,zenica-doboj_canton,Zdravstvo i socijalna zaštita,
+2017,Broj,zenica-doboj_canton,Usluge,
+2017,Broj,bosnian-podrinje_canton,Obrazovanje,
+2017,Broj,bosnian-podrinje_canton,Umjetnost i humanističke nauke,
+2017,Broj,bosnian-podrinje_canton,"social_sciences,_journalism_and_information",
+2017,Broj,bosnian-podrinje_canton,"business,_administration_and_law",
+2017,Broj,bosnian-podrinje_canton,"natural_sciences,_mathematics_and_statistics",
+2017,Broj,bosnian-podrinje_canton,Informacijske i komunikacijske tehnologije,
+2017,Broj,bosnian-podrinje_canton,"engineering,_production_and_construction",
+2017,Broj,bosnian-podrinje_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2017,Broj,bosnian-podrinje_canton,Zdravstvo i socijalna zaštita,
+2017,Broj,bosnian-podrinje_canton,Usluge,
+2017,Broj,central_bosnia_canton,Obrazovanje,
+2017,Broj,central_bosnia_canton,Umjetnost i humanističke nauke,
+2017,Broj,central_bosnia_canton,"social_sciences,_journalism_and_information",
+2017,Broj,central_bosnia_canton,"business,_administration_and_law",
+2017,Broj,central_bosnia_canton,"natural_sciences,_mathematics_and_statistics",
+2017,Broj,central_bosnia_canton,Informacijske i komunikacijske tehnologije,
+2017,Broj,central_bosnia_canton,"engineering,_production_and_construction",
+2017,Broj,central_bosnia_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2017,Broj,central_bosnia_canton,Zdravstvo i socijalna zaštita,
+2017,Broj,central_bosnia_canton,Usluge,
+2017,Broj,herzegovina-neretva_canton,Obrazovanje,
+2017,Broj,herzegovina-neretva_canton,Umjetnost i humanističke nauke,
+2017,Broj,herzegovina-neretva_canton,"social_sciences,_journalism_and_information",
+2017,Broj,herzegovina-neretva_canton,"business,_administration_and_law",
+2017,Broj,herzegovina-neretva_canton,"natural_sciences,_mathematics_and_statistics",
+2017,Broj,herzegovina-neretva_canton,Informacijske i komunikacijske tehnologije,
+2017,Broj,herzegovina-neretva_canton,"engineering,_production_and_construction",
+2017,Broj,herzegovina-neretva_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2017,Broj,herzegovina-neretva_canton,Zdravstvo i socijalna zaštita,
+2017,Broj,herzegovina-neretva_canton,Usluge,
+2017,Broj,sarajevo_canton,Obrazovanje,
+2017,Broj,sarajevo_canton,Umjetnost i humanističke nauke,
+2017,Broj,sarajevo_canton,"social_sciences,_journalism_and_information",
+2017,Broj,sarajevo_canton,"business,_administration_and_law",
+2017,Broj,sarajevo_canton,"natural_sciences,_mathematics_and_statistics",
+2017,Broj,sarajevo_canton,Informacijske i komunikacijske tehnologije,
+2017,Broj,sarajevo_canton,"engineering,_production_and_construction",
+2017,Broj,sarajevo_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2017,Broj,sarajevo_canton,Zdravstvo i socijalna zaštita,
+2017,Broj,sarajevo_canton,Usluge,
+2018,Broj,federation_of_bih,Obrazovanje,
+2018,Broj,federation_of_bih,Umjetnost i humanističke nauke,
+2018,Broj,federation_of_bih,"social_sciences,_journalism_and_information",
+2018,Broj,federation_of_bih,"business,_administration_and_law",
+2018,Broj,federation_of_bih,"natural_sciences,_mathematics_and_statistics",
+2018,Broj,federation_of_bih,Informacijske i komunikacijske tehnologije,
+2018,Broj,federation_of_bih,"engineering,_production_and_construction",
+2018,Broj,federation_of_bih,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2018,Broj,federation_of_bih,Zdravstvo i socijalna zaštita,
+2018,Broj,federation_of_bih,Usluge,
+2018,Broj,una-sana_canton,Obrazovanje,
+2018,Broj,una-sana_canton,Umjetnost i humanističke nauke,
+2018,Broj,una-sana_canton,"social_sciences,_journalism_and_information",
+2018,Broj,una-sana_canton,"business,_administration_and_law",
+2018,Broj,una-sana_canton,"natural_sciences,_mathematics_and_statistics",
+2018,Broj,una-sana_canton,Informacijske i komunikacijske tehnologije,
+2018,Broj,una-sana_canton,"engineering,_production_and_construction",
+2018,Broj,una-sana_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2018,Broj,una-sana_canton,Zdravstvo i socijalna zaštita,
+2018,Broj,una-sana_canton,Usluge,
+2018,Broj,tuzla_canton,Obrazovanje,
+2018,Broj,tuzla_canton,Umjetnost i humanističke nauke,
+2018,Broj,tuzla_canton,"social_sciences,_journalism_and_information",
+2018,Broj,tuzla_canton,"business,_administration_and_law",
+2018,Broj,tuzla_canton,"natural_sciences,_mathematics_and_statistics",
+2018,Broj,tuzla_canton,Informacijske i komunikacijske tehnologije,
+2018,Broj,tuzla_canton,"engineering,_production_and_construction",
+2018,Broj,tuzla_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2018,Broj,tuzla_canton,Zdravstvo i socijalna zaštita,
+2018,Broj,tuzla_canton,Usluge,
+2018,Broj,zenica-doboj_canton,Obrazovanje,
+2018,Broj,zenica-doboj_canton,Umjetnost i humanističke nauke,
+2018,Broj,zenica-doboj_canton,"social_sciences,_journalism_and_information",
+2018,Broj,zenica-doboj_canton,"business,_administration_and_law",
+2018,Broj,zenica-doboj_canton,"natural_sciences,_mathematics_and_statistics",
+2018,Broj,zenica-doboj_canton,Informacijske i komunikacijske tehnologije,
+2018,Broj,zenica-doboj_canton,"engineering,_production_and_construction",
+2018,Broj,zenica-doboj_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2018,Broj,zenica-doboj_canton,Zdravstvo i socijalna zaštita,
+2018,Broj,zenica-doboj_canton,Usluge,
+2018,Broj,bosnian-podrinje_canton,Obrazovanje,
+2018,Broj,bosnian-podrinje_canton,Umjetnost i humanističke nauke,
+2018,Broj,bosnian-podrinje_canton,"social_sciences,_journalism_and_information",
+2018,Broj,bosnian-podrinje_canton,"business,_administration_and_law",
+2018,Broj,bosnian-podrinje_canton,"natural_sciences,_mathematics_and_statistics",
+2018,Broj,bosnian-podrinje_canton,Informacijske i komunikacijske tehnologije,
+2018,Broj,bosnian-podrinje_canton,"engineering,_production_and_construction",
+2018,Broj,bosnian-podrinje_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2018,Broj,bosnian-podrinje_canton,Zdravstvo i socijalna zaštita,
+2018,Broj,bosnian-podrinje_canton,Usluge,
+2018,Broj,central_bosnia_canton,Obrazovanje,
+2018,Broj,central_bosnia_canton,Umjetnost i humanističke nauke,
+2018,Broj,central_bosnia_canton,"social_sciences,_journalism_and_information",
+2018,Broj,central_bosnia_canton,"business,_administration_and_law",
+2018,Broj,central_bosnia_canton,"natural_sciences,_mathematics_and_statistics",
+2018,Broj,central_bosnia_canton,Informacijske i komunikacijske tehnologije,
+2018,Broj,central_bosnia_canton,"engineering,_production_and_construction",
+2018,Broj,central_bosnia_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2018,Broj,central_bosnia_canton,Zdravstvo i socijalna zaštita,
+2018,Broj,central_bosnia_canton,Usluge,
+2018,Broj,herzegovina-neretva_canton,Obrazovanje,
+2018,Broj,herzegovina-neretva_canton,Umjetnost i humanističke nauke,
+2018,Broj,herzegovina-neretva_canton,"social_sciences,_journalism_and_information",
+2018,Broj,herzegovina-neretva_canton,"business,_administration_and_law",
+2018,Broj,herzegovina-neretva_canton,"natural_sciences,_mathematics_and_statistics",
+2018,Broj,herzegovina-neretva_canton,Informacijske i komunikacijske tehnologije,
+2018,Broj,herzegovina-neretva_canton,"engineering,_production_and_construction",
+2018,Broj,herzegovina-neretva_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2018,Broj,herzegovina-neretva_canton,Zdravstvo i socijalna zaštita,
+2018,Broj,herzegovina-neretva_canton,Usluge,
+2018,Broj,sarajevo_canton,Obrazovanje,
+2018,Broj,sarajevo_canton,Umjetnost i humanističke nauke,
+2018,Broj,sarajevo_canton,"social_sciences,_journalism_and_information",
+2018,Broj,sarajevo_canton,"business,_administration_and_law",
+2018,Broj,sarajevo_canton,"natural_sciences,_mathematics_and_statistics",
+2018,Broj,sarajevo_canton,Informacijske i komunikacijske tehnologije,
+2018,Broj,sarajevo_canton,"engineering,_production_and_construction",
+2018,Broj,sarajevo_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2018,Broj,sarajevo_canton,Zdravstvo i socijalna zaštita,
+2018,Broj,sarajevo_canton,Usluge,
+2019,Broj,federation_of_bih,Obrazovanje,
+2019,Broj,federation_of_bih,Umjetnost i humanističke nauke,
+2019,Broj,federation_of_bih,"social_sciences,_journalism_and_information",
+2019,Broj,federation_of_bih,"business,_administration_and_law",
+2019,Broj,federation_of_bih,"natural_sciences,_mathematics_and_statistics",
+2019,Broj,federation_of_bih,Informacijske i komunikacijske tehnologije,
+2019,Broj,federation_of_bih,"engineering,_production_and_construction",
+2019,Broj,federation_of_bih,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2019,Broj,federation_of_bih,Zdravstvo i socijalna zaštita,
+2019,Broj,federation_of_bih,Usluge,
+2019,Broj,una-sana_canton,Obrazovanje,
+2019,Broj,una-sana_canton,Umjetnost i humanističke nauke,
+2019,Broj,una-sana_canton,"social_sciences,_journalism_and_information",
+2019,Broj,una-sana_canton,"business,_administration_and_law",
+2019,Broj,una-sana_canton,"natural_sciences,_mathematics_and_statistics",
+2019,Broj,una-sana_canton,Informacijske i komunikacijske tehnologije,
+2019,Broj,una-sana_canton,"engineering,_production_and_construction",
+2019,Broj,una-sana_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2019,Broj,una-sana_canton,Zdravstvo i socijalna zaštita,
+2019,Broj,una-sana_canton,Usluge,
+2019,Broj,tuzla_canton,Obrazovanje,
+2019,Broj,tuzla_canton,Umjetnost i humanističke nauke,
+2019,Broj,tuzla_canton,"social_sciences,_journalism_and_information",
+2019,Broj,tuzla_canton,"business,_administration_and_law",
+2019,Broj,tuzla_canton,"natural_sciences,_mathematics_and_statistics",
+2019,Broj,tuzla_canton,Informacijske i komunikacijske tehnologije,
+2019,Broj,tuzla_canton,"engineering,_production_and_construction",
+2019,Broj,tuzla_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2019,Broj,tuzla_canton,Zdravstvo i socijalna zaštita,
+2019,Broj,tuzla_canton,Usluge,
+2019,Broj,zenica-doboj_canton,Obrazovanje,
+2019,Broj,zenica-doboj_canton,Umjetnost i humanističke nauke,
+2019,Broj,zenica-doboj_canton,"social_sciences,_journalism_and_information",
+2019,Broj,zenica-doboj_canton,"business,_administration_and_law",
+2019,Broj,zenica-doboj_canton,"natural_sciences,_mathematics_and_statistics",
+2019,Broj,zenica-doboj_canton,Informacijske i komunikacijske tehnologije,
+2019,Broj,zenica-doboj_canton,"engineering,_production_and_construction",
+2019,Broj,zenica-doboj_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2019,Broj,zenica-doboj_canton,Zdravstvo i socijalna zaštita,
+2019,Broj,zenica-doboj_canton,Usluge,
+2019,Broj,bosnian-podrinje_canton,Obrazovanje,
+2019,Broj,bosnian-podrinje_canton,Umjetnost i humanističke nauke,
+2019,Broj,bosnian-podrinje_canton,"social_sciences,_journalism_and_information",
+2019,Broj,bosnian-podrinje_canton,"business,_administration_and_law",
+2019,Broj,bosnian-podrinje_canton,"natural_sciences,_mathematics_and_statistics",
+2019,Broj,bosnian-podrinje_canton,Informacijske i komunikacijske tehnologije,
+2019,Broj,bosnian-podrinje_canton,"engineering,_production_and_construction",
+2019,Broj,bosnian-podrinje_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2019,Broj,bosnian-podrinje_canton,Zdravstvo i socijalna zaštita,
+2019,Broj,bosnian-podrinje_canton,Usluge,
+2019,Broj,central_bosnia_canton,Obrazovanje,
+2019,Broj,central_bosnia_canton,Umjetnost i humanističke nauke,
+2019,Broj,central_bosnia_canton,"social_sciences,_journalism_and_information",
+2019,Broj,central_bosnia_canton,"business,_administration_and_law",
+2019,Broj,central_bosnia_canton,"natural_sciences,_mathematics_and_statistics",
+2019,Broj,central_bosnia_canton,Informacijske i komunikacijske tehnologije,
+2019,Broj,central_bosnia_canton,"engineering,_production_and_construction",
+2019,Broj,central_bosnia_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2019,Broj,central_bosnia_canton,Zdravstvo i socijalna zaštita,
+2019,Broj,central_bosnia_canton,Usluge,
+2019,Broj,herzegovina-neretva_canton,Obrazovanje,
+2019,Broj,herzegovina-neretva_canton,Umjetnost i humanističke nauke,
+2019,Broj,herzegovina-neretva_canton,"social_sciences,_journalism_and_information",
+2019,Broj,herzegovina-neretva_canton,"business,_administration_and_law",
+2019,Broj,herzegovina-neretva_canton,"natural_sciences,_mathematics_and_statistics",
+2019,Broj,herzegovina-neretva_canton,Informacijske i komunikacijske tehnologije,
+2019,Broj,herzegovina-neretva_canton,"engineering,_production_and_construction",
+2019,Broj,herzegovina-neretva_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2019,Broj,herzegovina-neretva_canton,Zdravstvo i socijalna zaštita,
+2019,Broj,herzegovina-neretva_canton,Usluge,
+2019,Broj,sarajevo_canton,Obrazovanje,
+2019,Broj,sarajevo_canton,Umjetnost i humanističke nauke,
+2019,Broj,sarajevo_canton,"social_sciences,_journalism_and_information",
+2019,Broj,sarajevo_canton,"business,_administration_and_law",
+2019,Broj,sarajevo_canton,"natural_sciences,_mathematics_and_statistics",
+2019,Broj,sarajevo_canton,Informacijske i komunikacijske tehnologije,
+2019,Broj,sarajevo_canton,"engineering,_production_and_construction",
+2019,Broj,sarajevo_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2019,Broj,sarajevo_canton,Zdravstvo i socijalna zaštita,
+2019,Broj,sarajevo_canton,Usluge,
+2020,Broj,federation_of_bih,Obrazovanje,
+2020,Broj,federation_of_bih,Umjetnost i humanističke nauke,
+2020,Broj,federation_of_bih,"social_sciences,_journalism_and_information",
+2020,Broj,federation_of_bih,"business,_administration_and_law",
+2020,Broj,federation_of_bih,"natural_sciences,_mathematics_and_statistics",
+2020,Broj,federation_of_bih,Informacijske i komunikacijske tehnologije,
+2020,Broj,federation_of_bih,"engineering,_production_and_construction",
+2020,Broj,federation_of_bih,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2020,Broj,federation_of_bih,Zdravstvo i socijalna zaštita,
+2020,Broj,federation_of_bih,Usluge,
+2020,Broj,una-sana_canton,Obrazovanje,
+2020,Broj,una-sana_canton,Umjetnost i humanističke nauke,
+2020,Broj,una-sana_canton,"social_sciences,_journalism_and_information",
+2020,Broj,una-sana_canton,"business,_administration_and_law",
+2020,Broj,una-sana_canton,"natural_sciences,_mathematics_and_statistics",
+2020,Broj,una-sana_canton,Informacijske i komunikacijske tehnologije,
+2020,Broj,una-sana_canton,"engineering,_production_and_construction",
+2020,Broj,una-sana_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2020,Broj,una-sana_canton,Zdravstvo i socijalna zaštita,
+2020,Broj,una-sana_canton,Usluge,
+2020,Broj,tuzla_canton,Obrazovanje,
+2020,Broj,tuzla_canton,Umjetnost i humanističke nauke,
+2020,Broj,tuzla_canton,"social_sciences,_journalism_and_information",
+2020,Broj,tuzla_canton,"business,_administration_and_law",
+2020,Broj,tuzla_canton,"natural_sciences,_mathematics_and_statistics",
+2020,Broj,tuzla_canton,Informacijske i komunikacijske tehnologije,
+2020,Broj,tuzla_canton,"engineering,_production_and_construction",
+2020,Broj,tuzla_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2020,Broj,tuzla_canton,Zdravstvo i socijalna zaštita,
+2020,Broj,tuzla_canton,Usluge,
+2020,Broj,zenica-doboj_canton,Obrazovanje,
+2020,Broj,zenica-doboj_canton,Umjetnost i humanističke nauke,
+2020,Broj,zenica-doboj_canton,"social_sciences,_journalism_and_information",
+2020,Broj,zenica-doboj_canton,"business,_administration_and_law",
+2020,Broj,zenica-doboj_canton,"natural_sciences,_mathematics_and_statistics",
+2020,Broj,zenica-doboj_canton,Informacijske i komunikacijske tehnologije,
+2020,Broj,zenica-doboj_canton,"engineering,_production_and_construction",
+2020,Broj,zenica-doboj_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2020,Broj,zenica-doboj_canton,Zdravstvo i socijalna zaštita,
+2020,Broj,zenica-doboj_canton,Usluge,
+2020,Broj,bosnian-podrinje_canton,Obrazovanje,
+2020,Broj,bosnian-podrinje_canton,Umjetnost i humanističke nauke,
+2020,Broj,bosnian-podrinje_canton,"social_sciences,_journalism_and_information",
+2020,Broj,bosnian-podrinje_canton,"business,_administration_and_law",
+2020,Broj,bosnian-podrinje_canton,"natural_sciences,_mathematics_and_statistics",
+2020,Broj,bosnian-podrinje_canton,Informacijske i komunikacijske tehnologije,
+2020,Broj,bosnian-podrinje_canton,"engineering,_production_and_construction",
+2020,Broj,bosnian-podrinje_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2020,Broj,bosnian-podrinje_canton,Zdravstvo i socijalna zaštita,
+2020,Broj,bosnian-podrinje_canton,Usluge,
+2020,Broj,central_bosnia_canton,Obrazovanje,
+2020,Broj,central_bosnia_canton,Umjetnost i humanističke nauke,
+2020,Broj,central_bosnia_canton,"social_sciences,_journalism_and_information",
+2020,Broj,central_bosnia_canton,"business,_administration_and_law",
+2020,Broj,central_bosnia_canton,"natural_sciences,_mathematics_and_statistics",
+2020,Broj,central_bosnia_canton,Informacijske i komunikacijske tehnologije,
+2020,Broj,central_bosnia_canton,"engineering,_production_and_construction",
+2020,Broj,central_bosnia_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2020,Broj,central_bosnia_canton,Zdravstvo i socijalna zaštita,
+2020,Broj,central_bosnia_canton,Usluge,
+2020,Broj,herzegovina-neretva_canton,Obrazovanje,
+2020,Broj,herzegovina-neretva_canton,Umjetnost i humanističke nauke,
+2020,Broj,herzegovina-neretva_canton,"social_sciences,_journalism_and_information",
+2020,Broj,herzegovina-neretva_canton,"business,_administration_and_law",
+2020,Broj,herzegovina-neretva_canton,"natural_sciences,_mathematics_and_statistics",
+2020,Broj,herzegovina-neretva_canton,Informacijske i komunikacijske tehnologije,
+2020,Broj,herzegovina-neretva_canton,"engineering,_production_and_construction",
+2020,Broj,herzegovina-neretva_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2020,Broj,herzegovina-neretva_canton,Zdravstvo i socijalna zaštita,
+2020,Broj,herzegovina-neretva_canton,Usluge,
+2020,Broj,sarajevo_canton,Obrazovanje,
+2020,Broj,sarajevo_canton,Umjetnost i humanističke nauke,
+2020,Broj,sarajevo_canton,"social_sciences,_journalism_and_information",
+2020,Broj,sarajevo_canton,"business,_administration_and_law",
+2020,Broj,sarajevo_canton,"natural_sciences,_mathematics_and_statistics",
+2020,Broj,sarajevo_canton,Informacijske i komunikacijske tehnologije,
+2020,Broj,sarajevo_canton,"engineering,_production_and_construction",
+2020,Broj,sarajevo_canton,"agriculture,_forestry,_fisheries_and_veterinary_medicine",
+2020,Broj,sarajevo_canton,Zdravstvo i socijalna zaštita,
+2020,Broj,sarajevo_canton,Usluge,

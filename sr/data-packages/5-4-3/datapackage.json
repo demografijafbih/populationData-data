@@ -21,43 +21,46 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "type_of_education",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
-                "Образовање",
-                "Умјетност и хуманистичке науке",
-                "Друштвене науке, новинарство и информисање",
-                "Пословање, администрација, и право",
-                "Природне науке, математика, и статистика",
-                "Информационе и комуникационе технологије",
-                "Инжењерство, производња и грађевинарство",
-                "Пољопривреда, шумарство, рибарство и ветеринарство",
-                "Здравство и социјална заштита",
-                "Услуге",
-                "Непознато",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Врста образовања"
+            "title": "Административно подручје"
           },
           {
-            "name": "SEX",
+            "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
+                "Образовање",
+                "Умјетност и хуманистичке науке",
+                "social_sciences,_journalism_and_information",
+                "business,_administration_and_law",
+                "natural_sciences,_mathematics_and_statistics",
+                "Информационе и комуникационе технологије",
+                "engineering,_production_and_construction",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Здравство и социјална заштита",
+                "Услуге",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "scientific_field"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Вриједност"
           }
         ]

@@ -11,17 +11,22 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
-                "Both sexes"
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "federation_of_bih",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
+                "tuzla_canton",
+                "una-sana_canton",
+                "zenica-doboj_canton"
               ]
             },
-            "title": "Sex"
+            "title": "Administrative area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -30,7 +35,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -39,26 +44,24 @@
             "title": "Year"
           },
           {
-            "name": "type_of_education",
+            "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Agriculture, forestry, fisheries and veterinary medicine",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
                 "Arts and humanities",
-                "Business administration and the law",
+                "business,_administration_and_law",
                 "Education",
-                "Engineering, manufacturing and construction",
+                "engineering,_production_and_construction",
                 "Health and social protection",
                 "Information and communication technologies",
-                "Natural sciences, mathematics and statistics",
+                "natural_sciences,_mathematics_and_statistics",
                 "Services",
-                "Social sciences, journalism and information",
-                "Total",
-                "Unknown"
+                "social_sciences,_journalism_and_information"
               ]
             },
-            "title": "Type of education"
+            "title": "scientific_field"
           }
         ]
       }

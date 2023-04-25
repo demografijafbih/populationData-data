@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -19,22 +19,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "25 - 64",
-                "25 - 34",
-                "35 - 44",
-                "35 - 54",
-                "45 - 54",
-                "55 - 64",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
           },
           {
             "name": "SEX",

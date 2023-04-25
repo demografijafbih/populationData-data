@@ -16,35 +16,21 @@
             "title": "Година"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
                 "M",
                 "Ж",
                 ""
               ]
             },
             "title": "Пол"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24",
-                "25-29",
-                "15-29",
-                ""
-              ]
-            },
-            "title": "Старосна доб"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
           },
           {
             "name": "Value",

@@ -21,43 +21,46 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "type_of_education",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
-                "Obrazovanje",
-                "Umjetnost i humanističke znanosti",
-                "Društvene znanosti, novinarstvo i informiranje",
-                "Poslovanje, administracija i pravo",
-                "Prirodne znanosti, matematika i statistika",
-                "Informacijske i komunikacijske tehnologije",
-                "Inženjerstvo, proizvodnja i građevinarstvo",
-                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
-                "Zdravstvo i socijalna skrb",
-                "Usluge",
-                "Nepoznato",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Vrsta obrazovanja"
+            "title": "Administrativna oblast"
           },
           {
-            "name": "SEX",
+            "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
+                "Obrazovanje",
+                "Umjetnost i humanističke znanosti",
+                "social_sciences,_journalism_and_information",
+                "business,_administration_and_law",
+                "natural_sciences,_mathematics_and_statistics",
+                "Informacijske i komunikacijske tehnologije",
+                "engineering,_production_and_construction",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Zdravstvo i socijalna skrb",
+                "Usluge",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "scientific_field"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

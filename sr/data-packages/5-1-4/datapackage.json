@@ -21,6 +21,27 @@
             "title": "Мјерна јединица"
           },
           {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            },
+            "title": "Административно подручје"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {

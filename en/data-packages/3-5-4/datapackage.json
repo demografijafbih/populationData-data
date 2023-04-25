@@ -11,25 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {

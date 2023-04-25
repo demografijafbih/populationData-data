@@ -38,6 +38,16 @@
             "title": "Старосна доб"
           },
           {
+            "name": "Unnamed: 4",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 4"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"

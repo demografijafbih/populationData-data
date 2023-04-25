@@ -16,34 +16,123 @@
             "title": "Godina"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Banovići",
+                "Bihać",
+                "Bosanska Krupa",
+                "Bosanski Petrovac",
+                "Bosansko Grahovo",
+                "Breza",
+                "Bugojno",
+                "Busovača",
+                "Bužim",
+                "Cazin",
+                "centar_sarajevo",
+                "Čapljina",
+                "Čelić",
+                "Čitluk",
+                "doboj-istok",
+                "doboj-jug",
+                "Dobretići",
+                "domaljevac-samac",
+                "Donji Vakuf",
+                "Drvar",
+                "foca-fbih",
+                "Fojnica",
+                "Glamoč",
+                "Goražde",
+                "gornji_vakuf-uskoplje",
+                "Gračanica",
+                "Gradačac",
+                "Grude",
+                "hadzici",
+                "ilidza",
+                "ilijas",
+                "Jablanica",
+                "Jajce",
+                "Kakanj",
+                "Kalesija",
+                "Kiseljak",
+                "Kladanj",
+                "Ključ",
+                "Konjic",
+                "Kreševo",
+                "kupres-fbih",
+                "Livno",
+                "Lukavac",
+                "Ljubuški",
+                "Maglaj",
+                "Mostar",
+                "Neum",
+                "novi_grad_sarajevo",
+                "Novi Travnik",
+                "novo_sarajevo",
+                "Odžak",
+                "Olovo",
+                "Orašje",
+                "pale-fbih",
+                "Posušje",
+                "Prozor",
+                "Ravno",
+                "Sanski Most",
+                "Sapna",
+                "Srebrenik",
+                "stari_grad_sarajevo",
+                "Stolac",
+                "Široki Brijeg",
+                "Teočak",
+                "Tešanj",
+                "Tomislavgrad",
+                "Travnik",
+                "trnovo-fbih",
+                "Tuzla",
+                "Usora",
+                "Vareš",
+                "Velika Kladuša",
+                "Visoko",
+                "Vitez",
+                "vogosca",
+                "Zavidovići",
+                "Zenica",
+                "Žepče",
+                "Živinice",
+                ""
+              ]
+            },
+            "title": "Administrativna oblast"
           },
           {
             "name": "Literacy",
             "type": "string",
             "constraints": {
               "enum": [
-                "Literate ",
-                "Nepismen",
+                "literate",
+                "illiterate",
+                "Nepoznato",
                 ""
               ]
             },
             "title": "Literacy"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
           },
           {
             "name": "Value",

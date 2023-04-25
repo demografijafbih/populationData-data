@@ -15,32 +15,19 @@
             "type": "integer"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
                 "M",
                 "F",
                 ""
               ]
             }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24",
-                "25-29",
-                "15-29",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "Value",

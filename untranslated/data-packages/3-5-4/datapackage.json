@@ -19,19 +19,8 @@
             "type": "string"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

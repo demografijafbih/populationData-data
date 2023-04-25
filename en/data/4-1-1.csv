@@ -1,55 +1,694 @@
-Year,UNIT_MEASURE,Type of beneficiary,Sex,Value
-2015,Number,Both sexes,Both sexes,561284
-2015,Number,Both sexes,M,280867
-2015,Number,Both sexes,F,280417
-2015,Number,Minor beneficiaries,Both sexes,143552
-2015,Number,Minor beneficiaries,M,74753
-2015,Number,Minor beneficiaries,F,68799
-2015,Number,Adult beneficiaries,Both sexes,417732
-2015,Number,Adult beneficiaries,M,206114
-2015,Number,Adult beneficiaries,F,211618
-2016,Number,Both sexes,Both sexes,542736
-2016,Number,Both sexes,M,268561
-2016,Number,Both sexes,F,274175
-2016,Number,Minor beneficiaries,Both sexes,133504
-2016,Number,Minor beneficiaries,M,70405
-2016,Number,Minor beneficiaries,F,63099
-2016,Number,Adult beneficiaries,Both sexes,409232
-2016,Number,Adult beneficiaries,M,198156
-2016,Number,Adult beneficiaries,F,211076
-2017,Number,Both sexes,Both sexes,541572
-2017,Number,Both sexes,M,280855
-2017,Number,Both sexes,F,260717
-2017,Number,Minor beneficiaries,Both sexes,127682
-2017,Number,Minor beneficiaries,M,67353
-2017,Number,Minor beneficiaries,F,60329
-2017,Number,Adult beneficiaries,Both sexes,413890
-2017,Number,Adult beneficiaries,M,213502
-2017,Number,Adult beneficiaries,F,200388
-2018,Number,Both sexes,Both sexes,549546
-2018,Number,Both sexes,M,283301
-2018,Number,Both sexes,F,266245
-2018,Number,Minor beneficiaries,Both sexes,129673
-2018,Number,Minor beneficiaries,M,69291
-2018,Number,Minor beneficiaries,F,60382
-2018,Number,Adult beneficiaries,Both sexes,419873
-2018,Number,Adult beneficiaries,M,214010
-2018,Number,Adult beneficiaries,F,205863
-2019,Number,Both sexes,Both sexes,540302
-2019,Number,Both sexes,M,279848
-2019,Number,Both sexes,F,260454
-2019,Number,Minor beneficiaries,Both sexes,126324
-2019,Number,Minor beneficiaries,M,67023
-2019,Number,Minor beneficiaries,F,59301
-2019,Number,Adult beneficiaries,Both sexes,413978
-2019,Number,Adult beneficiaries,M,212825
-2019,Number,Adult beneficiaries,F,201153
-2020,Number,Both sexes,Both sexes,546605
-2020,Number,Both sexes,M,279742
-2020,Number,Both sexes,F,266863
-2020,Number,Minor beneficiaries,Both sexes,119875
-2020,Number,Minor beneficiaries,M,64126
-2020,Number,Minor beneficiaries,F,55749
-2020,Number,Adult beneficiaries,Both sexes,426730
-2020,Number,Adult beneficiaries,M,215616
-2020,Number,Adult beneficiaries,F,211114
+Year,UNIT_MEASURE,Administrative area,Sex,Value
+1998,Number,federation_of_bih,Both sexes,483426.0
+1998,Number,una-sana_canton,Both sexes,19062.0
+1998,Number,posavina_canton,Both sexes,400.0
+1998,Number,tuzla_canton,Both sexes,52338.0
+1998,Number,zenica-doboj_canton,Both sexes,166900.0
+1998,Number,bosnian-podrinje_canton,Both sexes,
+1998,Number,central_bosnia_canton,Both sexes,19686.0
+1998,Number,herzegovina-neretva_canton,Both sexes,18032.0
+1998,Number,west_herzegovina_canton,Both sexes,
+1998,Number,sarajevo_canton,Both sexes,205599.0
+1998,Number,canton_10,Both sexes,1409.0
+1998,Number,federation_of_bih,M,256508.0
+1998,Number,una-sana_canton,M,8518.0
+1998,Number,posavina_canton,M,167.0
+1998,Number,tuzla_canton,M,25383.0
+1998,Number,zenica-doboj_canton,M,93367.0
+1998,Number,bosnian-podrinje_canton,M,
+1998,Number,central_bosnia_canton,M,8634.0
+1998,Number,herzegovina-neretva_canton,M,7469.0
+1998,Number,west_herzegovina_canton,M,
+1998,Number,sarajevo_canton,M,112504.0
+1998,Number,canton_10,M,466.0
+1998,Number,federation_of_bih,F,226918.0
+1998,Number,una-sana_canton,F,10544.0
+1998,Number,posavina_canton,F,233.0
+1998,Number,tuzla_canton,F,26955.0
+1998,Number,zenica-doboj_canton,F,73533.0
+1998,Number,bosnian-podrinje_canton,F,
+1998,Number,central_bosnia_canton,F,11052.0
+1998,Number,herzegovina-neretva_canton,F,10563.0
+1998,Number,west_herzegovina_canton,F,
+1998,Number,sarajevo_canton,F,93095.0
+1998,Number,canton_10,F,943.0
+1999,Number,federation_of_bih,Both sexes,316644.0
+1999,Number,una-sana_canton,Both sexes,8787.0
+1999,Number,posavina_canton,Both sexes,911.0
+1999,Number,tuzla_canton,Both sexes,49938.0
+1999,Number,zenica-doboj_canton,Both sexes,122126.0
+1999,Number,bosnian-podrinje_canton,Both sexes,
+1999,Number,central_bosnia_canton,Both sexes,25288.0
+1999,Number,herzegovina-neretva_canton,Both sexes,33768.0
+1999,Number,west_herzegovina_canton,Both sexes,1198.0
+1999,Number,sarajevo_canton,Both sexes,71624.0
+1999,Number,canton_10,Both sexes,3004.0
+1999,Number,federation_of_bih,M,158297.0
+1999,Number,una-sana_canton,M,4056.0
+1999,Number,posavina_canton,M,459.0
+1999,Number,tuzla_canton,M,24031.0
+1999,Number,zenica-doboj_canton,M,52694.0
+1999,Number,bosnian-podrinje_canton,M,
+1999,Number,central_bosnia_canton,M,11153.0
+1999,Number,herzegovina-neretva_canton,M,18834.0
+1999,Number,west_herzegovina_canton,M,830.0
+1999,Number,sarajevo_canton,M,45340.0
+1999,Number,canton_10,M,901.0
+1999,Number,federation_of_bih,F,158347.0
+1999,Number,una-sana_canton,F,4731.0
+1999,Number,posavina_canton,F,452.0
+1999,Number,tuzla_canton,F,25907.0
+1999,Number,zenica-doboj_canton,F,69432.0
+1999,Number,bosnian-podrinje_canton,F,
+1999,Number,central_bosnia_canton,F,14135.0
+1999,Number,herzegovina-neretva_canton,F,14934.0
+1999,Number,west_herzegovina_canton,F,368.0
+1999,Number,sarajevo_canton,F,26284.0
+1999,Number,canton_10,F,2103.0
+2000,Number,federation_of_bih,Both sexes,283785.0
+2000,Number,una-sana_canton,Both sexes,11514.0
+2000,Number,posavina_canton,Both sexes,1759.0
+2000,Number,tuzla_canton,Both sexes,51918.0
+2000,Number,zenica-doboj_canton,Both sexes,84090.0
+2000,Number,bosnian-podrinje_canton,Both sexes,
+2000,Number,central_bosnia_canton,Both sexes,28632.0
+2000,Number,herzegovina-neretva_canton,Both sexes,25754.0
+2000,Number,west_herzegovina_canton,Both sexes,1198.0
+2000,Number,sarajevo_canton,Both sexes,76363.0
+2000,Number,canton_10,Both sexes,2557.0
+2000,Number,federation_of_bih,M,150741.0
+2000,Number,una-sana_canton,M,3628.0
+2000,Number,posavina_canton,M,900.0
+2000,Number,tuzla_canton,M,25809.0
+2000,Number,zenica-doboj_canton,M,45290.0
+2000,Number,bosnian-podrinje_canton,M,
+2000,Number,central_bosnia_canton,M,11909.0
+2000,Number,herzegovina-neretva_canton,M,10760.0
+2000,Number,west_herzegovina_canton,M,830.0
+2000,Number,sarajevo_canton,M,50388.0
+2000,Number,canton_10,M,1227.0
+2000,Number,federation_of_bih,F,133044.0
+2000,Number,una-sana_canton,F,7886.0
+2000,Number,posavina_canton,F,859.0
+2000,Number,tuzla_canton,F,26109.0
+2000,Number,zenica-doboj_canton,F,38800.0
+2000,Number,bosnian-podrinje_canton,F,
+2000,Number,central_bosnia_canton,F,16723.0
+2000,Number,herzegovina-neretva_canton,F,14994.0
+2000,Number,west_herzegovina_canton,F,368.0
+2000,Number,sarajevo_canton,F,25975.0
+2000,Number,canton_10,F,1330.0
+2001,Number,federation_of_bih,Both sexes,290612.0
+2001,Number,una-sana_canton,Both sexes,11912.0
+2001,Number,posavina_canton,Both sexes,1156.0
+2001,Number,tuzla_canton,Both sexes,28365.0
+2001,Number,zenica-doboj_canton,Both sexes,94505.0
+2001,Number,bosnian-podrinje_canton,Both sexes,
+2001,Number,central_bosnia_canton,Both sexes,21221.0
+2001,Number,herzegovina-neretva_canton,Both sexes,27091.0
+2001,Number,west_herzegovina_canton,Both sexes,627.0
+2001,Number,sarajevo_canton,Both sexes,103226.0
+2001,Number,canton_10,Both sexes,2509.0
+2001,Number,federation_of_bih,M,174528.0
+2001,Number,una-sana_canton,M,6205.0
+2001,Number,posavina_canton,M,481.0
+2001,Number,tuzla_canton,M,11941.0
+2001,Number,zenica-doboj_canton,M,51720.0
+2001,Number,bosnian-podrinje_canton,M,
+2001,Number,central_bosnia_canton,M,9183.0
+2001,Number,herzegovina-neretva_canton,M,12154.0
+2001,Number,west_herzegovina_canton,M,304.0
+2001,Number,sarajevo_canton,M,81369.0
+2001,Number,canton_10,M,1171.0
+2001,Number,federation_of_bih,F,116084.0
+2001,Number,una-sana_canton,F,5707.0
+2001,Number,posavina_canton,F,675.0
+2001,Number,tuzla_canton,F,16424.0
+2001,Number,zenica-doboj_canton,F,42785.0
+2001,Number,bosnian-podrinje_canton,F,
+2001,Number,central_bosnia_canton,F,12038.0
+2001,Number,herzegovina-neretva_canton,F,14937.0
+2001,Number,west_herzegovina_canton,F,323.0
+2001,Number,sarajevo_canton,F,21857.0
+2001,Number,canton_10,F,1338.0
+2002,Number,federation_of_bih,Both sexes,278769.0
+2002,Number,una-sana_canton,Both sexes,13413.0
+2002,Number,posavina_canton,Both sexes,445.0
+2002,Number,tuzla_canton,Both sexes,27426.0
+2002,Number,zenica-doboj_canton,Both sexes,90861.0
+2002,Number,bosnian-podrinje_canton,Both sexes,
+2002,Number,central_bosnia_canton,Both sexes,25509.0
+2002,Number,herzegovina-neretva_canton,Both sexes,33238.0
+2002,Number,west_herzegovina_canton,Both sexes,1435.0
+2002,Number,sarajevo_canton,Both sexes,84101.0
+2002,Number,canton_10,Both sexes,2341.0
+2002,Number,federation_of_bih,M,149039.0
+2002,Number,una-sana_canton,M,6158.0
+2002,Number,posavina_canton,M,209.0
+2002,Number,tuzla_canton,M,11177.0
+2002,Number,zenica-doboj_canton,M,47241.0
+2002,Number,bosnian-podrinje_canton,M,
+2002,Number,central_bosnia_canton,M,12470.0
+2002,Number,herzegovina-neretva_canton,M,14442.0
+2002,Number,west_herzegovina_canton,M,799.0
+2002,Number,sarajevo_canton,M,55462.0
+2002,Number,canton_10,M,1081.0
+2002,Number,federation_of_bih,F,129730.0
+2002,Number,una-sana_canton,F,7255.0
+2002,Number,posavina_canton,F,236.0
+2002,Number,tuzla_canton,F,16249.0
+2002,Number,zenica-doboj_canton,F,43620.0
+2002,Number,bosnian-podrinje_canton,F,
+2002,Number,central_bosnia_canton,F,13039.0
+2002,Number,herzegovina-neretva_canton,F,18796.0
+2002,Number,west_herzegovina_canton,F,636.0
+2002,Number,sarajevo_canton,F,28639.0
+2002,Number,canton_10,F,1260.0
+2003,Number,federation_of_bih,Both sexes,289167.0
+2003,Number,una-sana_canton,Both sexes,31374.0
+2003,Number,posavina_canton,Both sexes,63.0
+2003,Number,tuzla_canton,Both sexes,28411.0
+2003,Number,zenica-doboj_canton,Both sexes,94539.0
+2003,Number,bosnian-podrinje_canton,Both sexes,
+2003,Number,central_bosnia_canton,Both sexes,17320.0
+2003,Number,herzegovina-neretva_canton,Both sexes,31978.0
+2003,Number,west_herzegovina_canton,Both sexes,1733.0
+2003,Number,sarajevo_canton,Both sexes,81448.0
+2003,Number,canton_10,Both sexes,2301.0
+2003,Number,federation_of_bih,M,156012.0
+2003,Number,una-sana_canton,M,21833.0
+2003,Number,posavina_canton,M,26.0
+2003,Number,tuzla_canton,M,11375.0
+2003,Number,zenica-doboj_canton,M,49827.0
+2003,Number,bosnian-podrinje_canton,M,
+2003,Number,central_bosnia_canton,M,8597.0
+2003,Number,herzegovina-neretva_canton,M,14707.0
+2003,Number,west_herzegovina_canton,M,1020.0
+2003,Number,sarajevo_canton,M,47683.0
+2003,Number,canton_10,M,944.0
+2003,Number,federation_of_bih,F,133155.0
+2003,Number,una-sana_canton,F,9541.0
+2003,Number,posavina_canton,F,37.0
+2003,Number,tuzla_canton,F,17036.0
+2003,Number,zenica-doboj_canton,F,44712.0
+2003,Number,bosnian-podrinje_canton,F,
+2003,Number,central_bosnia_canton,F,8723.0
+2003,Number,herzegovina-neretva_canton,F,17271.0
+2003,Number,west_herzegovina_canton,F,713.0
+2003,Number,sarajevo_canton,F,33765.0
+2003,Number,canton_10,F,1357.0
+2004,Number,federation_of_bih,Both sexes,270507.0
+2004,Number,una-sana_canton,Both sexes,15996.0
+2004,Number,posavina_canton,Both sexes,94.0
+2004,Number,tuzla_canton,Both sexes,29152.0
+2004,Number,zenica-doboj_canton,Both sexes,86461.0
+2004,Number,bosnian-podrinje_canton,Both sexes,
+2004,Number,central_bosnia_canton,Both sexes,15487.0
+2004,Number,herzegovina-neretva_canton,Both sexes,26784.0
+2004,Number,west_herzegovina_canton,Both sexes,1826.0
+2004,Number,sarajevo_canton,Both sexes,92390.0
+2004,Number,canton_10,Both sexes,2317.0
+2004,Number,federation_of_bih,M,140214.0
+2004,Number,una-sana_canton,M,4970.0
+2004,Number,posavina_canton,M,35.0
+2004,Number,tuzla_canton,M,13090.0
+2004,Number,zenica-doboj_canton,M,43327.0
+2004,Number,bosnian-podrinje_canton,M,
+2004,Number,central_bosnia_canton,M,7645.0
+2004,Number,herzegovina-neretva_canton,M,13121.0
+2004,Number,west_herzegovina_canton,M,1053.0
+2004,Number,sarajevo_canton,M,56016.0
+2004,Number,canton_10,M,957.0
+2004,Number,federation_of_bih,F,130293.0
+2004,Number,una-sana_canton,F,11026.0
+2004,Number,posavina_canton,F,59.0
+2004,Number,tuzla_canton,F,16062.0
+2004,Number,zenica-doboj_canton,F,43134.0
+2004,Number,bosnian-podrinje_canton,F,
+2004,Number,central_bosnia_canton,F,7842.0
+2004,Number,herzegovina-neretva_canton,F,13663.0
+2004,Number,west_herzegovina_canton,F,773.0
+2004,Number,sarajevo_canton,F,36374.0
+2004,Number,canton_10,F,1360.0
+2005,Number,federation_of_bih,Both sexes,249848.0
+2005,Number,una-sana_canton,Both sexes,17657.0
+2005,Number,posavina_canton,Both sexes,120.0
+2005,Number,tuzla_canton,Both sexes,31339.0
+2005,Number,zenica-doboj_canton,Both sexes,71895.0
+2005,Number,bosnian-podrinje_canton,Both sexes,
+2005,Number,central_bosnia_canton,Both sexes,16422.0
+2005,Number,herzegovina-neretva_canton,Both sexes,19460.0
+2005,Number,west_herzegovina_canton,Both sexes,1894.0
+2005,Number,sarajevo_canton,Both sexes,88769.0
+2005,Number,canton_10,Both sexes,2292.0
+2005,Number,federation_of_bih,M,126173.0
+2005,Number,una-sana_canton,M,5530.0
+2005,Number,posavina_canton,M,51.0
+2005,Number,tuzla_canton,M,13199.0
+2005,Number,zenica-doboj_canton,M,36270.0
+2005,Number,bosnian-podrinje_canton,M,
+2005,Number,central_bosnia_canton,M,7964.0
+2005,Number,herzegovina-neretva_canton,M,8200.0
+2005,Number,west_herzegovina_canton,M,1097.0
+2005,Number,sarajevo_canton,M,52885.0
+2005,Number,canton_10,M,977.0
+2005,Number,federation_of_bih,F,123675.0
+2005,Number,una-sana_canton,F,12127.0
+2005,Number,posavina_canton,F,69.0
+2005,Number,tuzla_canton,F,18140.0
+2005,Number,zenica-doboj_canton,F,35625.0
+2005,Number,bosnian-podrinje_canton,F,
+2005,Number,central_bosnia_canton,F,8458.0
+2005,Number,herzegovina-neretva_canton,F,11260.0
+2005,Number,west_herzegovina_canton,F,797.0
+2005,Number,sarajevo_canton,F,35884.0
+2005,Number,canton_10,F,1315.0
+2006,Number,federation_of_bih,Both sexes,333918.0
+2006,Number,una-sana_canton,Both sexes,21373.0
+2006,Number,posavina_canton,Both sexes,136.0
+2006,Number,tuzla_canton,Both sexes,48970.0
+2006,Number,zenica-doboj_canton,Both sexes,100693.0
+2006,Number,bosnian-podrinje_canton,Both sexes,
+2006,Number,central_bosnia_canton,Both sexes,18658.0
+2006,Number,herzegovina-neretva_canton,Both sexes,21145.0
+2006,Number,west_herzegovina_canton,Both sexes,2345.0
+2006,Number,sarajevo_canton,Both sexes,117743.0
+2006,Number,canton_10,Both sexes,2855.0
+2006,Number,federation_of_bih,M,188431.0
+2006,Number,una-sana_canton,M,8672.0
+2006,Number,posavina_canton,M,136.0
+2006,Number,tuzla_canton,M,26081.0
+2006,Number,zenica-doboj_canton,M,57897.0
+2006,Number,bosnian-podrinje_canton,M,
+2006,Number,central_bosnia_canton,M,8419.0
+2006,Number,herzegovina-neretva_canton,M,10559.0
+2006,Number,west_herzegovina_canton,M,1460.0
+2006,Number,sarajevo_canton,M,73991.0
+2006,Number,canton_10,M,1219.0
+2006,Number,federation_of_bih,F,145487.0
+2006,Number,una-sana_canton,F,12701.0
+2006,Number,posavina_canton,F,0.0
+2006,Number,tuzla_canton,F,22889.0
+2006,Number,zenica-doboj_canton,F,42796.0
+2006,Number,bosnian-podrinje_canton,F,
+2006,Number,central_bosnia_canton,F,10239.0
+2006,Number,herzegovina-neretva_canton,F,10586.0
+2006,Number,west_herzegovina_canton,F,885.0
+2006,Number,sarajevo_canton,F,43752.0
+2006,Number,canton_10,F,1636.0
+2007,Number,federation_of_bih,Both sexes,334660.0
+2007,Number,una-sana_canton,Both sexes,17226.0
+2007,Number,posavina_canton,Both sexes,1287.0
+2007,Number,tuzla_canton,Both sexes,46851.0
+2007,Number,zenica-doboj_canton,Both sexes,77762.0
+2007,Number,bosnian-podrinje_canton,Both sexes,
+2007,Number,central_bosnia_canton,Both sexes,19464.0
+2007,Number,herzegovina-neretva_canton,Both sexes,21708.0
+2007,Number,west_herzegovina_canton,Both sexes,2560.0
+2007,Number,sarajevo_canton,Both sexes,144940.0
+2007,Number,canton_10,Both sexes,2862.0
+2007,Number,federation_of_bih,M,183592.0
+2007,Number,una-sana_canton,M,7586.0
+2007,Number,posavina_canton,M,481.0
+2007,Number,tuzla_canton,M,21048.0
+2007,Number,zenica-doboj_canton,M,39940.0
+2007,Number,bosnian-podrinje_canton,M,
+2007,Number,central_bosnia_canton,M,8681.0
+2007,Number,herzegovina-neretva_canton,M,9489.0
+2007,Number,west_herzegovina_canton,M,1579.0
+2007,Number,sarajevo_canton,M,93705.0
+2007,Number,canton_10,M,1083.0
+2007,Number,federation_of_bih,F,151068.0
+2007,Number,una-sana_canton,F,9640.0
+2007,Number,posavina_canton,F,806.0
+2007,Number,tuzla_canton,F,25803.0
+2007,Number,zenica-doboj_canton,F,37822.0
+2007,Number,bosnian-podrinje_canton,F,
+2007,Number,central_bosnia_canton,F,10783.0
+2007,Number,herzegovina-neretva_canton,F,12219.0
+2007,Number,west_herzegovina_canton,F,981.0
+2007,Number,sarajevo_canton,F,51235.0
+2007,Number,canton_10,F,1779.0
+2008,Number,federation_of_bih,Both sexes,340152.0
+2008,Number,una-sana_canton,Both sexes,17453.0
+2008,Number,posavina_canton,Both sexes,892.0
+2008,Number,tuzla_canton,Both sexes,55890.0
+2008,Number,zenica-doboj_canton,Both sexes,70513.0
+2008,Number,bosnian-podrinje_canton,Both sexes,
+2008,Number,central_bosnia_canton,Both sexes,22556.0
+2008,Number,herzegovina-neretva_canton,Both sexes,15078.0
+2008,Number,west_herzegovina_canton,Both sexes,2765.0
+2008,Number,sarajevo_canton,Both sexes,152336.0
+2008,Number,canton_10,Both sexes,2669.0
+2008,Number,federation_of_bih,M,182103.0
+2008,Number,una-sana_canton,M,8106.0
+2008,Number,posavina_canton,M,371.0
+2008,Number,tuzla_canton,M,23290.0
+2008,Number,zenica-doboj_canton,M,35712.0
+2008,Number,bosnian-podrinje_canton,M,
+2008,Number,central_bosnia_canton,M,9089.0
+2008,Number,herzegovina-neretva_canton,M,6274.0
+2008,Number,west_herzegovina_canton,M,1620.0
+2008,Number,sarajevo_canton,M,96671.0
+2008,Number,canton_10,M,970.0
+2008,Number,federation_of_bih,F,158049.0
+2008,Number,una-sana_canton,F,9347.0
+2008,Number,posavina_canton,F,521.0
+2008,Number,tuzla_canton,F,32600.0
+2008,Number,zenica-doboj_canton,F,34801.0
+2008,Number,bosnian-podrinje_canton,F,
+2008,Number,central_bosnia_canton,F,13467.0
+2008,Number,herzegovina-neretva_canton,F,8804.0
+2008,Number,west_herzegovina_canton,F,1145.0
+2008,Number,sarajevo_canton,F,55665.0
+2008,Number,canton_10,F,1699.0
+2009,Number,federation_of_bih,Both sexes,403628.0
+2009,Number,una-sana_canton,Both sexes,20080.0
+2009,Number,posavina_canton,Both sexes,538.0
+2009,Number,tuzla_canton,Both sexes,68873.0
+2009,Number,zenica-doboj_canton,Both sexes,83298.0
+2009,Number,bosnian-podrinje_canton,Both sexes,
+2009,Number,central_bosnia_canton,Both sexes,22343.0
+2009,Number,herzegovina-neretva_canton,Both sexes,14039.0
+2009,Number,west_herzegovina_canton,Both sexes,2897.0
+2009,Number,sarajevo_canton,Both sexes,188504.0
+2009,Number,canton_10,Both sexes,3056.0
+2009,Number,federation_of_bih,M,198035.0
+2009,Number,una-sana_canton,M,7518.0
+2009,Number,posavina_canton,M,210.0
+2009,Number,tuzla_canton,M,32281.0
+2009,Number,zenica-doboj_canton,M,41961.0
+2009,Number,bosnian-podrinje_canton,M,
+2009,Number,central_bosnia_canton,M,9826.0
+2009,Number,herzegovina-neretva_canton,M,5819.0
+2009,Number,west_herzegovina_canton,M,1511.0
+2009,Number,sarajevo_canton,M,97779.0
+2009,Number,canton_10,M,1130.0
+2009,Number,federation_of_bih,F,205593.0
+2009,Number,una-sana_canton,F,12562.0
+2009,Number,posavina_canton,F,328.0
+2009,Number,tuzla_canton,F,36592.0
+2009,Number,zenica-doboj_canton,F,41337.0
+2009,Number,bosnian-podrinje_canton,F,
+2009,Number,central_bosnia_canton,F,12517.0
+2009,Number,herzegovina-neretva_canton,F,8220.0
+2009,Number,west_herzegovina_canton,F,1386.0
+2009,Number,sarajevo_canton,F,90725.0
+2009,Number,canton_10,F,1926.0
+2010,Number,federation_of_bih,Both sexes,368808.0
+2010,Number,una-sana_canton,Both sexes,19595.0
+2010,Number,posavina_canton,Both sexes,830.0
+2010,Number,tuzla_canton,Both sexes,68396.0
+2010,Number,zenica-doboj_canton,Both sexes,76610.0
+2010,Number,bosnian-podrinje_canton,Both sexes,
+2010,Number,central_bosnia_canton,Both sexes,17177.0
+2010,Number,herzegovina-neretva_canton,Both sexes,14923.0
+2010,Number,west_herzegovina_canton,Both sexes,3684.0
+2010,Number,sarajevo_canton,Both sexes,164918.0
+2010,Number,canton_10,Both sexes,2675.0
+2010,Number,federation_of_bih,M,174999.0
+2010,Number,una-sana_canton,M,7579.0
+2010,Number,posavina_canton,M,295.0
+2010,Number,tuzla_canton,M,29285.0
+2010,Number,zenica-doboj_canton,M,35188.0
+2010,Number,bosnian-podrinje_canton,M,
+2010,Number,central_bosnia_canton,M,7780.0
+2010,Number,herzegovina-neretva_canton,M,3427.0
+2010,Number,west_herzegovina_canton,M,2148.0
+2010,Number,sarajevo_canton,M,88379.0
+2010,Number,canton_10,M,918.0
+2010,Number,federation_of_bih,F,193809.0
+2010,Number,una-sana_canton,F,12016.0
+2010,Number,posavina_canton,F,535.0
+2010,Number,tuzla_canton,F,39111.0
+2010,Number,zenica-doboj_canton,F,41422.0
+2010,Number,bosnian-podrinje_canton,F,
+2010,Number,central_bosnia_canton,F,9397.0
+2010,Number,herzegovina-neretva_canton,F,11496.0
+2010,Number,west_herzegovina_canton,F,1536.0
+2010,Number,sarajevo_canton,F,76539.0
+2010,Number,canton_10,F,1757.0
+2011,Number,federation_of_bih,Both sexes,344976.0
+2011,Number,una-sana_canton,Both sexes,21212.0
+2011,Number,posavina_canton,Both sexes,228.0
+2011,Number,tuzla_canton,Both sexes,79042.0
+2011,Number,zenica-doboj_canton,Both sexes,73550.0
+2011,Number,bosnian-podrinje_canton,Both sexes,
+2011,Number,central_bosnia_canton,Both sexes,11560.0
+2011,Number,herzegovina-neretva_canton,Both sexes,15304.0
+2011,Number,west_herzegovina_canton,Both sexes,3174.0
+2011,Number,sarajevo_canton,Both sexes,137012.0
+2011,Number,canton_10,Both sexes,3894.0
+2011,Number,federation_of_bih,M,162768.0
+2011,Number,una-sana_canton,M,8760.0
+2011,Number,posavina_canton,M,93.0
+2011,Number,tuzla_canton,M,31106.0
+2011,Number,zenica-doboj_canton,M,35157.0
+2011,Number,bosnian-podrinje_canton,M,
+2011,Number,central_bosnia_canton,M,5787.0
+2011,Number,herzegovina-neretva_canton,M,6800.0
+2011,Number,west_herzegovina_canton,M,1583.0
+2011,Number,sarajevo_canton,M,71509.0
+2011,Number,canton_10,M,1973.0
+2011,Number,federation_of_bih,F,182208.0
+2011,Number,una-sana_canton,F,12452.0
+2011,Number,posavina_canton,F,135.0
+2011,Number,tuzla_canton,F,47936.0
+2011,Number,zenica-doboj_canton,F,38393.0
+2011,Number,bosnian-podrinje_canton,F,
+2011,Number,central_bosnia_canton,F,5773.0
+2011,Number,herzegovina-neretva_canton,F,8504.0
+2011,Number,west_herzegovina_canton,F,1591.0
+2011,Number,sarajevo_canton,F,65503.0
+2011,Number,canton_10,F,1921.0
+2012,Number,federation_of_bih,Both sexes,364552.0
+2012,Number,una-sana_canton,Both sexes,18348.0
+2012,Number,posavina_canton,Both sexes,350.0
+2012,Number,tuzla_canton,Both sexes,87038.0
+2012,Number,zenica-doboj_canton,Both sexes,61780.0
+2012,Number,bosnian-podrinje_canton,Both sexes,
+2012,Number,central_bosnia_canton,Both sexes,20320.0
+2012,Number,herzegovina-neretva_canton,Both sexes,13180.0
+2012,Number,west_herzegovina_canton,Both sexes,3944.0
+2012,Number,sarajevo_canton,Both sexes,155065.0
+2012,Number,canton_10,Both sexes,4527.0
+2012,Number,federation_of_bih,M,184723.0
+2012,Number,una-sana_canton,M,7074.0
+2012,Number,posavina_canton,M,170.0
+2012,Number,tuzla_canton,M,40077.0
+2012,Number,zenica-doboj_canton,M,28689.0
+2012,Number,bosnian-podrinje_canton,M,
+2012,Number,central_bosnia_canton,M,9341.0
+2012,Number,herzegovina-neretva_canton,M,4865.0
+2012,Number,west_herzegovina_canton,M,2260.0
+2012,Number,sarajevo_canton,M,89973.0
+2012,Number,canton_10,M,2274.0
+2012,Number,federation_of_bih,F,179829.0
+2012,Number,una-sana_canton,F,11274.0
+2012,Number,posavina_canton,F,180.0
+2012,Number,tuzla_canton,F,46961.0
+2012,Number,zenica-doboj_canton,F,33091.0
+2012,Number,bosnian-podrinje_canton,F,
+2012,Number,central_bosnia_canton,F,10979.0
+2012,Number,herzegovina-neretva_canton,F,8315.0
+2012,Number,west_herzegovina_canton,F,1684.0
+2012,Number,sarajevo_canton,F,65092.0
+2012,Number,canton_10,F,2253.0
+2013,Number,federation_of_bih,Both sexes,312990.0
+2013,Number,una-sana_canton,Both sexes,20984.0
+2013,Number,posavina_canton,Both sexes,423.0
+2013,Number,tuzla_canton,Both sexes,73700.0
+2013,Number,zenica-doboj_canton,Both sexes,64654.0
+2013,Number,bosnian-podrinje_canton,Both sexes,
+2013,Number,central_bosnia_canton,Both sexes,18573.0
+2013,Number,herzegovina-neretva_canton,Both sexes,16085.0
+2013,Number,west_herzegovina_canton,Both sexes,4371.0
+2013,Number,sarajevo_canton,Both sexes,108806.0
+2013,Number,canton_10,Both sexes,5394.0
+2013,Number,federation_of_bih,M,150170.0
+2013,Number,una-sana_canton,M,8082.0
+2013,Number,posavina_canton,M,173.0
+2013,Number,tuzla_canton,M,28461.0
+2013,Number,zenica-doboj_canton,M,29657.0
+2013,Number,bosnian-podrinje_canton,M,
+2013,Number,central_bosnia_canton,M,8949.0
+2013,Number,herzegovina-neretva_canton,M,7054.0
+2013,Number,west_herzegovina_canton,M,2151.0
+2013,Number,sarajevo_canton,M,63206.0
+2013,Number,canton_10,M,2437.0
+2013,Number,federation_of_bih,F,162820.0
+2013,Number,una-sana_canton,F,12902.0
+2013,Number,posavina_canton,F,250.0
+2013,Number,tuzla_canton,F,45239.0
+2013,Number,zenica-doboj_canton,F,34997.0
+2013,Number,bosnian-podrinje_canton,F,
+2013,Number,central_bosnia_canton,F,9624.0
+2013,Number,herzegovina-neretva_canton,F,9031.0
+2013,Number,west_herzegovina_canton,F,2220.0
+2013,Number,sarajevo_canton,F,45600.0
+2013,Number,canton_10,F,2957.0
+2014,Number,federation_of_bih,Both sexes,300743.0
+2014,Number,una-sana_canton,Both sexes,21524.0
+2014,Number,posavina_canton,Both sexes,975.0
+2014,Number,tuzla_canton,Both sexes,63748.0
+2014,Number,zenica-doboj_canton,Both sexes,59350.0
+2014,Number,bosnian-podrinje_canton,Both sexes,10433.0
+2014,Number,central_bosnia_canton,Both sexes,19890.0
+2014,Number,herzegovina-neretva_canton,Both sexes,17882.0
+2014,Number,west_herzegovina_canton,Both sexes,3530.0
+2014,Number,sarajevo_canton,Both sexes,97948.0
+2014,Number,canton_10,Both sexes,5463.0
+2014,Number,federation_of_bih,M,143250.0
+2014,Number,una-sana_canton,M,9405.0
+2014,Number,posavina_canton,M,445.0
+2014,Number,tuzla_canton,M,29484.0
+2014,Number,zenica-doboj_canton,M,26577.0
+2014,Number,bosnian-podrinje_canton,M,3283.0
+2014,Number,central_bosnia_canton,M,9722.0
+2014,Number,herzegovina-neretva_canton,M,7567.0
+2014,Number,west_herzegovina_canton,M,1564.0
+2014,Number,sarajevo_canton,M,52841.0
+2014,Number,canton_10,M,2362.0
+2014,Number,federation_of_bih,F,157493.0
+2014,Number,una-sana_canton,F,12119.0
+2014,Number,posavina_canton,F,530.0
+2014,Number,tuzla_canton,F,34264.0
+2014,Number,zenica-doboj_canton,F,32773.0
+2014,Number,bosnian-podrinje_canton,F,7150.0
+2014,Number,central_bosnia_canton,F,10168.0
+2014,Number,herzegovina-neretva_canton,F,10315.0
+2014,Number,west_herzegovina_canton,F,1966.0
+2014,Number,sarajevo_canton,F,45107.0
+2014,Number,canton_10,F,3101.0
+2015,Number,federation_of_bih,Both sexes,283575.0
+2015,Number,una-sana_canton,Both sexes,21810.0
+2015,Number,posavina_canton,Both sexes,1041.0
+2015,Number,tuzla_canton,Both sexes,63009.0
+2015,Number,zenica-doboj_canton,Both sexes,55022.0
+2015,Number,bosnian-podrinje_canton,Both sexes,11535.0
+2015,Number,central_bosnia_canton,Both sexes,17407.0
+2015,Number,herzegovina-neretva_canton,Both sexes,17673.0
+2015,Number,west_herzegovina_canton,Both sexes,3614.0
+2015,Number,sarajevo_canton,Both sexes,86478.0
+2015,Number,canton_10,Both sexes,5986.0
+2015,Number,federation_of_bih,M,139273.0
+2015,Number,una-sana_canton,M,10336.0
+2015,Number,posavina_canton,M,425.0
+2015,Number,tuzla_canton,M,27833.0
+2015,Number,zenica-doboj_canton,M,25681.0
+2015,Number,bosnian-podrinje_canton,M,4981.0
+2015,Number,central_bosnia_canton,M,8230.0
+2015,Number,herzegovina-neretva_canton,M,7348.0
+2015,Number,west_herzegovina_canton,M,1671.0
+2015,Number,sarajevo_canton,M,50212.0
+2015,Number,canton_10,M,2556.0
+2015,Number,federation_of_bih,F,144302.0
+2015,Number,una-sana_canton,F,11474.0
+2015,Number,posavina_canton,F,616.0
+2015,Number,tuzla_canton,F,35176.0
+2015,Number,zenica-doboj_canton,F,29341.0
+2015,Number,bosnian-podrinje_canton,F,6554.0
+2015,Number,central_bosnia_canton,F,9177.0
+2015,Number,herzegovina-neretva_canton,F,10325.0
+2015,Number,west_herzegovina_canton,F,1943.0
+2015,Number,sarajevo_canton,F,36266.0
+2015,Number,canton_10,F,3430.0
+2016,Number,federation_of_bih,Both sexes,295304.0
+2016,Number,una-sana_canton,Both sexes,21855.0
+2016,Number,posavina_canton,Both sexes,1060.0
+2016,Number,tuzla_canton,Both sexes,68369.0
+2016,Number,zenica-doboj_canton,Both sexes,48270.0
+2016,Number,bosnian-podrinje_canton,Both sexes,11194.0
+2016,Number,central_bosnia_canton,Both sexes,18371.0
+2016,Number,herzegovina-neretva_canton,Both sexes,17707.0
+2016,Number,west_herzegovina_canton,Both sexes,2187.0
+2016,Number,sarajevo_canton,Both sexes,101740.0
+2016,Number,canton_10,Both sexes,4551.0
+2016,Number,federation_of_bih,M,135801.0
+2016,Number,una-sana_canton,M,10051.0
+2016,Number,posavina_canton,M,499.0
+2016,Number,tuzla_canton,M,29440.0
+2016,Number,zenica-doboj_canton,M,23551.0
+2016,Number,bosnian-podrinje_canton,M,5162.0
+2016,Number,central_bosnia_canton,M,8627.0
+2016,Number,herzegovina-neretva_canton,M,7663.0
+2016,Number,west_herzegovina_canton,M,979.0
+2016,Number,sarajevo_canton,M,47713.0
+2016,Number,canton_10,M,2116.0
+2016,Number,federation_of_bih,F,159503.0
+2016,Number,una-sana_canton,F,11804.0
+2016,Number,posavina_canton,F,561.0
+2016,Number,tuzla_canton,F,38929.0
+2016,Number,zenica-doboj_canton,F,24719.0
+2016,Number,bosnian-podrinje_canton,F,6032.0
+2016,Number,central_bosnia_canton,F,9744.0
+2016,Number,herzegovina-neretva_canton,F,10044.0
+2016,Number,west_herzegovina_canton,F,1208.0
+2016,Number,sarajevo_canton,F,54027.0
+2016,Number,canton_10,F,2435.0
+2017,Number,federation_of_bih,Both sexes,272769.0
+2017,Number,una-sana_canton,Both sexes,21163.0
+2017,Number,posavina_canton,Both sexes,1309.0
+2017,Number,tuzla_canton,Both sexes,56420.0
+2017,Number,zenica-doboj_canton,Both sexes,48168.0
+2017,Number,bosnian-podrinje_canton,Both sexes,10088.0
+2017,Number,central_bosnia_canton,Both sexes,18006.0
+2017,Number,herzegovina-neretva_canton,Both sexes,15978.0
+2017,Number,west_herzegovina_canton,Both sexes,2445.0
+2017,Number,sarajevo_canton,Both sexes,95028.0
+2017,Number,canton_10,Both sexes,4164.0
+2017,Number,federation_of_bih,M,124731.0
+2017,Number,una-sana_canton,M,10694.0
+2017,Number,posavina_canton,M,615.0
+2017,Number,tuzla_canton,M,24534.0
+2017,Number,zenica-doboj_canton,M,22598.0
+2017,Number,bosnian-podrinje_canton,M,4588.0
+2017,Number,central_bosnia_canton,M,8052.0
+2017,Number,herzegovina-neretva_canton,M,5238.0
+2017,Number,west_herzegovina_canton,M,1062.0
+2017,Number,sarajevo_canton,M,45327.0
+2017,Number,canton_10,M,2023.0
+2017,Number,federation_of_bih,F,148038.0
+2017,Number,una-sana_canton,F,10469.0
+2017,Number,posavina_canton,F,694.0
+2017,Number,tuzla_canton,F,31886.0
+2017,Number,zenica-doboj_canton,F,25570.0
+2017,Number,bosnian-podrinje_canton,F,5500.0
+2017,Number,central_bosnia_canton,F,9954.0
+2017,Number,herzegovina-neretva_canton,F,10740.0
+2017,Number,west_herzegovina_canton,F,1383.0
+2017,Number,sarajevo_canton,F,49701.0
+2017,Number,canton_10,F,2141.0
+2018,Number,federation_of_bih,Both sexes,495614.0
+2018,Number,una-sana_canton,Both sexes,26314.0
+2018,Number,posavina_canton,Both sexes,2532.0
+2018,Number,tuzla_canton,Both sexes,92459.0
+2018,Number,zenica-doboj_canton,Both sexes,81918.0
+2018,Number,bosnian-podrinje_canton,Both sexes,14195.0
+2018,Number,central_bosnia_canton,Both sexes,27811.0
+2018,Number,herzegovina-neretva_canton,Both sexes,29813.0
+2018,Number,west_herzegovina_canton,Both sexes,4328.0
+2018,Number,sarajevo_canton,Both sexes,208374.0
+2018,Number,canton_10,Both sexes,7870.0
+2018,Number,federation_of_bih,M,324387.0
+2018,Number,una-sana_canton,M,17081.0
+2018,Number,posavina_canton,M,1648.0
+2018,Number,tuzla_canton,M,61012.0
+2018,Number,zenica-doboj_canton,M,53492.0
+2018,Number,bosnian-podrinje_canton,M,9490.0
+2018,Number,central_bosnia_canton,M,17738.0
+2018,Number,herzegovina-neretva_canton,M,20533.0
+2018,Number,west_herzegovina_canton,M,2962.0
+2018,Number,sarajevo_canton,M,134532.0
+2018,Number,canton_10,M,5599.0
+2018,Number,federation_of_bih,F,171227.0
+2018,Number,una-sana_canton,F,9233.0
+2018,Number,posavina_canton,F,884.0
+2018,Number,tuzla_canton,F,31447.0
+2018,Number,zenica-doboj_canton,F,28426.0
+2018,Number,bosnian-podrinje_canton,F,4705.0
+2018,Number,central_bosnia_canton,F,10073.0
+2018,Number,herzegovina-neretva_canton,F,9280.0
+2018,Number,west_herzegovina_canton,F,1366.0
+2018,Number,sarajevo_canton,F,73842.0
+2018,Number,canton_10,F,1971.0

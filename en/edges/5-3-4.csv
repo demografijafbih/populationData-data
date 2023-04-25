@@ -1,2 +1,3 @@
 From,To
-Type of school,Sex
+Administrative area,type_of_school
+type_of_school,Sex

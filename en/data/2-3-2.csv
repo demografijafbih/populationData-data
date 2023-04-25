@@ -1,22 +1,1660 @@
-Year,Sex,UNIT_MEASURE,Highest education atainment,Value
-2013,Both sexes,Number,No education,146078
-2013,Both sexes,Number,Incomplete primary education,274036
-2013,Both sexes,Number,Primary school,640726
-2013,Both sexes,Number,Secondary school,1525161
-2013,Both sexes,Number,Post-secondary school specialization,21613
-2013,Both sexes,Number,High school and first grade of faculty,94204
-2013,Both sexes,Number,Advanced schools/faculty/academy/university,285622
-2013,M,Number,No education,24021
-2013,M,Number,Incomplete primary education,83216
-2013,M,Number,Primary school,274258
-2013,M,Number,Secondary school,864823
-2013,M,Number,Post-secondary school specialization,17877
-2013,M,Number,High school and first grade of faculty,51556
-2013,M,Number,Advanced schools/faculty/academy/university,137543
-2013,F,Number,No education,122057
-2013,F,Number,Incomplete primary education,190820
-2013,F,Number,Primary school,366468
-2013,F,Number,Secondary school,660338
-2013,F,Number,Post-secondary school specialization,3736
-2013,F,Number,High school and first grade of faculty,42648
-2013,F,Number,Advanced schools/faculty/academy/university,148079
+Year,UNIT_MEASURE,Administrative area,Sex,Education,Value
+2013,Number,Banovici,Both sexes,No education,692
+2013,Number,Bihac,Both sexes,No education,1976
+2013,Number,Bosanska Krupa,Both sexes,No education,1511
+2013,Number,Bosanski Petrovac,Both sexes,No education,399
+2013,Number,Bosansko Grahovo,Both sexes,No education,127
+2013,Number,Breza,Both sexes,No education,589
+2013,Number,Bugojno,Both sexes,No education,1137
+2013,Number,Busovaca,Both sexes,No education,755
+2013,Number,Buzim,Both sexes,No education,938
+2013,Number,Cazin,Both sexes,No education,3220
+2013,Number,centar_sarajevo,Both sexes,No education,675
+2013,Number,Capljina,Both sexes,No education,793
+2013,Number,Celic,Both sexes,No education,685
+2013,Number,Citluk,Both sexes,No education,369
+2013,Number,doboj-istok,Both sexes,No education,682
+2013,Number,doboj-jug,Both sexes,No education,130
+2013,Number,Dobretici,Both sexes,No education,174
+2013,Number,domaljevac-samac,Both sexes,No education,259
+2013,Number,Donji Vakuf,Both sexes,No education,631
+2013,Number,Drvar,Both sexes,No education,273
+2013,Number,foca-fbih,Both sexes,No education,148
+2013,Number,Fojnica,Both sexes,No education,681
+2013,Number,Glamoc,Both sexes,No education,244
+2013,Number,Gorazde,Both sexes,No education,915
+2013,Number,gornji_vakuf-uskoplje,Both sexes,No education,1145
+2013,Number,Gracanica,Both sexes,No education,1989
+2013,Number,Gradacac,Both sexes,No education,1660
+2013,Number,Grude,Both sexes,No education,526
+2013,Number,hadzici,Both sexes,No education,1177
+2013,Number,ilidza,Both sexes,No education,1729
+2013,Number,ilijas,Both sexes,No education,990
+2013,Number,Jablanica,Both sexes,No education,483
+2013,Number,Jajce,Both sexes,No education,1443
+2013,Number,Kakanj,Both sexes,No education,1699
+2013,Number,Kalesija,Both sexes,No education,1714
+2013,Number,Kiseljak,Both sexes,No education,860
+2013,Number,Kladanj,Both sexes,No education,455
+2013,Number,Ključ,Both sexes,No education,918
+2013,Number,Konjic,Both sexes,No education,1320
+2013,Number,Kresevo,Both sexes,No education,290
+2013,Number,kupres-fbih,Both sexes,No education,217
+2013,Number,Livno,Both sexes,No education,1393
+2013,Number,Lukavac,Both sexes,No education,2081
+2013,Number,Ljubuski,Both sexes,No education,691
+2013,Number,Maglaj,Both sexes,No education,831
+2013,Number,Mostar,Both sexes,No education,2024
+2013,Number,Neum,Both sexes,No education,204
+2013,Number,novi_grad_sarajevo,Both sexes,No education,2624
+2013,Number,Novi Travnik,Both sexes,No education,844
+2013,Number,novo_sarajevo,Both sexes,No education,872
+2013,Number,Odzak,Both sexes,No education,899
+2013,Number,Olovo,Both sexes,No education,511
+2013,Number,Orasje,Both sexes,No education,719
+2013,Number,pale-fbih,Both sexes,No education,70
+2013,Number,Posusje,Both sexes,No education,779
+2013,Number,Prozor,Both sexes,No education,943
+2013,Number,Ravno,Both sexes,No education,83
+2013,Number,Sanski Most,Both sexes,No education,2061
+2013,Number,Sapna,Both sexes,No education,760
+2013,Number,Srebrenik,Both sexes,No education,2208
+2013,Number,stari_grad_sarajevo,Both sexes,No education,710
+2013,Number,Stolac,Both sexes,No education,570
+2013,Number,Siroki Brijeg,Both sexes,No education,964
+2013,Number,Teocak,Both sexes,No education,410
+2013,Number,Tesanj,Both sexes,No education,1730
+2013,Number,Tomislavgrad,Both sexes,No education,1432
+2013,Number,Travnik,Both sexes,No education,2182
+2013,Number,trnovo-fbih,Both sexes,No education,203
+2013,Number,Tuzla,Both sexes,No education,3226
+2013,Number,Usora,Both sexes,No education,420
+2013,Number,Vares,Both sexes,No education,299
+2013,Number,Velika Kladusa,Both sexes,No education,2257
+2013,Number,Visoko,Both sexes,No education,1394
+2013,Number,Vitez,Both sexes,No education,816
+2013,Number,vogosca,Both sexes,No education,786
+2013,Number,Zavidovici,Both sexes,No education,1563
+2013,Number,Zenica,Both sexes,No education,2731
+2013,Number,Zepce,Both sexes,No education,1143
+2013,Number,Zivinice,Both sexes,No education,2673
+2013,Number,Banovici,M,No education,70
+2013,Number,Bihac,M,No education,356
+2013,Number,Bosanska Krupa,M,No education,309
+2013,Number,Bosanski Petrovac,M,No education,72
+2013,Number,Bosansko Grahovo,M,No education,7
+2013,Number,Breza,M,No education,37
+2013,Number,Bugojno,M,No education,180
+2013,Number,Busovaca,M,No education,98
+2013,Number,Buzim,M,No education,230
+2013,Number,Cazin,M,No education,649
+2013,Number,centar_sarajevo,M,No education,103
+2013,Number,Capljina,M,No education,106
+2013,Number,Celic,M,No education,173
+2013,Number,Citluk,M,No education,46
+2013,Number,doboj-istok,M,No education,136
+2013,Number,doboj-jug,M,No education,4
+2013,Number,Dobretici,M,No education,34
+2013,Number,domaljevac-samac,M,No education,54
+2013,Number,Donji Vakuf,M,No education,129
+2013,Number,Drvar,M,No education,39
+2013,Number,foca-fbih,M,No education,24
+2013,Number,Fojnica,M,No education,133
+2013,Number,Glamoc,M,No education,40
+2013,Number,Gorazde,M,No education,118
+2013,Number,gornji_vakuf-uskoplje,M,No education,260
+2013,Number,Gracanica,M,No education,353
+2013,Number,Gradacac,M,No education,344
+2013,Number,Grude,M,No education,89
+2013,Number,hadzici,M,No education,266
+2013,Number,ilidza,M,No education,234
+2013,Number,ilijas,M,No education,112
+2013,Number,Jablanica,M,No education,59
+2013,Number,Jajce,M,No education,281
+2013,Number,Kakanj,M,No education,287
+2013,Number,Kalesija,M,No education,274
+2013,Number,Kiseljak,M,No education,128
+2013,Number,Kladanj,M,No education,76
+2013,Number,Ključ,M,No education,132
+2013,Number,Konjic,M,No education,204
+2013,Number,Kresevo,M,No education,41
+2013,Number,kupres-fbih,M,No education,37
+2013,Number,Livno,M,No education,201
+2013,Number,Lukavac,M,No education,267
+2013,Number,Ljubuski,M,No education,91
+2013,Number,Maglaj,M,No education,121
+2013,Number,Mostar,M,No education,275
+2013,Number,Neum,M,No education,34
+2013,Number,novi_grad_sarajevo,M,No education,362
+2013,Number,Novi Travnik,M,No education,126
+2013,Number,novo_sarajevo,M,No education,119
+2013,Number,Odzak,M,No education,182
+2013,Number,Olovo,M,No education,62
+2013,Number,Orasje,M,No education,131
+2013,Number,pale-fbih,M,No education,17
+2013,Number,Posusje,M,No education,134
+2013,Number,Prozor,M,No education,204
+2013,Number,Ravno,M,No education,7
+2013,Number,Sanski Most,M,No education,366
+2013,Number,Sapna,M,No education,148
+2013,Number,Srebrenik,M,No education,384
+2013,Number,stari_grad_sarajevo,M,No education,100
+2013,Number,Stolac,M,No education,112
+2013,Number,Siroki Brijeg,M,No education,136
+2013,Number,Teocak,M,No education,82
+2013,Number,Tesanj,M,No education,266
+2013,Number,Tomislavgrad,M,No education,256
+2013,Number,Travnik,M,No education,445
+2013,Number,trnovo-fbih,M,No education,28
+2013,Number,Tuzla,M,No education,413
+2013,Number,Usora,M,No education,48
+2013,Number,Vares,M,No education,30
+2013,Number,Velika Kladusa,M,No education,495
+2013,Number,Visoko,M,No education,218
+2013,Number,Vitez,M,No education,126
+2013,Number,vogosca,M,No education,93
+2013,Number,Zavidovici,M,No education,259
+2013,Number,Zenica,M,No education,429
+2013,Number,Zepce,M,No education,175
+2013,Number,Zivinice,M,No education,369
+2013,Number,Banovici,F,No education,622
+2013,Number,Bihac,F,No education,1620
+2013,Number,Bosanska Krupa,F,No education,1202
+2013,Number,Bosanski Petrovac,F,No education,327
+2013,Number,Bosansko Grahovo,F,No education,120
+2013,Number,Breza,F,No education,552
+2013,Number,Bugojno,F,No education,957
+2013,Number,Busovaca,F,No education,657
+2013,Number,Buzim,F,No education,708
+2013,Number,Cazin,F,No education,2571
+2013,Number,centar_sarajevo,F,No education,572
+2013,Number,Capljina,F,No education,687
+2013,Number,Celic,F,No education,512
+2013,Number,Citluk,F,No education,323
+2013,Number,doboj-istok,F,No education,546
+2013,Number,doboj-jug,F,No education,126
+2013,Number,Dobretici,F,No education,140
+2013,Number,domaljevac-samac,F,No education,205
+2013,Number,Donji Vakuf,F,No education,502
+2013,Number,Drvar,F,No education,234
+2013,Number,foca-fbih,F,No education,124
+2013,Number,Fojnica,F,No education,548
+2013,Number,Glamoc,F,No education,204
+2013,Number,Gorazde,F,No education,797
+2013,Number,gornji_vakuf-uskoplje,F,No education,885
+2013,Number,Gracanica,F,No education,1636
+2013,Number,Gradacac,F,No education,1316
+2013,Number,Grude,F,No education,437
+2013,Number,hadzici,F,No education,911
+2013,Number,ilidza,F,No education,1495
+2013,Number,ilijas,F,No education,878
+2013,Number,Jablanica,F,No education,424
+2013,Number,Jajce,F,No education,1162
+2013,Number,Kakanj,F,No education,1412
+2013,Number,Kalesija,F,No education,1440
+2013,Number,Kiseljak,F,No education,732
+2013,Number,Kladanj,F,No education,379
+2013,Number,Ključ,F,No education,786
+2013,Number,Konjic,F,No education,1116
+2013,Number,Kresevo,F,No education,249
+2013,Number,kupres-fbih,F,No education,180
+2013,Number,Livno,F,No education,1192
+2013,Number,Lukavac,F,No education,1814
+2013,Number,Ljubuski,F,No education,600
+2013,Number,Maglaj,F,No education,710
+2013,Number,Mostar,F,No education,1749
+2013,Number,Neum,F,No education,170
+2013,Number,novi_grad_sarajevo,F,No education,2262
+2013,Number,Novi Travnik,F,No education,718
+2013,Number,novo_sarajevo,F,No education,753
+2013,Number,Odzak,F,No education,717
+2013,Number,Olovo,F,No education,449
+2013,Number,Orasje,F,No education,588
+2013,Number,pale-fbih,F,No education,53
+2013,Number,Posusje,F,No education,645
+2013,Number,Prozor,F,No education,739
+2013,Number,Ravno,F,No education,76
+2013,Number,Sanski Most,F,No education,1695
+2013,Number,Sapna,F,No education,612
+2013,Number,Srebrenik,F,No education,1824
+2013,Number,stari_grad_sarajevo,F,No education,610
+2013,Number,Stolac,F,No education,458
+2013,Number,Siroki Brijeg,F,No education,828
+2013,Number,Teocak,F,No education,328
+2013,Number,Tesanj,F,No education,1464
+2013,Number,Tomislavgrad,F,No education,1176
+2013,Number,Travnik,F,No education,1737
+2013,Number,trnovo-fbih,F,No education,175
+2013,Number,Tuzla,F,No education,2813
+2013,Number,Usora,F,No education,372
+2013,Number,Vares,F,No education,269
+2013,Number,Velika Kladusa,F,No education,1762
+2013,Number,Visoko,F,No education,1176
+2013,Number,Vitez,F,No education,690
+2013,Number,vogosca,F,No education,693
+2013,Number,Zavidovici,F,No education,1304
+2013,Number,Zenica,F,No education,2302
+2013,Number,Zepce,F,No education,968
+2013,Number,Zivinice,F,No education,2304
+2013,Number,Banovici,Both sexes,incomplete_elementary,1845
+2013,Number,Bihac,Both sexes,incomplete_elementary,3478
+2013,Number,Bosanska Krupa,Both sexes,incomplete_elementary,2675
+2013,Number,Bosanski Petrovac,Both sexes,incomplete_elementary,782
+2013,Number,Bosansko Grahovo,Both sexes,incomplete_elementary,337
+2013,Number,Breza,Both sexes,incomplete_elementary,1289
+2013,Number,Bugojno,Both sexes,incomplete_elementary,2265
+2013,Number,Busovaca,Both sexes,incomplete_elementary,1492
+2013,Number,Buzim,Both sexes,incomplete_elementary,1875
+2013,Number,Cazin,Both sexes,incomplete_elementary,5704
+2013,Number,centar_sarajevo,Both sexes,incomplete_elementary,1129
+2013,Number,Capljina,Both sexes,incomplete_elementary,1671
+2013,Number,Celic,Both sexes,incomplete_elementary,1336
+2013,Number,Citluk,Both sexes,incomplete_elementary,1074
+2013,Number,doboj-istok,Both sexes,incomplete_elementary,974
+2013,Number,doboj-jug,Both sexes,incomplete_elementary,266
+2013,Number,Dobretici,Both sexes,incomplete_elementary,150
+2013,Number,domaljevac-samac,Both sexes,incomplete_elementary,687
+2013,Number,Donji Vakuf,Both sexes,incomplete_elementary,1308
+2013,Number,Drvar,Both sexes,incomplete_elementary,534
+2013,Number,foca-fbih,Both sexes,incomplete_elementary,225
+2013,Number,Fojnica,Both sexes,incomplete_elementary,1369
+2013,Number,Glamoc,Both sexes,incomplete_elementary,443
+2013,Number,Gorazde,Both sexes,incomplete_elementary,1388
+2013,Number,gornji_vakuf-uskoplje,Both sexes,incomplete_elementary,1628
+2013,Number,Gracanica,Both sexes,incomplete_elementary,4661
+2013,Number,Gradacac,Both sexes,incomplete_elementary,4577
+2013,Number,Grude,Both sexes,incomplete_elementary,1079
+2013,Number,hadzici,Both sexes,incomplete_elementary,1630
+2013,Number,ilidza,Both sexes,incomplete_elementary,2597
+2013,Number,ilijas,Both sexes,incomplete_elementary,1548
+2013,Number,Jablanica,Both sexes,incomplete_elementary,1031
+2013,Number,Jajce,Both sexes,incomplete_elementary,3291
+2013,Number,Kakanj,Both sexes,incomplete_elementary,3704
+2013,Number,Kalesija,Both sexes,incomplete_elementary,3528
+2013,Number,Kiseljak,Both sexes,incomplete_elementary,1873
+2013,Number,Kladanj,Both sexes,incomplete_elementary,1154
+2013,Number,Ključ,Both sexes,incomplete_elementary,1516
+2013,Number,Konjic,Both sexes,incomplete_elementary,2665
+2013,Number,Kresevo,Both sexes,incomplete_elementary,477
+2013,Number,kupres-fbih,Both sexes,incomplete_elementary,421
+2013,Number,Livno,Both sexes,incomplete_elementary,3312
+2013,Number,Lukavac,Both sexes,incomplete_elementary,4069
+2013,Number,Ljubuski,Both sexes,incomplete_elementary,2547
+2013,Number,Maglaj,Both sexes,incomplete_elementary,2087
+2013,Number,Mostar,Both sexes,incomplete_elementary,4310
+2013,Number,Neum,Both sexes,incomplete_elementary,282
+2013,Number,novi_grad_sarajevo,Both sexes,incomplete_elementary,4062
+2013,Number,Novi Travnik,Both sexes,incomplete_elementary,1863
+2013,Number,novo_sarajevo,Both sexes,incomplete_elementary,1351
+2013,Number,Odzak,Both sexes,incomplete_elementary,1925
+2013,Number,Olovo,Both sexes,incomplete_elementary,1122
+2013,Number,Orasje,Both sexes,incomplete_elementary,2799
+2013,Number,pale-fbih,Both sexes,incomplete_elementary,92
+2013,Number,Posusje,Both sexes,incomplete_elementary,864
+2013,Number,Prozor,Both sexes,incomplete_elementary,1507
+2013,Number,Ravno,Both sexes,incomplete_elementary,206
+2013,Number,Sanski Most,Both sexes,incomplete_elementary,2511
+2013,Number,Sapna,Both sexes,incomplete_elementary,1367
+2013,Number,Srebrenik,Both sexes,incomplete_elementary,4665
+2013,Number,stari_grad_sarajevo,Both sexes,incomplete_elementary,1020
+2013,Number,Stolac,Both sexes,incomplete_elementary,902
+2013,Number,Siroki Brijeg,Both sexes,incomplete_elementary,1777
+2013,Number,Teocak,Both sexes,incomplete_elementary,762
+2013,Number,Tesanj,Both sexes,incomplete_elementary,3225
+2013,Number,Tomislavgrad,Both sexes,incomplete_elementary,2290
+2013,Number,Travnik,Both sexes,incomplete_elementary,5388
+2013,Number,trnovo-fbih,Both sexes,incomplete_elementary,217
+2013,Number,Tuzla,Both sexes,incomplete_elementary,6228
+2013,Number,Usora,Both sexes,incomplete_elementary,478
+2013,Number,Vares,Both sexes,incomplete_elementary,1345
+2013,Number,Velika Kladusa,Both sexes,incomplete_elementary,5157
+2013,Number,Visoko,Both sexes,incomplete_elementary,3457
+2013,Number,Vitez,Both sexes,incomplete_elementary,1941
+2013,Number,vogosca,Both sexes,incomplete_elementary,1115
+2013,Number,Zavidovici,Both sexes,incomplete_elementary,3318
+2013,Number,Zenica,Both sexes,incomplete_elementary,8547
+2013,Number,Zepce,Both sexes,incomplete_elementary,2487
+2013,Number,Zivinice,Both sexes,incomplete_elementary,5685
+2013,Number,Banovici,M,incomplete_elementary,295
+2013,Number,Bihac,M,incomplete_elementary,1050
+2013,Number,Bosanska Krupa,M,incomplete_elementary,998
+2013,Number,Bosanski Petrovac,M,incomplete_elementary,284
+2013,Number,Bosansko Grahovo,M,incomplete_elementary,109
+2013,Number,Breza,M,incomplete_elementary,303
+2013,Number,Bugojno,M,incomplete_elementary,621
+2013,Number,Busovaca,M,incomplete_elementary,359
+2013,Number,Buzim,M,incomplete_elementary,703
+2013,Number,Cazin,M,incomplete_elementary,2086
+2013,Number,centar_sarajevo,M,incomplete_elementary,181
+2013,Number,Capljina,M,incomplete_elementary,425
+2013,Number,Celic,M,incomplete_elementary,544
+2013,Number,Citluk,M,incomplete_elementary,325
+2013,Number,doboj-istok,M,incomplete_elementary,279
+2013,Number,doboj-jug,M,incomplete_elementary,61
+2013,Number,Dobretici,M,incomplete_elementary,81
+2013,Number,domaljevac-samac,M,incomplete_elementary,297
+2013,Number,Donji Vakuf,M,incomplete_elementary,370
+2013,Number,Drvar,M,incomplete_elementary,105
+2013,Number,foca-fbih,M,incomplete_elementary,71
+2013,Number,Fojnica,M,incomplete_elementary,466
+2013,Number,Glamoc,M,incomplete_elementary,146
+2013,Number,Gorazde,M,incomplete_elementary,309
+2013,Number,gornji_vakuf-uskoplje,M,incomplete_elementary,449
+2013,Number,Gracanica,M,incomplete_elementary,1278
+2013,Number,Gradacac,M,incomplete_elementary,1387
+2013,Number,Grude,M,incomplete_elementary,352
+2013,Number,hadzici,M,incomplete_elementary,272
+2013,Number,ilidza,M,incomplete_elementary,419
+2013,Number,ilijas,M,incomplete_elementary,336
+2013,Number,Jablanica,M,incomplete_elementary,254
+2013,Number,Jajce,M,incomplete_elementary,1039
+2013,Number,Kakanj,M,incomplete_elementary,821
+2013,Number,Kalesija,M,incomplete_elementary,878
+2013,Number,Kiseljak,M,incomplete_elementary,493
+2013,Number,Kladanj,M,incomplete_elementary,287
+2013,Number,Ključ,M,incomplete_elementary,536
+2013,Number,Konjic,M,incomplete_elementary,778
+2013,Number,Kresevo,M,incomplete_elementary,138
+2013,Number,kupres-fbih,M,incomplete_elementary,170
+2013,Number,Livno,M,incomplete_elementary,1238
+2013,Number,Lukavac,M,incomplete_elementary,778
+2013,Number,Ljubuski,M,incomplete_elementary,889
+2013,Number,Maglaj,M,incomplete_elementary,553
+2013,Number,Mostar,M,incomplete_elementary,929
+2013,Number,Neum,M,incomplete_elementary,87
+2013,Number,novi_grad_sarajevo,M,incomplete_elementary,739
+2013,Number,Novi Travnik,M,incomplete_elementary,359
+2013,Number,novo_sarajevo,M,incomplete_elementary,210
+2013,Number,Odzak,M,incomplete_elementary,718
+2013,Number,Olovo,M,incomplete_elementary,243
+2013,Number,Orasje,M,incomplete_elementary,1110
+2013,Number,pale-fbih,M,incomplete_elementary,25
+2013,Number,Posusje,M,incomplete_elementary,293
+2013,Number,Prozor,M,incomplete_elementary,528
+2013,Number,Ravno,M,incomplete_elementary,53
+2013,Number,Sanski Most,M,incomplete_elementary,849
+2013,Number,Sapna,M,incomplete_elementary,325
+2013,Number,Srebrenik,M,incomplete_elementary,1428
+2013,Number,stari_grad_sarajevo,M,incomplete_elementary,155
+2013,Number,Stolac,M,incomplete_elementary,278
+2013,Number,Siroki Brijeg,M,incomplete_elementary,538
+2013,Number,Teocak,M,incomplete_elementary,197
+2013,Number,Tesanj,M,incomplete_elementary,947
+2013,Number,Tomislavgrad,M,incomplete_elementary,803
+2013,Number,Travnik,M,incomplete_elementary,1567
+2013,Number,trnovo-fbih,M,incomplete_elementary,67
+2013,Number,Tuzla,M,incomplete_elementary,1450
+2013,Number,Usora,M,incomplete_elementary,178
+2013,Number,Vares,M,incomplete_elementary,264
+2013,Number,Velika Kladusa,M,incomplete_elementary,2005
+2013,Number,Visoko,M,incomplete_elementary,921
+2013,Number,Vitez,M,incomplete_elementary,481
+2013,Number,vogosca,M,incomplete_elementary,189
+2013,Number,Zavidovici,M,incomplete_elementary,1010
+2013,Number,Zenica,M,incomplete_elementary,1864
+2013,Number,Zepce,M,incomplete_elementary,743
+2013,Number,Zivinice,M,incomplete_elementary,1104
+2013,Number,Banovici,F,incomplete_elementary,1550
+2013,Number,Bihac,F,incomplete_elementary,2428
+2013,Number,Bosanska Krupa,F,incomplete_elementary,1677
+2013,Number,Bosanski Petrovac,F,incomplete_elementary,498
+2013,Number,Bosansko Grahovo,F,incomplete_elementary,228
+2013,Number,Breza,F,incomplete_elementary,986
+2013,Number,Bugojno,F,incomplete_elementary,1644
+2013,Number,Busovaca,F,incomplete_elementary,1133
+2013,Number,Buzim,F,incomplete_elementary,1172
+2013,Number,Cazin,F,incomplete_elementary,3618
+2013,Number,centar_sarajevo,F,incomplete_elementary,948
+2013,Number,Capljina,F,incomplete_elementary,1246
+2013,Number,Celic,F,incomplete_elementary,792
+2013,Number,Citluk,F,incomplete_elementary,749
+2013,Number,doboj-istok,F,incomplete_elementary,695
+2013,Number,doboj-jug,F,incomplete_elementary,205
+2013,Number,Dobretici,F,incomplete_elementary,69
+2013,Number,domaljevac-samac,F,incomplete_elementary,390
+2013,Number,Donji Vakuf,F,incomplete_elementary,938
+2013,Number,Drvar,F,incomplete_elementary,429
+2013,Number,foca-fbih,F,incomplete_elementary,154
+2013,Number,Fojnica,F,incomplete_elementary,903
+2013,Number,Glamoc,F,incomplete_elementary,297
+2013,Number,Gorazde,F,incomplete_elementary,1079
+2013,Number,gornji_vakuf-uskoplje,F,incomplete_elementary,1179
+2013,Number,Gracanica,F,incomplete_elementary,3383
+2013,Number,Gradacac,F,incomplete_elementary,3190
+2013,Number,Grude,F,incomplete_elementary,727
+2013,Number,hadzici,F,incomplete_elementary,1358
+2013,Number,ilidza,F,incomplete_elementary,2178
+2013,Number,ilijas,F,incomplete_elementary,1212
+2013,Number,Jablanica,F,incomplete_elementary,777
+2013,Number,Jajce,F,incomplete_elementary,2252
+2013,Number,Kakanj,F,incomplete_elementary,2883
+2013,Number,Kalesija,F,incomplete_elementary,2650
+2013,Number,Kiseljak,F,incomplete_elementary,1380
+2013,Number,Kladanj,F,incomplete_elementary,867
+2013,Number,Ključ,F,incomplete_elementary,980
+2013,Number,Konjic,F,incomplete_elementary,1887
+2013,Number,Kresevo,F,incomplete_elementary,339
+2013,Number,kupres-fbih,F,incomplete_elementary,251
+2013,Number,Livno,F,incomplete_elementary,2074
+2013,Number,Lukavac,F,incomplete_elementary,3291
+2013,Number,Ljubuski,F,incomplete_elementary,1658
+2013,Number,Maglaj,F,incomplete_elementary,1534
+2013,Number,Mostar,F,incomplete_elementary,3381
+2013,Number,Neum,F,incomplete_elementary,195
+2013,Number,novi_grad_sarajevo,F,incomplete_elementary,3323
+2013,Number,Novi Travnik,F,incomplete_elementary,1504
+2013,Number,novo_sarajevo,F,incomplete_elementary,1141
+2013,Number,Odzak,F,incomplete_elementary,1207
+2013,Number,Olovo,F,incomplete_elementary,879
+2013,Number,Orasje,F,incomplete_elementary,1689
+2013,Number,pale-fbih,F,incomplete_elementary,67
+2013,Number,Posusje,F,incomplete_elementary,571
+2013,Number,Prozor,F,incomplete_elementary,979
+2013,Number,Ravno,F,incomplete_elementary,153
+2013,Number,Sanski Most,F,incomplete_elementary,1662
+2013,Number,Sapna,F,incomplete_elementary,1042
+2013,Number,Srebrenik,F,incomplete_elementary,3237
+2013,Number,stari_grad_sarajevo,F,incomplete_elementary,865
+2013,Number,Stolac,F,incomplete_elementary,624
+2013,Number,Siroki Brijeg,F,incomplete_elementary,1239
+2013,Number,Teocak,F,incomplete_elementary,565
+2013,Number,Tesanj,F,incomplete_elementary,2278
+2013,Number,Tomislavgrad,F,incomplete_elementary,1487
+2013,Number,Travnik,F,incomplete_elementary,3821
+2013,Number,trnovo-fbih,F,incomplete_elementary,150
+2013,Number,Tuzla,F,incomplete_elementary,4778
+2013,Number,Usora,F,incomplete_elementary,300
+2013,Number,Vares,F,incomplete_elementary,1081
+2013,Number,Velika Kladusa,F,incomplete_elementary,3152
+2013,Number,Visoko,F,incomplete_elementary,2536
+2013,Number,Vitez,F,incomplete_elementary,1460
+2013,Number,vogosca,F,incomplete_elementary,926
+2013,Number,Zavidovici,F,incomplete_elementary,2308
+2013,Number,Zenica,F,incomplete_elementary,6683
+2013,Number,Zepce,F,incomplete_elementary,1744
+2013,Number,Zivinice,F,incomplete_elementary,4581
+2013,Number,Banovici,Both sexes,elementary_education,4419
+2013,Number,Bihac,Both sexes,elementary_education,11023
+2013,Number,Bosanska Krupa,Both sexes,elementary_education,6093
+2013,Number,Bosanski Petrovac,Both sexes,elementary_education,1564
+2013,Number,Bosansko Grahovo,Both sexes,elementary_education,425
+2013,Number,Breza,Both sexes,elementary_education,2276
+2013,Number,Bugojno,Both sexes,elementary_education,6364
+2013,Number,Busovaca,Both sexes,elementary_education,3490
+2013,Number,Buzim,Both sexes,elementary_education,5643
+2013,Number,Cazin,Both sexes,elementary_education,17120
+2013,Number,centar_sarajevo,Both sexes,elementary_education,5446
+2013,Number,Capljina,Both sexes,elementary_education,3780
+2013,Number,Celic,Both sexes,elementary_education,2884
+2013,Number,Citluk,Both sexes,elementary_education,2467
+2013,Number,doboj-istok,Both sexes,elementary_education,2026
+2013,Number,doboj-jug,Both sexes,elementary_education,854
+2013,Number,Dobretici,Both sexes,elementary_education,451
+2013,Number,domaljevac-samac,Both sexes,elementary_education,968
+2013,Number,Donji Vakuf,Both sexes,elementary_education,3250
+2013,Number,Drvar,Both sexes,elementary_education,1232
+2013,Number,foca-fbih,Both sexes,elementary_education,440
+2013,Number,Fojnica,Both sexes,elementary_education,2448
+2013,Number,Glamoc,Both sexes,elementary_education,781
+2013,Number,Gorazde,Both sexes,elementary_education,4197
+2013,Number,gornji_vakuf-uskoplje,Both sexes,elementary_education,4130
+2013,Number,Gracanica,Both sexes,elementary_education,9413
+2013,Number,Gradacac,Both sexes,elementary_education,9408
+2013,Number,Grude,Both sexes,elementary_education,2466
+2013,Number,hadzici,Both sexes,elementary_education,4317
+2013,Number,ilidza,Both sexes,elementary_education,9887
+2013,Number,ilijas,Both sexes,elementary_education,3968
+2013,Number,Jablanica,Both sexes,elementary_education,1662
+2013,Number,Jajce,Both sexes,elementary_education,4851
+2013,Number,Kakanj,Both sexes,elementary_education,7556
+2013,Number,Kalesija,Both sexes,elementary_education,6841
+2013,Number,Kiseljak,Both sexes,elementary_education,3616
+2013,Number,Kladanj,Both sexes,elementary_education,2730
+2013,Number,Ključ,Both sexes,elementary_education,3753
+2013,Number,Konjic,Both sexes,elementary_education,5206
+2013,Number,Kresevo,Both sexes,elementary_education,861
+2013,Number,kupres-fbih,Both sexes,elementary_education,714
+2013,Number,Livno,Both sexes,elementary_education,5245
+2013,Number,Lukavac,Both sexes,elementary_education,7860
+2013,Number,Ljubuski,Both sexes,elementary_education,3509
+2013,Number,Maglaj,Both sexes,elementary_education,4758
+2013,Number,Mostar,Both sexes,elementary_education,14243
+2013,Number,Neum,Both sexes,elementary_education,608
+2013,Number,novi_grad_sarajevo,Both sexes,elementary_education,15973
+2013,Number,Novi Travnik,Both sexes,elementary_education,4298
+2013,Number,novo_sarajevo,Both sexes,elementary_education,6456
+2013,Number,Odzak,Both sexes,elementary_education,3982
+2013,Number,Olovo,Both sexes,elementary_education,2421
+2013,Number,Orasje,Both sexes,elementary_education,4015
+2013,Number,pale-fbih,Both sexes,elementary_education,249
+2013,Number,Posusje,Both sexes,elementary_education,3149
+2013,Number,Prozor,Both sexes,elementary_education,2471
+2013,Number,Ravno,Both sexes,elementary_education,442
+2013,Number,Sanski Most,Both sexes,elementary_education,8907
+2013,Number,Sapna,Both sexes,elementary_education,2930
+2013,Number,Srebrenik,Both sexes,elementary_education,8593
+2013,Number,stari_grad_sarajevo,Both sexes,elementary_education,4518
+2013,Number,Stolac,Both sexes,elementary_education,2417
+2013,Number,Siroki Brijeg,Both sexes,elementary_education,3451
+2013,Number,Teocak,Both sexes,elementary_education,1846
+2013,Number,Tesanj,Both sexes,elementary_education,9991
+2013,Number,Tomislavgrad,Both sexes,elementary_education,5398
+2013,Number,Travnik,Both sexes,elementary_education,11614
+2013,Number,trnovo-fbih,Both sexes,elementary_education,290
+2013,Number,Tuzla,Both sexes,elementary_education,15907
+2013,Number,Usora,Both sexes,elementary_education,1370
+2013,Number,Vares,Both sexes,elementary_education,1649
+2013,Number,Velika Kladusa,Both sexes,elementary_education,11344
+2013,Number,Visoko,Both sexes,elementary_education,6961
+2013,Number,Vitez,Both sexes,elementary_education,4317
+2013,Number,vogosca,Both sexes,elementary_education,4100
+2013,Number,Zavidovici,Both sexes,elementary_education,7764
+2013,Number,Zenica,Both sexes,elementary_education,19375
+2013,Number,Zepce,Both sexes,elementary_education,6573
+2013,Number,Zivinice,Both sexes,elementary_education,11174
+2013,Number,Banovici,M,elementary_education,1488
+2013,Number,Bihac,M,elementary_education,4692
+2013,Number,Bosanska Krupa,M,elementary_education,2713
+2013,Number,Bosanski Petrovac,M,elementary_education,752
+2013,Number,Bosansko Grahovo,M,elementary_education,197
+2013,Number,Breza,M,elementary_education,816
+2013,Number,Bugojno,M,elementary_education,2713
+2013,Number,Busovaca,M,elementary_education,1485
+2013,Number,Buzim,M,elementary_education,2656
+2013,Number,Cazin,M,elementary_education,7667
+2013,Number,centar_sarajevo,M,elementary_education,1889
+2013,Number,Capljina,M,elementary_education,1561
+2013,Number,Celic,M,elementary_education,1313
+2013,Number,Citluk,M,elementary_education,1072
+2013,Number,doboj-istok,M,elementary_education,863
+2013,Number,doboj-jug,M,elementary_education,346
+2013,Number,Dobretici,M,elementary_education,245
+2013,Number,domaljevac-samac,M,elementary_education,488
+2013,Number,Donji Vakuf,M,elementary_education,1432
+2013,Number,Drvar,M,elementary_education,466
+2013,Number,foca-fbih,M,elementary_education,202
+2013,Number,Fojnica,M,elementary_education,1059
+2013,Number,Glamoc,M,elementary_education,357
+2013,Number,Gorazde,M,elementary_education,1544
+2013,Number,gornji_vakuf-uskoplje,M,elementary_education,1925
+2013,Number,Gracanica,M,elementary_education,3765
+2013,Number,Gradacac,M,elementary_education,4069
+2013,Number,Grude,M,elementary_education,1172
+2013,Number,hadzici,M,elementary_education,1641
+2013,Number,ilidza,M,elementary_education,3476
+2013,Number,ilijas,M,elementary_education,1526
+2013,Number,Jablanica,M,elementary_education,638
+2013,Number,Jajce,M,elementary_education,2227
+2013,Number,Kakanj,M,elementary_education,2703
+2013,Number,Kalesija,M,elementary_education,2869
+2013,Number,Kiseljak,M,elementary_education,1573
+2013,Number,Kladanj,M,elementary_education,1070
+2013,Number,Ključ,M,elementary_education,1778
+2013,Number,Konjic,M,elementary_education,2205
+2013,Number,Kresevo,M,elementary_education,335
+2013,Number,kupres-fbih,M,elementary_education,358
+2013,Number,Livno,M,elementary_education,2491
+2013,Number,Lukavac,M,elementary_education,2992
+2013,Number,Ljubuski,M,elementary_education,1694
+2013,Number,Maglaj,M,elementary_education,1890
+2013,Number,Mostar,M,elementary_education,5501
+2013,Number,Neum,M,elementary_education,281
+2013,Number,novi_grad_sarajevo,M,elementary_education,5492
+2013,Number,Novi Travnik,M,elementary_education,1682
+2013,Number,novo_sarajevo,M,elementary_education,2258
+2013,Number,Odzak,M,elementary_education,1870
+2013,Number,Olovo,M,elementary_education,963
+2013,Number,Orasje,M,elementary_education,1958
+2013,Number,pale-fbih,M,elementary_education,93
+2013,Number,Posusje,M,elementary_education,1558
+2013,Number,Prozor,M,elementary_education,1244
+2013,Number,Ravno,M,elementary_education,204
+2013,Number,Sanski Most,M,elementary_education,3935
+2013,Number,Sapna,M,elementary_education,1457
+2013,Number,Srebrenik,M,elementary_education,3715
+2013,Number,stari_grad_sarajevo,M,elementary_education,1634
+2013,Number,Stolac,M,elementary_education,980
+2013,Number,Siroki Brijeg,M,elementary_education,1633
+2013,Number,Teocak,M,elementary_education,823
+2013,Number,Tesanj,M,elementary_education,4192
+2013,Number,Tomislavgrad,M,elementary_education,2765
+2013,Number,Travnik,M,elementary_education,5002
+2013,Number,trnovo-fbih,M,elementary_education,124
+2013,Number,Tuzla,M,elementary_education,6043
+2013,Number,Usora,M,elementary_education,603
+2013,Number,Vares,M,elementary_education,623
+2013,Number,Velika Kladusa,M,elementary_education,5360
+2013,Number,Visoko,M,elementary_education,3040
+2013,Number,Vitez,M,elementary_education,1713
+2013,Number,vogosca,M,elementary_education,1387
+2013,Number,Zavidovici,M,elementary_education,2812
+2013,Number,Zenica,M,elementary_education,7484
+2013,Number,Zepce,M,elementary_education,2813
+2013,Number,Zivinice,M,elementary_education,4423
+2013,Number,Banovici,F,elementary_education,2931
+2013,Number,Bihac,F,elementary_education,6331
+2013,Number,Bosanska Krupa,F,elementary_education,3380
+2013,Number,Bosanski Petrovac,F,elementary_education,812
+2013,Number,Bosansko Grahovo,F,elementary_education,228
+2013,Number,Breza,F,elementary_education,1460
+2013,Number,Bugojno,F,elementary_education,3651
+2013,Number,Busovaca,F,elementary_education,2005
+2013,Number,Buzim,F,elementary_education,2987
+2013,Number,Cazin,F,elementary_education,9453
+2013,Number,centar_sarajevo,F,elementary_education,3557
+2013,Number,Capljina,F,elementary_education,2219
+2013,Number,Celic,F,elementary_education,1571
+2013,Number,Citluk,F,elementary_education,1395
+2013,Number,doboj-istok,F,elementary_education,1163
+2013,Number,doboj-jug,F,elementary_education,508
+2013,Number,Dobretici,F,elementary_education,206
+2013,Number,domaljevac-samac,F,elementary_education,480
+2013,Number,Donji Vakuf,F,elementary_education,1818
+2013,Number,Drvar,F,elementary_education,766
+2013,Number,foca-fbih,F,elementary_education,238
+2013,Number,Fojnica,F,elementary_education,1389
+2013,Number,Glamoc,F,elementary_education,424
+2013,Number,Gorazde,F,elementary_education,2653
+2013,Number,gornji_vakuf-uskoplje,F,elementary_education,2205
+2013,Number,Gracanica,F,elementary_education,5648
+2013,Number,Gradacac,F,elementary_education,5339
+2013,Number,Grude,F,elementary_education,1294
+2013,Number,hadzici,F,elementary_education,2676
+2013,Number,ilidza,F,elementary_education,6411
+2013,Number,ilijas,F,elementary_education,2442
+2013,Number,Jablanica,F,elementary_education,1024
+2013,Number,Jajce,F,elementary_education,2624
+2013,Number,Kakanj,F,elementary_education,4853
+2013,Number,Kalesija,F,elementary_education,3972
+2013,Number,Kiseljak,F,elementary_education,2043
+2013,Number,Kladanj,F,elementary_education,1660
+2013,Number,Ključ,F,elementary_education,1975
+2013,Number,Konjic,F,elementary_education,3001
+2013,Number,Kresevo,F,elementary_education,526
+2013,Number,kupres-fbih,F,elementary_education,356
+2013,Number,Livno,F,elementary_education,2754
+2013,Number,Lukavac,F,elementary_education,4868
+2013,Number,Ljubuski,F,elementary_education,1815
+2013,Number,Maglaj,F,elementary_education,2868
+2013,Number,Mostar,F,elementary_education,8742
+2013,Number,Neum,F,elementary_education,327
+2013,Number,novi_grad_sarajevo,F,elementary_education,10481
+2013,Number,Novi Travnik,F,elementary_education,2616
+2013,Number,novo_sarajevo,F,elementary_education,4198
+2013,Number,Odzak,F,elementary_education,2112
+2013,Number,Olovo,F,elementary_education,1458
+2013,Number,Orasje,F,elementary_education,2057
+2013,Number,pale-fbih,F,elementary_education,156
+2013,Number,Posusje,F,elementary_education,1591
+2013,Number,Prozor,F,elementary_education,1227
+2013,Number,Ravno,F,elementary_education,238
+2013,Number,Sanski Most,F,elementary_education,4972
+2013,Number,Sapna,F,elementary_education,1473
+2013,Number,Srebrenik,F,elementary_education,4878
+2013,Number,stari_grad_sarajevo,F,elementary_education,2884
+2013,Number,Stolac,F,elementary_education,1437
+2013,Number,Siroki Brijeg,F,elementary_education,1818
+2013,Number,Teocak,F,elementary_education,1023
+2013,Number,Tesanj,F,elementary_education,5799
+2013,Number,Tomislavgrad,F,elementary_education,2633
+2013,Number,Travnik,F,elementary_education,6612
+2013,Number,trnovo-fbih,F,elementary_education,166
+2013,Number,Tuzla,F,elementary_education,9864
+2013,Number,Usora,F,elementary_education,767
+2013,Number,Vares,F,elementary_education,1026
+2013,Number,Velika Kladusa,F,elementary_education,5984
+2013,Number,Visoko,F,elementary_education,3921
+2013,Number,Vitez,F,elementary_education,2604
+2013,Number,vogosca,F,elementary_education,2713
+2013,Number,Zavidovici,F,elementary_education,4952
+2013,Number,Zenica,F,elementary_education,11891
+2013,Number,Zepce,F,elementary_education,3760
+2013,Number,Zivinice,F,elementary_education,6751
+2013,Number,Banovici,Both sexes,secondary_education,10567
+2013,Number,Bihac,Both sexes,secondary_education,22893
+2013,Number,Bosanska Krupa,Both sexes,secondary_education,8892
+2013,Number,Bosanski Petrovac,Both sexes,secondary_education,3060
+2013,Number,Bosansko Grahovo,Both sexes,secondary_education,1116
+2013,Number,Breza,Both sexes,secondary_education,6653
+2013,Number,Bugojno,Both sexes,secondary_education,13972
+2013,Number,Busovaca,Both sexes,secondary_education,7814
+2013,Number,Buzim,Both sexes,secondary_education,5704
+2013,Number,Cazin,Both sexes,secondary_education,23905
+2013,Number,centar_sarajevo,Both sexes,secondary_education,22213
+2013,Number,Capljina,Both sexes,secondary_education,12475
+2013,Number,Celic,Both sexes,secondary_education,3489
+2013,Number,Citluk,Both sexes,secondary_education,8453
+2013,Number,doboj-istok,Both sexes,secondary_education,4280
+2013,Number,doboj-jug,Both sexes,secondary_education,1864
+2013,Number,Dobretici,Both sexes,secondary_education,651
+2013,Number,domaljevac-samac,Both sexes,secondary_education,1754
+2013,Number,Donji Vakuf,Both sexes,secondary_education,5494
+2013,Number,Drvar,Both sexes,secondary_education,3594
+2013,Number,foca-fbih,Both sexes,secondary_education,748
+2013,Number,Fojnica,Both sexes,secondary_education,4766
+2013,Number,Glamoc,Both sexes,secondary_education,1572
+2013,Number,Gorazde,Both sexes,secondary_education,9103
+2013,Number,gornji_vakuf-uskoplje,Both sexes,secondary_education,8817
+2013,Number,Gracanica,Both sexes,secondary_education,18522
+2013,Number,Gradacac,Both sexes,secondary_education,14750
+2013,Number,Grude,Both sexes,secondary_education,7830
+2013,Number,hadzici,Both sexes,secondary_education,10861
+2013,Number,ilidza,Both sexes,secondary_education,31683
+2013,Number,ilijas,Both sexes,secondary_education,8352
+2013,Number,Jablanica,Both sexes,secondary_education,4565
+2013,Number,Jajce,Both sexes,secondary_education,11293
+2013,Number,Kakanj,Both sexes,secondary_education,15259
+2013,Number,Kalesija,Both sexes,secondary_education,13592
+2013,Number,Kiseljak,Both sexes,secondary_education,9291
+2013,Number,Kladanj,Both sexes,secondary_education,5276
+2013,Number,Ključ,Both sexes,secondary_education,6950
+2013,Number,Konjic,Both sexes,secondary_education,9767
+2013,Number,Kresevo,Both sexes,secondary_education,2391
+2013,Number,kupres-fbih,Both sexes,secondary_education,2154
+2013,Number,Livno,Both sexes,secondary_education,14513
+2013,Number,Lukavac,Both sexes,secondary_education,20955
+2013,Number,Ljubuski,Both sexes,secondary_education,12685
+2013,Number,Maglaj,Both sexes,secondary_education,10053
+2013,Number,Mostar,Both sexes,secondary_education,50196
+2013,Number,Neum,Both sexes,secondary_education,2092
+2013,Number,novi_grad_sarajevo,Both sexes,secondary_education,55560
+2013,Number,Novi Travnik,Both sexes,secondary_education,10488
+2013,Number,novo_sarajevo,Both sexes,secondary_education,27377
+2013,Number,Odzak,Both sexes,secondary_education,8118
+2013,Number,Olovo,Both sexes,secondary_education,4040
+2013,Number,Orasje,Both sexes,secondary_education,7596
+2013,Number,pale-fbih,Both sexes,secondary_education,322
+2013,Number,Posusje,Both sexes,secondary_education,9020
+2013,Number,Prozor,Both sexes,secondary_education,5640
+2013,Number,Ravno,Both sexes,secondary_education,1588
+2013,Number,Sanski Most,Both sexes,secondary_education,18955
+2013,Number,Sapna,Both sexes,secondary_education,3667
+2013,Number,Srebrenik,Both sexes,secondary_education,15295
+2013,Number,stari_grad_sarajevo,Both sexes,secondary_education,18034
+2013,Number,Stolac,Both sexes,secondary_education,6576
+2013,Number,Siroki Brijeg,Both sexes,secondary_education,13451
+2013,Number,Teocak,Both sexes,secondary_education,2938
+2013,Number,Tesanj,Both sexes,secondary_education,17257
+2013,Number,Tomislavgrad,Both sexes,secondary_education,13379
+2013,Number,Travnik,Both sexes,secondary_education,20889
+2013,Number,trnovo-fbih,Both sexes,secondary_education,549
+2013,Number,Tuzla,Both sexes,secondary_education,52917
+2013,Number,Usora,Both sexes,secondary_education,3000
+2013,Number,Vares,Both sexes,secondary_education,3914
+2013,Number,Velika Kladusa,Both sexes,secondary_education,11477
+2013,Number,Visoko,Both sexes,secondary_education,17614
+2013,Number,Vitez,Both sexes,secondary_education,11791
+2013,Number,vogosca,Both sexes,secondary_education,12299
+2013,Number,Zavidovici,Both sexes,secondary_education,15051
+2013,Number,Zenica,Both sexes,secondary_education,49301
+2013,Number,Zepce,Both sexes,secondary_education,12585
+2013,Number,Zivinice,Both sexes,secondary_education,24753
+2013,Number,Banovici,M,secondary_education,6668
+2013,Number,Bihac,M,secondary_education,12626
+2013,Number,Bosanska Krupa,M,secondary_education,5304
+2013,Number,Bosanski Petrovac,M,secondary_education,1784
+2013,Number,Bosansko Grahovo,M,secondary_education,711
+2013,Number,Breza,M,secondary_education,4058
+2013,Number,Bugojno,M,secondary_education,8010
+2013,Number,Busovaca,M,secondary_education,4855
+2013,Number,Buzim,M,secondary_education,3639
+2013,Number,Cazin,M,secondary_education,14381
+2013,Number,centar_sarajevo,M,secondary_education,10885
+2013,Number,Capljina,M,secondary_education,7100
+2013,Number,Celic,M,secondary_education,2141
+2013,Number,Citluk,M,secondary_education,4733
+2013,Number,doboj-istok,M,secondary_education,2556
+2013,Number,doboj-jug,M,secondary_education,1111
+2013,Number,Dobretici,M,secondary_education,430
+2013,Number,domaljevac-samac,M,secondary_education,973
+2013,Number,Donji Vakuf,M,secondary_education,3313
+2013,Number,Drvar,M,secondary_education,2098
+2013,Number,foca-fbih,M,secondary_education,486
+2013,Number,Fojnica,M,secondary_education,2861
+2013,Number,Glamoc,M,secondary_education,963
+2013,Number,Gorazde,M,secondary_education,5252
+2013,Number,gornji_vakuf-uskoplje,M,secondary_education,5192
+2013,Number,Gracanica,M,secondary_education,10727
+2013,Number,Gradacac,M,secondary_education,8767
+2013,Number,Grude,M,secondary_education,4306
+2013,Number,hadzici,M,secondary_education,6625
+2013,Number,ilidza,M,secondary_education,17593
+2013,Number,ilijas,M,secondary_education,4982
+2013,Number,Jablanica,M,secondary_education,2795
+2013,Number,Jajce,M,secondary_education,7050
+2013,Number,Kakanj,M,secondary_education,9882
+2013,Number,Kalesija,M,secondary_education,8660
+2013,Number,Kiseljak,M,secondary_education,5495
+2013,Number,Kladanj,M,secondary_education,3206
+2013,Number,Ključ,M,secondary_education,4083
+2013,Number,Konjic,M,secondary_education,5937
+2013,Number,Kresevo,M,secondary_education,1416
+2013,Number,kupres-fbih,M,secondary_education,1159
+2013,Number,Livno,M,secondary_education,8114
+2013,Number,Lukavac,M,secondary_education,12568
+2013,Number,Ljubuski,M,secondary_education,6924
+2013,Number,Maglaj,M,secondary_education,5969
+2013,Number,Mostar,M,secondary_education,27372
+2013,Number,Neum,M,secondary_education,1157
+2013,Number,novi_grad_sarajevo,M,secondary_education,29274
+2013,Number,Novi Travnik,M,secondary_education,6287
+2013,Number,novo_sarajevo,M,secondary_education,13288
+2013,Number,Odzak,M,secondary_education,4533
+2013,Number,Olovo,M,secondary_education,2667
+2013,Number,Orasje,M,secondary_education,4325
+2013,Number,pale-fbih,M,secondary_education,222
+2013,Number,Posusje,M,secondary_education,5026
+2013,Number,Prozor,M,secondary_education,3308
+2013,Number,Ravno,M,secondary_education,910
+2013,Number,Sanski Most,M,secondary_education,11103
+2013,Number,Sapna,M,secondary_education,2509
+2013,Number,Srebrenik,M,secondary_education,9129
+2013,Number,stari_grad_sarajevo,M,secondary_education,9459
+2013,Number,Stolac,M,secondary_education,3873
+2013,Number,Siroki Brijeg,M,secondary_education,7390
+2013,Number,Teocak,M,secondary_education,1891
+2013,Number,Tesanj,M,secondary_education,10235
+2013,Number,Tomislavgrad,M,secondary_education,7566
+2013,Number,Travnik,M,secondary_education,12467
+2013,Number,trnovo-fbih,M,secondary_education,391
+2013,Number,Tuzla,M,secondary_education,28217
+2013,Number,Usora,M,secondary_education,1756
+2013,Number,Vares,M,secondary_education,2521
+2013,Number,Velika Kladusa,M,secondary_education,6766
+2013,Number,Visoko,M,secondary_education,10178
+2013,Number,Vitez,M,secondary_education,6815
+2013,Number,vogosca,M,secondary_education,6798
+2013,Number,Zavidovici,M,secondary_education,9485
+2013,Number,Zenica,M,secondary_education,28605
+2013,Number,Zepce,M,secondary_education,7714
+2013,Number,Zivinice,M,secondary_education,15656
+2013,Number,Banovici,F,secondary_education,3899
+2013,Number,Bihac,F,secondary_education,10267
+2013,Number,Bosanska Krupa,F,secondary_education,3588
+2013,Number,Bosanski Petrovac,F,secondary_education,1276
+2013,Number,Bosansko Grahovo,F,secondary_education,405
+2013,Number,Breza,F,secondary_education,2595
+2013,Number,Bugojno,F,secondary_education,5962
+2013,Number,Busovaca,F,secondary_education,2959
+2013,Number,Buzim,F,secondary_education,2065
+2013,Number,Cazin,F,secondary_education,9524
+2013,Number,centar_sarajevo,F,secondary_education,11328
+2013,Number,Capljina,F,secondary_education,5375
+2013,Number,Celic,F,secondary_education,1348
+2013,Number,Citluk,F,secondary_education,3720
+2013,Number,doboj-istok,F,secondary_education,1724
+2013,Number,doboj-jug,F,secondary_education,753
+2013,Number,Dobretici,F,secondary_education,221
+2013,Number,domaljevac-samac,F,secondary_education,781
+2013,Number,Donji Vakuf,F,secondary_education,2181
+2013,Number,Drvar,F,secondary_education,1496
+2013,Number,foca-fbih,F,secondary_education,262
+2013,Number,Fojnica,F,secondary_education,1905
+2013,Number,Glamoc,F,secondary_education,609
+2013,Number,Gorazde,F,secondary_education,3851
+2013,Number,gornji_vakuf-uskoplje,F,secondary_education,3625
+2013,Number,Gracanica,F,secondary_education,7795
+2013,Number,Gradacac,F,secondary_education,5983
+2013,Number,Grude,F,secondary_education,3524
+2013,Number,hadzici,F,secondary_education,4236
+2013,Number,ilidza,F,secondary_education,14090
+2013,Number,ilijas,F,secondary_education,3370
+2013,Number,Jablanica,F,secondary_education,1770
+2013,Number,Jajce,F,secondary_education,4243
+2013,Number,Kakanj,F,secondary_education,5377
+2013,Number,Kalesija,F,secondary_education,4932
+2013,Number,Kiseljak,F,secondary_education,3796
+2013,Number,Kladanj,F,secondary_education,2070
+2013,Number,Ključ,F,secondary_education,2867
+2013,Number,Konjic,F,secondary_education,3830
+2013,Number,Kresevo,F,secondary_education,975
+2013,Number,kupres-fbih,F,secondary_education,995
+2013,Number,Livno,F,secondary_education,6399
+2013,Number,Lukavac,F,secondary_education,8387
+2013,Number,Ljubuski,F,secondary_education,5761
+2013,Number,Maglaj,F,secondary_education,4084
+2013,Number,Mostar,F,secondary_education,22824
+2013,Number,Neum,F,secondary_education,935
+2013,Number,novi_grad_sarajevo,F,secondary_education,26286
+2013,Number,Novi Travnik,F,secondary_education,4201
+2013,Number,novo_sarajevo,F,secondary_education,14089
+2013,Number,Odzak,F,secondary_education,3585
+2013,Number,Olovo,F,secondary_education,1373
+2013,Number,Orasje,F,secondary_education,3271
+2013,Number,pale-fbih,F,secondary_education,100
+2013,Number,Posusje,F,secondary_education,3994
+2013,Number,Prozor,F,secondary_education,2332
+2013,Number,Ravno,F,secondary_education,678
+2013,Number,Sanski Most,F,secondary_education,7852
+2013,Number,Sapna,F,secondary_education,1158
+2013,Number,Srebrenik,F,secondary_education,6166
+2013,Number,stari_grad_sarajevo,F,secondary_education,8575
+2013,Number,Stolac,F,secondary_education,2703
+2013,Number,Siroki Brijeg,F,secondary_education,6061
+2013,Number,Teocak,F,secondary_education,1047
+2013,Number,Tesanj,F,secondary_education,7022
+2013,Number,Tomislavgrad,F,secondary_education,5813
+2013,Number,Travnik,F,secondary_education,8422
+2013,Number,trnovo-fbih,F,secondary_education,158
+2013,Number,Tuzla,F,secondary_education,24700
+2013,Number,Usora,F,secondary_education,1244
+2013,Number,Vares,F,secondary_education,1393
+2013,Number,Velika Kladusa,F,secondary_education,4711
+2013,Number,Visoko,F,secondary_education,7436
+2013,Number,Vitez,F,secondary_education,4976
+2013,Number,vogosca,F,secondary_education,5501
+2013,Number,Zavidovici,F,secondary_education,5566
+2013,Number,Zenica,F,secondary_education,20696
+2013,Number,Zepce,F,secondary_education,4871
+2013,Number,Zivinice,F,secondary_education,9097
+2013,Number,Banovici,Both sexes,secondary_specialization,150
+2013,Number,Bihac,Both sexes,secondary_specialization,216
+2013,Number,Bosanska Krupa,Both sexes,secondary_specialization,64
+2013,Number,Bosanski Petrovac,Both sexes,secondary_specialization,16
+2013,Number,Bosansko Grahovo,Both sexes,secondary_specialization,3
+2013,Number,Breza,Both sexes,secondary_specialization,111
+2013,Number,Bugojno,Both sexes,secondary_specialization,114
+2013,Number,Busovaca,Both sexes,secondary_specialization,104
+2013,Number,Buzim,Both sexes,secondary_specialization,39
+2013,Number,Cazin,Both sexes,secondary_specialization,140
+2013,Number,centar_sarajevo,Both sexes,secondary_specialization,282
+2013,Number,Capljina,Both sexes,secondary_specialization,130
+2013,Number,Celic,Both sexes,secondary_specialization,16
+2013,Number,Citluk,Both sexes,secondary_specialization,84
+2013,Number,doboj-istok,Both sexes,secondary_specialization,24
+2013,Number,doboj-jug,Both sexes,secondary_specialization,23
+2013,Number,Dobretici,Both sexes,secondary_specialization,1
+2013,Number,domaljevac-samac,Both sexes,secondary_specialization,30
+2013,Number,Donji Vakuf,Both sexes,secondary_specialization,24
+2013,Number,Drvar,Both sexes,secondary_specialization,32
+2013,Number,foca-fbih,Both sexes,secondary_specialization,11
+2013,Number,Fojnica,Both sexes,secondary_specialization,42
+2013,Number,Glamoc,Both sexes,secondary_specialization,13
+2013,Number,Gorazde,Both sexes,secondary_specialization,190
+2013,Number,gornji_vakuf-uskoplje,Both sexes,secondary_specialization,30
+2013,Number,Gracanica,Both sexes,secondary_specialization,189
+2013,Number,Gradacac,Both sexes,secondary_specialization,136
+2013,Number,Grude,Both sexes,secondary_specialization,75
+2013,Number,hadzici,Both sexes,secondary_specialization,89
+2013,Number,ilidza,Both sexes,secondary_specialization,375
+2013,Number,ilijas,Both sexes,secondary_specialization,97
+2013,Number,Jablanica,Both sexes,secondary_specialization,133
+2013,Number,Jajce,Both sexes,secondary_specialization,113
+2013,Number,Kakanj,Both sexes,secondary_specialization,313
+2013,Number,Kalesija,Both sexes,secondary_specialization,115
+2013,Number,Kiseljak,Both sexes,secondary_specialization,80
+2013,Number,Kladanj,Both sexes,secondary_specialization,24
+2013,Number,Ključ,Both sexes,secondary_specialization,74
+2013,Number,Konjic,Both sexes,secondary_specialization,144
+2013,Number,Kresevo,Both sexes,secondary_specialization,22
+2013,Number,kupres-fbih,Both sexes,secondary_specialization,11
+2013,Number,Livno,Both sexes,secondary_specialization,164
+2013,Number,Lukavac,Both sexes,secondary_specialization,517
+2013,Number,Ljubuski,Both sexes,secondary_specialization,138
+2013,Number,Maglaj,Both sexes,secondary_specialization,208
+2013,Number,Mostar,Both sexes,secondary_specialization,698
+2013,Number,Neum,Both sexes,secondary_specialization,53
+2013,Number,novi_grad_sarajevo,Both sexes,secondary_specialization,665
+2013,Number,Novi Travnik,Both sexes,secondary_specialization,335
+2013,Number,novo_sarajevo,Both sexes,secondary_specialization,446
+2013,Number,Odzak,Both sexes,secondary_specialization,94
+2013,Number,Olovo,Both sexes,secondary_specialization,32
+2013,Number,Orasje,Both sexes,secondary_specialization,76
+2013,Number,pale-fbih,Both sexes,secondary_specialization,4
+2013,Number,Posusje,Both sexes,secondary_specialization,103
+2013,Number,Prozor,Both sexes,secondary_specialization,25
+2013,Number,Ravno,Both sexes,secondary_specialization,6
+2013,Number,Sanski Most,Both sexes,secondary_specialization,207
+2013,Number,Sapna,Both sexes,secondary_specialization,11
+2013,Number,Srebrenik,Both sexes,secondary_specialization,145
+2013,Number,stari_grad_sarajevo,Both sexes,secondary_specialization,238
+2013,Number,Stolac,Both sexes,secondary_specialization,74
+2013,Number,Siroki Brijeg,Both sexes,secondary_specialization,71
+2013,Number,Teocak,Both sexes,secondary_specialization,20
+2013,Number,Tesanj,Both sexes,secondary_specialization,271
+2013,Number,Tomislavgrad,Both sexes,secondary_specialization,74
+2013,Number,Travnik,Both sexes,secondary_specialization,248
+2013,Number,trnovo-fbih,Both sexes,secondary_specialization,13
+2013,Number,Tuzla,Both sexes,secondary_specialization,1125
+2013,Number,Usora,Both sexes,secondary_specialization,42
+2013,Number,Vares,Both sexes,secondary_specialization,88
+2013,Number,Velika Kladusa,Both sexes,secondary_specialization,71
+2013,Number,Visoko,Both sexes,secondary_specialization,226
+2013,Number,Vitez,Both sexes,secondary_specialization,208
+2013,Number,vogosca,Both sexes,secondary_specialization,180
+2013,Number,Zavidovici,Both sexes,secondary_specialization,152
+2013,Number,Zenica,Both sexes,secondary_specialization,1966
+2013,Number,Zepce,Both sexes,secondary_specialization,161
+2013,Number,Zivinice,Both sexes,secondary_specialization,220
+2013,Number,Banovici,M,secondary_specialization,142
+2013,Number,Bihac,M,secondary_specialization,181
+2013,Number,Bosanska Krupa,M,secondary_specialization,45
+2013,Number,Bosanski Petrovac,M,secondary_specialization,13
+2013,Number,Bosansko Grahovo,M,secondary_specialization,3
+2013,Number,Breza,M,secondary_specialization,101
+2013,Number,Bugojno,M,secondary_specialization,85
+2013,Number,Busovaca,M,secondary_specialization,94
+2013,Number,Buzim,M,secondary_specialization,18
+2013,Number,Cazin,M,secondary_specialization,99
+2013,Number,centar_sarajevo,M,secondary_specialization,220
+2013,Number,Capljina,M,secondary_specialization,96
+2013,Number,Celic,M,secondary_specialization,14
+2013,Number,Citluk,M,secondary_specialization,61
+2013,Number,doboj-istok,M,secondary_specialization,20
+2013,Number,doboj-jug,M,secondary_specialization,21
+2013,Number,Dobretici,M,secondary_specialization,1
+2013,Number,domaljevac-samac,M,secondary_specialization,19
+2013,Number,Donji Vakuf,M,secondary_specialization,19
+2013,Number,Drvar,M,secondary_specialization,27
+2013,Number,foca-fbih,M,secondary_specialization,8
+2013,Number,Fojnica,M,secondary_specialization,36
+2013,Number,Glamoc,M,secondary_specialization,10
+2013,Number,Gorazde,M,secondary_specialization,163
+2013,Number,gornji_vakuf-uskoplje,M,secondary_specialization,25
+2013,Number,Gracanica,M,secondary_specialization,175
+2013,Number,Gradacac,M,secondary_specialization,105
+2013,Number,Grude,M,secondary_specialization,50
+2013,Number,hadzici,M,secondary_specialization,74
+2013,Number,ilidza,M,secondary_specialization,311
+2013,Number,ilijas,M,secondary_specialization,82
+2013,Number,Jablanica,M,secondary_specialization,127
+2013,Number,Jajce,M,secondary_specialization,86
+2013,Number,Kakanj,M,secondary_specialization,295
+2013,Number,Kalesija,M,secondary_specialization,94
+2013,Number,Kiseljak,M,secondary_specialization,71
+2013,Number,Kladanj,M,secondary_specialization,16
+2013,Number,Ključ,M,secondary_specialization,51
+2013,Number,Konjic,M,secondary_specialization,130
+2013,Number,Kresevo,M,secondary_specialization,19
+2013,Number,kupres-fbih,M,secondary_specialization,8
+2013,Number,Livno,M,secondary_specialization,104
+2013,Number,Lukavac,M,secondary_specialization,478
+2013,Number,Ljubuski,M,secondary_specialization,83
+2013,Number,Maglaj,M,secondary_specialization,173
+2013,Number,Mostar,M,secondary_specialization,555
+2013,Number,Neum,M,secondary_specialization,45
+2013,Number,novi_grad_sarajevo,M,secondary_specialization,539
+2013,Number,Novi Travnik,M,secondary_specialization,301
+2013,Number,novo_sarajevo,M,secondary_specialization,346
+2013,Number,Odzak,M,secondary_specialization,70
+2013,Number,Olovo,M,secondary_specialization,27
+2013,Number,Orasje,M,secondary_specialization,57
+2013,Number,pale-fbih,M,secondary_specialization,4
+2013,Number,Posusje,M,secondary_specialization,69
+2013,Number,Prozor,M,secondary_specialization,17
+2013,Number,Ravno,M,secondary_specialization,4
+2013,Number,Sanski Most,M,secondary_specialization,128
+2013,Number,Sapna,M,secondary_specialization,8
+2013,Number,Srebrenik,M,secondary_specialization,124
+2013,Number,stari_grad_sarajevo,M,secondary_specialization,197
+2013,Number,Stolac,M,secondary_specialization,63
+2013,Number,Siroki Brijeg,M,secondary_specialization,55
+2013,Number,Teocak,M,secondary_specialization,16
+2013,Number,Tesanj,M,secondary_specialization,236
+2013,Number,Tomislavgrad,M,secondary_specialization,46
+2013,Number,Travnik,M,secondary_specialization,211
+2013,Number,trnovo-fbih,M,secondary_specialization,11
+2013,Number,Tuzla,M,secondary_specialization,933
+2013,Number,Usora,M,secondary_specialization,32
+2013,Number,Vares,M,secondary_specialization,82
+2013,Number,Velika Kladusa,M,secondary_specialization,48
+2013,Number,Visoko,M,secondary_specialization,200
+2013,Number,Vitez,M,secondary_specialization,184
+2013,Number,vogosca,M,secondary_specialization,158
+2013,Number,Zavidovici,M,secondary_specialization,119
+2013,Number,Zenica,M,secondary_specialization,1728
+2013,Number,Zepce,M,secondary_specialization,139
+2013,Number,Zivinice,M,secondary_specialization,200
+2013,Number,Banovici,F,secondary_specialization,8
+2013,Number,Bihac,F,secondary_specialization,35
+2013,Number,Bosanska Krupa,F,secondary_specialization,19
+2013,Number,Bosanski Petrovac,F,secondary_specialization,3
+2013,Number,Bosansko Grahovo,F,secondary_specialization,0
+2013,Number,Breza,F,secondary_specialization,10
+2013,Number,Bugojno,F,secondary_specialization,29
+2013,Number,Busovaca,F,secondary_specialization,10
+2013,Number,Buzim,F,secondary_specialization,21
+2013,Number,Cazin,F,secondary_specialization,41
+2013,Number,centar_sarajevo,F,secondary_specialization,62
+2013,Number,Capljina,F,secondary_specialization,34
+2013,Number,Celic,F,secondary_specialization,2
+2013,Number,Citluk,F,secondary_specialization,23
+2013,Number,doboj-istok,F,secondary_specialization,4
+2013,Number,doboj-jug,F,secondary_specialization,2
+2013,Number,Dobretici,F,secondary_specialization,0
+2013,Number,domaljevac-samac,F,secondary_specialization,11
+2013,Number,Donji Vakuf,F,secondary_specialization,5
+2013,Number,Drvar,F,secondary_specialization,5
+2013,Number,foca-fbih,F,secondary_specialization,3
+2013,Number,Fojnica,F,secondary_specialization,6
+2013,Number,Glamoc,F,secondary_specialization,3
+2013,Number,Gorazde,F,secondary_specialization,27
+2013,Number,gornji_vakuf-uskoplje,F,secondary_specialization,5
+2013,Number,Gracanica,F,secondary_specialization,14
+2013,Number,Gradacac,F,secondary_specialization,31
+2013,Number,Grude,F,secondary_specialization,25
+2013,Number,hadzici,F,secondary_specialization,15
+2013,Number,ilidza,F,secondary_specialization,64
+2013,Number,ilijas,F,secondary_specialization,15
+2013,Number,Jablanica,F,secondary_specialization,6
+2013,Number,Jajce,F,secondary_specialization,27
+2013,Number,Kakanj,F,secondary_specialization,18
+2013,Number,Kalesija,F,secondary_specialization,21
+2013,Number,Kiseljak,F,secondary_specialization,9
+2013,Number,Kladanj,F,secondary_specialization,8
+2013,Number,Ključ,F,secondary_specialization,23
+2013,Number,Konjic,F,secondary_specialization,14
+2013,Number,Kresevo,F,secondary_specialization,3
+2013,Number,kupres-fbih,F,secondary_specialization,3
+2013,Number,Livno,F,secondary_specialization,60
+2013,Number,Lukavac,F,secondary_specialization,39
+2013,Number,Ljubuski,F,secondary_specialization,55
+2013,Number,Maglaj,F,secondary_specialization,35
+2013,Number,Mostar,F,secondary_specialization,143
+2013,Number,Neum,F,secondary_specialization,8
+2013,Number,novi_grad_sarajevo,F,secondary_specialization,126
+2013,Number,Novi Travnik,F,secondary_specialization,34
+2013,Number,novo_sarajevo,F,secondary_specialization,100
+2013,Number,Odzak,F,secondary_specialization,24
+2013,Number,Olovo,F,secondary_specialization,5
+2013,Number,Orasje,F,secondary_specialization,19
+2013,Number,pale-fbih,F,secondary_specialization,0
+2013,Number,Posusje,F,secondary_specialization,34
+2013,Number,Prozor,F,secondary_specialization,8
+2013,Number,Ravno,F,secondary_specialization,2
+2013,Number,Sanski Most,F,secondary_specialization,79
+2013,Number,Sapna,F,secondary_specialization,3
+2013,Number,Srebrenik,F,secondary_specialization,21
+2013,Number,stari_grad_sarajevo,F,secondary_specialization,41
+2013,Number,Stolac,F,secondary_specialization,11
+2013,Number,Siroki Brijeg,F,secondary_specialization,16
+2013,Number,Teocak,F,secondary_specialization,4
+2013,Number,Tesanj,F,secondary_specialization,35
+2013,Number,Tomislavgrad,F,secondary_specialization,28
+2013,Number,Travnik,F,secondary_specialization,37
+2013,Number,trnovo-fbih,F,secondary_specialization,2
+2013,Number,Tuzla,F,secondary_specialization,192
+2013,Number,Usora,F,secondary_specialization,10
+2013,Number,Vares,F,secondary_specialization,6
+2013,Number,Velika Kladusa,F,secondary_specialization,23
+2013,Number,Visoko,F,secondary_specialization,26
+2013,Number,Vitez,F,secondary_specialization,24
+2013,Number,vogosca,F,secondary_specialization,22
+2013,Number,Zavidovici,F,secondary_specialization,33
+2013,Number,Zenica,F,secondary_specialization,238
+2013,Number,Zepce,F,secondary_specialization,22
+2013,Number,Zivinice,F,secondary_specialization,20
+2013,Number,Banovici,Both sexes,first_degree,185
+2013,Number,Bihac,Both sexes,first_degree,2465
+2013,Number,Bosanska Krupa,Both sexes,first_degree,587
+2013,Number,Bosanski Petrovac,Both sexes,first_degree,194
+2013,Number,Bosansko Grahovo,Both sexes,first_degree,113
+2013,Number,Breza,Both sexes,first_degree,232
+2013,Number,Bugojno,Both sexes,first_degree,763
+2013,Number,Busovaca,Both sexes,first_degree,280
+2013,Number,Buzim,Both sexes,first_degree,315
+2013,Number,Cazin,Both sexes,first_degree,1168
+2013,Number,centar_sarajevo,Both sexes,first_degree,2724
+2013,Number,Capljina,Both sexes,first_degree,852
+2013,Number,Celic,Both sexes,first_degree,72
+2013,Number,Citluk,Both sexes,first_degree,491
+2013,Number,doboj-istok,Both sexes,first_degree,102
+2013,Number,doboj-jug,Both sexes,first_degree,47
+2013,Number,Dobretici,Both sexes,first_degree,12
+2013,Number,domaljevac-samac,Both sexes,first_degree,112
+2013,Number,Donji Vakuf,Both sexes,first_degree,257
+2013,Number,Drvar,Both sexes,first_degree,280
+2013,Number,foca-fbih,Both sexes,first_degree,43
+2013,Number,Fojnica,Both sexes,first_degree,235
+2013,Number,Glamoc,Both sexes,first_degree,94
+2013,Number,Gorazde,Both sexes,first_degree,468
+2013,Number,gornji_vakuf-uskoplje,Both sexes,first_degree,480
+2013,Number,Gracanica,Both sexes,first_degree,676
+2013,Number,Gradacac,Both sexes,first_degree,512
+2013,Number,Grude,Both sexes,first_degree,741
+2013,Number,hadzici,Both sexes,first_degree,406
+2013,Number,ilidza,Both sexes,first_degree,1896
+2013,Number,ilijas,Both sexes,first_degree,282
+2013,Number,Jablanica,Both sexes,first_degree,236
+2013,Number,Jajce,Both sexes,first_degree,522
+2013,Number,Kakanj,Both sexes,first_degree,602
+2013,Number,Kalesija,Both sexes,first_degree,271
+2013,Number,Kiseljak,Both sexes,first_degree,349
+2013,Number,Kladanj,Both sexes,first_degree,174
+2013,Number,Ključ,Both sexes,first_degree,344
+2013,Number,Konjic,Both sexes,first_degree,663
+2013,Number,Kresevo,Both sexes,first_degree,119
+2013,Number,kupres-fbih,Both sexes,first_degree,220
+2013,Number,Livno,Both sexes,first_degree,1457
+2013,Number,Lukavac,Both sexes,first_degree,690
+2013,Number,Ljubuski,Both sexes,first_degree,891
+2013,Number,Maglaj,Both sexes,first_degree,417
+2013,Number,Mostar,Both sexes,first_degree,4422
+2013,Number,Neum,Both sexes,first_degree,157
+2013,Number,novi_grad_sarajevo,Both sexes,first_degree,4084
+2013,Number,Novi Travnik,Both sexes,first_degree,520
+2013,Number,novo_sarajevo,Both sexes,first_degree,3299
+2013,Number,Odzak,Both sexes,first_degree,364
+2013,Number,Olovo,Both sexes,first_degree,184
+2013,Number,Orasje,Both sexes,first_degree,525
+2013,Number,pale-fbih,Both sexes,first_degree,7
+2013,Number,Posusje,Both sexes,first_degree,790
+2013,Number,Prozor,Both sexes,first_degree,301
+2013,Number,Ravno,Both sexes,first_degree,180
+2013,Number,Sanski Most,Both sexes,first_degree,890
+2013,Number,Sapna,Both sexes,first_degree,56
+2013,Number,Srebrenik,Both sexes,first_degree,395
+2013,Number,stari_grad_sarajevo,Both sexes,first_degree,1353
+2013,Number,Stolac,Both sexes,first_degree,470
+2013,Number,Siroki Brijeg,Both sexes,first_degree,1005
+2013,Number,Teocak,Both sexes,first_degree,41
+2013,Number,Tesanj,Both sexes,first_degree,677
+2013,Number,Tomislavgrad,Both sexes,first_degree,988
+2013,Number,Travnik,Both sexes,first_degree,1068
+2013,Number,trnovo-fbih,Both sexes,first_degree,28
+2013,Number,Tuzla,Both sexes,first_degree,3591
+2013,Number,Usora,Both sexes,first_degree,121
+2013,Number,Vares,Both sexes,first_degree,161
+2013,Number,Velika Kladusa,Both sexes,first_degree,532
+2013,Number,Visoko,Both sexes,first_degree,755
+2013,Number,Vitez,Both sexes,first_degree,614
+2013,Number,vogosca,Both sexes,first_degree,644
+2013,Number,Zavidovici,Both sexes,first_degree,530
+2013,Number,Zenica,Both sexes,first_degree,2791
+2013,Number,Zepce,Both sexes,first_degree,533
+2013,Number,Zivinice,Both sexes,first_degree,605
+2013,Number,Banovici,M,first_degree,106
+2013,Number,Bihac,M,first_degree,1217
+2013,Number,Bosanska Krupa,M,first_degree,297
+2013,Number,Bosanski Petrovac,M,first_degree,96
+2013,Number,Bosansko Grahovo,M,first_degree,75
+2013,Number,Breza,M,first_degree,121
+2013,Number,Bugojno,M,first_degree,409
+2013,Number,Busovaca,M,first_degree,165
+2013,Number,Buzim,M,first_degree,173
+2013,Number,Cazin,M,first_degree,607
+2013,Number,centar_sarajevo,M,first_degree,1284
+2013,Number,Capljina,M,first_degree,409
+2013,Number,Celic,M,first_degree,51
+2013,Number,Citluk,M,first_degree,231
+2013,Number,doboj-istok,M,first_degree,70
+2013,Number,doboj-jug,M,first_degree,26
+2013,Number,Dobretici,M,first_degree,5
+2013,Number,domaljevac-samac,M,first_degree,64
+2013,Number,Donji Vakuf,M,first_degree,116
+2013,Number,Drvar,M,first_degree,162
+2013,Number,foca-fbih,M,first_degree,30
+2013,Number,Fojnica,M,first_degree,154
+2013,Number,Glamoc,M,first_degree,58
+2013,Number,Gorazde,M,first_degree,318
+2013,Number,gornji_vakuf-uskoplje,M,first_degree,264
+2013,Number,Gracanica,M,first_degree,409
+2013,Number,Gradacac,M,first_degree,290
+2013,Number,Grude,M,first_degree,366
+2013,Number,hadzici,M,first_degree,267
+2013,Number,ilidza,M,first_degree,1085
+2013,Number,ilijas,M,first_degree,169
+2013,Number,Jablanica,M,first_degree,142
+2013,Number,Jajce,M,first_degree,241
+2013,Number,Kakanj,M,first_degree,335
+2013,Number,Kalesija,M,first_degree,170
+2013,Number,Kiseljak,M,first_degree,206
+2013,Number,Kladanj,M,first_degree,108
+2013,Number,Ključ,M,first_degree,175
+2013,Number,Konjic,M,first_degree,397
+2013,Number,Kresevo,M,first_degree,69
+2013,Number,kupres-fbih,M,first_degree,120
+2013,Number,Livno,M,first_degree,792
+2013,Number,Lukavac,M,first_degree,441
+2013,Number,Ljubuski,M,first_degree,416
+2013,Number,Maglaj,M,first_degree,233
+2013,Number,Mostar,M,first_degree,2202
+2013,Number,Neum,M,first_degree,89
+2013,Number,novi_grad_sarajevo,M,first_degree,2238
+2013,Number,Novi Travnik,M,first_degree,300
+2013,Number,novo_sarajevo,M,first_degree,1675
+2013,Number,Odzak,M,first_degree,214
+2013,Number,Olovo,M,first_degree,119
+2013,Number,Orasje,M,first_degree,294
+2013,Number,pale-fbih,M,first_degree,4
+2013,Number,Posusje,M,first_degree,351
+2013,Number,Prozor,M,first_degree,148
+2013,Number,Ravno,M,first_degree,98
+2013,Number,Sanski Most,M,first_degree,438
+2013,Number,Sapna,M,first_degree,33
+2013,Number,Srebrenik,M,first_degree,257
+2013,Number,stari_grad_sarajevo,M,first_degree,736
+2013,Number,Stolac,M,first_degree,259
+2013,Number,Siroki Brijeg,M,first_degree,496
+2013,Number,Teocak,M,first_degree,19
+2013,Number,Tesanj,M,first_degree,390
+2013,Number,Tomislavgrad,M,first_degree,495
+2013,Number,Travnik,M,first_degree,621
+2013,Number,trnovo-fbih,M,first_degree,23
+2013,Number,Tuzla,M,first_degree,1961
+2013,Number,Usora,M,first_degree,70
+2013,Number,Vares,M,first_degree,89
+2013,Number,Velika Kladusa,M,first_degree,291
+2013,Number,Visoko,M,first_degree,398
+2013,Number,Vitez,M,first_degree,369
+2013,Number,vogosca,M,first_degree,398
+2013,Number,Zavidovici,M,first_degree,294
+2013,Number,Zenica,M,first_degree,1544
+2013,Number,Zepce,M,first_degree,290
+2013,Number,Zivinice,M,first_degree,378
+2013,Number,Banovici,F,first_degree,79
+2013,Number,Bihac,F,first_degree,1248
+2013,Number,Bosanska Krupa,F,first_degree,290
+2013,Number,Bosanski Petrovac,F,first_degree,98
+2013,Number,Bosansko Grahovo,F,first_degree,38
+2013,Number,Breza,F,first_degree,111
+2013,Number,Bugojno,F,first_degree,354
+2013,Number,Busovaca,F,first_degree,115
+2013,Number,Buzim,F,first_degree,142
+2013,Number,Cazin,F,first_degree,561
+2013,Number,centar_sarajevo,F,first_degree,1440
+2013,Number,Capljina,F,first_degree,443
+2013,Number,Celic,F,first_degree,21
+2013,Number,Citluk,F,first_degree,260
+2013,Number,doboj-istok,F,first_degree,32
+2013,Number,doboj-jug,F,first_degree,21
+2013,Number,Dobretici,F,first_degree,7
+2013,Number,domaljevac-samac,F,first_degree,48
+2013,Number,Donji Vakuf,F,first_degree,141
+2013,Number,Drvar,F,first_degree,118
+2013,Number,foca-fbih,F,first_degree,13
+2013,Number,Fojnica,F,first_degree,81
+2013,Number,Glamoc,F,first_degree,36
+2013,Number,Gorazde,F,first_degree,150
+2013,Number,gornji_vakuf-uskoplje,F,first_degree,216
+2013,Number,Gracanica,F,first_degree,267
+2013,Number,Gradacac,F,first_degree,222
+2013,Number,Grude,F,first_degree,375
+2013,Number,hadzici,F,first_degree,139
+2013,Number,ilidza,F,first_degree,811
+2013,Number,ilijas,F,first_degree,113
+2013,Number,Jablanica,F,first_degree,94
+2013,Number,Jajce,F,first_degree,281
+2013,Number,Kakanj,F,first_degree,267
+2013,Number,Kalesija,F,first_degree,101
+2013,Number,Kiseljak,F,first_degree,143
+2013,Number,Kladanj,F,first_degree,66
+2013,Number,Ključ,F,first_degree,169
+2013,Number,Konjic,F,first_degree,266
+2013,Number,Kresevo,F,first_degree,50
+2013,Number,kupres-fbih,F,first_degree,100
+2013,Number,Livno,F,first_degree,665
+2013,Number,Lukavac,F,first_degree,249
+2013,Number,Ljubuski,F,first_degree,475
+2013,Number,Maglaj,F,first_degree,184
+2013,Number,Mostar,F,first_degree,2220
+2013,Number,Neum,F,first_degree,68
+2013,Number,novi_grad_sarajevo,F,first_degree,1846
+2013,Number,Novi Travnik,F,first_degree,220
+2013,Number,novo_sarajevo,F,first_degree,1624
+2013,Number,Odzak,F,first_degree,150
+2013,Number,Olovo,F,first_degree,65
+2013,Number,Orasje,F,first_degree,231
+2013,Number,pale-fbih,F,first_degree,3
+2013,Number,Posusje,F,first_degree,439
+2013,Number,Prozor,F,first_degree,153
+2013,Number,Ravno,F,first_degree,82
+2013,Number,Sanski Most,F,first_degree,452
+2013,Number,Sapna,F,first_degree,23
+2013,Number,Srebrenik,F,first_degree,138
+2013,Number,stari_grad_sarajevo,F,first_degree,617
+2013,Number,Stolac,F,first_degree,211
+2013,Number,Siroki Brijeg,F,first_degree,509
+2013,Number,Teocak,F,first_degree,22
+2013,Number,Tesanj,F,first_degree,287
+2013,Number,Tomislavgrad,F,first_degree,493
+2013,Number,Travnik,F,first_degree,447
+2013,Number,trnovo-fbih,F,first_degree,5
+2013,Number,Tuzla,F,first_degree,1630
+2013,Number,Usora,F,first_degree,51
+2013,Number,Vares,F,first_degree,72
+2013,Number,Velika Kladusa,F,first_degree,241
+2013,Number,Visoko,F,first_degree,357
+2013,Number,Vitez,F,first_degree,245
+2013,Number,vogosca,F,first_degree,246
+2013,Number,Zavidovici,F,first_degree,236
+2013,Number,Zenica,F,first_degree,1247
+2013,Number,Zepce,F,first_degree,243
+2013,Number,Zivinice,F,first_degree,227
+2013,Number,Banovici,Both sexes,university_degree,1276
+2013,Number,Bihac,Both sexes,university_degree,5359
+2013,Number,Bosanska Krupa,Both sexes,university_degree,1193
+2013,Number,Bosanski Petrovac,Both sexes,university_degree,352
+2013,Number,Bosansko Grahovo,Both sexes,university_degree,143
+2013,Number,Breza,Both sexes,university_degree,959
+2013,Number,Bugojno,Both sexes,university_degree,1816
+2013,Number,Busovaca,Both sexes,university_degree,798
+2013,Number,Buzim,Both sexes,university_degree,607
+2013,Number,Cazin,Both sexes,university_degree,2404
+2013,Number,centar_sarajevo,Both sexes,university_degree,15300
+2013,Number,Capljina,Both sexes,university_degree,2237
+2013,Number,Celic,Both sexes,university_degree,285
+2013,Number,Citluk,Both sexes,university_degree,1820
+2013,Number,doboj-istok,Both sexes,university_degree,442
+2013,Number,doboj-jug,Both sexes,university_degree,171
+2013,Number,Dobretici,Both sexes,university_degree,50
+2013,Number,domaljevac-samac,Both sexes,university_degree,289
+2013,Number,Donji Vakuf,Both sexes,university_degree,522
+2013,Number,Drvar,Both sexes,university_degree,363
+2013,Number,foca-fbih,Both sexes,university_degree,77
+2013,Number,Fojnica,Both sexes,university_degree,885
+2013,Number,Glamoc,Both sexes,university_degree,210
+2013,Number,Gorazde,Both sexes,university_degree,1727
+2013,Number,gornji_vakuf-uskoplje,Both sexes,university_degree,1050
+2013,Number,Gracanica,Both sexes,university_degree,2110
+2013,Number,Gradacac,Both sexes,university_degree,1556
+2013,Number,Grude,Both sexes,university_degree,1738
+2013,Number,hadzici,Both sexes,university_degree,1307
+2013,Number,ilidza,Both sexes,university_degree,7309
+2013,Number,ilijas,Both sexes,university_degree,1041
+2013,Number,Jablanica,Both sexes,university_degree,669
+2013,Number,Jajce,Both sexes,university_degree,1249
+2013,Number,Kakanj,Both sexes,university_degree,1861
+2013,Number,Kalesija,Both sexes,university_degree,1178
+2013,Number,Kiseljak,Both sexes,university_degree,1140
+2013,Number,Kladanj,Both sexes,university_degree,615
+2013,Number,Ključ,Both sexes,university_degree,695
+2013,Number,Konjic,Both sexes,university_degree,1710
+2013,Number,Kresevo,Both sexes,university_degree,309
+2013,Number,kupres-fbih,Both sexes,university_degree,625
+2013,Number,Livno,Both sexes,university_degree,3460
+2013,Number,Lukavac,Both sexes,university_degree,2326
+2013,Number,Ljubuski,Both sexes,university_degree,2948
+2013,Number,Maglaj,Both sexes,university_degree,1097
+2013,Number,Mostar,Both sexes,university_degree,14199
+2013,Number,Neum,Both sexes,university_degree,532
+2013,Number,novi_grad_sarajevo,Both sexes,university_degree,16824
+2013,Number,Novi Travnik,Both sexes,university_degree,1330
+2013,Number,novo_sarajevo,Both sexes,university_degree,16145
+2013,Number,Odzak,Both sexes,university_degree,887
+2013,Number,Olovo,Both sexes,university_degree,506
+2013,Number,Orasje,Both sexes,university_degree,1320
+2013,Number,pale-fbih,Both sexes,university_degree,24
+2013,Number,Posusje,Both sexes,university_degree,1756
+2013,Number,Prozor,Both sexes,university_degree,911
+2013,Number,Ravno,Both sexes,university_degree,305
+2013,Number,Sanski Most,Both sexes,university_degree,1815
+2013,Number,Sapna,Both sexes,university_degree,285
+2013,Number,Srebrenik,Both sexes,university_degree,1654
+2013,Number,stari_grad_sarajevo,Both sexes,university_degree,6106
+2013,Number,Stolac,Both sexes,university_degree,1261
+2013,Number,Siroki Brijeg,Both sexes,university_degree,3002
+2013,Number,Teocak,Both sexes,university_degree,207
+2013,Number,Tesanj,Both sexes,university_degree,1787
+2013,Number,Tomislavgrad,Both sexes,university_degree,2854
+2013,Number,Travnik,Both sexes,university_degree,2975
+2013,Number,trnovo-fbih,Both sexes,university_degree,72
+2013,Number,Tuzla,Both sexes,university_degree,13355
+2013,Number,Usora,Both sexes,university_degree,301
+2013,Number,Vares,Both sexes,university_degree,491
+2013,Number,Velika Kladusa,Both sexes,university_degree,1221
+2013,Number,Visoko,Both sexes,university_degree,2567
+2013,Number,Vitez,Both sexes,university_degree,1472
+2013,Number,vogosca,Both sexes,university_degree,2810
+2013,Number,Zavidovici,Both sexes,university_degree,1535
+2013,Number,Zenica,Both sexes,university_degree,8195
+2013,Number,Zepce,Both sexes,university_degree,1373
+2013,Number,Zivinice,Both sexes,university_degree,2755
+2013,Number,Banovici,M,university_degree,733
+2013,Number,Bihac,M,university_degree,2479
+2013,Number,Bosanska Krupa,M,university_degree,553
+2013,Number,Bosanski Petrovac,M,university_degree,185
+2013,Number,Bosansko Grahovo,M,university_degree,92
+2013,Number,Breza,M,university_degree,477
+2013,Number,Bugojno,M,university_degree,992
+2013,Number,Busovaca,M,university_degree,407
+2013,Number,Buzim,M,university_degree,295
+2013,Number,Cazin,M,university_degree,1145
+2013,Number,centar_sarajevo,M,university_degree,7006
+2013,Number,Capljina,M,university_degree,1090
+2013,Number,Celic,M,university_degree,159
+2013,Number,Citluk,M,university_degree,793
+2013,Number,doboj-istok,M,university_degree,232
+2013,Number,doboj-jug,M,university_degree,91
+2013,Number,Dobretici,M,university_degree,29
+2013,Number,domaljevac-samac,M,university_degree,131
+2013,Number,Donji Vakuf,M,university_degree,285
+2013,Number,Drvar,M,university_degree,193
+2013,Number,foca-fbih,M,university_degree,46
+2013,Number,Fojnica,M,university_degree,488
+2013,Number,Glamoc,M,university_degree,109
+2013,Number,Gorazde,M,university_degree,933
+2013,Number,gornji_vakuf-uskoplje,M,university_degree,559
+2013,Number,Gracanica,M,university_degree,1064
+2013,Number,Gradacac,M,university_degree,767
+2013,Number,Grude,M,university_degree,858
+2013,Number,hadzici,M,university_degree,639
+2013,Number,ilidza,M,university_degree,3455
+2013,Number,ilijas,M,university_degree,498
+2013,Number,Jablanica,M,university_degree,322
+2013,Number,Jajce,M,university_degree,681
+2013,Number,Kakanj,M,university_degree,1009
+2013,Number,Kalesija,M,university_degree,657
+2013,Number,Kiseljak,M,university_degree,518
+2013,Number,Kladanj,M,university_degree,340
+2013,Number,Ključ,M,university_degree,345
+2013,Number,Konjic,M,university_degree,879
+2013,Number,Kresevo,M,university_degree,147
+2013,Number,kupres-fbih,M,university_degree,334
+2013,Number,Livno,M,university_degree,1719
+2013,Number,Lukavac,M,university_degree,1150
+2013,Number,Ljubuski,M,university_degree,1440
+2013,Number,Maglaj,M,university_degree,550
+2013,Number,Mostar,M,university_degree,6346
+2013,Number,Neum,M,university_degree,287
+2013,Number,novi_grad_sarajevo,M,university_degree,7465
+2013,Number,Novi Travnik,M,university_degree,660
+2013,Number,novo_sarajevo,M,university_degree,7132
+2013,Number,Odzak,M,university_degree,472
+2013,Number,Olovo,M,university_degree,301
+2013,Number,Orasje,M,university_degree,696
+2013,Number,pale-fbih,M,university_degree,12
+2013,Number,Posusje,M,university_degree,822
+2013,Number,Prozor,M,university_degree,482
+2013,Number,Ravno,M,university_degree,173
+2013,Number,Sanski Most,M,university_degree,862
+2013,Number,Sapna,M,university_degree,175
+2013,Number,Srebrenik,M,university_degree,881
+2013,Number,stari_grad_sarajevo,M,university_degree,2639
+2013,Number,Stolac,M,university_degree,609
+2013,Number,Siroki Brijeg,M,university_degree,1446
+2013,Number,Teocak,M,university_degree,118
+2013,Number,Tesanj,M,university_degree,931
+2013,Number,Tomislavgrad,M,university_degree,1466
+2013,Number,Travnik,M,university_degree,1519
+2013,Number,trnovo-fbih,M,university_degree,35
+2013,Number,Tuzla,M,university_degree,6260
+2013,Number,Usora,M,university_degree,145
+2013,Number,Vares,M,university_degree,268
+2013,Number,Velika Kladusa,M,university_degree,611
+2013,Number,Visoko,M,university_degree,1155
+2013,Number,Vitez,M,university_degree,695
+2013,Number,vogosca,M,university_degree,1309
+2013,Number,Zavidovici,M,university_degree,826
+2013,Number,Zenica,M,university_degree,4010
+2013,Number,Zepce,M,university_degree,702
+2013,Number,Zivinice,M,university_degree,1477
+2013,Number,Banovici,F,university_degree,543
+2013,Number,Bihac,F,university_degree,2880
+2013,Number,Bosanska Krupa,F,university_degree,640
+2013,Number,Bosanski Petrovac,F,university_degree,167
+2013,Number,Bosansko Grahovo,F,university_degree,51
+2013,Number,Breza,F,university_degree,482
+2013,Number,Bugojno,F,university_degree,824
+2013,Number,Busovaca,F,university_degree,391
+2013,Number,Buzim,F,university_degree,312
+2013,Number,Cazin,F,university_degree,1259
+2013,Number,centar_sarajevo,F,university_degree,8294
+2013,Number,Capljina,F,university_degree,1147
+2013,Number,Celic,F,university_degree,126
+2013,Number,Citluk,F,university_degree,1027
+2013,Number,doboj-istok,F,university_degree,210
+2013,Number,doboj-jug,F,university_degree,80
+2013,Number,Dobretici,F,university_degree,21
+2013,Number,domaljevac-samac,F,university_degree,158
+2013,Number,Donji Vakuf,F,university_degree,237
+2013,Number,Drvar,F,university_degree,170
+2013,Number,foca-fbih,F,university_degree,31
+2013,Number,Fojnica,F,university_degree,397
+2013,Number,Glamoc,F,university_degree,101
+2013,Number,Gorazde,F,university_degree,794
+2013,Number,gornji_vakuf-uskoplje,F,university_degree,491
+2013,Number,Gracanica,F,university_degree,1046
+2013,Number,Gradacac,F,university_degree,789
+2013,Number,Grude,F,university_degree,880
+2013,Number,hadzici,F,university_degree,668
+2013,Number,ilidza,F,university_degree,3854
+2013,Number,ilijas,F,university_degree,543
+2013,Number,Jablanica,F,university_degree,347
+2013,Number,Jajce,F,university_degree,568
+2013,Number,Kakanj,F,university_degree,852
+2013,Number,Kalesija,F,university_degree,521
+2013,Number,Kiseljak,F,university_degree,622
+2013,Number,Kladanj,F,university_degree,275
+2013,Number,Ključ,F,university_degree,350
+2013,Number,Konjic,F,university_degree,831
+2013,Number,Kresevo,F,university_degree,162
+2013,Number,kupres-fbih,F,university_degree,291
+2013,Number,Livno,F,university_degree,1741
+2013,Number,Lukavac,F,university_degree,1176
+2013,Number,Ljubuski,F,university_degree,1508
+2013,Number,Maglaj,F,university_degree,547
+2013,Number,Mostar,F,university_degree,7853
+2013,Number,Neum,F,university_degree,245
+2013,Number,novi_grad_sarajevo,F,university_degree,9359
+2013,Number,Novi Travnik,F,university_degree,670
+2013,Number,novo_sarajevo,F,university_degree,9013
+2013,Number,Odzak,F,university_degree,415
+2013,Number,Olovo,F,university_degree,205
+2013,Number,Orasje,F,university_degree,624
+2013,Number,pale-fbih,F,university_degree,12
+2013,Number,Posusje,F,university_degree,934
+2013,Number,Prozor,F,university_degree,429
+2013,Number,Ravno,F,university_degree,132
+2013,Number,Sanski Most,F,university_degree,953
+2013,Number,Sapna,F,university_degree,110
+2013,Number,Srebrenik,F,university_degree,773
+2013,Number,stari_grad_sarajevo,F,university_degree,3467
+2013,Number,Stolac,F,university_degree,652
+2013,Number,Siroki Brijeg,F,university_degree,1556
+2013,Number,Teocak,F,university_degree,89
+2013,Number,Tesanj,F,university_degree,856
+2013,Number,Tomislavgrad,F,university_degree,1388
+2013,Number,Travnik,F,university_degree,1456
+2013,Number,trnovo-fbih,F,university_degree,37
+2013,Number,Tuzla,F,university_degree,7095
+2013,Number,Usora,F,university_degree,156
+2013,Number,Vares,F,university_degree,223
+2013,Number,Velika Kladusa,F,university_degree,610
+2013,Number,Visoko,F,university_degree,1412
+2013,Number,Vitez,F,university_degree,777
+2013,Number,vogosca,F,university_degree,1501
+2013,Number,Zavidovici,F,university_degree,709
+2013,Number,Zenica,F,university_degree,4185
+2013,Number,Zepce,F,university_degree,671
+2013,Number,Zivinice,F,university_degree,1278

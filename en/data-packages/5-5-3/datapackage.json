@@ -11,6 +11,24 @@
       "schema": {
         "fields": [
           {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "federation_of_bih",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
+                "tuzla_canton",
+                "una-sana_canton",
+                "zenica-doboj_canton"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -30,7 +48,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -44,18 +62,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Agriculture, forestry, fisheries and veterinary medicine",
-                "Arts and humanities",
-                "Business administration and the law",
-                "Education",
-                "Engineering, manufacturing and construction",
-                "Health and social protection",
-                "Information and communication technologies",
-                "Natural sciences, mathematics and statistics",
-                "Services",
-                "Social sciences, journalism and information",
-                "Total",
-                "Unknown"
+                "masters",
+                "masters_of_science",
+                "specialists"
               ]
             },
             "title": "Type of education"

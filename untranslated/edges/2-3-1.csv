@@ -1,2 +1,3 @@
 From,To
-SEX,Literacy
+ADMIN_AREA,Literacy
+Literacy,Sex

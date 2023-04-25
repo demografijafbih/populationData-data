@@ -1,12 +1,554 @@
-Year,UNIT_MEASURE,Live-born children,Value
-2013,Number,Did not give birth,313281
-2013,Number,1,12565
-2013,Number,2,8854
-2013,Number,3,2994
-2013,Number,4,966
-2013,Number,5,387
-2013,Number,6,168
-2013,Number,7,95
-2013,Number,8,56
-2013,Number,9,30
-2013,Number,10 and more,26
+Year,UNIT_MEASURE,Administrative area,Vital statistics,Value
+2013,Number,Banovici,Both sexes,9632
+2013,Number,Bihac,Both sexes,24809
+2013,Number,Bosanska Krupa,Both sexes,10796
+2013,Number,Bosanski Petrovac,Both sexes,3181
+2013,Number,Bosansko Grahovo,Both sexes,1070
+2013,Number,Breza,Both sexes,6196
+2013,Number,Bugojno,Both sexes,13421
+2013,Number,Busovaca,Both sexes,7270
+2013,Number,Buzim,Both sexes,7407
+2013,Number,Cazin,Both sexes,27027
+2013,Number,centar_sarajevo,Both sexes,26201
+2013,Number,Capljina,Both sexes,11151
+2013,Number,Celic,Both sexes,4372
+2013,Number,Citluk,Both sexes,7497
+2013,Number,doboj-istok,Both sexes,4374
+2013,Number,doboj-jug,Both sexes,1695
+2013,Number,Dobretici,Both sexes,664
+2013,Number,domaljevac-samac,Both sexes,2073
+2013,Number,Donji Vakuf,Both sexes,5822
+2013,Number,Drvar,Both sexes,3218
+2013,Number,foca-fbih,Both sexes,825
+2013,Number,Fojnica,Both sexes,5229
+2013,Number,Glamoc,Both sexes,1674
+2013,Number,Gorazde,Both sexes,9351
+2013,Number,gornji_vakuf-uskoplje,Both sexes,8606
+2013,Number,Gracanica,Both sexes,19789
+2013,Number,Gradacac,Both sexes,16870
+2013,Number,Grude,Both sexes,7262
+2013,Number,hadzici,Both sexes,10003
+2013,Number,ilidza,Both sexes,28903
+2013,Number,ilijas,Both sexes,8573
+2013,Number,Jablanica,Both sexes,4442
+2013,Number,Jajce,Both sexes,11157
+2013,Number,Kakanj,Both sexes,15662
+2013,Number,Kalesija,Both sexes,13637
+2013,Number,Kiseljak,Both sexes,8725
+2013,Number,Kladanj,Both sexes,5325
+2013,Number,Ključ,Both sexes,7150
+2013,Number,Konjic,Both sexes,10945
+2013,Number,Kresevo,Both sexes,2304
+2013,Number,kupres-fbih,Both sexes,2176
+2013,Number,Livno,Both sexes,14885
+2013,Number,Lukavac,Both sexes,19824
+2013,Number,Ljubuski,Both sexes,11872
+2013,Number,Maglaj,Both sexes,9962
+2013,Number,Mostar,Both sexes,46912
+2013,Number,Neum,Both sexes,1948
+2013,Number,novi_grad_sarajevo,Both sexes,53683
+2013,Number,Novi Travnik,Both sexes,9963
+2013,Number,novo_sarajevo,Both sexes,30918
+2013,Number,Odzak,Both sexes,8210
+2013,Number,Olovo,Both sexes,4434
+2013,Number,Orasje,Both sexes,8479
+2013,Number,pale-fbih,Both sexes,391
+2013,Number,Posusje,Both sexes,8208
+2013,Number,Prozor,Both sexes,5867
+2013,Number,Ravno,Both sexes,1361
+2013,Number,Sanski Most,Both sexes,17665
+2013,Number,Sapna,Both sexes,4421
+2013,Number,Srebrenik,Both sexes,17037
+2013,Number,stari_grad_sarajevo,Both sexes,17059
+2013,Number,Stolac,Both sexes,6096
+2013,Number,Siroki Brijeg,Both sexes,12027
+2013,Number,Teocak,Both sexes,3078
+2013,Number,Tesanj,Both sexes,17741
+2013,Number,Tomislavgrad,Both sexes,13018
+2013,Number,Travnik,Both sexes,22532
+2013,Number,trnovo-fbih,Both sexes,693
+2013,Number,Tuzla,Both sexes,51072
+2013,Number,Usora,Both sexes,2900
+2013,Number,Vares,Both sexes,4070
+2013,Number,Velika Kladusa,Both sexes,16483
+2013,Number,Visoko,Both sexes,16864
+2013,Number,Vitez,Both sexes,10776
+2013,Number,vogosca,Both sexes,11602
+2013,Number,Zavidovici,Both sexes,15108
+2013,Number,Zenica,Both sexes,47242
+2013,Number,Zepce,Both sexes,12279
+2013,Number,Zivinice,Both sexes,24258
+2013,Number,Banovici,Did not give birth,2202
+2013,Number,Bihac,Did not give birth,6909
+2013,Number,Bosanska Krupa,Did not give birth,2740
+2013,Number,Bosanski Petrovac,Did not give birth,748
+2013,Number,Bosansko Grahovo,Did not give birth,252
+2013,Number,Breza,Did not give birth,1512
+2013,Number,Bugojno,Did not give birth,3990
+2013,Number,Busovaca,Did not give birth,2084
+2013,Number,Buzim,Did not give birth,2136
+2013,Number,Cazin,Did not give birth,7439
+2013,Number,centar_sarajevo,Did not give birth,8540
+2013,Number,Capljina,Did not give birth,3454
+2013,Number,Celic,Did not give birth,1105
+2013,Number,Citluk,Did not give birth,2713
+2013,Number,doboj-istok,Did not give birth,1066
+2013,Number,doboj-jug,Did not give birth,389
+2013,Number,Dobretici,Did not give birth,283
+2013,Number,domaljevac-samac,Did not give birth,676
+2013,Number,Donji Vakuf,Did not give birth,1683
+2013,Number,Drvar,Did not give birth,778
+2013,Number,foca-fbih,Did not give birth,190
+2013,Number,Fojnica,Did not give birth,1705
+2013,Number,Glamoc,Did not give birth,447
+2013,Number,Gorazde,Did not give birth,2468
+2013,Number,gornji_vakuf-uskoplje,Did not give birth,2840
+2013,Number,Gracanica,Did not give birth,4347
+2013,Number,Gradacac,Did not give birth,3957
+2013,Number,Grude,Did not give birth,2724
+2013,Number,hadzici,Did not give birth,2634
+2013,Number,ilidza,Did not give birth,8609
+2013,Number,ilijas,Did not give birth,2229
+2013,Number,Jablanica,Did not give birth,1330
+2013,Number,Jajce,Did not give birth,3196
+2013,Number,Kakanj,Did not give birth,4161
+2013,Number,Kalesija,Did not give birth,3362
+2013,Number,Kiseljak,Did not give birth,2390
+2013,Number,Kladanj,Did not give birth,1327
+2013,Number,Ključ,Did not give birth,1986
+2013,Number,Konjic,Did not give birth,3080
+2013,Number,Kresevo,Did not give birth,699
+2013,Number,kupres-fbih,Did not give birth,858
+2013,Number,Livno,Did not give birth,4944
+2013,Number,Lukavac,Did not give birth,4464
+2013,Number,Ljubuski,Did not give birth,4107
+2013,Number,Maglaj,Did not give birth,2547
+2013,Number,Mostar,Did not give birth,15227
+2013,Number,Neum,Did not give birth,643
+2013,Number,novi_grad_sarajevo,Did not give birth,16129
+2013,Number,Novi Travnik,Did not give birth,2871
+2013,Number,novo_sarajevo,Did not give birth,10414
+2013,Number,Odzak,Did not give birth,2465
+2013,Number,Olovo,Did not give birth,1190
+2013,Number,Orasje,Did not give birth,2695
+2013,Number,pale-fbih,Did not give birth,97
+2013,Number,Posusje,Did not give birth,3376
+2013,Number,Prozor,Did not give birth,2099
+2013,Number,Ravno,Did not give birth,500
+2013,Number,Sanski Most,Did not give birth,5169
+2013,Number,Sapna,Did not give birth,1194
+2013,Number,Srebrenik,Did not give birth,3923
+2013,Number,stari_grad_sarajevo,Did not give birth,5243
+2013,Number,Stolac,Did not give birth,2124
+2013,Number,Siroki Brijeg,Did not give birth,4262
+2013,Number,Teocak,Did not give birth,809
+2013,Number,Tesanj,Did not give birth,4310
+2013,Number,Tomislavgrad,Did not give birth,5173
+2013,Number,Travnik,Did not give birth,6601
+2013,Number,trnovo-fbih,Did not give birth,158
+2013,Number,Tuzla,Did not give birth,13710
+2013,Number,Usora,Did not give birth,916
+2013,Number,Vares,Did not give birth,997
+2013,Number,Velika Kladusa,Did not give birth,4112
+2013,Number,Visoko,Did not give birth,4297
+2013,Number,Vitez,Did not give birth,3087
+2013,Number,vogosca,Did not give birth,3232
+2013,Number,Zavidovici,Did not give birth,3646
+2013,Number,Zenica,Did not give birth,12327
+2013,Number,Zepce,Did not give birth,3672
+2013,Number,Zivinice,Did not give birth,5806
+2013,Number,Banovici,one_child,1581
+2013,Number,Bihac,one_child,3677
+2013,Number,Bosanska Krupa,one_child,1438
+2013,Number,Bosanski Petrovac,one_child,434
+2013,Number,Bosansko Grahovo,one_child,124
+2013,Number,Breza,one_child,1122
+2013,Number,Bugojno,one_child,1555
+2013,Number,Busovaca,one_child,809
+2013,Number,Buzim,one_child,955
+2013,Number,Cazin,one_child,4067
+2013,Number,centar_sarajevo,one_child,5078
+2013,Number,Capljina,one_child,1049
+2013,Number,Celic,one_child,454
+2013,Number,Citluk,one_child,650
+2013,Number,doboj-istok,one_child,532
+2013,Number,doboj-jug,one_child,239
+2013,Number,Dobretici,one_child,32
+2013,Number,domaljevac-samac,one_child,242
+2013,Number,Donji Vakuf,one_child,644
+2013,Number,Drvar,one_child,431
+2013,Number,foca-fbih,one_child,73
+2013,Number,Fojnica,one_child,579
+2013,Number,Glamoc,one_child,135
+2013,Number,Gorazde,one_child,1198
+2013,Number,gornji_vakuf-uskoplje,one_child,807
+2013,Number,Gracanica,one_child,2947
+2013,Number,Gradacac,one_child,2256
+2013,Number,Grude,one_child,543
+2013,Number,hadzici,one_child,1429
+2013,Number,ilidza,one_child,4309
+2013,Number,ilijas,one_child,1196
+2013,Number,Jablanica,one_child,508
+2013,Number,Jajce,one_child,1109
+2013,Number,Kakanj,one_child,1964
+2013,Number,Kalesija,one_child,1684
+2013,Number,Kiseljak,one_child,1078
+2013,Number,Kladanj,one_child,665
+2013,Number,Ključ,one_child,732
+2013,Number,Konjic,one_child,1285
+2013,Number,Kresevo,one_child,244
+2013,Number,kupres-fbih,one_child,169
+2013,Number,Livno,one_child,1226
+2013,Number,Lukavac,one_child,3691
+2013,Number,Ljubuski,one_child,1040
+2013,Number,Maglaj,one_child,1424
+2013,Number,Mostar,one_child,5896
+2013,Number,Neum,one_child,168
+2013,Number,novi_grad_sarajevo,one_child,9593
+2013,Number,Novi Travnik,one_child,1255
+2013,Number,novo_sarajevo,one_child,6222
+2013,Number,Odzak,one_child,982
+2013,Number,Olovo,one_child,502
+2013,Number,Orasje,one_child,1055
+2013,Number,pale-fbih,one_child,31
+2013,Number,Posusje,one_child,624
+2013,Number,Prozor,one_child,442
+2013,Number,Ravno,one_child,142
+2013,Number,Sanski Most,one_child,2179
+2013,Number,Sapna,one_child,384
+2013,Number,Srebrenik,one_child,2307
+2013,Number,stari_grad_sarajevo,one_child,2934
+2013,Number,Stolac,one_child,530
+2013,Number,Siroki Brijeg,one_child,1014
+2013,Number,Teocak,one_child,343
+2013,Number,Tesanj,one_child,2357
+2013,Number,Tomislavgrad,one_child,958
+2013,Number,Travnik,one_child,2740
+2013,Number,trnovo-fbih,one_child,46
+2013,Number,Tuzla,one_child,9432
+2013,Number,Usora,one_child,262
+2013,Number,Vares,one_child,583
+2013,Number,Velika Kladusa,one_child,2536
+2013,Number,Visoko,one_child,2463
+2013,Number,Vitez,one_child,1216
+2013,Number,vogosca,one_child,1875
+2013,Number,Zavidovici,one_child,1989
+2013,Number,Zenica,one_child,7711
+2013,Number,Zepce,one_child,1297
+2013,Number,Zivinice,one_child,3423
+2013,Number,Banovici,two_children,3796
+2013,Number,Bihac,two_children,7800
+2013,Number,Bosanska Krupa,two_children,3162
+2013,Number,Bosanski Petrovac,two_children,1240
+2013,Number,Bosansko Grahovo,two_children,393
+2013,Number,Breza,two_children,2555
+2013,Number,Bugojno,two_children,3747
+2013,Number,Busovaca,two_children,1928
+2013,Number,Buzim,two_children,1620
+2013,Number,Cazin,two_children,7242
+2013,Number,centar_sarajevo,two_children,9471
+2013,Number,Capljina,two_children,3066
+2013,Number,Celic,two_children,1396
+2013,Number,Citluk,two_children,1475
+2013,Number,doboj-istok,two_children,1632
+2013,Number,doboj-jug,two_children,611
+2013,Number,Dobretici,two_children,83
+2013,Number,domaljevac-samac,two_children,565
+2013,Number,Donji Vakuf,two_children,1613
+2013,Number,Drvar,two_children,1399
+2013,Number,foca-fbih,two_children,262
+2013,Number,Fojnica,two_children,1407
+2013,Number,Glamoc,two_children,504
+2013,Number,Gorazde,two_children,3406
+2013,Number,gornji_vakuf-uskoplje,two_children,1882
+2013,Number,Gracanica,two_children,7975
+2013,Number,Gradacac,two_children,6590
+2013,Number,Grude,two_children,1418
+2013,Number,hadzici,two_children,3632
+2013,Number,ilidza,two_children,10263
+2013,Number,ilijas,two_children,2935
+2013,Number,Jablanica,two_children,1359
+2013,Number,Jajce,two_children,2867
+2013,Number,Kakanj,two_children,4863
+2013,Number,Kalesija,two_children,4778
+2013,Number,Kiseljak,two_children,2656
+2013,Number,Kladanj,two_children,1870
+2013,Number,Ključ,two_children,2122
+2013,Number,Konjic,two_children,3411
+2013,Number,Kresevo,two_children,662
+2013,Number,kupres-fbih,two_children,422
+2013,Number,Livno,two_children,3551
+2013,Number,Lukavac,two_children,8198
+2013,Number,Ljubuski,two_children,2573
+2013,Number,Maglaj,two_children,3455
+2013,Number,Mostar,two_children,15128
+2013,Number,Neum,two_children,420
+2013,Number,novi_grad_sarajevo,two_children,19695
+2013,Number,Novi Travnik,two_children,2665
+2013,Number,novo_sarajevo,two_children,10864
+2013,Number,Odzak,two_children,2750
+2013,Number,Olovo,two_children,1433
+2013,Number,Orasje,two_children,2252
+2013,Number,pale-fbih,two_children,120
+2013,Number,Posusje,two_children,1144
+2013,Number,Prozor,two_children,963
+2013,Number,Ravno,two_children,380
+2013,Number,Sanski Most,two_children,5604
+2013,Number,Sapna,two_children,1252
+2013,Number,Srebrenik,two_children,6408
+2013,Number,stari_grad_sarajevo,two_children,6147
+2013,Number,Stolac,two_children,1441
+2013,Number,Siroki Brijeg,two_children,2439
+2013,Number,Teocak,two_children,962
+2013,Number,Tesanj,two_children,5994
+2013,Number,Tomislavgrad,two_children,2226
+2013,Number,Travnik,two_children,6351
+2013,Number,trnovo-fbih,two_children,272
+2013,Number,Tuzla,two_children,20193
+2013,Number,Usora,two_children,802
+2013,Number,Vares,two_children,1407
+2013,Number,Velika Kladusa,two_children,4053
+2013,Number,Visoko,two_children,6277
+2013,Number,Vitez,two_children,2923
+2013,Number,vogosca,two_children,4293
+2013,Number,Zavidovici,two_children,5195
+2013,Number,Zenica,two_children,16230
+2013,Number,Zepce,two_children,3010
+2013,Number,Zivinice,two_children,8890
+2013,Number,Banovici,three_children,1175
+2013,Number,Bihac,three_children,3481
+2013,Number,Bosanska Krupa,three_children,1698
+2013,Number,Bosanski Petrovac,three_children,506
+2013,Number,Bosansko Grahovo,three_children,200
+2013,Number,Breza,three_children,674
+2013,Number,Bugojno,three_children,2269
+2013,Number,Busovaca,three_children,1281
+2013,Number,Buzim,three_children,1132
+2013,Number,Cazin,three_children,3984
+2013,Number,centar_sarajevo,three_children,2228
+2013,Number,Capljina,three_children,2266
+2013,Number,Celic,three_children,776
+2013,Number,Citluk,three_children,1462
+2013,Number,doboj-istok,three_children,673
+2013,Number,doboj-jug,three_children,285
+2013,Number,Dobretici,three_children,86
+2013,Number,domaljevac-samac,three_children,350
+2013,Number,Donji Vakuf,three_children,1024
+2013,Number,Drvar,three_children,465
+2013,Number,foca-fbih,three_children,158
+2013,Number,Fojnica,three_children,848
+2013,Number,Glamoc,three_children,363
+2013,Number,Gorazde,three_children,1424
+2013,Number,gornji_vakuf-uskoplje,three_children,1504
+2013,Number,Gracanica,three_children,2763
+2013,Number,Gradacac,three_children,2626
+2013,Number,Grude,three_children,1375
+2013,Number,hadzici,three_children,1445
+2013,Number,ilidza,three_children,3666
+2013,Number,ilijas,three_children,1253
+2013,Number,Jablanica,three_children,659
+2013,Number,Jajce,three_children,1923
+2013,Number,Kakanj,three_children,2545
+2013,Number,Kalesija,three_children,2177
+2013,Number,Kiseljak,three_children,1594
+2013,Number,Kladanj,three_children,829
+2013,Number,Ključ,three_children,1164
+2013,Number,Konjic,three_children,1794
+2013,Number,Kresevo,three_children,408
+2013,Number,kupres-fbih,three_children,365
+2013,Number,Livno,three_children,2986
+2013,Number,Lukavac,three_children,2140
+2013,Number,Ljubuski,three_children,2364
+2013,Number,Maglaj,three_children,1449
+2013,Number,Mostar,three_children,7025
+2013,Number,Neum,three_children,391
+2013,Number,novi_grad_sarajevo,three_children,5446
+2013,Number,Novi Travnik,three_children,1666
+2013,Number,novo_sarajevo,three_children,2461
+2013,Number,Odzak,three_children,1278
+2013,Number,Olovo,three_children,701
+2013,Number,Orasje,three_children,1289
+2013,Number,pale-fbih,three_children,81
+2013,Number,Posusje,three_children,1381
+2013,Number,Prozor,three_children,980
+2013,Number,Ravno,three_children,250
+2013,Number,Sanski Most,three_children,2676
+2013,Number,Sapna,three_children,861
+2013,Number,Srebrenik,three_children,2583
+2013,Number,stari_grad_sarajevo,three_children,1872
+2013,Number,Stolac,three_children,1128
+2013,Number,Siroki Brijeg,three_children,2251
+2013,Number,Teocak,three_children,570
+2013,Number,Tesanj,three_children,3056
+2013,Number,Tomislavgrad,three_children,2425
+2013,Number,Travnik,three_children,3736
+2013,Number,trnovo-fbih,three_children,127
+2013,Number,Tuzla,three_children,4790
+2013,Number,Usora,three_children,496
+2013,Number,Vares,three_children,667
+2013,Number,Velika Kladusa,three_children,2370
+2013,Number,Visoko,three_children,2483
+2013,Number,Vitez,three_children,2000
+2013,Number,vogosca,three_children,1423
+2013,Number,Zavidovici,three_children,2375
+2013,Number,Zenica,three_children,6404
+2013,Number,Zepce,three_children,2067
+2013,Number,Zivinice,three_children,3494
+2013,Number,Banovici,four_children,393
+2013,Number,Bihac,four_children,1419
+2013,Number,Bosanska Krupa,four_children,797
+2013,Number,Bosanski Petrovac,four_children,162
+2013,Number,Bosansko Grahovo,four_children,70
+2013,Number,Breza,four_children,189
+2013,Number,Bugojno,four_children,952
+2013,Number,Busovaca,four_children,598
+2013,Number,Buzim,four_children,619
+2013,Number,Cazin,four_children,1811
+2013,Number,centar_sarajevo,four_children,549
+2013,Number,Capljina,four_children,864
+2013,Number,Celic,four_children,305
+2013,Number,Citluk,four_children,792
+2013,Number,doboj-istok,four_children,239
+2013,Number,doboj-jug,four_children,83
+2013,Number,Dobretici,four_children,53
+2013,Number,domaljevac-samac,four_children,130
+2013,Number,Donji Vakuf,four_children,466
+2013,Number,Drvar,four_children,102
+2013,Number,foca-fbih,four_children,81
+2013,Number,Fojnica,four_children,377
+2013,Number,Glamoc,four_children,148
+2013,Number,Gorazde,four_children,484
+2013,Number,gornji_vakuf-uskoplje,four_children,770
+2013,Number,Gracanica,four_children,953
+2013,Number,Gradacac,four_children,805
+2013,Number,Grude,four_children,735
+2013,Number,hadzici,four_children,475
+2013,Number,ilidza,four_children,1168
+2013,Number,ilijas,four_children,494
+2013,Number,Jablanica,four_children,273
+2013,Number,Jajce,four_children,902
+2013,Number,Kakanj,four_children,1001
+2013,Number,Kalesija,four_children,757
+2013,Number,Kiseljak,four_children,548
+2013,Number,Kladanj,four_children,302
+2013,Number,Ključ,four_children,536
+2013,Number,Konjic,four_children,696
+2013,Number,Kresevo,four_children,174
+2013,Number,kupres-fbih,four_children,192
+2013,Number,Livno,four_children,1309
+2013,Number,Lukavac,four_children,717
+2013,Number,Ljubuski,four_children,1105
+2013,Number,Maglaj,four_children,540
+2013,Number,Mostar,four_children,2270
+2013,Number,Neum,four_children,185
+2013,Number,novi_grad_sarajevo,four_children,1594
+2013,Number,Novi Travnik,four_children,729
+2013,Number,novo_sarajevo,four_children,590
+2013,Number,Odzak,four_children,416
+2013,Number,Olovo,four_children,289
+2013,Number,Orasje,four_children,590
+2013,Number,pale-fbih,four_children,29
+2013,Number,Posusje,four_children,888
+2013,Number,Prozor,four_children,607
+2013,Number,Ravno,four_children,71
+2013,Number,Sanski Most,four_children,978
+2013,Number,Sapna,four_children,369
+2013,Number,Srebrenik,four_children,914
+2013,Number,stari_grad_sarajevo,four_children,540
+2013,Number,Stolac,four_children,526
+2013,Number,Siroki Brijeg,four_children,1198
+2013,Number,Teocak,four_children,214
+2013,Number,Tesanj,four_children,1038
+2013,Number,Tomislavgrad,four_children,1266
+2013,Number,Travnik,four_children,1619
+2013,Number,trnovo-fbih,four_children,50
+2013,Number,Tuzla,four_children,1591
+2013,Number,Usora,four_children,217
+2013,Number,Vares,four_children,200
+2013,Number,Velika Kladusa,four_children,1264
+2013,Number,Visoko,four_children,729
+2013,Number,Vitez,four_children,832
+2013,Number,vogosca,four_children,421
+2013,Number,Zavidovici,four_children,915
+2013,Number,Zenica,four_children,2415
+2013,Number,Zepce,four_children,1064
+2013,Number,Zivinice,four_children,1303
+2013,Number,Banovici,5+_children,485
+2013,Number,Bihac,5+_children,1523
+2013,Number,Bosanska Krupa,5+_children,961
+2013,Number,Bosanski Petrovac,5+_children,91
+2013,Number,Bosansko Grahovo,5+_children,31
+2013,Number,Breza,5+_children,144
+2013,Number,Bugojno,5+_children,908
+2013,Number,Busovaca,5+_children,570
+2013,Number,Buzim,5+_children,945
+2013,Number,Cazin,5+_children,2484
+2013,Number,centar_sarajevo,5+_children,335
+2013,Number,Capljina,5+_children,452
+2013,Number,Celic,5+_children,336
+2013,Number,Citluk,5+_children,405
+2013,Number,doboj-istok,5+_children,232
+2013,Number,doboj-jug,5+_children,88
+2013,Number,Dobretici,5+_children,127
+2013,Number,domaljevac-samac,5+_children,110
+2013,Number,Donji Vakuf,5+_children,392
+2013,Number,Drvar,5+_children,43
+2013,Number,foca-fbih,5+_children,61
+2013,Number,Fojnica,5+_children,313
+2013,Number,Glamoc,5+_children,77
+2013,Number,Gorazde,5+_children,371
+2013,Number,gornji_vakuf-uskoplje,5+_children,803
+2013,Number,Gracanica,5+_children,804
+2013,Number,Gradacac,5+_children,636
+2013,Number,Grude,5+_children,467
+2013,Number,hadzici,5+_children,388
+2013,Number,ilidza,5+_children,888
+2013,Number,ilijas,5+_children,466
+2013,Number,Jablanica,5+_children,313
+2013,Number,Jajce,5+_children,1160
+2013,Number,Kakanj,5+_children,1128
+2013,Number,Kalesija,5+_children,879
+2013,Number,Kiseljak,5+_children,459
+2013,Number,Kladanj,5+_children,332
+2013,Number,Ključ,5+_children,610
+2013,Number,Konjic,5+_children,679
+2013,Number,Kresevo,5+_children,117
+2013,Number,kupres-fbih,5+_children,170
+2013,Number,Livno,5+_children,869
+2013,Number,Lukavac,5+_children,614
+2013,Number,Ljubuski,5+_children,683
+2013,Number,Maglaj,5+_children,547
+2013,Number,Mostar,5+_children,1366
+2013,Number,Neum,5+_children,141
+2013,Number,novi_grad_sarajevo,5+_children,1226
+2013,Number,Novi Travnik,5+_children,777
+2013,Number,novo_sarajevo,5+_children,367
+2013,Number,Odzak,5+_children,319
+2013,Number,Olovo,5+_children,319
+2013,Number,Orasje,5+_children,598
+2013,Number,pale-fbih,5+_children,33
+2013,Number,Posusje,5+_children,795
+2013,Number,Prozor,5+_children,776
+2013,Number,Ravno,5+_children,18
+2013,Number,Sanski Most,5+_children,1059
+2013,Number,Sapna,5+_children,361
+2013,Number,Srebrenik,5+_children,902
+2013,Number,stari_grad_sarajevo,5+_children,323
+2013,Number,Stolac,5+_children,347
+2013,Number,Siroki Brijeg,5+_children,863
+2013,Number,Teocak,5+_children,180
+2013,Number,Tesanj,5+_children,986
+2013,Number,Tomislavgrad,5+_children,970
+2013,Number,Travnik,5+_children,1485
+2013,Number,trnovo-fbih,5+_children,40
+2013,Number,Tuzla,5+_children,1356
+2013,Number,Usora,5+_children,207
+2013,Number,Vares,5+_children,216
+2013,Number,Velika Kladusa,5+_children,2148
+2013,Number,Visoko,5+_children,615
+2013,Number,Vitez,5+_children,718
+2013,Number,vogosca,5+_children,358
+2013,Number,Zavidovici,5+_children,988
+2013,Number,Zenica,5+_children,2155
+2013,Number,Zepce,5+_children,1169
+2013,Number,Zivinice,5+_children,1342

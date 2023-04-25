@@ -11,6 +11,27 @@
       "schema": {
         "fields": [
           {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "bosnian-podrinje_canton",
+                "canton_10",
+                "central_bosnia_canton",
+                "federation_of_bih",
+                "herzegovina-neretva_canton",
+                "posavina_canton",
+                "sarajevo_canton",
+                "tuzla_canton",
+                "una-sana_canton",
+                "west_herzegovina_canton",
+                "zenica-doboj_canton"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -24,36 +45,35 @@
             "title": "Sex"
           },
           {
-            "name": "Type_of_school",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Both sexes",
-                "Art schools",
-                "Gymnasium",
-                "High schools for children with special needs",
-                "Religion schools",
-                "Technical schools",
-                "Vocational schools"
-              ]
-            },
-            "title": "Type of school"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_school",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Art schools",
+                "Gymnasium",
+                "high_schools_for_students_with_disabilities",
+                "religious_schools",
+                "technical_high_schools",
+                "vocational_high_schools"
+              ]
+            },
+            "title": "type_of_school"
           }
         ]
       }

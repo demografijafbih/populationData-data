@@ -1,1 +1,1 @@
-{"From":["type_of_education"],"To":["SEX"]}
+{"From":["ADMIN_AREA","type_of_education"],"To":["type_of_education","SEX"]}

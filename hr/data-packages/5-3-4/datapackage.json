@@ -21,21 +21,41 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Type_of_school",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "Gimnazija",
-                "Tehničke škole",
-                "Umjetničke škole",
-                "Vjerske škole",
-                "Stručne škole",
-                "Srednje škole za djecu s posebnim potrebama",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Vrsta škole"
+            "title": "Administrativna oblast"
+          },
+          {
+            "name": "type_of_school",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gimnazija",
+                "technical_high_schools",
+                "vocational_high_schools",
+                "Umjetničke škole",
+                "religious_schools",
+                "high_schools_for_students_with_disabilities",
+                ""
+              ]
+            },
+            "title": "type_of_school"
           },
           {
             "name": "SEX",
@@ -52,7 +72,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

@@ -21,22 +21,6 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "25 - 64",
-                "25 - 34",
-                "35 - 44",
-                "35 - 54",
-                "45 - 54",
-                "55 - 64",
-                ""
-              ]
-            },
-            "title": "Старосна доб"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {

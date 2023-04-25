@@ -19,36 +19,43 @@
             "type": "string"
           },
           {
-            "name": "Type_of_school",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "gymnasium",
-                "technical_schools",
-                "art_schools",
-                "religion_schools",
-                "vocational_schools",
-                "high_schools_for_children_with_special_needs",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             }
           },
           {
-            "name": "SEX",
+            "name": "type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "gymnasium",
+                "technical_high_schools",
+                "vocational_high_schools",
+                "art_schools",
+                "religious_schools",
+                "high_schools_for_students_with_disabilities",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
