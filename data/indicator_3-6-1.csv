@@ -1,8 +1,10 @@
 Year,UNIT_MEASURE,MICS_NUMBER,Value
-2000,_%,all_methods,48
-2006,_%,all_methods,35.7
-2011,_%,all_methods,45.8
-2006,_%,traditional_methods,24.5
-2011,_%,traditional_methods,34
-2006,_%,modern_methods,11.2
-2011,_%,modern_methods,12
+2000,_%,all_methods,48.7
+2006,_%,all_methods,33.6
+2011,_%,all_methods,43.1
+2000,_%,traditional_methods,32.9
+2006,_%,traditional_methods,21.5
+2011,_%,traditional_methods,33.1
+2000,_%,modern_methods,15.7
+2006,_%,modern_methods,12.1
+2011,_%,modern_methods,10
