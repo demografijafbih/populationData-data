@@ -38,21 +38,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativno područje"
+            "title": "test"
           },
           {
             "name": "BIRTHS",

@@ -6,7 +6,7 @@ bileca,Bileca,Bileća,Билећа,Bileća,60,1
 bosanska_krupa,Bosanska Krupa,Bosanska Krupa,Босанска Крупа,Bosanska Krupa,70,6
 bosanski_petrovac,Bosanski Petrovac,Bosanski Petrovac,Босански Петровац,Bosanski Petrovac,70,6
 bosansko_grahovo,Bosansko Grahovo,Bosansko Grahovo,Босанско Грахово,Bosansko Grahovo,70,6
-bosnian-podrinje_canton,Bosnian-Podrinje Canton,Bosansko-podrinjski kanton,bosnian-podrinje_canton,bosnian-podrinje_canton,134,25
+bosnian-podrinje_canton,Bosnian-Podrinje Canton,bosnian-podrinje_canton,bosnian-podrinje_canton,bosnian-podrinje_canton,134,25
 bratunac,Bratunac,Bratunac,Братунац,Bratunac,60,1
 breza,Breza,Breza,Бреза,Breza,70,6
 brod,Brod,Brod,Брод,Brod,60,1
@@ -14,13 +14,13 @@ bugojno,Bugojno,Bugojno,Бугојно,Bugojno,70,6
 busovaca,Busovaca,Busovača,Бусовача,Busovača,70,6
 buzim,Buzim,Bužim,Бужим,Bužim,70,6
 cajnice,Cajnice,Čajniče,Чајниче,Čajniče,60,1
-canton_10,Canton 10,Kanton 10,canton_10,canton_10,51,11
+canton_10,Canton 10,canton_10,canton_10,canton_10,51,11
 capljina,Capljina,Čapljina,Чапљина,Čapljina,70,6
 cazin,Cazin,Cazin,Цазин,Cazin,70,6
 celic,Celic,Čelić,Челић,Čelić,70,6
 celinac,Celinac,Čelinac,Челинац,Čelinac,60,1
 centar_sarajevo,centar_sarajevo,centar_sarajevo,centar_sarajevo,centar_sarajevo,70,6
-central_bosnia_canton,Central Bosnia Canton,Srednjobosanski kanton,central_bosnia_canton,central_bosnia_canton,134,25
+central_bosnia_canton,Central Bosnia Canton,central_bosnia_canton,central_bosnia_canton,central_bosnia_canton,134,25
 citluk,Citluk,Čitluk,Читлук,Čitluk,70,6
 doboj-istok,doboj-istok,doboj-istok,doboj-istok,doboj-istok,70,6
 doboj-jug,doboj-jug,doboj-jug,doboj-jug,doboj-jug,70,6
@@ -29,7 +29,7 @@ domaljevac-samac,domaljevac-samac,domaljevac-samac,domaljevac-samac,domaljevac-s
 donji_vakuf,Donji Vakuf,Donji Vakuf,Доњи Вакуф,Donji Vakuf,70,6
 donji_zabar,Donji Zabar,Donji Žabar,Доњи Жабар,Donji Žabar,60,1
 drvar,Drvar,Drvar,Дрвар,Drvar,70,6
-federation_of_bih,Federation of Bosnia and Herzegovina,Federacija Bosne i Hercegovine,federation_of_bih,federation_of_bih,134,25
+federation_of_bih,Federation of Bosnia and Herzegovina,federation_of_bih,federation_of_bih,federation_of_bih,134,25
 foca-fbih,foca-fbih,foca-fbih,foca-fbih,foca-fbih,70,6
 foca,foca,foca,foca,foca,60,1
 fojnica,Fojnica,Fojnica,Фојница,Fojnica,70,6
@@ -51,7 +51,7 @@ gradacac,Gradacac,Gradačac,Градачац,Gradačac,70,6
 grude,Grude,Grude,Груде,Grude,70,6
 hadzici,hadzici,hadzici,hadzici,hadzici,70,6
 han_pijesak,Han Pijesak,Han Pijesak,Хан Пијесак,Han Pijesak,60,1
-herzegovina-neretva_canton,Herzegovina-Neretva Canton,Hercegovačko-neretvanski kanton,herzegovina-neretva_canton,herzegovina-neretva_canton,134,25
+herzegovina-neretva_canton,Herzegovina-Neretva Canton,herzegovina-neretva_canton,herzegovina-neretva_canton,herzegovina-neretva_canton,134,25
 ilidza,ilidza,ilidza,ilidza,ilidza,70,6
 ilijas,ilijas,ilijas,ilijas,ilijas,70,6
 istocna_ilidza,East Ilidza,Istočna Ilidža,Источна Илиџа,Istočna Ilidža,60,1
@@ -105,7 +105,7 @@ pale,pale,pale,pale,pale,60,1
 pelagicevo,Pelagicevo,Pelagićevo,Пелагићево,Pelagićevo,60,1
 petrovac,Petrovac,Petrovac,Петровац,Petrovac,60,1
 petrovo,Petrovo,Petrovo,Петрово,Petrovo,60,1
-posavina_canton,Posavina Canton,Posavski kanton,posavina_canton,posavina_canton,51,11
+posavina_canton,Posavina Canton,posavina_canton,posavina_canton,posavina_canton,51,11
 posusje,Posusje,Posušje,Посушје,Posušje,70,6
 prnjavor,Prnjavor,Prnjavor,Прњавор,Prnjavor,60,1
 prozor,Prozor,Prozor,Прозор,Prozor,70,6
@@ -117,7 +117,7 @@ rudo,Rudo,Rudo,Рудо,Rudo,60,1
 samac,Samac,Šamac,Шамац,Šamac,60,1
 sanski_most,Sanski Most,Sanski Most,Сански Мост,Sanski Most,70,6
 sapna,Sapna,Sapna,Сапна,Sapna,70,6
-sarajevo_canton,Sarajevo Canton,Kanton Sarajevo,sarajevo_canton,sarajevo_canton,134,25
+sarajevo_canton,Sarajevo Canton,sarajevo_canton,sarajevo_canton,sarajevo_canton,134,25
 sekovici,Sekovici,Šekovići,Шековићи,Šekovići,60,1
 sipovo,Sipovo,Šipovo,Шипово,Šipovo,60,1
 siroki_brijeg,Siroki Brijeg,Široki Brijeg,Широки Бријег,Široki Brijeg,70,6
@@ -136,9 +136,9 @@ travnik,Travnik,Travnik,Травник,Travnik,70,6
 trnovo-fbih,trnovo-fbih,trnovo-fbih,trnovo-fbih,trnovo-fbih,70,6
 trnovo,trnovo,trnovo,trnovo,trnovo,60,1
 tuzla,Tuzla,Tuzla,Тузла,Tuzla,70,6
-tuzla_canton,Tuzla Canton,Tuzlanski kanton,tuzla_canton,tuzla_canton,134,25
+tuzla_canton,Tuzla Canton,tuzla_canton,tuzla_canton,tuzla_canton,134,25
 ugljevik,Ugljevik,Ugljevik,Угљевик,Ugljevik,60,1
-una-sana_canton,Una-Sana Canton,Unsko-sanski kanton,una-sana_canton,una-sana_canton,134,25
+una-sana_canton,Una-Sana Canton,una-sana_canton,una-sana_canton,una-sana_canton,134,25
 usora,Usora,Usora,Усора,Usora,70,6
 vares,Vares,Vareš,Вареш,Vareš,70,6
 velika_kladusa,Velika Kladusa,Velika Kladuša,Велика Кладуша,Velika Kladuša,70,6
@@ -148,9 +148,9 @@ vitez,Vitez,Vitez,Витез,Vitez,70,6
 vlasenica,Vlasenica,Vlasenica,Власеница,Vlasenica,60,1
 vogosca,vogosca,vogosca,vogosca,vogosca,70,6
 vukosavlje,Vukosavlje,Vukosavlje,Вукосавље,Vukosavlje,60,1
-west_herzegovina_canton,West Herzegovina Canton,Zapadno-hercegovački kanton,west_herzegovina_canton,west_herzegovina_canton,51,11
+west_herzegovina_canton,West Herzegovina Canton,west_herzegovina_canton,west_herzegovina_canton,west_herzegovina_canton,51,11
 zavidovici,Zavidovici,Zavidovići,Завидовићи,Zavidovići,70,6
-zenica-doboj_canton,Zenica-Doboj Canton,Zeničko-dobojski kanton,zenica-doboj_canton,zenica-doboj_canton,134,25
+zenica-doboj_canton,Zenica-Doboj Canton,zenica-doboj_canton,zenica-doboj_canton,zenica-doboj_canton,134,25
 zenica,Zenica,Zenica,Зеница,Zenica,70,6
 zepce,Zepce,Žepče,Жепче,Žepče,70,6
 zivinice,Zivinice,Živinice,Живинице,Živinice,70,6
