@@ -25,17 +25,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Federacija Bosne i Hercegovine",
+                "Županija Unsko-sanska",
+                "Županija Posavska",
+                "Županija Tuzlanska",
+                "Županija Zeničko-dobojska",
+                "Županija Bosansko-podrinjska",
+                "Županija Srednjobosanska",
+                "Županija Hercegovačko-neretvanska",
+                "Županija Zapadno-hercegovačka",
+                "Sarajevska županija",
+                "Županija 10",
                 ""
               ]
             },
