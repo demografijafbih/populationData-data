@@ -16,14 +16,14 @@
             "constraints": {
               "enum": [
                 "",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "federation_of_bih",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
-                "tuzla_canton",
-                "una-sana_canton",
-                "zenica-doboj_canton"
+                "Bosnian-Podrinje Canton",
+                "Central Bosnia Canton",
+                "Federation of Bosnia and Herzegovina",
+                "Herzegovina-Neretva Canton",
+                "Sarajevo Canton",
+                "Tuzla Canton",
+                "Una-Sana Canton",
+                "Zenica-Doboj Canton"
               ]
             },
             "title": "Administrative area"
