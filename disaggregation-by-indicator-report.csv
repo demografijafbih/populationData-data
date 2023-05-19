@@ -89,7 +89,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-4-2,"UNIT_MEASURE, Admin_Area, SEX",3
 #5-4-3,"UNIT_MEASURE, Admin_Area, scientific_field",3
 #5-5-1,"UNIT_MEASURE, Admin_Area, SEX",3
-#5-5-2,"UNIT_MEASURE, SEX, ADMIN_AREA",3
+#5-5-2,"UNIT_MEASURE, Admin_Area, SEX",3
 #5-5-3,"UNIT_MEASURE, SEX, ADMIN_AREA, type_of_education",4
 #5-5-4,"UNIT_MEASURE, SEX, ADMIN_AREA",3
 #5-5-5,"UNIT_MEASURE, ADMIN_AREA, scientific_field",3
