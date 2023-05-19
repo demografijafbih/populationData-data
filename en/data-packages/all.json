@@ -3657,7 +3657,7 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
+            "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3675,7 +3675,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Administrative area"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
@@ -3855,7 +3855,7 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
+            "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3873,7 +3873,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Administrative area"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
