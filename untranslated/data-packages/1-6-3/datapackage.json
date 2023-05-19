@@ -19,7 +19,7 @@
             "type": "string"
           },
           {
-            "name": "Admin area",
+            "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [

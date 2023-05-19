@@ -20,7 +20,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-5-1,"UNIT_MEASURE, SEX",2
 #1-6-1,"UNIT_MEASURE, Admin_Area",2
 #1-6-2,UNIT_MEASURE,1
-#1-6-3,"UNIT_MEASURE, Admin area",2
+#1-6-3,"UNIT_MEASURE, Admin_Area",2
 #1-6-4,UNIT_MEASURE,1
 #1-7-1,"UNIT_MEASURE, SEX, AGE",3
 #1-7-2,"UNIT_MEASURE, SEX, AGE",3
