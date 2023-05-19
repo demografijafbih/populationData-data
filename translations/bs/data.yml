@@ -558,3 +558,9 @@ number_death_rate: Stopa mortaliteta
 Admin_Area: Administrativna jedinica
 number_marriage_rate: Stopa nupcijaliteta
 T: Ukupno
+did_not_give_birth: Nisu rađale
+one_child: Jedno dijete
+two_children: Dvoje djece
+three_children: Troje djece
+four_children: Četvero djece
+5+_children: Pet i više djece
