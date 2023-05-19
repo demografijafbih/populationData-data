@@ -1,8 +1,8 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-elementary_education,elementary_education,Osnovna škola,elementary_education,elementary_education,237,1
-first_degree,first_degree,Viša škola i prvi stepen fakulteta,first_degree,first_degree,237,1
-incomplete_elementary,incomplete_elementary,Nepotpuno osnovno obrazovanje,incomplete_elementary,incomplete_elementary,237,1
+elementary_education,Elementary education,Osnovna škola,elementary_education,elementary_education,237,1
+first_degree,Higher school and first degree of faculty,Viša škola i prvi stepen fakulteta,first_degree,first_degree,237,1
+incomplete_elementary,Incomplete elementary education,Nepotpuno osnovno obrazovanje,incomplete_elementary,incomplete_elementary,237,1
 no_education,No education,Bez obrazovanja,Без образовања,Bez obrazovanja,237,1
-secondary_education,secondary_education,Srednja škola,secondary_education,secondary_education,237,1
-secondary_specialization,secondary_specialization,Specijalizacija poslije srednje škole,secondary_specialization,secondary_specialization,237,1
-university_degree,university_degree,Visoka škola / fakultet / akademija / univerzitet,university_degree,university_degree,237,1
+secondary_education,Secondary education,Srednja škola,secondary_education,secondary_education,237,1
+secondary_specialization,Secondary specialisation,Specijalizacija poslije srednje škole,secondary_specialization,secondary_specialization,237,1
+university_degree,Faculty / academy / university,Visoka škola / fakultet / akademija / univerzitet,university_degree,university_degree,237,1

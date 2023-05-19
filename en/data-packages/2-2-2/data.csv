@@ -1,238 +1,238 @@
-Year,UNIT_MEASURE,Municipality,HH_agri,Value
-2013,Number,Banovici,T,7636
-2013,Number,Bihac,T,18294
-2013,Number,Bosanska Krupa,T,7675
-2013,Number,Bosanski Petrovac,T,2798
-2013,Number,Bosansko Grahovo,T,1046
-2013,Number,Breza,T,5058
-2013,Number,Bugojno,T,9429
-2013,Number,Busovaca,T,5621
-2013,Number,Buzim,T,4326
-2013,Number,Cazin,T,16686
-2013,Number,centar_sarajevo,T,21484
-2013,Number,Capljina,T,7916
-2013,Number,Celic,T,3203
-2013,Number,Citluk,T,4667
-2013,Number,doboj-istok,T,3167
-2013,Number,doboj-jug,T,1307
-2013,Number,Dobretici,T,473
-2013,Number,domaljevac-samac,T,1312
-2013,Number,Donji Vakuf,T,4183
-2013,Number,Drvar,T,3033
-2013,Number,foca-fbih,T,747
-2013,Number,Fojnica,T,3908
-2013,Number,Glamoc,T,1437
-2013,Number,Gorazde,T,7573
-2013,Number,gornji_vakuf-uskoplje,T,5686
-2013,Number,Gracanica,T,15083
-2013,Number,Gradacac,T,11881
-2013,Number,Grude,T,4502
-2013,Number,hadzici,T,7530
-2013,Number,ilidza,T,22296
-2013,Number,ilijas,T,6386
-2013,Number,Jablanica,T,3168
-2013,Number,Jajce,T,8041
-2013,Number,Kakanj,T,12240
-2013,Number,Kalesija,T,9781
-2013,Number,Kiseljak,T,6801
-2013,Number,Kladanj,T,3847
-2013,Number,Ključ,T,4990
-2013,Number,Konjic,T,8381
-2013,Number,Kresevo,T,1845
-2013,Number,kupres-fbih,T,1489
-2013,Number,Livno,T,9028
-2013,Number,Lukavac,T,16656
-2013,Number,Ljubuski,T,7444
-2013,Number,Maglaj,T,7687
-2013,Number,Mostar,T,34129
-2013,Number,Neum,T,1394
-2013,Number,novi_grad_sarajevo,T,42274
-2013,Number,Novi Travnik,T,7267
-2013,Number,novo_sarajevo,T,25690
-2013,Number,Odzak,T,5809
-2013,Number,Olovo,T,3493
-2013,Number,Orasje,T,6192
-2013,Number,pale-fbih,T,350
-2013,Number,Posusje,T,5153
-2013,Number,Prozor,T,3653
-2013,Number,Ravno,T,929
-2013,Number,Sanski Most,T,11847
-2013,Number,Sapna,T,3085
-2013,Number,Srebrenik,T,13187
-2013,Number,stari_grad_sarajevo,T,13753
-2013,Number,Stolac,T,3884
-2013,Number,Siroki Brijeg,T,7982
-2013,Number,Teocak,T,2020
-2013,Number,Tesanj,T,13426
-2013,Number,Tomislavgrad,T,7731
-2013,Number,Travnik,T,16445
-2013,Number,trnovo-fbih,T,647
-2013,Number,Tuzla,T,42630
-2013,Number,Usora,T,1936
-2013,Number,Vares,T,3582
-2013,Number,Velika Kladusa,T,11651
-2013,Number,Visoko,T,12900
-2013,Number,Vitez,T,8190
-2013,Number,vogosca,T,8811
-2013,Number,Zavidovici,T,12088
-2013,Number,Zenica,T,38609
-2013,Number,Zepce,T,8830
-2013,Number,Zivinice,T,18431
-2013,Number,Banovici,agri_activity,3952
-2013,Number,Bihac,agri_activity,4598
-2013,Number,Bosanska Krupa,agri_activity,2488
-2013,Number,Bosanski Petrovac,agri_activity,1171
-2013,Number,Bosansko Grahovo,agri_activity,422
-2013,Number,Breza,agri_activity,2335
-2013,Number,Bugojno,agri_activity,3258
-2013,Number,Busovaca,agri_activity,2668
-2013,Number,Buzim,agri_activity,2553
-2013,Number,Cazin,agri_activity,5345
-2013,Number,centar_sarajevo,agri_activity,932
-2013,Number,Capljina,agri_activity,2326
-2013,Number,Celic,agri_activity,1537
-2013,Number,Citluk,agri_activity,1465
-2013,Number,doboj-istok,agri_activity,1846
-2013,Number,doboj-jug,agri_activity,717
-2013,Number,Dobretici,agri_activity,173
-2013,Number,domaljevac-samac,agri_activity,413
-2013,Number,Donji Vakuf,agri_activity,2104
-2013,Number,Drvar,agri_activity,643
-2013,Number,foca-fbih,agri_activity,296
-2013,Number,Fojnica,agri_activity,1500
-2013,Number,Glamoc,agri_activity,550
-2013,Number,Gorazde,agri_activity,2903
-2013,Number,gornji_vakuf-uskoplje,agri_activity,2438
-2013,Number,Gracanica,agri_activity,7084
-2013,Number,Gradacac,agri_activity,4784
-2013,Number,Grude,agri_activity,1982
-2013,Number,hadzici,agri_activity,3254
-2013,Number,ilidza,agri_activity,2931
-2013,Number,ilijas,agri_activity,2273
-2013,Number,Jablanica,agri_activity,1680
-2013,Number,Jajce,agri_activity,3317
-2013,Number,Kakanj,agri_activity,5490
-2013,Number,Kalesija,agri_activity,5217
-2013,Number,Kiseljak,agri_activity,3256
-2013,Number,Kladanj,agri_activity,2244
-2013,Number,Ključ,agri_activity,1343
-2013,Number,Konjic,agri_activity,2426
-2013,Number,Kresevo,agri_activity,667
-2013,Number,kupres-fbih,agri_activity,406
-2013,Number,Livno,agri_activity,3065
-2013,Number,Lukavac,agri_activity,6475
-2013,Number,Ljubuski,agri_activity,2302
-2013,Number,Maglaj,agri_activity,3243
-2013,Number,Mostar,agri_activity,6039
-2013,Number,Neum,agri_activity,350
-2013,Number,novi_grad_sarajevo,agri_activity,3007
-2013,Number,Novi Travnik,agri_activity,3077
-2013,Number,novo_sarajevo,agri_activity,855
-2013,Number,Odzak,agri_activity,1342
-2013,Number,Olovo,agri_activity,1929
-2013,Number,Orasje,agri_activity,2205
-2013,Number,pale-fbih,agri_activity,174
-2013,Number,Posusje,agri_activity,1783
-2013,Number,Prozor,agri_activity,1588
-2013,Number,Ravno,agri_activity,261
-2013,Number,Sanski Most,agri_activity,1912
-2013,Number,Sapna,agri_activity,1524
-2013,Number,Srebrenik,agri_activity,5602
-2013,Number,stari_grad_sarajevo,agri_activity,917
-2013,Number,Stolac,agri_activity,1561
-2013,Number,Siroki Brijeg,agri_activity,3525
-2013,Number,Teocak,agri_activity,1036
-2013,Number,Tesanj,agri_activity,6098
-2013,Number,Tomislavgrad,agri_activity,2153
-2013,Number,Travnik,agri_activity,5648
-2013,Number,trnovo-fbih,agri_activity,435
-2013,Number,Tuzla,agri_activity,6752
-2013,Number,Usora,agri_activity,927
-2013,Number,Vares,agri_activity,1167
-2013,Number,Velika Kladusa,agri_activity,4535
-2013,Number,Visoko,agri_activity,5810
-2013,Number,Vitez,agri_activity,3383
-2013,Number,vogosca,agri_activity,1508
-2013,Number,Zavidovici,agri_activity,6224
-2013,Number,Zenica,agri_activity,8853
-2013,Number,Zepce,agri_activity,4829
-2013,Number,Zivinice,agri_activity,7980
-2013,Number,Banovici,agri_activity_sale,246
-2013,Number,Bihac,agri_activity_sale,444
-2013,Number,Bosanska Krupa,agri_activity_sale,484
-2013,Number,Bosanski Petrovac,agri_activity_sale,229
-2013,Number,Bosansko Grahovo,agri_activity_sale,61
-2013,Number,Breza,agri_activity_sale,247
-2013,Number,Bugojno,agri_activity_sale,649
-2013,Number,Busovaca,agri_activity_sale,253
-2013,Number,Buzim,agri_activity_sale,582
-2013,Number,Cazin,agri_activity_sale,1105
-2013,Number,centar_sarajevo,agri_activity_sale,73
-2013,Number,Capljina,agri_activity_sale,1457
-2013,Number,Celic,agri_activity_sale,557
-2013,Number,Citluk,agri_activity_sale,144
-2013,Number,doboj-istok,agri_activity_sale,261
-2013,Number,doboj-jug,agri_activity_sale,30
-2013,Number,Dobretici,agri_activity_sale,10
-2013,Number,domaljevac-samac,agri_activity_sale,94
-2013,Number,Donji Vakuf,agri_activity_sale,381
-2013,Number,Drvar,agri_activity_sale,75
-2013,Number,foca-fbih,agri_activity_sale,82
-2013,Number,Fojnica,agri_activity_sale,268
-2013,Number,Glamoc,agri_activity_sale,339
-2013,Number,Gorazde,agri_activity_sale,357
-2013,Number,gornji_vakuf-uskoplje,agri_activity_sale,534
-2013,Number,Gracanica,agri_activity_sale,829
-2013,Number,Gradacac,agri_activity_sale,1404
-2013,Number,Grude,agri_activity_sale,143
-2013,Number,hadzici,agri_activity_sale,253
-2013,Number,ilidza,agri_activity_sale,202
-2013,Number,ilijas,agri_activity_sale,204
-2013,Number,Jablanica,agri_activity_sale,117
-2013,Number,Jajce,agri_activity_sale,351
-2013,Number,Kakanj,agri_activity_sale,486
-2013,Number,Kalesija,agri_activity_sale,584
-2013,Number,Kiseljak,agri_activity_sale,314
-2013,Number,Kladanj,agri_activity_sale,143
-2013,Number,Ključ,agri_activity_sale,281
-2013,Number,Konjic,agri_activity_sale,572
-2013,Number,Kresevo,agri_activity_sale,65
-2013,Number,kupres-fbih,agri_activity_sale,123
-2013,Number,Livno,agri_activity_sale,466
-2013,Number,Lukavac,agri_activity_sale,331
-2013,Number,Ljubuski,agri_activity_sale,766
-2013,Number,Maglaj,agri_activity_sale,216
-2013,Number,Mostar,agri_activity_sale,635
-2013,Number,Neum,agri_activity_sale,15
-2013,Number,novi_grad_sarajevo,agri_activity_sale,164
-2013,Number,Novi Travnik,agri_activity_sale,679
-2013,Number,novo_sarajevo,agri_activity_sale,58
-2013,Number,Odzak,agri_activity_sale,238
-2013,Number,Olovo,agri_activity_sale,98
-2013,Number,Orasje,agri_activity_sale,502
-2013,Number,pale-fbih,agri_activity_sale,23
-2013,Number,Posusje,agri_activity_sale,106
-2013,Number,Prozor,agri_activity_sale,208
-2013,Number,Ravno,agri_activity_sale,74
-2013,Number,Sanski Most,agri_activity_sale,481
-2013,Number,Sapna,agri_activity_sale,177
-2013,Number,Srebrenik,agri_activity_sale,496
-2013,Number,stari_grad_sarajevo,agri_activity_sale,51
-2013,Number,Stolac,agri_activity_sale,586
-2013,Number,Siroki Brijeg,agri_activity_sale,146
-2013,Number,Teocak,agri_activity_sale,54
-2013,Number,Tesanj,agri_activity_sale,874
-2013,Number,Tomislavgrad,agri_activity_sale,356
-2013,Number,Travnik,agri_activity_sale,1204
-2013,Number,trnovo-fbih,agri_activity_sale,80
-2013,Number,Tuzla,agri_activity_sale,393
-2013,Number,Usora,agri_activity_sale,46
-2013,Number,Vares,agri_activity_sale,146
-2013,Number,Velika Kladusa,agri_activity_sale,941
-2013,Number,Visoko,agri_activity_sale,928
-2013,Number,Vitez,agri_activity_sale,281
-2013,Number,vogosca,agri_activity_sale,156
-2013,Number,Zavidovici,agri_activity_sale,296
-2013,Number,Zenica,agri_activity_sale,1231
-2013,Number,Zepce,agri_activity_sale,787
-2013,Number,Zivinice,agri_activity_sale,767
+Year,UNIT_MEASURE,Municipality,Household agricultural activity,Value
+2013,Number,Banovici,Total,7636
+2013,Number,Bihac,Total,18294
+2013,Number,Bosanska Krupa,Total,7675
+2013,Number,Bosanski Petrovac,Total,2798
+2013,Number,Bosansko Grahovo,Total,1046
+2013,Number,Breza,Total,5058
+2013,Number,Bugojno,Total,9429
+2013,Number,Busovaca,Total,5621
+2013,Number,Buzim,Total,4326
+2013,Number,Cazin,Total,16686
+2013,Number,Sarajevo-Centar,Total,21484
+2013,Number,Capljina,Total,7916
+2013,Number,Celic,Total,3203
+2013,Number,Citluk,Total,4667
+2013,Number,Doboj-Istok,Total,3167
+2013,Number,Doboj-Jug,Total,1307
+2013,Number,Dobretici,Total,473
+2013,Number,Domaljevac-Samac,Total,1312
+2013,Number,Donji Vakuf,Total,4183
+2013,Number,Drvar,Total,3033
+2013,Number,Foca-FBiH,Total,747
+2013,Number,Fojnica,Total,3908
+2013,Number,Glamoc,Total,1437
+2013,Number,Gorazde,Total,7573
+2013,Number,Gornji Vakuf-Uskoplje,Total,5686
+2013,Number,Gracanica,Total,15083
+2013,Number,Gradacac,Total,11881
+2013,Number,Grude,Total,4502
+2013,Number,Sarajevo-Hadzici,Total,7530
+2013,Number,Sarajevo-Ilidza,Total,22296
+2013,Number,Sarajevo-Ilijas,Total,6386
+2013,Number,Jablanica,Total,3168
+2013,Number,Jajce,Total,8041
+2013,Number,Kakanj,Total,12240
+2013,Number,Kalesija,Total,9781
+2013,Number,Kiseljak,Total,6801
+2013,Number,Kladanj,Total,3847
+2013,Number,Kljuc,Total,4990
+2013,Number,Konjic,Total,8381
+2013,Number,Kresevo,Total,1845
+2013,Number,Kupres-FBiH,Total,1489
+2013,Number,Livno,Total,9028
+2013,Number,Lukavac,Total,16656
+2013,Number,Ljubuski,Total,7444
+2013,Number,Maglaj,Total,7687
+2013,Number,Mostar,Total,34129
+2013,Number,Neum,Total,1394
+2013,Number,Sarajevo-Novi Grad,Total,42274
+2013,Number,Novi Travnik,Total,7267
+2013,Number,Sarajevo-Novo Sarajevo,Total,25690
+2013,Number,Odzak,Total,5809
+2013,Number,Olovo,Total,3493
+2013,Number,Orasje,Total,6192
+2013,Number,Pale-FBiH,Total,350
+2013,Number,Posusje,Total,5153
+2013,Number,Prozor,Total,3653
+2013,Number,Ravno,Total,929
+2013,Number,Sanski Most,Total,11847
+2013,Number,Sapna,Total,3085
+2013,Number,Srebrenik,Total,13187
+2013,Number,Sarajevo-Stari Grad,Total,13753
+2013,Number,Stolac,Total,3884
+2013,Number,Siroki Brijeg,Total,7982
+2013,Number,Teocak,Total,2020
+2013,Number,Tesanj,Total,13426
+2013,Number,Tomislavgrad,Total,7731
+2013,Number,Travnik,Total,16445
+2013,Number,Trnovo-FBiH,Total,647
+2013,Number,Tuzla,Total,42630
+2013,Number,Usora,Total,1936
+2013,Number,Vares,Total,3582
+2013,Number,Velika Kladusa,Total,11651
+2013,Number,Visoko,Total,12900
+2013,Number,Vitez,Total,8190
+2013,Number,Sarajevo-Vogosca,Total,8811
+2013,Number,Zavidovici,Total,12088
+2013,Number,Zenica,Total,38609
+2013,Number,Zepce,Total,8830
+2013,Number,Zivinice,Total,18431
+2013,Number,Banovici,Engaged in agricultural activities,3952
+2013,Number,Bihac,Engaged in agricultural activities,4598
+2013,Number,Bosanska Krupa,Engaged in agricultural activities,2488
+2013,Number,Bosanski Petrovac,Engaged in agricultural activities,1171
+2013,Number,Bosansko Grahovo,Engaged in agricultural activities,422
+2013,Number,Breza,Engaged in agricultural activities,2335
+2013,Number,Bugojno,Engaged in agricultural activities,3258
+2013,Number,Busovaca,Engaged in agricultural activities,2668
+2013,Number,Buzim,Engaged in agricultural activities,2553
+2013,Number,Cazin,Engaged in agricultural activities,5345
+2013,Number,Sarajevo-Centar,Engaged in agricultural activities,932
+2013,Number,Capljina,Engaged in agricultural activities,2326
+2013,Number,Celic,Engaged in agricultural activities,1537
+2013,Number,Citluk,Engaged in agricultural activities,1465
+2013,Number,Doboj-Istok,Engaged in agricultural activities,1846
+2013,Number,Doboj-Jug,Engaged in agricultural activities,717
+2013,Number,Dobretici,Engaged in agricultural activities,173
+2013,Number,Domaljevac-Samac,Engaged in agricultural activities,413
+2013,Number,Donji Vakuf,Engaged in agricultural activities,2104
+2013,Number,Drvar,Engaged in agricultural activities,643
+2013,Number,Foca-FBiH,Engaged in agricultural activities,296
+2013,Number,Fojnica,Engaged in agricultural activities,1500
+2013,Number,Glamoc,Engaged in agricultural activities,550
+2013,Number,Gorazde,Engaged in agricultural activities,2903
+2013,Number,Gornji Vakuf-Uskoplje,Engaged in agricultural activities,2438
+2013,Number,Gracanica,Engaged in agricultural activities,7084
+2013,Number,Gradacac,Engaged in agricultural activities,4784
+2013,Number,Grude,Engaged in agricultural activities,1982
+2013,Number,Sarajevo-Hadzici,Engaged in agricultural activities,3254
+2013,Number,Sarajevo-Ilidza,Engaged in agricultural activities,2931
+2013,Number,Sarajevo-Ilijas,Engaged in agricultural activities,2273
+2013,Number,Jablanica,Engaged in agricultural activities,1680
+2013,Number,Jajce,Engaged in agricultural activities,3317
+2013,Number,Kakanj,Engaged in agricultural activities,5490
+2013,Number,Kalesija,Engaged in agricultural activities,5217
+2013,Number,Kiseljak,Engaged in agricultural activities,3256
+2013,Number,Kladanj,Engaged in agricultural activities,2244
+2013,Number,Kljuc,Engaged in agricultural activities,1343
+2013,Number,Konjic,Engaged in agricultural activities,2426
+2013,Number,Kresevo,Engaged in agricultural activities,667
+2013,Number,Kupres-FBiH,Engaged in agricultural activities,406
+2013,Number,Livno,Engaged in agricultural activities,3065
+2013,Number,Lukavac,Engaged in agricultural activities,6475
+2013,Number,Ljubuski,Engaged in agricultural activities,2302
+2013,Number,Maglaj,Engaged in agricultural activities,3243
+2013,Number,Mostar,Engaged in agricultural activities,6039
+2013,Number,Neum,Engaged in agricultural activities,350
+2013,Number,Sarajevo-Novi Grad,Engaged in agricultural activities,3007
+2013,Number,Novi Travnik,Engaged in agricultural activities,3077
+2013,Number,Sarajevo-Novo Sarajevo,Engaged in agricultural activities,855
+2013,Number,Odzak,Engaged in agricultural activities,1342
+2013,Number,Olovo,Engaged in agricultural activities,1929
+2013,Number,Orasje,Engaged in agricultural activities,2205
+2013,Number,Pale-FBiH,Engaged in agricultural activities,174
+2013,Number,Posusje,Engaged in agricultural activities,1783
+2013,Number,Prozor,Engaged in agricultural activities,1588
+2013,Number,Ravno,Engaged in agricultural activities,261
+2013,Number,Sanski Most,Engaged in agricultural activities,1912
+2013,Number,Sapna,Engaged in agricultural activities,1524
+2013,Number,Srebrenik,Engaged in agricultural activities,5602
+2013,Number,Sarajevo-Stari Grad,Engaged in agricultural activities,917
+2013,Number,Stolac,Engaged in agricultural activities,1561
+2013,Number,Siroki Brijeg,Engaged in agricultural activities,3525
+2013,Number,Teocak,Engaged in agricultural activities,1036
+2013,Number,Tesanj,Engaged in agricultural activities,6098
+2013,Number,Tomislavgrad,Engaged in agricultural activities,2153
+2013,Number,Travnik,Engaged in agricultural activities,5648
+2013,Number,Trnovo-FBiH,Engaged in agricultural activities,435
+2013,Number,Tuzla,Engaged in agricultural activities,6752
+2013,Number,Usora,Engaged in agricultural activities,927
+2013,Number,Vares,Engaged in agricultural activities,1167
+2013,Number,Velika Kladusa,Engaged in agricultural activities,4535
+2013,Number,Visoko,Engaged in agricultural activities,5810
+2013,Number,Vitez,Engaged in agricultural activities,3383
+2013,Number,Sarajevo-Vogosca,Engaged in agricultural activities,1508
+2013,Number,Zavidovici,Engaged in agricultural activities,6224
+2013,Number,Zenica,Engaged in agricultural activities,8853
+2013,Number,Zepce,Engaged in agricultural activities,4829
+2013,Number,Zivinice,Engaged in agricultural activities,7980
+2013,Number,Banovici,Engaged in agricultural activities and sell their products in the market,246
+2013,Number,Bihac,Engaged in agricultural activities and sell their products in the market,444
+2013,Number,Bosanska Krupa,Engaged in agricultural activities and sell their products in the market,484
+2013,Number,Bosanski Petrovac,Engaged in agricultural activities and sell their products in the market,229
+2013,Number,Bosansko Grahovo,Engaged in agricultural activities and sell their products in the market,61
+2013,Number,Breza,Engaged in agricultural activities and sell their products in the market,247
+2013,Number,Bugojno,Engaged in agricultural activities and sell their products in the market,649
+2013,Number,Busovaca,Engaged in agricultural activities and sell their products in the market,253
+2013,Number,Buzim,Engaged in agricultural activities and sell their products in the market,582
+2013,Number,Cazin,Engaged in agricultural activities and sell their products in the market,1105
+2013,Number,Sarajevo-Centar,Engaged in agricultural activities and sell their products in the market,73
+2013,Number,Capljina,Engaged in agricultural activities and sell their products in the market,1457
+2013,Number,Celic,Engaged in agricultural activities and sell their products in the market,557
+2013,Number,Citluk,Engaged in agricultural activities and sell their products in the market,144
+2013,Number,Doboj-Istok,Engaged in agricultural activities and sell their products in the market,261
+2013,Number,Doboj-Jug,Engaged in agricultural activities and sell their products in the market,30
+2013,Number,Dobretici,Engaged in agricultural activities and sell their products in the market,10
+2013,Number,Domaljevac-Samac,Engaged in agricultural activities and sell their products in the market,94
+2013,Number,Donji Vakuf,Engaged in agricultural activities and sell their products in the market,381
+2013,Number,Drvar,Engaged in agricultural activities and sell their products in the market,75
+2013,Number,Foca-FBiH,Engaged in agricultural activities and sell their products in the market,82
+2013,Number,Fojnica,Engaged in agricultural activities and sell their products in the market,268
+2013,Number,Glamoc,Engaged in agricultural activities and sell their products in the market,339
+2013,Number,Gorazde,Engaged in agricultural activities and sell their products in the market,357
+2013,Number,Gornji Vakuf-Uskoplje,Engaged in agricultural activities and sell their products in the market,534
+2013,Number,Gracanica,Engaged in agricultural activities and sell their products in the market,829
+2013,Number,Gradacac,Engaged in agricultural activities and sell their products in the market,1404
+2013,Number,Grude,Engaged in agricultural activities and sell their products in the market,143
+2013,Number,Sarajevo-Hadzici,Engaged in agricultural activities and sell their products in the market,253
+2013,Number,Sarajevo-Ilidza,Engaged in agricultural activities and sell their products in the market,202
+2013,Number,Sarajevo-Ilijas,Engaged in agricultural activities and sell their products in the market,204
+2013,Number,Jablanica,Engaged in agricultural activities and sell their products in the market,117
+2013,Number,Jajce,Engaged in agricultural activities and sell their products in the market,351
+2013,Number,Kakanj,Engaged in agricultural activities and sell their products in the market,486
+2013,Number,Kalesija,Engaged in agricultural activities and sell their products in the market,584
+2013,Number,Kiseljak,Engaged in agricultural activities and sell their products in the market,314
+2013,Number,Kladanj,Engaged in agricultural activities and sell their products in the market,143
+2013,Number,Kljuc,Engaged in agricultural activities and sell their products in the market,281
+2013,Number,Konjic,Engaged in agricultural activities and sell their products in the market,572
+2013,Number,Kresevo,Engaged in agricultural activities and sell their products in the market,65
+2013,Number,Kupres-FBiH,Engaged in agricultural activities and sell their products in the market,123
+2013,Number,Livno,Engaged in agricultural activities and sell their products in the market,466
+2013,Number,Lukavac,Engaged in agricultural activities and sell their products in the market,331
+2013,Number,Ljubuski,Engaged in agricultural activities and sell their products in the market,766
+2013,Number,Maglaj,Engaged in agricultural activities and sell their products in the market,216
+2013,Number,Mostar,Engaged in agricultural activities and sell their products in the market,635
+2013,Number,Neum,Engaged in agricultural activities and sell their products in the market,15
+2013,Number,Sarajevo-Novi Grad,Engaged in agricultural activities and sell their products in the market,164
+2013,Number,Novi Travnik,Engaged in agricultural activities and sell their products in the market,679
+2013,Number,Sarajevo-Novo Sarajevo,Engaged in agricultural activities and sell their products in the market,58
+2013,Number,Odzak,Engaged in agricultural activities and sell their products in the market,238
+2013,Number,Olovo,Engaged in agricultural activities and sell their products in the market,98
+2013,Number,Orasje,Engaged in agricultural activities and sell their products in the market,502
+2013,Number,Pale-FBiH,Engaged in agricultural activities and sell their products in the market,23
+2013,Number,Posusje,Engaged in agricultural activities and sell their products in the market,106
+2013,Number,Prozor,Engaged in agricultural activities and sell their products in the market,208
+2013,Number,Ravno,Engaged in agricultural activities and sell their products in the market,74
+2013,Number,Sanski Most,Engaged in agricultural activities and sell their products in the market,481
+2013,Number,Sapna,Engaged in agricultural activities and sell their products in the market,177
+2013,Number,Srebrenik,Engaged in agricultural activities and sell their products in the market,496
+2013,Number,Sarajevo-Stari Grad,Engaged in agricultural activities and sell their products in the market,51
+2013,Number,Stolac,Engaged in agricultural activities and sell their products in the market,586
+2013,Number,Siroki Brijeg,Engaged in agricultural activities and sell their products in the market,146
+2013,Number,Teocak,Engaged in agricultural activities and sell their products in the market,54
+2013,Number,Tesanj,Engaged in agricultural activities and sell their products in the market,874
+2013,Number,Tomislavgrad,Engaged in agricultural activities and sell their products in the market,356
+2013,Number,Travnik,Engaged in agricultural activities and sell their products in the market,1204
+2013,Number,Trnovo-FBiH,Engaged in agricultural activities and sell their products in the market,80
+2013,Number,Tuzla,Engaged in agricultural activities and sell their products in the market,393
+2013,Number,Usora,Engaged in agricultural activities and sell their products in the market,46
+2013,Number,Vares,Engaged in agricultural activities and sell their products in the market,146
+2013,Number,Velika Kladusa,Engaged in agricultural activities and sell their products in the market,941
+2013,Number,Visoko,Engaged in agricultural activities and sell their products in the market,928
+2013,Number,Vitez,Engaged in agricultural activities and sell their products in the market,281
+2013,Number,Sarajevo-Vogosca,Engaged in agricultural activities and sell their products in the market,156
+2013,Number,Zavidovici,Engaged in agricultural activities and sell their products in the market,296
+2013,Number,Zenica,Engaged in agricultural activities and sell their products in the market,1231
+2013,Number,Zepce,Engaged in agricultural activities and sell their products in the market,787
+2013,Number,Zivinice,Engaged in agricultural activities and sell their products in the market,767

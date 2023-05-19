@@ -31,7 +31,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -120,7 +120,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -380,7 +380,7 @@
                 "84",
                 "85+",
                 "9",
-                "T"
+                "Total"
               ]
             },
             "title": "Age"
@@ -535,11 +535,11 @@
                 "grad_trebinje",
                 "grad_zvornik",
                 "Han Pijesak",
-                "East Ilidza",
-                "East Drvar",
-                "East Mostar",
-                "East Stari Grad",
-                "East Novo Sarajevo",
+                "Istocna Ilidza",
+                "Istocni Drvar",
+                "Istocni Mostar",
+                "Istocni Stari Grad",
+                "Istocno Novo Sarajevo",
                 "Jezero",
                 "Kalinovik",
                 "Knezevo",
@@ -676,7 +676,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "BIRTHS",
@@ -752,7 +752,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -844,12 +844,12 @@
             "constraints": {
               "enum": [
                 "",
-                "T",
-                "agri_activity",
-                "agri_activity_sale"
+                "Total",
+                "Engaged in agricultural activities",
+                "Engaged in agricultural activities and sell their products in the market"
               ]
             },
-            "title": "HH_agri"
+            "title": "Household agricultural activity"
           },
           {
             "name": "Municipality",
@@ -869,48 +869,48 @@
                 "Capljina",
                 "Cazin",
                 "Celic",
-                "centar_sarajevo",
+                "Sarajevo-Centar",
                 "Citluk",
-                "doboj-istok",
-                "doboj-jug",
+                "Doboj-Istok",
+                "Doboj-Jug",
                 "Dobretici",
-                "domaljevac-samac",
+                "Domaljevac-Samac",
                 "Donji Vakuf",
                 "Drvar",
-                "foca-fbih",
+                "Foca-FBiH",
                 "Fojnica",
                 "Glamoc",
                 "Gorazde",
-                "gornji_vakuf-uskoplje",
+                "Gornji Vakuf-Uskoplje",
                 "Gracanica",
                 "Gradacac",
                 "Grude",
-                "hadzici",
-                "ilidza",
-                "ilijas",
+                "Sarajevo-Hadzici",
+                "Sarajevo-Ilidza",
+                "Sarajevo-Ilijas",
                 "Jablanica",
                 "Jajce",
                 "Kakanj",
                 "Kalesija",
                 "Kiseljak",
                 "Kladanj",
-                "Ključ",
+                "Kljuc",
                 "Konjic",
                 "Kresevo",
-                "kupres-fbih",
+                "Kupres-FBiH",
                 "Livno",
                 "Ljubuski",
                 "Lukavac",
                 "Maglaj",
                 "Mostar",
                 "Neum",
-                "novi_grad_sarajevo",
+                "Sarajevo-Novi Grad",
                 "Novi Travnik",
-                "novo_sarajevo",
+                "Sarajevo-Novo Sarajevo",
                 "Odzak",
                 "Olovo",
                 "Orasje",
-                "pale-fbih",
+                "Pale-FBiH",
                 "Posusje",
                 "Prozor",
                 "Ravno",
@@ -918,20 +918,20 @@
                 "Sapna",
                 "Siroki Brijeg",
                 "Srebrenik",
-                "stari_grad_sarajevo",
+                "Sarajevo-Stari Grad",
                 "Stolac",
                 "Teocak",
                 "Tesanj",
                 "Tomislavgrad",
                 "Travnik",
-                "trnovo-fbih",
+                "Trnovo-FBiH",
                 "Tuzla",
                 "Usora",
                 "Vares",
                 "Velika Kladusa",
                 "Visoko",
                 "Vitez",
-                "vogosca",
+                "Sarajevo-Vogosca",
                 "Zavidovici",
                 "Zenica",
                 "Zepce",
@@ -1014,7 +1014,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1081,7 +1081,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -1170,7 +1170,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -1304,7 +1304,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -1628,7 +1628,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp949",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1637,17 +1637,17 @@
             "constraints": {
               "enum": [
                 "",
-                "T",
-                "communication",
-                "dressing",
-                "eyesight",
-                "hearing",
-                "memory",
-                "Multiple disabilities",
-                "walking"
+                "Total",
+                "Communication",
+                "Dressing and personal hygiene",
+                "Seeing, even with the use of seeing aids",
+                "Hearing, even with the use of hearing aids",
+                "Remembering or concentrating",
+                "With multiple disabilities",
+                "Walking or climbing the stairs"
               ]
             },
-            "title": "Disabilities"
+            "title": "Type of disability"
           },
           {
             "name": "Municipality",
@@ -1667,48 +1667,48 @@
                 "Capljina",
                 "Cazin",
                 "Celic",
-                "centar_sarajevo",
+                "Sarajevo-Centar",
                 "Citluk",
-                "doboj-istok",
-                "doboj-jug",
+                "Doboj-Istok",
+                "Doboj-Jug",
                 "Dobretici",
-                "domaljevac-samac",
+                "Domaljevac-Samac",
                 "Donji Vakuf",
                 "Drvar",
-                "foca-fbih",
+                "Foca-FBiH",
                 "Fojnica",
                 "Glamoc",
                 "Gorazde",
-                "gornji_vakuf-uskoplje",
+                "Gornji Vakuf-Uskoplje",
                 "Gracanica",
                 "Gradacac",
                 "Grude",
-                "hadzici",
-                "ilidza",
-                "ilijas",
+                "Sarajevo-Hadzici",
+                "Sarajevo-Ilidza",
+                "Sarajevo-Ilijas",
                 "Jablanica",
                 "Jajce",
                 "Kakanj",
                 "Kalesija",
                 "Kiseljak",
                 "Kladanj",
-                "Ključ",
+                "Kljuc",
                 "Konjic",
                 "Kresevo",
-                "kupres-fbih",
+                "Kupres-FBiH",
                 "Livno",
                 "Ljubuski",
                 "Lukavac",
                 "Maglaj",
                 "Mostar",
                 "Neum",
-                "novi_grad_sarajevo",
+                "Sarajevo-Novi Grad",
                 "Novi Travnik",
-                "novo_sarajevo",
+                "Sarajevo-Novo Sarajevo",
                 "Odzak",
                 "Olovo",
                 "Orasje",
-                "pale-fbih",
+                "Pale-FBiH",
                 "Posusje",
                 "Prozor",
                 "Ravno",
@@ -1716,20 +1716,20 @@
                 "Sapna",
                 "Siroki Brijeg",
                 "Srebrenik",
-                "stari_grad_sarajevo",
+                "Sarajevo-Stari Grad",
                 "Stolac",
                 "Teocak",
                 "Tesanj",
                 "Tomislavgrad",
                 "Travnik",
-                "trnovo-fbih",
+                "Trnovo-FBiH",
                 "Tuzla",
                 "Usora",
                 "Vares",
                 "Velika Kladusa",
                 "Visoko",
                 "Vitez",
-                "vogosca",
+                "Sarajevo-Vogosca",
                 "Zavidovici",
                 "Zenica",
                 "Zepce",
@@ -1923,7 +1923,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2141,7 +2141,7 @@
                 "89",
                 "9",
                 "90 +",
-                "T"
+                "Total"
               ]
             },
             "title": "Age"
@@ -2307,7 +2307,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -2367,7 +2367,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -2597,7 +2597,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2667,7 +2667,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -2829,7 +2829,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2876,7 +2876,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2943,7 +2943,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -3090,7 +3090,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -3188,7 +3188,7 @@
                 "80-84",
                 "85-89",
                 "90 +",
-                "T"
+                "Total"
               ]
             },
             "title": "Age"
@@ -3254,7 +3254,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -3314,7 +3314,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3533,10 +3533,10 @@
                 "6",
                 "7",
                 "8+",
-                "T"
+                "Total"
               ]
             },
-            "title": "HH_size"
+            "title": "Household size"
           },
           {
             "name": "Municipality",
@@ -3556,48 +3556,48 @@
                 "Capljina",
                 "Cazin",
                 "Celic",
-                "centar_sarajevo",
+                "Sarajevo-Centar",
                 "Citluk",
-                "doboj-istok",
-                "doboj-jug",
+                "Doboj-Istok",
+                "Doboj-Jug",
                 "Dobretici",
-                "domaljevac-samac",
+                "Domaljevac-Samac",
                 "Donji Vakuf",
                 "Drvar",
-                "foca-fbih",
+                "Foca-FBiH",
                 "Fojnica",
                 "Glamoc",
                 "Gorazde",
-                "gornji_vakuf-uskoplje",
+                "Gornji Vakuf-Uskoplje",
                 "Gracanica",
                 "Gradacac",
                 "Grude",
-                "hadzici",
-                "ilidza",
-                "ilijas",
+                "Sarajevo-Hadzici",
+                "Sarajevo-Ilidza",
+                "Sarajevo-Ilijas",
                 "Jablanica",
                 "Jajce",
                 "Kakanj",
                 "Kalesija",
                 "Kiseljak",
                 "Kladanj",
-                "Ključ",
+                "Kljuc",
                 "Konjic",
                 "Kresevo",
-                "kupres-fbih",
+                "Kupres-FBiH",
                 "Livno",
                 "Ljubuski",
                 "Lukavac",
                 "Maglaj",
                 "Mostar",
                 "Neum",
-                "novi_grad_sarajevo",
+                "Sarajevo-Novi Grad",
                 "Novi Travnik",
-                "novo_sarajevo",
+                "Sarajevo-Novo Sarajevo",
                 "Odzak",
                 "Olovo",
                 "Orasje",
-                "pale-fbih",
+                "Pale-FBiH",
                 "Posusje",
                 "Prozor",
                 "Ravno",
@@ -3605,20 +3605,20 @@
                 "Sapna",
                 "Siroki Brijeg",
                 "Srebrenik",
-                "stari_grad_sarajevo",
+                "Sarajevo-Stari Grad",
                 "Stolac",
                 "Teocak",
                 "Tesanj",
                 "Tomislavgrad",
                 "Travnik",
-                "trnovo-fbih",
+                "Trnovo-FBiH",
                 "Tuzla",
                 "Usora",
                 "Vares",
                 "Velika Kladusa",
                 "Visoko",
                 "Vitez",
-                "vogosca",
+                "Sarajevo-Vogosca",
                 "Zavidovici",
                 "Zenica",
                 "Zepce",
@@ -3675,7 +3675,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -3725,13 +3725,13 @@
             "constraints": {
               "enum": [
                 "",
-                "5+_children",
-                "T",
+                "5+ children",
+                "Total",
                 "Did not give birth",
-                "four_children",
-                "one_child",
-                "three_children",
-                "two_children"
+                "Four children",
+                "One child",
+                "Three children",
+                "Two children"
               ]
             },
             "title": "Vital statistics"
@@ -3754,48 +3754,48 @@
                 "Capljina",
                 "Cazin",
                 "Celic",
-                "centar_sarajevo",
+                "Sarajevo-Centar",
                 "Citluk",
-                "doboj-istok",
-                "doboj-jug",
+                "Doboj-Istok",
+                "Doboj-Jug",
                 "Dobretici",
-                "domaljevac-samac",
+                "Domaljevac-Samac",
                 "Donji Vakuf",
                 "Drvar",
-                "foca-fbih",
+                "Foca-FBiH",
                 "Fojnica",
                 "Glamoc",
                 "Gorazde",
-                "gornji_vakuf-uskoplje",
+                "Gornji Vakuf-Uskoplje",
                 "Gracanica",
                 "Gradacac",
                 "Grude",
-                "hadzici",
-                "ilidza",
-                "ilijas",
+                "Sarajevo-Hadzici",
+                "Sarajevo-Ilidza",
+                "Sarajevo-Ilijas",
                 "Jablanica",
                 "Jajce",
                 "Kakanj",
                 "Kalesija",
                 "Kiseljak",
                 "Kladanj",
-                "Ključ",
+                "Kljuc",
                 "Konjic",
                 "Kresevo",
-                "kupres-fbih",
+                "Kupres-FBiH",
                 "Livno",
                 "Ljubuski",
                 "Lukavac",
                 "Maglaj",
                 "Mostar",
                 "Neum",
-                "novi_grad_sarajevo",
+                "Sarajevo-Novi Grad",
                 "Novi Travnik",
-                "novo_sarajevo",
+                "Sarajevo-Novo Sarajevo",
                 "Odzak",
                 "Olovo",
                 "Orasje",
-                "pale-fbih",
+                "Pale-FBiH",
                 "Posusje",
                 "Prozor",
                 "Ravno",
@@ -3803,20 +3803,20 @@
                 "Sapna",
                 "Siroki Brijeg",
                 "Srebrenik",
-                "stari_grad_sarajevo",
+                "Sarajevo-Stari Grad",
                 "Stolac",
                 "Teocak",
                 "Tesanj",
                 "Tomislavgrad",
                 "Travnik",
-                "trnovo-fbih",
+                "Trnovo-FBiH",
                 "Tuzla",
                 "Usora",
                 "Vares",
                 "Velika Kladusa",
                 "Visoko",
                 "Vitez",
-                "vogosca",
+                "Sarajevo-Vogosca",
                 "Zavidovici",
                 "Zenica",
                 "Zepce",
@@ -3873,7 +3873,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -4007,7 +4007,7 @@
                 "85-89",
                 "90-94",
                 "95-99",
-                "T"
+                "Total"
               ]
             },
             "title": "Age"
@@ -4099,7 +4099,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -4377,7 +4377,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4769,7 +4769,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -4930,7 +4930,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -5288,7 +5288,7 @@
                 "75-79",
                 "80-84",
                 "85+",
-                "T"
+                "Total"
               ]
             },
             "title": "Age"
@@ -5311,49 +5311,49 @@
                 "Capljina",
                 "Cazin",
                 "Celic",
-                "centar_sarajevo",
+                "Sarajevo-Centar",
                 "Citluk",
-                "doboj-istok",
-                "doboj-jug",
+                "Doboj-Istok",
+                "Doboj-Jug",
                 "Dobretici",
-                "domaljevac-samac",
+                "Domaljevac-Samac",
                 "Donji Vakuf",
                 "Drvar",
-                "foca-fbih",
+                "Foca-FBiH",
                 "Fojnica",
                 "Glamoc",
                 "Gorazde",
-                "gornji_vakuf-uskoplje",
+                "Gornji Vakuf-Uskoplje",
                 "Gracanica",
                 "Gradacac",
                 "Grude",
-                "hadzici",
-                "ilidza",
-                "ilijas",
+                "Sarajevo-Hadzici",
+                "Sarajevo-Ilidza",
+                "Sarajevo-Ilijas",
                 "Jablanica",
                 "Jajce",
                 "Kakanj",
                 "Kalesija",
                 "Kiseljak",
                 "Kladanj",
-                "Ključ",
+                "Kljuc",
                 "Konjic",
                 "Kresevo",
                 "Krupa Na Uni",
-                "kupres-fbih",
+                "Kupres-FBiH",
                 "Livno",
                 "Ljubuski",
                 "Lukavac",
                 "Maglaj",
                 "Mostar",
                 "Neum",
-                "novi_grad_sarajevo",
+                "Sarajevo-Novi Grad",
                 "Novi Travnik",
-                "novo_sarajevo",
+                "Sarajevo-Novo Sarajevo",
                 "Odzak",
                 "Olovo",
                 "Orasje",
-                "pale-fbih",
+                "Pale-FBiH",
                 "Posusje",
                 "Prozor",
                 "Ravno",
@@ -5361,20 +5361,20 @@
                 "Sapna",
                 "Siroki Brijeg",
                 "Srebrenik",
-                "stari_grad_sarajevo",
+                "Sarajevo-Stari Grad",
                 "Stolac",
                 "Teocak",
                 "Tesanj",
                 "Tomislavgrad",
                 "Travnik",
-                "trnovo-fbih",
+                "Trnovo-FBiH",
                 "Tuzla",
                 "Usora",
                 "Vares",
                 "Velika Kladusa",
                 "Visoko",
                 "Vitez",
-                "vogosca",
+                "Sarajevo-Vogosca",
                 "Zavidovici",
                 "Zenica",
                 "Zepce",
@@ -5508,8 +5508,8 @@
             "constraints": {
               "enum": [
                 "",
-                "illiterate",
-                "literate",
+                "Illiterate",
+                "Literate",
                 "Unknown"
               ]
             },
@@ -5533,48 +5533,48 @@
                 "Capljina",
                 "Cazin",
                 "Celic",
-                "centar_sarajevo",
+                "Sarajevo-Centar",
                 "Citluk",
-                "doboj-istok",
-                "doboj-jug",
+                "Doboj-Istok",
+                "Doboj-Jug",
                 "Dobretici",
-                "domaljevac-samac",
+                "Domaljevac-Samac",
                 "Donji Vakuf",
                 "Drvar",
-                "foca-fbih",
+                "Foca-FBiH",
                 "Fojnica",
                 "Glamoc",
                 "Gorazde",
-                "gornji_vakuf-uskoplje",
+                "Gornji Vakuf-Uskoplje",
                 "Gracanica",
                 "Gradacac",
                 "Grude",
-                "hadzici",
-                "ilidza",
-                "ilijas",
+                "Sarajevo-Hadzici",
+                "Sarajevo-Ilidza",
+                "Sarajevo-Ilijas",
                 "Jablanica",
                 "Jajce",
                 "Kakanj",
                 "Kalesija",
                 "Kiseljak",
                 "Kladanj",
-                "Ključ",
+                "Kljuc",
                 "Konjic",
                 "Kresevo",
-                "kupres-fbih",
+                "Kupres-FBiH",
                 "Livno",
                 "Ljubuski",
                 "Lukavac",
                 "Maglaj",
                 "Mostar",
                 "Neum",
-                "novi_grad_sarajevo",
+                "Sarajevo-Novi Grad",
                 "Novi Travnik",
-                "novo_sarajevo",
+                "Sarajevo-Novo Sarajevo",
                 "Odzak",
                 "Olovo",
                 "Orasje",
-                "pale-fbih",
+                "Pale-FBiH",
                 "Posusje",
                 "Prozor",
                 "Ravno",
@@ -5582,20 +5582,20 @@
                 "Sapna",
                 "Siroki Brijeg",
                 "Srebrenik",
-                "stari_grad_sarajevo",
+                "Sarajevo-Stari Grad",
                 "Stolac",
                 "Teocak",
                 "Tesanj",
                 "Tomislavgrad",
                 "Travnik",
-                "trnovo-fbih",
+                "Trnovo-FBiH",
                 "Tuzla",
                 "Usora",
                 "Vares",
                 "Velika Kladusa",
                 "Visoko",
                 "Vitez",
-                "vogosca",
+                "Sarajevo-Vogosca",
                 "Zavidovici",
                 "Zenica",
                 "Zepce",
@@ -5794,7 +5794,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -5857,7 +5857,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -5949,7 +5949,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative Area"
           },
           {
             "name": "SEX",
@@ -6130,16 +6130,16 @@
             "constraints": {
               "enum": [
                 "",
-                "elementary_education",
-                "first_degree",
-                "incomplete_elementary",
+                "Elementary education",
+                "Higher school and first degree of faculty",
+                "Incomplete elementary education",
                 "No education",
-                "secondary_education",
-                "secondary_specialization",
-                "university_degree"
+                "Secondary education",
+                "Secondary specialisation",
+                "Faculty / academy / university"
               ]
             },
-            "title": "Education"
+            "title": "Highest educational attainment"
           },
           {
             "name": "Municipality",
@@ -6159,48 +6159,48 @@
                 "Capljina",
                 "Cazin",
                 "Celic",
-                "centar_sarajevo",
+                "Sarajevo-Centar",
                 "Citluk",
-                "doboj-istok",
-                "doboj-jug",
+                "Doboj-Istok",
+                "Doboj-Jug",
                 "Dobretici",
-                "domaljevac-samac",
+                "Domaljevac-Samac",
                 "Donji Vakuf",
                 "Drvar",
-                "foca-fbih",
+                "Foca-FBiH",
                 "Fojnica",
                 "Glamoc",
                 "Gorazde",
-                "gornji_vakuf-uskoplje",
+                "Gornji Vakuf-Uskoplje",
                 "Gracanica",
                 "Gradacac",
                 "Grude",
-                "hadzici",
-                "ilidza",
-                "ilijas",
+                "Sarajevo-Hadzici",
+                "Sarajevo-Ilidza",
+                "Sarajevo-Ilijas",
                 "Jablanica",
                 "Jajce",
                 "Kakanj",
                 "Kalesija",
                 "Kiseljak",
                 "Kladanj",
-                "Ključ",
+                "Kljuc",
                 "Konjic",
                 "Kresevo",
-                "kupres-fbih",
+                "Kupres-FBiH",
                 "Livno",
                 "Ljubuski",
                 "Lukavac",
                 "Maglaj",
                 "Mostar",
                 "Neum",
-                "novi_grad_sarajevo",
+                "Sarajevo-Novi Grad",
                 "Novi Travnik",
-                "novo_sarajevo",
+                "Sarajevo-Novo Sarajevo",
                 "Odzak",
                 "Olovo",
                 "Orasje",
-                "pale-fbih",
+                "Pale-FBiH",
                 "Posusje",
                 "Prozor",
                 "Ravno",
@@ -6208,20 +6208,20 @@
                 "Sapna",
                 "Siroki Brijeg",
                 "Srebrenik",
-                "stari_grad_sarajevo",
+                "Sarajevo-Stari Grad",
                 "Stolac",
                 "Teocak",
                 "Tesanj",
                 "Tomislavgrad",
                 "Travnik",
-                "trnovo-fbih",
+                "Trnovo-FBiH",
                 "Tuzla",
                 "Usora",
                 "Vares",
                 "Velika Kladusa",
                 "Visoko",
                 "Vitez",
-                "vogosca",
+                "Sarajevo-Vogosca",
                 "Zavidovici",
                 "Zenica",
                 "Zepce",
@@ -6399,7 +6399,7 @@
                 "97",
                 "98",
                 "99",
-                "T"
+                "Total"
               ]
             },
             "title": "Age"
