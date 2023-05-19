@@ -2938,7 +2938,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Admin_Area",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2953,7 +2953,7 @@
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Administrativna oblast"
           },
           {
             "name": "SEX",
