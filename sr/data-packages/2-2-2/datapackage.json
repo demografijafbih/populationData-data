@@ -114,13 +114,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
-                "agri_activity",
-                "agri_activity_sale",
+                "Ukupno",
+                "Obavljanje poljoprivredne aktivnosti",
+                "Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu",
                 ""
               ]
             },
-            "title": "HH_agri"
+            "title": "Poljoprivredna aktivnost"
           },
           {
             "name": "Value",

@@ -128,7 +128,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
+                "Ukupno",
                 "0-4",
                 " 5-9",
                 " 10-14",

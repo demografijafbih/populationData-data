@@ -114,13 +114,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
-                "Нису рађале",
-                "one_child",
-                "two_children",
-                "three_children",
-                "four_children",
-                "5+_children",
+                "Ukupno",
+                "Nisu rađale",
+                "Jedno dijete",
+                "Dvoje djece",
+                "Troje djece",
+                "Četvero djece",
+                "Pet i više djece",
                 ""
               ]
             },

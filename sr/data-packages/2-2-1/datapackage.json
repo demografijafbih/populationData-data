@@ -114,7 +114,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
+                "Ukupno",
                 "1",
                 "2",
                 "3",
@@ -126,7 +126,7 @@
                 ""
               ]
             },
-            "title": "HH_size"
+            "title": "Brojnost domaćinstva"
           },
           {
             "name": "Value",

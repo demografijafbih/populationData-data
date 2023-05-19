@@ -127,18 +127,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
-                "eyesight",
-                "hearing",
-                "walking",
-                "memory",
-                "dressing",
-                "communication",
-                "Вишеструке потешкоће",
+                "Ukupno",
+                "Vid, iako nosi naočare",
+                "Sluh, iako koristi slušni aparat",
+                "Hod ili penjanje uz stepenice",
+                "Pamćenje ili koncentracija",
+                "Odijevanje i održavanje lične higijene",
+                "Komunikacija",
+                "Sa više poteškoća",
                 ""
               ]
             },
-            "title": "Disabilities"
+            "title": "Vrsta poteškoće"
           },
           {
             "name": "Value",

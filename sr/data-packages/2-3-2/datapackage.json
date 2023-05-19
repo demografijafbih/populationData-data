@@ -127,17 +127,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Без образовања",
-                "incomplete_elementary",
-                "elementary_education",
-                "secondary_education",
-                "secondary_specialization",
-                "first_degree",
-                "university_degree",
+                "Bez obrazovanja",
+                "Nepotpuno osnovno obrazovanje",
+                "Osnovna škola",
+                "Srednja škola",
+                "Specijalizacija poslije srednje škole",
+                "Viša škola i prvi stepen fakulteta",
+                "Visoka škola / fakultet / akademija / univerzitet",
                 ""
               ]
             },
-            "title": "Education"
+            "title": "Najviša završena škola"
           },
           {
             "name": "Value",

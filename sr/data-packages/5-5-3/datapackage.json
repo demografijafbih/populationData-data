@@ -25,18 +25,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "tuzla_canton",
-                "una-sana_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Federacija Bosne i Hercegovine",
+                "Tuzlanski kanton",
+                "Unsko-sanski kanton",
+                "Zeničko-dobojski kanton",
+                "Bosansko-podrinjski kanton",
+                "Srednjobosanski kanton",
+                "Hercegovačko-neretvanski kanton",
+                "Kanton Sarajevo",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrativna jedinica"
           },
           {
             "name": "type_of_education",
