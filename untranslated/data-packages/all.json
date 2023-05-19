@@ -4970,7 +4970,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "T",
                 "0-4",
                 " 5-9",
                 " 10-14",

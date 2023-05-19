@@ -5382,7 +5382,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
+                "T",
                 "0-4",
                 " 5-9",
                 " 10-14",

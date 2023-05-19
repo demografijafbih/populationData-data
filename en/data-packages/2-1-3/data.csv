@@ -1,84 +1,84 @@
 Year,UNIT_MEASURE,Municipality,Sex,Age,Value
-2013,Number,Banovici,Both sexes,Both sexes,22773
-2013,Number,Bihac,Both sexes,Both sexes,56261
-2013,Number,Bosanska Krupa,Both sexes,Both sexes,25545
-2013,Number,Bosanski Petrovac,Both sexes,Both sexes,7328
-2013,Number,Bosansko Grahovo,Both sexes,Both sexes,2449
-2013,Number,Breza,Both sexes,Both sexes,14168
-2013,Number,Bugojno,Both sexes,Both sexes,31470
-2013,Number,Busovaca,Both sexes,Both sexes,17910
-2013,Number,Buzim,Both sexes,Both sexes,19340
-2013,Number,Cazin,Both sexes,Both sexes,66149
-2013,Number,centar_sarajevo,Both sexes,Both sexes,55181
-2013,Number,Capljina,Both sexes,Both sexes,26157
-2013,Number,Celic,Both sexes,Both sexes,10502
-2013,Number,Citluk,Both sexes,Both sexes,18140
-2013,Number,doboj-istok,Both sexes,Both sexes,10248
-2013,Number,doboj-jug,Both sexes,Both sexes,4137
-2013,Number,Dobretici,Both sexes,Both sexes,1629
-2013,Number,domaljevac-samac,Both sexes,Both sexes,4771
-2013,Number,Donji Vakuf,Both sexes,Both sexes,13985
-2013,Number,Drvar,Both sexes,Both sexes,7036
-2013,Number,foca-fbih,Both sexes,Both sexes,1933
-2013,Number,Fojnica,Both sexes,Both sexes,12356
-2013,Number,Glamoc,Both sexes,Both sexes,3860
-2013,Number,Gorazde,Both sexes,Both sexes,20897
-2013,Number,gornji_vakuf-uskoplje,Both sexes,Both sexes,20933
-2013,Number,Gracanica,Both sexes,Both sexes,45220
-2013,Number,Gradacac,Both sexes,Both sexes,39340
-2013,Number,Grude,Both sexes,Both sexes,17308
-2013,Number,hadzici,Both sexes,Both sexes,23891
-2013,Number,ilidza,Both sexes,Both sexes,66730
-2013,Number,ilijas,Both sexes,Both sexes,19603
-2013,Number,Jablanica,Both sexes,Both sexes,10111
-2013,Number,Jajce,Both sexes,Both sexes,27258
-2013,Number,Kakanj,Both sexes,Both sexes,37441
-2013,Number,Kalesija,Both sexes,Both sexes,33053
-2013,Number,Kiseljak,Both sexes,Both sexes,20722
-2013,Number,Kladanj,Both sexes,Both sexes,12348
-2013,Number,Ključ,Both sexes,Both sexes,16744
-2013,Number,Konjic,Both sexes,Both sexes,25148
-2013,Number,Kresevo,Both sexes,Both sexes,5273
-2013,Number,Krupa Na Uni,Both sexes,Both sexes,1597
-2013,Number,kupres-fbih,Both sexes,Both sexes,5057
-2013,Number,Livno,Both sexes,Both sexes,34133
-2013,Number,Lukavac,Both sexes,Both sexes,44520
-2013,Number,Ljubuski,Both sexes,Both sexes,28184
-2013,Number,Maglaj,Both sexes,Both sexes,23146
-2013,Number,Mostar,Both sexes,Both sexes,105797
-2013,Number,Neum,Both sexes,Both sexes,4653
-2013,Number,novi_grad_sarajevo,Both sexes,Both sexes,118553
-2013,Number,Novi Travnik,Both sexes,Both sexes,23832
-2013,Number,novo_sarajevo,Both sexes,Both sexes,64814
-2013,Number,Odzak,Both sexes,Both sexes,18821
-2013,Number,Olovo,Both sexes,Both sexes,10175
-2013,Number,Orasje,Both sexes,Both sexes,19861
-2013,Number,pale-fbih,Both sexes,Both sexes,904
-2013,Number,Posusje,Both sexes,Both sexes,20477
-2013,Number,Prozor,Both sexes,Both sexes,14280
-2013,Number,Ravno,Both sexes,Both sexes,3219
-2013,Number,Sanski Most,Both sexes,Both sexes,41475
-2013,Number,Sapna,Both sexes,Both sexes,11178
-2013,Number,Srebrenik,Both sexes,Both sexes,39678
-2013,Number,stari_grad_sarajevo,Both sexes,Both sexes,36976
-2013,Number,Stolac,Both sexes,Both sexes,14502
-2013,Number,Siroki Brijeg,Both sexes,Both sexes,28929
-2013,Number,Teocak,Both sexes,Both sexes,7424
-2013,Number,Tesanj,Both sexes,Both sexes,43063
-2013,Number,Tomislavgrad,Both sexes,Both sexes,31592
-2013,Number,Travnik,Both sexes,Both sexes,53482
-2013,Number,trnovo-fbih,Both sexes,Both sexes,1502
-2013,Number,Tuzla,Both sexes,Both sexes,110979
-2013,Number,Usora,Both sexes,Both sexes,6603
-2013,Number,Vares,Both sexes,Both sexes,8892
-2013,Number,Velika Kladusa,Both sexes,Both sexes,40419
-2013,Number,Visoko,Both sexes,Both sexes,39938
-2013,Number,Vitez,Both sexes,Both sexes,25836
-2013,Number,vogosca,Both sexes,Both sexes,26343
-2013,Number,Zavidovici,Both sexes,Both sexes,35988
-2013,Number,Zenica,Both sexes,Both sexes,110663
-2013,Number,Zepce,Both sexes,Both sexes,30219
-2013,Number,Zivinice,Both sexes,Both sexes,57765
+2013,Number,Banovici,Both sexes,T,22773
+2013,Number,Bihac,Both sexes,T,56261
+2013,Number,Bosanska Krupa,Both sexes,T,25545
+2013,Number,Bosanski Petrovac,Both sexes,T,7328
+2013,Number,Bosansko Grahovo,Both sexes,T,2449
+2013,Number,Breza,Both sexes,T,14168
+2013,Number,Bugojno,Both sexes,T,31470
+2013,Number,Busovaca,Both sexes,T,17910
+2013,Number,Buzim,Both sexes,T,19340
+2013,Number,Cazin,Both sexes,T,66149
+2013,Number,centar_sarajevo,Both sexes,T,55181
+2013,Number,Capljina,Both sexes,T,26157
+2013,Number,Celic,Both sexes,T,10502
+2013,Number,Citluk,Both sexes,T,18140
+2013,Number,doboj-istok,Both sexes,T,10248
+2013,Number,doboj-jug,Both sexes,T,4137
+2013,Number,Dobretici,Both sexes,T,1629
+2013,Number,domaljevac-samac,Both sexes,T,4771
+2013,Number,Donji Vakuf,Both sexes,T,13985
+2013,Number,Drvar,Both sexes,T,7036
+2013,Number,foca-fbih,Both sexes,T,1933
+2013,Number,Fojnica,Both sexes,T,12356
+2013,Number,Glamoc,Both sexes,T,3860
+2013,Number,Gorazde,Both sexes,T,20897
+2013,Number,gornji_vakuf-uskoplje,Both sexes,T,20933
+2013,Number,Gracanica,Both sexes,T,45220
+2013,Number,Gradacac,Both sexes,T,39340
+2013,Number,Grude,Both sexes,T,17308
+2013,Number,hadzici,Both sexes,T,23891
+2013,Number,ilidza,Both sexes,T,66730
+2013,Number,ilijas,Both sexes,T,19603
+2013,Number,Jablanica,Both sexes,T,10111
+2013,Number,Jajce,Both sexes,T,27258
+2013,Number,Kakanj,Both sexes,T,37441
+2013,Number,Kalesija,Both sexes,T,33053
+2013,Number,Kiseljak,Both sexes,T,20722
+2013,Number,Kladanj,Both sexes,T,12348
+2013,Number,Ključ,Both sexes,T,16744
+2013,Number,Konjic,Both sexes,T,25148
+2013,Number,Kresevo,Both sexes,T,5273
+2013,Number,Krupa Na Uni,Both sexes,T,1597
+2013,Number,kupres-fbih,Both sexes,T,5057
+2013,Number,Livno,Both sexes,T,34133
+2013,Number,Lukavac,Both sexes,T,44520
+2013,Number,Ljubuski,Both sexes,T,28184
+2013,Number,Maglaj,Both sexes,T,23146
+2013,Number,Mostar,Both sexes,T,105797
+2013,Number,Neum,Both sexes,T,4653
+2013,Number,novi_grad_sarajevo,Both sexes,T,118553
+2013,Number,Novi Travnik,Both sexes,T,23832
+2013,Number,novo_sarajevo,Both sexes,T,64814
+2013,Number,Odzak,Both sexes,T,18821
+2013,Number,Olovo,Both sexes,T,10175
+2013,Number,Orasje,Both sexes,T,19861
+2013,Number,pale-fbih,Both sexes,T,904
+2013,Number,Posusje,Both sexes,T,20477
+2013,Number,Prozor,Both sexes,T,14280
+2013,Number,Ravno,Both sexes,T,3219
+2013,Number,Sanski Most,Both sexes,T,41475
+2013,Number,Sapna,Both sexes,T,11178
+2013,Number,Srebrenik,Both sexes,T,39678
+2013,Number,stari_grad_sarajevo,Both sexes,T,36976
+2013,Number,Stolac,Both sexes,T,14502
+2013,Number,Siroki Brijeg,Both sexes,T,28929
+2013,Number,Teocak,Both sexes,T,7424
+2013,Number,Tesanj,Both sexes,T,43063
+2013,Number,Tomislavgrad,Both sexes,T,31592
+2013,Number,Travnik,Both sexes,T,53482
+2013,Number,trnovo-fbih,Both sexes,T,1502
+2013,Number,Tuzla,Both sexes,T,110979
+2013,Number,Usora,Both sexes,T,6603
+2013,Number,Vares,Both sexes,T,8892
+2013,Number,Velika Kladusa,Both sexes,T,40419
+2013,Number,Visoko,Both sexes,T,39938
+2013,Number,Vitez,Both sexes,T,25836
+2013,Number,vogosca,Both sexes,T,26343
+2013,Number,Zavidovici,Both sexes,T,35988
+2013,Number,Zenica,Both sexes,T,110663
+2013,Number,Zepce,Both sexes,T,30219
+2013,Number,Zivinice,Both sexes,T,57765
 2013,Number,Banovici,Both sexes,0-4,1206
 2013,Number,Bihac,Both sexes,0-4,2652
 2013,Number,Bosanska Krupa,Both sexes,0-4,1423
@@ -1519,86 +1519,86 @@ Year,UNIT_MEASURE,Municipality,Sex,Age,Value
 2013,Number,Zenica,Both sexes,85+,617
 2013,Number,Zepce,Both sexes,85+,122
 2013,Number,Zivinice,Both sexes,85+,200
-2013,Number,Banovici,M,Both sexes,11392
-2013,Number,Bihac,M,Both sexes,27041
-2013,Number,Bosanska Krupa,M,Both sexes,12548
-2013,Number,Bosanski Petrovac,M,Both sexes,3678
-2013,Number,Bosansko Grahovo,M,Both sexes,1287
-2013,Number,Breza,M,Both sexes,6952
-2013,Number,Bugojno,M,Both sexes,15635
-2013,Number,Busovaca,M,Both sexes,9134
-2013,Number,Buzim,M,Both sexes,9885
-2013,Number,Cazin,M,Both sexes,33072
-2013,Number,centar_sarajevo,M,Both sexes,25369
-2013,Number,Capljina,M,Both sexes,12947
-2013,Number,Celic,M,Both sexes,5256
-2013,Number,Citluk,M,Both sexes,8937
-2013,Number,doboj-istok,M,Both sexes,5061
-2013,Number,doboj-jug,M,Both sexes,2065
-2013,Number,Dobretici,M,Both sexes,905
-2013,Number,domaljevac-samac,M,Both sexes,2373
-2013,Number,Donji Vakuf,M,Both sexes,6922
-2013,Number,Drvar,M,Both sexes,3473
-2013,Number,foca-fbih,M,Both sexes,998
-2013,Number,Fojnica,M,Both sexes,6197
-2013,Number,Glamoc,M,Both sexes,1963
-2013,Number,Gorazde,M,Both sexes,10163
-2013,Number,gornji_vakuf-uskoplje,M,Both sexes,10532
-2013,Number,Gracanica,M,Both sexes,21641
-2013,Number,Gradacac,M,Both sexes,19234
-2013,Number,Grude,M,Both sexes,8621
-2013,Number,hadzici,M,Both sexes,11914
-2013,Number,ilidza,M,Both sexes,32359
-2013,Number,ilijas,M,Both sexes,9381
-2013,Number,Jablanica,M,Both sexes,5027
-2013,Number,Jajce,M,Both sexes,13856
-2013,Number,Kakanj,M,Both sexes,18651
-2013,Number,Kalesija,M,Both sexes,16597
-2013,Number,Kiseljak,M,Both sexes,10285
-2013,Number,Kladanj,M,Both sexes,6108
-2013,Number,Ključ,M,Both sexes,8365
-2013,Number,Konjic,M,Both sexes,12360
-2013,Number,Kresevo,M,Both sexes,2597
-2013,Number,Krupa Na Uni,M,Both sexes,862
-2013,Number,kupres-fbih,M,Both sexes,2541
-2013,Number,Livno,M,Both sexes,17024
-2013,Number,Lukavac,M,Both sexes,21786
-2013,Number,Ljubuski,M,Both sexes,14022
-2013,Number,Maglaj,M,Both sexes,11430
-2013,Number,Mostar,M,Both sexes,51210
-2013,Number,Neum,M,Both sexes,2344
-2013,Number,novi_grad_sarajevo,M,Both sexes,55735
-2013,Number,Novi Travnik,M,Both sexes,11862
-2013,Number,novo_sarajevo,M,Both sexes,29580
-2013,Number,Odzak,M,Both sexes,9373
-2013,Number,Olovo,M,Both sexes,5084
-2013,Number,Orasje,M,Both sexes,10059
-2013,Number,pale-fbih,M,Both sexes,456
-2013,Number,Posusje,M,Both sexes,10287
-2013,Number,Prozor,M,Both sexes,7210
-2013,Number,Ravno,M,Both sexes,1657
-2013,Number,Sanski Most,M,Both sexes,20826
-2013,Number,Sapna,M,Both sexes,5739
-2013,Number,Srebrenik,M,Both sexes,19348
-2013,Number,stari_grad_sarajevo,M,Both sexes,17482
-2013,Number,Stolac,M,Both sexes,7326
-2013,Number,Siroki Brijeg,M,Both sexes,14381
-2013,Number,Teocak,M,Both sexes,3767
-2013,Number,Tesanj,M,Both sexes,21376
-2013,Number,Tomislavgrad,M,Both sexes,16055
-2013,Number,Travnik,M,Both sexes,26574
-2013,Number,trnovo-fbih,M,Both sexes,735
-2013,Number,Tuzla,M,Both sexes,52745
-2013,Number,Usora,M,Both sexes,3266
-2013,Number,Vares,M,Both sexes,4373
-2013,Number,Velika Kladusa,M,Both sexes,19889
-2013,Number,Visoko,M,Both sexes,19705
-2013,Number,Vitez,M,Both sexes,12767
-2013,Number,vogosca,M,Both sexes,12606
-2013,Number,Zavidovici,M,Both sexes,17883
-2013,Number,Zenica,M,Both sexes,54660
-2013,Number,Zepce,M,Both sexes,15335
-2013,Number,Zivinice,M,Both sexes,28714
+2013,Number,Banovici,M,T,11392
+2013,Number,Bihac,M,T,27041
+2013,Number,Bosanska Krupa,M,T,12548
+2013,Number,Bosanski Petrovac,M,T,3678
+2013,Number,Bosansko Grahovo,M,T,1287
+2013,Number,Breza,M,T,6952
+2013,Number,Bugojno,M,T,15635
+2013,Number,Busovaca,M,T,9134
+2013,Number,Buzim,M,T,9885
+2013,Number,Cazin,M,T,33072
+2013,Number,centar_sarajevo,M,T,25369
+2013,Number,Capljina,M,T,12947
+2013,Number,Celic,M,T,5256
+2013,Number,Citluk,M,T,8937
+2013,Number,doboj-istok,M,T,5061
+2013,Number,doboj-jug,M,T,2065
+2013,Number,Dobretici,M,T,905
+2013,Number,domaljevac-samac,M,T,2373
+2013,Number,Donji Vakuf,M,T,6922
+2013,Number,Drvar,M,T,3473
+2013,Number,foca-fbih,M,T,998
+2013,Number,Fojnica,M,T,6197
+2013,Number,Glamoc,M,T,1963
+2013,Number,Gorazde,M,T,10163
+2013,Number,gornji_vakuf-uskoplje,M,T,10532
+2013,Number,Gracanica,M,T,21641
+2013,Number,Gradacac,M,T,19234
+2013,Number,Grude,M,T,8621
+2013,Number,hadzici,M,T,11914
+2013,Number,ilidza,M,T,32359
+2013,Number,ilijas,M,T,9381
+2013,Number,Jablanica,M,T,5027
+2013,Number,Jajce,M,T,13856
+2013,Number,Kakanj,M,T,18651
+2013,Number,Kalesija,M,T,16597
+2013,Number,Kiseljak,M,T,10285
+2013,Number,Kladanj,M,T,6108
+2013,Number,Ključ,M,T,8365
+2013,Number,Konjic,M,T,12360
+2013,Number,Kresevo,M,T,2597
+2013,Number,Krupa Na Uni,M,T,862
+2013,Number,kupres-fbih,M,T,2541
+2013,Number,Livno,M,T,17024
+2013,Number,Lukavac,M,T,21786
+2013,Number,Ljubuski,M,T,14022
+2013,Number,Maglaj,M,T,11430
+2013,Number,Mostar,M,T,51210
+2013,Number,Neum,M,T,2344
+2013,Number,novi_grad_sarajevo,M,T,55735
+2013,Number,Novi Travnik,M,T,11862
+2013,Number,novo_sarajevo,M,T,29580
+2013,Number,Odzak,M,T,9373
+2013,Number,Olovo,M,T,5084
+2013,Number,Orasje,M,T,10059
+2013,Number,pale-fbih,M,T,456
+2013,Number,Posusje,M,T,10287
+2013,Number,Prozor,M,T,7210
+2013,Number,Ravno,M,T,1657
+2013,Number,Sanski Most,M,T,20826
+2013,Number,Sapna,M,T,5739
+2013,Number,Srebrenik,M,T,19348
+2013,Number,stari_grad_sarajevo,M,T,17482
+2013,Number,Stolac,M,T,7326
+2013,Number,Siroki Brijeg,M,T,14381
+2013,Number,Teocak,M,T,3767
+2013,Number,Tesanj,M,T,21376
+2013,Number,Tomislavgrad,M,T,16055
+2013,Number,Travnik,M,T,26574
+2013,Number,trnovo-fbih,M,T,735
+2013,Number,Tuzla,M,T,52745
+2013,Number,Usora,M,T,3266
+2013,Number,Vares,M,T,4373
+2013,Number,Velika Kladusa,M,T,19889
+2013,Number,Visoko,M,T,19705
+2013,Number,Vitez,M,T,12767
+2013,Number,vogosca,M,T,12606
+2013,Number,Zavidovici,M,T,17883
+2013,Number,Zenica,M,T,54660
+2013,Number,Zepce,M,T,15335
+2013,Number,Zivinice,M,T,28714
 2013,Number,Banovici,M,0-4,614
 2013,Number,Bihac,M,0-4,1361
 2013,Number,Bosanska Krupa,M,0-4,735
@@ -3039,86 +3039,86 @@ Year,UNIT_MEASURE,Municipality,Sex,Age,Value
 2013,Number,Zenica,M,85+,231
 2013,Number,Zepce,M,85+,45
 2013,Number,Zivinice,M,85+,61
-2013,Number,Banovici,F,Both sexes,11381
-2013,Number,Bihac,F,Both sexes,29220
-2013,Number,Bosanska Krupa,F,Both sexes,12997
-2013,Number,Bosanski Petrovac,F,Both sexes,3650
-2013,Number,Bosansko Grahovo,F,Both sexes,1162
-2013,Number,Breza,F,Both sexes,7216
-2013,Number,Bugojno,F,Both sexes,15835
-2013,Number,Busovaca,F,Both sexes,8776
-2013,Number,Buzim,F,Both sexes,9455
-2013,Number,Cazin,F,Both sexes,33077
-2013,Number,centar_sarajevo,F,Both sexes,29812
-2013,Number,Capljina,F,Both sexes,13210
-2013,Number,Celic,F,Both sexes,5246
-2013,Number,Citluk,F,Both sexes,9203
-2013,Number,doboj-istok,F,Both sexes,5187
-2013,Number,doboj-jug,F,Both sexes,2072
-2013,Number,Dobretici,F,Both sexes,724
-2013,Number,domaljevac-samac,F,Both sexes,2398
-2013,Number,Donji Vakuf,F,Both sexes,7063
-2013,Number,Drvar,F,Both sexes,3563
-2013,Number,foca-fbih,F,Both sexes,935
-2013,Number,Fojnica,F,Both sexes,6159
-2013,Number,Glamoc,F,Both sexes,1897
-2013,Number,Gorazde,F,Both sexes,10734
-2013,Number,gornji_vakuf-uskoplje,F,Both sexes,10401
-2013,Number,Gracanica,F,Both sexes,23579
-2013,Number,Gradacac,F,Both sexes,20106
-2013,Number,Grude,F,Both sexes,8687
-2013,Number,hadzici,F,Both sexes,11977
-2013,Number,ilidza,F,Both sexes,34371
-2013,Number,ilijas,F,Both sexes,10222
-2013,Number,Jablanica,F,Both sexes,5084
-2013,Number,Jajce,F,Both sexes,13402
-2013,Number,Kakanj,F,Both sexes,18790
-2013,Number,Kalesija,F,Both sexes,16456
-2013,Number,Kiseljak,F,Both sexes,10437
-2013,Number,Kladanj,F,Both sexes,6240
-2013,Number,Ključ,F,Both sexes,8379
-2013,Number,Konjic,F,Both sexes,12788
-2013,Number,Kresevo,F,Both sexes,2676
-2013,Number,Krupa Na Uni,F,Both sexes,735
-2013,Number,kupres-fbih,F,Both sexes,2516
-2013,Number,Livno,F,Both sexes,17109
-2013,Number,Lukavac,F,Both sexes,22734
-2013,Number,Ljubuski,F,Both sexes,14162
-2013,Number,Maglaj,F,Both sexes,11716
-2013,Number,Mostar,F,Both sexes,54587
-2013,Number,Neum,F,Both sexes,2309
-2013,Number,novi_grad_sarajevo,F,Both sexes,62818
-2013,Number,Novi Travnik,F,Both sexes,11970
-2013,Number,novo_sarajevo,F,Both sexes,35234
-2013,Number,Odzak,F,Both sexes,9448
-2013,Number,Olovo,F,Both sexes,5091
-2013,Number,Orasje,F,Both sexes,9802
-2013,Number,pale-fbih,F,Both sexes,448
-2013,Number,Posusje,F,Both sexes,10190
-2013,Number,Prozor,F,Both sexes,7070
-2013,Number,Ravno,F,Both sexes,1562
-2013,Number,Sanski Most,F,Both sexes,20649
-2013,Number,Sapna,F,Both sexes,5439
-2013,Number,Srebrenik,F,Both sexes,20330
-2013,Number,stari_grad_sarajevo,F,Both sexes,19494
-2013,Number,Stolac,F,Both sexes,7176
-2013,Number,Siroki Brijeg,F,Both sexes,14548
-2013,Number,Teocak,F,Both sexes,3657
-2013,Number,Tesanj,F,Both sexes,21687
-2013,Number,Tomislavgrad,F,Both sexes,15537
-2013,Number,Travnik,F,Both sexes,26908
-2013,Number,trnovo-fbih,F,Both sexes,767
-2013,Number,Tuzla,F,Both sexes,58234
-2013,Number,Usora,F,Both sexes,3337
-2013,Number,Vares,F,Both sexes,4519
-2013,Number,Velika Kladusa,F,Both sexes,20530
-2013,Number,Visoko,F,Both sexes,20233
-2013,Number,Vitez,F,Both sexes,13069
-2013,Number,vogosca,F,Both sexes,13737
-2013,Number,Zavidovici,F,Both sexes,18105
-2013,Number,Zenica,F,Both sexes,56003
-2013,Number,Zepce,F,Both sexes,14884
-2013,Number,Zivinice,F,Both sexes,29051
+2013,Number,Banovici,F,T,11381
+2013,Number,Bihac,F,T,29220
+2013,Number,Bosanska Krupa,F,T,12997
+2013,Number,Bosanski Petrovac,F,T,3650
+2013,Number,Bosansko Grahovo,F,T,1162
+2013,Number,Breza,F,T,7216
+2013,Number,Bugojno,F,T,15835
+2013,Number,Busovaca,F,T,8776
+2013,Number,Buzim,F,T,9455
+2013,Number,Cazin,F,T,33077
+2013,Number,centar_sarajevo,F,T,29812
+2013,Number,Capljina,F,T,13210
+2013,Number,Celic,F,T,5246
+2013,Number,Citluk,F,T,9203
+2013,Number,doboj-istok,F,T,5187
+2013,Number,doboj-jug,F,T,2072
+2013,Number,Dobretici,F,T,724
+2013,Number,domaljevac-samac,F,T,2398
+2013,Number,Donji Vakuf,F,T,7063
+2013,Number,Drvar,F,T,3563
+2013,Number,foca-fbih,F,T,935
+2013,Number,Fojnica,F,T,6159
+2013,Number,Glamoc,F,T,1897
+2013,Number,Gorazde,F,T,10734
+2013,Number,gornji_vakuf-uskoplje,F,T,10401
+2013,Number,Gracanica,F,T,23579
+2013,Number,Gradacac,F,T,20106
+2013,Number,Grude,F,T,8687
+2013,Number,hadzici,F,T,11977
+2013,Number,ilidza,F,T,34371
+2013,Number,ilijas,F,T,10222
+2013,Number,Jablanica,F,T,5084
+2013,Number,Jajce,F,T,13402
+2013,Number,Kakanj,F,T,18790
+2013,Number,Kalesija,F,T,16456
+2013,Number,Kiseljak,F,T,10437
+2013,Number,Kladanj,F,T,6240
+2013,Number,Ključ,F,T,8379
+2013,Number,Konjic,F,T,12788
+2013,Number,Kresevo,F,T,2676
+2013,Number,Krupa Na Uni,F,T,735
+2013,Number,kupres-fbih,F,T,2516
+2013,Number,Livno,F,T,17109
+2013,Number,Lukavac,F,T,22734
+2013,Number,Ljubuski,F,T,14162
+2013,Number,Maglaj,F,T,11716
+2013,Number,Mostar,F,T,54587
+2013,Number,Neum,F,T,2309
+2013,Number,novi_grad_sarajevo,F,T,62818
+2013,Number,Novi Travnik,F,T,11970
+2013,Number,novo_sarajevo,F,T,35234
+2013,Number,Odzak,F,T,9448
+2013,Number,Olovo,F,T,5091
+2013,Number,Orasje,F,T,9802
+2013,Number,pale-fbih,F,T,448
+2013,Number,Posusje,F,T,10190
+2013,Number,Prozor,F,T,7070
+2013,Number,Ravno,F,T,1562
+2013,Number,Sanski Most,F,T,20649
+2013,Number,Sapna,F,T,5439
+2013,Number,Srebrenik,F,T,20330
+2013,Number,stari_grad_sarajevo,F,T,19494
+2013,Number,Stolac,F,T,7176
+2013,Number,Siroki Brijeg,F,T,14548
+2013,Number,Teocak,F,T,3657
+2013,Number,Tesanj,F,T,21687
+2013,Number,Tomislavgrad,F,T,15537
+2013,Number,Travnik,F,T,26908
+2013,Number,trnovo-fbih,F,T,767
+2013,Number,Tuzla,F,T,58234
+2013,Number,Usora,F,T,3337
+2013,Number,Vares,F,T,4519
+2013,Number,Velika Kladusa,F,T,20530
+2013,Number,Visoko,F,T,20233
+2013,Number,Vitez,F,T,13069
+2013,Number,vogosca,F,T,13737
+2013,Number,Zavidovici,F,T,18105
+2013,Number,Zenica,F,T,56003
+2013,Number,Zepce,F,T,14884
+2013,Number,Zivinice,F,T,29051
 2013,Number,Banovici,F,0-4,592
 2013,Number,Bihac,F,0-4,1291
 2013,Number,Bosanska Krupa,F,0-4,688
