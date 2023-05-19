@@ -5503,7 +5503,20 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
+            "name": "Literacy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "illiterate",
+                "literate",
+                "Unknown"
+              ]
+            },
+            "title": "Literacy"
+          },
+          {
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5589,20 +5602,7 @@
                 "Zivinice"
               ]
             },
-            "title": "Administrative area"
-          },
-          {
-            "name": "Literacy",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "illiterate",
-                "literate",
-                "Unknown"
-              ]
-            },
-            "title": "Literacy"
+            "title": "Municipality"
           },
           {
             "name": "Sex",

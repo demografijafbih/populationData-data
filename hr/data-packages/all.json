@@ -5513,7 +5513,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5599,7 +5599,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Općina"
           },
           {
             "name": "Literacy",
