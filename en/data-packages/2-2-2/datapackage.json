@@ -11,7 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
+            "name": "HH_agri",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "T",
+                "agri_activity",
+                "agri_activity_sale"
+              ]
+            },
+            "title": "HH_agri"
+          },
+          {
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -97,20 +110,7 @@
                 "Zivinice"
               ]
             },
-            "title": "Administrative area"
-          },
-          {
-            "name": "HH_agri",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Both sexes",
-                "agri_activity",
-                "agri_activity_sale"
-              ]
-            },
-            "title": "HH_agri"
+            "title": "Municipality"
           },
           {
             "name": "UNIT_MEASURE",

@@ -849,7 +849,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -935,14 +935,14 @@
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "Oпштина"
           },
           {
             "name": "HH_agri",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "T",
                 "agri_activity",
                 "agri_activity_sale",
                 ""

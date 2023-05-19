@@ -19,7 +19,7 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -111,7 +111,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "T",
                 "agri_activity",
                 "agri_activity_sale",
                 ""
