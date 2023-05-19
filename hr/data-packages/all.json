@@ -2821,7 +2821,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Admin area",
+            "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2839,7 +2839,7 @@
                 ""
               ]
             },
-            "title": "Admin area"
+            "title": "Admin_Area"
           },
           {
             "name": "Value",
