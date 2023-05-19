@@ -21,7 +21,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Admin_Area",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административно подручје"
           },
           {
             "name": "SEX",
