@@ -346,11 +346,11 @@ Advanced_schools_faculty_academy_university: Napredne škole /fakultet/akademija
 private: Privatna
 public: Javna
 gymnasium: Gimnazija
-technical_schools: Tehničke škole
+technical_high_schools: Tehničke škole
 art_schools: Umjetničke škole
-religion_schools: Vjerske škole
-vocational_schools: Stručne škole
-high_schools_for_children_with_special_needs: Srednje škole za djecu s posebnim potrebama
+religious_schools: Vjerske škole
+vocational_high_schools: Stručne škole
+high_schools_for_students_with_disabilities: Srednje škole za djecu s poteškoćama u razvoju
 school_year_end: Kraj školske godine
 school_year_beginning: Početak školske godine
 minor_beneficiaries: Maloljetni korisnici
