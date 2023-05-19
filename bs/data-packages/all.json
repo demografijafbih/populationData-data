@@ -699,7 +699,7 @@
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrativna jedinica"
           },
           {
             "name": "BIRTHS",
@@ -2839,7 +2839,7 @@
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrativna jedinica"
           },
           {
             "name": "Value",
@@ -5867,7 +5867,7 @@
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrativna jedinica"
           },
           {
             "name": "Value",
@@ -6300,7 +6300,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
+                "Ukupno",
                 "0",
                 "1",
                 "2",
