@@ -353,7 +353,6 @@ M: M
 _T: Both sexes
 population_sex: Sex
 status_in_employment: Status in employment
-banja_luka: "Banja Luka"
 banovici: "Banovici"
 berkovici: "Berkovici"
 bihac: "Bihac"
@@ -377,30 +376,30 @@ celic: "Celic"
 citluk: "Citluk"
 derventa: "Derventa"
 doboj: "Doboj"
-doboj_istok: "Doboj-East"
-doboj_jug: "Doboj-South"
+doboj-istok: "Doboj-Istok"
+doboj-jug: "Doboj-Jug"
 dobretici: "Dobretici"
-domaljevac_samac: "Domaljevac-Samac"
+domaljevac-samac: "Domaljevac-Samac"
 donji_vakuf: "Donji Vakuf"
 donji_zabar: "Donji Zabar"
 drvar: "Drvar"
 fojnica: "Fojnica"
-foca_fbih: "Foca-FBiH"
+foca-fbih: "Foca-FBiH"
 foca_rs: "Foca-RS"
 gacko: "Gacko"
 glamoc: "Glamoc"
 gorazde: "Gorazde"
-gornji_vakuf_uskoplje: "Gornji Vakuf-Uskoplje"
+gornji_vakuf-uskoplje: "Gornji Vakuf-Uskoplje"
 gradacac: "Gradacac"
 gradiska: "Gradiska"
 gracanica: "Gracanica"
 grude: "Grude"
 han_pijesak: "Han Pijesak"
-istocna_ilidza: "East Ilidza"
-istocni_drvar: "East Drvar"
-istocni_mostar: "East Mostar"
-istocni_stari_grad: "East Stari Grad"
-istocno_novo_sarajevo: "East Novo Sarajevo"
+istocna_ilidza: "Istocna Ilidza"
+istocni_drvar: "Istocni Drvar"
+istocni_mostar: "Istocni Mostar"
+istocni_stari_grad: "Istocni Stari Grad"
+istocno_novo_sarajevo: "Istocno Novo Sarajevo"
 jablanica: "Jablanica"
 jajce: "Jajce"
 jezero: "Jezero"
@@ -409,7 +408,7 @@ kalesija: "Kalesija"
 kalinovik: "Kalinovik"
 kiseljak: "Kiseljak"
 kladanj: "Kladanj"
-kljuc: "Ključ"
+kljuc: "Kljuc"
 knezevo: "Knezevo"
 konjic: "Konjic"
 kostajnica: "Kostajnica"
@@ -417,7 +416,7 @@ kotor_varos: "Kotor Varos"
 kozarska_dubica: "Kozarska Dubica"
 kresevo: "Kresevo"
 krupa_na_uni: "Krupa Na Uni"
-kupres_fbih: "Kupres-FBiH"
+kupres-fbih: "Kupres-FBiH"
 kupres_rs: "Kupres-RS"
 laktasi: "Laktasi"
 livno: "Livno"
@@ -440,7 +439,7 @@ olovo: "Olovo"
 orasje: "Orasje"
 osmaci: "Osmaci"
 ostra_luka: "Ostra Luka"
-pale_fbih: "Pale-FBiH"
+pale-fbih: "Pale-FBiH"
 pale_rs: "Pale-RS"
 pelagicevo: "Pelagicevo"
 petrovac: "Petrovac"
@@ -456,14 +455,14 @@ rudo: "Rudo"
 samac: "Samac"
 sanski_most: "Sanski Most"
 sapna: "Sapna"
-sarajevo_centar: "Sarajevo-Centar"
-sarajevo_hadzici: "Sarajevo-Hadzici"
-sarajevo_ilidza: "Sarajevo-Ilidza"
-sarajevo_ilijas: "Sarajevo-Ilijas"
-sarajevo_novi_grad: "Sarajevo-Novi Grad"
-sarajevo_novo_sarajevo: "Sarajevo-Novo Sarajevo"
-sarajevo_stari_grad: "Sarajevo-Stari Grad"
-sarajevo_vogosca: "Sarajevo-Vogosca"
+centar_sarajevo: "Sarajevo-Centar"
+hadzici: "Sarajevo-Hadzici"
+ilidza: "Sarajevo-Ilidza"
+ilijas: "Sarajevo-Ilijas"
+novi_grad_sarajevo: "Sarajevo-Novi Grad"
+novo_sarajevo: "Sarajevo-Novo Sarajevo"
+stari_grad_sarajevo: "Sarajevo-Stari Grad"
+vogosca: "Sarajevo-Vogosca"
 sekovici: "Sekovici"
 sipovo: "Sipovo"
 siroki_brijeg: "Siroki Brijeg"
@@ -478,7 +477,7 @@ tesanj: "Tesanj"
 tomislavgrad: "Tomislavgrad"
 travnik: "Travnik"
 trebinje: "Trebinje"
-trnovo_fbih: "Trnovo-FBiH"
+trnovo-fbih: "Trnovo-FBiH"
 trnovo_rs: "Trnovo-RS"
 tuzla: "Tuzla"
 ugljevik: "Ugljevik"
@@ -495,7 +494,7 @@ zenica: "Zenica"
 zepce: "Zepce"
 zivinice: "Zivinice"
 zvornik: "Zvornik"
-bhas_labour_force_survey: "BHAS, Labour Force Survey"
+bhas_labour_force_survey: "BHAS, Anketa o radnoj snazi"
 employees: Employees
 self_employed: Self-employed
 unpaid_family_workers: Unpaid family workers
@@ -510,3 +509,37 @@ herzegovina-neretva_canton: Herzegovina-Neretva Canton
 west_herzegovina_canton: West Herzegovina Canton
 sarajevo_canton: Sarajevo Canton
 canton_10: Canton 10
+number_birth_rate: Birth Rate
+number_death_rate: Death Rate
+Admin_Area: Administrative Area
+number_marriage_rate: Marriage Rate
+T: Total
+did_not_give_birth: Did not give birth
+one_child: One child
+two_children: Two children
+three_children: Three children
+four_children: Four children
+5+_children: 5+ children
+HH_size: Household size
+HH_agri: Household agricultural activity
+agri_activity: Engaged in agricultural activities
+agri_activity_sale: Engaged in agricultural activities and sell their products in the market
+literate: Literate
+illiterate: Illiterate
+Literacy: Literacy
+no_education: No education
+incomplete_elementary: Incomplete elementary education
+elementary_education: Elementary education
+secondary_education: Secondary education
+secondary_specialization: Secondary specialisation
+first_degree: Higher school and first degree of faculty
+university_degree: Faculty / academy / university
+Education: Highest educational attainment
+eyesight: Seeing, even with the use of seeing aids
+hearing: Hearing, even with the use of hearing aids
+walking: Walking or climbing the stairs
+memory: Remembering or concentrating
+dressing: Dressing and personal hygiene
+communication: Communication
+multiple_disabilities: With multiple disabilities
+Disabilities: Type of disability
