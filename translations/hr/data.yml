@@ -396,7 +396,6 @@ remembering_or_concentration: Poteškoće sa pamćenjem
 self_care: Poteškoće sa odjevanjem i održavanjem osobne higijene
 Communication: Poteškoće sa komunikacijom
 multiple_disabilities: Višestruke poteškoće
-banja_luka: "Banja Luka"
 banovici: "Banovići"
 berkovici: "Berkovići"
 bihac: "Bihać"
@@ -420,20 +419,20 @@ celic: "Čelić"
 citluk: "Čitluk"
 derventa: "Derventa"
 doboj: "Doboj"
-doboj_istok: "Doboj-Istok"
-doboj_jug: "Doboj-Jug"
+doboj-istok: "Doboj-Istok"
+doboj-jug: "Doboj-Jug"
 dobretici: "Dobretići"
-domaljevac_samac: "Domaljevac-Šamac"
+domaljevac-samac: "Domaljevac-Šamac"
 donji_vakuf: "Donji Vakuf"
 donji_zabar: "Donji Žabar"
 drvar: "Drvar"
 fojnica: "Fojnica"
-foca_fbih: "Foča-FBiH"
+foca-fbih: "Foča-FBiH"
 foca_rs: "Foča-RS"
 gacko: "Gacko"
 glamoc: "Glamoč"
 gorazde: "Goražde"
-gornji_vakuf_uskoplje: "Gornji Vakuf-Uskoplje"
+gornji_vakuf-uskoplje: "Gornji Vakuf-Uskoplje"
 gradacac: "Gradačac"
 gradiska: "Gradiška"
 gracanica: "Gračanica"
@@ -460,7 +459,7 @@ kotor_varos: "Kotor Varoš"
 kozarska_dubica: "Kozarska Dubica"
 kresevo: "Kreševo"
 krupa_na_uni: "Krupa Na Uni"
-kupres_fbih: "Kupres-FBiH"
+kupres-fbih: "Kupres-FBiH"
 kupres_rs: "Kupres-RS"
 laktasi: "Laktaši"
 livno: "Livno"
@@ -483,7 +482,7 @@ olovo: "Olovo"
 orasje: "Orašje"
 osmaci: "Osmaci"
 ostra_luka: "Oštra Luka"
-pale_fbih: "Pale-FBiH"
+pale-fbih: "Pale-FBiH"
 pale_rs: "Pale-RS"
 pelagicevo: "Pelagićevo"
 petrovac: "Petrovac"
@@ -499,14 +498,14 @@ rudo: "Rudo"
 samac: "Šamac"
 sanski_most: "Sanski Most"
 sapna: "Sapna"
-sarajevo_centar: "Sarajevo-Centar"
-sarajevo_hadzici: "Sarajevo-Hadžići"
-sarajevo_ilidza: "Sarajevo-Ilidža"
-sarajevo_ilijas: "Sarajevo-Ilijaš"
-sarajevo_novi_grad: "Sarajevo-Novi Grad"
-sarajevo_novo_sarajevo: "Sarajevo-Novo Sarajevo"
-sarajevo_stari_grad: "Sarajevo-Stari Grad"
-sarajevo_vogosca: "Sarajevo-Vogošća"
+centar_sarajevo: "Sarajevo-Centar"
+hadzici: "Sarajevo-Hadžići"
+ilidza: "Sarajevo-Ilidža"
+ilijas: "Sarajevo-Ilijaš"
+novi_grad_sarajevo: "Sarajevo-Novi Grad"
+novo_sarajevo: "Sarajevo-Novo Sarajevo"
+stari_grad_sarajevo: "Sarajevo-Stari Grad"
+vogosca: "Sarajevo-Vogošća"
 sekovici: "Šekovići"
 sipovo: "Šipovo"
 siroki_brijeg: "Široki Brijeg"
@@ -521,7 +520,7 @@ tesanj: "Tešanj"
 tomislavgrad: "Tomislavgrad"
 travnik: "Travnik"
 trebinje: "Trebinje"
-trnovo_fbih: "Trnovo-FBiH"
+trnovo-fbih: "Trnovo-FBiH"
 trnovo_rs: "Trnovo-RS"
 tuzla: "Tuzla"
 ugljevik: "Ugljevik"
@@ -543,13 +542,47 @@ employees: Zaposlenici
 self_employed: Samozaposlenici
 unpaid_family_workers: Neplaćeni pomažući članovi
 federation_of_bih: Federacija Bosne i Hercegovine
-una-sana_canton: Županija Unsko-sanska
-posavina_canton: Županija Posavska
-tuzla_canton: Županija Tuzlanska
-zenica-doboj_canton: Županija Zeničko-dobojska
-bosnian-podrinje_canton: Županija Bosansko-podrinjska
-central_bosnia_canton: Županija Srednjobosanska
-herzegovina-neretva_canton: Županija Hercegovačko-neretvanska
-west_herzegovina_canton: Županija Zapadno-hercegovačka
+una-sana_canton: Unsko-sanska županija
+posavina_canton: Posavska županija
+tuzla_canton: Tuzlanska županija
+zenica-doboj_canton: Zeničko-dobojska županija
+bosnian-podrinje_canton: Bosansko-podrinjska županija
+central_bosnia_canton: Srednjobosanska županija
+herzegovina-neretva_canton: Hercegovačko-neretvanska županija
+west_herzegovina_canton: Zapadno-hercegovačka županija
 sarajevo_canton: Sarajevska županija
 canton_10: Županija 10
+number_birth_rate: Stopa nataliteta
+number_death_rate: Stopa mortaliteta
+Admin_Area: Administrativna jedinica
+number_marriage_rate: Stopa nupcijaliteta
+T: Ukupno
+did_not_give_birth: Nisu rađale
+one_child: Jedno dijete
+two_children: Dvoje djece
+three_children: Troje djece
+four_children: Četvero djece
+5+_children: Pet i više djece
+HH_size: Brojnost domaćinstva
+HH_agri: Poljoprivredna aktivnost
+agri_activity: Obavljanje poljoprivredne aktivnosti
+agri_activity_sale: Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu
+literate: Pismeno stanovništvo
+illiterate: Nepismeno stanovništvo
+Literacy: Pismenost
+no_education: Bez obrazovanja
+incomplete_elementary: Nepotpuno osnovno obrazovanje
+elementary_education: Osnovna škola
+secondary_education: Srednja škola
+secondary_specialization: Specijalizacija poslije srednje škole
+first_degree: Viša škola i prvi stepen fakulteta
+university_degree: Visoka škola / fakultet / akademija / univerzitet
+Education: Najviša završena škola
+eyesight: Vid, iako nosi naočare
+hearing: Sluh, iako koristi slušni aparat
+walking: Hod ili penjanje uz stepenice
+memory: Pamćenje ili koncentracija
+dressing: Odijevanje i održavanje lične higijene
+communication: Komunikacija
+multiple_disabilities: Sa više poteškoća
+Disabilities: Vrsta poteškoće
