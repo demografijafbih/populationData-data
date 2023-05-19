@@ -38,7 +38,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
+                "T",
                 "0",
                 "1",
                 "2",

@@ -288,7 +288,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "T",
                 "0",
                 "1",
                 "2",
