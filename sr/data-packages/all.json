@@ -2659,7 +2659,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2677,7 +2677,7 @@
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
