@@ -7,8 +7,8 @@ BIRTHS,Vital statistics,Vitalna statistika,Витална статистика,V
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),Узрок смрти (према шифрама болести по МКБ-10),Uzrok smrti (prema šiframa bolesti po MKB-10),3,41
 Disabilities,Disabilities,Disabilities,Disabilities,Disabilities,1,8
 Education,Education,Education,Education,Education,1,7
-HH_agri,HH_agri,HH_agri,HH_agri,HH_agri,1,3
-HH_size,HH_size,HH_size,HH_size,HH_size,1,9
+HH_agri,HH_agri,Poljoprivredna aktivnost,HH_agri,HH_agri,1,3
+HH_size,HH_size,Brojnost domaćinstva,HH_size,HH_size,1,9
 Literacy,Literacy,Literacy,Literacy,Literacy,1,3
 MICS_NUMBER,Method,Metoda,Метода,Metoda,1,3
 Municipality,Municipality,Općina,Oпштина,Općina,3,80

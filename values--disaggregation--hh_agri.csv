@@ -1,4 +1,4 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 _T,Both sexes,Oba spola,Оба пола,Oba spola,79,1
-agri_activity,agri_activity,agri_activity,agri_activity,agri_activity,79,1
-agri_activity_sale,agri_activity_sale,agri_activity_sale,agri_activity_sale,agri_activity_sale,79,1
+agri_activity,agri_activity,Obavljanje poljoprivredne aktivnosti,agri_activity,agri_activity,79,1
+agri_activity_sale,agri_activity_sale,Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu,agri_activity_sale,agri_activity_sale,79,1

@@ -943,12 +943,12 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "agri_activity",
-                "agri_activity_sale",
+                "Obavljanje poljoprivredne aktivnosti",
+                "Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu",
                 ""
               ]
             },
-            "title": "HH_agri"
+            "title": "Poljoprivredna aktivnost"
           },
           {
             "name": "Value",
@@ -3635,7 +3635,7 @@
                 ""
               ]
             },
-            "title": "HH_size"
+            "title": "Brojnost domaćinstva"
           },
           {
             "name": "Value",
