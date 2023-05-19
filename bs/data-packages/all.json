@@ -3825,11 +3825,11 @@
               "enum": [
                 "Oba spola",
                 "Nisu rađale",
-                "one_child",
-                "two_children",
-                "three_children",
-                "four_children",
-                "5+_children",
+                "Jedno dijete",
+                "Dvoje djece",
+                "Troje djece",
+                "Četvero djece",
+                "Pet i više djece",
                 ""
               ]
             },
