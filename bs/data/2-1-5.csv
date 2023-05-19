@@ -9,27 +9,27 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Busovača,Oba spola,7270
 2013,Broj,Bužim,Oba spola,7407
 2013,Broj,Cazin,Oba spola,27027
-2013,Broj,centar_sarajevo,Oba spola,26201
+2013,Broj,Sarajevo-Centar,Oba spola,26201
 2013,Broj,Čapljina,Oba spola,11151
 2013,Broj,Čelić,Oba spola,4372
 2013,Broj,Čitluk,Oba spola,7497
-2013,Broj,doboj-istok,Oba spola,4374
-2013,Broj,doboj-jug,Oba spola,1695
+2013,Broj,Doboj-Istok,Oba spola,4374
+2013,Broj,Doboj-Jug,Oba spola,1695
 2013,Broj,Dobretići,Oba spola,664
-2013,Broj,domaljevac-samac,Oba spola,2073
+2013,Broj,Domaljevac-Šamac,Oba spola,2073
 2013,Broj,Donji Vakuf,Oba spola,5822
 2013,Broj,Drvar,Oba spola,3218
-2013,Broj,foca-fbih,Oba spola,825
+2013,Broj,Foča-FBiH,Oba spola,825
 2013,Broj,Fojnica,Oba spola,5229
 2013,Broj,Glamoč,Oba spola,1674
 2013,Broj,Goražde,Oba spola,9351
-2013,Broj,gornji_vakuf-uskoplje,Oba spola,8606
+2013,Broj,Gornji Vakuf-Uskoplje,Oba spola,8606
 2013,Broj,Gračanica,Oba spola,19789
 2013,Broj,Gradačac,Oba spola,16870
 2013,Broj,Grude,Oba spola,7262
-2013,Broj,hadzici,Oba spola,10003
-2013,Broj,ilidza,Oba spola,28903
-2013,Broj,ilijas,Oba spola,8573
+2013,Broj,Sarajevo-Hadžići,Oba spola,10003
+2013,Broj,Sarajevo-Ilidža,Oba spola,28903
+2013,Broj,Sarajevo-Ilijaš,Oba spola,8573
 2013,Broj,Jablanica,Oba spola,4442
 2013,Broj,Jajce,Oba spola,11157
 2013,Broj,Kakanj,Oba spola,15662
@@ -39,41 +39,41 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Ključ,Oba spola,7150
 2013,Broj,Konjic,Oba spola,10945
 2013,Broj,Kreševo,Oba spola,2304
-2013,Broj,kupres-fbih,Oba spola,2176
+2013,Broj,Kupres-FBiH,Oba spola,2176
 2013,Broj,Livno,Oba spola,14885
 2013,Broj,Lukavac,Oba spola,19824
 2013,Broj,Ljubuški,Oba spola,11872
 2013,Broj,Maglaj,Oba spola,9962
 2013,Broj,Mostar,Oba spola,46912
 2013,Broj,Neum,Oba spola,1948
-2013,Broj,novi_grad_sarajevo,Oba spola,53683
+2013,Broj,Sarajevo-Novi Grad,Oba spola,53683
 2013,Broj,Novi Travnik,Oba spola,9963
-2013,Broj,novo_sarajevo,Oba spola,30918
+2013,Broj,Sarajevo-Novo Sarajevo,Oba spola,30918
 2013,Broj,Odžak,Oba spola,8210
 2013,Broj,Olovo,Oba spola,4434
 2013,Broj,Orašje,Oba spola,8479
-2013,Broj,pale-fbih,Oba spola,391
+2013,Broj,Pale-FBiH,Oba spola,391
 2013,Broj,Posušje,Oba spola,8208
 2013,Broj,Prozor,Oba spola,5867
 2013,Broj,Ravno,Oba spola,1361
 2013,Broj,Sanski Most,Oba spola,17665
 2013,Broj,Sapna,Oba spola,4421
 2013,Broj,Srebrenik,Oba spola,17037
-2013,Broj,stari_grad_sarajevo,Oba spola,17059
+2013,Broj,Sarajevo-Stari Grad,Oba spola,17059
 2013,Broj,Stolac,Oba spola,6096
 2013,Broj,Široki Brijeg,Oba spola,12027
 2013,Broj,Teočak,Oba spola,3078
 2013,Broj,Tešanj,Oba spola,17741
 2013,Broj,Tomislavgrad,Oba spola,13018
 2013,Broj,Travnik,Oba spola,22532
-2013,Broj,trnovo-fbih,Oba spola,693
+2013,Broj,Trnovo-FBiH,Oba spola,693
 2013,Broj,Tuzla,Oba spola,51072
 2013,Broj,Usora,Oba spola,2900
 2013,Broj,Vareš,Oba spola,4070
 2013,Broj,Velika Kladuša,Oba spola,16483
 2013,Broj,Visoko,Oba spola,16864
 2013,Broj,Vitez,Oba spola,10776
-2013,Broj,vogosca,Oba spola,11602
+2013,Broj,Sarajevo-Vogošća,Oba spola,11602
 2013,Broj,Zavidovići,Oba spola,15108
 2013,Broj,Zenica,Oba spola,47242
 2013,Broj,Žepče,Oba spola,12279
@@ -88,27 +88,27 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Busovača,Nisu rađale,2084
 2013,Broj,Bužim,Nisu rađale,2136
 2013,Broj,Cazin,Nisu rađale,7439
-2013,Broj,centar_sarajevo,Nisu rađale,8540
+2013,Broj,Sarajevo-Centar,Nisu rađale,8540
 2013,Broj,Čapljina,Nisu rađale,3454
 2013,Broj,Čelić,Nisu rađale,1105
 2013,Broj,Čitluk,Nisu rađale,2713
-2013,Broj,doboj-istok,Nisu rađale,1066
-2013,Broj,doboj-jug,Nisu rađale,389
+2013,Broj,Doboj-Istok,Nisu rađale,1066
+2013,Broj,Doboj-Jug,Nisu rađale,389
 2013,Broj,Dobretići,Nisu rađale,283
-2013,Broj,domaljevac-samac,Nisu rađale,676
+2013,Broj,Domaljevac-Šamac,Nisu rađale,676
 2013,Broj,Donji Vakuf,Nisu rađale,1683
 2013,Broj,Drvar,Nisu rađale,778
-2013,Broj,foca-fbih,Nisu rađale,190
+2013,Broj,Foča-FBiH,Nisu rađale,190
 2013,Broj,Fojnica,Nisu rađale,1705
 2013,Broj,Glamoč,Nisu rađale,447
 2013,Broj,Goražde,Nisu rađale,2468
-2013,Broj,gornji_vakuf-uskoplje,Nisu rađale,2840
+2013,Broj,Gornji Vakuf-Uskoplje,Nisu rađale,2840
 2013,Broj,Gračanica,Nisu rađale,4347
 2013,Broj,Gradačac,Nisu rađale,3957
 2013,Broj,Grude,Nisu rađale,2724
-2013,Broj,hadzici,Nisu rađale,2634
-2013,Broj,ilidza,Nisu rađale,8609
-2013,Broj,ilijas,Nisu rađale,2229
+2013,Broj,Sarajevo-Hadžići,Nisu rađale,2634
+2013,Broj,Sarajevo-Ilidža,Nisu rađale,8609
+2013,Broj,Sarajevo-Ilijaš,Nisu rađale,2229
 2013,Broj,Jablanica,Nisu rađale,1330
 2013,Broj,Jajce,Nisu rađale,3196
 2013,Broj,Kakanj,Nisu rađale,4161
@@ -118,41 +118,41 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Ključ,Nisu rađale,1986
 2013,Broj,Konjic,Nisu rađale,3080
 2013,Broj,Kreševo,Nisu rađale,699
-2013,Broj,kupres-fbih,Nisu rađale,858
+2013,Broj,Kupres-FBiH,Nisu rađale,858
 2013,Broj,Livno,Nisu rađale,4944
 2013,Broj,Lukavac,Nisu rađale,4464
 2013,Broj,Ljubuški,Nisu rađale,4107
 2013,Broj,Maglaj,Nisu rađale,2547
 2013,Broj,Mostar,Nisu rađale,15227
 2013,Broj,Neum,Nisu rađale,643
-2013,Broj,novi_grad_sarajevo,Nisu rađale,16129
+2013,Broj,Sarajevo-Novi Grad,Nisu rađale,16129
 2013,Broj,Novi Travnik,Nisu rađale,2871
-2013,Broj,novo_sarajevo,Nisu rađale,10414
+2013,Broj,Sarajevo-Novo Sarajevo,Nisu rađale,10414
 2013,Broj,Odžak,Nisu rađale,2465
 2013,Broj,Olovo,Nisu rađale,1190
 2013,Broj,Orašje,Nisu rađale,2695
-2013,Broj,pale-fbih,Nisu rađale,97
+2013,Broj,Pale-FBiH,Nisu rađale,97
 2013,Broj,Posušje,Nisu rađale,3376
 2013,Broj,Prozor,Nisu rađale,2099
 2013,Broj,Ravno,Nisu rađale,500
 2013,Broj,Sanski Most,Nisu rađale,5169
 2013,Broj,Sapna,Nisu rađale,1194
 2013,Broj,Srebrenik,Nisu rađale,3923
-2013,Broj,stari_grad_sarajevo,Nisu rađale,5243
+2013,Broj,Sarajevo-Stari Grad,Nisu rađale,5243
 2013,Broj,Stolac,Nisu rađale,2124
 2013,Broj,Široki Brijeg,Nisu rađale,4262
 2013,Broj,Teočak,Nisu rađale,809
 2013,Broj,Tešanj,Nisu rađale,4310
 2013,Broj,Tomislavgrad,Nisu rađale,5173
 2013,Broj,Travnik,Nisu rađale,6601
-2013,Broj,trnovo-fbih,Nisu rađale,158
+2013,Broj,Trnovo-FBiH,Nisu rađale,158
 2013,Broj,Tuzla,Nisu rađale,13710
 2013,Broj,Usora,Nisu rađale,916
 2013,Broj,Vareš,Nisu rađale,997
 2013,Broj,Velika Kladuša,Nisu rađale,4112
 2013,Broj,Visoko,Nisu rađale,4297
 2013,Broj,Vitez,Nisu rađale,3087
-2013,Broj,vogosca,Nisu rađale,3232
+2013,Broj,Sarajevo-Vogošća,Nisu rađale,3232
 2013,Broj,Zavidovići,Nisu rađale,3646
 2013,Broj,Zenica,Nisu rađale,12327
 2013,Broj,Žepče,Nisu rađale,3672
@@ -167,27 +167,27 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Busovača,one_child,809
 2013,Broj,Bužim,one_child,955
 2013,Broj,Cazin,one_child,4067
-2013,Broj,centar_sarajevo,one_child,5078
+2013,Broj,Sarajevo-Centar,one_child,5078
 2013,Broj,Čapljina,one_child,1049
 2013,Broj,Čelić,one_child,454
 2013,Broj,Čitluk,one_child,650
-2013,Broj,doboj-istok,one_child,532
-2013,Broj,doboj-jug,one_child,239
+2013,Broj,Doboj-Istok,one_child,532
+2013,Broj,Doboj-Jug,one_child,239
 2013,Broj,Dobretići,one_child,32
-2013,Broj,domaljevac-samac,one_child,242
+2013,Broj,Domaljevac-Šamac,one_child,242
 2013,Broj,Donji Vakuf,one_child,644
 2013,Broj,Drvar,one_child,431
-2013,Broj,foca-fbih,one_child,73
+2013,Broj,Foča-FBiH,one_child,73
 2013,Broj,Fojnica,one_child,579
 2013,Broj,Glamoč,one_child,135
 2013,Broj,Goražde,one_child,1198
-2013,Broj,gornji_vakuf-uskoplje,one_child,807
+2013,Broj,Gornji Vakuf-Uskoplje,one_child,807
 2013,Broj,Gračanica,one_child,2947
 2013,Broj,Gradačac,one_child,2256
 2013,Broj,Grude,one_child,543
-2013,Broj,hadzici,one_child,1429
-2013,Broj,ilidza,one_child,4309
-2013,Broj,ilijas,one_child,1196
+2013,Broj,Sarajevo-Hadžići,one_child,1429
+2013,Broj,Sarajevo-Ilidža,one_child,4309
+2013,Broj,Sarajevo-Ilijaš,one_child,1196
 2013,Broj,Jablanica,one_child,508
 2013,Broj,Jajce,one_child,1109
 2013,Broj,Kakanj,one_child,1964
@@ -197,41 +197,41 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Ključ,one_child,732
 2013,Broj,Konjic,one_child,1285
 2013,Broj,Kreševo,one_child,244
-2013,Broj,kupres-fbih,one_child,169
+2013,Broj,Kupres-FBiH,one_child,169
 2013,Broj,Livno,one_child,1226
 2013,Broj,Lukavac,one_child,3691
 2013,Broj,Ljubuški,one_child,1040
 2013,Broj,Maglaj,one_child,1424
 2013,Broj,Mostar,one_child,5896
 2013,Broj,Neum,one_child,168
-2013,Broj,novi_grad_sarajevo,one_child,9593
+2013,Broj,Sarajevo-Novi Grad,one_child,9593
 2013,Broj,Novi Travnik,one_child,1255
-2013,Broj,novo_sarajevo,one_child,6222
+2013,Broj,Sarajevo-Novo Sarajevo,one_child,6222
 2013,Broj,Odžak,one_child,982
 2013,Broj,Olovo,one_child,502
 2013,Broj,Orašje,one_child,1055
-2013,Broj,pale-fbih,one_child,31
+2013,Broj,Pale-FBiH,one_child,31
 2013,Broj,Posušje,one_child,624
 2013,Broj,Prozor,one_child,442
 2013,Broj,Ravno,one_child,142
 2013,Broj,Sanski Most,one_child,2179
 2013,Broj,Sapna,one_child,384
 2013,Broj,Srebrenik,one_child,2307
-2013,Broj,stari_grad_sarajevo,one_child,2934
+2013,Broj,Sarajevo-Stari Grad,one_child,2934
 2013,Broj,Stolac,one_child,530
 2013,Broj,Široki Brijeg,one_child,1014
 2013,Broj,Teočak,one_child,343
 2013,Broj,Tešanj,one_child,2357
 2013,Broj,Tomislavgrad,one_child,958
 2013,Broj,Travnik,one_child,2740
-2013,Broj,trnovo-fbih,one_child,46
+2013,Broj,Trnovo-FBiH,one_child,46
 2013,Broj,Tuzla,one_child,9432
 2013,Broj,Usora,one_child,262
 2013,Broj,Vareš,one_child,583
 2013,Broj,Velika Kladuša,one_child,2536
 2013,Broj,Visoko,one_child,2463
 2013,Broj,Vitez,one_child,1216
-2013,Broj,vogosca,one_child,1875
+2013,Broj,Sarajevo-Vogošća,one_child,1875
 2013,Broj,Zavidovići,one_child,1989
 2013,Broj,Zenica,one_child,7711
 2013,Broj,Žepče,one_child,1297
@@ -246,27 +246,27 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Busovača,two_children,1928
 2013,Broj,Bužim,two_children,1620
 2013,Broj,Cazin,two_children,7242
-2013,Broj,centar_sarajevo,two_children,9471
+2013,Broj,Sarajevo-Centar,two_children,9471
 2013,Broj,Čapljina,two_children,3066
 2013,Broj,Čelić,two_children,1396
 2013,Broj,Čitluk,two_children,1475
-2013,Broj,doboj-istok,two_children,1632
-2013,Broj,doboj-jug,two_children,611
+2013,Broj,Doboj-Istok,two_children,1632
+2013,Broj,Doboj-Jug,two_children,611
 2013,Broj,Dobretići,two_children,83
-2013,Broj,domaljevac-samac,two_children,565
+2013,Broj,Domaljevac-Šamac,two_children,565
 2013,Broj,Donji Vakuf,two_children,1613
 2013,Broj,Drvar,two_children,1399
-2013,Broj,foca-fbih,two_children,262
+2013,Broj,Foča-FBiH,two_children,262
 2013,Broj,Fojnica,two_children,1407
 2013,Broj,Glamoč,two_children,504
 2013,Broj,Goražde,two_children,3406
-2013,Broj,gornji_vakuf-uskoplje,two_children,1882
+2013,Broj,Gornji Vakuf-Uskoplje,two_children,1882
 2013,Broj,Gračanica,two_children,7975
 2013,Broj,Gradačac,two_children,6590
 2013,Broj,Grude,two_children,1418
-2013,Broj,hadzici,two_children,3632
-2013,Broj,ilidza,two_children,10263
-2013,Broj,ilijas,two_children,2935
+2013,Broj,Sarajevo-Hadžići,two_children,3632
+2013,Broj,Sarajevo-Ilidža,two_children,10263
+2013,Broj,Sarajevo-Ilijaš,two_children,2935
 2013,Broj,Jablanica,two_children,1359
 2013,Broj,Jajce,two_children,2867
 2013,Broj,Kakanj,two_children,4863
@@ -276,41 +276,41 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Ključ,two_children,2122
 2013,Broj,Konjic,two_children,3411
 2013,Broj,Kreševo,two_children,662
-2013,Broj,kupres-fbih,two_children,422
+2013,Broj,Kupres-FBiH,two_children,422
 2013,Broj,Livno,two_children,3551
 2013,Broj,Lukavac,two_children,8198
 2013,Broj,Ljubuški,two_children,2573
 2013,Broj,Maglaj,two_children,3455
 2013,Broj,Mostar,two_children,15128
 2013,Broj,Neum,two_children,420
-2013,Broj,novi_grad_sarajevo,two_children,19695
+2013,Broj,Sarajevo-Novi Grad,two_children,19695
 2013,Broj,Novi Travnik,two_children,2665
-2013,Broj,novo_sarajevo,two_children,10864
+2013,Broj,Sarajevo-Novo Sarajevo,two_children,10864
 2013,Broj,Odžak,two_children,2750
 2013,Broj,Olovo,two_children,1433
 2013,Broj,Orašje,two_children,2252
-2013,Broj,pale-fbih,two_children,120
+2013,Broj,Pale-FBiH,two_children,120
 2013,Broj,Posušje,two_children,1144
 2013,Broj,Prozor,two_children,963
 2013,Broj,Ravno,two_children,380
 2013,Broj,Sanski Most,two_children,5604
 2013,Broj,Sapna,two_children,1252
 2013,Broj,Srebrenik,two_children,6408
-2013,Broj,stari_grad_sarajevo,two_children,6147
+2013,Broj,Sarajevo-Stari Grad,two_children,6147
 2013,Broj,Stolac,two_children,1441
 2013,Broj,Široki Brijeg,two_children,2439
 2013,Broj,Teočak,two_children,962
 2013,Broj,Tešanj,two_children,5994
 2013,Broj,Tomislavgrad,two_children,2226
 2013,Broj,Travnik,two_children,6351
-2013,Broj,trnovo-fbih,two_children,272
+2013,Broj,Trnovo-FBiH,two_children,272
 2013,Broj,Tuzla,two_children,20193
 2013,Broj,Usora,two_children,802
 2013,Broj,Vareš,two_children,1407
 2013,Broj,Velika Kladuša,two_children,4053
 2013,Broj,Visoko,two_children,6277
 2013,Broj,Vitez,two_children,2923
-2013,Broj,vogosca,two_children,4293
+2013,Broj,Sarajevo-Vogošća,two_children,4293
 2013,Broj,Zavidovići,two_children,5195
 2013,Broj,Zenica,two_children,16230
 2013,Broj,Žepče,two_children,3010
@@ -325,27 +325,27 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Busovača,three_children,1281
 2013,Broj,Bužim,three_children,1132
 2013,Broj,Cazin,three_children,3984
-2013,Broj,centar_sarajevo,three_children,2228
+2013,Broj,Sarajevo-Centar,three_children,2228
 2013,Broj,Čapljina,three_children,2266
 2013,Broj,Čelić,three_children,776
 2013,Broj,Čitluk,three_children,1462
-2013,Broj,doboj-istok,three_children,673
-2013,Broj,doboj-jug,three_children,285
+2013,Broj,Doboj-Istok,three_children,673
+2013,Broj,Doboj-Jug,three_children,285
 2013,Broj,Dobretići,three_children,86
-2013,Broj,domaljevac-samac,three_children,350
+2013,Broj,Domaljevac-Šamac,three_children,350
 2013,Broj,Donji Vakuf,three_children,1024
 2013,Broj,Drvar,three_children,465
-2013,Broj,foca-fbih,three_children,158
+2013,Broj,Foča-FBiH,three_children,158
 2013,Broj,Fojnica,three_children,848
 2013,Broj,Glamoč,three_children,363
 2013,Broj,Goražde,three_children,1424
-2013,Broj,gornji_vakuf-uskoplje,three_children,1504
+2013,Broj,Gornji Vakuf-Uskoplje,three_children,1504
 2013,Broj,Gračanica,three_children,2763
 2013,Broj,Gradačac,three_children,2626
 2013,Broj,Grude,three_children,1375
-2013,Broj,hadzici,three_children,1445
-2013,Broj,ilidza,three_children,3666
-2013,Broj,ilijas,three_children,1253
+2013,Broj,Sarajevo-Hadžići,three_children,1445
+2013,Broj,Sarajevo-Ilidža,three_children,3666
+2013,Broj,Sarajevo-Ilijaš,three_children,1253
 2013,Broj,Jablanica,three_children,659
 2013,Broj,Jajce,three_children,1923
 2013,Broj,Kakanj,three_children,2545
@@ -355,41 +355,41 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Ključ,three_children,1164
 2013,Broj,Konjic,three_children,1794
 2013,Broj,Kreševo,three_children,408
-2013,Broj,kupres-fbih,three_children,365
+2013,Broj,Kupres-FBiH,three_children,365
 2013,Broj,Livno,three_children,2986
 2013,Broj,Lukavac,three_children,2140
 2013,Broj,Ljubuški,three_children,2364
 2013,Broj,Maglaj,three_children,1449
 2013,Broj,Mostar,three_children,7025
 2013,Broj,Neum,three_children,391
-2013,Broj,novi_grad_sarajevo,three_children,5446
+2013,Broj,Sarajevo-Novi Grad,three_children,5446
 2013,Broj,Novi Travnik,three_children,1666
-2013,Broj,novo_sarajevo,three_children,2461
+2013,Broj,Sarajevo-Novo Sarajevo,three_children,2461
 2013,Broj,Odžak,three_children,1278
 2013,Broj,Olovo,three_children,701
 2013,Broj,Orašje,three_children,1289
-2013,Broj,pale-fbih,three_children,81
+2013,Broj,Pale-FBiH,three_children,81
 2013,Broj,Posušje,three_children,1381
 2013,Broj,Prozor,three_children,980
 2013,Broj,Ravno,three_children,250
 2013,Broj,Sanski Most,three_children,2676
 2013,Broj,Sapna,three_children,861
 2013,Broj,Srebrenik,three_children,2583
-2013,Broj,stari_grad_sarajevo,three_children,1872
+2013,Broj,Sarajevo-Stari Grad,three_children,1872
 2013,Broj,Stolac,three_children,1128
 2013,Broj,Široki Brijeg,three_children,2251
 2013,Broj,Teočak,three_children,570
 2013,Broj,Tešanj,three_children,3056
 2013,Broj,Tomislavgrad,three_children,2425
 2013,Broj,Travnik,three_children,3736
-2013,Broj,trnovo-fbih,three_children,127
+2013,Broj,Trnovo-FBiH,three_children,127
 2013,Broj,Tuzla,three_children,4790
 2013,Broj,Usora,three_children,496
 2013,Broj,Vareš,three_children,667
 2013,Broj,Velika Kladuša,three_children,2370
 2013,Broj,Visoko,three_children,2483
 2013,Broj,Vitez,three_children,2000
-2013,Broj,vogosca,three_children,1423
+2013,Broj,Sarajevo-Vogošća,three_children,1423
 2013,Broj,Zavidovići,three_children,2375
 2013,Broj,Zenica,three_children,6404
 2013,Broj,Žepče,three_children,2067
@@ -404,27 +404,27 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Busovača,four_children,598
 2013,Broj,Bužim,four_children,619
 2013,Broj,Cazin,four_children,1811
-2013,Broj,centar_sarajevo,four_children,549
+2013,Broj,Sarajevo-Centar,four_children,549
 2013,Broj,Čapljina,four_children,864
 2013,Broj,Čelić,four_children,305
 2013,Broj,Čitluk,four_children,792
-2013,Broj,doboj-istok,four_children,239
-2013,Broj,doboj-jug,four_children,83
+2013,Broj,Doboj-Istok,four_children,239
+2013,Broj,Doboj-Jug,four_children,83
 2013,Broj,Dobretići,four_children,53
-2013,Broj,domaljevac-samac,four_children,130
+2013,Broj,Domaljevac-Šamac,four_children,130
 2013,Broj,Donji Vakuf,four_children,466
 2013,Broj,Drvar,four_children,102
-2013,Broj,foca-fbih,four_children,81
+2013,Broj,Foča-FBiH,four_children,81
 2013,Broj,Fojnica,four_children,377
 2013,Broj,Glamoč,four_children,148
 2013,Broj,Goražde,four_children,484
-2013,Broj,gornji_vakuf-uskoplje,four_children,770
+2013,Broj,Gornji Vakuf-Uskoplje,four_children,770
 2013,Broj,Gračanica,four_children,953
 2013,Broj,Gradačac,four_children,805
 2013,Broj,Grude,four_children,735
-2013,Broj,hadzici,four_children,475
-2013,Broj,ilidza,four_children,1168
-2013,Broj,ilijas,four_children,494
+2013,Broj,Sarajevo-Hadžići,four_children,475
+2013,Broj,Sarajevo-Ilidža,four_children,1168
+2013,Broj,Sarajevo-Ilijaš,four_children,494
 2013,Broj,Jablanica,four_children,273
 2013,Broj,Jajce,four_children,902
 2013,Broj,Kakanj,four_children,1001
@@ -434,41 +434,41 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Ključ,four_children,536
 2013,Broj,Konjic,four_children,696
 2013,Broj,Kreševo,four_children,174
-2013,Broj,kupres-fbih,four_children,192
+2013,Broj,Kupres-FBiH,four_children,192
 2013,Broj,Livno,four_children,1309
 2013,Broj,Lukavac,four_children,717
 2013,Broj,Ljubuški,four_children,1105
 2013,Broj,Maglaj,four_children,540
 2013,Broj,Mostar,four_children,2270
 2013,Broj,Neum,four_children,185
-2013,Broj,novi_grad_sarajevo,four_children,1594
+2013,Broj,Sarajevo-Novi Grad,four_children,1594
 2013,Broj,Novi Travnik,four_children,729
-2013,Broj,novo_sarajevo,four_children,590
+2013,Broj,Sarajevo-Novo Sarajevo,four_children,590
 2013,Broj,Odžak,four_children,416
 2013,Broj,Olovo,four_children,289
 2013,Broj,Orašje,four_children,590
-2013,Broj,pale-fbih,four_children,29
+2013,Broj,Pale-FBiH,four_children,29
 2013,Broj,Posušje,four_children,888
 2013,Broj,Prozor,four_children,607
 2013,Broj,Ravno,four_children,71
 2013,Broj,Sanski Most,four_children,978
 2013,Broj,Sapna,four_children,369
 2013,Broj,Srebrenik,four_children,914
-2013,Broj,stari_grad_sarajevo,four_children,540
+2013,Broj,Sarajevo-Stari Grad,four_children,540
 2013,Broj,Stolac,four_children,526
 2013,Broj,Široki Brijeg,four_children,1198
 2013,Broj,Teočak,four_children,214
 2013,Broj,Tešanj,four_children,1038
 2013,Broj,Tomislavgrad,four_children,1266
 2013,Broj,Travnik,four_children,1619
-2013,Broj,trnovo-fbih,four_children,50
+2013,Broj,Trnovo-FBiH,four_children,50
 2013,Broj,Tuzla,four_children,1591
 2013,Broj,Usora,four_children,217
 2013,Broj,Vareš,four_children,200
 2013,Broj,Velika Kladuša,four_children,1264
 2013,Broj,Visoko,four_children,729
 2013,Broj,Vitez,four_children,832
-2013,Broj,vogosca,four_children,421
+2013,Broj,Sarajevo-Vogošća,four_children,421
 2013,Broj,Zavidovići,four_children,915
 2013,Broj,Zenica,four_children,2415
 2013,Broj,Žepče,four_children,1064
@@ -483,27 +483,27 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Busovača,5+_children,570
 2013,Broj,Bužim,5+_children,945
 2013,Broj,Cazin,5+_children,2484
-2013,Broj,centar_sarajevo,5+_children,335
+2013,Broj,Sarajevo-Centar,5+_children,335
 2013,Broj,Čapljina,5+_children,452
 2013,Broj,Čelić,5+_children,336
 2013,Broj,Čitluk,5+_children,405
-2013,Broj,doboj-istok,5+_children,232
-2013,Broj,doboj-jug,5+_children,88
+2013,Broj,Doboj-Istok,5+_children,232
+2013,Broj,Doboj-Jug,5+_children,88
 2013,Broj,Dobretići,5+_children,127
-2013,Broj,domaljevac-samac,5+_children,110
+2013,Broj,Domaljevac-Šamac,5+_children,110
 2013,Broj,Donji Vakuf,5+_children,392
 2013,Broj,Drvar,5+_children,43
-2013,Broj,foca-fbih,5+_children,61
+2013,Broj,Foča-FBiH,5+_children,61
 2013,Broj,Fojnica,5+_children,313
 2013,Broj,Glamoč,5+_children,77
 2013,Broj,Goražde,5+_children,371
-2013,Broj,gornji_vakuf-uskoplje,5+_children,803
+2013,Broj,Gornji Vakuf-Uskoplje,5+_children,803
 2013,Broj,Gračanica,5+_children,804
 2013,Broj,Gradačac,5+_children,636
 2013,Broj,Grude,5+_children,467
-2013,Broj,hadzici,5+_children,388
-2013,Broj,ilidza,5+_children,888
-2013,Broj,ilijas,5+_children,466
+2013,Broj,Sarajevo-Hadžići,5+_children,388
+2013,Broj,Sarajevo-Ilidža,5+_children,888
+2013,Broj,Sarajevo-Ilijaš,5+_children,466
 2013,Broj,Jablanica,5+_children,313
 2013,Broj,Jajce,5+_children,1160
 2013,Broj,Kakanj,5+_children,1128
@@ -513,41 +513,41 @@ Year,UNIT_MEASURE,Administrativna oblast,Vitalna statistika,Value
 2013,Broj,Ključ,5+_children,610
 2013,Broj,Konjic,5+_children,679
 2013,Broj,Kreševo,5+_children,117
-2013,Broj,kupres-fbih,5+_children,170
+2013,Broj,Kupres-FBiH,5+_children,170
 2013,Broj,Livno,5+_children,869
 2013,Broj,Lukavac,5+_children,614
 2013,Broj,Ljubuški,5+_children,683
 2013,Broj,Maglaj,5+_children,547
 2013,Broj,Mostar,5+_children,1366
 2013,Broj,Neum,5+_children,141
-2013,Broj,novi_grad_sarajevo,5+_children,1226
+2013,Broj,Sarajevo-Novi Grad,5+_children,1226
 2013,Broj,Novi Travnik,5+_children,777
-2013,Broj,novo_sarajevo,5+_children,367
+2013,Broj,Sarajevo-Novo Sarajevo,5+_children,367
 2013,Broj,Odžak,5+_children,319
 2013,Broj,Olovo,5+_children,319
 2013,Broj,Orašje,5+_children,598
-2013,Broj,pale-fbih,5+_children,33
+2013,Broj,Pale-FBiH,5+_children,33
 2013,Broj,Posušje,5+_children,795
 2013,Broj,Prozor,5+_children,776
 2013,Broj,Ravno,5+_children,18
 2013,Broj,Sanski Most,5+_children,1059
 2013,Broj,Sapna,5+_children,361
 2013,Broj,Srebrenik,5+_children,902
-2013,Broj,stari_grad_sarajevo,5+_children,323
+2013,Broj,Sarajevo-Stari Grad,5+_children,323
 2013,Broj,Stolac,5+_children,347
 2013,Broj,Široki Brijeg,5+_children,863
 2013,Broj,Teočak,5+_children,180
 2013,Broj,Tešanj,5+_children,986
 2013,Broj,Tomislavgrad,5+_children,970
 2013,Broj,Travnik,5+_children,1485
-2013,Broj,trnovo-fbih,5+_children,40
+2013,Broj,Trnovo-FBiH,5+_children,40
 2013,Broj,Tuzla,5+_children,1356
 2013,Broj,Usora,5+_children,207
 2013,Broj,Vareš,5+_children,216
 2013,Broj,Velika Kladuša,5+_children,2148
 2013,Broj,Visoko,5+_children,615
 2013,Broj,Vitez,5+_children,718
-2013,Broj,vogosca,5+_children,358
+2013,Broj,Sarajevo-Vogošća,5+_children,358
 2013,Broj,Zavidovići,5+_children,988
 2013,Broj,Zenica,5+_children,2155
 2013,Broj,Žepče,5+_children,1169
