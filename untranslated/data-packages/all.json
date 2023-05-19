@@ -474,42 +474,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Admin_Area",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "republika_srpska",
                 ""
               ]
             }
           },
           {
             "name": "SEX",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 ""
               ]
             }
           },
           {
             "name": "AGE",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "0-4",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },

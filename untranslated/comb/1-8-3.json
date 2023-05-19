@@ -1,1 +1,1 @@
-{"data":{"Year":[null],"UNIT_MEASURE":[null],"Admin_Area":[null],"SEX":[null],"AGE":[null],"Value":[null]},"edges":[]}
+{"data":{"Year":[2013],"UNIT_MEASURE":["NUMBER"],"Admin_Area":["republika_srpska"],"SEX":["_T"],"AGE":["0-4"],"Value":[53563]},"edges":{"From":["Admin_Area","SEX"],"To":["SEX","AGE"]}}
