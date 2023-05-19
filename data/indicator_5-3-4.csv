@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,ADMIN_AREA,type_of_school,SEX,Value
+Year,UNIT_MEASURE,Admin_Area,type_of_school,SEX,Value
 2016,NUMBER,federation_of_bih,gymnasium,_T,
 2016,NUMBER,federation_of_bih,technical_high_schools,_T,
 2016,NUMBER,federation_of_bih,vocational_high_schools,_T,
