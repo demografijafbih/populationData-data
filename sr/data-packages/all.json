@@ -512,7 +512,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -521,88 +521,20 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "republika_srpska",
-                "grad_banja_luka",
-                "berkovici",
-                "grad_bijeljina",
-                "bileca",
-                "bratunac",
-                "brod",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje",
-                "gacko",
-                "grad_gradiska",
-                "grad_derventa",
-                "grad_doboj",
-                "donji_zabar",
-                "grad_zvornik",
-                "istocni_drvar",
-                "istocni_mostar",
-                "grad_istocno_sarajevo",
-                "istocna_ilidza",
-                "istocno_novo_sarajevo",
-                "istocni_stari_grad",
-                "pale",
-                "sokolac",
-                "trnovo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kostajnica",
-                "kotor_varos",
-                "kozarska_dubica",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "lopare",
-                "ljubinje",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "grad_prijedor",
-                "prnjavor",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "srbac",
-                "srebrenica",
-                "stanari",
-                "teslic",
-                "grad_trebinje",
-                "ugljevik",
-                "foca",
-                "han_pijesak",
-                "cajnice",
-                "celinac",
-                "samac",
-                "sekovici",
-                "sipovo",
                 ""
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
                 ""
               ]
             },
@@ -613,26 +545,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-4",
-                "5-9",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85-89",
-                "90+",
-                "_T",
                 ""
               ]
             },
@@ -640,7 +552,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]

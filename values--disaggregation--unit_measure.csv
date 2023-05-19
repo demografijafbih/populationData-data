@@ -21,7 +21,7 @@ crude_death_rate_1000,Number per 1000 population,Broj na 1.000 stanovnika,crude_
 EUR,EUR,EUR,EUR,EUR,2,2
 NO_PER_1000_LIVE_BIRTHS,Number per 1000 live births,Broj na 1000 živorođenih,NO_PER_1000_LIVE_BIRTHS,Broj na 1000 živorođenih,6,4
 no_per_1000_marriages,Number per 1000 marriages,Broj na 1000 brakova,no_per_1000_marriages,Broj na 1000 brakova,1,1
-NUMBER,Number,Broj,Број,Broj,16643,74
+NUMBER,Number,Broj,Број,Broj,12743,73
 number_birth_rate,Birth Rate,Stopa nataliteta,number_birth_rate,Stopa nataliteta,2,2
 number_death_rate,Death Rate,Stopa mortaliteta,number_death_rate,Stopa mortaliteta,1,1
 number_marriage_rate,Marriage Rate,Stopa nupcijaliteta,number_marriage_rate,Stopa nupcijaliteta,1,1
