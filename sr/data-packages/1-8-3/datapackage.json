@@ -12,17 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -32,7 +32,7 @@
           },
           {
             "name": "SEX",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -42,7 +42,7 @@
           },
           {
             "name": "AGE",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -52,7 +52,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
