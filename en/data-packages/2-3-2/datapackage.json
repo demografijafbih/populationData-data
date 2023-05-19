@@ -11,7 +11,24 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
+            "name": "Education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "elementary_education",
+                "first_degree",
+                "incomplete_elementary",
+                "No education",
+                "secondary_education",
+                "secondary_specialization",
+                "university_degree"
+              ]
+            },
+            "title": "Education"
+          },
+          {
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -97,24 +114,7 @@
                 "Zivinice"
               ]
             },
-            "title": "Administrative area"
-          },
-          {
-            "name": "Education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "elementary_education",
-                "first_degree",
-                "incomplete_elementary",
-                "No education",
-                "secondary_education",
-                "secondary_specialization",
-                "university_degree"
-              ]
-            },
-            "title": "Education"
+            "title": "Municipality"
           },
           {
             "name": "SEX",
