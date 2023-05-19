@@ -512,20 +512,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "Mjerna jedinica"
           },
           {
             "name": "Admin_Area",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "republika_srpska",
                 ""
               ]
             },
@@ -533,10 +532,9 @@
           },
           {
             "name": "SEX",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Oba spola",
                 ""
               ]
             },
@@ -544,10 +542,9 @@
           },
           {
             "name": "AGE",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "0-4",
                 ""
               ]
             },
@@ -555,7 +552,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

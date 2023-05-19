@@ -12,50 +12,47 @@
         "fields": [
           {
             "name": "AGE",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "0-4"
+                ""
               ]
             },
             "title": "Age"
           },
           {
             "name": "Admin_Area",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "republika_srpska"
+                ""
               ]
             },
             "title": "Administrative Area"
           },
           {
             "name": "SEX",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Both sexes"
+                ""
               ]
             },
             "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]
