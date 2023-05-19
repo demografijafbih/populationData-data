@@ -3309,7 +3309,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3324,7 +3324,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Administrativna jedinica"
           },
           {
             "name": "scientific_field",
