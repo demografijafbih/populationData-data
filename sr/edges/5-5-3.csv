@@ -1,3 +1,3 @@
 From,To
-Administrativna jedinica,Врста образовања
-Врста образовања,Пол
+Admin_Area,type_of_education
+type_of_education,Пол

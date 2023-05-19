@@ -13,30 +13,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Tuzlanski kanton",
-                "Unsko-sanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "tuzla_canton",
+                "una-sana_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "type_of_education",
@@ -49,16 +49,16 @@
                 ""
               ]
             },
-            "title": "Врста образовања"
+            "title": "type_of_education"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -67,7 +67,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       }

@@ -13,46 +13,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "Образовање",
-                "Умјетност и хуманистичке науке",
+                "education",
+                "arts_and_humanities",
                 "social_sciences,_journalism_and_information",
                 "business,_administration_and_law",
                 "natural_sciences,_mathematics_and_statistics",
-                "Информационе и комуникационе технологије",
+                "information_and_communication_technologies",
                 "engineering,_production_and_construction",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "Здравство и социјална заштита",
-                "Услуге",
+                "health_and_social_protection",
+                "services",
                 ""
               ]
             },
@@ -61,7 +61,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       }

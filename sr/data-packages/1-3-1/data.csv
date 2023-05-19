@@ -1,25 +1,25 @@
 Year,UNIT_MEASURE,Value
-1996,Stopa mortaliteta,6.3
-1997,Stopa mortaliteta,6.9
-1998,Stopa mortaliteta,7.3
-1999,Stopa mortaliteta,7.1
-2000,Stopa mortaliteta,7.4
-2001,Stopa mortaliteta,7.3
-2002,Stopa mortaliteta,7.4
-2003,Stopa mortaliteta,7.9
-2004,Stopa mortaliteta,7.9
-2005,Stopa mortaliteta,8.3
-2006,Stopa mortaliteta,8.0
-2007,Stopa mortaliteta,8.7
-2008,Stopa mortaliteta,8.3
-2009,Stopa mortaliteta,8.3
-2010,Stopa mortaliteta,8.6
-2011,Stopa mortaliteta,8.8
-2012,Stopa mortaliteta,8.7
-2013,Stopa mortaliteta,8.9
-2014,Stopa mortaliteta,8.7
-2015,Stopa mortaliteta,9.8
-2016,Stopa mortaliteta,9.6
-2017,Stopa mortaliteta,9.9
-2018,Stopa mortaliteta,9.8
-2019,Stopa mortaliteta,10.1
+1996,number_death_rate,6.3
+1997,number_death_rate,6.9
+1998,number_death_rate,7.3
+1999,number_death_rate,7.1
+2000,number_death_rate,7.4
+2001,number_death_rate,7.3
+2002,number_death_rate,7.4
+2003,number_death_rate,7.9
+2004,number_death_rate,7.9
+2005,number_death_rate,8.3
+2006,number_death_rate,8.0
+2007,number_death_rate,8.7
+2008,number_death_rate,8.3
+2009,number_death_rate,8.3
+2010,number_death_rate,8.6
+2011,number_death_rate,8.8
+2012,number_death_rate,8.7
+2013,number_death_rate,8.9
+2014,number_death_rate,8.7
+2015,number_death_rate,9.8
+2016,number_death_rate,9.6
+2017,number_death_rate,9.9
+2018,number_death_rate,9.8
+2019,number_death_rate,10.1

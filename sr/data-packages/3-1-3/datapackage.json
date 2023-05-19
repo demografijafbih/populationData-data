@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "M",
-                "Ж",
-                "Оба пола",
+                "F",
+                "_T",
                 ""
               ]
             },
@@ -36,7 +36,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       }

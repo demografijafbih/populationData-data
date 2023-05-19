@@ -1,4 +1,4 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-agri_activity,Engaged in agricultural activities,Obavljanje poljoprivredne aktivnosti,Obavljanje poljoprivredne aktivnosti,Obavljanje poljoprivredne aktivnosti,79,1
-agri_activity_sale,Engaged in agricultural activities and sell their products in the market,Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu,Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu,Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu,79,1
-T,Total,Ukupno,Ukupno,Ukupno,79,1
+agri_activity,Engaged in agricultural activities,Obavljanje poljoprivredne aktivnosti,agri_activity,Obavljanje poljoprivredne aktivnosti,79,1
+agri_activity_sale,Engaged in agricultural activities and sell their products in the market,Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu,agri_activity_sale,Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu,79,1
+T,Total,Ukupno,T,Ukupno,79,1

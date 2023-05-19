@@ -1,6 +1,6 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-art_schools,Art schools,Umjetničke škole,Умјетничке школе,Umjetničke škole,44,2
-gymnasium,Gymnasium,Gimnazija,Гимназија,Gimnazija,44,2
+art_schools,Art schools,Umjetničke škole,art_schools,Umjetničke škole,44,2
+gymnasium,Gymnasium,Gimnazija,gymnasium,Gimnazija,44,2
 high_schools_for_students_with_disabilities,high_schools_for_students_with_disabilities,Srednje škole za djecu s poteškoćama u razvoju,high_schools_for_students_with_disabilities,high_schools_for_students_with_disabilities,44,2
 religious_schools,religious_schools,Vjerske škole,religious_schools,religious_schools,44,2
 technical_high_schools,technical_high_schools,Tehničke škole,technical_high_schools,technical_high_schools,44,2

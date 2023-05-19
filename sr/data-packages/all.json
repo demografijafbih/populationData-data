@@ -15,42 +15,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -59,7 +59,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -78,17 +78,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -107,39 +107,39 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -148,7 +148,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -167,19 +167,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 ""
               ]
             },
@@ -188,7 +188,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -207,17 +207,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -236,12 +236,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
@@ -254,16 +254,16 @@
                 ""
               ]
             },
-            "title": "Тип односа зависности"
+            "title": "TYPE_OF_DEPENDENCY_RATIO"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -272,7 +272,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -291,21 +291,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -316,7 +316,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "T",
                 "0",
                 "1",
                 "2",
@@ -406,12 +406,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -430,7 +430,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "SEX",
@@ -438,7 +438,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -447,12 +447,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -471,21 +471,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -494,7 +494,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -513,12 +513,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "ADMIN_AREA",
@@ -527,82 +527,82 @@
               "enum": [
                 "republika_srpska",
                 "grad_banja_luka",
-                "Берковићи",
+                "berkovici",
                 "grad_bijeljina",
-                "Билећа",
-                "Братунац",
-                "Брод",
-                "Вишеград",
-                "Власеница",
-                "Вукосавље",
-                "Гацко",
+                "bileca",
+                "bratunac",
+                "brod",
+                "visegrad",
+                "vlasenica",
+                "vukosavlje",
+                "gacko",
                 "grad_gradiska",
                 "grad_derventa",
                 "grad_doboj",
-                "Доњи Жабар",
+                "donji_zabar",
                 "grad_zvornik",
-                "Источни Дрвар",
-                "Источни Мостар",
+                "istocni_drvar",
+                "istocni_mostar",
                 "grad_istocno_sarajevo",
-                "Источна Илиџа",
-                "Источно Ново Сарајево",
-                "Источни Стари Град",
+                "istocna_ilidza",
+                "istocno_novo_sarajevo",
+                "istocni_stari_grad",
                 "pale",
-                "Соколац",
+                "sokolac",
                 "trnovo",
-                "Језеро",
-                "Калиновик",
-                "Кнежево",
-                "Костајница",
-                "Котор Варош",
-                "Козарска Дубица",
-                "Крупа на Уни",
+                "jezero",
+                "kalinovik",
+                "knezevo",
+                "kostajnica",
+                "kotor_varos",
+                "kozarska_dubica",
+                "krupa_na_uni",
                 "kupres",
-                "Лакташи",
-                "Лопаре",
-                "Љубиње",
-                "Милићи",
-                "Модрича",
-                "Мркоњић Град",
-                "Невесиње",
-                "Нови Град",
-                "Ново Горажде",
-                "Осмаци",
-                "Оштра Лука",
-                "Пелагићево",
-                "Петровац",
-                "Петрово",
+                "laktasi",
+                "lopare",
+                "ljubinje",
+                "milici",
+                "modrica",
+                "mrkonjic_grad",
+                "nevesinje",
+                "novi_grad",
+                "novo_gorazde",
+                "osmaci",
+                "ostra_luka",
+                "pelagicevo",
+                "petrovac",
+                "petrovo",
                 "grad_prijedor",
-                "Прњавор",
-                "Рибник",
-                "Рогатица",
-                "Рудо",
-                "Србац",
-                "Сребреница",
+                "prnjavor",
+                "ribnik",
+                "rogatica",
+                "rudo",
+                "srbac",
+                "srebrenica",
                 "stanari",
-                "Теслић",
+                "teslic",
                 "grad_trebinje",
-                "Угљевик",
+                "ugljevik",
                 "foca",
-                "Хан Пијесак",
-                "Чајниче",
-                "Челинац",
-                "Шамац",
-                "Шековићи",
-                "Шипово",
+                "han_pijesak",
+                "cajnice",
+                "celinac",
+                "samac",
+                "sekovici",
+                "sipovo",
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -632,16 +632,16 @@
                 "80-84",
                 "85-89",
                 "90+",
-                "Оба пола",
+                "_T",
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -660,21 +660,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -685,39 +685,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Живорођени",
-                "Умрли",
-                "Природни прираштај",
+                "LIVE_BIRTH",
+                "DEATHS",
+                "NATURAL_CHANGE",
                 ""
               ]
             },
-            "title": "Витална статистика"
+            "title": "BIRTHS"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -736,42 +736,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -780,7 +780,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -799,21 +799,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -822,7 +822,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -841,119 +841,119 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Бановићи",
-                "Бихаћ",
-                "Босанска Крупа",
-                "Босански Петровац",
-                "Босанско Грахово",
-                "Бреза",
-                "Бугојно",
-                "Бусовача",
-                "Бужим",
-                "Цазин",
+                "banovici",
+                "bihac",
+                "bosanska_krupa",
+                "bosanski_petrovac",
+                "bosansko_grahovo",
+                "breza",
+                "bugojno",
+                "busovaca",
+                "buzim",
+                "cazin",
                 "centar_sarajevo",
-                "Чапљина",
-                "Челић",
-                "Читлук",
+                "capljina",
+                "celic",
+                "citluk",
                 "doboj-istok",
                 "doboj-jug",
-                "Добретићи",
+                "dobretici",
                 "domaljevac-samac",
-                "Доњи Вакуф",
-                "Дрвар",
+                "donji_vakuf",
+                "drvar",
                 "foca-fbih",
-                "Фојница",
-                "Гламоч",
-                "Горажде",
+                "fojnica",
+                "glamoc",
+                "gorazde",
                 "gornji_vakuf-uskoplje",
-                "Грачаница",
-                "Градачац",
-                "Груде",
+                "gracanica",
+                "gradacac",
+                "grude",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "Јабланица",
-                "Јајце",
-                "Какањ",
-                "Калесија",
-                "Кисељак",
-                "Кладањ",
-                "Кључ",
-                "Коњиц",
-                "Крешево",
+                "jablanica",
+                "jajce",
+                "kakanj",
+                "kalesija",
+                "kiseljak",
+                "kladanj",
+                "kljuc",
+                "konjic",
+                "kresevo",
                 "kupres-fbih",
-                "Ливно",
-                "Лукавац",
-                "Љубушки",
-                "Маглај",
-                "Мостар",
-                "Неум",
+                "livno",
+                "lukavac",
+                "ljubuski",
+                "maglaj",
+                "mostar",
+                "neum",
                 "novi_grad_sarajevo",
-                "Нови Травник",
+                "novi_travnik",
                 "novo_sarajevo",
-                "Оџак",
-                "Олово",
-                "Орашје",
+                "odzak",
+                "olovo",
+                "orasje",
                 "pale-fbih",
-                "Посушје",
-                "Прозор",
-                "Равно",
-                "Сански Мост",
-                "Сапна",
-                "Сребреник",
+                "posusje",
+                "prozor",
+                "ravno",
+                "sanski_most",
+                "sapna",
+                "srebrenik",
                 "stari_grad_sarajevo",
-                "Столац",
-                "Широки Бријег",
-                "Теочак",
-                "Тешањ",
-                "Томиславград",
-                "Травник",
+                "stolac",
+                "siroki_brijeg",
+                "teocak",
+                "tesanj",
+                "tomislavgrad",
+                "travnik",
                 "trnovo-fbih",
-                "Тузла",
-                "Усора",
-                "Вареш",
-                "Велика Кладуша",
-                "Високо",
-                "Витез",
+                "tuzla",
+                "usora",
+                "vares",
+                "velika_kladusa",
+                "visoko",
+                "vitez",
                 "vogosca",
-                "Завидовићи",
-                "Зеница",
-                "Жепче",
-                "Живинице",
+                "zavidovici",
+                "zenica",
+                "zepce",
+                "zivinice",
                 ""
               ]
             },
-            "title": "Oпштина"
+            "title": "Municipality"
           },
           {
             "name": "HH_agri",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
-                "Obavljanje poljoprivredne aktivnosti",
-                "Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu",
+                "T",
+                "agri_activity",
+                "agri_activity_sale",
                 ""
               ]
             },
-            "title": "Poljoprivredna aktivnost"
+            "title": "HH_agri"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -972,17 +972,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1001,46 +1001,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "Образовање",
-                "Умјетност и хуманистичке науке",
+                "education",
+                "arts_and_humanities",
                 "social_sciences,_journalism_and_information",
                 "business,_administration_and_law",
                 "natural_sciences,_mathematics_and_statistics",
-                "Информационе и комуникационе технологије",
+                "information_and_communication_technologies",
                 "engineering,_production_and_construction",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "Здравство и социјална заштита",
-                "Услуге",
+                "health_and_social_protection",
+                "services",
                 ""
               ]
             },
@@ -1049,7 +1049,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1068,39 +1068,39 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -1109,7 +1109,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1128,17 +1128,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1157,30 +1157,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Tuzlanski kanton",
-                "Unsko-sanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "tuzla_canton",
+                "una-sana_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "type_of_education",
@@ -1193,16 +1193,16 @@
                 ""
               ]
             },
-            "title": "Врста образовања"
+            "title": "type_of_education"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -1211,7 +1211,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1230,17 +1230,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1259,17 +1259,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1288,42 +1288,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -1332,7 +1332,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1351,17 +1351,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1380,16 +1380,16 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -1400,42 +1400,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(Ц00-Ц97,Д00-Д48) Неоплазме",
-                "(И00-И99) Болести циркулацијског система",
-                "(Ј00-Ј99) Болести респираторног система",
-                "(К00-К93) Болести дигестивног система",
-                "(Р00-Р99) Симптоми, знакови и абнормални клинички и лабораторијски налази који нису другдје класифицирани",
-                "(С00-Т98) Повреде, тровања и друге посљедице дејстава спољних фактора",
-                "Укупно",
-                "(А00-Б99) Заразне и паразитарне болести",
-                "(Д50-Д89) Болести крви и крвотворних органа, као и поремећаји имунолошког система",
-                "(Е00-Е90) Ендокрине болести, болести исхране и болести метаболизма",
-                "(Ф00-Ф99) Душевни поремећаји и поремећаји понашања",
-                "(Г00-Г99) Болести нервног система",
-                "(Х00-Х93) Болести ока, уха и аднекса",
-                "(Л00-Л99) Болести коже и поткожног ткива",
-                "(М00-М99) Болести мускулоскелетног система и везивног ткива",
-                "(Н00-Н99) Болести генитално-уринарног система",
-                "(О00-О99) Трудноћа, порођај и постпорођајни период",
-                "(П00-П96) Одређена стања настала у перинаталном периоду",
-                "(Q00-Q99) Конгениталне малформације, деформитети и хромосомске абнормалности",
-                "(В01-Y98) Спољни узроци смртности",
-                "(З00-З99) Фактори који утичу на здравствено стање и контакт са здравственом службом",
-                "Непознато",
+                "neoplasms",
+                "diseases_of_the_circulatory",
+                "diseases_of_the_respiratory",
+                "diseases_of_the_digestive",
+                "symptoms_signs_and_abnormal",
+                "injuries_poisoning_and_consequences",
+                "total",
+                "infectious_and_parasitic",
+                "diseases_of_the_blood",
+                "endocrine_metabolic_and_nutritional",
+                "mental_and_behavioural_disorders",
+                "diseases_of_the_nervous",
+                "diseases_of_the_eye",
+                "diseases_of_the_skin",
+                "diseases_of_the_musculoskeletal",
+                "diseases_of_the_genitourinary",
+                "pregnancy_childbirth_and_the",
+                "certain_conditions_originating",
+                "congenital_malformations_deformations",
+                "external_causes_of_mortality",
+                "factors_influencing_health_status",
+                "unknown",
                 ""
               ]
             },
-            "title": "Узрок смрти (према шифрама болести по МКБ-10)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1454,12 +1454,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
@@ -1472,16 +1472,16 @@
                 ""
               ]
             },
-            "title": "Тип односа зависности"
+            "title": "TYPE_OF_DEPENDENCY_RATIO"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -1490,7 +1490,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1509,21 +1509,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -1555,12 +1555,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1579,34 +1579,34 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "status_in_employment",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zaposlenici",
-                "Samozaposlenici",
-                "Neplaćeni pomažući članovi",
+                "employees",
+                "self_employed",
+                "unpaid_family_workers",
                 ""
               ]
             },
-            "title": "Радни статус"
+            "title": "status_in_employment"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -1615,7 +1615,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1634,110 +1634,110 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Бановићи",
-                "Бихаћ",
-                "Босанска Крупа",
-                "Босански Петровац",
-                "Босанско Грахово",
-                "Бреза",
-                "Бугојно",
-                "Бусовача",
-                "Бужим",
-                "Цазин",
+                "banovici",
+                "bihac",
+                "bosanska_krupa",
+                "bosanski_petrovac",
+                "bosansko_grahovo",
+                "breza",
+                "bugojno",
+                "busovaca",
+                "buzim",
+                "cazin",
                 "centar_sarajevo",
-                "Чапљина",
-                "Челић",
-                "Читлук",
+                "capljina",
+                "celic",
+                "citluk",
                 "doboj-istok",
                 "doboj-jug",
-                "Добретићи",
+                "dobretici",
                 "domaljevac-samac",
-                "Доњи Вакуф",
-                "Дрвар",
+                "donji_vakuf",
+                "drvar",
                 "foca-fbih",
-                "Фојница",
-                "Гламоч",
-                "Горажде",
+                "fojnica",
+                "glamoc",
+                "gorazde",
                 "gornji_vakuf-uskoplje",
-                "Грачаница",
-                "Градачац",
-                "Груде",
+                "gracanica",
+                "gradacac",
+                "grude",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "Јабланица",
-                "Јајце",
-                "Какањ",
-                "Калесија",
-                "Кисељак",
-                "Кладањ",
-                "Кључ",
-                "Коњиц",
-                "Крешево",
+                "jablanica",
+                "jajce",
+                "kakanj",
+                "kalesija",
+                "kiseljak",
+                "kladanj",
+                "kljuc",
+                "konjic",
+                "kresevo",
                 "kupres-fbih",
-                "Ливно",
-                "Лукавац",
-                "Љубушки",
-                "Маглај",
-                "Мостар",
-                "Неум",
+                "livno",
+                "lukavac",
+                "ljubuski",
+                "maglaj",
+                "mostar",
+                "neum",
                 "novi_grad_sarajevo",
-                "Нови Травник",
+                "novi_travnik",
                 "novo_sarajevo",
-                "Оџак",
-                "Олово",
-                "Орашје",
+                "odzak",
+                "olovo",
+                "orasje",
                 "pale-fbih",
-                "Посушје",
-                "Прозор",
-                "Равно",
-                "Сански Мост",
-                "Сапна",
-                "Сребреник",
+                "posusje",
+                "prozor",
+                "ravno",
+                "sanski_most",
+                "sapna",
+                "srebrenik",
                 "stari_grad_sarajevo",
-                "Столац",
-                "Широки Бријег",
-                "Теочак",
-                "Тешањ",
-                "Томиславград",
-                "Травник",
+                "stolac",
+                "siroki_brijeg",
+                "teocak",
+                "tesanj",
+                "tomislavgrad",
+                "travnik",
                 "trnovo-fbih",
-                "Тузла",
-                "Усора",
-                "Вареш",
-                "Велика Кладуша",
-                "Високо",
-                "Витез",
+                "tuzla",
+                "usora",
+                "vares",
+                "velika_kladusa",
+                "visoko",
+                "vitez",
                 "vogosca",
-                "Завидовићи",
-                "Зеница",
-                "Жепче",
-                "Живинице",
+                "zavidovici",
+                "zenica",
+                "zepce",
+                "zivinice",
                 ""
               ]
             },
-            "title": "Oпштина"
+            "title": "Municipality"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -1748,23 +1748,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
-                "Vid, iako nosi naočare",
-                "Sluh, iako koristi slušni aparat",
-                "Hod ili penjanje uz stepenice",
-                "Pamćenje ili koncentracija",
-                "Odijevanje i održavanje lične higijene",
-                "Komunikacija",
-                "Sa više poteškoća",
+                "T",
+                "eyesight",
+                "hearing",
+                "walking",
+                "memory",
+                "dressing",
+                "communication",
+                "multiple_disabilities",
                 ""
               ]
             },
-            "title": "Vrsta poteškoće"
+            "title": "Disabilities"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1783,30 +1783,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Јавна",
-                "Приватна",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             },
-            "title": "Врста установе"
+            "title": "type_of_institution"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1825,12 +1825,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
@@ -1847,7 +1847,7 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Unnamed: 4",
@@ -1862,7 +1862,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1881,17 +1881,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1910,46 +1910,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "Образовање",
-                "Умјетност и хуманистичке науке",
+                "education",
+                "arts_and_humanities",
                 "social_sciences,_journalism_and_information",
                 "business,_administration_and_law",
                 "natural_sciences,_mathematics_and_statistics",
-                "Информационе и комуникационе технологије",
+                "information_and_communication_technologies",
                 "engineering,_production_and_construction",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "Здравство и социјална заштита",
-                "Услуге",
+                "health_and_social_protection",
+                "services",
                 ""
               ]
             },
@@ -1958,7 +1958,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1977,17 +1977,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2006,12 +2006,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -2019,7 +2019,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -2028,7 +2028,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2047,19 +2047,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "T",
                 "0",
                 "1",
                 "2",
@@ -2154,16 +2154,16 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -2172,7 +2172,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2191,21 +2191,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -2216,9 +2216,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "total",
                 "infectious_and_parasitic_diseases",
-                "(Ц00-Ц97,Д00-Д48) Неоплазме",
+                "neoplasms",
                 "diseases_of_the_blood_and_blood_forming_organs",
                 "diseases_of_the_endocrine_glands_nutrition_and_metabolism",
                 "mental_disorders_and_behavioral_disorders",
@@ -2237,16 +2237,16 @@
                 "symptoms_signs_and_abnormal_clinical_and_laboratory_findings",
                 "injuries_poisonings_and_consequences_of_external_factors",
                 "special_purpose_codes",
-                "Непознато",
+                "unknown",
                 ""
               ]
             },
-            "title": "Узрок смрти (према шифрама болести по МКБ-10)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2265,17 +2265,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2294,39 +2294,39 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -2335,7 +2335,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2354,39 +2354,39 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -2395,7 +2395,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2414,21 +2414,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -2437,7 +2437,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2456,17 +2456,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2485,17 +2485,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2514,7 +2514,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "SEX",
@@ -2522,7 +2522,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -2531,12 +2531,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2555,17 +2555,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2584,46 +2584,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "Образовање",
-                "Умјетност и хуманистичке науке",
+                "education",
+                "arts_and_humanities",
                 "social_sciences,_journalism_and_information",
                 "business,_administration_and_law",
                 "natural_sciences,_mathematics_and_statistics",
-                "Информационе и комуникационе технологије",
+                "information_and_communication_technologies",
                 "engineering,_production_and_construction",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "Здравство и социјална заштита",
-                "Услуге",
+                "health_and_social_protection",
+                "services",
                 ""
               ]
             },
@@ -2632,7 +2632,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2651,42 +2651,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -2695,7 +2695,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2714,30 +2714,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "MICS_NUMBER",
             "type": "string",
             "constraints": {
               "enum": [
-                "Све методе",
-                "Традиционалне методе",
-                "Савремене методе",
+                "all_methods",
+                "traditional_methods",
+                "modern_methods",
                 ""
               ]
             },
-            "title": "Метода"
+            "title": "MICS_NUMBER"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2756,21 +2756,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -2789,12 +2789,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2813,38 +2813,38 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2863,46 +2863,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "Образовање",
-                "Умјетност и хуманистичке науке",
+                "education",
+                "arts_and_humanities",
                 "social_sciences,_journalism_and_information",
                 "business,_administration_and_law",
                 "natural_sciences,_mathematics_and_statistics",
-                "Информационе и комуникационе технологије",
+                "information_and_communication_technologies",
                 "engineering,_production_and_construction",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "Здравство и социјална заштита",
-                "Услуге",
+                "health_and_social_protection",
+                "services",
                 ""
               ]
             },
@@ -2911,7 +2911,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2930,39 +2930,39 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -2971,7 +2971,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2990,17 +2990,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3019,17 +3019,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3048,17 +3048,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3077,39 +3077,39 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -3118,7 +3118,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3137,17 +3137,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3166,19 +3166,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "T",
                 "0-4",
                 "5-9",
                 "10-14",
@@ -3201,16 +3201,16 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -3219,7 +3219,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3238,42 +3238,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -3282,7 +3282,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3301,46 +3301,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "Образовање",
-                "Умјетност и хуманистичке науке",
+                "education",
+                "arts_and_humanities",
                 "social_sciences,_journalism_and_information",
                 "business,_administration_and_law",
                 "natural_sciences,_mathematics_and_statistics",
-                "Информационе и комуникационе технологије",
+                "information_and_communication_technologies",
                 "engineering,_production_and_construction",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "Здравство и социјална заштита",
-                "Услуге",
+                "health_and_social_protection",
+                "services",
                 ""
               ]
             },
@@ -3349,7 +3349,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3368,21 +3368,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -3391,7 +3391,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3410,17 +3410,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3439,17 +3439,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3468,21 +3468,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -3493,17 +3493,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Живорођени",
-                "Умрли",
+                "LIVE_BIRTH",
+                "DEATHS",
                 ""
               ]
             },
-            "title": "Рађање"
+            "title": "BIRTH"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3522,108 +3522,108 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Бановићи",
-                "Бихаћ",
-                "Босанска Крупа",
-                "Босански Петровац",
-                "Босанско Грахово",
-                "Бреза",
-                "Бугојно",
-                "Бусовача",
-                "Бужим",
-                "Цазин",
+                "banovici",
+                "bihac",
+                "bosanska_krupa",
+                "bosanski_petrovac",
+                "bosansko_grahovo",
+                "breza",
+                "bugojno",
+                "busovaca",
+                "buzim",
+                "cazin",
                 "centar_sarajevo",
-                "Чапљина",
-                "Челић",
-                "Читлук",
+                "capljina",
+                "celic",
+                "citluk",
                 "doboj-istok",
                 "doboj-jug",
-                "Добретићи",
+                "dobretici",
                 "domaljevac-samac",
-                "Доњи Вакуф",
-                "Дрвар",
+                "donji_vakuf",
+                "drvar",
                 "foca-fbih",
-                "Фојница",
-                "Гламоч",
-                "Горажде",
+                "fojnica",
+                "glamoc",
+                "gorazde",
                 "gornji_vakuf-uskoplje",
-                "Грачаница",
-                "Градачац",
-                "Груде",
+                "gracanica",
+                "gradacac",
+                "grude",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "Јабланица",
-                "Јајце",
-                "Какањ",
-                "Калесија",
-                "Кисељак",
-                "Кладањ",
-                "Кључ",
-                "Коњиц",
-                "Крешево",
+                "jablanica",
+                "jajce",
+                "kakanj",
+                "kalesija",
+                "kiseljak",
+                "kladanj",
+                "kljuc",
+                "konjic",
+                "kresevo",
                 "kupres-fbih",
-                "Ливно",
-                "Лукавац",
-                "Љубушки",
-                "Маглај",
-                "Мостар",
-                "Неум",
+                "livno",
+                "lukavac",
+                "ljubuski",
+                "maglaj",
+                "mostar",
+                "neum",
                 "novi_grad_sarajevo",
-                "Нови Травник",
+                "novi_travnik",
                 "novo_sarajevo",
-                "Оџак",
-                "Олово",
-                "Орашје",
+                "odzak",
+                "olovo",
+                "orasje",
                 "pale-fbih",
-                "Посушје",
-                "Прозор",
-                "Равно",
-                "Сански Мост",
-                "Сапна",
-                "Сребреник",
+                "posusje",
+                "prozor",
+                "ravno",
+                "sanski_most",
+                "sapna",
+                "srebrenik",
                 "stari_grad_sarajevo",
-                "Столац",
-                "Широки Бријег",
-                "Теочак",
-                "Тешањ",
-                "Томиславград",
-                "Травник",
+                "stolac",
+                "siroki_brijeg",
+                "teocak",
+                "tesanj",
+                "tomislavgrad",
+                "travnik",
                 "trnovo-fbih",
-                "Тузла",
-                "Усора",
-                "Вареш",
-                "Велика Кладуша",
-                "Високо",
-                "Витез",
+                "tuzla",
+                "usora",
+                "vares",
+                "velika_kladusa",
+                "visoko",
+                "vitez",
                 "vogosca",
-                "Завидовићи",
-                "Зеница",
-                "Жепче",
-                "Живинице",
+                "zavidovici",
+                "zenica",
+                "zepce",
+                "zivinice",
                 ""
               ]
             },
-            "title": "Oпштина"
+            "title": "Municipality"
           },
           {
             "name": "HH_size",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "T",
                 "1",
                 "2",
                 "3",
@@ -3635,12 +3635,12 @@
                 ""
               ]
             },
-            "title": "Brojnost domaćinstva"
+            "title": "HH_size"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3659,42 +3659,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -3703,7 +3703,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3722,123 +3722,123 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Бановићи",
-                "Бихаћ",
-                "Босанска Крупа",
-                "Босански Петровац",
-                "Босанско Грахово",
-                "Бреза",
-                "Бугојно",
-                "Бусовача",
-                "Бужим",
-                "Цазин",
+                "banovici",
+                "bihac",
+                "bosanska_krupa",
+                "bosanski_petrovac",
+                "bosansko_grahovo",
+                "breza",
+                "bugojno",
+                "busovaca",
+                "buzim",
+                "cazin",
                 "centar_sarajevo",
-                "Чапљина",
-                "Челић",
-                "Читлук",
+                "capljina",
+                "celic",
+                "citluk",
                 "doboj-istok",
                 "doboj-jug",
-                "Добретићи",
+                "dobretici",
                 "domaljevac-samac",
-                "Доњи Вакуф",
-                "Дрвар",
+                "donji_vakuf",
+                "drvar",
                 "foca-fbih",
-                "Фојница",
-                "Гламоч",
-                "Горажде",
+                "fojnica",
+                "glamoc",
+                "gorazde",
                 "gornji_vakuf-uskoplje",
-                "Грачаница",
-                "Градачац",
-                "Груде",
+                "gracanica",
+                "gradacac",
+                "grude",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "Јабланица",
-                "Јајце",
-                "Какањ",
-                "Калесија",
-                "Кисељак",
-                "Кладањ",
-                "Кључ",
-                "Коњиц",
-                "Крешево",
+                "jablanica",
+                "jajce",
+                "kakanj",
+                "kalesija",
+                "kiseljak",
+                "kladanj",
+                "kljuc",
+                "konjic",
+                "kresevo",
                 "kupres-fbih",
-                "Ливно",
-                "Лукавац",
-                "Љубушки",
-                "Маглај",
-                "Мостар",
-                "Неум",
+                "livno",
+                "lukavac",
+                "ljubuski",
+                "maglaj",
+                "mostar",
+                "neum",
                 "novi_grad_sarajevo",
-                "Нови Травник",
+                "novi_travnik",
                 "novo_sarajevo",
-                "Оџак",
-                "Олово",
-                "Орашје",
+                "odzak",
+                "olovo",
+                "orasje",
                 "pale-fbih",
-                "Посушје",
-                "Прозор",
-                "Равно",
-                "Сански Мост",
-                "Сапна",
-                "Сребреник",
+                "posusje",
+                "prozor",
+                "ravno",
+                "sanski_most",
+                "sapna",
+                "srebrenik",
                 "stari_grad_sarajevo",
-                "Столац",
-                "Широки Бријег",
-                "Теочак",
-                "Тешањ",
-                "Томиславград",
-                "Травник",
+                "stolac",
+                "siroki_brijeg",
+                "teocak",
+                "tesanj",
+                "tomislavgrad",
+                "travnik",
                 "trnovo-fbih",
-                "Тузла",
-                "Усора",
-                "Вареш",
-                "Велика Кладуша",
-                "Високо",
-                "Витез",
+                "tuzla",
+                "usora",
+                "vares",
+                "velika_kladusa",
+                "visoko",
+                "vitez",
                 "vogosca",
-                "Завидовићи",
-                "Зеница",
-                "Жепче",
-                "Живинице",
+                "zavidovici",
+                "zenica",
+                "zepce",
+                "zivinice",
                 ""
               ]
             },
-            "title": "Oпштина"
+            "title": "Municipality"
           },
           {
             "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
-                "Nisu rađale",
-                "Jedno dijete",
-                "Dvoje djece",
-                "Troje djece",
-                "Četvero djece",
-                "Pet i više djece",
+                "T",
+                "did_not_give_birth",
+                "one_child",
+                "two_children",
+                "three_children",
+                "four_children",
+                "5+_children",
                 ""
               ]
             },
-            "title": "Витална статистика"
+            "title": "BIRTHS"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3857,42 +3857,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -3901,7 +3901,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3920,16 +3920,16 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -3950,17 +3950,17 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3979,21 +3979,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -4004,7 +4004,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "T",
                 "0-4",
                 " 5-9",
                 " 10-14",
@@ -4033,12 +4033,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4057,17 +4057,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4086,39 +4086,39 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -4127,7 +4127,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4146,30 +4146,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
-                "Јавна",
-                "Приватна",
+                "total",
+                "public",
+                "private",
                 ""
               ]
             },
-            "title": "Врста установе"
+            "title": "type_of_institution"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4188,17 +4188,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4217,48 +4217,48 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "CAUSE_OF_DEATH",
             "type": "string",
             "constraints": {
               "enum": [
-                "(Ц00-Ц97,Д00-Д48) Неоплазме",
-                "(И00-И99) Болести циркулацијског система",
-                "(Ј00-Ј99) Болести респираторног система",
-                "(К00-К93) Болести дигестивног система",
-                "(Р00-Р99) Симптоми, знакови и абнормални клинички и лабораторијски налази који нису другдје класифицирани",
-                "(С00-Т98) Повреде, тровања и друге посљедице дејстава спољних фактора",
-                "(А00-Б99) Заразне и паразитарне болести",
-                "(Д50-Д89) Болести крви и крвотворних органа, као и поремећаји имунолошког система",
-                "(Е00-Е90) Ендокрине болести, болести исхране и болести метаболизма",
-                "(Ф00-Ф99) Душевни поремећаји и поремећаји понашања",
-                "(Г00-Г99) Болести нервног система",
-                "(Х00-Х93) Болести ока, уха и аднекса",
-                "(Л00-Л99) Болести коже и поткожног ткива",
-                "(Н00-Н99) Болести генитално-уринарног система",
-                "(П00-П96) Одређена стања настала у перинаталном периоду",
-                "(Q00-Q99) Конгениталне малформације, деформитети и хромосомске абнормалности",
-                "(В01-Y98) Спољни узроци смртности",
-                "(З00-З99) Фактори који утичу на здравствено стање и контакт са здравственом службом",
-                "Непознато",
-                "(М00-М99) Болести мускулоскелетног система и везивног ткива",
-                "(О00-О99) Трудноћа, порођај и постпорођајни период",
+                "neoplasms",
+                "diseases_of_the_circulatory",
+                "diseases_of_the_respiratory",
+                "diseases_of_the_digestive",
+                "symptoms_signs_and_abnormal",
+                "injuries_poisoning_and_consequences",
+                "infectious_and_parasitic",
+                "diseases_of_the_blood",
+                "endocrine_metabolic_and_nutritional",
+                "mental_and_behavioural_disorders",
+                "diseases_of_the_nervous",
+                "diseases_of_the_eye",
+                "diseases_of_the_skin",
+                "diseases_of_the_genitourinary",
+                "certain_conditions_originating",
+                "congenital_malformations_deformations",
+                "external_causes_of_mortality",
+                "factors_influencing_health_status",
+                "unknown",
+                "diseases_of_the_musculoskeletal",
+                "pregnancy_childbirth_and_the",
                 ""
               ]
             },
-            "title": "Узрок смрти (према шифрама болести по МКБ-10)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4277,21 +4277,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -4300,7 +4300,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4319,30 +4319,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Јавна",
-                "Приватна",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             },
-            "title": "Врста установе"
+            "title": "type_of_institution"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4361,43 +4361,43 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "Гимназија",
+                "gymnasium",
                 "technical_high_schools",
                 "vocational_high_schools",
-                "Умјетничке школе",
+                "art_schools",
                 "religious_schools",
                 "high_schools_for_students_with_disabilities",
                 ""
@@ -4408,7 +4408,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4427,21 +4427,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -4460,12 +4460,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4484,17 +4484,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4513,36 +4513,36 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
-                "Домови за дјецу и младе без родитељског старања",
-                "Установе социјалне заштите за дјецу, младе и одрасле са менталним и физичким инвалидитетом",
-                "Установе социјалне заштите за одрасле особе са инвалидитетом",
-                "Установе социјалне заштите за одрасле",
+                "_T",
+                "homes_for_children_and_youth_without_parental_care",
+                "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
+                "social_welfare_institutions_for_adults_with_disabilities",
+                "social_welfare_institutions_for_adults",
                 ""
               ]
             },
-            "title": "Врста установе"
+            "title": "type_of_institution"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -4551,7 +4551,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4570,21 +4570,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -4593,7 +4593,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4612,7 +4612,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "SEX",
@@ -4620,7 +4620,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -4629,12 +4629,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4653,17 +4653,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4682,12 +4682,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -4695,8 +4695,8 @@
             "constraints": {
               "enum": [
                 "M",
-                "Ж",
-                "Оба пола",
+                "F",
+                "_T",
                 ""
               ]
             },
@@ -4705,7 +4705,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4724,17 +4724,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4753,42 +4753,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -4797,7 +4797,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4816,17 +4816,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4845,12 +4845,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "PYRAMID_SEX",
@@ -4858,7 +4858,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -4895,7 +4895,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4914,42 +4914,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -4958,7 +4958,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4977,17 +4977,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5006,12 +5006,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "PYRAMID_SEX",
@@ -5019,7 +5019,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -5063,7 +5063,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5082,17 +5082,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5111,17 +5111,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5140,19 +5140,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 ""
               ]
             },
@@ -5161,7 +5161,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5180,17 +5180,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5209,17 +5209,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5238,17 +5238,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5267,111 +5267,111 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Бановићи",
-                "Бихаћ",
-                "Босанска Крупа",
-                "Босански Петровац",
-                "Босанско Грахово",
-                "Бреза",
-                "Бугојно",
-                "Бусовача",
-                "Бужим",
-                "Цазин",
+                "banovici",
+                "bihac",
+                "bosanska_krupa",
+                "bosanski_petrovac",
+                "bosansko_grahovo",
+                "breza",
+                "bugojno",
+                "busovaca",
+                "buzim",
+                "cazin",
                 "centar_sarajevo",
-                "Чапљина",
-                "Челић",
-                "Читлук",
+                "capljina",
+                "celic",
+                "citluk",
                 "doboj-istok",
                 "doboj-jug",
-                "Добретићи",
+                "dobretici",
                 "domaljevac-samac",
-                "Доњи Вакуф",
-                "Дрвар",
+                "donji_vakuf",
+                "drvar",
                 "foca-fbih",
-                "Фојница",
-                "Гламоч",
-                "Горажде",
+                "fojnica",
+                "glamoc",
+                "gorazde",
                 "gornji_vakuf-uskoplje",
-                "Грачаница",
-                "Градачац",
-                "Груде",
+                "gracanica",
+                "gradacac",
+                "grude",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "Јабланица",
-                "Јајце",
-                "Какањ",
-                "Калесија",
-                "Кисељак",
-                "Кладањ",
-                "Кључ",
-                "Коњиц",
-                "Крешево",
-                "Крупа на Уни",
+                "jablanica",
+                "jajce",
+                "kakanj",
+                "kalesija",
+                "kiseljak",
+                "kladanj",
+                "kljuc",
+                "konjic",
+                "kresevo",
+                "krupa_na_uni",
                 "kupres-fbih",
-                "Ливно",
-                "Лукавац",
-                "Љубушки",
-                "Маглај",
-                "Мостар",
-                "Неум",
+                "livno",
+                "lukavac",
+                "ljubuski",
+                "maglaj",
+                "mostar",
+                "neum",
                 "novi_grad_sarajevo",
-                "Нови Травник",
+                "novi_travnik",
                 "novo_sarajevo",
-                "Оџак",
-                "Олово",
-                "Орашје",
+                "odzak",
+                "olovo",
+                "orasje",
                 "pale-fbih",
-                "Посушје",
-                "Прозор",
-                "Равно",
-                "Сански Мост",
-                "Сапна",
-                "Сребреник",
+                "posusje",
+                "prozor",
+                "ravno",
+                "sanski_most",
+                "sapna",
+                "srebrenik",
                 "stari_grad_sarajevo",
-                "Столац",
-                "Широки Бријег",
-                "Теочак",
-                "Тешањ",
-                "Томиславград",
-                "Травник",
+                "stolac",
+                "siroki_brijeg",
+                "teocak",
+                "tesanj",
+                "tomislavgrad",
+                "travnik",
                 "trnovo-fbih",
-                "Тузла",
-                "Усора",
-                "Вареш",
-                "Велика Кладуша",
-                "Високо",
-                "Витез",
+                "tuzla",
+                "usora",
+                "vares",
+                "velika_kladusa",
+                "visoko",
+                "vitez",
                 "vogosca",
-                "Завидовићи",
-                "Зеница",
-                "Жепче",
-                "Живинице",
+                "zavidovici",
+                "zenica",
+                "zepce",
+                "zivinice",
                 ""
               ]
             },
-            "title": "Oпштина"
+            "title": "Municipality"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -5382,7 +5382,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "T",
                 "0-4",
                 " 5-9",
                 " 10-14",
@@ -5404,12 +5404,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5428,17 +5428,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5457,12 +5457,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
@@ -5481,12 +5481,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5505,114 +5505,114 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Бановићи",
-                "Бихаћ",
-                "Босанска Крупа",
-                "Босански Петровац",
-                "Босанско Грахово",
-                "Бреза",
-                "Бугојно",
-                "Бусовача",
-                "Бужим",
-                "Цазин",
+                "banovici",
+                "bihac",
+                "bosanska_krupa",
+                "bosanski_petrovac",
+                "bosansko_grahovo",
+                "breza",
+                "bugojno",
+                "busovaca",
+                "buzim",
+                "cazin",
                 "centar_sarajevo",
-                "Чапљина",
-                "Челић",
-                "Читлук",
+                "capljina",
+                "celic",
+                "citluk",
                 "doboj-istok",
                 "doboj-jug",
-                "Добретићи",
+                "dobretici",
                 "domaljevac-samac",
-                "Доњи Вакуф",
-                "Дрвар",
+                "donji_vakuf",
+                "drvar",
                 "foca-fbih",
-                "Фојница",
-                "Гламоч",
-                "Горажде",
+                "fojnica",
+                "glamoc",
+                "gorazde",
                 "gornji_vakuf-uskoplje",
-                "Грачаница",
-                "Градачац",
-                "Груде",
+                "gracanica",
+                "gradacac",
+                "grude",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "Јабланица",
-                "Јајце",
-                "Какањ",
-                "Калесија",
-                "Кисељак",
-                "Кладањ",
-                "Кључ",
-                "Коњиц",
-                "Крешево",
+                "jablanica",
+                "jajce",
+                "kakanj",
+                "kalesija",
+                "kiseljak",
+                "kladanj",
+                "kljuc",
+                "konjic",
+                "kresevo",
                 "kupres-fbih",
-                "Ливно",
-                "Лукавац",
-                "Љубушки",
-                "Маглај",
-                "Мостар",
-                "Неум",
+                "livno",
+                "lukavac",
+                "ljubuski",
+                "maglaj",
+                "mostar",
+                "neum",
                 "novi_grad_sarajevo",
-                "Нови Травник",
+                "novi_travnik",
                 "novo_sarajevo",
-                "Оџак",
-                "Олово",
-                "Орашје",
+                "odzak",
+                "olovo",
+                "orasje",
                 "pale-fbih",
-                "Посушје",
-                "Прозор",
-                "Равно",
-                "Сански Мост",
-                "Сапна",
-                "Сребреник",
+                "posusje",
+                "prozor",
+                "ravno",
+                "sanski_most",
+                "sapna",
+                "srebrenik",
                 "stari_grad_sarajevo",
-                "Столац",
-                "Широки Бријег",
-                "Теочак",
-                "Тешањ",
-                "Томиславград",
-                "Травник",
+                "stolac",
+                "siroki_brijeg",
+                "teocak",
+                "tesanj",
+                "tomislavgrad",
+                "travnik",
                 "trnovo-fbih",
-                "Тузла",
-                "Усора",
-                "Вареш",
-                "Велика Кладуша",
-                "Високо",
-                "Витез",
+                "tuzla",
+                "usora",
+                "vares",
+                "velika_kladusa",
+                "visoko",
+                "vitez",
                 "vogosca",
-                "Завидовићи",
-                "Зеница",
-                "Жепче",
-                "Живинице",
+                "zavidovici",
+                "zenica",
+                "zepce",
+                "zivinice",
                 ""
               ]
             },
-            "title": "Oпштина"
+            "title": "Municipality"
           },
           {
             "name": "Literacy",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pismeno stanovništvo",
-                "Nepismeno stanovništvo",
-                "Непознато",
+                "literate",
+                "illiterate",
+                "unknown",
                 ""
               ]
             },
-            "title": "Pismenost"
+            "title": "Literacy"
           },
           {
             "name": "Sex",
@@ -5620,16 +5620,16 @@
             "constraints": {
               "enum": [
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5648,12 +5648,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -5661,7 +5661,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -5670,7 +5670,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5689,7 +5689,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "AGE",
@@ -5701,17 +5701,17 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5730,30 +5730,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "status_in_employment",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zaposlenici",
+                "employees",
                 ""
               ]
             },
-            "title": "Радни статус"
+            "title": "status_in_employment"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 ""
               ]
             },
@@ -5762,7 +5762,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5781,39 +5781,39 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -5822,7 +5822,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5841,38 +5841,38 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5891,21 +5891,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -5914,7 +5914,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5933,43 +5933,43 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             },
-            "title": "Administrativna jedinica"
+            "title": "Admin_Area"
           },
           {
             "name": "type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "Гимназија",
+                "gymnasium",
                 "technical_high_schools",
                 "vocational_high_schools",
-                "Умјетничке школе",
+                "art_schools",
                 "religious_schools",
                 "high_schools_for_students_with_disabilities",
                 ""
@@ -5982,9 +5982,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -5993,7 +5993,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -6012,17 +6012,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -6041,21 +6041,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -6074,12 +6074,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -6098,17 +6098,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -6127,110 +6127,110 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Бановићи",
-                "Бихаћ",
-                "Босанска Крупа",
-                "Босански Петровац",
-                "Босанско Грахово",
-                "Бреза",
-                "Бугојно",
-                "Бусовача",
-                "Бужим",
-                "Цазин",
+                "banovici",
+                "bihac",
+                "bosanska_krupa",
+                "bosanski_petrovac",
+                "bosansko_grahovo",
+                "breza",
+                "bugojno",
+                "busovaca",
+                "buzim",
+                "cazin",
                 "centar_sarajevo",
-                "Чапљина",
-                "Челић",
-                "Читлук",
+                "capljina",
+                "celic",
+                "citluk",
                 "doboj-istok",
                 "doboj-jug",
-                "Добретићи",
+                "dobretici",
                 "domaljevac-samac",
-                "Доњи Вакуф",
-                "Дрвар",
+                "donji_vakuf",
+                "drvar",
                 "foca-fbih",
-                "Фојница",
-                "Гламоч",
-                "Горажде",
+                "fojnica",
+                "glamoc",
+                "gorazde",
                 "gornji_vakuf-uskoplje",
-                "Грачаница",
-                "Градачац",
-                "Груде",
+                "gracanica",
+                "gradacac",
+                "grude",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "Јабланица",
-                "Јајце",
-                "Какањ",
-                "Калесија",
-                "Кисељак",
-                "Кладањ",
-                "Кључ",
-                "Коњиц",
-                "Крешево",
+                "jablanica",
+                "jajce",
+                "kakanj",
+                "kalesija",
+                "kiseljak",
+                "kladanj",
+                "kljuc",
+                "konjic",
+                "kresevo",
                 "kupres-fbih",
-                "Ливно",
-                "Лукавац",
-                "Љубушки",
-                "Маглај",
-                "Мостар",
-                "Неум",
+                "livno",
+                "lukavac",
+                "ljubuski",
+                "maglaj",
+                "mostar",
+                "neum",
                 "novi_grad_sarajevo",
-                "Нови Травник",
+                "novi_travnik",
                 "novo_sarajevo",
-                "Оџак",
-                "Олово",
-                "Орашје",
+                "odzak",
+                "olovo",
+                "orasje",
                 "pale-fbih",
-                "Посушје",
-                "Прозор",
-                "Равно",
-                "Сански Мост",
-                "Сапна",
-                "Сребреник",
+                "posusje",
+                "prozor",
+                "ravno",
+                "sanski_most",
+                "sapna",
+                "srebrenik",
                 "stari_grad_sarajevo",
-                "Столац",
-                "Широки Бријег",
-                "Теочак",
-                "Тешањ",
-                "Томиславград",
-                "Травник",
+                "stolac",
+                "siroki_brijeg",
+                "teocak",
+                "tesanj",
+                "tomislavgrad",
+                "travnik",
                 "trnovo-fbih",
-                "Тузла",
-                "Усора",
-                "Вареш",
-                "Велика Кладуша",
-                "Високо",
-                "Витез",
+                "tuzla",
+                "usora",
+                "vares",
+                "velika_kladusa",
+                "visoko",
+                "vitez",
                 "vogosca",
-                "Завидовићи",
-                "Зеница",
-                "Жепче",
-                "Живинице",
+                "zavidovici",
+                "zenica",
+                "zepce",
+                "zivinice",
                 ""
               ]
             },
-            "title": "Oпштина"
+            "title": "Municipality"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -6241,22 +6241,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bez obrazovanja",
-                "Nepotpuno osnovno obrazovanje",
-                "Osnovna škola",
-                "Srednja škola",
-                "Specijalizacija poslije srednje škole",
-                "Viša škola i prvi stepen fakulteta",
-                "Visoka škola / fakultet / akademija / univerzitet",
+                "no_education",
+                "incomplete_elementary",
+                "elementary_education",
+                "secondary_education",
+                "secondary_specialization",
+                "first_degree",
+                "university_degree",
                 ""
               ]
             },
-            "title": "Najviša završena škola"
+            "title": "Education"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -6275,21 +6275,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "_T",
                 "M",
-                "Ж",
+                "F",
                 ""
               ]
             },
@@ -6300,7 +6300,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "T",
                 "0",
                 "1",
                 "2",
@@ -6425,12 +6425,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -6449,17 +6449,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -6478,17 +6478,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
