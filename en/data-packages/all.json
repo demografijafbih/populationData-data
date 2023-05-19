@@ -3720,7 +3720,24 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
+            "name": "BIRTHS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "5+_children",
+                "T",
+                "Did not give birth",
+                "four_children",
+                "one_child",
+                "three_children",
+                "two_children"
+              ]
+            },
+            "title": "Vital statistics"
+          },
+          {
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3806,24 +3823,7 @@
                 "Zivinice"
               ]
             },
-            "title": "Administrative area"
-          },
-          {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "5+_children",
-                "Both sexes",
-                "Did not give birth",
-                "four_children",
-                "one_child",
-                "three_children",
-                "two_children"
-              ]
-            },
-            "title": "Vital statistics"
+            "title": "Municipality"
           },
           {
             "name": "UNIT_MEASURE",

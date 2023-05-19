@@ -3448,7 +3448,7 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3540,7 +3540,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "T",
                 "did_not_give_birth",
                 "one_child",
                 "two_children",

@@ -3730,7 +3730,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3816,14 +3816,14 @@
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "Oпштина"
           },
           {
             "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "T",
                 "Нису рађале",
                 "one_child",
                 "two_children",
