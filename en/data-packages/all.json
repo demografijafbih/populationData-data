@@ -1628,11 +1628,29 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp949",
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
+            "name": "Disabilities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "T",
+                "communication",
+                "dressing",
+                "eyesight",
+                "hearing",
+                "memory",
+                "Multiple disabilities",
+                "walking"
+              ]
+            },
+            "title": "Disabilities"
+          },
+          {
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1718,25 +1736,7 @@
                 "Zivinice"
               ]
             },
-            "title": "Administrative area"
-          },
-          {
-            "name": "Disabilities",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Both sexes",
-                "communication",
-                "dressing",
-                "eyesight",
-                "hearing",
-                "memory",
-                "Multiple disabilities",
-                "walking"
-              ]
-            },
-            "title": "Disabilities"
+            "title": "Municipality"
           },
           {
             "name": "SEX",

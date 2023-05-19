@@ -1,43 +1,17 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-banovici,Banovici,Banovići,Бановићи,Banovići,24,1
 berkovici,Berkovici,Berkovići,Берковићи,Berkovići,60,1
-bihac,Bihac,Bihać,Бихаћ,Bihać,24,1
 bileca,Bileca,Bileća,Билећа,Bileća,60,1
-bosanska_krupa,Bosanska Krupa,Bosanska Krupa,Босанска Крупа,Bosanska Krupa,24,1
-bosanski_petrovac,Bosanski Petrovac,Bosanski Petrovac,Босански Петровац,Bosanski Petrovac,24,1
-bosansko_grahovo,Bosansko Grahovo,Bosansko Grahovo,Босанско Грахово,Bosansko Grahovo,24,1
 bosnian-podrinje_canton,Bosnian-Podrinje Canton,Bosansko-podrinjski kanton,bosnian-podrinje_canton,Županija Bosansko-podrinjska,134,25
 bratunac,Bratunac,Bratunac,Братунац,Bratunac,60,1
-breza,Breza,Breza,Бреза,Breza,24,1
 brod,Brod,Brod,Брод,Brod,60,1
-bugojno,Bugojno,Bugojno,Бугојно,Bugojno,24,1
-busovaca,Busovaca,Busovača,Бусовача,Busovača,24,1
-buzim,Buzim,Bužim,Бужим,Bužim,24,1
 cajnice,Cajnice,Čajniče,Чајниче,Čajniče,60,1
 canton_10,Canton 10,Kanton 10,canton_10,Županija 10,51,11
-capljina,Capljina,Čapljina,Чапљина,Čapljina,24,1
-cazin,Cazin,Cazin,Цазин,Cazin,24,1
-celic,Celic,Čelić,Челић,Čelić,24,1
 celinac,Celinac,Čelinac,Челинац,Čelinac,60,1
-centar_sarajevo,centar_sarajevo,Sarajevo-Centar,centar_sarajevo,centar_sarajevo,24,1
 central_bosnia_canton,Central Bosnia Canton,Srednjobosanski kanton,central_bosnia_canton,Županija Srednjobosanska,134,25
-citluk,Citluk,Čitluk,Читлук,Čitluk,24,1
-doboj-istok,doboj-istok,Doboj-Istok,doboj-istok,doboj-istok,24,1
-doboj-jug,doboj-jug,Doboj-Jug,doboj-jug,doboj-jug,24,1
-dobretici,Dobretici,Dobretići,Добретићи,Dobretići,24,1
-domaljevac-samac,domaljevac-samac,Domaljevac-Šamac,domaljevac-samac,domaljevac-samac,24,1
-donji_vakuf,Donji Vakuf,Donji Vakuf,Доњи Вакуф,Donji Vakuf,24,1
 donji_zabar,Donji Zabar,Donji Žabar,Доњи Жабар,Donji Žabar,60,1
-drvar,Drvar,Drvar,Дрвар,Drvar,24,1
 federation_of_bih,Federation of Bosnia and Herzegovina,Federacija Bosne i Hercegovine,federation_of_bih,Federacija Bosne i Hercegovine,134,25
-foca-fbih,foca-fbih,Foča-FBiH,foca-fbih,foca-fbih,24,1
 foca,foca,foca,foca,foca,60,1
-fojnica,Fojnica,Fojnica,Фојница,Fojnica,24,1
 gacko,Gacko,Gacko,Гацко,Gacko,60,1
-glamoc,Glamoc,Glamoč,Гламоч,Glamoč,24,1
-gorazde,Gorazde,Goražde,Горажде,Goražde,24,1
-gornji_vakuf-uskoplje,gornji_vakuf-uskoplje,Gornji Vakuf-Uskoplje,gornji_vakuf-uskoplje,gornji_vakuf-uskoplje,24,1
-gracanica,Gracanica,Gračanica,Грачаница,Gračanica,24,1
 grad_banja_luka,grad_banja_luka,grad_banja_luka,grad_banja_luka,grad_banja_luka,60,1
 grad_bijeljina,grad_bijeljina,grad_bijeljina,grad_bijeljina,grad_bijeljina,60,1
 grad_derventa,grad_derventa,grad_derventa,grad_derventa,grad_derventa,60,1
@@ -47,110 +21,57 @@ grad_istocno_sarajevo,grad_istocno_sarajevo,grad_istocno_sarajevo,grad_istocno_s
 grad_prijedor,grad_prijedor,grad_prijedor,grad_prijedor,grad_prijedor,60,1
 grad_trebinje,grad_trebinje,grad_trebinje,grad_trebinje,grad_trebinje,60,1
 grad_zvornik,grad_zvornik,grad_zvornik,grad_zvornik,grad_zvornik,60,1
-gradacac,Gradacac,Gradačac,Градачац,Gradačac,24,1
-grude,Grude,Grude,Груде,Grude,24,1
-hadzici,hadzici,Sarajevo-Hadžići,hadzici,hadzici,24,1
 han_pijesak,Han Pijesak,Han Pijesak,Хан Пијесак,Han Pijesak,60,1
 herzegovina-neretva_canton,Herzegovina-Neretva Canton,Hercegovačko-neretvanski kanton,herzegovina-neretva_canton,Županija Hercegovačko-neretvanska,134,25
-ilidza,ilidza,Sarajevo-Ilidža,ilidza,ilidza,24,1
-ilijas,ilijas,Sarajevo-Ilijaš,ilijas,ilijas,24,1
 istocna_ilidza,East Ilidza,Istočna Ilidža,Источна Илиџа,Istočna Ilidža,60,1
 istocni_drvar,East Drvar,Istočni Drvar,Источни Дрвар,Istočni Drvar,60,1
 istocni_mostar,East Mostar,Istočni Mostar,Источни Мостар,Istočni Mostar,60,1
 istocni_stari_grad,East Stari Grad,Istočni Stari Grad,Источни Стари Град,Istočni Stari Grad,60,1
 istocno_novo_sarajevo,East Novo Sarajevo,Istočno Novo Sarajevo,Источно Ново Сарајево,Istočno Novo Sarajevo,60,1
-jablanica,Jablanica,Jablanica,Јабланица,Jablanica,24,1
-jajce,Jajce,Jajce,Јајце,Jajce,24,1
 jezero,Jezero,Jezero,Језеро,Jezero,60,1
-kakanj,Kakanj,Kakanj,Какањ,Kakanj,24,1
-kalesija,Kalesija,Kalesija,Калесија,Kalesija,24,1
 kalinovik,Kalinovik,Kalinovik,Калиновик,Kalinovik,60,1
-kiseljak,Kiseljak,Kiseljak,Кисељак,Kiseljak,24,1
-kladanj,Kladanj,Kladanj,Кладањ,Kladanj,24,1
-kljuc,Ključ,Ključ,Кључ,Ključ,24,1
 knezevo,Knezevo,Kneževo,Кнежево,Kneževo,60,1
-konjic,Konjic,Konjic,Коњиц,Konjic,24,1
 kostajnica,Kostajnica,Kostajnica,Костајница,Kostajnica,60,1
 kotor_varos,Kotor Varos,Kotor Varoš,Котор Варош,Kotor Varoš,60,1
 kozarska_dubica,Kozarska Dubica,Kozarska Dubica,Козарска Дубица,Kozarska Dubica,60,1
-kresevo,Kresevo,Kreševo,Крешево,Kreševo,24,1
 krupa_na_uni,Krupa Na Uni,Krupa Na Uni,Крупа на Уни,Krupa Na Uni,60,1
-kupres-fbih,kupres-fbih,Kupres-FBiH,kupres-fbih,kupres-fbih,24,1
 kupres,kupres,kupres,kupres,kupres,60,1
 laktasi,Laktasi,Laktaši,Лакташи,Laktaši,60,1
-livno,Livno,Livno,Ливно,Livno,24,1
 ljubinje,Ljubinje,Ljubinje,Љубиње,Ljubinje,60,1
-ljubuski,Ljubuski,Ljubuški,Љубушки,Ljubuški,24,1
 lopare,Lopare,Lopare,Лопаре,Lopare,60,1
-lukavac,Lukavac,Lukavac,Лукавац,Lukavac,24,1
-maglaj,Maglaj,Maglaj,Маглај,Maglaj,24,1
 milici,Milici,Milići,Милићи,Milići,60,1
 modrica,Modrica,Modriča,Модрича,Modriča,60,1
-mostar,Mostar,Mostar,Мостар,Mostar,24,1
 mrkonjic_grad,Mrkonjic Grad,Mrkonjić Grad,Мркоњић Град,Mrkonjić Grad,60,1
-neum,Neum,Neum,Неум,Neum,24,1
 nevesinje,Nevesinje,Nevesinje,Невесиње,Nevesinje,60,1
 novi_grad,Novi Grad,Novi Grad,Нови Град,Novi Grad,60,1
-novi_grad_sarajevo,novi_grad_sarajevo,Sarajevo-Novi Grad,novi_grad_sarajevo,novi_grad_sarajevo,24,1
-novi_travnik,Novi Travnik,Novi Travnik,Нови Травник,Novi Travnik,24,1
 novo_gorazde,Novo Gorazde,Novo Goražde,Ново Горажде,Novo Goražde,60,1
-novo_sarajevo,novo_sarajevo,Sarajevo-Novo Sarajevo,novo_sarajevo,novo_sarajevo,24,1
-odzak,Odzak,Odžak,Оџак,Odžak,24,1
-olovo,Olovo,Olovo,Олово,Olovo,24,1
-orasje,Orasje,Orašje,Орашје,Orašje,24,1
 osmaci,Osmaci,Osmaci,Осмаци,Osmaci,60,1
 ostra_luka,Ostra Luka,Oštra Luka,Оштра Лука,Oštra Luka,60,1
-pale-fbih,pale-fbih,Pale-FBiH,pale-fbih,pale-fbih,24,1
 pale,pale,pale,pale,pale,60,1
 pelagicevo,Pelagicevo,Pelagićevo,Пелагићево,Pelagićevo,60,1
 petrovac,Petrovac,Petrovac,Петровац,Petrovac,60,1
 petrovo,Petrovo,Petrovo,Петрово,Petrovo,60,1
 posavina_canton,Posavina Canton,Posavski kanton,posavina_canton,Županija Posavska,51,11
-posusje,Posusje,Posušje,Посушје,Posušje,24,1
 prnjavor,Prnjavor,Prnjavor,Прњавор,Prnjavor,60,1
-prozor,Prozor,Prozor,Прозор,Prozor,24,1
-ravno,Ravno,Ravno,Равно,Ravno,24,1
 republika_srpska,republika_srpska,republika_srpska,republika_srpska,republika_srpska,60,1
 ribnik,Ribnik,Ribnik,Рибник,Ribnik,60,1
 rogatica,Rogatica,Rogatica,Рогатица,Rogatica,60,1
 rudo,Rudo,Rudo,Рудо,Rudo,60,1
 samac,Samac,Šamac,Шамац,Šamac,60,1
-sanski_most,Sanski Most,Sanski Most,Сански Мост,Sanski Most,24,1
-sapna,Sapna,Sapna,Сапна,Sapna,24,1
 sarajevo_canton,Sarajevo Canton,Kanton Sarajevo,sarajevo_canton,Sarajevska županija,134,25
 sekovici,Sekovici,Šekovići,Шековићи,Šekovići,60,1
 sipovo,Sipovo,Šipovo,Шипово,Šipovo,60,1
-siroki_brijeg,Siroki Brijeg,Široki Brijeg,Широки Бријег,Široki Brijeg,24,1
 sokolac,Sokolac,Sokolac,Соколац,Sokolac,60,1
 srbac,Srbac,Srbac,Србац,Srbac,60,1
 srebrenica,Srebrenica,Srebrenica,Сребреница,Srebrenica,60,1
-srebrenik,Srebrenik,Srebrenik,Сребреник,Srebrenik,24,1
 stanari,stanari,stanari,stanari,stanari,60,1
-stari_grad_sarajevo,stari_grad_sarajevo,Sarajevo-Stari Grad,stari_grad_sarajevo,stari_grad_sarajevo,24,1
-stolac,Stolac,Stolac,Столац,Stolac,24,1
-teocak,Teocak,Teočak,Теочак,Teočak,24,1
-tesanj,Tesanj,Tešanj,Тешањ,Tešanj,24,1
 teslic,Teslic,Teslić,Теслић,Teslić,60,1
-tomislavgrad,Tomislavgrad,Tomislavgrad,Томиславград,Tomislavgrad,24,1
-travnik,Travnik,Travnik,Травник,Travnik,24,1
-trnovo-fbih,trnovo-fbih,Trnovo-FBiH,trnovo-fbih,trnovo-fbih,24,1
 trnovo,trnovo,trnovo,trnovo,trnovo,60,1
-tuzla,Tuzla,Tuzla,Тузла,Tuzla,24,1
 tuzla_canton,Tuzla Canton,Tuzlanski kanton,tuzla_canton,Županija Tuzlanska,134,25
 ugljevik,Ugljevik,Ugljevik,Угљевик,Ugljevik,60,1
 una-sana_canton,Una-Sana Canton,Unsko-sanski kanton,una-sana_canton,Županija Unsko-sanska,134,25
-usora,Usora,Usora,Усора,Usora,24,1
-vares,Vares,Vareš,Вареш,Vareš,24,1
-velika_kladusa,Velika Kladusa,Velika Kladuša,Велика Кладуша,Velika Kladuša,24,1
 visegrad,Visegrad,Višegrad,Вишеград,Višegrad,60,1
-visoko,Visoko,Visoko,Високо,Visoko,24,1
-vitez,Vitez,Vitez,Витез,Vitez,24,1
 vlasenica,Vlasenica,Vlasenica,Власеница,Vlasenica,60,1
-vogosca,vogosca,Sarajevo-Vogošća,vogosca,vogosca,24,1
 vukosavlje,Vukosavlje,Vukosavlje,Вукосавље,Vukosavlje,60,1
 west_herzegovina_canton,West Herzegovina Canton,Zapadno-hercegovački kanton,west_herzegovina_canton,Županija Zapadno-hercegovačka,51,11
-zavidovici,Zavidovici,Zavidovići,Завидовићи,Zavidovići,24,1
 zenica-doboj_canton,Zenica-Doboj Canton,Zeničko-dobojski kanton,zenica-doboj_canton,Županija Zeničko-dobojska,134,25
-zenica,Zenica,Zenica,Зеница,Zenica,24,1
-zepce,Zepce,Žepče,Жепче,Žepče,24,1
-zivinice,Zivinice,Živinice,Живинице,Živinice,24,1

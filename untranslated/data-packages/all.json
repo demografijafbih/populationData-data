@@ -1520,7 +1520,7 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1624,7 +1624,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "T",
                 "eyesight",
                 "hearing",
                 "walking",

@@ -43,7 +43,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-2-2,"UNIT_MEASURE, Municipality, HH_agri",3
 #2-3-1,"UNIT_MEASURE, Municipality, Literacy, Sex",4
 #2-3-2,"UNIT_MEASURE, SEX, Municipality, Education",4
-#2-4-1,"UNIT_MEASURE, ADMIN_AREA, SEX, Disabilities",4
+#2-4-1,"UNIT_MEASURE, SEX, Municipality, Disabilities",4
 #3-1-1,"UNIT_MEASURE, SEX, CAUSE_OF_DEATH",3
 #3-1-2,"UNIT_MEASURE, CAUSE_OF_DEATH",2
 #3-1-3,"UNIT_MEASURE, SEX",2

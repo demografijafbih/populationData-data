@@ -1642,7 +1642,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1728,7 +1728,7 @@
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "Oпштина"
           },
           {
             "name": "SEX",
@@ -1748,7 +1748,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "T",
                 "eyesight",
                 "hearing",
                 "walking",
