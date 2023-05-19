@@ -11,7 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Admin_Area",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -29,7 +29,7 @@
                 "Zenica-Doboj Canton"
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrative area"
           },
           {
             "name": "UNIT_MEASURE",
