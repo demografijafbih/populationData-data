@@ -6,7 +6,7 @@ BIRTH,Birth,Vitalna statistika,Рађање,Rađanje,1,2
 BIRTHS,Vital statistics,Vitalna statistika,Витална статистика,Vitalna statistika,2,10
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),Узрок смрти (према шифрама болести по МКБ-10),Uzrok smrti (prema šiframa bolesti po MKB-10),3,41
 Disabilities,Disabilities,Disabilities,Disabilities,Disabilities,1,8
-Education,Education,Education,Education,Education,1,7
+Education,Education,Najviša završena škola,Education,Education,1,7
 HH_agri,HH_agri,Poljoprivredna aktivnost,HH_agri,HH_agri,1,3
 HH_size,HH_size,Brojnost domaćinstva,HH_size,HH_size,1,9
 Literacy,Literacy,Pismenost,Literacy,Literacy,1,3
