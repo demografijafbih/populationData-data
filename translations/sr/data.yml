@@ -538,7 +538,52 @@ zenica: "Зеница"
 zepce: "Жепче"
 zivinice: "Живинице"
 zvornik: "Зворник"
-bhas_labour_force_survey: "БХАС, Анкета о радној снази"
-employees: Запосленици
-self_employed: Самозапосленици
-unpaid_family_workers: Неплаћени помажући чланови
+employees: Zaposlenici
+self_employed: Samozaposlenici
+unpaid_family_workers: Neplaćeni pomažući članovi
+Admin Area: Administrativno područje
+federation_of_bih: Federacija Bosne i Hercegovine
+una-sana_canton: Unsko-sanski kanton
+posavina_canton: Posavski kanton
+tuzla_canton: Tuzlanski kanton
+zenica-doboj_canton: Zeničko-dobojski kanton
+bosnian-podrinje_canton: Bosansko-podrinjski kanton
+central_bosnia_canton: Srednjobosanski kanton
+herzegovina-neretva_canton: Hercegovačko-neretvanski kanton
+west_herzegovina_canton: Zapadno-hercegovački kanton
+sarajevo_canton: Kanton Sarajevo
+canton_10: Kanton 10
+number_birth_rate: Stopa nataliteta
+number_death_rate: Stopa mortaliteta
+Admin_Area: Administrativna jedinica
+number_marriage_rate: Stopa nupcijaliteta
+T: Ukupno
+did_not_give_birth: Nisu rađale
+one_child: Jedno dijete
+two_children: Dvoje djece
+three_children: Troje djece
+four_children: Četvero djece
+5+_children: Pet i više djece
+HH_size: Brojnost domaćinstva
+HH_agri: Poljoprivredna aktivnost
+agri_activity: Obavljanje poljoprivredne aktivnosti
+agri_activity_sale: Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu
+literate: Pismeno stanovništvo
+illiterate: Nepismeno stanovništvo
+Literacy: Pismenost
+no_education: Bez obrazovanja
+incomplete_elementary: Nepotpuno osnovno obrazovanje
+elementary_education: Osnovna škola
+secondary_education: Srednja škola
+secondary_specialization: Specijalizacija poslije srednje škole
+first_degree: Viša škola i prvi stepen fakulteta
+university_degree: Visoka škola / fakultet / akademija / univerzitet
+Education: Najviša završena škola
+eyesight: Vid, iako nosi naočare
+hearing: Sluh, iako koristi slušni aparat
+walking: Hod ili penjanje uz stepenice
+memory: Pamćenje ili koncentracija
+dressing: Odijevanje i održavanje lične higijene
+communication: Komunikacija
+multiple_disabilities: Sa više poteškoća
+Disabilities: Vrsta poteškoće
