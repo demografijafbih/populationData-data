@@ -45,12 +45,12 @@
               "enum": [
                 "Obrazovanje",
                 "Umjetnost i humanističke nauke",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
+                "Društvene nauke, novinarstvo i informiranje",
+                "Poslovanje, administracija i pravo",
+                "Prirodne nauke, matematika i statistika",
                 "Informacijske i komunikacijske tehnologije",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
                 "Zdravstvo i socijalna zaštita",
                 "Usluge",
                 ""
