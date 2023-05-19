@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Admin_Area,Spol,Value
+Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2010,Broj,Federacija Bosne i Hercegovine,Oba spola,95134.0
 2011,Broj,Federacija Bosne i Hercegovine,Oba spola,99228.0
 2012,Broj,Federacija Bosne i Hercegovine,Oba spola,108957.0
@@ -29,246 +29,246 @@ Year,UNIT_MEASURE,Admin_Area,Spol,Value
 2017,Broj,Federacija Bosne i Hercegovine,Ž,
 2018,Broj,Federacija Bosne i Hercegovine,Ž,
 2019,Broj,Federacija Bosne i Hercegovine,Ž,
-2010,Broj,Županija Unsko-sanska,Oba spola,10547.0
-2011,Broj,Županija Unsko-sanska,Oba spola,10302.0
-2012,Broj,Županija Unsko-sanska,Oba spola,11913.0
-2013,Broj,Županija Unsko-sanska,Oba spola,12734.0
-2014,Broj,Županija Unsko-sanska,Oba spola,11904.0
-2015,Broj,Županija Unsko-sanska,Oba spola,11058.0
-2016,Broj,Županija Unsko-sanska,Oba spola,10239.0
-2017,Broj,Županija Unsko-sanska,Oba spola,9619.0
-2018,Broj,Županija Unsko-sanska,Oba spola,9496.0
-2019,Broj,Županija Unsko-sanska,Oba spola,8698.0
-2010,Broj,Županija Unsko-sanska,M,
-2011,Broj,Županija Unsko-sanska,M,
-2012,Broj,Županija Unsko-sanska,M,
-2013,Broj,Županija Unsko-sanska,M,
-2014,Broj,Županija Unsko-sanska,M,
-2015,Broj,Županija Unsko-sanska,M,
-2016,Broj,Županija Unsko-sanska,M,
-2017,Broj,Županija Unsko-sanska,M,
-2018,Broj,Županija Unsko-sanska,M,
-2019,Broj,Županija Unsko-sanska,M,
-2010,Broj,Županija Unsko-sanska,Ž,
-2011,Broj,Županija Unsko-sanska,Ž,
-2012,Broj,Županija Unsko-sanska,Ž,
-2013,Broj,Županija Unsko-sanska,Ž,
-2014,Broj,Županija Unsko-sanska,Ž,
-2015,Broj,Županija Unsko-sanska,Ž,
-2016,Broj,Županija Unsko-sanska,Ž,
-2017,Broj,Županija Unsko-sanska,Ž,
-2018,Broj,Županija Unsko-sanska,Ž,
-2019,Broj,Županija Unsko-sanska,Ž,
-2010,Broj,Županija Posavska,Oba spola,1467.0
-2011,Broj,Županija Posavska,Oba spola,1516.0
-2012,Broj,Županija Posavska,Oba spola,1591.0
-2013,Broj,Županija Posavska,Oba spola,1673.0
-2014,Broj,Županija Posavska,Oba spola,1670.0
-2015,Broj,Županija Posavska,Oba spola,1600.0
-2016,Broj,Županija Posavska,Oba spola,1413.0
-2017,Broj,Županija Posavska,Oba spola,1300.0
-2018,Broj,Županija Posavska,Oba spola,1160.0
-2019,Broj,Županija Posavska,Oba spola,1037.0
-2010,Broj,Županija Posavska,M,
-2011,Broj,Županija Posavska,M,
-2012,Broj,Županija Posavska,M,
-2013,Broj,Županija Posavska,M,
-2014,Broj,Županija Posavska,M,
-2015,Broj,Županija Posavska,M,
-2016,Broj,Županija Posavska,M,
-2017,Broj,Županija Posavska,M,
-2018,Broj,Županija Posavska,M,
-2019,Broj,Županija Posavska,M,
-2010,Broj,Županija Posavska,Ž,
-2011,Broj,Županija Posavska,Ž,
-2012,Broj,Županija Posavska,Ž,
-2013,Broj,Županija Posavska,Ž,
-2014,Broj,Županija Posavska,Ž,
-2015,Broj,Županija Posavska,Ž,
-2016,Broj,Županija Posavska,Ž,
-2017,Broj,Županija Posavska,Ž,
-2018,Broj,Županija Posavska,Ž,
-2019,Broj,Županija Posavska,Ž,
-2010,Broj,Županija Tuzlanska,Oba spola,21374.0
-2011,Broj,Županija Tuzlanska,Oba spola,22329.0
-2012,Broj,Županija Tuzlanska,Oba spola,24166.0
-2013,Broj,Županija Tuzlanska,Oba spola,24680.0
-2014,Broj,Županija Tuzlanska,Oba spola,22484.0
-2015,Broj,Županija Tuzlanska,Oba spola,19226.0
-2016,Broj,Županija Tuzlanska,Oba spola,16850.0
-2017,Broj,Županija Tuzlanska,Oba spola,15751.0
-2018,Broj,Županija Tuzlanska,Oba spola,15966.0
-2019,Broj,Županija Tuzlanska,Oba spola,15582.0
-2010,Broj,Županija Tuzlanska,M,
-2011,Broj,Županija Tuzlanska,M,
-2012,Broj,Županija Tuzlanska,M,
-2013,Broj,Županija Tuzlanska,M,
-2014,Broj,Županija Tuzlanska,M,
-2015,Broj,Županija Tuzlanska,M,
-2016,Broj,Županija Tuzlanska,M,
-2017,Broj,Županija Tuzlanska,M,
-2018,Broj,Županija Tuzlanska,M,
-2019,Broj,Županija Tuzlanska,M,
-2010,Broj,Županija Tuzlanska,Ž,
-2011,Broj,Županija Tuzlanska,Ž,
-2012,Broj,Županija Tuzlanska,Ž,
-2013,Broj,Županija Tuzlanska,Ž,
-2014,Broj,Županija Tuzlanska,Ž,
-2015,Broj,Županija Tuzlanska,Ž,
-2016,Broj,Županija Tuzlanska,Ž,
-2017,Broj,Županija Tuzlanska,Ž,
-2018,Broj,Županija Tuzlanska,Ž,
-2019,Broj,Županija Tuzlanska,Ž,
-2010,Broj,Županija Zeničko-dobojska,Oba spola,15966.0
-2011,Broj,Županija Zeničko-dobojska,Oba spola,17124.0
-2012,Broj,Županija Zeničko-dobojska,Oba spola,19199.0
-2013,Broj,Županija Zeničko-dobojska,Oba spola,19271.0
-2014,Broj,Županija Zeničko-dobojska,Oba spola,17900.0
-2015,Broj,Županija Zeničko-dobojska,Oba spola,16228.0
-2016,Broj,Županija Zeničko-dobojska,Oba spola,14778.0
-2017,Broj,Županija Zeničko-dobojska,Oba spola,14478.0
-2018,Broj,Županija Zeničko-dobojska,Oba spola,14006.0
-2019,Broj,Županija Zeničko-dobojska,Oba spola,13558.0
-2010,Broj,Županija Zeničko-dobojska,M,
-2011,Broj,Županija Zeničko-dobojska,M,
-2012,Broj,Županija Zeničko-dobojska,M,
-2013,Broj,Županija Zeničko-dobojska,M,
-2014,Broj,Županija Zeničko-dobojska,M,
-2015,Broj,Županija Zeničko-dobojska,M,
-2016,Broj,Županija Zeničko-dobojska,M,
-2017,Broj,Županija Zeničko-dobojska,M,
-2018,Broj,Županija Zeničko-dobojska,M,
-2019,Broj,Županija Zeničko-dobojska,M,
-2010,Broj,Županija Zeničko-dobojska,Ž,
-2011,Broj,Županija Zeničko-dobojska,Ž,
-2012,Broj,Županija Zeničko-dobojska,Ž,
-2013,Broj,Županija Zeničko-dobojska,Ž,
-2014,Broj,Županija Zeničko-dobojska,Ž,
-2015,Broj,Županija Zeničko-dobojska,Ž,
-2016,Broj,Županija Zeničko-dobojska,Ž,
-2017,Broj,Županija Zeničko-dobojska,Ž,
-2018,Broj,Županija Zeničko-dobojska,Ž,
-2019,Broj,Županija Zeničko-dobojska,Ž,
-2010,Broj,Županija Bosansko-podrinjska,Oba spola,1088.0
-2011,Broj,Županija Bosansko-podrinjska,Oba spola,1136.0
-2012,Broj,Županija Bosansko-podrinjska,Oba spola,1247.0
-2013,Broj,Županija Bosansko-podrinjska,Oba spola,1389.0
-2014,Broj,Županija Bosansko-podrinjska,Oba spola,1242.0
-2015,Broj,Županija Bosansko-podrinjska,Oba spola,1202.0
-2016,Broj,Županija Bosansko-podrinjska,Oba spola,1031.0
-2017,Broj,Županija Bosansko-podrinjska,Oba spola,948.0
-2018,Broj,Županija Bosansko-podrinjska,Oba spola,964.0
-2019,Broj,Županija Bosansko-podrinjska,Oba spola,896.0
-2010,Broj,Županija Bosansko-podrinjska,M,
-2011,Broj,Županija Bosansko-podrinjska,M,
-2012,Broj,Županija Bosansko-podrinjska,M,
-2013,Broj,Županija Bosansko-podrinjska,M,
-2014,Broj,Županija Bosansko-podrinjska,M,
-2015,Broj,Županija Bosansko-podrinjska,M,
-2016,Broj,Županija Bosansko-podrinjska,M,
-2017,Broj,Županija Bosansko-podrinjska,M,
-2018,Broj,Županija Bosansko-podrinjska,M,
-2019,Broj,Županija Bosansko-podrinjska,M,
-2010,Broj,Županija Bosansko-podrinjska,Ž,
-2011,Broj,Županija Bosansko-podrinjska,Ž,
-2012,Broj,Županija Bosansko-podrinjska,Ž,
-2013,Broj,Županija Bosansko-podrinjska,Ž,
-2014,Broj,Županija Bosansko-podrinjska,Ž,
-2015,Broj,Županija Bosansko-podrinjska,Ž,
-2016,Broj,Županija Bosansko-podrinjska,Ž,
-2017,Broj,Županija Bosansko-podrinjska,Ž,
-2018,Broj,Županija Bosansko-podrinjska,Ž,
-2019,Broj,Županija Bosansko-podrinjska,Ž,
-2010,Broj,Županija Srednjobosanska,Oba spola,10688.0
-2011,Broj,Županija Srednjobosanska,Oba spola,11531.0
-2012,Broj,Županija Srednjobosanska,Oba spola,12712.0
-2013,Broj,Županija Srednjobosanska,Oba spola,13583.0
-2014,Broj,Županija Srednjobosanska,Oba spola,13402.0
-2015,Broj,Županija Srednjobosanska,Oba spola,12333.0
-2016,Broj,Županija Srednjobosanska,Oba spola,11420.0
-2017,Broj,Županija Srednjobosanska,Oba spola,10610.0
-2018,Broj,Županija Srednjobosanska,Oba spola,10087.0
-2019,Broj,Županija Srednjobosanska,Oba spola,8320.0
-2010,Broj,Županija Srednjobosanska,M,
-2011,Broj,Županija Srednjobosanska,M,
-2012,Broj,Županija Srednjobosanska,M,
-2013,Broj,Županija Srednjobosanska,M,
-2014,Broj,Županija Srednjobosanska,M,
-2015,Broj,Županija Srednjobosanska,M,
-2016,Broj,Županija Srednjobosanska,M,
-2017,Broj,Županija Srednjobosanska,M,
-2018,Broj,Županija Srednjobosanska,M,
-2019,Broj,Županija Srednjobosanska,M,
-2010,Broj,Županija Srednjobosanska,Ž,
-2011,Broj,Županija Srednjobosanska,Ž,
-2012,Broj,Županija Srednjobosanska,Ž,
-2013,Broj,Županija Srednjobosanska,Ž,
-2014,Broj,Županija Srednjobosanska,Ž,
-2015,Broj,Županija Srednjobosanska,Ž,
-2016,Broj,Županija Srednjobosanska,Ž,
-2017,Broj,Županija Srednjobosanska,Ž,
-2018,Broj,Županija Srednjobosanska,Ž,
-2019,Broj,Županija Srednjobosanska,Ž,
-2010,Broj,Županija Hercegovačko-neretvanska,Oba spola,9433.0
-2011,Broj,Županija Hercegovačko-neretvanska,Oba spola,9924.0
-2012,Broj,Županija Hercegovačko-neretvanska,Oba spola,10847.0
-2013,Broj,Županija Hercegovačko-neretvanska,Oba spola,11385.0
-2014,Broj,Županija Hercegovačko-neretvanska,Oba spola,11170.0
-2015,Broj,Županija Hercegovačko-neretvanska,Oba spola,9621.0
-2016,Broj,Županija Hercegovačko-neretvanska,Oba spola,9386.0
-2017,Broj,Županija Hercegovačko-neretvanska,Oba spola,8614.0
-2018,Broj,Županija Hercegovačko-neretvanska,Oba spola,8089.0
-2019,Broj,Županija Hercegovačko-neretvanska,Oba spola,7614.0
-2010,Broj,Županija Hercegovačko-neretvanska,M,
-2011,Broj,Županija Hercegovačko-neretvanska,M,
-2012,Broj,Županija Hercegovačko-neretvanska,M,
-2013,Broj,Županija Hercegovačko-neretvanska,M,
-2014,Broj,Županija Hercegovačko-neretvanska,M,
-2015,Broj,Županija Hercegovačko-neretvanska,M,
-2016,Broj,Županija Hercegovačko-neretvanska,M,
-2017,Broj,Županija Hercegovačko-neretvanska,M,
-2018,Broj,Županija Hercegovačko-neretvanska,M,
-2019,Broj,Županija Hercegovačko-neretvanska,M,
-2010,Broj,Županija Hercegovačko-neretvanska,Ž,
-2011,Broj,Županija Hercegovačko-neretvanska,Ž,
-2012,Broj,Županija Hercegovačko-neretvanska,Ž,
-2013,Broj,Županija Hercegovačko-neretvanska,Ž,
-2014,Broj,Županija Hercegovačko-neretvanska,Ž,
-2015,Broj,Županija Hercegovačko-neretvanska,Ž,
-2016,Broj,Županija Hercegovačko-neretvanska,Ž,
-2017,Broj,Županija Hercegovačko-neretvanska,Ž,
-2018,Broj,Županija Hercegovačko-neretvanska,Ž,
-2019,Broj,Županija Hercegovačko-neretvanska,Ž,
-2010,Broj,Županija Zapadno-hercegovačka,Oba spola,4002.0
-2011,Broj,Županija Zapadno-hercegovačka,Oba spola,4115.0
-2012,Broj,Županija Zapadno-hercegovačka,Oba spola,4250.0
-2013,Broj,Županija Zapadno-hercegovačka,Oba spola,4406.0
-2014,Broj,Županija Zapadno-hercegovačka,Oba spola,4494.0
-2015,Broj,Županija Zapadno-hercegovačka,Oba spola,4419.0
-2016,Broj,Županija Zapadno-hercegovačka,Oba spola,4265.0
-2017,Broj,Županija Zapadno-hercegovačka,Oba spola,4029.0
-2018,Broj,Županija Zapadno-hercegovačka,Oba spola,3803.0
-2019,Broj,Županija Zapadno-hercegovačka,Oba spola,3390.0
-2010,Broj,Županija Zapadno-hercegovačka,M,
-2011,Broj,Županija Zapadno-hercegovačka,M,
-2012,Broj,Županija Zapadno-hercegovačka,M,
-2013,Broj,Županija Zapadno-hercegovačka,M,
-2014,Broj,Županija Zapadno-hercegovačka,M,
-2015,Broj,Županija Zapadno-hercegovačka,M,
-2016,Broj,Županija Zapadno-hercegovačka,M,
-2017,Broj,Županija Zapadno-hercegovačka,M,
-2018,Broj,Županija Zapadno-hercegovačka,M,
-2019,Broj,Županija Zapadno-hercegovačka,M,
-2010,Broj,Županija Zapadno-hercegovačka,Ž,
-2011,Broj,Županija Zapadno-hercegovačka,Ž,
-2012,Broj,Županija Zapadno-hercegovačka,Ž,
-2013,Broj,Županija Zapadno-hercegovačka,Ž,
-2014,Broj,Županija Zapadno-hercegovačka,Ž,
-2015,Broj,Županija Zapadno-hercegovačka,Ž,
-2016,Broj,Županija Zapadno-hercegovačka,Ž,
-2017,Broj,Županija Zapadno-hercegovačka,Ž,
-2018,Broj,Županija Zapadno-hercegovačka,Ž,
-2019,Broj,Županija Zapadno-hercegovačka,Ž,
+2010,Broj,Unsko-sanska županija,Oba spola,10547.0
+2011,Broj,Unsko-sanska županija,Oba spola,10302.0
+2012,Broj,Unsko-sanska županija,Oba spola,11913.0
+2013,Broj,Unsko-sanska županija,Oba spola,12734.0
+2014,Broj,Unsko-sanska županija,Oba spola,11904.0
+2015,Broj,Unsko-sanska županija,Oba spola,11058.0
+2016,Broj,Unsko-sanska županija,Oba spola,10239.0
+2017,Broj,Unsko-sanska županija,Oba spola,9619.0
+2018,Broj,Unsko-sanska županija,Oba spola,9496.0
+2019,Broj,Unsko-sanska županija,Oba spola,8698.0
+2010,Broj,Unsko-sanska županija,M,
+2011,Broj,Unsko-sanska županija,M,
+2012,Broj,Unsko-sanska županija,M,
+2013,Broj,Unsko-sanska županija,M,
+2014,Broj,Unsko-sanska županija,M,
+2015,Broj,Unsko-sanska županija,M,
+2016,Broj,Unsko-sanska županija,M,
+2017,Broj,Unsko-sanska županija,M,
+2018,Broj,Unsko-sanska županija,M,
+2019,Broj,Unsko-sanska županija,M,
+2010,Broj,Unsko-sanska županija,Ž,
+2011,Broj,Unsko-sanska županija,Ž,
+2012,Broj,Unsko-sanska županija,Ž,
+2013,Broj,Unsko-sanska županija,Ž,
+2014,Broj,Unsko-sanska županija,Ž,
+2015,Broj,Unsko-sanska županija,Ž,
+2016,Broj,Unsko-sanska županija,Ž,
+2017,Broj,Unsko-sanska županija,Ž,
+2018,Broj,Unsko-sanska županija,Ž,
+2019,Broj,Unsko-sanska županija,Ž,
+2010,Broj,Posavska županija,Oba spola,1467.0
+2011,Broj,Posavska županija,Oba spola,1516.0
+2012,Broj,Posavska županija,Oba spola,1591.0
+2013,Broj,Posavska županija,Oba spola,1673.0
+2014,Broj,Posavska županija,Oba spola,1670.0
+2015,Broj,Posavska županija,Oba spola,1600.0
+2016,Broj,Posavska županija,Oba spola,1413.0
+2017,Broj,Posavska županija,Oba spola,1300.0
+2018,Broj,Posavska županija,Oba spola,1160.0
+2019,Broj,Posavska županija,Oba spola,1037.0
+2010,Broj,Posavska županija,M,
+2011,Broj,Posavska županija,M,
+2012,Broj,Posavska županija,M,
+2013,Broj,Posavska županija,M,
+2014,Broj,Posavska županija,M,
+2015,Broj,Posavska županija,M,
+2016,Broj,Posavska županija,M,
+2017,Broj,Posavska županija,M,
+2018,Broj,Posavska županija,M,
+2019,Broj,Posavska županija,M,
+2010,Broj,Posavska županija,Ž,
+2011,Broj,Posavska županija,Ž,
+2012,Broj,Posavska županija,Ž,
+2013,Broj,Posavska županija,Ž,
+2014,Broj,Posavska županija,Ž,
+2015,Broj,Posavska županija,Ž,
+2016,Broj,Posavska županija,Ž,
+2017,Broj,Posavska županija,Ž,
+2018,Broj,Posavska županija,Ž,
+2019,Broj,Posavska županija,Ž,
+2010,Broj,Tuzlanska županija,Oba spola,21374.0
+2011,Broj,Tuzlanska županija,Oba spola,22329.0
+2012,Broj,Tuzlanska županija,Oba spola,24166.0
+2013,Broj,Tuzlanska županija,Oba spola,24680.0
+2014,Broj,Tuzlanska županija,Oba spola,22484.0
+2015,Broj,Tuzlanska županija,Oba spola,19226.0
+2016,Broj,Tuzlanska županija,Oba spola,16850.0
+2017,Broj,Tuzlanska županija,Oba spola,15751.0
+2018,Broj,Tuzlanska županija,Oba spola,15966.0
+2019,Broj,Tuzlanska županija,Oba spola,15582.0
+2010,Broj,Tuzlanska županija,M,
+2011,Broj,Tuzlanska županija,M,
+2012,Broj,Tuzlanska županija,M,
+2013,Broj,Tuzlanska županija,M,
+2014,Broj,Tuzlanska županija,M,
+2015,Broj,Tuzlanska županija,M,
+2016,Broj,Tuzlanska županija,M,
+2017,Broj,Tuzlanska županija,M,
+2018,Broj,Tuzlanska županija,M,
+2019,Broj,Tuzlanska županija,M,
+2010,Broj,Tuzlanska županija,Ž,
+2011,Broj,Tuzlanska županija,Ž,
+2012,Broj,Tuzlanska županija,Ž,
+2013,Broj,Tuzlanska županija,Ž,
+2014,Broj,Tuzlanska županija,Ž,
+2015,Broj,Tuzlanska županija,Ž,
+2016,Broj,Tuzlanska županija,Ž,
+2017,Broj,Tuzlanska županija,Ž,
+2018,Broj,Tuzlanska županija,Ž,
+2019,Broj,Tuzlanska županija,Ž,
+2010,Broj,Zeničko-dobojska županija,Oba spola,15966.0
+2011,Broj,Zeničko-dobojska županija,Oba spola,17124.0
+2012,Broj,Zeničko-dobojska županija,Oba spola,19199.0
+2013,Broj,Zeničko-dobojska županija,Oba spola,19271.0
+2014,Broj,Zeničko-dobojska županija,Oba spola,17900.0
+2015,Broj,Zeničko-dobojska županija,Oba spola,16228.0
+2016,Broj,Zeničko-dobojska županija,Oba spola,14778.0
+2017,Broj,Zeničko-dobojska županija,Oba spola,14478.0
+2018,Broj,Zeničko-dobojska županija,Oba spola,14006.0
+2019,Broj,Zeničko-dobojska županija,Oba spola,13558.0
+2010,Broj,Zeničko-dobojska županija,M,
+2011,Broj,Zeničko-dobojska županija,M,
+2012,Broj,Zeničko-dobojska županija,M,
+2013,Broj,Zeničko-dobojska županija,M,
+2014,Broj,Zeničko-dobojska županija,M,
+2015,Broj,Zeničko-dobojska županija,M,
+2016,Broj,Zeničko-dobojska županija,M,
+2017,Broj,Zeničko-dobojska županija,M,
+2018,Broj,Zeničko-dobojska županija,M,
+2019,Broj,Zeničko-dobojska županija,M,
+2010,Broj,Zeničko-dobojska županija,Ž,
+2011,Broj,Zeničko-dobojska županija,Ž,
+2012,Broj,Zeničko-dobojska županija,Ž,
+2013,Broj,Zeničko-dobojska županija,Ž,
+2014,Broj,Zeničko-dobojska županija,Ž,
+2015,Broj,Zeničko-dobojska županija,Ž,
+2016,Broj,Zeničko-dobojska županija,Ž,
+2017,Broj,Zeničko-dobojska županija,Ž,
+2018,Broj,Zeničko-dobojska županija,Ž,
+2019,Broj,Zeničko-dobojska županija,Ž,
+2010,Broj,Bosansko-podrinjska županija,Oba spola,1088.0
+2011,Broj,Bosansko-podrinjska županija,Oba spola,1136.0
+2012,Broj,Bosansko-podrinjska županija,Oba spola,1247.0
+2013,Broj,Bosansko-podrinjska županija,Oba spola,1389.0
+2014,Broj,Bosansko-podrinjska županija,Oba spola,1242.0
+2015,Broj,Bosansko-podrinjska županija,Oba spola,1202.0
+2016,Broj,Bosansko-podrinjska županija,Oba spola,1031.0
+2017,Broj,Bosansko-podrinjska županija,Oba spola,948.0
+2018,Broj,Bosansko-podrinjska županija,Oba spola,964.0
+2019,Broj,Bosansko-podrinjska županija,Oba spola,896.0
+2010,Broj,Bosansko-podrinjska županija,M,
+2011,Broj,Bosansko-podrinjska županija,M,
+2012,Broj,Bosansko-podrinjska županija,M,
+2013,Broj,Bosansko-podrinjska županija,M,
+2014,Broj,Bosansko-podrinjska županija,M,
+2015,Broj,Bosansko-podrinjska županija,M,
+2016,Broj,Bosansko-podrinjska županija,M,
+2017,Broj,Bosansko-podrinjska županija,M,
+2018,Broj,Bosansko-podrinjska županija,M,
+2019,Broj,Bosansko-podrinjska županija,M,
+2010,Broj,Bosansko-podrinjska županija,Ž,
+2011,Broj,Bosansko-podrinjska županija,Ž,
+2012,Broj,Bosansko-podrinjska županija,Ž,
+2013,Broj,Bosansko-podrinjska županija,Ž,
+2014,Broj,Bosansko-podrinjska županija,Ž,
+2015,Broj,Bosansko-podrinjska županija,Ž,
+2016,Broj,Bosansko-podrinjska županija,Ž,
+2017,Broj,Bosansko-podrinjska županija,Ž,
+2018,Broj,Bosansko-podrinjska županija,Ž,
+2019,Broj,Bosansko-podrinjska županija,Ž,
+2010,Broj,Srednjobosanska županija,Oba spola,10688.0
+2011,Broj,Srednjobosanska županija,Oba spola,11531.0
+2012,Broj,Srednjobosanska županija,Oba spola,12712.0
+2013,Broj,Srednjobosanska županija,Oba spola,13583.0
+2014,Broj,Srednjobosanska županija,Oba spola,13402.0
+2015,Broj,Srednjobosanska županija,Oba spola,12333.0
+2016,Broj,Srednjobosanska županija,Oba spola,11420.0
+2017,Broj,Srednjobosanska županija,Oba spola,10610.0
+2018,Broj,Srednjobosanska županija,Oba spola,10087.0
+2019,Broj,Srednjobosanska županija,Oba spola,8320.0
+2010,Broj,Srednjobosanska županija,M,
+2011,Broj,Srednjobosanska županija,M,
+2012,Broj,Srednjobosanska županija,M,
+2013,Broj,Srednjobosanska županija,M,
+2014,Broj,Srednjobosanska županija,M,
+2015,Broj,Srednjobosanska županija,M,
+2016,Broj,Srednjobosanska županija,M,
+2017,Broj,Srednjobosanska županija,M,
+2018,Broj,Srednjobosanska županija,M,
+2019,Broj,Srednjobosanska županija,M,
+2010,Broj,Srednjobosanska županija,Ž,
+2011,Broj,Srednjobosanska županija,Ž,
+2012,Broj,Srednjobosanska županija,Ž,
+2013,Broj,Srednjobosanska županija,Ž,
+2014,Broj,Srednjobosanska županija,Ž,
+2015,Broj,Srednjobosanska županija,Ž,
+2016,Broj,Srednjobosanska županija,Ž,
+2017,Broj,Srednjobosanska županija,Ž,
+2018,Broj,Srednjobosanska županija,Ž,
+2019,Broj,Srednjobosanska županija,Ž,
+2010,Broj,Hercegovačko-neretvanska županija,Oba spola,9433.0
+2011,Broj,Hercegovačko-neretvanska županija,Oba spola,9924.0
+2012,Broj,Hercegovačko-neretvanska županija,Oba spola,10847.0
+2013,Broj,Hercegovačko-neretvanska županija,Oba spola,11385.0
+2014,Broj,Hercegovačko-neretvanska županija,Oba spola,11170.0
+2015,Broj,Hercegovačko-neretvanska županija,Oba spola,9621.0
+2016,Broj,Hercegovačko-neretvanska županija,Oba spola,9386.0
+2017,Broj,Hercegovačko-neretvanska županija,Oba spola,8614.0
+2018,Broj,Hercegovačko-neretvanska županija,Oba spola,8089.0
+2019,Broj,Hercegovačko-neretvanska županija,Oba spola,7614.0
+2010,Broj,Hercegovačko-neretvanska županija,M,
+2011,Broj,Hercegovačko-neretvanska županija,M,
+2012,Broj,Hercegovačko-neretvanska županija,M,
+2013,Broj,Hercegovačko-neretvanska županija,M,
+2014,Broj,Hercegovačko-neretvanska županija,M,
+2015,Broj,Hercegovačko-neretvanska županija,M,
+2016,Broj,Hercegovačko-neretvanska županija,M,
+2017,Broj,Hercegovačko-neretvanska županija,M,
+2018,Broj,Hercegovačko-neretvanska županija,M,
+2019,Broj,Hercegovačko-neretvanska županija,M,
+2010,Broj,Hercegovačko-neretvanska županija,Ž,
+2011,Broj,Hercegovačko-neretvanska županija,Ž,
+2012,Broj,Hercegovačko-neretvanska županija,Ž,
+2013,Broj,Hercegovačko-neretvanska županija,Ž,
+2014,Broj,Hercegovačko-neretvanska županija,Ž,
+2015,Broj,Hercegovačko-neretvanska županija,Ž,
+2016,Broj,Hercegovačko-neretvanska županija,Ž,
+2017,Broj,Hercegovačko-neretvanska županija,Ž,
+2018,Broj,Hercegovačko-neretvanska županija,Ž,
+2019,Broj,Hercegovačko-neretvanska županija,Ž,
+2010,Broj,Zapadno-hercegovačka županija,Oba spola,4002.0
+2011,Broj,Zapadno-hercegovačka županija,Oba spola,4115.0
+2012,Broj,Zapadno-hercegovačka županija,Oba spola,4250.0
+2013,Broj,Zapadno-hercegovačka županija,Oba spola,4406.0
+2014,Broj,Zapadno-hercegovačka županija,Oba spola,4494.0
+2015,Broj,Zapadno-hercegovačka županija,Oba spola,4419.0
+2016,Broj,Zapadno-hercegovačka županija,Oba spola,4265.0
+2017,Broj,Zapadno-hercegovačka županija,Oba spola,4029.0
+2018,Broj,Zapadno-hercegovačka županija,Oba spola,3803.0
+2019,Broj,Zapadno-hercegovačka županija,Oba spola,3390.0
+2010,Broj,Zapadno-hercegovačka županija,M,
+2011,Broj,Zapadno-hercegovačka županija,M,
+2012,Broj,Zapadno-hercegovačka županija,M,
+2013,Broj,Zapadno-hercegovačka županija,M,
+2014,Broj,Zapadno-hercegovačka županija,M,
+2015,Broj,Zapadno-hercegovačka županija,M,
+2016,Broj,Zapadno-hercegovačka županija,M,
+2017,Broj,Zapadno-hercegovačka županija,M,
+2018,Broj,Zapadno-hercegovačka županija,M,
+2019,Broj,Zapadno-hercegovačka županija,M,
+2010,Broj,Zapadno-hercegovačka županija,Ž,
+2011,Broj,Zapadno-hercegovačka županija,Ž,
+2012,Broj,Zapadno-hercegovačka županija,Ž,
+2013,Broj,Zapadno-hercegovačka županija,Ž,
+2014,Broj,Zapadno-hercegovačka županija,Ž,
+2015,Broj,Zapadno-hercegovačka županija,Ž,
+2016,Broj,Zapadno-hercegovačka županija,Ž,
+2017,Broj,Zapadno-hercegovačka županija,Ž,
+2018,Broj,Zapadno-hercegovačka županija,Ž,
+2019,Broj,Zapadno-hercegovačka županija,Ž,
 2010,Broj,Sarajevska županija,Oba spola,17915.0
 2011,Broj,Sarajevska županija,Oba spola,18625.0
 2012,Broj,Sarajevska županija,Oba spola,20301.0

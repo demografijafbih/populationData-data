@@ -26,17 +26,17 @@
             "constraints": {
               "enum": [
                 "Federacija Bosne i Hercegovine",
-                "Županija Unsko-sanska",
-                "Županija Tuzlanska",
-                "Županija Zeničko-dobojska",
-                "Županija Bosansko-podrinjska",
-                "Županija Srednjobosanska",
-                "Županija Hercegovačko-neretvanska",
+                "Unsko-sanska županija",
+                "Tuzlanska županija",
+                "Zeničko-dobojska županija",
+                "Bosansko-podrinjska županija",
+                "Srednjobosanska županija",
+                "Hercegovačko-neretvanska županija",
                 "Sarajevska županija",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Administrativna jedinica"
           },
           {
             "name": "SEX",
