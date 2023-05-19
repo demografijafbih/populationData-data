@@ -5606,13 +5606,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "literate",
-                "illiterate",
+                "Pismeno stanovništvo",
+                "Nepismeno stanovništvo",
                 "Nepoznato",
                 ""
               ]
             },
-            "title": "Literacy"
+            "title": "Pismenost"
           },
           {
             "name": "Sex",
