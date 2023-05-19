@@ -378,7 +378,9 @@ unknown: Nepoznato
 enrolled_in_integrated_studies: Upisani  na integrirane studije
 graduated: Diplomirani
 enrolled_in_master's_master's_and_specialist_studies: Upisani na magistarske, master i specijalističke studije
-masters_of_science_masters_and_specialists: Magistri nauka, masteri i specijalisti
+masters: Masteri
+masters_of_science: Magistri nauka
+specialists: Specijalisti
 enrolled_in_doctoral_studies: Upisani na doktorske studije
 doctors_of_science: Doktori nauka
 education: Obrazovanje
