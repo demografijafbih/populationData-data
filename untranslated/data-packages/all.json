@@ -4544,7 +4544,7 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
