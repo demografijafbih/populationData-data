@@ -1187,9 +1187,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "masters_of_science",
-                "masters",
-                "specialists",
+                "Magistri nauka",
+                "Masteri",
+                "Specijalisti",
                 ""
               ]
             },
