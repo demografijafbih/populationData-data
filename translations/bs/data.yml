@@ -367,12 +367,12 @@ type_of_education: Vrsta obrazovanja
 Type_of_user: Vrsta korisnika
 Type_of_disability: Vrsta invaliditeta
 arts_and_humanities: Umjetnost i humanističke nauke
-social_sciences_journalism_and_information: Društvene nauke, novinarstvo i informiranje
-business_administration_and_the_law_of_everything: Poslovanje, administracija i pravo
-natural_sciences_mathematics_and_statistics_of_all: Prirodne nauke, matematika i statistika
+social_sciences,_journalism_and_information: Društvene nauke, novinarstvo i informiranje
+business,_administration_and_law: Poslovanje, administracija i pravo
+natural_sciences,_mathematics_and_statistics: Prirodne nauke, matematika i statistika
 information_and_communication_technologies: Informacijske i komunikacijske tehnologije
-engineering_manufacturing_and_construction: Inženjerstvo, proizvodnja i građevinarstvo
-agriculture_forestry_fisheries_and_veterinary_medicine: Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo
+engineering,_production_and_construction: Inženjerstvo, proizvodnja i građevinarstvo
+agriculture,_forestry,_fisheries_and_veterinary_medicine: Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo
 health_and_social_protection: Zdravstvo i socijalna zaštita
 unknown: Nepoznato
 enrolled_in_integrated_studies: Upisani  na integrirane studije
