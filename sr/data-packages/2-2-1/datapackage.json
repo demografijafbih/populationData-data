@@ -21,7 +21,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -107,14 +107,14 @@
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "Oпштина"
           },
           {
             "name": "HH_size",
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "T",
                 "1",
                 "2",
                 "3",

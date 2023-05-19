@@ -1,83 +1,83 @@
-Year,UNIT_MEASURE,Administrativna oblast,HH_size,Value
-2013,Broj,Banovići,Oba spola,7636
-2013,Broj,Bihać,Oba spola,18294
-2013,Broj,Bosanska Krupa,Oba spola,7675
-2013,Broj,Bosanski Petrovac,Oba spola,2798
-2013,Broj,Bosansko Grahovo,Oba spola,1046
-2013,Broj,Breza,Oba spola,5058
-2013,Broj,Bugojno,Oba spola,9429
-2013,Broj,Busovača,Oba spola,5621
-2013,Broj,Bužim,Oba spola,4326
-2013,Broj,Cazin,Oba spola,16686
-2013,Broj,Sarajevo-Centar,Oba spola,21484
-2013,Broj,Čapljina,Oba spola,7916
-2013,Broj,Čelić,Oba spola,3203
-2013,Broj,Čitluk,Oba spola,4667
-2013,Broj,Doboj-Istok,Oba spola,3167
-2013,Broj,Doboj-Jug,Oba spola,1307
-2013,Broj,Dobretići,Oba spola,473
-2013,Broj,Domaljevac-Šamac,Oba spola,1312
-2013,Broj,Donji Vakuf,Oba spola,4183
-2013,Broj,Drvar,Oba spola,3033
-2013,Broj,Foča-FBiH,Oba spola,747
-2013,Broj,Fojnica,Oba spola,3908
-2013,Broj,Glamoč,Oba spola,1437
-2013,Broj,Goražde,Oba spola,7573
-2013,Broj,Gornji Vakuf-Uskoplje,Oba spola,5686
-2013,Broj,Gračanica,Oba spola,15083
-2013,Broj,Gradačac,Oba spola,11881
-2013,Broj,Grude,Oba spola,4502
-2013,Broj,Sarajevo-Hadžići,Oba spola,7530
-2013,Broj,Sarajevo-Ilidža,Oba spola,22296
-2013,Broj,Sarajevo-Ilijaš,Oba spola,6386
-2013,Broj,Jablanica,Oba spola,3168
-2013,Broj,Jajce,Oba spola,8041
-2013,Broj,Kakanj,Oba spola,12240
-2013,Broj,Kalesija,Oba spola,9781
-2013,Broj,Kiseljak,Oba spola,6801
-2013,Broj,Kladanj,Oba spola,3847
-2013,Broj,Ključ,Oba spola,4990
-2013,Broj,Konjic,Oba spola,8381
-2013,Broj,Kreševo,Oba spola,1845
-2013,Broj,Kupres-FBiH,Oba spola,1489
-2013,Broj,Livno,Oba spola,9028
-2013,Broj,Lukavac,Oba spola,16656
-2013,Broj,Ljubuški,Oba spola,7444
-2013,Broj,Maglaj,Oba spola,7687
-2013,Broj,Mostar,Oba spola,34129
-2013,Broj,Neum,Oba spola,1394
-2013,Broj,Sarajevo-Novi Grad,Oba spola,42274
-2013,Broj,Novi Travnik,Oba spola,7267
-2013,Broj,Sarajevo-Novo Sarajevo,Oba spola,25690
-2013,Broj,Odžak,Oba spola,5809
-2013,Broj,Olovo,Oba spola,3493
-2013,Broj,Orašje,Oba spola,6192
-2013,Broj,Pale-FBiH,Oba spola,350
-2013,Broj,Posušje,Oba spola,5153
-2013,Broj,Prozor,Oba spola,3653
-2013,Broj,Ravno,Oba spola,929
-2013,Broj,Sanski Most,Oba spola,11847
-2013,Broj,Sapna,Oba spola,3085
-2013,Broj,Srebrenik,Oba spola,13187
-2013,Broj,Sarajevo-Stari Grad,Oba spola,13753
-2013,Broj,Stolac,Oba spola,3884
-2013,Broj,Široki Brijeg,Oba spola,7982
-2013,Broj,Teočak,Oba spola,2020
-2013,Broj,Tešanj,Oba spola,13426
-2013,Broj,Tomislavgrad,Oba spola,7731
-2013,Broj,Travnik,Oba spola,16445
-2013,Broj,Trnovo-FBiH,Oba spola,647
-2013,Broj,Tuzla,Oba spola,42630
-2013,Broj,Usora,Oba spola,1936
-2013,Broj,Vareš,Oba spola,3582
-2013,Broj,Velika Kladuša,Oba spola,11651
-2013,Broj,Visoko,Oba spola,12900
-2013,Broj,Vitez,Oba spola,8190
-2013,Broj,Sarajevo-Vogošća,Oba spola,8811
-2013,Broj,Zavidovići,Oba spola,12088
-2013,Broj,Zenica,Oba spola,38609
-2013,Broj,Žepče,Oba spola,8830
-2013,Broj,Živinice,Oba spola,18431
+Year,UNIT_MEASURE,Općina,HH_size,Value
+2013,Broj,Banovići,Ukupno,7636
+2013,Broj,Bihać,Ukupno,18294
+2013,Broj,Bosanska Krupa,Ukupno,7675
+2013,Broj,Bosanski Petrovac,Ukupno,2798
+2013,Broj,Bosansko Grahovo,Ukupno,1046
+2013,Broj,Breza,Ukupno,5058
+2013,Broj,Bugojno,Ukupno,9429
+2013,Broj,Busovača,Ukupno,5621
+2013,Broj,Bužim,Ukupno,4326
+2013,Broj,Cazin,Ukupno,16686
+2013,Broj,Sarajevo-Centar,Ukupno,21484
+2013,Broj,Čapljina,Ukupno,7916
+2013,Broj,Čelić,Ukupno,3203
+2013,Broj,Čitluk,Ukupno,4667
+2013,Broj,Doboj-Istok,Ukupno,3167
+2013,Broj,Doboj-Jug,Ukupno,1307
+2013,Broj,Dobretići,Ukupno,473
+2013,Broj,Domaljevac-Šamac,Ukupno,1312
+2013,Broj,Donji Vakuf,Ukupno,4183
+2013,Broj,Drvar,Ukupno,3033
+2013,Broj,Foča-FBiH,Ukupno,747
+2013,Broj,Fojnica,Ukupno,3908
+2013,Broj,Glamoč,Ukupno,1437
+2013,Broj,Goražde,Ukupno,7573
+2013,Broj,Gornji Vakuf-Uskoplje,Ukupno,5686
+2013,Broj,Gračanica,Ukupno,15083
+2013,Broj,Gradačac,Ukupno,11881
+2013,Broj,Grude,Ukupno,4502
+2013,Broj,Sarajevo-Hadžići,Ukupno,7530
+2013,Broj,Sarajevo-Ilidža,Ukupno,22296
+2013,Broj,Sarajevo-Ilijaš,Ukupno,6386
+2013,Broj,Jablanica,Ukupno,3168
+2013,Broj,Jajce,Ukupno,8041
+2013,Broj,Kakanj,Ukupno,12240
+2013,Broj,Kalesija,Ukupno,9781
+2013,Broj,Kiseljak,Ukupno,6801
+2013,Broj,Kladanj,Ukupno,3847
+2013,Broj,Ključ,Ukupno,4990
+2013,Broj,Konjic,Ukupno,8381
+2013,Broj,Kreševo,Ukupno,1845
+2013,Broj,Kupres-FBiH,Ukupno,1489
+2013,Broj,Livno,Ukupno,9028
+2013,Broj,Lukavac,Ukupno,16656
+2013,Broj,Ljubuški,Ukupno,7444
+2013,Broj,Maglaj,Ukupno,7687
+2013,Broj,Mostar,Ukupno,34129
+2013,Broj,Neum,Ukupno,1394
+2013,Broj,Sarajevo-Novi Grad,Ukupno,42274
+2013,Broj,Novi Travnik,Ukupno,7267
+2013,Broj,Sarajevo-Novo Sarajevo,Ukupno,25690
+2013,Broj,Odžak,Ukupno,5809
+2013,Broj,Olovo,Ukupno,3493
+2013,Broj,Orašje,Ukupno,6192
+2013,Broj,Pale-FBiH,Ukupno,350
+2013,Broj,Posušje,Ukupno,5153
+2013,Broj,Prozor,Ukupno,3653
+2013,Broj,Ravno,Ukupno,929
+2013,Broj,Sanski Most,Ukupno,11847
+2013,Broj,Sapna,Ukupno,3085
+2013,Broj,Srebrenik,Ukupno,13187
+2013,Broj,Sarajevo-Stari Grad,Ukupno,13753
+2013,Broj,Stolac,Ukupno,3884
+2013,Broj,Široki Brijeg,Ukupno,7982
+2013,Broj,Teočak,Ukupno,2020
+2013,Broj,Tešanj,Ukupno,13426
+2013,Broj,Tomislavgrad,Ukupno,7731
+2013,Broj,Travnik,Ukupno,16445
+2013,Broj,Trnovo-FBiH,Ukupno,647
+2013,Broj,Tuzla,Ukupno,42630
+2013,Broj,Usora,Ukupno,1936
+2013,Broj,Vareš,Ukupno,3582
+2013,Broj,Velika Kladuša,Ukupno,11651
+2013,Broj,Visoko,Ukupno,12900
+2013,Broj,Vitez,Ukupno,8190
+2013,Broj,Sarajevo-Vogošća,Ukupno,8811
+2013,Broj,Zavidovići,Ukupno,12088
+2013,Broj,Zenica,Ukupno,38609
+2013,Broj,Žepče,Ukupno,8830
+2013,Broj,Živinice,Ukupno,18431
 2013,Broj,Banovići,1,1063
 2013,Broj,Bihać,1,3137
 2013,Broj,Bosanska Krupa,1,1178

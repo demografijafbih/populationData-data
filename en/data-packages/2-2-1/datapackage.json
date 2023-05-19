@@ -7,11 +7,30 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp949",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
+            "name": "HH_size",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8+",
+                "T"
+              ]
+            },
+            "title": "HH_size"
+          },
+          {
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -97,26 +116,7 @@
                 "Zivinice"
               ]
             },
-            "title": "Administrative area"
-          },
-          {
-            "name": "HH_size",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "1",
-                "2",
-                "3",
-                "4",
-                "5",
-                "6",
-                "7",
-                "8+",
-                "Both sexes"
-              ]
-            },
-            "title": "HH_size"
+            "title": "Municipality"
           },
           {
             "name": "UNIT_MEASURE",
