@@ -2059,7 +2059,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
+                "Ukupno",
                 "0",
                 "1",
                 "2",

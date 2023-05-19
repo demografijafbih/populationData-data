@@ -2059,7 +2059,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Оба пола",
+                "T",
                 "0",
                 "1",
                 "2",
