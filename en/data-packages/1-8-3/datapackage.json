@@ -12,22 +12,30 @@
         "fields": [
           {
             "name": "AGE",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Total"
+                ""
               ]
             },
             "title": "Age"
           },
           {
-            "name": "SEX",
-            "type": "string",
+            "name": "Municipality",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Both sexes"
+                ""
+              ]
+            },
+            "title": "Municipality"
+          },
+          {
+            "name": "SEX",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
               ]
             },
             "title": "Sex"

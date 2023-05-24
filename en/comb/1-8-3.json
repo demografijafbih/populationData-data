@@ -1,1 +1,1 @@
-{"data":{"Year":[2023],"UNIT_MEASURE":["Number"],"Age":["Total"],"Sex":["Both sexes"],"Value":[null]},"edges":{"From":["Age"],"To":["Sex"]}}
+{"data":{"Year":[2023],"UNIT_MEASURE":["Number"],"Municipality":[null],"Age":[null],"Sex":[null],"Value":[null]},"edges":[]}

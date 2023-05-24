@@ -481,21 +481,28 @@
             "type": "string"
           },
           {
-            "name": "AGE",
-            "type": "string",
+            "name": "Municipality",
+            "type": "number",
             "constraints": {
               "enum": [
-                "T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "SEX",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "_T",
                 ""
               ]
             }

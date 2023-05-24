@@ -21,11 +21,20 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGE",
-            "type": "string",
+            "name": "Municipality",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Ukupno",
+                ""
+              ]
+            },
+            "title": "Općina"
+          },
+          {
+            "name": "AGE",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             },
@@ -33,10 +42,9 @@
           },
           {
             "name": "SEX",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Oba spola",
                 ""
               ]
             },
