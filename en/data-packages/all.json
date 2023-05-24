@@ -3514,23 +3514,6 @@
       "schema": {
         "fields": [
           {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "5+ children",
-                "Total",
-                "Did not give birth",
-                "Four children",
-                "One child",
-                "Three children",
-                "Two children"
-              ]
-            },
-            "title": "Vital statistics"
-          },
-          {
             "name": "Municipality",
             "type": "string",
             "constraints": {
@@ -3618,6 +3601,23 @@
               ]
             },
             "title": "Municipality"
+          },
+          {
+            "name": "No_of_births",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "5+ children",
+                "Total",
+                "Did not give birth",
+                "Four children",
+                "One child",
+                "Three children",
+                "Two children"
+              ]
+            },
+            "title": "Number of children"
           },
           {
             "name": "UNIT_MEASURE",

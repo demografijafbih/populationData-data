@@ -3613,7 +3613,7 @@
             "title": "Municipality"
           },
           {
-            "name": "BIRTHS",
+            "name": "No_of_births",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3627,7 +3627,7 @@
                 ""
               ]
             },
-            "title": "BIRTHS"
+            "title": "No_of_births"
           },
           {
             "name": "Value",

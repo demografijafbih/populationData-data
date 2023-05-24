@@ -110,7 +110,7 @@
             "title": "Općina"
           },
           {
-            "name": "BIRTHS",
+            "name": "No_of_births",
             "type": "string",
             "constraints": {
               "enum": [
@@ -124,7 +124,7 @@
                 ""
               ]
             },
-            "title": "Vitalna statistika"
+            "title": "Broj djece"
           },
           {
             "name": "Value",
