@@ -14,7 +14,7 @@ Municipality,Municipality,Općina,Municipality,Općina,7,80
 No_of_births,Number of children,Broj djece,No_of_births,Broj djece,1,7
 PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,26
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
-scientific_field,scientific_field,Naučna oblast,scientific_field,scientific_field,5,10
+scientific_field,Scientific field,Naučna oblast,scientific_field,scientific_field,5,10
 SEX,Sex,Spol,Пол,Spol,54,3
 Sex,Sex,Spol,Sex,Spol,1,2
 status_in_employment,Status in employment,Radni status,status_in_employment,Radni status,2,3
