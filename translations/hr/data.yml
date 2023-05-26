@@ -587,3 +587,19 @@ communication: Komunikacija
 multiple_disabilities: Sa više poteškoća
 Disabilities: Vrsta poteškoće
 No_of_births: Broj djece
+type_of_school: Vrsta škole
+gymnasium: Gimnazija
+technical_high_schools: Tehničke škole
+art_schools: Umjetničke škole
+religious_schools: Vjerske škole
+vocational_high_schools: Stručne škole
+high_schools_for_students_with_disabilities: Srednje škole za djecu s poteškoćama u razvitku
+scientific_field: Znanstvena oblast
+social_sciences,_journalism_and_information: Društvene znanosti, novinarstvo i informiranje
+business,_administration_and_law: Poslovanje, administracija i pravo
+natural_sciences,_mathematics_and_statistics: Prirodne znanosti, matematika i statistika
+engineering,_production_and_construction: Inženjerstvo, proizvodnja i građevinarstvo
+agriculture,_forestry,_fisheries_and_veterinary_medicine: Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo
+masters: Masteri
+masters_of_science: Magistri nauka
+specialists: Specijalisti
