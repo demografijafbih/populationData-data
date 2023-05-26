@@ -551,4 +551,9 @@ art_schools: Art schools
 religious_schools: Religious schools
 vocational_high_schools: Vocational high schools
 high_schools_for_students_with_disabilities: High schools for students with disabilities
-scientific_field: Scientific field
+scientific_field: Scientific Field
+social_sciences,_journalism_and_information: Social sciences, journalism and information
+business,_administration_and_law: Business, administration and law
+natural_sciences,_mathematics_and_statistics: Natural sciences, mathematics and statistics
+engineering,_production_and_construction: Engineering, production and construction
+agriculture,_forestry,_fisheries_and_veterinary_medicine: Agriculture, forestry, fisheries and veterinary medicine
