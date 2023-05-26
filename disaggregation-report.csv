@@ -7,7 +7,7 @@ CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa 
 Disabilities,Type of disability,Vrsta poteškoće,Disabilities,Vrsta poteškoće,1,8
 Education,Education,Education,Education,Education,1,7
 HH_agri,Household agricultural activity,Poljoprivredna aktivnost,HH_agri,Poljoprivredna aktivnost,1,3
-HH_size,Household size,Brojnost domaćinstva,HH_size,Brojnost domaćinstva,1,9
+HH_size,Household size,Brojnost domaćinstva,HH_size,Brojnost kućanstava,1,9
 Literacy,Literacy,Pismenost,Literacy,Pismenost,1,3
 MICS_NUMBER,Method,Metoda,MICS_NUMBER,Metoda,1,3
 Municipality,Municipality,Općina,Municipality,Općina,7,80
