@@ -945,18 +945,18 @@
               "enum": [
                 "Obrazovanje",
                 "Umjetnost i humanističke znanosti",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
+                "Društvene znanosti, novinarstvo i informiranje",
+                "Poslovanje, administracija i pravo",
+                "Prirodne znanosti, matematika i statistika",
                 "Informacijske i komunikacijske tehnologije",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
                 "Zdravstvo i socijalna skrb",
                 "Usluge",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Znanstvena oblast"
           },
           {
             "name": "Value",
@@ -1099,9 +1099,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "masters_of_science",
-                "masters",
-                "specialists",
+                "Magistri nauka",
+                "Masteri",
+                "Specijalisti",
                 ""
               ]
             },
@@ -1854,18 +1854,18 @@
               "enum": [
                 "Obrazovanje",
                 "Umjetnost i humanističke znanosti",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
+                "Društvene znanosti, novinarstvo i informiranje",
+                "Poslovanje, administracija i pravo",
+                "Prirodne znanosti, matematika i statistika",
                 "Informacijske i komunikacijske tehnologije",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
                 "Zdravstvo i socijalna skrb",
                 "Usluge",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Znanstvena oblast"
           },
           {
             "name": "Value",
@@ -2433,18 +2433,18 @@
               "enum": [
                 "Obrazovanje",
                 "Umjetnost i humanističke znanosti",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
+                "Društvene znanosti, novinarstvo i informiranje",
+                "Poslovanje, administracija i pravo",
+                "Prirodne znanosti, matematika i statistika",
                 "Informacijske i komunikacijske tehnologije",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
                 "Zdravstvo i socijalna skrb",
                 "Usluge",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Znanstvena oblast"
           },
           {
             "name": "Value",
@@ -2712,18 +2712,18 @@
               "enum": [
                 "Obrazovanje",
                 "Umjetnost i humanističke znanosti",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
+                "Društvene znanosti, novinarstvo i informiranje",
+                "Poslovanje, administracija i pravo",
+                "Prirodne znanosti, matematika i statistika",
                 "Informacijske i komunikacijske tehnologije",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
                 "Zdravstvo i socijalna skrb",
                 "Usluge",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Znanstvena oblast"
           },
           {
             "name": "Value",
@@ -3127,18 +3127,18 @@
               "enum": [
                 "Obrazovanje",
                 "Umjetnost i humanističke znanosti",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
+                "Društvene znanosti, novinarstvo i informiranje",
+                "Poslovanje, administracija i pravo",
+                "Prirodne znanosti, matematika i statistika",
                 "Informacijske i komunikacijske tehnologije",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
                 "Zdravstvo i socijalna skrb",
                 "Usluge",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Znanstvena oblast"
           },
           {
             "name": "Value",
@@ -4189,15 +4189,15 @@
             "constraints": {
               "enum": [
                 "Gimnazija",
-                "technical_high_schools",
-                "vocational_high_schools",
+                "Tehničke škole",
+                "Stručne škole",
                 "Umjetničke škole",
-                "religious_schools",
-                "high_schools_for_students_with_disabilities",
+                "Vjerske škole",
+                "Srednje škole za djecu s poteškoćama u razvitku",
                 ""
               ]
             },
-            "title": "type_of_school"
+            "title": "Vrsta škole"
           },
           {
             "name": "Value",
@@ -5761,15 +5761,15 @@
             "constraints": {
               "enum": [
                 "Gimnazija",
-                "technical_high_schools",
-                "vocational_high_schools",
+                "Tehničke škole",
+                "Stručne škole",
                 "Umjetničke škole",
-                "religious_schools",
-                "high_schools_for_students_with_disabilities",
+                "Vjerske škole",
+                "Srednje škole za djecu s poteškoćama u razvitku",
                 ""
               ]
             },
-            "title": "type_of_school"
+            "title": "Vrsta škole"
           },
           {
             "name": "SEX",

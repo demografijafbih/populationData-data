@@ -47,15 +47,15 @@
             "constraints": {
               "enum": [
                 "Gimnazija",
-                "technical_high_schools",
-                "vocational_high_schools",
+                "Tehničke škole",
+                "Stručne škole",
                 "Umjetničke škole",
-                "religious_schools",
-                "high_schools_for_students_with_disabilities",
+                "Vjerske škole",
+                "Srednje škole za djecu s poteškoćama u razvitku",
                 ""
               ]
             },
-            "title": "type_of_school"
+            "title": "Vrsta škole"
           },
           {
             "name": "SEX",
