@@ -527,3 +527,20 @@ Disabilities: Врсте потешкоће
 Admin_Area: Административна јединица
 BIRTHS: Витална статистика
 No_of_births: Број дјеце
+type_of_school: Врста школе
+gymnasium: Гимназија
+technical_high_schools: Техничке школе
+art_schools: Умјетничке школе
+religious_schools: Вјерске школе
+vocational_high_schools: Стручне школе
+high_schools_for_students_with_disabilities: Средње школе за дјецу са потешкоћама у развоју
+scientific_field: Научна област
+social_sciences,_journalism_and_information: Друштвене науке, новинарство и информисање
+business,_administration_and_law: Пословање, администрација и право
+natural_sciences,_mathematics_and_statistics: Природне науке, математика и статистика
+engineering,_production_and_construction: Инжињерство, производња и грађевинарство
+agriculture,_forestry,_fisheries_and_veterinary_medicine: Пољопривреда, шумарство, рибарство и ветеринарство
+masters: Мастери
+masters_of_science: Магистри наука
+specialists: Специјалисти
+education: Образовање
