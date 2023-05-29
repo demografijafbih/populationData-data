@@ -25,9 +25,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -58,7 +58,7 @@
                 "congenital_anomalies_deformities_and_chromosomal_abnormalities",
                 "symptoms_signs_and_abnormal_clinical_and_laboratory_findings",
                 "injuries_poisonings_and_consequences_of_external_factors",
-                "(У00-У85) Шифре за посебне намјене",
+                "special_purpose_codes",
                 "Непознато",
                 ""
               ]

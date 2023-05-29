@@ -48,9 +48,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -137,9 +137,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -179,7 +179,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 ""
               ]
             },
@@ -254,16 +254,16 @@
                 ""
               ]
             },
-            "title": "Врста коефицијента зависности"
+            "title": "Тип односа зависности"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -303,9 +303,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -406,7 +406,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",
@@ -438,7 +438,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -483,9 +483,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -528,7 +528,7 @@
                 ""
               ]
             },
-            "title": "Град/општина"
+            "title": "Oпштина"
           },
           {
             "name": "AGE",
@@ -538,7 +538,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "SEX",
@@ -584,9 +584,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -681,9 +681,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -723,9 +723,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -765,89 +765,89 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "banovici",
-                "bihac",
-                "bosanska_krupa",
-                "bosanski_petrovac",
-                "bosansko_grahovo",
-                "breza",
-                "bugojno",
-                "busovaca",
-                "buzim",
-                "cazin",
+                "Бановићи",
+                "Бихаћ",
+                "Босанска Крупа",
+                "Босански Петровац",
+                "Босанско Грахово",
+                "Бреза",
+                "Бугојно",
+                "Бусовача",
+                "Бужим",
+                "Цазин",
                 "centar_sarajevo",
-                "capljina",
-                "celic",
-                "citluk",
+                "Чапљина",
+                "Челић",
+                "Читлук",
                 "doboj-istok",
                 "doboj-jug",
-                "dobretici",
+                "Добретићи",
                 "domaljevac-samac",
-                "donji_vakuf",
-                "drvar",
+                "Доњи Вакуф",
+                "Дрвар",
                 "foca-fbih",
-                "fojnica",
-                "glamoc",
-                "gorazde",
+                "Фојница",
+                "Гламоч",
+                "Горажде",
                 "gornji_vakuf-uskoplje",
-                "gracanica",
-                "gradacac",
-                "grude",
+                "Грачаница",
+                "Градачац",
+                "Груде",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "jablanica",
-                "jajce",
-                "kakanj",
-                "kalesija",
-                "kiseljak",
-                "kladanj",
-                "kljuc",
-                "konjic",
-                "kresevo",
+                "Јабланица",
+                "Јајце",
+                "Какањ",
+                "Калесија",
+                "Кисељак",
+                "Кладањ",
+                "Кључ",
+                "Коњиц",
+                "Крешево",
                 "kupres-fbih",
-                "livno",
-                "lukavac",
-                "ljubuski",
-                "maglaj",
-                "mostar",
-                "neum",
+                "Ливно",
+                "Лукавац",
+                "Љубушки",
+                "Маглај",
+                "Мостар",
+                "Неум",
                 "novi_grad_sarajevo",
-                "novi_travnik",
+                "Нови Травник",
                 "novo_sarajevo",
-                "odzak",
-                "olovo",
-                "orasje",
+                "Оџак",
+                "Олово",
+                "Орашје",
                 "pale-fbih",
-                "posusje",
-                "prozor",
-                "ravno",
-                "sanski_most",
-                "sapna",
-                "srebrenik",
+                "Посушје",
+                "Прозор",
+                "Равно",
+                "Сански Мост",
+                "Сапна",
+                "Сребреник",
                 "stari_grad_sarajevo",
-                "stolac",
-                "siroki_brijeg",
-                "teocak",
-                "tesanj",
-                "tomislavgrad",
-                "travnik",
+                "Столац",
+                "Широки Бријег",
+                "Теочак",
+                "Тешањ",
+                "Томиславград",
+                "Травник",
                 "trnovo-fbih",
-                "tuzla",
-                "usora",
-                "vares",
-                "velika_kladusa",
-                "visoko",
-                "vitez",
+                "Тузла",
+                "Усора",
+                "Вареш",
+                "Велика Кладуша",
+                "Високо",
+                "Витез",
                 "vogosca",
-                "zavidovici",
-                "zenica",
-                "zepce",
-                "zivinice",
+                "Завидовићи",
+                "Зеница",
+                "Жепче",
+                "Живинице",
                 ""
               ]
             },
-            "title": "Град/општина"
+            "title": "Oпштина"
           },
           {
             "name": "HH_agri",
@@ -943,20 +943,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oбразовање",
+                "Образовање",
                 "Умјетност и хуманистичке науке",
-                "Друштвене науке, новинарство и информисање",
-                "Пословање, администрација и право",
-                "Природне науке, математика и статистика",
+                "social_sciences,_journalism_and_information",
+                "business,_administration_and_law",
+                "natural_sciences,_mathematics_and_statistics",
                 "Информационе и комуникационе технологије",
-                "Инжeњерство, производња и грађевинарство",
-                "Пољопривреда, шумарство, рибарство и ветеринарство",
+                "engineering,_production_and_construction",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
                 "Здравство и социјална заштита",
                 "Услуге",
                 ""
               ]
             },
-            "title": "Област образовања"
+            "title": "scientific_field"
           },
           {
             "name": "Value",
@@ -1010,9 +1010,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -1099,9 +1099,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mагистри наука",
-                "Мастери",
-                "Специјалисти",
+                "masters_of_science",
+                "masters",
+                "specialists",
                 ""
               ]
             },
@@ -1112,9 +1112,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -1233,9 +1233,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -1299,9 +1299,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -1313,24 +1313,24 @@
             "constraints": {
               "enum": [
                 "(Ц00-Ц97,Д00-Д48) Неоплазме",
-                "(И00-И99) Болести циркулаторног система",
+                "(И00-И99) Болести циркулацијског система",
                 "(Ј00-Ј99) Болести респираторног система",
                 "(К00-К93) Болести дигестивног система",
-                "(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",
-                "(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",
+                "(Р00-Р99) Симптоми, знакови и абнормални клинички и лабораторијски налази који нису другдје класифицирани",
+                "(С00-Т98) Повреде, тровања и друге посљедице дејстава спољних фактора",
                 "Укупно",
-                "(А00-Б99) Инфективне и паразитске болести",
-                "(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система",
-                "(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",
+                "(А00-Б99) Заразне и паразитарне болести",
+                "(Д50-Д89) Болести крви и крвотворних органа, као и поремећаји имунолошког система",
+                "(Е00-Е90) Ендокрине болести, болести исхране и болести метаболизма",
                 "(Ф00-Ф99) Душевни поремећаји и поремећаји понашања",
                 "(Г00-Г99) Болести нервног система",
-                "(Х00-Х59) Болести ока и припојка ока",
+                "(Х00-Х93) Болести ока, уха и аднекса",
                 "(Л00-Л99) Болести коже и поткожног ткива",
-                "(М00-М99) Болести мишићно-коштаног система и везивног ткива",
-                "(Н00-Н99) Болести генитоуринарног система",
-                "(О00-О99) Трудноћа, порођај и пуерперијум",
+                "(М00-М99) Болести мускулоскелетног система и везивног ткива",
+                "(Н00-Н99) Болести генитално-уринарног система",
+                "(О00-О99) Трудноћа, порођај и постпорођајни период",
                 "(П00-П96) Одређена стања настала у перинаталном периоду",
-                "(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",
+                "(Q00-Q99) Конгениталне малформације, деформитети и хромосомске абнормалности",
                 "(В01-Y98) Спољни узроци смртности",
                 "(З00-З99) Фактори који утичу на здравствено стање и контакт са здравственом службом",
                 "Непознато",
@@ -1384,16 +1384,16 @@
                 ""
               ]
             },
-            "title": "Врста коефицијента зависности"
+            "title": "Тип односа зависности"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -1433,9 +1433,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -1467,7 +1467,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",
@@ -1503,22 +1503,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "employees",
-                "self_employed",
-                "unpaid_family_workers",
+                "Запосленици",
+                "Самозапосленици",
+                "Неплаћени помажући чланови",
                 ""
               ]
             },
-            "title": "status_in_employment"
+            "title": "Радни статус"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -1558,98 +1558,98 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "banovici",
-                "bihac",
-                "bosanska_krupa",
-                "bosanski_petrovac",
-                "bosansko_grahovo",
-                "breza",
-                "bugojno",
-                "busovaca",
-                "buzim",
-                "cazin",
+                "Бановићи",
+                "Бихаћ",
+                "Босанска Крупа",
+                "Босански Петровац",
+                "Босанско Грахово",
+                "Бреза",
+                "Бугојно",
+                "Бусовача",
+                "Бужим",
+                "Цазин",
                 "centar_sarajevo",
-                "capljina",
-                "celic",
-                "citluk",
+                "Чапљина",
+                "Челић",
+                "Читлук",
                 "doboj-istok",
                 "doboj-jug",
-                "dobretici",
+                "Добретићи",
                 "domaljevac-samac",
-                "donji_vakuf",
-                "drvar",
+                "Доњи Вакуф",
+                "Дрвар",
                 "foca-fbih",
-                "fojnica",
-                "glamoc",
-                "gorazde",
+                "Фојница",
+                "Гламоч",
+                "Горажде",
                 "gornji_vakuf-uskoplje",
-                "gracanica",
-                "gradacac",
-                "grude",
+                "Грачаница",
+                "Градачац",
+                "Груде",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "jablanica",
-                "jajce",
-                "kakanj",
-                "kalesija",
-                "kiseljak",
-                "kladanj",
-                "kljuc",
-                "konjic",
-                "kresevo",
+                "Јабланица",
+                "Јајце",
+                "Какањ",
+                "Калесија",
+                "Кисељак",
+                "Кладањ",
+                "Кључ",
+                "Коњиц",
+                "Крешево",
                 "kupres-fbih",
-                "livno",
-                "lukavac",
-                "ljubuski",
-                "maglaj",
-                "mostar",
-                "neum",
+                "Ливно",
+                "Лукавац",
+                "Љубушки",
+                "Маглај",
+                "Мостар",
+                "Неум",
                 "novi_grad_sarajevo",
-                "novi_travnik",
+                "Нови Травник",
                 "novo_sarajevo",
-                "odzak",
-                "olovo",
-                "orasje",
+                "Оџак",
+                "Олово",
+                "Орашје",
                 "pale-fbih",
-                "posusje",
-                "prozor",
-                "ravno",
-                "sanski_most",
-                "sapna",
-                "srebrenik",
+                "Посушје",
+                "Прозор",
+                "Равно",
+                "Сански Мост",
+                "Сапна",
+                "Сребреник",
                 "stari_grad_sarajevo",
-                "stolac",
-                "siroki_brijeg",
-                "teocak",
-                "tesanj",
-                "tomislavgrad",
-                "travnik",
+                "Столац",
+                "Широки Бријег",
+                "Теочак",
+                "Тешањ",
+                "Томиславград",
+                "Травник",
                 "trnovo-fbih",
-                "tuzla",
-                "usora",
-                "vares",
-                "velika_kladusa",
-                "visoko",
-                "vitez",
+                "Тузла",
+                "Усора",
+                "Вареш",
+                "Велика Кладуша",
+                "Високо",
+                "Витез",
                 "vogosca",
-                "zavidovici",
-                "zenica",
-                "zepce",
-                "zivinice",
+                "Завидовићи",
+                "Зеница",
+                "Жепче",
+                "Живинице",
                 ""
               ]
             },
-            "title": "Град/општина"
+            "title": "Oпштина"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -1661,17 +1661,17 @@
             "constraints": {
               "enum": [
                 "T",
-                "Вид, иако носи наочаре",
-                "Слух, иако користи слушни апарат",
-                "Ход или пењање уз степенице",
-                "Памћење или концентрација",
-                "Одијевање и одржавање личне хигијене",
-                "Комуникација",
-                "Са више потешкоћа",
+                "eyesight",
+                "hearing",
+                "walking",
+                "memory",
+                "dressing",
+                "communication",
+                "Вишеструке потешкоће",
                 ""
               ]
             },
-            "title": "Врста потешкоће"
+            "title": "Disabilities"
           },
           {
             "name": "Value",
@@ -1707,7 +1707,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "Јавна",
                 "Приватна",
                 ""
@@ -1759,7 +1759,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "Unnamed: 4",
@@ -1852,20 +1852,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oбразовање",
+                "Образовање",
                 "Умјетност и хуманистичке науке",
-                "Друштвене науке, новинарство и информисање",
-                "Пословање, администрација и право",
-                "Природне науке, математика и статистика",
+                "social_sciences,_journalism_and_information",
+                "business,_administration_and_law",
+                "natural_sciences,_mathematics_and_statistics",
                 "Информационе и комуникационе технологије",
-                "Инжeњерство, производња и грађевинарство",
-                "Пољопривреда, шумарство, рибарство и ветеринарство",
+                "engineering,_production_and_construction",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
                 "Здравство и социјална заштита",
                 "Услуге",
                 ""
               ]
             },
-            "title": "Област образовања"
+            "title": "scientific_field"
           },
           {
             "name": "Value",
@@ -1931,7 +1931,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -1974,7 +1974,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "SEX",
@@ -2020,9 +2020,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -2053,7 +2053,7 @@
                 "congenital_anomalies_deformities_and_chromosomal_abnormalities",
                 "symptoms_signs_and_abnormal_clinical_and_laboratory_findings",
                 "injuries_poisonings_and_consequences_of_external_factors",
-                "(У00-У85) Шифре за посебне намјене",
+                "special_purpose_codes",
                 "Непознато",
                 ""
               ]
@@ -2141,9 +2141,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -2201,9 +2201,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -2243,9 +2243,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -2339,7 +2339,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -2431,20 +2431,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oбразовање",
+                "Образовање",
                 "Умјетност и хуманистичке науке",
-                "Друштвене науке, новинарство и информисање",
-                "Пословање, администрација и право",
-                "Природне науке, математика и статистика",
+                "social_sciences,_journalism_and_information",
+                "business,_administration_and_law",
+                "natural_sciences,_mathematics_and_statistics",
                 "Информационе и комуникационе технологије",
-                "Инжeњерство, производња и грађевинарство",
-                "Пољопривреда, шумарство, рибарство и ветеринарство",
+                "engineering,_production_and_construction",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
                 "Здравство и социјална заштита",
                 "Услуге",
                 ""
               ]
             },
-            "title": "Област образовања"
+            "title": "scientific_field"
           },
           {
             "name": "Value",
@@ -2501,9 +2501,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -2543,13 +2543,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупна стопа преваленце контрацепције",
-                "Стопа преваленце контрацепције (употребом традиционалних методa)",
-                "Стопа преваленце контрацепције (употребом савремених метода)",
+                "Све методе",
+                "Традиционалне методе",
+                "Савремене методе",
                 ""
               ]
             },
-            "title": "MICS_NUMBER"
+            "title": "Метода"
           },
           {
             "name": "Value",
@@ -2585,9 +2585,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -2606,7 +2606,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",
@@ -2710,20 +2710,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oбразовање",
+                "Образовање",
                 "Умјетност и хуманистичке науке",
-                "Друштвене науке, новинарство и информисање",
-                "Пословање, администрација и право",
-                "Природне науке, математика и статистика",
+                "social_sciences,_journalism_and_information",
+                "business,_administration_and_law",
+                "natural_sciences,_mathematics_and_statistics",
                 "Информационе и комуникационе технологије",
-                "Инжeњерство, производња и грађевинарство",
-                "Пољопривреда, шумарство, рибарство и ветеринарство",
+                "engineering,_production_and_construction",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
                 "Здравство и социјална заштита",
                 "Услуге",
                 ""
               ]
             },
-            "title": "Област образовања"
+            "title": "scientific_field"
           },
           {
             "name": "Value",
@@ -2777,9 +2777,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -2924,9 +2924,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -2998,7 +2998,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "SEX",
@@ -3065,9 +3065,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -3125,20 +3125,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oбразовање",
+                "Образовање",
                 "Умјетност и хуманистичке науке",
-                "Друштвене науке, новинарство и информисање",
-                "Пословање, администрација и право",
-                "Природне науке, математика и статистика",
+                "social_sciences,_journalism_and_information",
+                "business,_administration_and_law",
+                "natural_sciences,_mathematics_and_statistics",
                 "Информационе и комуникационе технологије",
-                "Инжeњерство, производња и грађевинарство",
-                "Пољопривреда, шумарство, рибарство и ветеринарство",
+                "engineering,_production_and_construction",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
                 "Здравство и социјална заштита",
                 "Услуге",
                 ""
               ]
             },
-            "title": "Област образовања"
+            "title": "scientific_field"
           },
           {
             "name": "Value",
@@ -3174,9 +3174,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -3274,9 +3274,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -3328,89 +3328,89 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "banovici",
-                "bihac",
-                "bosanska_krupa",
-                "bosanski_petrovac",
-                "bosansko_grahovo",
-                "breza",
-                "bugojno",
-                "busovaca",
-                "buzim",
-                "cazin",
+                "Бановићи",
+                "Бихаћ",
+                "Босанска Крупа",
+                "Босански Петровац",
+                "Босанско Грахово",
+                "Бреза",
+                "Бугојно",
+                "Бусовача",
+                "Бужим",
+                "Цазин",
                 "centar_sarajevo",
-                "capljina",
-                "celic",
-                "citluk",
+                "Чапљина",
+                "Челић",
+                "Читлук",
                 "doboj-istok",
                 "doboj-jug",
-                "dobretici",
+                "Добретићи",
                 "domaljevac-samac",
-                "donji_vakuf",
-                "drvar",
+                "Доњи Вакуф",
+                "Дрвар",
                 "foca-fbih",
-                "fojnica",
-                "glamoc",
-                "gorazde",
+                "Фојница",
+                "Гламоч",
+                "Горажде",
                 "gornji_vakuf-uskoplje",
-                "gracanica",
-                "gradacac",
-                "grude",
+                "Грачаница",
+                "Градачац",
+                "Груде",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "jablanica",
-                "jajce",
-                "kakanj",
-                "kalesija",
-                "kiseljak",
-                "kladanj",
-                "kljuc",
-                "konjic",
-                "kresevo",
+                "Јабланица",
+                "Јајце",
+                "Какањ",
+                "Калесија",
+                "Кисељак",
+                "Кладањ",
+                "Кључ",
+                "Коњиц",
+                "Крешево",
                 "kupres-fbih",
-                "livno",
-                "lukavac",
-                "ljubuski",
-                "maglaj",
-                "mostar",
-                "neum",
+                "Ливно",
+                "Лукавац",
+                "Љубушки",
+                "Маглај",
+                "Мостар",
+                "Неум",
                 "novi_grad_sarajevo",
-                "novi_travnik",
+                "Нови Травник",
                 "novo_sarajevo",
-                "odzak",
-                "olovo",
-                "orasje",
+                "Оџак",
+                "Олово",
+                "Орашје",
                 "pale-fbih",
-                "posusje",
-                "prozor",
-                "ravno",
-                "sanski_most",
-                "sapna",
-                "srebrenik",
+                "Посушје",
+                "Прозор",
+                "Равно",
+                "Сански Мост",
+                "Сапна",
+                "Сребреник",
                 "stari_grad_sarajevo",
-                "stolac",
-                "siroki_brijeg",
-                "teocak",
-                "tesanj",
-                "tomislavgrad",
-                "travnik",
+                "Столац",
+                "Широки Бријег",
+                "Теочак",
+                "Тешањ",
+                "Томиславград",
+                "Травник",
                 "trnovo-fbih",
-                "tuzla",
-                "usora",
-                "vares",
-                "velika_kladusa",
-                "visoko",
-                "vitez",
+                "Тузла",
+                "Усора",
+                "Вареш",
+                "Велика Кладуша",
+                "Високо",
+                "Витез",
                 "vogosca",
-                "zavidovici",
-                "zenica",
-                "zepce",
-                "zivinice",
+                "Завидовићи",
+                "Зеница",
+                "Жепче",
+                "Живинице",
                 ""
               ]
             },
-            "title": "Град/општина"
+            "title": "Oпштина"
           },
           {
             "name": "HH_size",
@@ -3486,9 +3486,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -3528,89 +3528,89 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "banovici",
-                "bihac",
-                "bosanska_krupa",
-                "bosanski_petrovac",
-                "bosansko_grahovo",
-                "breza",
-                "bugojno",
-                "busovaca",
-                "buzim",
-                "cazin",
+                "Бановићи",
+                "Бихаћ",
+                "Босанска Крупа",
+                "Босански Петровац",
+                "Босанско Грахово",
+                "Бреза",
+                "Бугојно",
+                "Бусовача",
+                "Бужим",
+                "Цазин",
                 "centar_sarajevo",
-                "capljina",
-                "celic",
-                "citluk",
+                "Чапљина",
+                "Челић",
+                "Читлук",
                 "doboj-istok",
                 "doboj-jug",
-                "dobretici",
+                "Добретићи",
                 "domaljevac-samac",
-                "donji_vakuf",
-                "drvar",
+                "Доњи Вакуф",
+                "Дрвар",
                 "foca-fbih",
-                "fojnica",
-                "glamoc",
-                "gorazde",
+                "Фојница",
+                "Гламоч",
+                "Горажде",
                 "gornji_vakuf-uskoplje",
-                "gracanica",
-                "gradacac",
-                "grude",
+                "Грачаница",
+                "Градачац",
+                "Груде",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "jablanica",
-                "jajce",
-                "kakanj",
-                "kalesija",
-                "kiseljak",
-                "kladanj",
-                "kljuc",
-                "konjic",
-                "kresevo",
+                "Јабланица",
+                "Јајце",
+                "Какањ",
+                "Калесија",
+                "Кисељак",
+                "Кладањ",
+                "Кључ",
+                "Коњиц",
+                "Крешево",
                 "kupres-fbih",
-                "livno",
-                "lukavac",
-                "ljubuski",
-                "maglaj",
-                "mostar",
-                "neum",
+                "Ливно",
+                "Лукавац",
+                "Љубушки",
+                "Маглај",
+                "Мостар",
+                "Неум",
                 "novi_grad_sarajevo",
-                "novi_travnik",
+                "Нови Травник",
                 "novo_sarajevo",
-                "odzak",
-                "olovo",
-                "orasje",
+                "Оџак",
+                "Олово",
+                "Орашје",
                 "pale-fbih",
-                "posusje",
-                "prozor",
-                "ravno",
-                "sanski_most",
-                "sapna",
-                "srebrenik",
+                "Посушје",
+                "Прозор",
+                "Равно",
+                "Сански Мост",
+                "Сапна",
+                "Сребреник",
                 "stari_grad_sarajevo",
-                "stolac",
-                "siroki_brijeg",
-                "teocak",
-                "tesanj",
-                "tomislavgrad",
-                "travnik",
+                "Столац",
+                "Широки Бријег",
+                "Теочак",
+                "Тешањ",
+                "Томиславград",
+                "Травник",
                 "trnovo-fbih",
-                "tuzla",
-                "usora",
-                "vares",
-                "velika_kladusa",
-                "visoko",
-                "vitez",
+                "Тузла",
+                "Усора",
+                "Вареш",
+                "Велика Кладуша",
+                "Високо",
+                "Витез",
                 "vogosca",
-                "zavidovici",
-                "zenica",
-                "zepce",
-                "zivinice",
+                "Завидовићи",
+                "Зеница",
+                "Жепче",
+                "Живинице",
                 ""
               ]
             },
-            "title": "Град/општина"
+            "title": "Oпштина"
           },
           {
             "name": "No_of_births",
@@ -3619,11 +3619,11 @@
               "enum": [
                 "T",
                 "Нису рађале",
-                "1 дијете",
-                "2 дјеце",
-                "3 дјеце",
-                "4 дјеце",
-                "5 и више дјеце",
+                "one_child",
+                "two_children",
+                "three_children",
+                "four_children",
+                "5+_children",
                 ""
               ]
             },
@@ -3684,9 +3684,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -3721,9 +3721,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -3744,7 +3744,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3785,9 +3785,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -3827,7 +3827,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",
@@ -3910,9 +3910,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -4019,26 +4019,26 @@
             "constraints": {
               "enum": [
                 "(Ц00-Ц97,Д00-Д48) Неоплазме",
-                "(И00-И99) Болести циркулаторног система",
+                "(И00-И99) Болести циркулацијског система",
                 "(Ј00-Ј99) Болести респираторног система",
                 "(К00-К93) Болести дигестивног система",
-                "(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",
-                "(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",
-                "(А00-Б99) Инфективне и паразитске болести",
-                "(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система",
-                "(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",
+                "(Р00-Р99) Симптоми, знакови и абнормални клинички и лабораторијски налази који нису другдје класифицирани",
+                "(С00-Т98) Повреде, тровања и друге посљедице дејстава спољних фактора",
+                "(А00-Б99) Заразне и паразитарне болести",
+                "(Д50-Д89) Болести крви и крвотворних органа, као и поремећаји имунолошког система",
+                "(Е00-Е90) Ендокрине болести, болести исхране и болести метаболизма",
                 "(Ф00-Ф99) Душевни поремећаји и поремећаји понашања",
                 "(Г00-Г99) Болести нервног система",
-                "(Х00-Х59) Болести ока и припојка ока",
+                "(Х00-Х93) Болести ока, уха и аднекса",
                 "(Л00-Л99) Болести коже и поткожног ткива",
-                "(Н00-Н99) Болести генитоуринарног система",
+                "(Н00-Н99) Болести генитално-уринарног система",
                 "(П00-П96) Одређена стања настала у перинаталном периоду",
-                "(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",
+                "(Q00-Q99) Конгениталне малформације, деформитети и хромосомске абнормалности",
                 "(В01-Y98) Спољни узроци смртности",
                 "(З00-З99) Фактори који утичу на здравствено стање и контакт са здравственом службом",
                 "Непознато",
-                "(М00-М99) Болести мишићно-коштаног система и везивног ткива",
-                "(О00-О99) Трудноћа, порођај и пуерперијум",
+                "(М00-М99) Болести мускулоскелетног система и везивног ткива",
+                "(О00-О99) Трудноћа, порођај и постпорођајни период",
                 ""
               ]
             },
@@ -4083,9 +4083,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -4125,7 +4125,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "Јавна",
                 "Приватна",
                 ""
@@ -4188,16 +4188,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Гимназијe",
-                "Средње техничке школе",
-                "Средње стручне школе",
+                "Гимназија",
+                "technical_high_schools",
+                "vocational_high_schools",
                 "Умјетничке школе",
-                "Вјерске школе",
-                "Средње школе за ученике са сметњама у развоју",
+                "religious_schools",
+                "high_schools_for_students_with_disabilities",
                 ""
               ]
             },
-            "title": "Врста школе"
+            "title": "type_of_school"
           },
           {
             "name": "Value",
@@ -4233,9 +4233,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -4254,7 +4254,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",
@@ -4319,11 +4319,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
-                "homes_for_children_and_youth_without_parental_care",
-                "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
-                "social_welfare_institutions_for_adults_with_disabilities",
-                "social_welfare_institutions_for_adults",
+                "Оба пола",
+                "Домови за дјецу и младе без родитељског старања",
+                "Установе социјалне заштите за дјецу, младе и одрасле са менталним и физичким инвалидитетом",
+                "Установе социјалне заштите за одрасле особе са инвалидитетом",
+                "Установе социјалне заштите за одрасле",
                 ""
               ]
             },
@@ -4334,9 +4334,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -4376,9 +4376,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -4414,7 +4414,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -4489,8 +4489,8 @@
             "constraints": {
               "enum": [
                 "M",
-                "F",
-                "Укупно",
+                "Ж",
+                "Оба пола",
                 ""
               ]
             },
@@ -4580,9 +4580,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -4652,7 +4652,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -4741,9 +4741,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -4813,7 +4813,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -4946,7 +4946,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 ""
               ]
             },
@@ -5073,99 +5073,99 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "banovici",
-                "bihac",
-                "bosanska_krupa",
-                "bosanski_petrovac",
-                "bosansko_grahovo",
-                "breza",
-                "bugojno",
-                "busovaca",
-                "buzim",
-                "cazin",
+                "Бановићи",
+                "Бихаћ",
+                "Босанска Крупа",
+                "Босански Петровац",
+                "Босанско Грахово",
+                "Бреза",
+                "Бугојно",
+                "Бусовача",
+                "Бужим",
+                "Цазин",
                 "centar_sarajevo",
-                "capljina",
-                "celic",
-                "citluk",
+                "Чапљина",
+                "Челић",
+                "Читлук",
                 "doboj-istok",
                 "doboj-jug",
-                "dobretici",
+                "Добретићи",
                 "domaljevac-samac",
-                "donji_vakuf",
-                "drvar",
+                "Доњи Вакуф",
+                "Дрвар",
                 "foca-fbih",
-                "fojnica",
-                "glamoc",
-                "gorazde",
+                "Фојница",
+                "Гламоч",
+                "Горажде",
                 "gornji_vakuf-uskoplje",
-                "gracanica",
-                "gradacac",
-                "grude",
+                "Грачаница",
+                "Градачац",
+                "Груде",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "jablanica",
-                "jajce",
-                "kakanj",
-                "kalesija",
-                "kiseljak",
-                "kladanj",
-                "kljuc",
-                "konjic",
-                "kresevo",
+                "Јабланица",
+                "Јајце",
+                "Какањ",
+                "Калесија",
+                "Кисељак",
+                "Кладањ",
+                "Кључ",
+                "Коњиц",
+                "Крешево",
                 "Крупа на Уни",
                 "kupres-fbih",
-                "livno",
-                "lukavac",
-                "ljubuski",
-                "maglaj",
-                "mostar",
-                "neum",
+                "Ливно",
+                "Лукавац",
+                "Љубушки",
+                "Маглај",
+                "Мостар",
+                "Неум",
                 "novi_grad_sarajevo",
-                "novi_travnik",
+                "Нови Травник",
                 "novo_sarajevo",
-                "odzak",
-                "olovo",
-                "orasje",
+                "Оџак",
+                "Олово",
+                "Орашје",
                 "pale-fbih",
-                "posusje",
-                "prozor",
-                "ravno",
-                "sanski_most",
-                "sapna",
-                "srebrenik",
+                "Посушје",
+                "Прозор",
+                "Равно",
+                "Сански Мост",
+                "Сапна",
+                "Сребреник",
                 "stari_grad_sarajevo",
-                "stolac",
-                "siroki_brijeg",
-                "teocak",
-                "tesanj",
-                "tomislavgrad",
-                "travnik",
+                "Столац",
+                "Широки Бријег",
+                "Теочак",
+                "Тешањ",
+                "Томиславград",
+                "Травник",
                 "trnovo-fbih",
-                "tuzla",
-                "usora",
-                "vares",
-                "velika_kladusa",
-                "visoko",
-                "vitez",
+                "Тузла",
+                "Усора",
+                "Вареш",
+                "Велика Кладуша",
+                "Високо",
+                "Витез",
                 "vogosca",
-                "zavidovici",
-                "zenica",
-                "zepce",
-                "zivinice",
+                "Завидовићи",
+                "Зеница",
+                "Жепче",
+                "Живинице",
                 ""
               ]
             },
-            "title": "Град/општина"
+            "title": "Oпштина"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -5198,7 +5198,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",
@@ -5275,7 +5275,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",
@@ -5311,89 +5311,89 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "banovici",
-                "bihac",
-                "bosanska_krupa",
-                "bosanski_petrovac",
-                "bosansko_grahovo",
-                "breza",
-                "bugojno",
-                "busovaca",
-                "buzim",
-                "cazin",
+                "Бановићи",
+                "Бихаћ",
+                "Босанска Крупа",
+                "Босански Петровац",
+                "Босанско Грахово",
+                "Бреза",
+                "Бугојно",
+                "Бусовача",
+                "Бужим",
+                "Цазин",
                 "centar_sarajevo",
-                "capljina",
-                "celic",
-                "citluk",
+                "Чапљина",
+                "Челић",
+                "Читлук",
                 "doboj-istok",
                 "doboj-jug",
-                "dobretici",
+                "Добретићи",
                 "domaljevac-samac",
-                "donji_vakuf",
-                "drvar",
+                "Доњи Вакуф",
+                "Дрвар",
                 "foca-fbih",
-                "fojnica",
-                "glamoc",
-                "gorazde",
+                "Фојница",
+                "Гламоч",
+                "Горажде",
                 "gornji_vakuf-uskoplje",
-                "gracanica",
-                "gradacac",
-                "grude",
+                "Грачаница",
+                "Градачац",
+                "Груде",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "jablanica",
-                "jajce",
-                "kakanj",
-                "kalesija",
-                "kiseljak",
-                "kladanj",
-                "kljuc",
-                "konjic",
-                "kresevo",
+                "Јабланица",
+                "Јајце",
+                "Какањ",
+                "Калесија",
+                "Кисељак",
+                "Кладањ",
+                "Кључ",
+                "Коњиц",
+                "Крешево",
                 "kupres-fbih",
-                "livno",
-                "lukavac",
-                "ljubuski",
-                "maglaj",
-                "mostar",
-                "neum",
+                "Ливно",
+                "Лукавац",
+                "Љубушки",
+                "Маглај",
+                "Мостар",
+                "Неум",
                 "novi_grad_sarajevo",
-                "novi_travnik",
+                "Нови Травник",
                 "novo_sarajevo",
-                "odzak",
-                "olovo",
-                "orasje",
+                "Оџак",
+                "Олово",
+                "Орашје",
                 "pale-fbih",
-                "posusje",
-                "prozor",
-                "ravno",
-                "sanski_most",
-                "sapna",
-                "srebrenik",
+                "Посушје",
+                "Прозор",
+                "Равно",
+                "Сански Мост",
+                "Сапна",
+                "Сребреник",
                 "stari_grad_sarajevo",
-                "stolac",
-                "siroki_brijeg",
-                "teocak",
-                "tesanj",
-                "tomislavgrad",
-                "travnik",
+                "Столац",
+                "Широки Бријег",
+                "Теочак",
+                "Тешањ",
+                "Томиславград",
+                "Травник",
                 "trnovo-fbih",
-                "tuzla",
-                "usora",
-                "vares",
-                "velika_kladusa",
-                "visoko",
-                "vitez",
+                "Тузла",
+                "Усора",
+                "Вареш",
+                "Велика Кладуша",
+                "Високо",
+                "Витез",
                 "vogosca",
-                "zavidovici",
-                "zenica",
-                "zepce",
-                "zivinice",
+                "Завидовићи",
+                "Зеница",
+                "Жепче",
+                "Живинице",
                 ""
               ]
             },
-            "title": "Град/општина"
+            "title": "Oпштина"
           },
           {
             "name": "Literacy",
@@ -5401,12 +5401,12 @@
             "constraints": {
               "enum": [
                 "literate",
-                "Неписмено",
+                "illiterate",
                 "Непознато",
                 ""
               ]
             },
-            "title": "Писменост"
+            "title": "Literacy"
           },
           {
             "name": "Sex",
@@ -5414,7 +5414,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -5455,7 +5455,7 @@
             "constraints": {
               "enum": [
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -5495,7 +5495,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "UNIT_MEASURE",
@@ -5536,18 +5536,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "employees",
+                "Запосленици",
                 ""
               ]
             },
-            "title": "status_in_employment"
+            "title": "Радни статус"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 ""
               ]
             },
@@ -5605,9 +5605,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -5697,9 +5697,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -5760,25 +5760,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Гимназијe",
-                "Средње техничке школе",
-                "Средње стручне школе",
+                "Гимназија",
+                "technical_high_schools",
+                "vocational_high_schools",
                 "Умјетничке школе",
-                "Вјерске школе",
-                "Средње школе за ученике са сметњама у развоју",
+                "religious_schools",
+                "high_schools_for_students_with_disabilities",
                 ""
               ]
             },
-            "title": "Врста школе"
+            "title": "type_of_school"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -5847,9 +5847,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -5868,7 +5868,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",
@@ -5933,98 +5933,98 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "banovici",
-                "bihac",
-                "bosanska_krupa",
-                "bosanski_petrovac",
-                "bosansko_grahovo",
-                "breza",
-                "bugojno",
-                "busovaca",
-                "buzim",
-                "cazin",
+                "Бановићи",
+                "Бихаћ",
+                "Босанска Крупа",
+                "Босански Петровац",
+                "Босанско Грахово",
+                "Бреза",
+                "Бугојно",
+                "Бусовача",
+                "Бужим",
+                "Цазин",
                 "centar_sarajevo",
-                "capljina",
-                "celic",
-                "citluk",
+                "Чапљина",
+                "Челић",
+                "Читлук",
                 "doboj-istok",
                 "doboj-jug",
-                "dobretici",
+                "Добретићи",
                 "domaljevac-samac",
-                "donji_vakuf",
-                "drvar",
+                "Доњи Вакуф",
+                "Дрвар",
                 "foca-fbih",
-                "fojnica",
-                "glamoc",
-                "gorazde",
+                "Фојница",
+                "Гламоч",
+                "Горажде",
                 "gornji_vakuf-uskoplje",
-                "gracanica",
-                "gradacac",
-                "grude",
+                "Грачаница",
+                "Градачац",
+                "Груде",
                 "hadzici",
                 "ilidza",
                 "ilijas",
-                "jablanica",
-                "jajce",
-                "kakanj",
-                "kalesija",
-                "kiseljak",
-                "kladanj",
-                "kljuc",
-                "konjic",
-                "kresevo",
+                "Јабланица",
+                "Јајце",
+                "Какањ",
+                "Калесија",
+                "Кисељак",
+                "Кладањ",
+                "Кључ",
+                "Коњиц",
+                "Крешево",
                 "kupres-fbih",
-                "livno",
-                "lukavac",
-                "ljubuski",
-                "maglaj",
-                "mostar",
-                "neum",
+                "Ливно",
+                "Лукавац",
+                "Љубушки",
+                "Маглај",
+                "Мостар",
+                "Неум",
                 "novi_grad_sarajevo",
-                "novi_travnik",
+                "Нови Травник",
                 "novo_sarajevo",
-                "odzak",
-                "olovo",
-                "orasje",
+                "Оџак",
+                "Олово",
+                "Орашје",
                 "pale-fbih",
-                "posusje",
-                "prozor",
-                "ravno",
-                "sanski_most",
-                "sapna",
-                "srebrenik",
+                "Посушје",
+                "Прозор",
+                "Равно",
+                "Сански Мост",
+                "Сапна",
+                "Сребреник",
                 "stari_grad_sarajevo",
-                "stolac",
-                "siroki_brijeg",
-                "teocak",
-                "tesanj",
-                "tomislavgrad",
-                "travnik",
+                "Столац",
+                "Широки Бријег",
+                "Теочак",
+                "Тешањ",
+                "Томиславград",
+                "Травник",
                 "trnovo-fbih",
-                "tuzla",
-                "usora",
-                "vares",
-                "velika_kladusa",
-                "visoko",
-                "vitez",
+                "Тузла",
+                "Усора",
+                "Вареш",
+                "Велика Кладуша",
+                "Високо",
+                "Витез",
                 "vogosca",
-                "zavidovici",
-                "zenica",
-                "zepce",
-                "zivinice",
+                "Завидовићи",
+                "Зеница",
+                "Жепче",
+                "Живинице",
                 ""
               ]
             },
-            "title": "Град/општина"
+            "title": "Oпштина"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -6035,13 +6035,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Без икаквог образовања",
-                "Непотпуно основно образовање",
-                "Основна школа",
-                "Средња школа",
-                "Специјализација послије средње школе",
-                "Виша школа и први степен факултета",
-                "Висока школа / факултет / академија / универзитет",
+                "Без образовања",
+                "incomplete_elementary",
+                "elementary_education",
+                "secondary_education",
+                "secondary_specialization",
+                "first_degree",
+                "university_degree",
                 ""
               ]
             },
@@ -6081,9 +6081,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
@@ -6219,7 +6219,7 @@
                 ""
               ]
             },
-            "title": "Старост"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",

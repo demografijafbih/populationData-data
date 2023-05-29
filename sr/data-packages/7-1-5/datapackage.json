@@ -25,18 +25,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "employees",
+                "Запосленици",
                 ""
               ]
             },
-            "title": "status_in_employment"
+            "title": "Радни статус"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 ""
               ]
             },

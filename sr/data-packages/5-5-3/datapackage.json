@@ -43,9 +43,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mагистри наука",
-                "Мастери",
-                "Специјалисти",
+                "masters_of_science",
+                "masters",
+                "specialists",
                 ""
               ]
             },
@@ -56,9 +56,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },

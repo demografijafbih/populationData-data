@@ -43,20 +43,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oбразовање",
+                "Образовање",
                 "Умјетност и хуманистичке науке",
-                "Друштвене науке, новинарство и информисање",
-                "Пословање, администрација и право",
-                "Природне науке, математика и статистика",
+                "social_sciences,_journalism_and_information",
+                "business,_administration_and_law",
+                "natural_sciences,_mathematics_and_statistics",
                 "Информационе и комуникационе технологије",
-                "Инжeњерство, производња и грађевинарство",
-                "Пољопривреда, шумарство, рибарство и ветеринарство",
+                "engineering,_production_and_construction",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
                 "Здравство и социјална заштита",
                 "Услуге",
                 ""
               ]
             },
-            "title": "Област образовања"
+            "title": "scientific_field"
           },
           {
             "name": "Value",

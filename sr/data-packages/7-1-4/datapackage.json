@@ -25,22 +25,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "employees",
-                "self_employed",
-                "unpaid_family_workers",
+                "Запосленици",
+                "Самозапосленици",
+                "Неплаћени помажући чланови",
                 ""
               ]
             },
-            "title": "status_in_employment"
+            "title": "Радни статус"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "Оба пола",
                 "M",
-                "F",
+                "Ж",
                 ""
               ]
             },
