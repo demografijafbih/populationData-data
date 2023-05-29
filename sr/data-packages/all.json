@@ -1099,9 +1099,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "masters_of_science",
-                "masters",
-                "specialists",
+                "Магистри наука",
+                "Мастери",
+                "Специјалисти",
                 ""
               ]
             },
