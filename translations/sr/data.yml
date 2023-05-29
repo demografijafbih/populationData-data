@@ -389,13 +389,6 @@ M: M
 population_sex: Пол
 _T: Оба пола
 status_in_employment: Радни статус
-Seeing: Потешкоће са видом
-Hearing: Потешкоће са слухом
-walking_or_climbing_up_the_stairs: Потешкоће са ходом или пењањем уз степенице
-remembering_or_concentration: Потешкоће са памћењем
-self_care: Потешкоће са одјевањем и одржавањем личне хигијене
-Communication: Потешкоће са комуникацијом
-multiple_disabilities: Вишеструке потешкоће
 banovici: "Бановићи"
 bihac: "Бихаћ"
 bosanska_krupa: "Босанска Крупа"
@@ -409,17 +402,17 @@ capljina: "Чапљина"
 cazin: "Цазин"
 celic: "Челић"
 citluk: "Читлук"
-doboj_istok: "Добој-Исток"
-doboj_jug: "Добој-Југ"
+doboj-istok: "Добој-Исток"
+doboj-jug: "Добој-Југ"
 dobretici: "Добретићи"
-domaljevac_samac: "Домаљевац-Шамац"
-donji_vakuf: "Доњи Вакуф"
+domaljevac-samac: "Домаљевац-Шамац"
+donji-vakuf: "Доњи Вакуф"
 drvar: "Дрвар"
 fojnica: "Фојница"
-foca_fbih: "Фоча-ФБиХ"
+foca-fbih: "Фоча-ФБиХ"
 glamoc: "Гламоч"
 gorazde: "Горажде"
-gornji_vakuf_uskoplje: "Горњи Вакуф-Ускопље"
+gornji_vakuf-uskoplje: "Горњи Вакуф-Ускопље"
 gradacac: "Градачац"
 gracanica: "Грачаница"
 grude: "Груде"
@@ -432,7 +425,7 @@ kladanj: "Кладањ"
 kljuc: "Кључ"
 konjic: "Коњиц"
 kresevo: "Крешево"
-kupres_fbih: "Купрес-ФБиХ"
+kupres-fbih: "Купрес-ФБиХ"
 livno: "Ливно"
 ljubuski: "Љубушки"
 lukavac: "Лукавац"
@@ -443,20 +436,20 @@ novi_travnik: "Нови Травник"
 odzak: "Оџак"
 olovo: "Олово"
 orasje: "Орашје"
-pale_fbih: "Пале-ФБиХ"
+pale-fbih: "Пале-ФБиХ"
 posusje: "Посушје"
 prozor: "Прозор"
 ravno: "Равно"
 sanski_most: "Сански Мост"
 sapna: "Сапна"
-sarajevo_centar: "Сарајево-Центар"
-sarajevo_hadzici: "Сарајево-Хаџићи"
-sarajevo_ilidza: "Сарајево-Илиџа"
-sarajevo_ilijas: "Сарајево-Илијаш"
-sarajevo_novi_grad: "Сарајево-Нови Град"
-sarajevo_novo_sarajevo: "Сарајево-Ново Сарајево"
-sarajevo_stari_grad: "Сарајево-Стари Град"
-sarajevo_vogosca: "Сарајево-Вогошћа"
+sarajevo-centar: "Сарајево-Центар"
+sarajevo-hadzici: "Сарајево-Хаџићи"
+sarajevo-ilidza: "Сарајево-Илиџа"
+sarajevo-ilijas: "Сарајево-Илијаш"
+sarajevo-novi_grad: "Сарајево-Нови Град"
+sarajevo-novo_sarajevo: "Сарајево-Ново Сарајево"
+sarajevo-stari_grad: "Сарајево-Стари Град"
+sarajevo-vogosca: "Сарајево-Вогошћа"
 sekovici: "Шековићи"
 siroki_brijeg: "Широки Бријег"
 srebrenik: "Сребреник"
@@ -465,7 +458,7 @@ teocak: "Теочак"
 tesanj: "Тешањ"
 tomislavgrad: "Томиславград"
 travnik: "Травник"
-trnovo_fbih: "Трново-ФБиХ"
+trnovo-fbih: "Трново-ФБиХ"
 tuzla: "Тузла"
 usora: "Усора"
 vares: "Вареш"
@@ -491,3 +484,53 @@ Activity_rate: Стопа активности
 by_age_group_and_sex: према старосним групама и полу
 Employment_rate: Стопа запослености
 Unemployment_rate: Стопа незапослености
+employees: Запосленици
+self_employed: Самозапосленици
+unpaid_family_workers: Неплаћени помажући чланови
+federation_of_bih: Федерација Босне и Херцеговине
+una-sana_canton: Унско-сански кантон
+posavina_canton: ПОсавски кантон
+tuzla_canton: Тузлански кантон
+zenica-doboj_canton: Зеничко-добојски кантон
+bosnian-podrinje_canton: Босанско-подрињски кантон
+central_bosnia_canton: Средњобосански кантон
+herzegovina-neretva_canton: Херцеговачко-неретвански кантон
+west_herzegovina_canton: Западнохерцеговчки кантон
+sarajevo_canton: Кантон Сарајево
+canton_10: Кантон 10
+number_birth_rate: Стопа наталитета
+number_death_rate: Стопа морталитета
+Admin_Area: Административна јединица
+number_marriage_rate: Стопа нупцијалитета
+T: Укупно
+did_not_give_birth: Нису рађале
+one_child: Једно дијете
+two_children: Двоје дјеце
+three_children: Троје дјеце
+four_children: Четверо дјеце
+5+_children: Петеро и више дјеце
+HH_size: Бројност домаћинства
+HH_agri: Пољопривредна активност
+agri_activity: Обављање пољопривредне активности
+agri_activity_sale: Обављање пољопривредне активности и продаја пољопривредних производа на тржишту
+literate: Писмено становништво
+illiterate: Неписмено становништво
+Literacy: Писменост
+no_education: Без образовања
+incomplete_elementary: Непотпуно основно образовање
+elementary_education: Основна школа
+secondary_education: Средња школа
+secondary_specialization: Специјализација послије средње школе
+first_degree: Виша школа и први степен факултета
+university_degree: Висока школа / факултет / академија / универзитет
+highest_attainment: Највиша завршена школа
+eyesight: Вид, иако носи наочаре
+hearing: Слух, иако користи слушни апарат
+walking: Ход или пењање уз степенице
+memory: Памћење или концентрација
+dressing: Одијевање и одржавање хигијене
+communication: Комуникација
+multiple_disabilities: Са више потешкоћа
+Disabilities: Врста потешкоће
+type_of_school: Врста школе
+No_of_births: Број дјеце
