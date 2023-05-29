@@ -13,17 +13,17 @@ Year,UNIT_MEASURE,Oпштина,Пол,Education,Value
 2013,Број,Чапљина,Оба пола,Без образовања,793
 2013,Број,Челић,Оба пола,Без образовања,685
 2013,Број,Читлук,Оба пола,Без образовања,369
-2013,Број,doboj-istok,Оба пола,Без образовања,682
-2013,Број,doboj-jug,Оба пола,Без образовања,130
+2013,Број,Добој-Исток,Оба пола,Без образовања,682
+2013,Број,Добој-Југ,Оба пола,Без образовања,130
 2013,Број,Добретићи,Оба пола,Без образовања,174
-2013,Број,domaljevac-samac,Оба пола,Без образовања,259
-2013,Број,Доњи Вакуф,Оба пола,Без образовања,631
+2013,Број,Домаљевац-Шамац,Оба пола,Без образовања,259
+2013,Број,donji_vakuf,Оба пола,Без образовања,631
 2013,Број,Дрвар,Оба пола,Без образовања,273
-2013,Број,foca-fbih,Оба пола,Без образовања,148
+2013,Број,Фоча-ФБиХ,Оба пола,Без образовања,148
 2013,Број,Фојница,Оба пола,Без образовања,681
 2013,Број,Гламоч,Оба пола,Без образовања,244
 2013,Број,Горажде,Оба пола,Без образовања,915
-2013,Број,gornji_vakuf-uskoplje,Оба пола,Без образовања,1145
+2013,Број,Горњи Вакуф-Ускопље,Оба пола,Без образовања,1145
 2013,Број,Грачаница,Оба пола,Без образовања,1989
 2013,Број,Градачац,Оба пола,Без образовања,1660
 2013,Број,Груде,Оба пола,Без образовања,526
@@ -39,7 +39,7 @@ Year,UNIT_MEASURE,Oпштина,Пол,Education,Value
 2013,Број,Кључ,Оба пола,Без образовања,918
 2013,Број,Коњиц,Оба пола,Без образовања,1320
 2013,Број,Крешево,Оба пола,Без образовања,290
-2013,Број,kupres-fbih,Оба пола,Без образовања,217
+2013,Број,Купрес-ФБиХ,Оба пола,Без образовања,217
 2013,Број,Ливно,Оба пола,Без образовања,1393
 2013,Број,Лукавац,Оба пола,Без образовања,2081
 2013,Број,Љубушки,Оба пола,Без образовања,691
@@ -52,7 +52,7 @@ Year,UNIT_MEASURE,Oпштина,Пол,Education,Value
 2013,Број,Оџак,Оба пола,Без образовања,899
 2013,Број,Олово,Оба пола,Без образовања,511
 2013,Број,Орашје,Оба пола,Без образовања,719
-2013,Број,pale-fbih,Оба пола,Без образовања,70
+2013,Број,Пале-ФБиХ,Оба пола,Без образовања,70
 2013,Број,Посушје,Оба пола,Без образовања,779
 2013,Број,Прозор,Оба пола,Без образовања,943
 2013,Број,Равно,Оба пола,Без образовања,83
@@ -66,7 +66,7 @@ Year,UNIT_MEASURE,Oпштина,Пол,Education,Value
 2013,Број,Тешањ,Оба пола,Без образовања,1730
 2013,Број,Томиславград,Оба пола,Без образовања,1432
 2013,Број,Травник,Оба пола,Без образовања,2182
-2013,Број,trnovo-fbih,Оба пола,Без образовања,203
+2013,Број,Трново-ФБиХ,Оба пола,Без образовања,203
 2013,Број,Тузла,Оба пола,Без образовања,3226
 2013,Број,Усора,Оба пола,Без образовања,420
 2013,Број,Вареш,Оба пола,Без образовања,299
@@ -92,17 +92,17 @@ Year,UNIT_MEASURE,Oпштина,Пол,Education,Value
 2013,Број,Чапљина,M,Без образовања,106
 2013,Број,Челић,M,Без образовања,173
 2013,Број,Читлук,M,Без образовања,46
-2013,Број,doboj-istok,M,Без образовања,136
-2013,Број,doboj-jug,M,Без образовања,4
+2013,Број,Добој-Исток,M,Без образовања,136
+2013,Број,Добој-Југ,M,Без образовања,4
 2013,Број,Добретићи,M,Без образовања,34
-2013,Број,domaljevac-samac,M,Без образовања,54
-2013,Број,Доњи Вакуф,M,Без образовања,129
+2013,Број,Домаљевац-Шамац,M,Без образовања,54
+2013,Број,donji_vakuf,M,Без образовања,129
 2013,Број,Дрвар,M,Без образовања,39
-2013,Број,foca-fbih,M,Без образовања,24
+2013,Број,Фоча-ФБиХ,M,Без образовања,24
 2013,Број,Фојница,M,Без образовања,133
 2013,Број,Гламоч,M,Без образовања,40
 2013,Број,Горажде,M,Без образовања,118
-2013,Број,gornji_vakuf-uskoplje,M,Без образовања,260
+2013,Број,Горњи Вакуф-Ускопље,M,Без образовања,260
 2013,Број,Грачаница,M,Без образовања,353
 2013,Број,Градачац,M,Без образовања,344
 2013,Број,Груде,M,Без образовања,89
@@ -118,7 +118,7 @@ Year,UNIT_MEASURE,Oпштина,Пол,Education,Value
 2013,Број,Кључ,M,Без образовања,132
 2013,Број,Коњиц,M,Без образовања,204
 2013,Број,Крешево,M,Без образовања,41
-2013,Број,kupres-fbih,M,Без образовања,37
+2013,Број,Купрес-ФБиХ,M,Без образовања,37
 2013,Број,Ливно,M,Без образовања,201
 2013,Број,Лукавац,M,Без образовања,267
 2013,Број,Љубушки,M,Без образовања,91
@@ -131,7 +131,7 @@ Year,UNIT_MEASURE,Oпштина,Пол,Education,Value
 2013,Број,Оџак,M,Без образовања,182
 2013,Број,Олово,M,Без образовања,62
 2013,Број,Орашје,M,Без образовања,131
-2013,Број,pale-fbih,M,Без образовања,17
+2013,Број,Пале-ФБиХ,M,Без образовања,17
 2013,Број,Посушје,M,Без образовања,134
 2013,Број,Прозор,M,Без образовања,204
 2013,Број,Равно,M,Без образовања,7
@@ -145,7 +145,7 @@ Year,UNIT_MEASURE,Oпштина,Пол,Education,Value
 2013,Број,Тешањ,M,Без образовања,266
 2013,Број,Томиславград,M,Без образовања,256
 2013,Број,Травник,M,Без образовања,445
-2013,Број,trnovo-fbih,M,Без образовања,28
+2013,Број,Трново-ФБиХ,M,Без образовања,28
 2013,Број,Тузла,M,Без образовања,413
 2013,Број,Усора,M,Без образовања,48
 2013,Број,Вареш,M,Без образовања,30
@@ -171,17 +171,17 @@ Year,UNIT_MEASURE,Oпштина,Пол,Education,Value
 2013,Број,Чапљина,Ж,Без образовања,687
 2013,Број,Челић,Ж,Без образовања,512
 2013,Број,Читлук,Ж,Без образовања,323
-2013,Број,doboj-istok,Ж,Без образовања,546
-2013,Број,doboj-jug,Ж,Без образовања,126
+2013,Број,Добој-Исток,Ж,Без образовања,546
+2013,Број,Добој-Југ,Ж,Без образовања,126
 2013,Број,Добретићи,Ж,Без образовања,140
-2013,Број,domaljevac-samac,Ж,Без образовања,205
-2013,Број,Доњи Вакуф,Ж,Без образовања,502
+2013,Број,Домаљевац-Шамац,Ж,Без образовања,205
+2013,Број,donji_vakuf,Ж,Без образовања,502
 2013,Број,Дрвар,Ж,Без образовања,234
-2013,Број,foca-fbih,Ж,Без образовања,124
+2013,Број,Фоча-ФБиХ,Ж,Без образовања,124
 2013,Број,Фојница,Ж,Без образовања,548
 2013,Број,Гламоч,Ж,Без образовања,204
 2013,Број,Горажде,Ж,Без образовања,797
-2013,Број,gornji_vakuf-uskoplje,Ж,Без образовања,885
+2013,Број,Горњи Вакуф-Ускопље,Ж,Без образовања,885
 2013,Број,Грачаница,Ж,Без образовања,1636
 2013,Број,Градачац,Ж,Без образовања,1316
 2013,Број,Груде,Ж,Без образовања,437
@@ -197,7 +197,7 @@ Year,UNIT_MEASURE,Oпштина,Пол,Education,Value
 2013,Број,Кључ,Ж,Без образовања,786
 2013,Број,Коњиц,Ж,Без образовања,1116
 2013,Број,Крешево,Ж,Без образовања,249
-2013,Број,kupres-fbih,Ж,Без образовања,180
+2013,Број,Купрес-ФБиХ,Ж,Без образовања,180
 2013,Број,Ливно,Ж,Без образовања,1192
 2013,Број,Лукавац,Ж,Без образовања,1814
 2013,Број,Љубушки,Ж,Без образовања,600
@@ -210,7 +210,7 @@ Year,UNIT_MEASURE,Oпштина,Пол,Education,Value
 2013,Број,Оџак,Ж,Без образовања,717
 2013,Број,Олово,Ж,Без образовања,449
 2013,Број,Орашје,Ж,Без образовања,588
-2013,Број,pale-fbih,Ж,Без образовања,53
+2013,Број,Пале-ФБиХ,Ж,Без образовања,53
 2013,Број,Посушје,Ж,Без образовања,645
 2013,Број,Прозор,Ж,Без образовања,739
 2013,Број,Равно,Ж,Без образовања,76
@@ -224,7 +224,7 @@ Year,UNIT_MEASURE,Oпштина,Пол,Education,Value
 2013,Број,Тешањ,Ж,Без образовања,1464
 2013,Број,Томиславград,Ж,Без образовања,1176
 2013,Број,Травник,Ж,Без образовања,1737
-2013,Број,trnovo-fbih,Ж,Без образовања,175
+2013,Број,Трново-ФБиХ,Ж,Без образовања,175
 2013,Број,Тузла,Ж,Без образовања,2813
 2013,Број,Усора,Ж,Без образовања,372
 2013,Број,Вареш,Ж,Без образовања,269
@@ -236,1425 +236,1425 @@ Year,UNIT_MEASURE,Oпштина,Пол,Education,Value
 2013,Број,Зеница,Ж,Без образовања,2302
 2013,Број,Жепче,Ж,Без образовања,968
 2013,Број,Живинице,Ж,Без образовања,2304
-2013,Број,Бановићи,Оба пола,incomplete_elementary,1845
-2013,Број,Бихаћ,Оба пола,incomplete_elementary,3478
-2013,Број,Босанска Крупа,Оба пола,incomplete_elementary,2675
-2013,Број,Босански Петровац,Оба пола,incomplete_elementary,782
-2013,Број,Босанско Грахово,Оба пола,incomplete_elementary,337
-2013,Број,Бреза,Оба пола,incomplete_elementary,1289
-2013,Број,Бугојно,Оба пола,incomplete_elementary,2265
-2013,Број,Бусовача,Оба пола,incomplete_elementary,1492
-2013,Број,Бужим,Оба пола,incomplete_elementary,1875
-2013,Број,Цазин,Оба пола,incomplete_elementary,5704
-2013,Број,centar_sarajevo,Оба пола,incomplete_elementary,1129
-2013,Број,Чапљина,Оба пола,incomplete_elementary,1671
-2013,Број,Челић,Оба пола,incomplete_elementary,1336
-2013,Број,Читлук,Оба пола,incomplete_elementary,1074
-2013,Број,doboj-istok,Оба пола,incomplete_elementary,974
-2013,Број,doboj-jug,Оба пола,incomplete_elementary,266
-2013,Број,Добретићи,Оба пола,incomplete_elementary,150
-2013,Број,domaljevac-samac,Оба пола,incomplete_elementary,687
-2013,Број,Доњи Вакуф,Оба пола,incomplete_elementary,1308
-2013,Број,Дрвар,Оба пола,incomplete_elementary,534
-2013,Број,foca-fbih,Оба пола,incomplete_elementary,225
-2013,Број,Фојница,Оба пола,incomplete_elementary,1369
-2013,Број,Гламоч,Оба пола,incomplete_elementary,443
-2013,Број,Горажде,Оба пола,incomplete_elementary,1388
-2013,Број,gornji_vakuf-uskoplje,Оба пола,incomplete_elementary,1628
-2013,Број,Грачаница,Оба пола,incomplete_elementary,4661
-2013,Број,Градачац,Оба пола,incomplete_elementary,4577
-2013,Број,Груде,Оба пола,incomplete_elementary,1079
-2013,Број,hadzici,Оба пола,incomplete_elementary,1630
-2013,Број,ilidza,Оба пола,incomplete_elementary,2597
-2013,Број,ilijas,Оба пола,incomplete_elementary,1548
-2013,Број,Јабланица,Оба пола,incomplete_elementary,1031
-2013,Број,Јајце,Оба пола,incomplete_elementary,3291
-2013,Број,Какањ,Оба пола,incomplete_elementary,3704
-2013,Број,Калесија,Оба пола,incomplete_elementary,3528
-2013,Број,Кисељак,Оба пола,incomplete_elementary,1873
-2013,Број,Кладањ,Оба пола,incomplete_elementary,1154
-2013,Број,Кључ,Оба пола,incomplete_elementary,1516
-2013,Број,Коњиц,Оба пола,incomplete_elementary,2665
-2013,Број,Крешево,Оба пола,incomplete_elementary,477
-2013,Број,kupres-fbih,Оба пола,incomplete_elementary,421
-2013,Број,Ливно,Оба пола,incomplete_elementary,3312
-2013,Број,Лукавац,Оба пола,incomplete_elementary,4069
-2013,Број,Љубушки,Оба пола,incomplete_elementary,2547
-2013,Број,Маглај,Оба пола,incomplete_elementary,2087
-2013,Број,Мостар,Оба пола,incomplete_elementary,4310
-2013,Број,Неум,Оба пола,incomplete_elementary,282
-2013,Број,novi_grad_sarajevo,Оба пола,incomplete_elementary,4062
-2013,Број,Нови Травник,Оба пола,incomplete_elementary,1863
-2013,Број,novo_sarajevo,Оба пола,incomplete_elementary,1351
-2013,Број,Оџак,Оба пола,incomplete_elementary,1925
-2013,Број,Олово,Оба пола,incomplete_elementary,1122
-2013,Број,Орашје,Оба пола,incomplete_elementary,2799
-2013,Број,pale-fbih,Оба пола,incomplete_elementary,92
-2013,Број,Посушје,Оба пола,incomplete_elementary,864
-2013,Број,Прозор,Оба пола,incomplete_elementary,1507
-2013,Број,Равно,Оба пола,incomplete_elementary,206
-2013,Број,Сански Мост,Оба пола,incomplete_elementary,2511
-2013,Број,Сапна,Оба пола,incomplete_elementary,1367
-2013,Број,Сребреник,Оба пола,incomplete_elementary,4665
-2013,Број,stari_grad_sarajevo,Оба пола,incomplete_elementary,1020
-2013,Број,Столац,Оба пола,incomplete_elementary,902
-2013,Број,Широки Бријег,Оба пола,incomplete_elementary,1777
-2013,Број,Теочак,Оба пола,incomplete_elementary,762
-2013,Број,Тешањ,Оба пола,incomplete_elementary,3225
-2013,Број,Томиславград,Оба пола,incomplete_elementary,2290
-2013,Број,Травник,Оба пола,incomplete_elementary,5388
-2013,Број,trnovo-fbih,Оба пола,incomplete_elementary,217
-2013,Број,Тузла,Оба пола,incomplete_elementary,6228
-2013,Број,Усора,Оба пола,incomplete_elementary,478
-2013,Број,Вареш,Оба пола,incomplete_elementary,1345
-2013,Број,Велика Кладуша,Оба пола,incomplete_elementary,5157
-2013,Број,Високо,Оба пола,incomplete_elementary,3457
-2013,Број,Витез,Оба пола,incomplete_elementary,1941
-2013,Број,vogosca,Оба пола,incomplete_elementary,1115
-2013,Број,Завидовићи,Оба пола,incomplete_elementary,3318
-2013,Број,Зеница,Оба пола,incomplete_elementary,8547
-2013,Број,Жепче,Оба пола,incomplete_elementary,2487
-2013,Број,Живинице,Оба пола,incomplete_elementary,5685
-2013,Број,Бановићи,M,incomplete_elementary,295
-2013,Број,Бихаћ,M,incomplete_elementary,1050
-2013,Број,Босанска Крупа,M,incomplete_elementary,998
-2013,Број,Босански Петровац,M,incomplete_elementary,284
-2013,Број,Босанско Грахово,M,incomplete_elementary,109
-2013,Број,Бреза,M,incomplete_elementary,303
-2013,Број,Бугојно,M,incomplete_elementary,621
-2013,Број,Бусовача,M,incomplete_elementary,359
-2013,Број,Бужим,M,incomplete_elementary,703
-2013,Број,Цазин,M,incomplete_elementary,2086
-2013,Број,centar_sarajevo,M,incomplete_elementary,181
-2013,Број,Чапљина,M,incomplete_elementary,425
-2013,Број,Челић,M,incomplete_elementary,544
-2013,Број,Читлук,M,incomplete_elementary,325
-2013,Број,doboj-istok,M,incomplete_elementary,279
-2013,Број,doboj-jug,M,incomplete_elementary,61
-2013,Број,Добретићи,M,incomplete_elementary,81
-2013,Број,domaljevac-samac,M,incomplete_elementary,297
-2013,Број,Доњи Вакуф,M,incomplete_elementary,370
-2013,Број,Дрвар,M,incomplete_elementary,105
-2013,Број,foca-fbih,M,incomplete_elementary,71
-2013,Број,Фојница,M,incomplete_elementary,466
-2013,Број,Гламоч,M,incomplete_elementary,146
-2013,Број,Горажде,M,incomplete_elementary,309
-2013,Број,gornji_vakuf-uskoplje,M,incomplete_elementary,449
-2013,Број,Грачаница,M,incomplete_elementary,1278
-2013,Број,Градачац,M,incomplete_elementary,1387
-2013,Број,Груде,M,incomplete_elementary,352
-2013,Број,hadzici,M,incomplete_elementary,272
-2013,Број,ilidza,M,incomplete_elementary,419
-2013,Број,ilijas,M,incomplete_elementary,336
-2013,Број,Јабланица,M,incomplete_elementary,254
-2013,Број,Јајце,M,incomplete_elementary,1039
-2013,Број,Какањ,M,incomplete_elementary,821
-2013,Број,Калесија,M,incomplete_elementary,878
-2013,Број,Кисељак,M,incomplete_elementary,493
-2013,Број,Кладањ,M,incomplete_elementary,287
-2013,Број,Кључ,M,incomplete_elementary,536
-2013,Број,Коњиц,M,incomplete_elementary,778
-2013,Број,Крешево,M,incomplete_elementary,138
-2013,Број,kupres-fbih,M,incomplete_elementary,170
-2013,Број,Ливно,M,incomplete_elementary,1238
-2013,Број,Лукавац,M,incomplete_elementary,778
-2013,Број,Љубушки,M,incomplete_elementary,889
-2013,Број,Маглај,M,incomplete_elementary,553
-2013,Број,Мостар,M,incomplete_elementary,929
-2013,Број,Неум,M,incomplete_elementary,87
-2013,Број,novi_grad_sarajevo,M,incomplete_elementary,739
-2013,Број,Нови Травник,M,incomplete_elementary,359
-2013,Број,novo_sarajevo,M,incomplete_elementary,210
-2013,Број,Оџак,M,incomplete_elementary,718
-2013,Број,Олово,M,incomplete_elementary,243
-2013,Број,Орашје,M,incomplete_elementary,1110
-2013,Број,pale-fbih,M,incomplete_elementary,25
-2013,Број,Посушје,M,incomplete_elementary,293
-2013,Број,Прозор,M,incomplete_elementary,528
-2013,Број,Равно,M,incomplete_elementary,53
-2013,Број,Сански Мост,M,incomplete_elementary,849
-2013,Број,Сапна,M,incomplete_elementary,325
-2013,Број,Сребреник,M,incomplete_elementary,1428
-2013,Број,stari_grad_sarajevo,M,incomplete_elementary,155
-2013,Број,Столац,M,incomplete_elementary,278
-2013,Број,Широки Бријег,M,incomplete_elementary,538
-2013,Број,Теочак,M,incomplete_elementary,197
-2013,Број,Тешањ,M,incomplete_elementary,947
-2013,Број,Томиславград,M,incomplete_elementary,803
-2013,Број,Травник,M,incomplete_elementary,1567
-2013,Број,trnovo-fbih,M,incomplete_elementary,67
-2013,Број,Тузла,M,incomplete_elementary,1450
-2013,Број,Усора,M,incomplete_elementary,178
-2013,Број,Вареш,M,incomplete_elementary,264
-2013,Број,Велика Кладуша,M,incomplete_elementary,2005
-2013,Број,Високо,M,incomplete_elementary,921
-2013,Број,Витез,M,incomplete_elementary,481
-2013,Број,vogosca,M,incomplete_elementary,189
-2013,Број,Завидовићи,M,incomplete_elementary,1010
-2013,Број,Зеница,M,incomplete_elementary,1864
-2013,Број,Жепче,M,incomplete_elementary,743
-2013,Број,Живинице,M,incomplete_elementary,1104
-2013,Број,Бановићи,Ж,incomplete_elementary,1550
-2013,Број,Бихаћ,Ж,incomplete_elementary,2428
-2013,Број,Босанска Крупа,Ж,incomplete_elementary,1677
-2013,Број,Босански Петровац,Ж,incomplete_elementary,498
-2013,Број,Босанско Грахово,Ж,incomplete_elementary,228
-2013,Број,Бреза,Ж,incomplete_elementary,986
-2013,Број,Бугојно,Ж,incomplete_elementary,1644
-2013,Број,Бусовача,Ж,incomplete_elementary,1133
-2013,Број,Бужим,Ж,incomplete_elementary,1172
-2013,Број,Цазин,Ж,incomplete_elementary,3618
-2013,Број,centar_sarajevo,Ж,incomplete_elementary,948
-2013,Број,Чапљина,Ж,incomplete_elementary,1246
-2013,Број,Челић,Ж,incomplete_elementary,792
-2013,Број,Читлук,Ж,incomplete_elementary,749
-2013,Број,doboj-istok,Ж,incomplete_elementary,695
-2013,Број,doboj-jug,Ж,incomplete_elementary,205
-2013,Број,Добретићи,Ж,incomplete_elementary,69
-2013,Број,domaljevac-samac,Ж,incomplete_elementary,390
-2013,Број,Доњи Вакуф,Ж,incomplete_elementary,938
-2013,Број,Дрвар,Ж,incomplete_elementary,429
-2013,Број,foca-fbih,Ж,incomplete_elementary,154
-2013,Број,Фојница,Ж,incomplete_elementary,903
-2013,Број,Гламоч,Ж,incomplete_elementary,297
-2013,Број,Горажде,Ж,incomplete_elementary,1079
-2013,Број,gornji_vakuf-uskoplje,Ж,incomplete_elementary,1179
-2013,Број,Грачаница,Ж,incomplete_elementary,3383
-2013,Број,Градачац,Ж,incomplete_elementary,3190
-2013,Број,Груде,Ж,incomplete_elementary,727
-2013,Број,hadzici,Ж,incomplete_elementary,1358
-2013,Број,ilidza,Ж,incomplete_elementary,2178
-2013,Број,ilijas,Ж,incomplete_elementary,1212
-2013,Број,Јабланица,Ж,incomplete_elementary,777
-2013,Број,Јајце,Ж,incomplete_elementary,2252
-2013,Број,Какањ,Ж,incomplete_elementary,2883
-2013,Број,Калесија,Ж,incomplete_elementary,2650
-2013,Број,Кисељак,Ж,incomplete_elementary,1380
-2013,Број,Кладањ,Ж,incomplete_elementary,867
-2013,Број,Кључ,Ж,incomplete_elementary,980
-2013,Број,Коњиц,Ж,incomplete_elementary,1887
-2013,Број,Крешево,Ж,incomplete_elementary,339
-2013,Број,kupres-fbih,Ж,incomplete_elementary,251
-2013,Број,Ливно,Ж,incomplete_elementary,2074
-2013,Број,Лукавац,Ж,incomplete_elementary,3291
-2013,Број,Љубушки,Ж,incomplete_elementary,1658
-2013,Број,Маглај,Ж,incomplete_elementary,1534
-2013,Број,Мостар,Ж,incomplete_elementary,3381
-2013,Број,Неум,Ж,incomplete_elementary,195
-2013,Број,novi_grad_sarajevo,Ж,incomplete_elementary,3323
-2013,Број,Нови Травник,Ж,incomplete_elementary,1504
-2013,Број,novo_sarajevo,Ж,incomplete_elementary,1141
-2013,Број,Оџак,Ж,incomplete_elementary,1207
-2013,Број,Олово,Ж,incomplete_elementary,879
-2013,Број,Орашје,Ж,incomplete_elementary,1689
-2013,Број,pale-fbih,Ж,incomplete_elementary,67
-2013,Број,Посушје,Ж,incomplete_elementary,571
-2013,Број,Прозор,Ж,incomplete_elementary,979
-2013,Број,Равно,Ж,incomplete_elementary,153
-2013,Број,Сански Мост,Ж,incomplete_elementary,1662
-2013,Број,Сапна,Ж,incomplete_elementary,1042
-2013,Број,Сребреник,Ж,incomplete_elementary,3237
-2013,Број,stari_grad_sarajevo,Ж,incomplete_elementary,865
-2013,Број,Столац,Ж,incomplete_elementary,624
-2013,Број,Широки Бријег,Ж,incomplete_elementary,1239
-2013,Број,Теочак,Ж,incomplete_elementary,565
-2013,Број,Тешањ,Ж,incomplete_elementary,2278
-2013,Број,Томиславград,Ж,incomplete_elementary,1487
-2013,Број,Травник,Ж,incomplete_elementary,3821
-2013,Број,trnovo-fbih,Ж,incomplete_elementary,150
-2013,Број,Тузла,Ж,incomplete_elementary,4778
-2013,Број,Усора,Ж,incomplete_elementary,300
-2013,Број,Вареш,Ж,incomplete_elementary,1081
-2013,Број,Велика Кладуша,Ж,incomplete_elementary,3152
-2013,Број,Високо,Ж,incomplete_elementary,2536
-2013,Број,Витез,Ж,incomplete_elementary,1460
-2013,Број,vogosca,Ж,incomplete_elementary,926
-2013,Број,Завидовићи,Ж,incomplete_elementary,2308
-2013,Број,Зеница,Ж,incomplete_elementary,6683
-2013,Број,Жепче,Ж,incomplete_elementary,1744
-2013,Број,Живинице,Ж,incomplete_elementary,4581
-2013,Број,Бановићи,Оба пола,elementary_education,4419
-2013,Број,Бихаћ,Оба пола,elementary_education,11023
-2013,Број,Босанска Крупа,Оба пола,elementary_education,6093
-2013,Број,Босански Петровац,Оба пола,elementary_education,1564
-2013,Број,Босанско Грахово,Оба пола,elementary_education,425
-2013,Број,Бреза,Оба пола,elementary_education,2276
-2013,Број,Бугојно,Оба пола,elementary_education,6364
-2013,Број,Бусовача,Оба пола,elementary_education,3490
-2013,Број,Бужим,Оба пола,elementary_education,5643
-2013,Број,Цазин,Оба пола,elementary_education,17120
-2013,Број,centar_sarajevo,Оба пола,elementary_education,5446
-2013,Број,Чапљина,Оба пола,elementary_education,3780
-2013,Број,Челић,Оба пола,elementary_education,2884
-2013,Број,Читлук,Оба пола,elementary_education,2467
-2013,Број,doboj-istok,Оба пола,elementary_education,2026
-2013,Број,doboj-jug,Оба пола,elementary_education,854
-2013,Број,Добретићи,Оба пола,elementary_education,451
-2013,Број,domaljevac-samac,Оба пола,elementary_education,968
-2013,Број,Доњи Вакуф,Оба пола,elementary_education,3250
-2013,Број,Дрвар,Оба пола,elementary_education,1232
-2013,Број,foca-fbih,Оба пола,elementary_education,440
-2013,Број,Фојница,Оба пола,elementary_education,2448
-2013,Број,Гламоч,Оба пола,elementary_education,781
-2013,Број,Горажде,Оба пола,elementary_education,4197
-2013,Број,gornji_vakuf-uskoplje,Оба пола,elementary_education,4130
-2013,Број,Грачаница,Оба пола,elementary_education,9413
-2013,Број,Градачац,Оба пола,elementary_education,9408
-2013,Број,Груде,Оба пола,elementary_education,2466
-2013,Број,hadzici,Оба пола,elementary_education,4317
-2013,Број,ilidza,Оба пола,elementary_education,9887
-2013,Број,ilijas,Оба пола,elementary_education,3968
-2013,Број,Јабланица,Оба пола,elementary_education,1662
-2013,Број,Јајце,Оба пола,elementary_education,4851
-2013,Број,Какањ,Оба пола,elementary_education,7556
-2013,Број,Калесија,Оба пола,elementary_education,6841
-2013,Број,Кисељак,Оба пола,elementary_education,3616
-2013,Број,Кладањ,Оба пола,elementary_education,2730
-2013,Број,Кључ,Оба пола,elementary_education,3753
-2013,Број,Коњиц,Оба пола,elementary_education,5206
-2013,Број,Крешево,Оба пола,elementary_education,861
-2013,Број,kupres-fbih,Оба пола,elementary_education,714
-2013,Број,Ливно,Оба пола,elementary_education,5245
-2013,Број,Лукавац,Оба пола,elementary_education,7860
-2013,Број,Љубушки,Оба пола,elementary_education,3509
-2013,Број,Маглај,Оба пола,elementary_education,4758
-2013,Број,Мостар,Оба пола,elementary_education,14243
-2013,Број,Неум,Оба пола,elementary_education,608
-2013,Број,novi_grad_sarajevo,Оба пола,elementary_education,15973
-2013,Број,Нови Травник,Оба пола,elementary_education,4298
-2013,Број,novo_sarajevo,Оба пола,elementary_education,6456
-2013,Број,Оџак,Оба пола,elementary_education,3982
-2013,Број,Олово,Оба пола,elementary_education,2421
-2013,Број,Орашје,Оба пола,elementary_education,4015
-2013,Број,pale-fbih,Оба пола,elementary_education,249
-2013,Број,Посушје,Оба пола,elementary_education,3149
-2013,Број,Прозор,Оба пола,elementary_education,2471
-2013,Број,Равно,Оба пола,elementary_education,442
-2013,Број,Сански Мост,Оба пола,elementary_education,8907
-2013,Број,Сапна,Оба пола,elementary_education,2930
-2013,Број,Сребреник,Оба пола,elementary_education,8593
-2013,Број,stari_grad_sarajevo,Оба пола,elementary_education,4518
-2013,Број,Столац,Оба пола,elementary_education,2417
-2013,Број,Широки Бријег,Оба пола,elementary_education,3451
-2013,Број,Теочак,Оба пола,elementary_education,1846
-2013,Број,Тешањ,Оба пола,elementary_education,9991
-2013,Број,Томиславград,Оба пола,elementary_education,5398
-2013,Број,Травник,Оба пола,elementary_education,11614
-2013,Број,trnovo-fbih,Оба пола,elementary_education,290
-2013,Број,Тузла,Оба пола,elementary_education,15907
-2013,Број,Усора,Оба пола,elementary_education,1370
-2013,Број,Вареш,Оба пола,elementary_education,1649
-2013,Број,Велика Кладуша,Оба пола,elementary_education,11344
-2013,Број,Високо,Оба пола,elementary_education,6961
-2013,Број,Витез,Оба пола,elementary_education,4317
-2013,Број,vogosca,Оба пола,elementary_education,4100
-2013,Број,Завидовићи,Оба пола,elementary_education,7764
-2013,Број,Зеница,Оба пола,elementary_education,19375
-2013,Број,Жепче,Оба пола,elementary_education,6573
-2013,Број,Живинице,Оба пола,elementary_education,11174
-2013,Број,Бановићи,M,elementary_education,1488
-2013,Број,Бихаћ,M,elementary_education,4692
-2013,Број,Босанска Крупа,M,elementary_education,2713
-2013,Број,Босански Петровац,M,elementary_education,752
-2013,Број,Босанско Грахово,M,elementary_education,197
-2013,Број,Бреза,M,elementary_education,816
-2013,Број,Бугојно,M,elementary_education,2713
-2013,Број,Бусовача,M,elementary_education,1485
-2013,Број,Бужим,M,elementary_education,2656
-2013,Број,Цазин,M,elementary_education,7667
-2013,Број,centar_sarajevo,M,elementary_education,1889
-2013,Број,Чапљина,M,elementary_education,1561
-2013,Број,Челић,M,elementary_education,1313
-2013,Број,Читлук,M,elementary_education,1072
-2013,Број,doboj-istok,M,elementary_education,863
-2013,Број,doboj-jug,M,elementary_education,346
-2013,Број,Добретићи,M,elementary_education,245
-2013,Број,domaljevac-samac,M,elementary_education,488
-2013,Број,Доњи Вакуф,M,elementary_education,1432
-2013,Број,Дрвар,M,elementary_education,466
-2013,Број,foca-fbih,M,elementary_education,202
-2013,Број,Фојница,M,elementary_education,1059
-2013,Број,Гламоч,M,elementary_education,357
-2013,Број,Горажде,M,elementary_education,1544
-2013,Број,gornji_vakuf-uskoplje,M,elementary_education,1925
-2013,Број,Грачаница,M,elementary_education,3765
-2013,Број,Градачац,M,elementary_education,4069
-2013,Број,Груде,M,elementary_education,1172
-2013,Број,hadzici,M,elementary_education,1641
-2013,Број,ilidza,M,elementary_education,3476
-2013,Број,ilijas,M,elementary_education,1526
-2013,Број,Јабланица,M,elementary_education,638
-2013,Број,Јајце,M,elementary_education,2227
-2013,Број,Какањ,M,elementary_education,2703
-2013,Број,Калесија,M,elementary_education,2869
-2013,Број,Кисељак,M,elementary_education,1573
-2013,Број,Кладањ,M,elementary_education,1070
-2013,Број,Кључ,M,elementary_education,1778
-2013,Број,Коњиц,M,elementary_education,2205
-2013,Број,Крешево,M,elementary_education,335
-2013,Број,kupres-fbih,M,elementary_education,358
-2013,Број,Ливно,M,elementary_education,2491
-2013,Број,Лукавац,M,elementary_education,2992
-2013,Број,Љубушки,M,elementary_education,1694
-2013,Број,Маглај,M,elementary_education,1890
-2013,Број,Мостар,M,elementary_education,5501
-2013,Број,Неум,M,elementary_education,281
-2013,Број,novi_grad_sarajevo,M,elementary_education,5492
-2013,Број,Нови Травник,M,elementary_education,1682
-2013,Број,novo_sarajevo,M,elementary_education,2258
-2013,Број,Оџак,M,elementary_education,1870
-2013,Број,Олово,M,elementary_education,963
-2013,Број,Орашје,M,elementary_education,1958
-2013,Број,pale-fbih,M,elementary_education,93
-2013,Број,Посушје,M,elementary_education,1558
-2013,Број,Прозор,M,elementary_education,1244
-2013,Број,Равно,M,elementary_education,204
-2013,Број,Сански Мост,M,elementary_education,3935
-2013,Број,Сапна,M,elementary_education,1457
-2013,Број,Сребреник,M,elementary_education,3715
-2013,Број,stari_grad_sarajevo,M,elementary_education,1634
-2013,Број,Столац,M,elementary_education,980
-2013,Број,Широки Бријег,M,elementary_education,1633
-2013,Број,Теочак,M,elementary_education,823
-2013,Број,Тешањ,M,elementary_education,4192
-2013,Број,Томиславград,M,elementary_education,2765
-2013,Број,Травник,M,elementary_education,5002
-2013,Број,trnovo-fbih,M,elementary_education,124
-2013,Број,Тузла,M,elementary_education,6043
-2013,Број,Усора,M,elementary_education,603
-2013,Број,Вареш,M,elementary_education,623
-2013,Број,Велика Кладуша,M,elementary_education,5360
-2013,Број,Високо,M,elementary_education,3040
-2013,Број,Витез,M,elementary_education,1713
-2013,Број,vogosca,M,elementary_education,1387
-2013,Број,Завидовићи,M,elementary_education,2812
-2013,Број,Зеница,M,elementary_education,7484
-2013,Број,Жепче,M,elementary_education,2813
-2013,Број,Живинице,M,elementary_education,4423
-2013,Број,Бановићи,Ж,elementary_education,2931
-2013,Број,Бихаћ,Ж,elementary_education,6331
-2013,Број,Босанска Крупа,Ж,elementary_education,3380
-2013,Број,Босански Петровац,Ж,elementary_education,812
-2013,Број,Босанско Грахово,Ж,elementary_education,228
-2013,Број,Бреза,Ж,elementary_education,1460
-2013,Број,Бугојно,Ж,elementary_education,3651
-2013,Број,Бусовача,Ж,elementary_education,2005
-2013,Број,Бужим,Ж,elementary_education,2987
-2013,Број,Цазин,Ж,elementary_education,9453
-2013,Број,centar_sarajevo,Ж,elementary_education,3557
-2013,Број,Чапљина,Ж,elementary_education,2219
-2013,Број,Челић,Ж,elementary_education,1571
-2013,Број,Читлук,Ж,elementary_education,1395
-2013,Број,doboj-istok,Ж,elementary_education,1163
-2013,Број,doboj-jug,Ж,elementary_education,508
-2013,Број,Добретићи,Ж,elementary_education,206
-2013,Број,domaljevac-samac,Ж,elementary_education,480
-2013,Број,Доњи Вакуф,Ж,elementary_education,1818
-2013,Број,Дрвар,Ж,elementary_education,766
-2013,Број,foca-fbih,Ж,elementary_education,238
-2013,Број,Фојница,Ж,elementary_education,1389
-2013,Број,Гламоч,Ж,elementary_education,424
-2013,Број,Горажде,Ж,elementary_education,2653
-2013,Број,gornji_vakuf-uskoplje,Ж,elementary_education,2205
-2013,Број,Грачаница,Ж,elementary_education,5648
-2013,Број,Градачац,Ж,elementary_education,5339
-2013,Број,Груде,Ж,elementary_education,1294
-2013,Број,hadzici,Ж,elementary_education,2676
-2013,Број,ilidza,Ж,elementary_education,6411
-2013,Број,ilijas,Ж,elementary_education,2442
-2013,Број,Јабланица,Ж,elementary_education,1024
-2013,Број,Јајце,Ж,elementary_education,2624
-2013,Број,Какањ,Ж,elementary_education,4853
-2013,Број,Калесија,Ж,elementary_education,3972
-2013,Број,Кисељак,Ж,elementary_education,2043
-2013,Број,Кладањ,Ж,elementary_education,1660
-2013,Број,Кључ,Ж,elementary_education,1975
-2013,Број,Коњиц,Ж,elementary_education,3001
-2013,Број,Крешево,Ж,elementary_education,526
-2013,Број,kupres-fbih,Ж,elementary_education,356
-2013,Број,Ливно,Ж,elementary_education,2754
-2013,Број,Лукавац,Ж,elementary_education,4868
-2013,Број,Љубушки,Ж,elementary_education,1815
-2013,Број,Маглај,Ж,elementary_education,2868
-2013,Број,Мостар,Ж,elementary_education,8742
-2013,Број,Неум,Ж,elementary_education,327
-2013,Број,novi_grad_sarajevo,Ж,elementary_education,10481
-2013,Број,Нови Травник,Ж,elementary_education,2616
-2013,Број,novo_sarajevo,Ж,elementary_education,4198
-2013,Број,Оџак,Ж,elementary_education,2112
-2013,Број,Олово,Ж,elementary_education,1458
-2013,Број,Орашје,Ж,elementary_education,2057
-2013,Број,pale-fbih,Ж,elementary_education,156
-2013,Број,Посушје,Ж,elementary_education,1591
-2013,Број,Прозор,Ж,elementary_education,1227
-2013,Број,Равно,Ж,elementary_education,238
-2013,Број,Сански Мост,Ж,elementary_education,4972
-2013,Број,Сапна,Ж,elementary_education,1473
-2013,Број,Сребреник,Ж,elementary_education,4878
-2013,Број,stari_grad_sarajevo,Ж,elementary_education,2884
-2013,Број,Столац,Ж,elementary_education,1437
-2013,Број,Широки Бријег,Ж,elementary_education,1818
-2013,Број,Теочак,Ж,elementary_education,1023
-2013,Број,Тешањ,Ж,elementary_education,5799
-2013,Број,Томиславград,Ж,elementary_education,2633
-2013,Број,Травник,Ж,elementary_education,6612
-2013,Број,trnovo-fbih,Ж,elementary_education,166
-2013,Број,Тузла,Ж,elementary_education,9864
-2013,Број,Усора,Ж,elementary_education,767
-2013,Број,Вареш,Ж,elementary_education,1026
-2013,Број,Велика Кладуша,Ж,elementary_education,5984
-2013,Број,Високо,Ж,elementary_education,3921
-2013,Број,Витез,Ж,elementary_education,2604
-2013,Број,vogosca,Ж,elementary_education,2713
-2013,Број,Завидовићи,Ж,elementary_education,4952
-2013,Број,Зеница,Ж,elementary_education,11891
-2013,Број,Жепче,Ж,elementary_education,3760
-2013,Број,Живинице,Ж,elementary_education,6751
-2013,Број,Бановићи,Оба пола,secondary_education,10567
-2013,Број,Бихаћ,Оба пола,secondary_education,22893
-2013,Број,Босанска Крупа,Оба пола,secondary_education,8892
-2013,Број,Босански Петровац,Оба пола,secondary_education,3060
-2013,Број,Босанско Грахово,Оба пола,secondary_education,1116
-2013,Број,Бреза,Оба пола,secondary_education,6653
-2013,Број,Бугојно,Оба пола,secondary_education,13972
-2013,Број,Бусовача,Оба пола,secondary_education,7814
-2013,Број,Бужим,Оба пола,secondary_education,5704
-2013,Број,Цазин,Оба пола,secondary_education,23905
-2013,Број,centar_sarajevo,Оба пола,secondary_education,22213
-2013,Број,Чапљина,Оба пола,secondary_education,12475
-2013,Број,Челић,Оба пола,secondary_education,3489
-2013,Број,Читлук,Оба пола,secondary_education,8453
-2013,Број,doboj-istok,Оба пола,secondary_education,4280
-2013,Број,doboj-jug,Оба пола,secondary_education,1864
-2013,Број,Добретићи,Оба пола,secondary_education,651
-2013,Број,domaljevac-samac,Оба пола,secondary_education,1754
-2013,Број,Доњи Вакуф,Оба пола,secondary_education,5494
-2013,Број,Дрвар,Оба пола,secondary_education,3594
-2013,Број,foca-fbih,Оба пола,secondary_education,748
-2013,Број,Фојница,Оба пола,secondary_education,4766
-2013,Број,Гламоч,Оба пола,secondary_education,1572
-2013,Број,Горажде,Оба пола,secondary_education,9103
-2013,Број,gornji_vakuf-uskoplje,Оба пола,secondary_education,8817
-2013,Број,Грачаница,Оба пола,secondary_education,18522
-2013,Број,Градачац,Оба пола,secondary_education,14750
-2013,Број,Груде,Оба пола,secondary_education,7830
-2013,Број,hadzici,Оба пола,secondary_education,10861
-2013,Број,ilidza,Оба пола,secondary_education,31683
-2013,Број,ilijas,Оба пола,secondary_education,8352
-2013,Број,Јабланица,Оба пола,secondary_education,4565
-2013,Број,Јајце,Оба пола,secondary_education,11293
-2013,Број,Какањ,Оба пола,secondary_education,15259
-2013,Број,Калесија,Оба пола,secondary_education,13592
-2013,Број,Кисељак,Оба пола,secondary_education,9291
-2013,Број,Кладањ,Оба пола,secondary_education,5276
-2013,Број,Кључ,Оба пола,secondary_education,6950
-2013,Број,Коњиц,Оба пола,secondary_education,9767
-2013,Број,Крешево,Оба пола,secondary_education,2391
-2013,Број,kupres-fbih,Оба пола,secondary_education,2154
-2013,Број,Ливно,Оба пола,secondary_education,14513
-2013,Број,Лукавац,Оба пола,secondary_education,20955
-2013,Број,Љубушки,Оба пола,secondary_education,12685
-2013,Број,Маглај,Оба пола,secondary_education,10053
-2013,Број,Мостар,Оба пола,secondary_education,50196
-2013,Број,Неум,Оба пола,secondary_education,2092
-2013,Број,novi_grad_sarajevo,Оба пола,secondary_education,55560
-2013,Број,Нови Травник,Оба пола,secondary_education,10488
-2013,Број,novo_sarajevo,Оба пола,secondary_education,27377
-2013,Број,Оџак,Оба пола,secondary_education,8118
-2013,Број,Олово,Оба пола,secondary_education,4040
-2013,Број,Орашје,Оба пола,secondary_education,7596
-2013,Број,pale-fbih,Оба пола,secondary_education,322
-2013,Број,Посушје,Оба пола,secondary_education,9020
-2013,Број,Прозор,Оба пола,secondary_education,5640
-2013,Број,Равно,Оба пола,secondary_education,1588
-2013,Број,Сански Мост,Оба пола,secondary_education,18955
-2013,Број,Сапна,Оба пола,secondary_education,3667
-2013,Број,Сребреник,Оба пола,secondary_education,15295
-2013,Број,stari_grad_sarajevo,Оба пола,secondary_education,18034
-2013,Број,Столац,Оба пола,secondary_education,6576
-2013,Број,Широки Бријег,Оба пола,secondary_education,13451
-2013,Број,Теочак,Оба пола,secondary_education,2938
-2013,Број,Тешањ,Оба пола,secondary_education,17257
-2013,Број,Томиславград,Оба пола,secondary_education,13379
-2013,Број,Травник,Оба пола,secondary_education,20889
-2013,Број,trnovo-fbih,Оба пола,secondary_education,549
-2013,Број,Тузла,Оба пола,secondary_education,52917
-2013,Број,Усора,Оба пола,secondary_education,3000
-2013,Број,Вареш,Оба пола,secondary_education,3914
-2013,Број,Велика Кладуша,Оба пола,secondary_education,11477
-2013,Број,Високо,Оба пола,secondary_education,17614
-2013,Број,Витез,Оба пола,secondary_education,11791
-2013,Број,vogosca,Оба пола,secondary_education,12299
-2013,Број,Завидовићи,Оба пола,secondary_education,15051
-2013,Број,Зеница,Оба пола,secondary_education,49301
-2013,Број,Жепче,Оба пола,secondary_education,12585
-2013,Број,Живинице,Оба пола,secondary_education,24753
-2013,Број,Бановићи,M,secondary_education,6668
-2013,Број,Бихаћ,M,secondary_education,12626
-2013,Број,Босанска Крупа,M,secondary_education,5304
-2013,Број,Босански Петровац,M,secondary_education,1784
-2013,Број,Босанско Грахово,M,secondary_education,711
-2013,Број,Бреза,M,secondary_education,4058
-2013,Број,Бугојно,M,secondary_education,8010
-2013,Број,Бусовача,M,secondary_education,4855
-2013,Број,Бужим,M,secondary_education,3639
-2013,Број,Цазин,M,secondary_education,14381
-2013,Број,centar_sarajevo,M,secondary_education,10885
-2013,Број,Чапљина,M,secondary_education,7100
-2013,Број,Челић,M,secondary_education,2141
-2013,Број,Читлук,M,secondary_education,4733
-2013,Број,doboj-istok,M,secondary_education,2556
-2013,Број,doboj-jug,M,secondary_education,1111
-2013,Број,Добретићи,M,secondary_education,430
-2013,Број,domaljevac-samac,M,secondary_education,973
-2013,Број,Доњи Вакуф,M,secondary_education,3313
-2013,Број,Дрвар,M,secondary_education,2098
-2013,Број,foca-fbih,M,secondary_education,486
-2013,Број,Фојница,M,secondary_education,2861
-2013,Број,Гламоч,M,secondary_education,963
-2013,Број,Горажде,M,secondary_education,5252
-2013,Број,gornji_vakuf-uskoplje,M,secondary_education,5192
-2013,Број,Грачаница,M,secondary_education,10727
-2013,Број,Градачац,M,secondary_education,8767
-2013,Број,Груде,M,secondary_education,4306
-2013,Број,hadzici,M,secondary_education,6625
-2013,Број,ilidza,M,secondary_education,17593
-2013,Број,ilijas,M,secondary_education,4982
-2013,Број,Јабланица,M,secondary_education,2795
-2013,Број,Јајце,M,secondary_education,7050
-2013,Број,Какањ,M,secondary_education,9882
-2013,Број,Калесија,M,secondary_education,8660
-2013,Број,Кисељак,M,secondary_education,5495
-2013,Број,Кладањ,M,secondary_education,3206
-2013,Број,Кључ,M,secondary_education,4083
-2013,Број,Коњиц,M,secondary_education,5937
-2013,Број,Крешево,M,secondary_education,1416
-2013,Број,kupres-fbih,M,secondary_education,1159
-2013,Број,Ливно,M,secondary_education,8114
-2013,Број,Лукавац,M,secondary_education,12568
-2013,Број,Љубушки,M,secondary_education,6924
-2013,Број,Маглај,M,secondary_education,5969
-2013,Број,Мостар,M,secondary_education,27372
-2013,Број,Неум,M,secondary_education,1157
-2013,Број,novi_grad_sarajevo,M,secondary_education,29274
-2013,Број,Нови Травник,M,secondary_education,6287
-2013,Број,novo_sarajevo,M,secondary_education,13288
-2013,Број,Оџак,M,secondary_education,4533
-2013,Број,Олово,M,secondary_education,2667
-2013,Број,Орашје,M,secondary_education,4325
-2013,Број,pale-fbih,M,secondary_education,222
-2013,Број,Посушје,M,secondary_education,5026
-2013,Број,Прозор,M,secondary_education,3308
-2013,Број,Равно,M,secondary_education,910
-2013,Број,Сански Мост,M,secondary_education,11103
-2013,Број,Сапна,M,secondary_education,2509
-2013,Број,Сребреник,M,secondary_education,9129
-2013,Број,stari_grad_sarajevo,M,secondary_education,9459
-2013,Број,Столац,M,secondary_education,3873
-2013,Број,Широки Бријег,M,secondary_education,7390
-2013,Број,Теочак,M,secondary_education,1891
-2013,Број,Тешањ,M,secondary_education,10235
-2013,Број,Томиславград,M,secondary_education,7566
-2013,Број,Травник,M,secondary_education,12467
-2013,Број,trnovo-fbih,M,secondary_education,391
-2013,Број,Тузла,M,secondary_education,28217
-2013,Број,Усора,M,secondary_education,1756
-2013,Број,Вареш,M,secondary_education,2521
-2013,Број,Велика Кладуша,M,secondary_education,6766
-2013,Број,Високо,M,secondary_education,10178
-2013,Број,Витез,M,secondary_education,6815
-2013,Број,vogosca,M,secondary_education,6798
-2013,Број,Завидовићи,M,secondary_education,9485
-2013,Број,Зеница,M,secondary_education,28605
-2013,Број,Жепче,M,secondary_education,7714
-2013,Број,Живинице,M,secondary_education,15656
-2013,Број,Бановићи,Ж,secondary_education,3899
-2013,Број,Бихаћ,Ж,secondary_education,10267
-2013,Број,Босанска Крупа,Ж,secondary_education,3588
-2013,Број,Босански Петровац,Ж,secondary_education,1276
-2013,Број,Босанско Грахово,Ж,secondary_education,405
-2013,Број,Бреза,Ж,secondary_education,2595
-2013,Број,Бугојно,Ж,secondary_education,5962
-2013,Број,Бусовача,Ж,secondary_education,2959
-2013,Број,Бужим,Ж,secondary_education,2065
-2013,Број,Цазин,Ж,secondary_education,9524
-2013,Број,centar_sarajevo,Ж,secondary_education,11328
-2013,Број,Чапљина,Ж,secondary_education,5375
-2013,Број,Челић,Ж,secondary_education,1348
-2013,Број,Читлук,Ж,secondary_education,3720
-2013,Број,doboj-istok,Ж,secondary_education,1724
-2013,Број,doboj-jug,Ж,secondary_education,753
-2013,Број,Добретићи,Ж,secondary_education,221
-2013,Број,domaljevac-samac,Ж,secondary_education,781
-2013,Број,Доњи Вакуф,Ж,secondary_education,2181
-2013,Број,Дрвар,Ж,secondary_education,1496
-2013,Број,foca-fbih,Ж,secondary_education,262
-2013,Број,Фојница,Ж,secondary_education,1905
-2013,Број,Гламоч,Ж,secondary_education,609
-2013,Број,Горажде,Ж,secondary_education,3851
-2013,Број,gornji_vakuf-uskoplje,Ж,secondary_education,3625
-2013,Број,Грачаница,Ж,secondary_education,7795
-2013,Број,Градачац,Ж,secondary_education,5983
-2013,Број,Груде,Ж,secondary_education,3524
-2013,Број,hadzici,Ж,secondary_education,4236
-2013,Број,ilidza,Ж,secondary_education,14090
-2013,Број,ilijas,Ж,secondary_education,3370
-2013,Број,Јабланица,Ж,secondary_education,1770
-2013,Број,Јајце,Ж,secondary_education,4243
-2013,Број,Какањ,Ж,secondary_education,5377
-2013,Број,Калесија,Ж,secondary_education,4932
-2013,Број,Кисељак,Ж,secondary_education,3796
-2013,Број,Кладањ,Ж,secondary_education,2070
-2013,Број,Кључ,Ж,secondary_education,2867
-2013,Број,Коњиц,Ж,secondary_education,3830
-2013,Број,Крешево,Ж,secondary_education,975
-2013,Број,kupres-fbih,Ж,secondary_education,995
-2013,Број,Ливно,Ж,secondary_education,6399
-2013,Број,Лукавац,Ж,secondary_education,8387
-2013,Број,Љубушки,Ж,secondary_education,5761
-2013,Број,Маглај,Ж,secondary_education,4084
-2013,Број,Мостар,Ж,secondary_education,22824
-2013,Број,Неум,Ж,secondary_education,935
-2013,Број,novi_grad_sarajevo,Ж,secondary_education,26286
-2013,Број,Нови Травник,Ж,secondary_education,4201
-2013,Број,novo_sarajevo,Ж,secondary_education,14089
-2013,Број,Оџак,Ж,secondary_education,3585
-2013,Број,Олово,Ж,secondary_education,1373
-2013,Број,Орашје,Ж,secondary_education,3271
-2013,Број,pale-fbih,Ж,secondary_education,100
-2013,Број,Посушје,Ж,secondary_education,3994
-2013,Број,Прозор,Ж,secondary_education,2332
-2013,Број,Равно,Ж,secondary_education,678
-2013,Број,Сански Мост,Ж,secondary_education,7852
-2013,Број,Сапна,Ж,secondary_education,1158
-2013,Број,Сребреник,Ж,secondary_education,6166
-2013,Број,stari_grad_sarajevo,Ж,secondary_education,8575
-2013,Број,Столац,Ж,secondary_education,2703
-2013,Број,Широки Бријег,Ж,secondary_education,6061
-2013,Број,Теочак,Ж,secondary_education,1047
-2013,Број,Тешањ,Ж,secondary_education,7022
-2013,Број,Томиславград,Ж,secondary_education,5813
-2013,Број,Травник,Ж,secondary_education,8422
-2013,Број,trnovo-fbih,Ж,secondary_education,158
-2013,Број,Тузла,Ж,secondary_education,24700
-2013,Број,Усора,Ж,secondary_education,1244
-2013,Број,Вареш,Ж,secondary_education,1393
-2013,Број,Велика Кладуша,Ж,secondary_education,4711
-2013,Број,Високо,Ж,secondary_education,7436
-2013,Број,Витез,Ж,secondary_education,4976
-2013,Број,vogosca,Ж,secondary_education,5501
-2013,Број,Завидовићи,Ж,secondary_education,5566
-2013,Број,Зеница,Ж,secondary_education,20696
-2013,Број,Жепче,Ж,secondary_education,4871
-2013,Број,Живинице,Ж,secondary_education,9097
-2013,Број,Бановићи,Оба пола,secondary_specialization,150
-2013,Број,Бихаћ,Оба пола,secondary_specialization,216
-2013,Број,Босанска Крупа,Оба пола,secondary_specialization,64
-2013,Број,Босански Петровац,Оба пола,secondary_specialization,16
-2013,Број,Босанско Грахово,Оба пола,secondary_specialization,3
-2013,Број,Бреза,Оба пола,secondary_specialization,111
-2013,Број,Бугојно,Оба пола,secondary_specialization,114
-2013,Број,Бусовача,Оба пола,secondary_specialization,104
-2013,Број,Бужим,Оба пола,secondary_specialization,39
-2013,Број,Цазин,Оба пола,secondary_specialization,140
-2013,Број,centar_sarajevo,Оба пола,secondary_specialization,282
-2013,Број,Чапљина,Оба пола,secondary_specialization,130
-2013,Број,Челић,Оба пола,secondary_specialization,16
-2013,Број,Читлук,Оба пола,secondary_specialization,84
-2013,Број,doboj-istok,Оба пола,secondary_specialization,24
-2013,Број,doboj-jug,Оба пола,secondary_specialization,23
-2013,Број,Добретићи,Оба пола,secondary_specialization,1
-2013,Број,domaljevac-samac,Оба пола,secondary_specialization,30
-2013,Број,Доњи Вакуф,Оба пола,secondary_specialization,24
-2013,Број,Дрвар,Оба пола,secondary_specialization,32
-2013,Број,foca-fbih,Оба пола,secondary_specialization,11
-2013,Број,Фојница,Оба пола,secondary_specialization,42
-2013,Број,Гламоч,Оба пола,secondary_specialization,13
-2013,Број,Горажде,Оба пола,secondary_specialization,190
-2013,Број,gornji_vakuf-uskoplje,Оба пола,secondary_specialization,30
-2013,Број,Грачаница,Оба пола,secondary_specialization,189
-2013,Број,Градачац,Оба пола,secondary_specialization,136
-2013,Број,Груде,Оба пола,secondary_specialization,75
-2013,Број,hadzici,Оба пола,secondary_specialization,89
-2013,Број,ilidza,Оба пола,secondary_specialization,375
-2013,Број,ilijas,Оба пола,secondary_specialization,97
-2013,Број,Јабланица,Оба пола,secondary_specialization,133
-2013,Број,Јајце,Оба пола,secondary_specialization,113
-2013,Број,Какањ,Оба пола,secondary_specialization,313
-2013,Број,Калесија,Оба пола,secondary_specialization,115
-2013,Број,Кисељак,Оба пола,secondary_specialization,80
-2013,Број,Кладањ,Оба пола,secondary_specialization,24
-2013,Број,Кључ,Оба пола,secondary_specialization,74
-2013,Број,Коњиц,Оба пола,secondary_specialization,144
-2013,Број,Крешево,Оба пола,secondary_specialization,22
-2013,Број,kupres-fbih,Оба пола,secondary_specialization,11
-2013,Број,Ливно,Оба пола,secondary_specialization,164
-2013,Број,Лукавац,Оба пола,secondary_specialization,517
-2013,Број,Љубушки,Оба пола,secondary_specialization,138
-2013,Број,Маглај,Оба пола,secondary_specialization,208
-2013,Број,Мостар,Оба пола,secondary_specialization,698
-2013,Број,Неум,Оба пола,secondary_specialization,53
-2013,Број,novi_grad_sarajevo,Оба пола,secondary_specialization,665
-2013,Број,Нови Травник,Оба пола,secondary_specialization,335
-2013,Број,novo_sarajevo,Оба пола,secondary_specialization,446
-2013,Број,Оџак,Оба пола,secondary_specialization,94
-2013,Број,Олово,Оба пола,secondary_specialization,32
-2013,Број,Орашје,Оба пола,secondary_specialization,76
-2013,Број,pale-fbih,Оба пола,secondary_specialization,4
-2013,Број,Посушје,Оба пола,secondary_specialization,103
-2013,Број,Прозор,Оба пола,secondary_specialization,25
-2013,Број,Равно,Оба пола,secondary_specialization,6
-2013,Број,Сански Мост,Оба пола,secondary_specialization,207
-2013,Број,Сапна,Оба пола,secondary_specialization,11
-2013,Број,Сребреник,Оба пола,secondary_specialization,145
-2013,Број,stari_grad_sarajevo,Оба пола,secondary_specialization,238
-2013,Број,Столац,Оба пола,secondary_specialization,74
-2013,Број,Широки Бријег,Оба пола,secondary_specialization,71
-2013,Број,Теочак,Оба пола,secondary_specialization,20
-2013,Број,Тешањ,Оба пола,secondary_specialization,271
-2013,Број,Томиславград,Оба пола,secondary_specialization,74
-2013,Број,Травник,Оба пола,secondary_specialization,248
-2013,Број,trnovo-fbih,Оба пола,secondary_specialization,13
-2013,Број,Тузла,Оба пола,secondary_specialization,1125
-2013,Број,Усора,Оба пола,secondary_specialization,42
-2013,Број,Вареш,Оба пола,secondary_specialization,88
-2013,Број,Велика Кладуша,Оба пола,secondary_specialization,71
-2013,Број,Високо,Оба пола,secondary_specialization,226
-2013,Број,Витез,Оба пола,secondary_specialization,208
-2013,Број,vogosca,Оба пола,secondary_specialization,180
-2013,Број,Завидовићи,Оба пола,secondary_specialization,152
-2013,Број,Зеница,Оба пола,secondary_specialization,1966
-2013,Број,Жепче,Оба пола,secondary_specialization,161
-2013,Број,Живинице,Оба пола,secondary_specialization,220
-2013,Број,Бановићи,M,secondary_specialization,142
-2013,Број,Бихаћ,M,secondary_specialization,181
-2013,Број,Босанска Крупа,M,secondary_specialization,45
-2013,Број,Босански Петровац,M,secondary_specialization,13
-2013,Број,Босанско Грахово,M,secondary_specialization,3
-2013,Број,Бреза,M,secondary_specialization,101
-2013,Број,Бугојно,M,secondary_specialization,85
-2013,Број,Бусовача,M,secondary_specialization,94
-2013,Број,Бужим,M,secondary_specialization,18
-2013,Број,Цазин,M,secondary_specialization,99
-2013,Број,centar_sarajevo,M,secondary_specialization,220
-2013,Број,Чапљина,M,secondary_specialization,96
-2013,Број,Челић,M,secondary_specialization,14
-2013,Број,Читлук,M,secondary_specialization,61
-2013,Број,doboj-istok,M,secondary_specialization,20
-2013,Број,doboj-jug,M,secondary_specialization,21
-2013,Број,Добретићи,M,secondary_specialization,1
-2013,Број,domaljevac-samac,M,secondary_specialization,19
-2013,Број,Доњи Вакуф,M,secondary_specialization,19
-2013,Број,Дрвар,M,secondary_specialization,27
-2013,Број,foca-fbih,M,secondary_specialization,8
-2013,Број,Фојница,M,secondary_specialization,36
-2013,Број,Гламоч,M,secondary_specialization,10
-2013,Број,Горажде,M,secondary_specialization,163
-2013,Број,gornji_vakuf-uskoplje,M,secondary_specialization,25
-2013,Број,Грачаница,M,secondary_specialization,175
-2013,Број,Градачац,M,secondary_specialization,105
-2013,Број,Груде,M,secondary_specialization,50
-2013,Број,hadzici,M,secondary_specialization,74
-2013,Број,ilidza,M,secondary_specialization,311
-2013,Број,ilijas,M,secondary_specialization,82
-2013,Број,Јабланица,M,secondary_specialization,127
-2013,Број,Јајце,M,secondary_specialization,86
-2013,Број,Какањ,M,secondary_specialization,295
-2013,Број,Калесија,M,secondary_specialization,94
-2013,Број,Кисељак,M,secondary_specialization,71
-2013,Број,Кладањ,M,secondary_specialization,16
-2013,Број,Кључ,M,secondary_specialization,51
-2013,Број,Коњиц,M,secondary_specialization,130
-2013,Број,Крешево,M,secondary_specialization,19
-2013,Број,kupres-fbih,M,secondary_specialization,8
-2013,Број,Ливно,M,secondary_specialization,104
-2013,Број,Лукавац,M,secondary_specialization,478
-2013,Број,Љубушки,M,secondary_specialization,83
-2013,Број,Маглај,M,secondary_specialization,173
-2013,Број,Мостар,M,secondary_specialization,555
-2013,Број,Неум,M,secondary_specialization,45
-2013,Број,novi_grad_sarajevo,M,secondary_specialization,539
-2013,Број,Нови Травник,M,secondary_specialization,301
-2013,Број,novo_sarajevo,M,secondary_specialization,346
-2013,Број,Оџак,M,secondary_specialization,70
-2013,Број,Олово,M,secondary_specialization,27
-2013,Број,Орашје,M,secondary_specialization,57
-2013,Број,pale-fbih,M,secondary_specialization,4
-2013,Број,Посушје,M,secondary_specialization,69
-2013,Број,Прозор,M,secondary_specialization,17
-2013,Број,Равно,M,secondary_specialization,4
-2013,Број,Сански Мост,M,secondary_specialization,128
-2013,Број,Сапна,M,secondary_specialization,8
-2013,Број,Сребреник,M,secondary_specialization,124
-2013,Број,stari_grad_sarajevo,M,secondary_specialization,197
-2013,Број,Столац,M,secondary_specialization,63
-2013,Број,Широки Бријег,M,secondary_specialization,55
-2013,Број,Теочак,M,secondary_specialization,16
-2013,Број,Тешањ,M,secondary_specialization,236
-2013,Број,Томиславград,M,secondary_specialization,46
-2013,Број,Травник,M,secondary_specialization,211
-2013,Број,trnovo-fbih,M,secondary_specialization,11
-2013,Број,Тузла,M,secondary_specialization,933
-2013,Број,Усора,M,secondary_specialization,32
-2013,Број,Вареш,M,secondary_specialization,82
-2013,Број,Велика Кладуша,M,secondary_specialization,48
-2013,Број,Високо,M,secondary_specialization,200
-2013,Број,Витез,M,secondary_specialization,184
-2013,Број,vogosca,M,secondary_specialization,158
-2013,Број,Завидовићи,M,secondary_specialization,119
-2013,Број,Зеница,M,secondary_specialization,1728
-2013,Број,Жепче,M,secondary_specialization,139
-2013,Број,Живинице,M,secondary_specialization,200
-2013,Број,Бановићи,Ж,secondary_specialization,8
-2013,Број,Бихаћ,Ж,secondary_specialization,35
-2013,Број,Босанска Крупа,Ж,secondary_specialization,19
-2013,Број,Босански Петровац,Ж,secondary_specialization,3
-2013,Број,Босанско Грахово,Ж,secondary_specialization,0
-2013,Број,Бреза,Ж,secondary_specialization,10
-2013,Број,Бугојно,Ж,secondary_specialization,29
-2013,Број,Бусовача,Ж,secondary_specialization,10
-2013,Број,Бужим,Ж,secondary_specialization,21
-2013,Број,Цазин,Ж,secondary_specialization,41
-2013,Број,centar_sarajevo,Ж,secondary_specialization,62
-2013,Број,Чапљина,Ж,secondary_specialization,34
-2013,Број,Челић,Ж,secondary_specialization,2
-2013,Број,Читлук,Ж,secondary_specialization,23
-2013,Број,doboj-istok,Ж,secondary_specialization,4
-2013,Број,doboj-jug,Ж,secondary_specialization,2
-2013,Број,Добретићи,Ж,secondary_specialization,0
-2013,Број,domaljevac-samac,Ж,secondary_specialization,11
-2013,Број,Доњи Вакуф,Ж,secondary_specialization,5
-2013,Број,Дрвар,Ж,secondary_specialization,5
-2013,Број,foca-fbih,Ж,secondary_specialization,3
-2013,Број,Фојница,Ж,secondary_specialization,6
-2013,Број,Гламоч,Ж,secondary_specialization,3
-2013,Број,Горажде,Ж,secondary_specialization,27
-2013,Број,gornji_vakuf-uskoplje,Ж,secondary_specialization,5
-2013,Број,Грачаница,Ж,secondary_specialization,14
-2013,Број,Градачац,Ж,secondary_specialization,31
-2013,Број,Груде,Ж,secondary_specialization,25
-2013,Број,hadzici,Ж,secondary_specialization,15
-2013,Број,ilidza,Ж,secondary_specialization,64
-2013,Број,ilijas,Ж,secondary_specialization,15
-2013,Број,Јабланица,Ж,secondary_specialization,6
-2013,Број,Јајце,Ж,secondary_specialization,27
-2013,Број,Какањ,Ж,secondary_specialization,18
-2013,Број,Калесија,Ж,secondary_specialization,21
-2013,Број,Кисељак,Ж,secondary_specialization,9
-2013,Број,Кладањ,Ж,secondary_specialization,8
-2013,Број,Кључ,Ж,secondary_specialization,23
-2013,Број,Коњиц,Ж,secondary_specialization,14
-2013,Број,Крешево,Ж,secondary_specialization,3
-2013,Број,kupres-fbih,Ж,secondary_specialization,3
-2013,Број,Ливно,Ж,secondary_specialization,60
-2013,Број,Лукавац,Ж,secondary_specialization,39
-2013,Број,Љубушки,Ж,secondary_specialization,55
-2013,Број,Маглај,Ж,secondary_specialization,35
-2013,Број,Мостар,Ж,secondary_specialization,143
-2013,Број,Неум,Ж,secondary_specialization,8
-2013,Број,novi_grad_sarajevo,Ж,secondary_specialization,126
-2013,Број,Нови Травник,Ж,secondary_specialization,34
-2013,Број,novo_sarajevo,Ж,secondary_specialization,100
-2013,Број,Оџак,Ж,secondary_specialization,24
-2013,Број,Олово,Ж,secondary_specialization,5
-2013,Број,Орашје,Ж,secondary_specialization,19
-2013,Број,pale-fbih,Ж,secondary_specialization,0
-2013,Број,Посушје,Ж,secondary_specialization,34
-2013,Број,Прозор,Ж,secondary_specialization,8
-2013,Број,Равно,Ж,secondary_specialization,2
-2013,Број,Сански Мост,Ж,secondary_specialization,79
-2013,Број,Сапна,Ж,secondary_specialization,3
-2013,Број,Сребреник,Ж,secondary_specialization,21
-2013,Број,stari_grad_sarajevo,Ж,secondary_specialization,41
-2013,Број,Столац,Ж,secondary_specialization,11
-2013,Број,Широки Бријег,Ж,secondary_specialization,16
-2013,Број,Теочак,Ж,secondary_specialization,4
-2013,Број,Тешањ,Ж,secondary_specialization,35
-2013,Број,Томиславград,Ж,secondary_specialization,28
-2013,Број,Травник,Ж,secondary_specialization,37
-2013,Број,trnovo-fbih,Ж,secondary_specialization,2
-2013,Број,Тузла,Ж,secondary_specialization,192
-2013,Број,Усора,Ж,secondary_specialization,10
-2013,Број,Вареш,Ж,secondary_specialization,6
-2013,Број,Велика Кладуша,Ж,secondary_specialization,23
-2013,Број,Високо,Ж,secondary_specialization,26
-2013,Број,Витез,Ж,secondary_specialization,24
-2013,Број,vogosca,Ж,secondary_specialization,22
-2013,Број,Завидовићи,Ж,secondary_specialization,33
-2013,Број,Зеница,Ж,secondary_specialization,238
-2013,Број,Жепче,Ж,secondary_specialization,22
-2013,Број,Живинице,Ж,secondary_specialization,20
-2013,Број,Бановићи,Оба пола,first_degree,185
-2013,Број,Бихаћ,Оба пола,first_degree,2465
-2013,Број,Босанска Крупа,Оба пола,first_degree,587
-2013,Број,Босански Петровац,Оба пола,first_degree,194
-2013,Број,Босанско Грахово,Оба пола,first_degree,113
-2013,Број,Бреза,Оба пола,first_degree,232
-2013,Број,Бугојно,Оба пола,first_degree,763
-2013,Број,Бусовача,Оба пола,first_degree,280
-2013,Број,Бужим,Оба пола,first_degree,315
-2013,Број,Цазин,Оба пола,first_degree,1168
-2013,Број,centar_sarajevo,Оба пола,first_degree,2724
-2013,Број,Чапљина,Оба пола,first_degree,852
-2013,Број,Челић,Оба пола,first_degree,72
-2013,Број,Читлук,Оба пола,first_degree,491
-2013,Број,doboj-istok,Оба пола,first_degree,102
-2013,Број,doboj-jug,Оба пола,first_degree,47
-2013,Број,Добретићи,Оба пола,first_degree,12
-2013,Број,domaljevac-samac,Оба пола,first_degree,112
-2013,Број,Доњи Вакуф,Оба пола,first_degree,257
-2013,Број,Дрвар,Оба пола,first_degree,280
-2013,Број,foca-fbih,Оба пола,first_degree,43
-2013,Број,Фојница,Оба пола,first_degree,235
-2013,Број,Гламоч,Оба пола,first_degree,94
-2013,Број,Горажде,Оба пола,first_degree,468
-2013,Број,gornji_vakuf-uskoplje,Оба пола,first_degree,480
-2013,Број,Грачаница,Оба пола,first_degree,676
-2013,Број,Градачац,Оба пола,first_degree,512
-2013,Број,Груде,Оба пола,first_degree,741
-2013,Број,hadzici,Оба пола,first_degree,406
-2013,Број,ilidza,Оба пола,first_degree,1896
-2013,Број,ilijas,Оба пола,first_degree,282
-2013,Број,Јабланица,Оба пола,first_degree,236
-2013,Број,Јајце,Оба пола,first_degree,522
-2013,Број,Какањ,Оба пола,first_degree,602
-2013,Број,Калесија,Оба пола,first_degree,271
-2013,Број,Кисељак,Оба пола,first_degree,349
-2013,Број,Кладањ,Оба пола,first_degree,174
-2013,Број,Кључ,Оба пола,first_degree,344
-2013,Број,Коњиц,Оба пола,first_degree,663
-2013,Број,Крешево,Оба пола,first_degree,119
-2013,Број,kupres-fbih,Оба пола,first_degree,220
-2013,Број,Ливно,Оба пола,first_degree,1457
-2013,Број,Лукавац,Оба пола,first_degree,690
-2013,Број,Љубушки,Оба пола,first_degree,891
-2013,Број,Маглај,Оба пола,first_degree,417
-2013,Број,Мостар,Оба пола,first_degree,4422
-2013,Број,Неум,Оба пола,first_degree,157
-2013,Број,novi_grad_sarajevo,Оба пола,first_degree,4084
-2013,Број,Нови Травник,Оба пола,first_degree,520
-2013,Број,novo_sarajevo,Оба пола,first_degree,3299
-2013,Број,Оџак,Оба пола,first_degree,364
-2013,Број,Олово,Оба пола,first_degree,184
-2013,Број,Орашје,Оба пола,first_degree,525
-2013,Број,pale-fbih,Оба пола,first_degree,7
-2013,Број,Посушје,Оба пола,first_degree,790
-2013,Број,Прозор,Оба пола,first_degree,301
-2013,Број,Равно,Оба пола,first_degree,180
-2013,Број,Сански Мост,Оба пола,first_degree,890
-2013,Број,Сапна,Оба пола,first_degree,56
-2013,Број,Сребреник,Оба пола,first_degree,395
-2013,Број,stari_grad_sarajevo,Оба пола,first_degree,1353
-2013,Број,Столац,Оба пола,first_degree,470
-2013,Број,Широки Бријег,Оба пола,first_degree,1005
-2013,Број,Теочак,Оба пола,first_degree,41
-2013,Број,Тешањ,Оба пола,first_degree,677
-2013,Број,Томиславград,Оба пола,first_degree,988
-2013,Број,Травник,Оба пола,first_degree,1068
-2013,Број,trnovo-fbih,Оба пола,first_degree,28
-2013,Број,Тузла,Оба пола,first_degree,3591
-2013,Број,Усора,Оба пола,first_degree,121
-2013,Број,Вареш,Оба пола,first_degree,161
-2013,Број,Велика Кладуша,Оба пола,first_degree,532
-2013,Број,Високо,Оба пола,first_degree,755
-2013,Број,Витез,Оба пола,first_degree,614
-2013,Број,vogosca,Оба пола,first_degree,644
-2013,Број,Завидовићи,Оба пола,first_degree,530
-2013,Број,Зеница,Оба пола,first_degree,2791
-2013,Број,Жепче,Оба пола,first_degree,533
-2013,Број,Живинице,Оба пола,first_degree,605
-2013,Број,Бановићи,M,first_degree,106
-2013,Број,Бихаћ,M,first_degree,1217
-2013,Број,Босанска Крупа,M,first_degree,297
-2013,Број,Босански Петровац,M,first_degree,96
-2013,Број,Босанско Грахово,M,first_degree,75
-2013,Број,Бреза,M,first_degree,121
-2013,Број,Бугојно,M,first_degree,409
-2013,Број,Бусовача,M,first_degree,165
-2013,Број,Бужим,M,first_degree,173
-2013,Број,Цазин,M,first_degree,607
-2013,Број,centar_sarajevo,M,first_degree,1284
-2013,Број,Чапљина,M,first_degree,409
-2013,Број,Челић,M,first_degree,51
-2013,Број,Читлук,M,first_degree,231
-2013,Број,doboj-istok,M,first_degree,70
-2013,Број,doboj-jug,M,first_degree,26
-2013,Број,Добретићи,M,first_degree,5
-2013,Број,domaljevac-samac,M,first_degree,64
-2013,Број,Доњи Вакуф,M,first_degree,116
-2013,Број,Дрвар,M,first_degree,162
-2013,Број,foca-fbih,M,first_degree,30
-2013,Број,Фојница,M,first_degree,154
-2013,Број,Гламоч,M,first_degree,58
-2013,Број,Горажде,M,first_degree,318
-2013,Број,gornji_vakuf-uskoplje,M,first_degree,264
-2013,Број,Грачаница,M,first_degree,409
-2013,Број,Градачац,M,first_degree,290
-2013,Број,Груде,M,first_degree,366
-2013,Број,hadzici,M,first_degree,267
-2013,Број,ilidza,M,first_degree,1085
-2013,Број,ilijas,M,first_degree,169
-2013,Број,Јабланица,M,first_degree,142
-2013,Број,Јајце,M,first_degree,241
-2013,Број,Какањ,M,first_degree,335
-2013,Број,Калесија,M,first_degree,170
-2013,Број,Кисељак,M,first_degree,206
-2013,Број,Кладањ,M,first_degree,108
-2013,Број,Кључ,M,first_degree,175
-2013,Број,Коњиц,M,first_degree,397
-2013,Број,Крешево,M,first_degree,69
-2013,Број,kupres-fbih,M,first_degree,120
-2013,Број,Ливно,M,first_degree,792
-2013,Број,Лукавац,M,first_degree,441
-2013,Број,Љубушки,M,first_degree,416
-2013,Број,Маглај,M,first_degree,233
-2013,Број,Мостар,M,first_degree,2202
-2013,Број,Неум,M,first_degree,89
-2013,Број,novi_grad_sarajevo,M,first_degree,2238
-2013,Број,Нови Травник,M,first_degree,300
-2013,Број,novo_sarajevo,M,first_degree,1675
-2013,Број,Оџак,M,first_degree,214
-2013,Број,Олово,M,first_degree,119
-2013,Број,Орашје,M,first_degree,294
-2013,Број,pale-fbih,M,first_degree,4
-2013,Број,Посушје,M,first_degree,351
-2013,Број,Прозор,M,first_degree,148
-2013,Број,Равно,M,first_degree,98
-2013,Број,Сански Мост,M,first_degree,438
-2013,Број,Сапна,M,first_degree,33
-2013,Број,Сребреник,M,first_degree,257
-2013,Број,stari_grad_sarajevo,M,first_degree,736
-2013,Број,Столац,M,first_degree,259
-2013,Број,Широки Бријег,M,first_degree,496
-2013,Број,Теочак,M,first_degree,19
-2013,Број,Тешањ,M,first_degree,390
-2013,Број,Томиславград,M,first_degree,495
-2013,Број,Травник,M,first_degree,621
-2013,Број,trnovo-fbih,M,first_degree,23
-2013,Број,Тузла,M,first_degree,1961
-2013,Број,Усора,M,first_degree,70
-2013,Број,Вареш,M,first_degree,89
-2013,Број,Велика Кладуша,M,first_degree,291
-2013,Број,Високо,M,first_degree,398
-2013,Број,Витез,M,first_degree,369
-2013,Број,vogosca,M,first_degree,398
-2013,Број,Завидовићи,M,first_degree,294
-2013,Број,Зеница,M,first_degree,1544
-2013,Број,Жепче,M,first_degree,290
-2013,Број,Живинице,M,first_degree,378
-2013,Број,Бановићи,Ж,first_degree,79
-2013,Број,Бихаћ,Ж,first_degree,1248
-2013,Број,Босанска Крупа,Ж,first_degree,290
-2013,Број,Босански Петровац,Ж,first_degree,98
-2013,Број,Босанско Грахово,Ж,first_degree,38
-2013,Број,Бреза,Ж,first_degree,111
-2013,Број,Бугојно,Ж,first_degree,354
-2013,Број,Бусовача,Ж,first_degree,115
-2013,Број,Бужим,Ж,first_degree,142
-2013,Број,Цазин,Ж,first_degree,561
-2013,Број,centar_sarajevo,Ж,first_degree,1440
-2013,Број,Чапљина,Ж,first_degree,443
-2013,Број,Челић,Ж,first_degree,21
-2013,Број,Читлук,Ж,first_degree,260
-2013,Број,doboj-istok,Ж,first_degree,32
-2013,Број,doboj-jug,Ж,first_degree,21
-2013,Број,Добретићи,Ж,first_degree,7
-2013,Број,domaljevac-samac,Ж,first_degree,48
-2013,Број,Доњи Вакуф,Ж,first_degree,141
-2013,Број,Дрвар,Ж,first_degree,118
-2013,Број,foca-fbih,Ж,first_degree,13
-2013,Број,Фојница,Ж,first_degree,81
-2013,Број,Гламоч,Ж,first_degree,36
-2013,Број,Горажде,Ж,first_degree,150
-2013,Број,gornji_vakuf-uskoplje,Ж,first_degree,216
-2013,Број,Грачаница,Ж,first_degree,267
-2013,Број,Градачац,Ж,first_degree,222
-2013,Број,Груде,Ж,first_degree,375
-2013,Број,hadzici,Ж,first_degree,139
-2013,Број,ilidza,Ж,first_degree,811
-2013,Број,ilijas,Ж,first_degree,113
-2013,Број,Јабланица,Ж,first_degree,94
-2013,Број,Јајце,Ж,first_degree,281
-2013,Број,Какањ,Ж,first_degree,267
-2013,Број,Калесија,Ж,first_degree,101
-2013,Број,Кисељак,Ж,first_degree,143
-2013,Број,Кладањ,Ж,first_degree,66
-2013,Број,Кључ,Ж,first_degree,169
-2013,Број,Коњиц,Ж,first_degree,266
-2013,Број,Крешево,Ж,first_degree,50
-2013,Број,kupres-fbih,Ж,first_degree,100
-2013,Број,Ливно,Ж,first_degree,665
-2013,Број,Лукавац,Ж,first_degree,249
-2013,Број,Љубушки,Ж,first_degree,475
-2013,Број,Маглај,Ж,first_degree,184
-2013,Број,Мостар,Ж,first_degree,2220
-2013,Број,Неум,Ж,first_degree,68
-2013,Број,novi_grad_sarajevo,Ж,first_degree,1846
-2013,Број,Нови Травник,Ж,first_degree,220
-2013,Број,novo_sarajevo,Ж,first_degree,1624
-2013,Број,Оџак,Ж,first_degree,150
-2013,Број,Олово,Ж,first_degree,65
-2013,Број,Орашје,Ж,first_degree,231
-2013,Број,pale-fbih,Ж,first_degree,3
-2013,Број,Посушје,Ж,first_degree,439
-2013,Број,Прозор,Ж,first_degree,153
-2013,Број,Равно,Ж,first_degree,82
-2013,Број,Сански Мост,Ж,first_degree,452
-2013,Број,Сапна,Ж,first_degree,23
-2013,Број,Сребреник,Ж,first_degree,138
-2013,Број,stari_grad_sarajevo,Ж,first_degree,617
-2013,Број,Столац,Ж,first_degree,211
-2013,Број,Широки Бријег,Ж,first_degree,509
-2013,Број,Теочак,Ж,first_degree,22
-2013,Број,Тешањ,Ж,first_degree,287
-2013,Број,Томиславград,Ж,first_degree,493
-2013,Број,Травник,Ж,first_degree,447
-2013,Број,trnovo-fbih,Ж,first_degree,5
-2013,Број,Тузла,Ж,first_degree,1630
-2013,Број,Усора,Ж,first_degree,51
-2013,Број,Вареш,Ж,first_degree,72
-2013,Број,Велика Кладуша,Ж,first_degree,241
-2013,Број,Високо,Ж,first_degree,357
-2013,Број,Витез,Ж,first_degree,245
-2013,Број,vogosca,Ж,first_degree,246
-2013,Број,Завидовићи,Ж,first_degree,236
-2013,Број,Зеница,Ж,first_degree,1247
-2013,Број,Жепче,Ж,first_degree,243
-2013,Број,Живинице,Ж,first_degree,227
-2013,Број,Бановићи,Оба пола,university_degree,1276
-2013,Број,Бихаћ,Оба пола,university_degree,5359
-2013,Број,Босанска Крупа,Оба пола,university_degree,1193
-2013,Број,Босански Петровац,Оба пола,university_degree,352
-2013,Број,Босанско Грахово,Оба пола,university_degree,143
-2013,Број,Бреза,Оба пола,university_degree,959
-2013,Број,Бугојно,Оба пола,university_degree,1816
-2013,Број,Бусовача,Оба пола,university_degree,798
-2013,Број,Бужим,Оба пола,university_degree,607
-2013,Број,Цазин,Оба пола,university_degree,2404
-2013,Број,centar_sarajevo,Оба пола,university_degree,15300
-2013,Број,Чапљина,Оба пола,university_degree,2237
-2013,Број,Челић,Оба пола,university_degree,285
-2013,Број,Читлук,Оба пола,university_degree,1820
-2013,Број,doboj-istok,Оба пола,university_degree,442
-2013,Број,doboj-jug,Оба пола,university_degree,171
-2013,Број,Добретићи,Оба пола,university_degree,50
-2013,Број,domaljevac-samac,Оба пола,university_degree,289
-2013,Број,Доњи Вакуф,Оба пола,university_degree,522
-2013,Број,Дрвар,Оба пола,university_degree,363
-2013,Број,foca-fbih,Оба пола,university_degree,77
-2013,Број,Фојница,Оба пола,university_degree,885
-2013,Број,Гламоч,Оба пола,university_degree,210
-2013,Број,Горажде,Оба пола,university_degree,1727
-2013,Број,gornji_vakuf-uskoplje,Оба пола,university_degree,1050
-2013,Број,Грачаница,Оба пола,university_degree,2110
-2013,Број,Градачац,Оба пола,university_degree,1556
-2013,Број,Груде,Оба пола,university_degree,1738
-2013,Број,hadzici,Оба пола,university_degree,1307
-2013,Број,ilidza,Оба пола,university_degree,7309
-2013,Број,ilijas,Оба пола,university_degree,1041
-2013,Број,Јабланица,Оба пола,university_degree,669
-2013,Број,Јајце,Оба пола,university_degree,1249
-2013,Број,Какањ,Оба пола,university_degree,1861
-2013,Број,Калесија,Оба пола,university_degree,1178
-2013,Број,Кисељак,Оба пола,university_degree,1140
-2013,Број,Кладањ,Оба пола,university_degree,615
-2013,Број,Кључ,Оба пола,university_degree,695
-2013,Број,Коњиц,Оба пола,university_degree,1710
-2013,Број,Крешево,Оба пола,university_degree,309
-2013,Број,kupres-fbih,Оба пола,university_degree,625
-2013,Број,Ливно,Оба пола,university_degree,3460
-2013,Број,Лукавац,Оба пола,university_degree,2326
-2013,Број,Љубушки,Оба пола,university_degree,2948
-2013,Број,Маглај,Оба пола,university_degree,1097
-2013,Број,Мостар,Оба пола,university_degree,14199
-2013,Број,Неум,Оба пола,university_degree,532
-2013,Број,novi_grad_sarajevo,Оба пола,university_degree,16824
-2013,Број,Нови Травник,Оба пола,university_degree,1330
-2013,Број,novo_sarajevo,Оба пола,university_degree,16145
-2013,Број,Оџак,Оба пола,university_degree,887
-2013,Број,Олово,Оба пола,university_degree,506
-2013,Број,Орашје,Оба пола,university_degree,1320
-2013,Број,pale-fbih,Оба пола,university_degree,24
-2013,Број,Посушје,Оба пола,university_degree,1756
-2013,Број,Прозор,Оба пола,university_degree,911
-2013,Број,Равно,Оба пола,university_degree,305
-2013,Број,Сански Мост,Оба пола,university_degree,1815
-2013,Број,Сапна,Оба пола,university_degree,285
-2013,Број,Сребреник,Оба пола,university_degree,1654
-2013,Број,stari_grad_sarajevo,Оба пола,university_degree,6106
-2013,Број,Столац,Оба пола,university_degree,1261
-2013,Број,Широки Бријег,Оба пола,university_degree,3002
-2013,Број,Теочак,Оба пола,university_degree,207
-2013,Број,Тешањ,Оба пола,university_degree,1787
-2013,Број,Томиславград,Оба пола,university_degree,2854
-2013,Број,Травник,Оба пола,university_degree,2975
-2013,Број,trnovo-fbih,Оба пола,university_degree,72
-2013,Број,Тузла,Оба пола,university_degree,13355
-2013,Број,Усора,Оба пола,university_degree,301
-2013,Број,Вареш,Оба пола,university_degree,491
-2013,Број,Велика Кладуша,Оба пола,university_degree,1221
-2013,Број,Високо,Оба пола,university_degree,2567
-2013,Број,Витез,Оба пола,university_degree,1472
-2013,Број,vogosca,Оба пола,university_degree,2810
-2013,Број,Завидовићи,Оба пола,university_degree,1535
-2013,Број,Зеница,Оба пола,university_degree,8195
-2013,Број,Жепче,Оба пола,university_degree,1373
-2013,Број,Живинице,Оба пола,university_degree,2755
-2013,Број,Бановићи,M,university_degree,733
-2013,Број,Бихаћ,M,university_degree,2479
-2013,Број,Босанска Крупа,M,university_degree,553
-2013,Број,Босански Петровац,M,university_degree,185
-2013,Број,Босанско Грахово,M,university_degree,92
-2013,Број,Бреза,M,university_degree,477
-2013,Број,Бугојно,M,university_degree,992
-2013,Број,Бусовача,M,university_degree,407
-2013,Број,Бужим,M,university_degree,295
-2013,Број,Цазин,M,university_degree,1145
-2013,Број,centar_sarajevo,M,university_degree,7006
-2013,Број,Чапљина,M,university_degree,1090
-2013,Број,Челић,M,university_degree,159
-2013,Број,Читлук,M,university_degree,793
-2013,Број,doboj-istok,M,university_degree,232
-2013,Број,doboj-jug,M,university_degree,91
-2013,Број,Добретићи,M,university_degree,29
-2013,Број,domaljevac-samac,M,university_degree,131
-2013,Број,Доњи Вакуф,M,university_degree,285
-2013,Број,Дрвар,M,university_degree,193
-2013,Број,foca-fbih,M,university_degree,46
-2013,Број,Фојница,M,university_degree,488
-2013,Број,Гламоч,M,university_degree,109
-2013,Број,Горажде,M,university_degree,933
-2013,Број,gornji_vakuf-uskoplje,M,university_degree,559
-2013,Број,Грачаница,M,university_degree,1064
-2013,Број,Градачац,M,university_degree,767
-2013,Број,Груде,M,university_degree,858
-2013,Број,hadzici,M,university_degree,639
-2013,Број,ilidza,M,university_degree,3455
-2013,Број,ilijas,M,university_degree,498
-2013,Број,Јабланица,M,university_degree,322
-2013,Број,Јајце,M,university_degree,681
-2013,Број,Какањ,M,university_degree,1009
-2013,Број,Калесија,M,university_degree,657
-2013,Број,Кисељак,M,university_degree,518
-2013,Број,Кладањ,M,university_degree,340
-2013,Број,Кључ,M,university_degree,345
-2013,Број,Коњиц,M,university_degree,879
-2013,Број,Крешево,M,university_degree,147
-2013,Број,kupres-fbih,M,university_degree,334
-2013,Број,Ливно,M,university_degree,1719
-2013,Број,Лукавац,M,university_degree,1150
-2013,Број,Љубушки,M,university_degree,1440
-2013,Број,Маглај,M,university_degree,550
-2013,Број,Мостар,M,university_degree,6346
-2013,Број,Неум,M,university_degree,287
-2013,Број,novi_grad_sarajevo,M,university_degree,7465
-2013,Број,Нови Травник,M,university_degree,660
-2013,Број,novo_sarajevo,M,university_degree,7132
-2013,Број,Оџак,M,university_degree,472
-2013,Број,Олово,M,university_degree,301
-2013,Број,Орашје,M,university_degree,696
-2013,Број,pale-fbih,M,university_degree,12
-2013,Број,Посушје,M,university_degree,822
-2013,Број,Прозор,M,university_degree,482
-2013,Број,Равно,M,university_degree,173
-2013,Број,Сански Мост,M,university_degree,862
-2013,Број,Сапна,M,university_degree,175
-2013,Број,Сребреник,M,university_degree,881
-2013,Број,stari_grad_sarajevo,M,university_degree,2639
-2013,Број,Столац,M,university_degree,609
-2013,Број,Широки Бријег,M,university_degree,1446
-2013,Број,Теочак,M,university_degree,118
-2013,Број,Тешањ,M,university_degree,931
-2013,Број,Томиславград,M,university_degree,1466
-2013,Број,Травник,M,university_degree,1519
-2013,Број,trnovo-fbih,M,university_degree,35
-2013,Број,Тузла,M,university_degree,6260
-2013,Број,Усора,M,university_degree,145
-2013,Број,Вареш,M,university_degree,268
-2013,Број,Велика Кладуша,M,university_degree,611
-2013,Број,Високо,M,university_degree,1155
-2013,Број,Витез,M,university_degree,695
-2013,Број,vogosca,M,university_degree,1309
-2013,Број,Завидовићи,M,university_degree,826
-2013,Број,Зеница,M,university_degree,4010
-2013,Број,Жепче,M,university_degree,702
-2013,Број,Живинице,M,university_degree,1477
-2013,Број,Бановићи,Ж,university_degree,543
-2013,Број,Бихаћ,Ж,university_degree,2880
-2013,Број,Босанска Крупа,Ж,university_degree,640
-2013,Број,Босански Петровац,Ж,university_degree,167
-2013,Број,Босанско Грахово,Ж,university_degree,51
-2013,Број,Бреза,Ж,university_degree,482
-2013,Број,Бугојно,Ж,university_degree,824
-2013,Број,Бусовача,Ж,university_degree,391
-2013,Број,Бужим,Ж,university_degree,312
-2013,Број,Цазин,Ж,university_degree,1259
-2013,Број,centar_sarajevo,Ж,university_degree,8294
-2013,Број,Чапљина,Ж,university_degree,1147
-2013,Број,Челић,Ж,university_degree,126
-2013,Број,Читлук,Ж,university_degree,1027
-2013,Број,doboj-istok,Ж,university_degree,210
-2013,Број,doboj-jug,Ж,university_degree,80
-2013,Број,Добретићи,Ж,university_degree,21
-2013,Број,domaljevac-samac,Ж,university_degree,158
-2013,Број,Доњи Вакуф,Ж,university_degree,237
-2013,Број,Дрвар,Ж,university_degree,170
-2013,Број,foca-fbih,Ж,university_degree,31
-2013,Број,Фојница,Ж,university_degree,397
-2013,Број,Гламоч,Ж,university_degree,101
-2013,Број,Горажде,Ж,university_degree,794
-2013,Број,gornji_vakuf-uskoplje,Ж,university_degree,491
-2013,Број,Грачаница,Ж,university_degree,1046
-2013,Број,Градачац,Ж,university_degree,789
-2013,Број,Груде,Ж,university_degree,880
-2013,Број,hadzici,Ж,university_degree,668
-2013,Број,ilidza,Ж,university_degree,3854
-2013,Број,ilijas,Ж,university_degree,543
-2013,Број,Јабланица,Ж,university_degree,347
-2013,Број,Јајце,Ж,university_degree,568
-2013,Број,Какањ,Ж,university_degree,852
-2013,Број,Калесија,Ж,university_degree,521
-2013,Број,Кисељак,Ж,university_degree,622
-2013,Број,Кладањ,Ж,university_degree,275
-2013,Број,Кључ,Ж,university_degree,350
-2013,Број,Коњиц,Ж,university_degree,831
-2013,Број,Крешево,Ж,university_degree,162
-2013,Број,kupres-fbih,Ж,university_degree,291
-2013,Број,Ливно,Ж,university_degree,1741
-2013,Број,Лукавац,Ж,university_degree,1176
-2013,Број,Љубушки,Ж,university_degree,1508
-2013,Број,Маглај,Ж,university_degree,547
-2013,Број,Мостар,Ж,university_degree,7853
-2013,Број,Неум,Ж,university_degree,245
-2013,Број,novi_grad_sarajevo,Ж,university_degree,9359
-2013,Број,Нови Травник,Ж,university_degree,670
-2013,Број,novo_sarajevo,Ж,university_degree,9013
-2013,Број,Оџак,Ж,university_degree,415
-2013,Број,Олово,Ж,university_degree,205
-2013,Број,Орашје,Ж,university_degree,624
-2013,Број,pale-fbih,Ж,university_degree,12
-2013,Број,Посушје,Ж,university_degree,934
-2013,Број,Прозор,Ж,university_degree,429
-2013,Број,Равно,Ж,university_degree,132
-2013,Број,Сански Мост,Ж,university_degree,953
-2013,Број,Сапна,Ж,university_degree,110
-2013,Број,Сребреник,Ж,university_degree,773
-2013,Број,stari_grad_sarajevo,Ж,university_degree,3467
-2013,Број,Столац,Ж,university_degree,652
-2013,Број,Широки Бријег,Ж,university_degree,1556
-2013,Број,Теочак,Ж,university_degree,89
-2013,Број,Тешањ,Ж,university_degree,856
-2013,Број,Томиславград,Ж,university_degree,1388
-2013,Број,Травник,Ж,university_degree,1456
-2013,Број,trnovo-fbih,Ж,university_degree,37
-2013,Број,Тузла,Ж,university_degree,7095
-2013,Број,Усора,Ж,university_degree,156
-2013,Број,Вареш,Ж,university_degree,223
-2013,Број,Велика Кладуша,Ж,university_degree,610
-2013,Број,Високо,Ж,university_degree,1412
-2013,Број,Витез,Ж,university_degree,777
-2013,Број,vogosca,Ж,university_degree,1501
-2013,Број,Завидовићи,Ж,university_degree,709
-2013,Број,Зеница,Ж,university_degree,4185
-2013,Број,Жепче,Ж,university_degree,671
-2013,Број,Живинице,Ж,university_degree,1278
+2013,Број,Бановићи,Оба пола,Непотпуно основно образовање,1845
+2013,Број,Бихаћ,Оба пола,Непотпуно основно образовање,3478
+2013,Број,Босанска Крупа,Оба пола,Непотпуно основно образовање,2675
+2013,Број,Босански Петровац,Оба пола,Непотпуно основно образовање,782
+2013,Број,Босанско Грахово,Оба пола,Непотпуно основно образовање,337
+2013,Број,Бреза,Оба пола,Непотпуно основно образовање,1289
+2013,Број,Бугојно,Оба пола,Непотпуно основно образовање,2265
+2013,Број,Бусовача,Оба пола,Непотпуно основно образовање,1492
+2013,Број,Бужим,Оба пола,Непотпуно основно образовање,1875
+2013,Број,Цазин,Оба пола,Непотпуно основно образовање,5704
+2013,Број,centar_sarajevo,Оба пола,Непотпуно основно образовање,1129
+2013,Број,Чапљина,Оба пола,Непотпуно основно образовање,1671
+2013,Број,Челић,Оба пола,Непотпуно основно образовање,1336
+2013,Број,Читлук,Оба пола,Непотпуно основно образовање,1074
+2013,Број,Добој-Исток,Оба пола,Непотпуно основно образовање,974
+2013,Број,Добој-Југ,Оба пола,Непотпуно основно образовање,266
+2013,Број,Добретићи,Оба пола,Непотпуно основно образовање,150
+2013,Број,Домаљевац-Шамац,Оба пола,Непотпуно основно образовање,687
+2013,Број,donji_vakuf,Оба пола,Непотпуно основно образовање,1308
+2013,Број,Дрвар,Оба пола,Непотпуно основно образовање,534
+2013,Број,Фоча-ФБиХ,Оба пола,Непотпуно основно образовање,225
+2013,Број,Фојница,Оба пола,Непотпуно основно образовање,1369
+2013,Број,Гламоч,Оба пола,Непотпуно основно образовање,443
+2013,Број,Горажде,Оба пола,Непотпуно основно образовање,1388
+2013,Број,Горњи Вакуф-Ускопље,Оба пола,Непотпуно основно образовање,1628
+2013,Број,Грачаница,Оба пола,Непотпуно основно образовање,4661
+2013,Број,Градачац,Оба пола,Непотпуно основно образовање,4577
+2013,Број,Груде,Оба пола,Непотпуно основно образовање,1079
+2013,Број,hadzici,Оба пола,Непотпуно основно образовање,1630
+2013,Број,ilidza,Оба пола,Непотпуно основно образовање,2597
+2013,Број,ilijas,Оба пола,Непотпуно основно образовање,1548
+2013,Број,Јабланица,Оба пола,Непотпуно основно образовање,1031
+2013,Број,Јајце,Оба пола,Непотпуно основно образовање,3291
+2013,Број,Какањ,Оба пола,Непотпуно основно образовање,3704
+2013,Број,Калесија,Оба пола,Непотпуно основно образовање,3528
+2013,Број,Кисељак,Оба пола,Непотпуно основно образовање,1873
+2013,Број,Кладањ,Оба пола,Непотпуно основно образовање,1154
+2013,Број,Кључ,Оба пола,Непотпуно основно образовање,1516
+2013,Број,Коњиц,Оба пола,Непотпуно основно образовање,2665
+2013,Број,Крешево,Оба пола,Непотпуно основно образовање,477
+2013,Број,Купрес-ФБиХ,Оба пола,Непотпуно основно образовање,421
+2013,Број,Ливно,Оба пола,Непотпуно основно образовање,3312
+2013,Број,Лукавац,Оба пола,Непотпуно основно образовање,4069
+2013,Број,Љубушки,Оба пола,Непотпуно основно образовање,2547
+2013,Број,Маглај,Оба пола,Непотпуно основно образовање,2087
+2013,Број,Мостар,Оба пола,Непотпуно основно образовање,4310
+2013,Број,Неум,Оба пола,Непотпуно основно образовање,282
+2013,Број,novi_grad_sarajevo,Оба пола,Непотпуно основно образовање,4062
+2013,Број,Нови Травник,Оба пола,Непотпуно основно образовање,1863
+2013,Број,novo_sarajevo,Оба пола,Непотпуно основно образовање,1351
+2013,Број,Оџак,Оба пола,Непотпуно основно образовање,1925
+2013,Број,Олово,Оба пола,Непотпуно основно образовање,1122
+2013,Број,Орашје,Оба пола,Непотпуно основно образовање,2799
+2013,Број,Пале-ФБиХ,Оба пола,Непотпуно основно образовање,92
+2013,Број,Посушје,Оба пола,Непотпуно основно образовање,864
+2013,Број,Прозор,Оба пола,Непотпуно основно образовање,1507
+2013,Број,Равно,Оба пола,Непотпуно основно образовање,206
+2013,Број,Сански Мост,Оба пола,Непотпуно основно образовање,2511
+2013,Број,Сапна,Оба пола,Непотпуно основно образовање,1367
+2013,Број,Сребреник,Оба пола,Непотпуно основно образовање,4665
+2013,Број,stari_grad_sarajevo,Оба пола,Непотпуно основно образовање,1020
+2013,Број,Столац,Оба пола,Непотпуно основно образовање,902
+2013,Број,Широки Бријег,Оба пола,Непотпуно основно образовање,1777
+2013,Број,Теочак,Оба пола,Непотпуно основно образовање,762
+2013,Број,Тешањ,Оба пола,Непотпуно основно образовање,3225
+2013,Број,Томиславград,Оба пола,Непотпуно основно образовање,2290
+2013,Број,Травник,Оба пола,Непотпуно основно образовање,5388
+2013,Број,Трново-ФБиХ,Оба пола,Непотпуно основно образовање,217
+2013,Број,Тузла,Оба пола,Непотпуно основно образовање,6228
+2013,Број,Усора,Оба пола,Непотпуно основно образовање,478
+2013,Број,Вареш,Оба пола,Непотпуно основно образовање,1345
+2013,Број,Велика Кладуша,Оба пола,Непотпуно основно образовање,5157
+2013,Број,Високо,Оба пола,Непотпуно основно образовање,3457
+2013,Број,Витез,Оба пола,Непотпуно основно образовање,1941
+2013,Број,vogosca,Оба пола,Непотпуно основно образовање,1115
+2013,Број,Завидовићи,Оба пола,Непотпуно основно образовање,3318
+2013,Број,Зеница,Оба пола,Непотпуно основно образовање,8547
+2013,Број,Жепче,Оба пола,Непотпуно основно образовање,2487
+2013,Број,Живинице,Оба пола,Непотпуно основно образовање,5685
+2013,Број,Бановићи,M,Непотпуно основно образовање,295
+2013,Број,Бихаћ,M,Непотпуно основно образовање,1050
+2013,Број,Босанска Крупа,M,Непотпуно основно образовање,998
+2013,Број,Босански Петровац,M,Непотпуно основно образовање,284
+2013,Број,Босанско Грахово,M,Непотпуно основно образовање,109
+2013,Број,Бреза,M,Непотпуно основно образовање,303
+2013,Број,Бугојно,M,Непотпуно основно образовање,621
+2013,Број,Бусовача,M,Непотпуно основно образовање,359
+2013,Број,Бужим,M,Непотпуно основно образовање,703
+2013,Број,Цазин,M,Непотпуно основно образовање,2086
+2013,Број,centar_sarajevo,M,Непотпуно основно образовање,181
+2013,Број,Чапљина,M,Непотпуно основно образовање,425
+2013,Број,Челић,M,Непотпуно основно образовање,544
+2013,Број,Читлук,M,Непотпуно основно образовање,325
+2013,Број,Добој-Исток,M,Непотпуно основно образовање,279
+2013,Број,Добој-Југ,M,Непотпуно основно образовање,61
+2013,Број,Добретићи,M,Непотпуно основно образовање,81
+2013,Број,Домаљевац-Шамац,M,Непотпуно основно образовање,297
+2013,Број,donji_vakuf,M,Непотпуно основно образовање,370
+2013,Број,Дрвар,M,Непотпуно основно образовање,105
+2013,Број,Фоча-ФБиХ,M,Непотпуно основно образовање,71
+2013,Број,Фојница,M,Непотпуно основно образовање,466
+2013,Број,Гламоч,M,Непотпуно основно образовање,146
+2013,Број,Горажде,M,Непотпуно основно образовање,309
+2013,Број,Горњи Вакуф-Ускопље,M,Непотпуно основно образовање,449
+2013,Број,Грачаница,M,Непотпуно основно образовање,1278
+2013,Број,Градачац,M,Непотпуно основно образовање,1387
+2013,Број,Груде,M,Непотпуно основно образовање,352
+2013,Број,hadzici,M,Непотпуно основно образовање,272
+2013,Број,ilidza,M,Непотпуно основно образовање,419
+2013,Број,ilijas,M,Непотпуно основно образовање,336
+2013,Број,Јабланица,M,Непотпуно основно образовање,254
+2013,Број,Јајце,M,Непотпуно основно образовање,1039
+2013,Број,Какањ,M,Непотпуно основно образовање,821
+2013,Број,Калесија,M,Непотпуно основно образовање,878
+2013,Број,Кисељак,M,Непотпуно основно образовање,493
+2013,Број,Кладањ,M,Непотпуно основно образовање,287
+2013,Број,Кључ,M,Непотпуно основно образовање,536
+2013,Број,Коњиц,M,Непотпуно основно образовање,778
+2013,Број,Крешево,M,Непотпуно основно образовање,138
+2013,Број,Купрес-ФБиХ,M,Непотпуно основно образовање,170
+2013,Број,Ливно,M,Непотпуно основно образовање,1238
+2013,Број,Лукавац,M,Непотпуно основно образовање,778
+2013,Број,Љубушки,M,Непотпуно основно образовање,889
+2013,Број,Маглај,M,Непотпуно основно образовање,553
+2013,Број,Мостар,M,Непотпуно основно образовање,929
+2013,Број,Неум,M,Непотпуно основно образовање,87
+2013,Број,novi_grad_sarajevo,M,Непотпуно основно образовање,739
+2013,Број,Нови Травник,M,Непотпуно основно образовање,359
+2013,Број,novo_sarajevo,M,Непотпуно основно образовање,210
+2013,Број,Оџак,M,Непотпуно основно образовање,718
+2013,Број,Олово,M,Непотпуно основно образовање,243
+2013,Број,Орашје,M,Непотпуно основно образовање,1110
+2013,Број,Пале-ФБиХ,M,Непотпуно основно образовање,25
+2013,Број,Посушје,M,Непотпуно основно образовање,293
+2013,Број,Прозор,M,Непотпуно основно образовање,528
+2013,Број,Равно,M,Непотпуно основно образовање,53
+2013,Број,Сански Мост,M,Непотпуно основно образовање,849
+2013,Број,Сапна,M,Непотпуно основно образовање,325
+2013,Број,Сребреник,M,Непотпуно основно образовање,1428
+2013,Број,stari_grad_sarajevo,M,Непотпуно основно образовање,155
+2013,Број,Столац,M,Непотпуно основно образовање,278
+2013,Број,Широки Бријег,M,Непотпуно основно образовање,538
+2013,Број,Теочак,M,Непотпуно основно образовање,197
+2013,Број,Тешањ,M,Непотпуно основно образовање,947
+2013,Број,Томиславград,M,Непотпуно основно образовање,803
+2013,Број,Травник,M,Непотпуно основно образовање,1567
+2013,Број,Трново-ФБиХ,M,Непотпуно основно образовање,67
+2013,Број,Тузла,M,Непотпуно основно образовање,1450
+2013,Број,Усора,M,Непотпуно основно образовање,178
+2013,Број,Вареш,M,Непотпуно основно образовање,264
+2013,Број,Велика Кладуша,M,Непотпуно основно образовање,2005
+2013,Број,Високо,M,Непотпуно основно образовање,921
+2013,Број,Витез,M,Непотпуно основно образовање,481
+2013,Број,vogosca,M,Непотпуно основно образовање,189
+2013,Број,Завидовићи,M,Непотпуно основно образовање,1010
+2013,Број,Зеница,M,Непотпуно основно образовање,1864
+2013,Број,Жепче,M,Непотпуно основно образовање,743
+2013,Број,Живинице,M,Непотпуно основно образовање,1104
+2013,Број,Бановићи,Ж,Непотпуно основно образовање,1550
+2013,Број,Бихаћ,Ж,Непотпуно основно образовање,2428
+2013,Број,Босанска Крупа,Ж,Непотпуно основно образовање,1677
+2013,Број,Босански Петровац,Ж,Непотпуно основно образовање,498
+2013,Број,Босанско Грахово,Ж,Непотпуно основно образовање,228
+2013,Број,Бреза,Ж,Непотпуно основно образовање,986
+2013,Број,Бугојно,Ж,Непотпуно основно образовање,1644
+2013,Број,Бусовача,Ж,Непотпуно основно образовање,1133
+2013,Број,Бужим,Ж,Непотпуно основно образовање,1172
+2013,Број,Цазин,Ж,Непотпуно основно образовање,3618
+2013,Број,centar_sarajevo,Ж,Непотпуно основно образовање,948
+2013,Број,Чапљина,Ж,Непотпуно основно образовање,1246
+2013,Број,Челић,Ж,Непотпуно основно образовање,792
+2013,Број,Читлук,Ж,Непотпуно основно образовање,749
+2013,Број,Добој-Исток,Ж,Непотпуно основно образовање,695
+2013,Број,Добој-Југ,Ж,Непотпуно основно образовање,205
+2013,Број,Добретићи,Ж,Непотпуно основно образовање,69
+2013,Број,Домаљевац-Шамац,Ж,Непотпуно основно образовање,390
+2013,Број,donji_vakuf,Ж,Непотпуно основно образовање,938
+2013,Број,Дрвар,Ж,Непотпуно основно образовање,429
+2013,Број,Фоча-ФБиХ,Ж,Непотпуно основно образовање,154
+2013,Број,Фојница,Ж,Непотпуно основно образовање,903
+2013,Број,Гламоч,Ж,Непотпуно основно образовање,297
+2013,Број,Горажде,Ж,Непотпуно основно образовање,1079
+2013,Број,Горњи Вакуф-Ускопље,Ж,Непотпуно основно образовање,1179
+2013,Број,Грачаница,Ж,Непотпуно основно образовање,3383
+2013,Број,Градачац,Ж,Непотпуно основно образовање,3190
+2013,Број,Груде,Ж,Непотпуно основно образовање,727
+2013,Број,hadzici,Ж,Непотпуно основно образовање,1358
+2013,Број,ilidza,Ж,Непотпуно основно образовање,2178
+2013,Број,ilijas,Ж,Непотпуно основно образовање,1212
+2013,Број,Јабланица,Ж,Непотпуно основно образовање,777
+2013,Број,Јајце,Ж,Непотпуно основно образовање,2252
+2013,Број,Какањ,Ж,Непотпуно основно образовање,2883
+2013,Број,Калесија,Ж,Непотпуно основно образовање,2650
+2013,Број,Кисељак,Ж,Непотпуно основно образовање,1380
+2013,Број,Кладањ,Ж,Непотпуно основно образовање,867
+2013,Број,Кључ,Ж,Непотпуно основно образовање,980
+2013,Број,Коњиц,Ж,Непотпуно основно образовање,1887
+2013,Број,Крешево,Ж,Непотпуно основно образовање,339
+2013,Број,Купрес-ФБиХ,Ж,Непотпуно основно образовање,251
+2013,Број,Ливно,Ж,Непотпуно основно образовање,2074
+2013,Број,Лукавац,Ж,Непотпуно основно образовање,3291
+2013,Број,Љубушки,Ж,Непотпуно основно образовање,1658
+2013,Број,Маглај,Ж,Непотпуно основно образовање,1534
+2013,Број,Мостар,Ж,Непотпуно основно образовање,3381
+2013,Број,Неум,Ж,Непотпуно основно образовање,195
+2013,Број,novi_grad_sarajevo,Ж,Непотпуно основно образовање,3323
+2013,Број,Нови Травник,Ж,Непотпуно основно образовање,1504
+2013,Број,novo_sarajevo,Ж,Непотпуно основно образовање,1141
+2013,Број,Оџак,Ж,Непотпуно основно образовање,1207
+2013,Број,Олово,Ж,Непотпуно основно образовање,879
+2013,Број,Орашје,Ж,Непотпуно основно образовање,1689
+2013,Број,Пале-ФБиХ,Ж,Непотпуно основно образовање,67
+2013,Број,Посушје,Ж,Непотпуно основно образовање,571
+2013,Број,Прозор,Ж,Непотпуно основно образовање,979
+2013,Број,Равно,Ж,Непотпуно основно образовање,153
+2013,Број,Сански Мост,Ж,Непотпуно основно образовање,1662
+2013,Број,Сапна,Ж,Непотпуно основно образовање,1042
+2013,Број,Сребреник,Ж,Непотпуно основно образовање,3237
+2013,Број,stari_grad_sarajevo,Ж,Непотпуно основно образовање,865
+2013,Број,Столац,Ж,Непотпуно основно образовање,624
+2013,Број,Широки Бријег,Ж,Непотпуно основно образовање,1239
+2013,Број,Теочак,Ж,Непотпуно основно образовање,565
+2013,Број,Тешањ,Ж,Непотпуно основно образовање,2278
+2013,Број,Томиславград,Ж,Непотпуно основно образовање,1487
+2013,Број,Травник,Ж,Непотпуно основно образовање,3821
+2013,Број,Трново-ФБиХ,Ж,Непотпуно основно образовање,150
+2013,Број,Тузла,Ж,Непотпуно основно образовање,4778
+2013,Број,Усора,Ж,Непотпуно основно образовање,300
+2013,Број,Вареш,Ж,Непотпуно основно образовање,1081
+2013,Број,Велика Кладуша,Ж,Непотпуно основно образовање,3152
+2013,Број,Високо,Ж,Непотпуно основно образовање,2536
+2013,Број,Витез,Ж,Непотпуно основно образовање,1460
+2013,Број,vogosca,Ж,Непотпуно основно образовање,926
+2013,Број,Завидовићи,Ж,Непотпуно основно образовање,2308
+2013,Број,Зеница,Ж,Непотпуно основно образовање,6683
+2013,Број,Жепче,Ж,Непотпуно основно образовање,1744
+2013,Број,Живинице,Ж,Непотпуно основно образовање,4581
+2013,Број,Бановићи,Оба пола,Основна школа,4419
+2013,Број,Бихаћ,Оба пола,Основна школа,11023
+2013,Број,Босанска Крупа,Оба пола,Основна школа,6093
+2013,Број,Босански Петровац,Оба пола,Основна школа,1564
+2013,Број,Босанско Грахово,Оба пола,Основна школа,425
+2013,Број,Бреза,Оба пола,Основна школа,2276
+2013,Број,Бугојно,Оба пола,Основна школа,6364
+2013,Број,Бусовача,Оба пола,Основна школа,3490
+2013,Број,Бужим,Оба пола,Основна школа,5643
+2013,Број,Цазин,Оба пола,Основна школа,17120
+2013,Број,centar_sarajevo,Оба пола,Основна школа,5446
+2013,Број,Чапљина,Оба пола,Основна школа,3780
+2013,Број,Челић,Оба пола,Основна школа,2884
+2013,Број,Читлук,Оба пола,Основна школа,2467
+2013,Број,Добој-Исток,Оба пола,Основна школа,2026
+2013,Број,Добој-Југ,Оба пола,Основна школа,854
+2013,Број,Добретићи,Оба пола,Основна школа,451
+2013,Број,Домаљевац-Шамац,Оба пола,Основна школа,968
+2013,Број,donji_vakuf,Оба пола,Основна школа,3250
+2013,Број,Дрвар,Оба пола,Основна школа,1232
+2013,Број,Фоча-ФБиХ,Оба пола,Основна школа,440
+2013,Број,Фојница,Оба пола,Основна школа,2448
+2013,Број,Гламоч,Оба пола,Основна школа,781
+2013,Број,Горажде,Оба пола,Основна школа,4197
+2013,Број,Горњи Вакуф-Ускопље,Оба пола,Основна школа,4130
+2013,Број,Грачаница,Оба пола,Основна школа,9413
+2013,Број,Градачац,Оба пола,Основна школа,9408
+2013,Број,Груде,Оба пола,Основна школа,2466
+2013,Број,hadzici,Оба пола,Основна школа,4317
+2013,Број,ilidza,Оба пола,Основна школа,9887
+2013,Број,ilijas,Оба пола,Основна школа,3968
+2013,Број,Јабланица,Оба пола,Основна школа,1662
+2013,Број,Јајце,Оба пола,Основна школа,4851
+2013,Број,Какањ,Оба пола,Основна школа,7556
+2013,Број,Калесија,Оба пола,Основна школа,6841
+2013,Број,Кисељак,Оба пола,Основна школа,3616
+2013,Број,Кладањ,Оба пола,Основна школа,2730
+2013,Број,Кључ,Оба пола,Основна школа,3753
+2013,Број,Коњиц,Оба пола,Основна школа,5206
+2013,Број,Крешево,Оба пола,Основна школа,861
+2013,Број,Купрес-ФБиХ,Оба пола,Основна школа,714
+2013,Број,Ливно,Оба пола,Основна школа,5245
+2013,Број,Лукавац,Оба пола,Основна школа,7860
+2013,Број,Љубушки,Оба пола,Основна школа,3509
+2013,Број,Маглај,Оба пола,Основна школа,4758
+2013,Број,Мостар,Оба пола,Основна школа,14243
+2013,Број,Неум,Оба пола,Основна школа,608
+2013,Број,novi_grad_sarajevo,Оба пола,Основна школа,15973
+2013,Број,Нови Травник,Оба пола,Основна школа,4298
+2013,Број,novo_sarajevo,Оба пола,Основна школа,6456
+2013,Број,Оџак,Оба пола,Основна школа,3982
+2013,Број,Олово,Оба пола,Основна школа,2421
+2013,Број,Орашје,Оба пола,Основна школа,4015
+2013,Број,Пале-ФБиХ,Оба пола,Основна школа,249
+2013,Број,Посушје,Оба пола,Основна школа,3149
+2013,Број,Прозор,Оба пола,Основна школа,2471
+2013,Број,Равно,Оба пола,Основна школа,442
+2013,Број,Сански Мост,Оба пола,Основна школа,8907
+2013,Број,Сапна,Оба пола,Основна школа,2930
+2013,Број,Сребреник,Оба пола,Основна школа,8593
+2013,Број,stari_grad_sarajevo,Оба пола,Основна школа,4518
+2013,Број,Столац,Оба пола,Основна школа,2417
+2013,Број,Широки Бријег,Оба пола,Основна школа,3451
+2013,Број,Теочак,Оба пола,Основна школа,1846
+2013,Број,Тешањ,Оба пола,Основна школа,9991
+2013,Број,Томиславград,Оба пола,Основна школа,5398
+2013,Број,Травник,Оба пола,Основна школа,11614
+2013,Број,Трново-ФБиХ,Оба пола,Основна школа,290
+2013,Број,Тузла,Оба пола,Основна школа,15907
+2013,Број,Усора,Оба пола,Основна школа,1370
+2013,Број,Вареш,Оба пола,Основна школа,1649
+2013,Број,Велика Кладуша,Оба пола,Основна школа,11344
+2013,Број,Високо,Оба пола,Основна школа,6961
+2013,Број,Витез,Оба пола,Основна школа,4317
+2013,Број,vogosca,Оба пола,Основна школа,4100
+2013,Број,Завидовићи,Оба пола,Основна школа,7764
+2013,Број,Зеница,Оба пола,Основна школа,19375
+2013,Број,Жепче,Оба пола,Основна школа,6573
+2013,Број,Живинице,Оба пола,Основна школа,11174
+2013,Број,Бановићи,M,Основна школа,1488
+2013,Број,Бихаћ,M,Основна школа,4692
+2013,Број,Босанска Крупа,M,Основна школа,2713
+2013,Број,Босански Петровац,M,Основна школа,752
+2013,Број,Босанско Грахово,M,Основна школа,197
+2013,Број,Бреза,M,Основна школа,816
+2013,Број,Бугојно,M,Основна школа,2713
+2013,Број,Бусовача,M,Основна школа,1485
+2013,Број,Бужим,M,Основна школа,2656
+2013,Број,Цазин,M,Основна школа,7667
+2013,Број,centar_sarajevo,M,Основна школа,1889
+2013,Број,Чапљина,M,Основна школа,1561
+2013,Број,Челић,M,Основна школа,1313
+2013,Број,Читлук,M,Основна школа,1072
+2013,Број,Добој-Исток,M,Основна школа,863
+2013,Број,Добој-Југ,M,Основна школа,346
+2013,Број,Добретићи,M,Основна школа,245
+2013,Број,Домаљевац-Шамац,M,Основна школа,488
+2013,Број,donji_vakuf,M,Основна школа,1432
+2013,Број,Дрвар,M,Основна школа,466
+2013,Број,Фоча-ФБиХ,M,Основна школа,202
+2013,Број,Фојница,M,Основна школа,1059
+2013,Број,Гламоч,M,Основна школа,357
+2013,Број,Горажде,M,Основна школа,1544
+2013,Број,Горњи Вакуф-Ускопље,M,Основна школа,1925
+2013,Број,Грачаница,M,Основна школа,3765
+2013,Број,Градачац,M,Основна школа,4069
+2013,Број,Груде,M,Основна школа,1172
+2013,Број,hadzici,M,Основна школа,1641
+2013,Број,ilidza,M,Основна школа,3476
+2013,Број,ilijas,M,Основна школа,1526
+2013,Број,Јабланица,M,Основна школа,638
+2013,Број,Јајце,M,Основна школа,2227
+2013,Број,Какањ,M,Основна школа,2703
+2013,Број,Калесија,M,Основна школа,2869
+2013,Број,Кисељак,M,Основна школа,1573
+2013,Број,Кладањ,M,Основна школа,1070
+2013,Број,Кључ,M,Основна школа,1778
+2013,Број,Коњиц,M,Основна школа,2205
+2013,Број,Крешево,M,Основна школа,335
+2013,Број,Купрес-ФБиХ,M,Основна школа,358
+2013,Број,Ливно,M,Основна школа,2491
+2013,Број,Лукавац,M,Основна школа,2992
+2013,Број,Љубушки,M,Основна школа,1694
+2013,Број,Маглај,M,Основна школа,1890
+2013,Број,Мостар,M,Основна школа,5501
+2013,Број,Неум,M,Основна школа,281
+2013,Број,novi_grad_sarajevo,M,Основна школа,5492
+2013,Број,Нови Травник,M,Основна школа,1682
+2013,Број,novo_sarajevo,M,Основна школа,2258
+2013,Број,Оџак,M,Основна школа,1870
+2013,Број,Олово,M,Основна школа,963
+2013,Број,Орашје,M,Основна школа,1958
+2013,Број,Пале-ФБиХ,M,Основна школа,93
+2013,Број,Посушје,M,Основна школа,1558
+2013,Број,Прозор,M,Основна школа,1244
+2013,Број,Равно,M,Основна школа,204
+2013,Број,Сански Мост,M,Основна школа,3935
+2013,Број,Сапна,M,Основна школа,1457
+2013,Број,Сребреник,M,Основна школа,3715
+2013,Број,stari_grad_sarajevo,M,Основна школа,1634
+2013,Број,Столац,M,Основна школа,980
+2013,Број,Широки Бријег,M,Основна школа,1633
+2013,Број,Теочак,M,Основна школа,823
+2013,Број,Тешањ,M,Основна школа,4192
+2013,Број,Томиславград,M,Основна школа,2765
+2013,Број,Травник,M,Основна школа,5002
+2013,Број,Трново-ФБиХ,M,Основна школа,124
+2013,Број,Тузла,M,Основна школа,6043
+2013,Број,Усора,M,Основна школа,603
+2013,Број,Вареш,M,Основна школа,623
+2013,Број,Велика Кладуша,M,Основна школа,5360
+2013,Број,Високо,M,Основна школа,3040
+2013,Број,Витез,M,Основна школа,1713
+2013,Број,vogosca,M,Основна школа,1387
+2013,Број,Завидовићи,M,Основна школа,2812
+2013,Број,Зеница,M,Основна школа,7484
+2013,Број,Жепче,M,Основна школа,2813
+2013,Број,Живинице,M,Основна школа,4423
+2013,Број,Бановићи,Ж,Основна школа,2931
+2013,Број,Бихаћ,Ж,Основна школа,6331
+2013,Број,Босанска Крупа,Ж,Основна школа,3380
+2013,Број,Босански Петровац,Ж,Основна школа,812
+2013,Број,Босанско Грахово,Ж,Основна школа,228
+2013,Број,Бреза,Ж,Основна школа,1460
+2013,Број,Бугојно,Ж,Основна школа,3651
+2013,Број,Бусовача,Ж,Основна школа,2005
+2013,Број,Бужим,Ж,Основна школа,2987
+2013,Број,Цазин,Ж,Основна школа,9453
+2013,Број,centar_sarajevo,Ж,Основна школа,3557
+2013,Број,Чапљина,Ж,Основна школа,2219
+2013,Број,Челић,Ж,Основна школа,1571
+2013,Број,Читлук,Ж,Основна школа,1395
+2013,Број,Добој-Исток,Ж,Основна школа,1163
+2013,Број,Добој-Југ,Ж,Основна школа,508
+2013,Број,Добретићи,Ж,Основна школа,206
+2013,Број,Домаљевац-Шамац,Ж,Основна школа,480
+2013,Број,donji_vakuf,Ж,Основна школа,1818
+2013,Број,Дрвар,Ж,Основна школа,766
+2013,Број,Фоча-ФБиХ,Ж,Основна школа,238
+2013,Број,Фојница,Ж,Основна школа,1389
+2013,Број,Гламоч,Ж,Основна школа,424
+2013,Број,Горажде,Ж,Основна школа,2653
+2013,Број,Горњи Вакуф-Ускопље,Ж,Основна школа,2205
+2013,Број,Грачаница,Ж,Основна школа,5648
+2013,Број,Градачац,Ж,Основна школа,5339
+2013,Број,Груде,Ж,Основна школа,1294
+2013,Број,hadzici,Ж,Основна школа,2676
+2013,Број,ilidza,Ж,Основна школа,6411
+2013,Број,ilijas,Ж,Основна школа,2442
+2013,Број,Јабланица,Ж,Основна школа,1024
+2013,Број,Јајце,Ж,Основна школа,2624
+2013,Број,Какањ,Ж,Основна школа,4853
+2013,Број,Калесија,Ж,Основна школа,3972
+2013,Број,Кисељак,Ж,Основна школа,2043
+2013,Број,Кладањ,Ж,Основна школа,1660
+2013,Број,Кључ,Ж,Основна школа,1975
+2013,Број,Коњиц,Ж,Основна школа,3001
+2013,Број,Крешево,Ж,Основна школа,526
+2013,Број,Купрес-ФБиХ,Ж,Основна школа,356
+2013,Број,Ливно,Ж,Основна школа,2754
+2013,Број,Лукавац,Ж,Основна школа,4868
+2013,Број,Љубушки,Ж,Основна школа,1815
+2013,Број,Маглај,Ж,Основна школа,2868
+2013,Број,Мостар,Ж,Основна школа,8742
+2013,Број,Неум,Ж,Основна школа,327
+2013,Број,novi_grad_sarajevo,Ж,Основна школа,10481
+2013,Број,Нови Травник,Ж,Основна школа,2616
+2013,Број,novo_sarajevo,Ж,Основна школа,4198
+2013,Број,Оџак,Ж,Основна школа,2112
+2013,Број,Олово,Ж,Основна школа,1458
+2013,Број,Орашје,Ж,Основна школа,2057
+2013,Број,Пале-ФБиХ,Ж,Основна школа,156
+2013,Број,Посушје,Ж,Основна школа,1591
+2013,Број,Прозор,Ж,Основна школа,1227
+2013,Број,Равно,Ж,Основна школа,238
+2013,Број,Сански Мост,Ж,Основна школа,4972
+2013,Број,Сапна,Ж,Основна школа,1473
+2013,Број,Сребреник,Ж,Основна школа,4878
+2013,Број,stari_grad_sarajevo,Ж,Основна школа,2884
+2013,Број,Столац,Ж,Основна школа,1437
+2013,Број,Широки Бријег,Ж,Основна школа,1818
+2013,Број,Теочак,Ж,Основна школа,1023
+2013,Број,Тешањ,Ж,Основна школа,5799
+2013,Број,Томиславград,Ж,Основна школа,2633
+2013,Број,Травник,Ж,Основна школа,6612
+2013,Број,Трново-ФБиХ,Ж,Основна школа,166
+2013,Број,Тузла,Ж,Основна школа,9864
+2013,Број,Усора,Ж,Основна школа,767
+2013,Број,Вареш,Ж,Основна школа,1026
+2013,Број,Велика Кладуша,Ж,Основна школа,5984
+2013,Број,Високо,Ж,Основна школа,3921
+2013,Број,Витез,Ж,Основна школа,2604
+2013,Број,vogosca,Ж,Основна школа,2713
+2013,Број,Завидовићи,Ж,Основна школа,4952
+2013,Број,Зеница,Ж,Основна школа,11891
+2013,Број,Жепче,Ж,Основна школа,3760
+2013,Број,Живинице,Ж,Основна школа,6751
+2013,Број,Бановићи,Оба пола,Средња школа,10567
+2013,Број,Бихаћ,Оба пола,Средња школа,22893
+2013,Број,Босанска Крупа,Оба пола,Средња школа,8892
+2013,Број,Босански Петровац,Оба пола,Средња школа,3060
+2013,Број,Босанско Грахово,Оба пола,Средња школа,1116
+2013,Број,Бреза,Оба пола,Средња школа,6653
+2013,Број,Бугојно,Оба пола,Средња школа,13972
+2013,Број,Бусовача,Оба пола,Средња школа,7814
+2013,Број,Бужим,Оба пола,Средња школа,5704
+2013,Број,Цазин,Оба пола,Средња школа,23905
+2013,Број,centar_sarajevo,Оба пола,Средња школа,22213
+2013,Број,Чапљина,Оба пола,Средња школа,12475
+2013,Број,Челић,Оба пола,Средња школа,3489
+2013,Број,Читлук,Оба пола,Средња школа,8453
+2013,Број,Добој-Исток,Оба пола,Средња школа,4280
+2013,Број,Добој-Југ,Оба пола,Средња школа,1864
+2013,Број,Добретићи,Оба пола,Средња школа,651
+2013,Број,Домаљевац-Шамац,Оба пола,Средња школа,1754
+2013,Број,donji_vakuf,Оба пола,Средња школа,5494
+2013,Број,Дрвар,Оба пола,Средња школа,3594
+2013,Број,Фоча-ФБиХ,Оба пола,Средња школа,748
+2013,Број,Фојница,Оба пола,Средња школа,4766
+2013,Број,Гламоч,Оба пола,Средња школа,1572
+2013,Број,Горажде,Оба пола,Средња школа,9103
+2013,Број,Горњи Вакуф-Ускопље,Оба пола,Средња школа,8817
+2013,Број,Грачаница,Оба пола,Средња школа,18522
+2013,Број,Градачац,Оба пола,Средња школа,14750
+2013,Број,Груде,Оба пола,Средња школа,7830
+2013,Број,hadzici,Оба пола,Средња школа,10861
+2013,Број,ilidza,Оба пола,Средња школа,31683
+2013,Број,ilijas,Оба пола,Средња школа,8352
+2013,Број,Јабланица,Оба пола,Средња школа,4565
+2013,Број,Јајце,Оба пола,Средња школа,11293
+2013,Број,Какањ,Оба пола,Средња школа,15259
+2013,Број,Калесија,Оба пола,Средња школа,13592
+2013,Број,Кисељак,Оба пола,Средња школа,9291
+2013,Број,Кладањ,Оба пола,Средња школа,5276
+2013,Број,Кључ,Оба пола,Средња школа,6950
+2013,Број,Коњиц,Оба пола,Средња школа,9767
+2013,Број,Крешево,Оба пола,Средња школа,2391
+2013,Број,Купрес-ФБиХ,Оба пола,Средња школа,2154
+2013,Број,Ливно,Оба пола,Средња школа,14513
+2013,Број,Лукавац,Оба пола,Средња школа,20955
+2013,Број,Љубушки,Оба пола,Средња школа,12685
+2013,Број,Маглај,Оба пола,Средња школа,10053
+2013,Број,Мостар,Оба пола,Средња школа,50196
+2013,Број,Неум,Оба пола,Средња школа,2092
+2013,Број,novi_grad_sarajevo,Оба пола,Средња школа,55560
+2013,Број,Нови Травник,Оба пола,Средња школа,10488
+2013,Број,novo_sarajevo,Оба пола,Средња школа,27377
+2013,Број,Оџак,Оба пола,Средња школа,8118
+2013,Број,Олово,Оба пола,Средња школа,4040
+2013,Број,Орашје,Оба пола,Средња школа,7596
+2013,Број,Пале-ФБиХ,Оба пола,Средња школа,322
+2013,Број,Посушје,Оба пола,Средња школа,9020
+2013,Број,Прозор,Оба пола,Средња школа,5640
+2013,Број,Равно,Оба пола,Средња школа,1588
+2013,Број,Сански Мост,Оба пола,Средња школа,18955
+2013,Број,Сапна,Оба пола,Средња школа,3667
+2013,Број,Сребреник,Оба пола,Средња школа,15295
+2013,Број,stari_grad_sarajevo,Оба пола,Средња школа,18034
+2013,Број,Столац,Оба пола,Средња школа,6576
+2013,Број,Широки Бријег,Оба пола,Средња школа,13451
+2013,Број,Теочак,Оба пола,Средња школа,2938
+2013,Број,Тешањ,Оба пола,Средња школа,17257
+2013,Број,Томиславград,Оба пола,Средња школа,13379
+2013,Број,Травник,Оба пола,Средња школа,20889
+2013,Број,Трново-ФБиХ,Оба пола,Средња школа,549
+2013,Број,Тузла,Оба пола,Средња школа,52917
+2013,Број,Усора,Оба пола,Средња школа,3000
+2013,Број,Вареш,Оба пола,Средња школа,3914
+2013,Број,Велика Кладуша,Оба пола,Средња школа,11477
+2013,Број,Високо,Оба пола,Средња школа,17614
+2013,Број,Витез,Оба пола,Средња школа,11791
+2013,Број,vogosca,Оба пола,Средња школа,12299
+2013,Број,Завидовићи,Оба пола,Средња школа,15051
+2013,Број,Зеница,Оба пола,Средња школа,49301
+2013,Број,Жепче,Оба пола,Средња школа,12585
+2013,Број,Живинице,Оба пола,Средња школа,24753
+2013,Број,Бановићи,M,Средња школа,6668
+2013,Број,Бихаћ,M,Средња школа,12626
+2013,Број,Босанска Крупа,M,Средња школа,5304
+2013,Број,Босански Петровац,M,Средња школа,1784
+2013,Број,Босанско Грахово,M,Средња школа,711
+2013,Број,Бреза,M,Средња школа,4058
+2013,Број,Бугојно,M,Средња школа,8010
+2013,Број,Бусовача,M,Средња школа,4855
+2013,Број,Бужим,M,Средња школа,3639
+2013,Број,Цазин,M,Средња школа,14381
+2013,Број,centar_sarajevo,M,Средња школа,10885
+2013,Број,Чапљина,M,Средња школа,7100
+2013,Број,Челић,M,Средња школа,2141
+2013,Број,Читлук,M,Средња школа,4733
+2013,Број,Добој-Исток,M,Средња школа,2556
+2013,Број,Добој-Југ,M,Средња школа,1111
+2013,Број,Добретићи,M,Средња школа,430
+2013,Број,Домаљевац-Шамац,M,Средња школа,973
+2013,Број,donji_vakuf,M,Средња школа,3313
+2013,Број,Дрвар,M,Средња школа,2098
+2013,Број,Фоча-ФБиХ,M,Средња школа,486
+2013,Број,Фојница,M,Средња школа,2861
+2013,Број,Гламоч,M,Средња школа,963
+2013,Број,Горажде,M,Средња школа,5252
+2013,Број,Горњи Вакуф-Ускопље,M,Средња школа,5192
+2013,Број,Грачаница,M,Средња школа,10727
+2013,Број,Градачац,M,Средња школа,8767
+2013,Број,Груде,M,Средња школа,4306
+2013,Број,hadzici,M,Средња школа,6625
+2013,Број,ilidza,M,Средња школа,17593
+2013,Број,ilijas,M,Средња школа,4982
+2013,Број,Јабланица,M,Средња школа,2795
+2013,Број,Јајце,M,Средња школа,7050
+2013,Број,Какањ,M,Средња школа,9882
+2013,Број,Калесија,M,Средња школа,8660
+2013,Број,Кисељак,M,Средња школа,5495
+2013,Број,Кладањ,M,Средња школа,3206
+2013,Број,Кључ,M,Средња школа,4083
+2013,Број,Коњиц,M,Средња школа,5937
+2013,Број,Крешево,M,Средња школа,1416
+2013,Број,Купрес-ФБиХ,M,Средња школа,1159
+2013,Број,Ливно,M,Средња школа,8114
+2013,Број,Лукавац,M,Средња школа,12568
+2013,Број,Љубушки,M,Средња школа,6924
+2013,Број,Маглај,M,Средња школа,5969
+2013,Број,Мостар,M,Средња школа,27372
+2013,Број,Неум,M,Средња школа,1157
+2013,Број,novi_grad_sarajevo,M,Средња школа,29274
+2013,Број,Нови Травник,M,Средња школа,6287
+2013,Број,novo_sarajevo,M,Средња школа,13288
+2013,Број,Оџак,M,Средња школа,4533
+2013,Број,Олово,M,Средња школа,2667
+2013,Број,Орашје,M,Средња школа,4325
+2013,Број,Пале-ФБиХ,M,Средња школа,222
+2013,Број,Посушје,M,Средња школа,5026
+2013,Број,Прозор,M,Средња школа,3308
+2013,Број,Равно,M,Средња школа,910
+2013,Број,Сански Мост,M,Средња школа,11103
+2013,Број,Сапна,M,Средња школа,2509
+2013,Број,Сребреник,M,Средња школа,9129
+2013,Број,stari_grad_sarajevo,M,Средња школа,9459
+2013,Број,Столац,M,Средња школа,3873
+2013,Број,Широки Бријег,M,Средња школа,7390
+2013,Број,Теочак,M,Средња школа,1891
+2013,Број,Тешањ,M,Средња школа,10235
+2013,Број,Томиславград,M,Средња школа,7566
+2013,Број,Травник,M,Средња школа,12467
+2013,Број,Трново-ФБиХ,M,Средња школа,391
+2013,Број,Тузла,M,Средња школа,28217
+2013,Број,Усора,M,Средња школа,1756
+2013,Број,Вареш,M,Средња школа,2521
+2013,Број,Велика Кладуша,M,Средња школа,6766
+2013,Број,Високо,M,Средња школа,10178
+2013,Број,Витез,M,Средња школа,6815
+2013,Број,vogosca,M,Средња школа,6798
+2013,Број,Завидовићи,M,Средња школа,9485
+2013,Број,Зеница,M,Средња школа,28605
+2013,Број,Жепче,M,Средња школа,7714
+2013,Број,Живинице,M,Средња школа,15656
+2013,Број,Бановићи,Ж,Средња школа,3899
+2013,Број,Бихаћ,Ж,Средња школа,10267
+2013,Број,Босанска Крупа,Ж,Средња школа,3588
+2013,Број,Босански Петровац,Ж,Средња школа,1276
+2013,Број,Босанско Грахово,Ж,Средња школа,405
+2013,Број,Бреза,Ж,Средња школа,2595
+2013,Број,Бугојно,Ж,Средња школа,5962
+2013,Број,Бусовача,Ж,Средња школа,2959
+2013,Број,Бужим,Ж,Средња школа,2065
+2013,Број,Цазин,Ж,Средња школа,9524
+2013,Број,centar_sarajevo,Ж,Средња школа,11328
+2013,Број,Чапљина,Ж,Средња школа,5375
+2013,Број,Челић,Ж,Средња школа,1348
+2013,Број,Читлук,Ж,Средња школа,3720
+2013,Број,Добој-Исток,Ж,Средња школа,1724
+2013,Број,Добој-Југ,Ж,Средња школа,753
+2013,Број,Добретићи,Ж,Средња школа,221
+2013,Број,Домаљевац-Шамац,Ж,Средња школа,781
+2013,Број,donji_vakuf,Ж,Средња школа,2181
+2013,Број,Дрвар,Ж,Средња школа,1496
+2013,Број,Фоча-ФБиХ,Ж,Средња школа,262
+2013,Број,Фојница,Ж,Средња школа,1905
+2013,Број,Гламоч,Ж,Средња школа,609
+2013,Број,Горажде,Ж,Средња школа,3851
+2013,Број,Горњи Вакуф-Ускопље,Ж,Средња школа,3625
+2013,Број,Грачаница,Ж,Средња школа,7795
+2013,Број,Градачац,Ж,Средња школа,5983
+2013,Број,Груде,Ж,Средња школа,3524
+2013,Број,hadzici,Ж,Средња школа,4236
+2013,Број,ilidza,Ж,Средња школа,14090
+2013,Број,ilijas,Ж,Средња школа,3370
+2013,Број,Јабланица,Ж,Средња школа,1770
+2013,Број,Јајце,Ж,Средња школа,4243
+2013,Број,Какањ,Ж,Средња школа,5377
+2013,Број,Калесија,Ж,Средња школа,4932
+2013,Број,Кисељак,Ж,Средња школа,3796
+2013,Број,Кладањ,Ж,Средња школа,2070
+2013,Број,Кључ,Ж,Средња школа,2867
+2013,Број,Коњиц,Ж,Средња школа,3830
+2013,Број,Крешево,Ж,Средња школа,975
+2013,Број,Купрес-ФБиХ,Ж,Средња школа,995
+2013,Број,Ливно,Ж,Средња школа,6399
+2013,Број,Лукавац,Ж,Средња школа,8387
+2013,Број,Љубушки,Ж,Средња школа,5761
+2013,Број,Маглај,Ж,Средња школа,4084
+2013,Број,Мостар,Ж,Средња школа,22824
+2013,Број,Неум,Ж,Средња школа,935
+2013,Број,novi_grad_sarajevo,Ж,Средња школа,26286
+2013,Број,Нови Травник,Ж,Средња школа,4201
+2013,Број,novo_sarajevo,Ж,Средња школа,14089
+2013,Број,Оџак,Ж,Средња школа,3585
+2013,Број,Олово,Ж,Средња школа,1373
+2013,Број,Орашје,Ж,Средња школа,3271
+2013,Број,Пале-ФБиХ,Ж,Средња школа,100
+2013,Број,Посушје,Ж,Средња школа,3994
+2013,Број,Прозор,Ж,Средња школа,2332
+2013,Број,Равно,Ж,Средња школа,678
+2013,Број,Сански Мост,Ж,Средња школа,7852
+2013,Број,Сапна,Ж,Средња школа,1158
+2013,Број,Сребреник,Ж,Средња школа,6166
+2013,Број,stari_grad_sarajevo,Ж,Средња школа,8575
+2013,Број,Столац,Ж,Средња школа,2703
+2013,Број,Широки Бријег,Ж,Средња школа,6061
+2013,Број,Теочак,Ж,Средња школа,1047
+2013,Број,Тешањ,Ж,Средња школа,7022
+2013,Број,Томиславград,Ж,Средња школа,5813
+2013,Број,Травник,Ж,Средња школа,8422
+2013,Број,Трново-ФБиХ,Ж,Средња школа,158
+2013,Број,Тузла,Ж,Средња школа,24700
+2013,Број,Усора,Ж,Средња школа,1244
+2013,Број,Вареш,Ж,Средња школа,1393
+2013,Број,Велика Кладуша,Ж,Средња школа,4711
+2013,Број,Високо,Ж,Средња школа,7436
+2013,Број,Витез,Ж,Средња школа,4976
+2013,Број,vogosca,Ж,Средња школа,5501
+2013,Број,Завидовићи,Ж,Средња школа,5566
+2013,Број,Зеница,Ж,Средња школа,20696
+2013,Број,Жепче,Ж,Средња школа,4871
+2013,Број,Живинице,Ж,Средња школа,9097
+2013,Број,Бановићи,Оба пола,Специјализација послије средње школе,150
+2013,Број,Бихаћ,Оба пола,Специјализација послије средње школе,216
+2013,Број,Босанска Крупа,Оба пола,Специјализација послије средње школе,64
+2013,Број,Босански Петровац,Оба пола,Специјализација послије средње школе,16
+2013,Број,Босанско Грахово,Оба пола,Специјализација послије средње школе,3
+2013,Број,Бреза,Оба пола,Специјализација послије средње школе,111
+2013,Број,Бугојно,Оба пола,Специјализација послије средње школе,114
+2013,Број,Бусовача,Оба пола,Специјализација послије средње школе,104
+2013,Број,Бужим,Оба пола,Специјализација послије средње школе,39
+2013,Број,Цазин,Оба пола,Специјализација послије средње школе,140
+2013,Број,centar_sarajevo,Оба пола,Специјализација послије средње школе,282
+2013,Број,Чапљина,Оба пола,Специјализација послије средње школе,130
+2013,Број,Челић,Оба пола,Специјализација послије средње школе,16
+2013,Број,Читлук,Оба пола,Специјализација послије средње школе,84
+2013,Број,Добој-Исток,Оба пола,Специјализација послије средње школе,24
+2013,Број,Добој-Југ,Оба пола,Специјализација послије средње школе,23
+2013,Број,Добретићи,Оба пола,Специјализација послије средње школе,1
+2013,Број,Домаљевац-Шамац,Оба пола,Специјализација послије средње школе,30
+2013,Број,donji_vakuf,Оба пола,Специјализација послије средње школе,24
+2013,Број,Дрвар,Оба пола,Специјализација послије средње школе,32
+2013,Број,Фоча-ФБиХ,Оба пола,Специјализација послије средње школе,11
+2013,Број,Фојница,Оба пола,Специјализација послије средње школе,42
+2013,Број,Гламоч,Оба пола,Специјализација послије средње школе,13
+2013,Број,Горажде,Оба пола,Специјализација послије средње школе,190
+2013,Број,Горњи Вакуф-Ускопље,Оба пола,Специјализација послије средње школе,30
+2013,Број,Грачаница,Оба пола,Специјализација послије средње школе,189
+2013,Број,Градачац,Оба пола,Специјализација послије средње школе,136
+2013,Број,Груде,Оба пола,Специјализација послије средње школе,75
+2013,Број,hadzici,Оба пола,Специјализација послије средње школе,89
+2013,Број,ilidza,Оба пола,Специјализација послије средње школе,375
+2013,Број,ilijas,Оба пола,Специјализација послије средње школе,97
+2013,Број,Јабланица,Оба пола,Специјализација послије средње школе,133
+2013,Број,Јајце,Оба пола,Специјализација послије средње школе,113
+2013,Број,Какањ,Оба пола,Специјализација послије средње школе,313
+2013,Број,Калесија,Оба пола,Специјализација послије средње школе,115
+2013,Број,Кисељак,Оба пола,Специјализација послије средње школе,80
+2013,Број,Кладањ,Оба пола,Специјализација послије средње школе,24
+2013,Број,Кључ,Оба пола,Специјализација послије средње школе,74
+2013,Број,Коњиц,Оба пола,Специјализација послије средње школе,144
+2013,Број,Крешево,Оба пола,Специјализација послије средње школе,22
+2013,Број,Купрес-ФБиХ,Оба пола,Специјализација послије средње школе,11
+2013,Број,Ливно,Оба пола,Специјализација послије средње школе,164
+2013,Број,Лукавац,Оба пола,Специјализација послије средње школе,517
+2013,Број,Љубушки,Оба пола,Специјализација послије средње школе,138
+2013,Број,Маглај,Оба пола,Специјализација послије средње школе,208
+2013,Број,Мостар,Оба пола,Специјализација послије средње школе,698
+2013,Број,Неум,Оба пола,Специјализација послије средње школе,53
+2013,Број,novi_grad_sarajevo,Оба пола,Специјализација послије средње школе,665
+2013,Број,Нови Травник,Оба пола,Специјализација послије средње школе,335
+2013,Број,novo_sarajevo,Оба пола,Специјализација послије средње школе,446
+2013,Број,Оџак,Оба пола,Специјализација послије средње школе,94
+2013,Број,Олово,Оба пола,Специјализација послије средње школе,32
+2013,Број,Орашје,Оба пола,Специјализација послије средње школе,76
+2013,Број,Пале-ФБиХ,Оба пола,Специјализација послије средње школе,4
+2013,Број,Посушје,Оба пола,Специјализација послије средње школе,103
+2013,Број,Прозор,Оба пола,Специјализација послије средње школе,25
+2013,Број,Равно,Оба пола,Специјализација послије средње школе,6
+2013,Број,Сански Мост,Оба пола,Специјализација послије средње школе,207
+2013,Број,Сапна,Оба пола,Специјализација послије средње школе,11
+2013,Број,Сребреник,Оба пола,Специјализација послије средње школе,145
+2013,Број,stari_grad_sarajevo,Оба пола,Специјализација послије средње школе,238
+2013,Број,Столац,Оба пола,Специјализација послије средње школе,74
+2013,Број,Широки Бријег,Оба пола,Специјализација послије средње школе,71
+2013,Број,Теочак,Оба пола,Специјализација послије средње школе,20
+2013,Број,Тешањ,Оба пола,Специјализација послије средње школе,271
+2013,Број,Томиславград,Оба пола,Специјализација послије средње школе,74
+2013,Број,Травник,Оба пола,Специјализација послије средње школе,248
+2013,Број,Трново-ФБиХ,Оба пола,Специјализација послије средње школе,13
+2013,Број,Тузла,Оба пола,Специјализација послије средње школе,1125
+2013,Број,Усора,Оба пола,Специјализација послије средње школе,42
+2013,Број,Вареш,Оба пола,Специјализација послије средње школе,88
+2013,Број,Велика Кладуша,Оба пола,Специјализација послије средње школе,71
+2013,Број,Високо,Оба пола,Специјализација послије средње школе,226
+2013,Број,Витез,Оба пола,Специјализација послије средње школе,208
+2013,Број,vogosca,Оба пола,Специјализација послије средње школе,180
+2013,Број,Завидовићи,Оба пола,Специјализација послије средње школе,152
+2013,Број,Зеница,Оба пола,Специјализација послије средње школе,1966
+2013,Број,Жепче,Оба пола,Специјализација послије средње школе,161
+2013,Број,Живинице,Оба пола,Специјализација послије средње школе,220
+2013,Број,Бановићи,M,Специјализација послије средње школе,142
+2013,Број,Бихаћ,M,Специјализација послије средње школе,181
+2013,Број,Босанска Крупа,M,Специјализација послије средње школе,45
+2013,Број,Босански Петровац,M,Специјализација послије средње школе,13
+2013,Број,Босанско Грахово,M,Специјализација послије средње школе,3
+2013,Број,Бреза,M,Специјализација послије средње школе,101
+2013,Број,Бугојно,M,Специјализација послије средње школе,85
+2013,Број,Бусовача,M,Специјализација послије средње школе,94
+2013,Број,Бужим,M,Специјализација послије средње школе,18
+2013,Број,Цазин,M,Специјализација послије средње школе,99
+2013,Број,centar_sarajevo,M,Специјализација послије средње школе,220
+2013,Број,Чапљина,M,Специјализација послије средње школе,96
+2013,Број,Челић,M,Специјализација послије средње школе,14
+2013,Број,Читлук,M,Специјализација послије средње школе,61
+2013,Број,Добој-Исток,M,Специјализација послије средње школе,20
+2013,Број,Добој-Југ,M,Специјализација послије средње школе,21
+2013,Број,Добретићи,M,Специјализација послије средње школе,1
+2013,Број,Домаљевац-Шамац,M,Специјализација послије средње школе,19
+2013,Број,donji_vakuf,M,Специјализација послије средње школе,19
+2013,Број,Дрвар,M,Специјализација послије средње школе,27
+2013,Број,Фоча-ФБиХ,M,Специјализација послије средње школе,8
+2013,Број,Фојница,M,Специјализација послије средње школе,36
+2013,Број,Гламоч,M,Специјализација послије средње школе,10
+2013,Број,Горажде,M,Специјализација послије средње школе,163
+2013,Број,Горњи Вакуф-Ускопље,M,Специјализација послије средње школе,25
+2013,Број,Грачаница,M,Специјализација послије средње школе,175
+2013,Број,Градачац,M,Специјализација послије средње школе,105
+2013,Број,Груде,M,Специјализација послије средње школе,50
+2013,Број,hadzici,M,Специјализација послије средње школе,74
+2013,Број,ilidza,M,Специјализација послије средње школе,311
+2013,Број,ilijas,M,Специјализација послије средње школе,82
+2013,Број,Јабланица,M,Специјализација послије средње школе,127
+2013,Број,Јајце,M,Специјализација послије средње школе,86
+2013,Број,Какањ,M,Специјализација послије средње школе,295
+2013,Број,Калесија,M,Специјализација послије средње школе,94
+2013,Број,Кисељак,M,Специјализација послије средње школе,71
+2013,Број,Кладањ,M,Специјализација послије средње школе,16
+2013,Број,Кључ,M,Специјализација послије средње школе,51
+2013,Број,Коњиц,M,Специјализација послије средње школе,130
+2013,Број,Крешево,M,Специјализација послије средње школе,19
+2013,Број,Купрес-ФБиХ,M,Специјализација послије средње школе,8
+2013,Број,Ливно,M,Специјализација послије средње школе,104
+2013,Број,Лукавац,M,Специјализација послије средње школе,478
+2013,Број,Љубушки,M,Специјализација послије средње школе,83
+2013,Број,Маглај,M,Специјализација послије средње школе,173
+2013,Број,Мостар,M,Специјализација послије средње школе,555
+2013,Број,Неум,M,Специјализација послије средње школе,45
+2013,Број,novi_grad_sarajevo,M,Специјализација послије средње школе,539
+2013,Број,Нови Травник,M,Специјализација послије средње школе,301
+2013,Број,novo_sarajevo,M,Специјализација послије средње школе,346
+2013,Број,Оџак,M,Специјализација послије средње школе,70
+2013,Број,Олово,M,Специјализација послије средње школе,27
+2013,Број,Орашје,M,Специјализација послије средње школе,57
+2013,Број,Пале-ФБиХ,M,Специјализација послије средње школе,4
+2013,Број,Посушје,M,Специјализација послије средње школе,69
+2013,Број,Прозор,M,Специјализација послије средње школе,17
+2013,Број,Равно,M,Специјализација послије средње школе,4
+2013,Број,Сански Мост,M,Специјализација послије средње школе,128
+2013,Број,Сапна,M,Специјализација послије средње школе,8
+2013,Број,Сребреник,M,Специјализација послије средње школе,124
+2013,Број,stari_grad_sarajevo,M,Специјализација послије средње школе,197
+2013,Број,Столац,M,Специјализација послије средње школе,63
+2013,Број,Широки Бријег,M,Специјализација послије средње школе,55
+2013,Број,Теочак,M,Специјализација послије средње школе,16
+2013,Број,Тешањ,M,Специјализација послије средње школе,236
+2013,Број,Томиславград,M,Специјализација послије средње школе,46
+2013,Број,Травник,M,Специјализација послије средње школе,211
+2013,Број,Трново-ФБиХ,M,Специјализација послије средње школе,11
+2013,Број,Тузла,M,Специјализација послије средње школе,933
+2013,Број,Усора,M,Специјализација послије средње школе,32
+2013,Број,Вареш,M,Специјализација послије средње школе,82
+2013,Број,Велика Кладуша,M,Специјализација послије средње школе,48
+2013,Број,Високо,M,Специјализација послије средње школе,200
+2013,Број,Витез,M,Специјализација послије средње школе,184
+2013,Број,vogosca,M,Специјализација послије средње школе,158
+2013,Број,Завидовићи,M,Специјализација послије средње школе,119
+2013,Број,Зеница,M,Специјализација послије средње школе,1728
+2013,Број,Жепче,M,Специјализација послије средње школе,139
+2013,Број,Живинице,M,Специјализација послије средње школе,200
+2013,Број,Бановићи,Ж,Специјализација послије средње школе,8
+2013,Број,Бихаћ,Ж,Специјализација послије средње школе,35
+2013,Број,Босанска Крупа,Ж,Специјализација послије средње школе,19
+2013,Број,Босански Петровац,Ж,Специјализација послије средње школе,3
+2013,Број,Босанско Грахово,Ж,Специјализација послије средње школе,0
+2013,Број,Бреза,Ж,Специјализација послије средње школе,10
+2013,Број,Бугојно,Ж,Специјализација послије средње школе,29
+2013,Број,Бусовача,Ж,Специјализација послије средње школе,10
+2013,Број,Бужим,Ж,Специјализација послије средње школе,21
+2013,Број,Цазин,Ж,Специјализација послије средње школе,41
+2013,Број,centar_sarajevo,Ж,Специјализација послије средње школе,62
+2013,Број,Чапљина,Ж,Специјализација послије средње школе,34
+2013,Број,Челић,Ж,Специјализација послије средње школе,2
+2013,Број,Читлук,Ж,Специјализација послије средње школе,23
+2013,Број,Добој-Исток,Ж,Специјализација послије средње школе,4
+2013,Број,Добој-Југ,Ж,Специјализација послије средње школе,2
+2013,Број,Добретићи,Ж,Специјализација послије средње школе,0
+2013,Број,Домаљевац-Шамац,Ж,Специјализација послије средње школе,11
+2013,Број,donji_vakuf,Ж,Специјализација послије средње школе,5
+2013,Број,Дрвар,Ж,Специјализација послије средње школе,5
+2013,Број,Фоча-ФБиХ,Ж,Специјализација послије средње школе,3
+2013,Број,Фојница,Ж,Специјализација послије средње школе,6
+2013,Број,Гламоч,Ж,Специјализација послије средње школе,3
+2013,Број,Горажде,Ж,Специјализација послије средње школе,27
+2013,Број,Горњи Вакуф-Ускопље,Ж,Специјализација послије средње школе,5
+2013,Број,Грачаница,Ж,Специјализација послије средње школе,14
+2013,Број,Градачац,Ж,Специјализација послије средње школе,31
+2013,Број,Груде,Ж,Специјализација послије средње школе,25
+2013,Број,hadzici,Ж,Специјализација послије средње школе,15
+2013,Број,ilidza,Ж,Специјализација послије средње школе,64
+2013,Број,ilijas,Ж,Специјализација послије средње школе,15
+2013,Број,Јабланица,Ж,Специјализација послије средње школе,6
+2013,Број,Јајце,Ж,Специјализација послије средње школе,27
+2013,Број,Какањ,Ж,Специјализација послије средње школе,18
+2013,Број,Калесија,Ж,Специјализација послије средње школе,21
+2013,Број,Кисељак,Ж,Специјализација послије средње школе,9
+2013,Број,Кладањ,Ж,Специјализација послије средње школе,8
+2013,Број,Кључ,Ж,Специјализација послије средње школе,23
+2013,Број,Коњиц,Ж,Специјализација послије средње школе,14
+2013,Број,Крешево,Ж,Специјализација послије средње школе,3
+2013,Број,Купрес-ФБиХ,Ж,Специјализација послије средње школе,3
+2013,Број,Ливно,Ж,Специјализација послије средње школе,60
+2013,Број,Лукавац,Ж,Специјализација послије средње школе,39
+2013,Број,Љубушки,Ж,Специјализација послије средње школе,55
+2013,Број,Маглај,Ж,Специјализација послије средње школе,35
+2013,Број,Мостар,Ж,Специјализација послије средње школе,143
+2013,Број,Неум,Ж,Специјализација послије средње школе,8
+2013,Број,novi_grad_sarajevo,Ж,Специјализација послије средње школе,126
+2013,Број,Нови Травник,Ж,Специјализација послије средње школе,34
+2013,Број,novo_sarajevo,Ж,Специјализација послије средње школе,100
+2013,Број,Оџак,Ж,Специјализација послије средње школе,24
+2013,Број,Олово,Ж,Специјализација послије средње школе,5
+2013,Број,Орашје,Ж,Специјализација послије средње школе,19
+2013,Број,Пале-ФБиХ,Ж,Специјализација послије средње школе,0
+2013,Број,Посушје,Ж,Специјализација послије средње школе,34
+2013,Број,Прозор,Ж,Специјализација послије средње школе,8
+2013,Број,Равно,Ж,Специјализација послије средње школе,2
+2013,Број,Сански Мост,Ж,Специјализација послије средње школе,79
+2013,Број,Сапна,Ж,Специјализација послије средње школе,3
+2013,Број,Сребреник,Ж,Специјализација послије средње школе,21
+2013,Број,stari_grad_sarajevo,Ж,Специјализација послије средње школе,41
+2013,Број,Столац,Ж,Специјализација послије средње школе,11
+2013,Број,Широки Бријег,Ж,Специјализација послије средње школе,16
+2013,Број,Теочак,Ж,Специјализација послије средње школе,4
+2013,Број,Тешањ,Ж,Специјализација послије средње школе,35
+2013,Број,Томиславград,Ж,Специјализација послије средње школе,28
+2013,Број,Травник,Ж,Специјализација послије средње школе,37
+2013,Број,Трново-ФБиХ,Ж,Специјализација послије средње школе,2
+2013,Број,Тузла,Ж,Специјализација послије средње школе,192
+2013,Број,Усора,Ж,Специјализација послије средње школе,10
+2013,Број,Вареш,Ж,Специјализација послије средње школе,6
+2013,Број,Велика Кладуша,Ж,Специјализација послије средње школе,23
+2013,Број,Високо,Ж,Специјализација послије средње школе,26
+2013,Број,Витез,Ж,Специјализација послије средње школе,24
+2013,Број,vogosca,Ж,Специјализација послије средње школе,22
+2013,Број,Завидовићи,Ж,Специјализација послије средње школе,33
+2013,Број,Зеница,Ж,Специјализација послије средње школе,238
+2013,Број,Жепче,Ж,Специјализација послије средње школе,22
+2013,Број,Живинице,Ж,Специјализација послије средње школе,20
+2013,Број,Бановићи,Оба пола,Виша школа и први степен факултета,185
+2013,Број,Бихаћ,Оба пола,Виша школа и први степен факултета,2465
+2013,Број,Босанска Крупа,Оба пола,Виша школа и први степен факултета,587
+2013,Број,Босански Петровац,Оба пола,Виша школа и први степен факултета,194
+2013,Број,Босанско Грахово,Оба пола,Виша школа и први степен факултета,113
+2013,Број,Бреза,Оба пола,Виша школа и први степен факултета,232
+2013,Број,Бугојно,Оба пола,Виша школа и први степен факултета,763
+2013,Број,Бусовача,Оба пола,Виша школа и први степен факултета,280
+2013,Број,Бужим,Оба пола,Виша школа и први степен факултета,315
+2013,Број,Цазин,Оба пола,Виша школа и први степен факултета,1168
+2013,Број,centar_sarajevo,Оба пола,Виша школа и први степен факултета,2724
+2013,Број,Чапљина,Оба пола,Виша школа и први степен факултета,852
+2013,Број,Челић,Оба пола,Виша школа и први степен факултета,72
+2013,Број,Читлук,Оба пола,Виша школа и први степен факултета,491
+2013,Број,Добој-Исток,Оба пола,Виша школа и први степен факултета,102
+2013,Број,Добој-Југ,Оба пола,Виша школа и први степен факултета,47
+2013,Број,Добретићи,Оба пола,Виша школа и први степен факултета,12
+2013,Број,Домаљевац-Шамац,Оба пола,Виша школа и први степен факултета,112
+2013,Број,donji_vakuf,Оба пола,Виша школа и први степен факултета,257
+2013,Број,Дрвар,Оба пола,Виша школа и први степен факултета,280
+2013,Број,Фоча-ФБиХ,Оба пола,Виша школа и први степен факултета,43
+2013,Број,Фојница,Оба пола,Виша школа и први степен факултета,235
+2013,Број,Гламоч,Оба пола,Виша школа и први степен факултета,94
+2013,Број,Горажде,Оба пола,Виша школа и први степен факултета,468
+2013,Број,Горњи Вакуф-Ускопље,Оба пола,Виша школа и први степен факултета,480
+2013,Број,Грачаница,Оба пола,Виша школа и први степен факултета,676
+2013,Број,Градачац,Оба пола,Виша школа и први степен факултета,512
+2013,Број,Груде,Оба пола,Виша школа и први степен факултета,741
+2013,Број,hadzici,Оба пола,Виша школа и први степен факултета,406
+2013,Број,ilidza,Оба пола,Виша школа и први степен факултета,1896
+2013,Број,ilijas,Оба пола,Виша школа и први степен факултета,282
+2013,Број,Јабланица,Оба пола,Виша школа и први степен факултета,236
+2013,Број,Јајце,Оба пола,Виша школа и први степен факултета,522
+2013,Број,Какањ,Оба пола,Виша школа и први степен факултета,602
+2013,Број,Калесија,Оба пола,Виша школа и први степен факултета,271
+2013,Број,Кисељак,Оба пола,Виша школа и први степен факултета,349
+2013,Број,Кладањ,Оба пола,Виша школа и први степен факултета,174
+2013,Број,Кључ,Оба пола,Виша школа и први степен факултета,344
+2013,Број,Коњиц,Оба пола,Виша школа и први степен факултета,663
+2013,Број,Крешево,Оба пола,Виша школа и први степен факултета,119
+2013,Број,Купрес-ФБиХ,Оба пола,Виша школа и први степен факултета,220
+2013,Број,Ливно,Оба пола,Виша школа и први степен факултета,1457
+2013,Број,Лукавац,Оба пола,Виша школа и први степен факултета,690
+2013,Број,Љубушки,Оба пола,Виша школа и први степен факултета,891
+2013,Број,Маглај,Оба пола,Виша школа и први степен факултета,417
+2013,Број,Мостар,Оба пола,Виша школа и први степен факултета,4422
+2013,Број,Неум,Оба пола,Виша школа и први степен факултета,157
+2013,Број,novi_grad_sarajevo,Оба пола,Виша школа и први степен факултета,4084
+2013,Број,Нови Травник,Оба пола,Виша школа и први степен факултета,520
+2013,Број,novo_sarajevo,Оба пола,Виша школа и први степен факултета,3299
+2013,Број,Оџак,Оба пола,Виша школа и први степен факултета,364
+2013,Број,Олово,Оба пола,Виша школа и први степен факултета,184
+2013,Број,Орашје,Оба пола,Виша школа и први степен факултета,525
+2013,Број,Пале-ФБиХ,Оба пола,Виша школа и први степен факултета,7
+2013,Број,Посушје,Оба пола,Виша школа и први степен факултета,790
+2013,Број,Прозор,Оба пола,Виша школа и први степен факултета,301
+2013,Број,Равно,Оба пола,Виша школа и први степен факултета,180
+2013,Број,Сански Мост,Оба пола,Виша школа и први степен факултета,890
+2013,Број,Сапна,Оба пола,Виша школа и први степен факултета,56
+2013,Број,Сребреник,Оба пола,Виша школа и први степен факултета,395
+2013,Број,stari_grad_sarajevo,Оба пола,Виша школа и први степен факултета,1353
+2013,Број,Столац,Оба пола,Виша школа и први степен факултета,470
+2013,Број,Широки Бријег,Оба пола,Виша школа и први степен факултета,1005
+2013,Број,Теочак,Оба пола,Виша школа и први степен факултета,41
+2013,Број,Тешањ,Оба пола,Виша школа и први степен факултета,677
+2013,Број,Томиславград,Оба пола,Виша школа и први степен факултета,988
+2013,Број,Травник,Оба пола,Виша школа и први степен факултета,1068
+2013,Број,Трново-ФБиХ,Оба пола,Виша школа и први степен факултета,28
+2013,Број,Тузла,Оба пола,Виша школа и први степен факултета,3591
+2013,Број,Усора,Оба пола,Виша школа и први степен факултета,121
+2013,Број,Вареш,Оба пола,Виша школа и први степен факултета,161
+2013,Број,Велика Кладуша,Оба пола,Виша школа и први степен факултета,532
+2013,Број,Високо,Оба пола,Виша школа и први степен факултета,755
+2013,Број,Витез,Оба пола,Виша школа и први степен факултета,614
+2013,Број,vogosca,Оба пола,Виша школа и први степен факултета,644
+2013,Број,Завидовићи,Оба пола,Виша школа и први степен факултета,530
+2013,Број,Зеница,Оба пола,Виша школа и први степен факултета,2791
+2013,Број,Жепче,Оба пола,Виша школа и први степен факултета,533
+2013,Број,Живинице,Оба пола,Виша школа и први степен факултета,605
+2013,Број,Бановићи,M,Виша школа и први степен факултета,106
+2013,Број,Бихаћ,M,Виша школа и први степен факултета,1217
+2013,Број,Босанска Крупа,M,Виша школа и први степен факултета,297
+2013,Број,Босански Петровац,M,Виша школа и први степен факултета,96
+2013,Број,Босанско Грахово,M,Виша школа и први степен факултета,75
+2013,Број,Бреза,M,Виша школа и први степен факултета,121
+2013,Број,Бугојно,M,Виша школа и први степен факултета,409
+2013,Број,Бусовача,M,Виша школа и први степен факултета,165
+2013,Број,Бужим,M,Виша школа и први степен факултета,173
+2013,Број,Цазин,M,Виша школа и први степен факултета,607
+2013,Број,centar_sarajevo,M,Виша школа и први степен факултета,1284
+2013,Број,Чапљина,M,Виша школа и први степен факултета,409
+2013,Број,Челић,M,Виша школа и први степен факултета,51
+2013,Број,Читлук,M,Виша школа и први степен факултета,231
+2013,Број,Добој-Исток,M,Виша школа и први степен факултета,70
+2013,Број,Добој-Југ,M,Виша школа и први степен факултета,26
+2013,Број,Добретићи,M,Виша школа и први степен факултета,5
+2013,Број,Домаљевац-Шамац,M,Виша школа и први степен факултета,64
+2013,Број,donji_vakuf,M,Виша школа и први степен факултета,116
+2013,Број,Дрвар,M,Виша школа и први степен факултета,162
+2013,Број,Фоча-ФБиХ,M,Виша школа и први степен факултета,30
+2013,Број,Фојница,M,Виша школа и први степен факултета,154
+2013,Број,Гламоч,M,Виша школа и први степен факултета,58
+2013,Број,Горажде,M,Виша школа и први степен факултета,318
+2013,Број,Горњи Вакуф-Ускопље,M,Виша школа и први степен факултета,264
+2013,Број,Грачаница,M,Виша школа и први степен факултета,409
+2013,Број,Градачац,M,Виша школа и први степен факултета,290
+2013,Број,Груде,M,Виша школа и први степен факултета,366
+2013,Број,hadzici,M,Виша школа и први степен факултета,267
+2013,Број,ilidza,M,Виша школа и први степен факултета,1085
+2013,Број,ilijas,M,Виша школа и први степен факултета,169
+2013,Број,Јабланица,M,Виша школа и први степен факултета,142
+2013,Број,Јајце,M,Виша школа и први степен факултета,241
+2013,Број,Какањ,M,Виша школа и први степен факултета,335
+2013,Број,Калесија,M,Виша школа и први степен факултета,170
+2013,Број,Кисељак,M,Виша школа и први степен факултета,206
+2013,Број,Кладањ,M,Виша школа и први степен факултета,108
+2013,Број,Кључ,M,Виша школа и први степен факултета,175
+2013,Број,Коњиц,M,Виша школа и први степен факултета,397
+2013,Број,Крешево,M,Виша школа и први степен факултета,69
+2013,Број,Купрес-ФБиХ,M,Виша школа и први степен факултета,120
+2013,Број,Ливно,M,Виша школа и први степен факултета,792
+2013,Број,Лукавац,M,Виша школа и први степен факултета,441
+2013,Број,Љубушки,M,Виша школа и први степен факултета,416
+2013,Број,Маглај,M,Виша школа и први степен факултета,233
+2013,Број,Мостар,M,Виша школа и први степен факултета,2202
+2013,Број,Неум,M,Виша школа и први степен факултета,89
+2013,Број,novi_grad_sarajevo,M,Виша школа и први степен факултета,2238
+2013,Број,Нови Травник,M,Виша школа и први степен факултета,300
+2013,Број,novo_sarajevo,M,Виша школа и први степен факултета,1675
+2013,Број,Оџак,M,Виша школа и први степен факултета,214
+2013,Број,Олово,M,Виша школа и први степен факултета,119
+2013,Број,Орашје,M,Виша школа и први степен факултета,294
+2013,Број,Пале-ФБиХ,M,Виша школа и први степен факултета,4
+2013,Број,Посушје,M,Виша школа и први степен факултета,351
+2013,Број,Прозор,M,Виша школа и први степен факултета,148
+2013,Број,Равно,M,Виша школа и први степен факултета,98
+2013,Број,Сански Мост,M,Виша школа и први степен факултета,438
+2013,Број,Сапна,M,Виша школа и први степен факултета,33
+2013,Број,Сребреник,M,Виша школа и први степен факултета,257
+2013,Број,stari_grad_sarajevo,M,Виша школа и први степен факултета,736
+2013,Број,Столац,M,Виша школа и први степен факултета,259
+2013,Број,Широки Бријег,M,Виша школа и први степен факултета,496
+2013,Број,Теочак,M,Виша школа и први степен факултета,19
+2013,Број,Тешањ,M,Виша школа и први степен факултета,390
+2013,Број,Томиславград,M,Виша школа и први степен факултета,495
+2013,Број,Травник,M,Виша школа и први степен факултета,621
+2013,Број,Трново-ФБиХ,M,Виша школа и први степен факултета,23
+2013,Број,Тузла,M,Виша школа и први степен факултета,1961
+2013,Број,Усора,M,Виша школа и први степен факултета,70
+2013,Број,Вареш,M,Виша школа и први степен факултета,89
+2013,Број,Велика Кладуша,M,Виша школа и први степен факултета,291
+2013,Број,Високо,M,Виша школа и први степен факултета,398
+2013,Број,Витез,M,Виша школа и први степен факултета,369
+2013,Број,vogosca,M,Виша школа и први степен факултета,398
+2013,Број,Завидовићи,M,Виша школа и први степен факултета,294
+2013,Број,Зеница,M,Виша школа и први степен факултета,1544
+2013,Број,Жепче,M,Виша школа и први степен факултета,290
+2013,Број,Живинице,M,Виша школа и први степен факултета,378
+2013,Број,Бановићи,Ж,Виша школа и први степен факултета,79
+2013,Број,Бихаћ,Ж,Виша школа и први степен факултета,1248
+2013,Број,Босанска Крупа,Ж,Виша школа и први степен факултета,290
+2013,Број,Босански Петровац,Ж,Виша школа и први степен факултета,98
+2013,Број,Босанско Грахово,Ж,Виша школа и први степен факултета,38
+2013,Број,Бреза,Ж,Виша школа и први степен факултета,111
+2013,Број,Бугојно,Ж,Виша школа и први степен факултета,354
+2013,Број,Бусовача,Ж,Виша школа и први степен факултета,115
+2013,Број,Бужим,Ж,Виша школа и први степен факултета,142
+2013,Број,Цазин,Ж,Виша школа и први степен факултета,561
+2013,Број,centar_sarajevo,Ж,Виша школа и први степен факултета,1440
+2013,Број,Чапљина,Ж,Виша школа и први степен факултета,443
+2013,Број,Челић,Ж,Виша школа и први степен факултета,21
+2013,Број,Читлук,Ж,Виша школа и први степен факултета,260
+2013,Број,Добој-Исток,Ж,Виша школа и први степен факултета,32
+2013,Број,Добој-Југ,Ж,Виша школа и први степен факултета,21
+2013,Број,Добретићи,Ж,Виша школа и први степен факултета,7
+2013,Број,Домаљевац-Шамац,Ж,Виша школа и први степен факултета,48
+2013,Број,donji_vakuf,Ж,Виша школа и први степен факултета,141
+2013,Број,Дрвар,Ж,Виша школа и први степен факултета,118
+2013,Број,Фоча-ФБиХ,Ж,Виша школа и први степен факултета,13
+2013,Број,Фојница,Ж,Виша школа и први степен факултета,81
+2013,Број,Гламоч,Ж,Виша школа и први степен факултета,36
+2013,Број,Горажде,Ж,Виша школа и први степен факултета,150
+2013,Број,Горњи Вакуф-Ускопље,Ж,Виша школа и први степен факултета,216
+2013,Број,Грачаница,Ж,Виша школа и први степен факултета,267
+2013,Број,Градачац,Ж,Виша школа и први степен факултета,222
+2013,Број,Груде,Ж,Виша школа и први степен факултета,375
+2013,Број,hadzici,Ж,Виша школа и први степен факултета,139
+2013,Број,ilidza,Ж,Виша школа и први степен факултета,811
+2013,Број,ilijas,Ж,Виша школа и први степен факултета,113
+2013,Број,Јабланица,Ж,Виша школа и први степен факултета,94
+2013,Број,Јајце,Ж,Виша школа и први степен факултета,281
+2013,Број,Какањ,Ж,Виша школа и први степен факултета,267
+2013,Број,Калесија,Ж,Виша школа и први степен факултета,101
+2013,Број,Кисељак,Ж,Виша школа и први степен факултета,143
+2013,Број,Кладањ,Ж,Виша школа и први степен факултета,66
+2013,Број,Кључ,Ж,Виша школа и први степен факултета,169
+2013,Број,Коњиц,Ж,Виша школа и први степен факултета,266
+2013,Број,Крешево,Ж,Виша школа и први степен факултета,50
+2013,Број,Купрес-ФБиХ,Ж,Виша школа и први степен факултета,100
+2013,Број,Ливно,Ж,Виша школа и први степен факултета,665
+2013,Број,Лукавац,Ж,Виша школа и први степен факултета,249
+2013,Број,Љубушки,Ж,Виша школа и први степен факултета,475
+2013,Број,Маглај,Ж,Виша школа и први степен факултета,184
+2013,Број,Мостар,Ж,Виша школа и први степен факултета,2220
+2013,Број,Неум,Ж,Виша школа и први степен факултета,68
+2013,Број,novi_grad_sarajevo,Ж,Виша школа и први степен факултета,1846
+2013,Број,Нови Травник,Ж,Виша школа и први степен факултета,220
+2013,Број,novo_sarajevo,Ж,Виша школа и први степен факултета,1624
+2013,Број,Оџак,Ж,Виша школа и први степен факултета,150
+2013,Број,Олово,Ж,Виша школа и први степен факултета,65
+2013,Број,Орашје,Ж,Виша школа и први степен факултета,231
+2013,Број,Пале-ФБиХ,Ж,Виша школа и први степен факултета,3
+2013,Број,Посушје,Ж,Виша школа и први степен факултета,439
+2013,Број,Прозор,Ж,Виша школа и први степен факултета,153
+2013,Број,Равно,Ж,Виша школа и први степен факултета,82
+2013,Број,Сански Мост,Ж,Виша школа и први степен факултета,452
+2013,Број,Сапна,Ж,Виша школа и први степен факултета,23
+2013,Број,Сребреник,Ж,Виша школа и први степен факултета,138
+2013,Број,stari_grad_sarajevo,Ж,Виша школа и први степен факултета,617
+2013,Број,Столац,Ж,Виша школа и први степен факултета,211
+2013,Број,Широки Бријег,Ж,Виша школа и први степен факултета,509
+2013,Број,Теочак,Ж,Виша школа и први степен факултета,22
+2013,Број,Тешањ,Ж,Виша школа и први степен факултета,287
+2013,Број,Томиславград,Ж,Виша школа и први степен факултета,493
+2013,Број,Травник,Ж,Виша школа и први степен факултета,447
+2013,Број,Трново-ФБиХ,Ж,Виша школа и први степен факултета,5
+2013,Број,Тузла,Ж,Виша школа и први степен факултета,1630
+2013,Број,Усора,Ж,Виша школа и први степен факултета,51
+2013,Број,Вареш,Ж,Виша школа и први степен факултета,72
+2013,Број,Велика Кладуша,Ж,Виша школа и први степен факултета,241
+2013,Број,Високо,Ж,Виша школа и први степен факултета,357
+2013,Број,Витез,Ж,Виша школа и први степен факултета,245
+2013,Број,vogosca,Ж,Виша школа и први степен факултета,246
+2013,Број,Завидовићи,Ж,Виша школа и први степен факултета,236
+2013,Број,Зеница,Ж,Виша школа и први степен факултета,1247
+2013,Број,Жепче,Ж,Виша школа и први степен факултета,243
+2013,Број,Живинице,Ж,Виша школа и први степен факултета,227
+2013,Број,Бановићи,Оба пола,Висока школа / факултет / академија / универзитет,1276
+2013,Број,Бихаћ,Оба пола,Висока школа / факултет / академија / универзитет,5359
+2013,Број,Босанска Крупа,Оба пола,Висока школа / факултет / академија / универзитет,1193
+2013,Број,Босански Петровац,Оба пола,Висока школа / факултет / академија / универзитет,352
+2013,Број,Босанско Грахово,Оба пола,Висока школа / факултет / академија / универзитет,143
+2013,Број,Бреза,Оба пола,Висока школа / факултет / академија / универзитет,959
+2013,Број,Бугојно,Оба пола,Висока школа / факултет / академија / универзитет,1816
+2013,Број,Бусовача,Оба пола,Висока школа / факултет / академија / универзитет,798
+2013,Број,Бужим,Оба пола,Висока школа / факултет / академија / универзитет,607
+2013,Број,Цазин,Оба пола,Висока школа / факултет / академија / универзитет,2404
+2013,Број,centar_sarajevo,Оба пола,Висока школа / факултет / академија / универзитет,15300
+2013,Број,Чапљина,Оба пола,Висока школа / факултет / академија / универзитет,2237
+2013,Број,Челић,Оба пола,Висока школа / факултет / академија / универзитет,285
+2013,Број,Читлук,Оба пола,Висока школа / факултет / академија / универзитет,1820
+2013,Број,Добој-Исток,Оба пола,Висока школа / факултет / академија / универзитет,442
+2013,Број,Добој-Југ,Оба пола,Висока школа / факултет / академија / универзитет,171
+2013,Број,Добретићи,Оба пола,Висока школа / факултет / академија / универзитет,50
+2013,Број,Домаљевац-Шамац,Оба пола,Висока школа / факултет / академија / универзитет,289
+2013,Број,donji_vakuf,Оба пола,Висока школа / факултет / академија / универзитет,522
+2013,Број,Дрвар,Оба пола,Висока школа / факултет / академија / универзитет,363
+2013,Број,Фоча-ФБиХ,Оба пола,Висока школа / факултет / академија / универзитет,77
+2013,Број,Фојница,Оба пола,Висока школа / факултет / академија / универзитет,885
+2013,Број,Гламоч,Оба пола,Висока школа / факултет / академија / универзитет,210
+2013,Број,Горажде,Оба пола,Висока школа / факултет / академија / универзитет,1727
+2013,Број,Горњи Вакуф-Ускопље,Оба пола,Висока школа / факултет / академија / универзитет,1050
+2013,Број,Грачаница,Оба пола,Висока школа / факултет / академија / универзитет,2110
+2013,Број,Градачац,Оба пола,Висока школа / факултет / академија / универзитет,1556
+2013,Број,Груде,Оба пола,Висока школа / факултет / академија / универзитет,1738
+2013,Број,hadzici,Оба пола,Висока школа / факултет / академија / универзитет,1307
+2013,Број,ilidza,Оба пола,Висока школа / факултет / академија / универзитет,7309
+2013,Број,ilijas,Оба пола,Висока школа / факултет / академија / универзитет,1041
+2013,Број,Јабланица,Оба пола,Висока школа / факултет / академија / универзитет,669
+2013,Број,Јајце,Оба пола,Висока школа / факултет / академија / универзитет,1249
+2013,Број,Какањ,Оба пола,Висока школа / факултет / академија / универзитет,1861
+2013,Број,Калесија,Оба пола,Висока школа / факултет / академија / универзитет,1178
+2013,Број,Кисељак,Оба пола,Висока школа / факултет / академија / универзитет,1140
+2013,Број,Кладањ,Оба пола,Висока школа / факултет / академија / универзитет,615
+2013,Број,Кључ,Оба пола,Висока школа / факултет / академија / универзитет,695
+2013,Број,Коњиц,Оба пола,Висока школа / факултет / академија / универзитет,1710
+2013,Број,Крешево,Оба пола,Висока школа / факултет / академија / универзитет,309
+2013,Број,Купрес-ФБиХ,Оба пола,Висока школа / факултет / академија / универзитет,625
+2013,Број,Ливно,Оба пола,Висока школа / факултет / академија / универзитет,3460
+2013,Број,Лукавац,Оба пола,Висока школа / факултет / академија / универзитет,2326
+2013,Број,Љубушки,Оба пола,Висока школа / факултет / академија / универзитет,2948
+2013,Број,Маглај,Оба пола,Висока школа / факултет / академија / универзитет,1097
+2013,Број,Мостар,Оба пола,Висока школа / факултет / академија / универзитет,14199
+2013,Број,Неум,Оба пола,Висока школа / факултет / академија / универзитет,532
+2013,Број,novi_grad_sarajevo,Оба пола,Висока школа / факултет / академија / универзитет,16824
+2013,Број,Нови Травник,Оба пола,Висока школа / факултет / академија / универзитет,1330
+2013,Број,novo_sarajevo,Оба пола,Висока школа / факултет / академија / универзитет,16145
+2013,Број,Оџак,Оба пола,Висока школа / факултет / академија / универзитет,887
+2013,Број,Олово,Оба пола,Висока школа / факултет / академија / универзитет,506
+2013,Број,Орашје,Оба пола,Висока школа / факултет / академија / универзитет,1320
+2013,Број,Пале-ФБиХ,Оба пола,Висока школа / факултет / академија / универзитет,24
+2013,Број,Посушје,Оба пола,Висока школа / факултет / академија / универзитет,1756
+2013,Број,Прозор,Оба пола,Висока школа / факултет / академија / универзитет,911
+2013,Број,Равно,Оба пола,Висока школа / факултет / академија / универзитет,305
+2013,Број,Сански Мост,Оба пола,Висока школа / факултет / академија / универзитет,1815
+2013,Број,Сапна,Оба пола,Висока школа / факултет / академија / универзитет,285
+2013,Број,Сребреник,Оба пола,Висока школа / факултет / академија / универзитет,1654
+2013,Број,stari_grad_sarajevo,Оба пола,Висока школа / факултет / академија / универзитет,6106
+2013,Број,Столац,Оба пола,Висока школа / факултет / академија / универзитет,1261
+2013,Број,Широки Бријег,Оба пола,Висока школа / факултет / академија / универзитет,3002
+2013,Број,Теочак,Оба пола,Висока школа / факултет / академија / универзитет,207
+2013,Број,Тешањ,Оба пола,Висока школа / факултет / академија / универзитет,1787
+2013,Број,Томиславград,Оба пола,Висока школа / факултет / академија / универзитет,2854
+2013,Број,Травник,Оба пола,Висока школа / факултет / академија / универзитет,2975
+2013,Број,Трново-ФБиХ,Оба пола,Висока школа / факултет / академија / универзитет,72
+2013,Број,Тузла,Оба пола,Висока школа / факултет / академија / универзитет,13355
+2013,Број,Усора,Оба пола,Висока школа / факултет / академија / универзитет,301
+2013,Број,Вареш,Оба пола,Висока школа / факултет / академија / универзитет,491
+2013,Број,Велика Кладуша,Оба пола,Висока школа / факултет / академија / универзитет,1221
+2013,Број,Високо,Оба пола,Висока школа / факултет / академија / универзитет,2567
+2013,Број,Витез,Оба пола,Висока школа / факултет / академија / универзитет,1472
+2013,Број,vogosca,Оба пола,Висока школа / факултет / академија / универзитет,2810
+2013,Број,Завидовићи,Оба пола,Висока школа / факултет / академија / универзитет,1535
+2013,Број,Зеница,Оба пола,Висока школа / факултет / академија / универзитет,8195
+2013,Број,Жепче,Оба пола,Висока школа / факултет / академија / универзитет,1373
+2013,Број,Живинице,Оба пола,Висока школа / факултет / академија / универзитет,2755
+2013,Број,Бановићи,M,Висока школа / факултет / академија / универзитет,733
+2013,Број,Бихаћ,M,Висока школа / факултет / академија / универзитет,2479
+2013,Број,Босанска Крупа,M,Висока школа / факултет / академија / универзитет,553
+2013,Број,Босански Петровац,M,Висока школа / факултет / академија / универзитет,185
+2013,Број,Босанско Грахово,M,Висока школа / факултет / академија / универзитет,92
+2013,Број,Бреза,M,Висока школа / факултет / академија / универзитет,477
+2013,Број,Бугојно,M,Висока школа / факултет / академија / универзитет,992
+2013,Број,Бусовача,M,Висока школа / факултет / академија / универзитет,407
+2013,Број,Бужим,M,Висока школа / факултет / академија / универзитет,295
+2013,Број,Цазин,M,Висока школа / факултет / академија / универзитет,1145
+2013,Број,centar_sarajevo,M,Висока школа / факултет / академија / универзитет,7006
+2013,Број,Чапљина,M,Висока школа / факултет / академија / универзитет,1090
+2013,Број,Челић,M,Висока школа / факултет / академија / универзитет,159
+2013,Број,Читлук,M,Висока школа / факултет / академија / универзитет,793
+2013,Број,Добој-Исток,M,Висока школа / факултет / академија / универзитет,232
+2013,Број,Добој-Југ,M,Висока школа / факултет / академија / универзитет,91
+2013,Број,Добретићи,M,Висока школа / факултет / академија / универзитет,29
+2013,Број,Домаљевац-Шамац,M,Висока школа / факултет / академија / универзитет,131
+2013,Број,donji_vakuf,M,Висока школа / факултет / академија / универзитет,285
+2013,Број,Дрвар,M,Висока школа / факултет / академија / универзитет,193
+2013,Број,Фоча-ФБиХ,M,Висока школа / факултет / академија / универзитет,46
+2013,Број,Фојница,M,Висока школа / факултет / академија / универзитет,488
+2013,Број,Гламоч,M,Висока школа / факултет / академија / универзитет,109
+2013,Број,Горажде,M,Висока школа / факултет / академија / универзитет,933
+2013,Број,Горњи Вакуф-Ускопље,M,Висока школа / факултет / академија / универзитет,559
+2013,Број,Грачаница,M,Висока школа / факултет / академија / универзитет,1064
+2013,Број,Градачац,M,Висока школа / факултет / академија / универзитет,767
+2013,Број,Груде,M,Висока школа / факултет / академија / универзитет,858
+2013,Број,hadzici,M,Висока школа / факултет / академија / универзитет,639
+2013,Број,ilidza,M,Висока школа / факултет / академија / универзитет,3455
+2013,Број,ilijas,M,Висока школа / факултет / академија / универзитет,498
+2013,Број,Јабланица,M,Висока школа / факултет / академија / универзитет,322
+2013,Број,Јајце,M,Висока школа / факултет / академија / универзитет,681
+2013,Број,Какањ,M,Висока школа / факултет / академија / универзитет,1009
+2013,Број,Калесија,M,Висока школа / факултет / академија / универзитет,657
+2013,Број,Кисељак,M,Висока школа / факултет / академија / универзитет,518
+2013,Број,Кладањ,M,Висока школа / факултет / академија / универзитет,340
+2013,Број,Кључ,M,Висока школа / факултет / академија / универзитет,345
+2013,Број,Коњиц,M,Висока школа / факултет / академија / универзитет,879
+2013,Број,Крешево,M,Висока школа / факултет / академија / универзитет,147
+2013,Број,Купрес-ФБиХ,M,Висока школа / факултет / академија / универзитет,334
+2013,Број,Ливно,M,Висока школа / факултет / академија / универзитет,1719
+2013,Број,Лукавац,M,Висока школа / факултет / академија / универзитет,1150
+2013,Број,Љубушки,M,Висока школа / факултет / академија / универзитет,1440
+2013,Број,Маглај,M,Висока школа / факултет / академија / универзитет,550
+2013,Број,Мостар,M,Висока школа / факултет / академија / универзитет,6346
+2013,Број,Неум,M,Висока школа / факултет / академија / универзитет,287
+2013,Број,novi_grad_sarajevo,M,Висока школа / факултет / академија / универзитет,7465
+2013,Број,Нови Травник,M,Висока школа / факултет / академија / универзитет,660
+2013,Број,novo_sarajevo,M,Висока школа / факултет / академија / универзитет,7132
+2013,Број,Оџак,M,Висока школа / факултет / академија / универзитет,472
+2013,Број,Олово,M,Висока школа / факултет / академија / универзитет,301
+2013,Број,Орашје,M,Висока школа / факултет / академија / универзитет,696
+2013,Број,Пале-ФБиХ,M,Висока школа / факултет / академија / универзитет,12
+2013,Број,Посушје,M,Висока школа / факултет / академија / универзитет,822
+2013,Број,Прозор,M,Висока школа / факултет / академија / универзитет,482
+2013,Број,Равно,M,Висока школа / факултет / академија / универзитет,173
+2013,Број,Сански Мост,M,Висока школа / факултет / академија / универзитет,862
+2013,Број,Сапна,M,Висока школа / факултет / академија / универзитет,175
+2013,Број,Сребреник,M,Висока школа / факултет / академија / универзитет,881
+2013,Број,stari_grad_sarajevo,M,Висока школа / факултет / академија / универзитет,2639
+2013,Број,Столац,M,Висока школа / факултет / академија / универзитет,609
+2013,Број,Широки Бријег,M,Висока школа / факултет / академија / универзитет,1446
+2013,Број,Теочак,M,Висока школа / факултет / академија / универзитет,118
+2013,Број,Тешањ,M,Висока школа / факултет / академија / универзитет,931
+2013,Број,Томиславград,M,Висока школа / факултет / академија / универзитет,1466
+2013,Број,Травник,M,Висока школа / факултет / академија / универзитет,1519
+2013,Број,Трново-ФБиХ,M,Висока школа / факултет / академија / универзитет,35
+2013,Број,Тузла,M,Висока школа / факултет / академија / универзитет,6260
+2013,Број,Усора,M,Висока школа / факултет / академија / универзитет,145
+2013,Број,Вареш,M,Висока школа / факултет / академија / универзитет,268
+2013,Број,Велика Кладуша,M,Висока школа / факултет / академија / универзитет,611
+2013,Број,Високо,M,Висока школа / факултет / академија / универзитет,1155
+2013,Број,Витез,M,Висока школа / факултет / академија / универзитет,695
+2013,Број,vogosca,M,Висока школа / факултет / академија / универзитет,1309
+2013,Број,Завидовићи,M,Висока школа / факултет / академија / универзитет,826
+2013,Број,Зеница,M,Висока школа / факултет / академија / универзитет,4010
+2013,Број,Жепче,M,Висока школа / факултет / академија / универзитет,702
+2013,Број,Живинице,M,Висока школа / факултет / академија / универзитет,1477
+2013,Број,Бановићи,Ж,Висока школа / факултет / академија / универзитет,543
+2013,Број,Бихаћ,Ж,Висока школа / факултет / академија / универзитет,2880
+2013,Број,Босанска Крупа,Ж,Висока школа / факултет / академија / универзитет,640
+2013,Број,Босански Петровац,Ж,Висока школа / факултет / академија / универзитет,167
+2013,Број,Босанско Грахово,Ж,Висока школа / факултет / академија / универзитет,51
+2013,Број,Бреза,Ж,Висока школа / факултет / академија / универзитет,482
+2013,Број,Бугојно,Ж,Висока школа / факултет / академија / универзитет,824
+2013,Број,Бусовача,Ж,Висока школа / факултет / академија / универзитет,391
+2013,Број,Бужим,Ж,Висока школа / факултет / академија / универзитет,312
+2013,Број,Цазин,Ж,Висока школа / факултет / академија / универзитет,1259
+2013,Број,centar_sarajevo,Ж,Висока школа / факултет / академија / универзитет,8294
+2013,Број,Чапљина,Ж,Висока школа / факултет / академија / универзитет,1147
+2013,Број,Челић,Ж,Висока школа / факултет / академија / универзитет,126
+2013,Број,Читлук,Ж,Висока школа / факултет / академија / универзитет,1027
+2013,Број,Добој-Исток,Ж,Висока школа / факултет / академија / универзитет,210
+2013,Број,Добој-Југ,Ж,Висока школа / факултет / академија / универзитет,80
+2013,Број,Добретићи,Ж,Висока школа / факултет / академија / универзитет,21
+2013,Број,Домаљевац-Шамац,Ж,Висока школа / факултет / академија / универзитет,158
+2013,Број,donji_vakuf,Ж,Висока школа / факултет / академија / универзитет,237
+2013,Број,Дрвар,Ж,Висока школа / факултет / академија / универзитет,170
+2013,Број,Фоча-ФБиХ,Ж,Висока школа / факултет / академија / универзитет,31
+2013,Број,Фојница,Ж,Висока школа / факултет / академија / универзитет,397
+2013,Број,Гламоч,Ж,Висока школа / факултет / академија / универзитет,101
+2013,Број,Горажде,Ж,Висока школа / факултет / академија / универзитет,794
+2013,Број,Горњи Вакуф-Ускопље,Ж,Висока школа / факултет / академија / универзитет,491
+2013,Број,Грачаница,Ж,Висока школа / факултет / академија / универзитет,1046
+2013,Број,Градачац,Ж,Висока школа / факултет / академија / универзитет,789
+2013,Број,Груде,Ж,Висока школа / факултет / академија / универзитет,880
+2013,Број,hadzici,Ж,Висока школа / факултет / академија / универзитет,668
+2013,Број,ilidza,Ж,Висока школа / факултет / академија / универзитет,3854
+2013,Број,ilijas,Ж,Висока школа / факултет / академија / универзитет,543
+2013,Број,Јабланица,Ж,Висока школа / факултет / академија / универзитет,347
+2013,Број,Јајце,Ж,Висока школа / факултет / академија / универзитет,568
+2013,Број,Какањ,Ж,Висока школа / факултет / академија / универзитет,852
+2013,Број,Калесија,Ж,Висока школа / факултет / академија / универзитет,521
+2013,Број,Кисељак,Ж,Висока школа / факултет / академија / универзитет,622
+2013,Број,Кладањ,Ж,Висока школа / факултет / академија / универзитет,275
+2013,Број,Кључ,Ж,Висока школа / факултет / академија / универзитет,350
+2013,Број,Коњиц,Ж,Висока школа / факултет / академија / универзитет,831
+2013,Број,Крешево,Ж,Висока школа / факултет / академија / универзитет,162
+2013,Број,Купрес-ФБиХ,Ж,Висока школа / факултет / академија / универзитет,291
+2013,Број,Ливно,Ж,Висока школа / факултет / академија / универзитет,1741
+2013,Број,Лукавац,Ж,Висока школа / факултет / академија / универзитет,1176
+2013,Број,Љубушки,Ж,Висока школа / факултет / академија / универзитет,1508
+2013,Број,Маглај,Ж,Висока школа / факултет / академија / универзитет,547
+2013,Број,Мостар,Ж,Висока школа / факултет / академија / универзитет,7853
+2013,Број,Неум,Ж,Висока школа / факултет / академија / универзитет,245
+2013,Број,novi_grad_sarajevo,Ж,Висока школа / факултет / академија / универзитет,9359
+2013,Број,Нови Травник,Ж,Висока школа / факултет / академија / универзитет,670
+2013,Број,novo_sarajevo,Ж,Висока школа / факултет / академија / универзитет,9013
+2013,Број,Оџак,Ж,Висока школа / факултет / академија / универзитет,415
+2013,Број,Олово,Ж,Висока школа / факултет / академија / универзитет,205
+2013,Број,Орашје,Ж,Висока школа / факултет / академија / универзитет,624
+2013,Број,Пале-ФБиХ,Ж,Висока школа / факултет / академија / универзитет,12
+2013,Број,Посушје,Ж,Висока школа / факултет / академија / универзитет,934
+2013,Број,Прозор,Ж,Висока школа / факултет / академија / универзитет,429
+2013,Број,Равно,Ж,Висока школа / факултет / академија / универзитет,132
+2013,Број,Сански Мост,Ж,Висока школа / факултет / академија / универзитет,953
+2013,Број,Сапна,Ж,Висока школа / факултет / академија / универзитет,110
+2013,Број,Сребреник,Ж,Висока школа / факултет / академија / универзитет,773
+2013,Број,stari_grad_sarajevo,Ж,Висока школа / факултет / академија / универзитет,3467
+2013,Број,Столац,Ж,Висока школа / факултет / академија / универзитет,652
+2013,Број,Широки Бријег,Ж,Висока школа / факултет / академија / универзитет,1556
+2013,Број,Теочак,Ж,Висока школа / факултет / академија / универзитет,89
+2013,Број,Тешањ,Ж,Висока школа / факултет / академија / универзитет,856
+2013,Број,Томиславград,Ж,Висока школа / факултет / академија / универзитет,1388
+2013,Број,Травник,Ж,Висока школа / факултет / академија / универзитет,1456
+2013,Број,Трново-ФБиХ,Ж,Висока школа / факултет / академија / универзитет,37
+2013,Број,Тузла,Ж,Висока школа / факултет / академија / универзитет,7095
+2013,Број,Усора,Ж,Висока школа / факултет / академија / универзитет,156
+2013,Број,Вареш,Ж,Висока школа / факултет / академија / универзитет,223
+2013,Број,Велика Кладуша,Ж,Висока школа / факултет / академија / универзитет,610
+2013,Број,Високо,Ж,Висока школа / факултет / академија / универзитет,1412
+2013,Број,Витез,Ж,Висока школа / факултет / академија / универзитет,777
+2013,Број,vogosca,Ж,Висока школа / факултет / академија / универзитет,1501
+2013,Број,Завидовићи,Ж,Висока школа / факултет / академија / универзитет,709
+2013,Број,Зеница,Ж,Висока школа / факултет / академија / универзитет,4185
+2013,Број,Жепче,Ж,Висока школа / факултет / академија / универзитет,671
+2013,Број,Живинице,Ж,Висока школа / факултет / академија / универзитет,1278

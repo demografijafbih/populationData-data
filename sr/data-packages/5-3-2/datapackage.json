@@ -25,21 +25,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "type_of_school",
@@ -55,7 +55,7 @@
                 ""
               ]
             },
-            "title": "type_of_school"
+            "title": "Врста школе"
           },
           {
             "name": "Value",

@@ -25,18 +25,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",

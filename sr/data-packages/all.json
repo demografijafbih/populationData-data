@@ -27,21 +27,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -119,18 +119,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -316,7 +316,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
+                "Укупно",
                 "0",
                 "1",
                 "2",
@@ -597,21 +597,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "BIRTHS",
@@ -660,21 +660,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -779,17 +779,17 @@
                 "Чапљина",
                 "Челић",
                 "Читлук",
-                "doboj-istok",
-                "doboj-jug",
+                "Добој-Исток",
+                "Добој-Југ",
                 "Добретићи",
-                "domaljevac-samac",
-                "Доњи Вакуф",
+                "Домаљевац-Шамац",
+                "donji_vakuf",
                 "Дрвар",
-                "foca-fbih",
+                "Фоча-ФБиХ",
                 "Фојница",
                 "Гламоч",
                 "Горажде",
-                "gornji_vakuf-uskoplje",
+                "Горњи Вакуф-Ускопље",
                 "Грачаница",
                 "Градачац",
                 "Груде",
@@ -805,7 +805,7 @@
                 "Кључ",
                 "Коњиц",
                 "Крешево",
-                "kupres-fbih",
+                "Купрес-ФБиХ",
                 "Ливно",
                 "Лукавац",
                 "Љубушки",
@@ -818,7 +818,7 @@
                 "Оџак",
                 "Олово",
                 "Орашје",
-                "pale-fbih",
+                "Пале-ФБиХ",
                 "Посушје",
                 "Прозор",
                 "Равно",
@@ -832,7 +832,7 @@
                 "Тешањ",
                 "Томиславград",
                 "Травник",
-                "trnovo-fbih",
+                "Трново-ФБиХ",
                 "Тузла",
                 "Усора",
                 "Вареш",
@@ -854,13 +854,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
-                "agri_activity",
-                "agri_activity_sale",
+                "Укупно",
+                "Обављање пољопривредне активности",
+                "Обављање пољопривредне активности и продаја пољопривредних производа на тржишту",
                 ""
               ]
             },
-            "title": "HH_agri"
+            "title": "Пољопривредна активност"
           },
           {
             "name": "Value",
@@ -925,18 +925,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "scientific_field",
@@ -992,18 +992,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -1081,18 +1081,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "tuzla_canton",
-                "una-sana_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Тузлански кантон",
+                "Унско-сански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "type_of_education",
@@ -1212,21 +1212,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -1572,17 +1572,17 @@
                 "Чапљина",
                 "Челић",
                 "Читлук",
-                "doboj-istok",
-                "doboj-jug",
+                "Добој-Исток",
+                "Добој-Југ",
                 "Добретићи",
-                "domaljevac-samac",
-                "Доњи Вакуф",
+                "Домаљевац-Шамац",
+                "donji_vakuf",
                 "Дрвар",
-                "foca-fbih",
+                "Фоча-ФБиХ",
                 "Фојница",
                 "Гламоч",
                 "Горажде",
-                "gornji_vakuf-uskoplje",
+                "Горњи Вакуф-Ускопље",
                 "Грачаница",
                 "Градачац",
                 "Груде",
@@ -1598,7 +1598,7 @@
                 "Кључ",
                 "Коњиц",
                 "Крешево",
-                "kupres-fbih",
+                "Купрес-ФБиХ",
                 "Ливно",
                 "Лукавац",
                 "Љубушки",
@@ -1611,7 +1611,7 @@
                 "Оџак",
                 "Олово",
                 "Орашје",
-                "pale-fbih",
+                "Пале-ФБиХ",
                 "Посушје",
                 "Прозор",
                 "Равно",
@@ -1625,7 +1625,7 @@
                 "Тешањ",
                 "Томиславград",
                 "Травник",
-                "trnovo-fbih",
+                "Трново-ФБиХ",
                 "Тузла",
                 "Усора",
                 "Вареш",
@@ -1660,18 +1660,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
-                "eyesight",
-                "hearing",
-                "walking",
-                "memory",
-                "dressing",
-                "communication",
-                "Вишеструке потешкоће",
+                "Укупно",
+                "Вид, иако носи наочаре",
+                "Слух, иако користи слушни апарат",
+                "Ход или пењање уз степенице",
+                "Памћење или концентрација",
+                "Одијевање и одржавање хигијене",
+                "Комуникација",
+                "Са више потешкоћа",
                 ""
               ]
             },
-            "title": "Disabilities"
+            "title": "Врста потешкоће"
           },
           {
             "name": "Value",
@@ -1834,18 +1834,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "scientific_field",
@@ -2123,18 +2123,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -2183,18 +2183,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -2413,18 +2413,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "scientific_field",
@@ -2480,21 +2480,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -2642,21 +2642,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "Value",
@@ -2692,18 +2692,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "scientific_field",
@@ -2759,18 +2759,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -2906,18 +2906,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -3044,21 +3044,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -3107,18 +3107,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "scientific_field",
@@ -3342,17 +3342,17 @@
                 "Чапљина",
                 "Челић",
                 "Читлук",
-                "doboj-istok",
-                "doboj-jug",
+                "Добој-Исток",
+                "Добој-Југ",
                 "Добретићи",
-                "domaljevac-samac",
-                "Доњи Вакуф",
+                "Домаљевац-Шамац",
+                "donji_vakuf",
                 "Дрвар",
-                "foca-fbih",
+                "Фоча-ФБиХ",
                 "Фојница",
                 "Гламоч",
                 "Горажде",
-                "gornji_vakuf-uskoplje",
+                "Горњи Вакуф-Ускопље",
                 "Грачаница",
                 "Градачац",
                 "Груде",
@@ -3368,7 +3368,7 @@
                 "Кључ",
                 "Коњиц",
                 "Крешево",
-                "kupres-fbih",
+                "Купрес-ФБиХ",
                 "Ливно",
                 "Лукавац",
                 "Љубушки",
@@ -3381,7 +3381,7 @@
                 "Оџак",
                 "Олово",
                 "Орашје",
-                "pale-fbih",
+                "Пале-ФБиХ",
                 "Посушје",
                 "Прозор",
                 "Равно",
@@ -3395,7 +3395,7 @@
                 "Тешањ",
                 "Томиславград",
                 "Травник",
-                "trnovo-fbih",
+                "Трново-ФБиХ",
                 "Тузла",
                 "Усора",
                 "Вареш",
@@ -3417,7 +3417,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
+                "Укупно",
                 "1",
                 "2",
                 "3",
@@ -3429,7 +3429,7 @@
                 ""
               ]
             },
-            "title": "HH_size"
+            "title": "Бројност домаћинства"
           },
           {
             "name": "Value",
@@ -3465,21 +3465,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -3542,17 +3542,17 @@
                 "Чапљина",
                 "Челић",
                 "Читлук",
-                "doboj-istok",
-                "doboj-jug",
+                "Добој-Исток",
+                "Добој-Југ",
                 "Добретићи",
-                "domaljevac-samac",
-                "Доњи Вакуф",
+                "Домаљевац-Шамац",
+                "donji_vakuf",
                 "Дрвар",
-                "foca-fbih",
+                "Фоча-ФБиХ",
                 "Фојница",
                 "Гламоч",
                 "Горажде",
-                "gornji_vakuf-uskoplje",
+                "Горњи Вакуф-Ускопље",
                 "Грачаница",
                 "Градачац",
                 "Груде",
@@ -3568,7 +3568,7 @@
                 "Кључ",
                 "Коњиц",
                 "Крешево",
-                "kupres-fbih",
+                "Купрес-ФБиХ",
                 "Ливно",
                 "Лукавац",
                 "Љубушки",
@@ -3581,7 +3581,7 @@
                 "Оџак",
                 "Олово",
                 "Орашје",
-                "pale-fbih",
+                "Пале-ФБиХ",
                 "Посушје",
                 "Прозор",
                 "Равно",
@@ -3595,7 +3595,7 @@
                 "Тешањ",
                 "Томиславград",
                 "Травник",
-                "trnovo-fbih",
+                "Трново-ФБиХ",
                 "Тузла",
                 "Усора",
                 "Вареш",
@@ -3617,17 +3617,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
+                "Укупно",
                 "Нису рађале",
-                "one_child",
-                "two_children",
-                "three_children",
-                "four_children",
-                "5+_children",
+                "Једно дијете",
+                "Двоје дјеце",
+                "Троје дјеце",
+                "Четверо дјеце",
+                "Петеро и више дјеце",
                 ""
               ]
             },
-            "title": "No_of_births"
+            "title": "Број дјеце"
           },
           {
             "name": "Value",
@@ -3663,21 +3663,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -3798,7 +3798,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
+                "Укупно",
                 "0-4",
                 " 5-9",
                 " 10-14",
@@ -3892,18 +3892,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -4167,21 +4167,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "type_of_school",
@@ -4197,7 +4197,7 @@
                 ""
               ]
             },
-            "title": "type_of_school"
+            "title": "Врста школе"
           },
           {
             "name": "Value",
@@ -4559,21 +4559,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -4720,21 +4720,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -5087,17 +5087,17 @@
                 "Чапљина",
                 "Челић",
                 "Читлук",
-                "doboj-istok",
-                "doboj-jug",
+                "Добој-Исток",
+                "Добој-Југ",
                 "Добретићи",
-                "domaljevac-samac",
-                "Доњи Вакуф",
+                "Домаљевац-Шамац",
+                "donji_vakuf",
                 "Дрвар",
-                "foca-fbih",
+                "Фоча-ФБиХ",
                 "Фојница",
                 "Гламоч",
                 "Горажде",
-                "gornji_vakuf-uskoplje",
+                "Горњи Вакуф-Ускопље",
                 "Грачаница",
                 "Градачац",
                 "Груде",
@@ -5114,7 +5114,7 @@
                 "Коњиц",
                 "Крешево",
                 "krupa_na_uni",
-                "kupres-fbih",
+                "Купрес-ФБиХ",
                 "Ливно",
                 "Лукавац",
                 "Љубушки",
@@ -5127,7 +5127,7 @@
                 "Оџак",
                 "Олово",
                 "Орашје",
-                "pale-fbih",
+                "Пале-ФБиХ",
                 "Посушје",
                 "Прозор",
                 "Равно",
@@ -5141,7 +5141,7 @@
                 "Тешањ",
                 "Томиславград",
                 "Травник",
-                "trnovo-fbih",
+                "Трново-ФБиХ",
                 "Тузла",
                 "Усора",
                 "Вареш",
@@ -5176,7 +5176,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
+                "Укупно",
                 "0-4",
                 " 5-9",
                 " 10-14",
@@ -5325,17 +5325,17 @@
                 "Чапљина",
                 "Челић",
                 "Читлук",
-                "doboj-istok",
-                "doboj-jug",
+                "Добој-Исток",
+                "Добој-Југ",
                 "Добретићи",
-                "domaljevac-samac",
-                "Доњи Вакуф",
+                "Домаљевац-Шамац",
+                "donji_vakuf",
                 "Дрвар",
-                "foca-fbih",
+                "Фоча-ФБиХ",
                 "Фојница",
                 "Гламоч",
                 "Горажде",
-                "gornji_vakuf-uskoplje",
+                "Горњи Вакуф-Ускопље",
                 "Грачаница",
                 "Градачац",
                 "Груде",
@@ -5351,7 +5351,7 @@
                 "Кључ",
                 "Коњиц",
                 "Крешево",
-                "kupres-fbih",
+                "Купрес-ФБиХ",
                 "Ливно",
                 "Лукавац",
                 "Љубушки",
@@ -5364,7 +5364,7 @@
                 "Оџак",
                 "Олово",
                 "Орашје",
-                "pale-fbih",
+                "Пале-ФБиХ",
                 "Посушје",
                 "Прозор",
                 "Равно",
@@ -5378,7 +5378,7 @@
                 "Тешањ",
                 "Томиславград",
                 "Травник",
-                "trnovo-fbih",
+                "Трново-ФБиХ",
                 "Тузла",
                 "Усора",
                 "Вареш",
@@ -5400,13 +5400,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "literate",
-                "illiterate",
+                "Писмено становништво",
+                "Неписмено становништво",
                 "Непознато",
                 ""
               ]
             },
-            "title": "Literacy"
+            "title": "Писменост"
           },
           {
             "name": "Sex",
@@ -5587,18 +5587,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "SEX",
@@ -5647,21 +5647,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "Value",
@@ -5739,21 +5739,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "ПОсавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
                 ""
               ]
             },
-            "title": "Admin_Area"
+            "title": "Административна јединица"
           },
           {
             "name": "type_of_school",
@@ -5769,7 +5769,7 @@
                 ""
               ]
             },
-            "title": "type_of_school"
+            "title": "Врста школе"
           },
           {
             "name": "SEX",
@@ -5947,17 +5947,17 @@
                 "Чапљина",
                 "Челић",
                 "Читлук",
-                "doboj-istok",
-                "doboj-jug",
+                "Добој-Исток",
+                "Добој-Југ",
                 "Добретићи",
-                "domaljevac-samac",
-                "Доњи Вакуф",
+                "Домаљевац-Шамац",
+                "donji_vakuf",
                 "Дрвар",
-                "foca-fbih",
+                "Фоча-ФБиХ",
                 "Фојница",
                 "Гламоч",
                 "Горажде",
-                "gornji_vakuf-uskoplje",
+                "Горњи Вакуф-Ускопље",
                 "Грачаница",
                 "Градачац",
                 "Груде",
@@ -5973,7 +5973,7 @@
                 "Кључ",
                 "Коњиц",
                 "Крешево",
-                "kupres-fbih",
+                "Купрес-ФБиХ",
                 "Ливно",
                 "Лукавац",
                 "Љубушки",
@@ -5986,7 +5986,7 @@
                 "Оџак",
                 "Олово",
                 "Орашје",
-                "pale-fbih",
+                "Пале-ФБиХ",
                 "Посушје",
                 "Прозор",
                 "Равно",
@@ -6000,7 +6000,7 @@
                 "Тешањ",
                 "Томиславград",
                 "Травник",
-                "trnovo-fbih",
+                "Трново-ФБиХ",
                 "Тузла",
                 "Усора",
                 "Вареш",
@@ -6036,12 +6036,12 @@
             "constraints": {
               "enum": [
                 "Без образовања",
-                "incomplete_elementary",
-                "elementary_education",
-                "secondary_education",
-                "secondary_specialization",
-                "first_degree",
-                "university_degree",
+                "Непотпуно основно образовање",
+                "Основна школа",
+                "Средња школа",
+                "Специјализација послије средње школе",
+                "Виша школа и први степен факултета",
+                "Висока школа / факултет / академија / универзитет",
                 ""
               ]
             },
@@ -6094,7 +6094,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
+                "Укупно",
                 "0",
                 "1",
                 "2",
