@@ -4189,11 +4189,11 @@
             "constraints": {
               "enum": [
                 "Гимназија",
-                "technical_high_schools",
-                "vocational_high_schools",
+                "Техничке школе",
+                "Стручне школe",
                 "Умјетничке школе",
-                "religious_schools",
-                "high_schools_for_students_with_disabilities",
+                "Вјерске школе",
+                "Средње школе за дјецу са посебним потребама",
                 ""
               ]
             },
@@ -5761,11 +5761,11 @@
             "constraints": {
               "enum": [
                 "Гимназија",
-                "technical_high_schools",
-                "vocational_high_schools",
+                "Техничке школе",
+                "Стручне школe",
                 "Умјетничке школе",
-                "religious_schools",
-                "high_schools_for_students_with_disabilities",
+                "Вјерске школе",
+                "Средње школе за дјецу са посебним потребама",
                 ""
               ]
             },
