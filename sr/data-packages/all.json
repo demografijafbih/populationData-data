@@ -945,18 +945,18 @@
               "enum": [
                 "Образовање",
                 "Умјетност и хуманистичке науке",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
+                "Друштвене науке, новинарство и информисање",
+                "Пословање, администрација и право",
+                "Природне науке, математика и статистика",
                 "Информационе и комуникационе технологије",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Инжењерство, производња и грађевинарство",
+                "Пољопривреда, шумарство, рибарство и ветеринарство",
                 "Здравство и социјална заштита",
                 "Услуге",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Научна област"
           },
           {
             "name": "Value",
@@ -1854,18 +1854,18 @@
               "enum": [
                 "Образовање",
                 "Умјетност и хуманистичке науке",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
+                "Друштвене науке, новинарство и информисање",
+                "Пословање, администрација и право",
+                "Природне науке, математика и статистика",
                 "Информационе и комуникационе технологије",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Инжењерство, производња и грађевинарство",
+                "Пољопривреда, шумарство, рибарство и ветеринарство",
                 "Здравство и социјална заштита",
                 "Услуге",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Научна област"
           },
           {
             "name": "Value",
@@ -2433,18 +2433,18 @@
               "enum": [
                 "Образовање",
                 "Умјетност и хуманистичке науке",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
+                "Друштвене науке, новинарство и информисање",
+                "Пословање, администрација и право",
+                "Природне науке, математика и статистика",
                 "Информационе и комуникационе технологије",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Инжењерство, производња и грађевинарство",
+                "Пољопривреда, шумарство, рибарство и ветеринарство",
                 "Здравство и социјална заштита",
                 "Услуге",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Научна област"
           },
           {
             "name": "Value",
@@ -2712,18 +2712,18 @@
               "enum": [
                 "Образовање",
                 "Умјетност и хуманистичке науке",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
+                "Друштвене науке, новинарство и информисање",
+                "Пословање, администрација и право",
+                "Природне науке, математика и статистика",
                 "Информационе и комуникационе технологије",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Инжењерство, производња и грађевинарство",
+                "Пољопривреда, шумарство, рибарство и ветеринарство",
                 "Здравство и социјална заштита",
                 "Услуге",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Научна област"
           },
           {
             "name": "Value",
@@ -3127,18 +3127,18 @@
               "enum": [
                 "Образовање",
                 "Умјетност и хуманистичке науке",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
+                "Друштвене науке, новинарство и информисање",
+                "Пословање, администрација и право",
+                "Природне науке, математика и статистика",
                 "Информационе и комуникационе технологије",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Инжењерство, производња и грађевинарство",
+                "Пољопривреда, шумарство, рибарство и ветеринарство",
                 "Здравство и социјална заштита",
                 "Услуге",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Научна област"
           },
           {
             "name": "Value",
