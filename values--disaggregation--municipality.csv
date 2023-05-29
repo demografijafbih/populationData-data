@@ -11,13 +11,13 @@ buzim,Buzim,Bužim,Бужим,Bužim,127,7
 capljina,Capljina,Čapljina,Чапљина,Čapljina,127,7
 cazin,Cazin,Cazin,Цазин,Cazin,127,7
 celic,Celic,Čelić,Челић,Čelić,127,7
-centar_sarajevo,Sarajevo-Centar,Sarajevo-Centar,centar_sarajevo,Sarajevo-Centar,127,7
+centar_sarajevo,Sarajevo-Centar,Sarajevo-Centar,Сарајево-Центар,Sarajevo-Centar,127,7
 citluk,Citluk,Čitluk,Читлук,Čitluk,127,7
 doboj-istok,Doboj-Istok,Doboj-Istok,Добој-Исток,Doboj-Istok,127,7
 doboj-jug,Doboj-Jug,Doboj-Jug,Добој-Југ,Doboj-Jug,127,7
 dobretici,Dobretici,Dobretići,Добретићи,Dobretići,127,7
 domaljevac-samac,Domaljevac-Samac,Domaljevac-Šamac,Домаљевац-Шамац,Domaljevac-Šamac,127,7
-donji_vakuf,Donji Vakuf,Donji Vakuf,donji_vakuf,Donji Vakuf,127,7
+donji_vakuf,Donji Vakuf,Donji Vakuf,Доњи Вакуф,Donji Vakuf,127,7
 drvar,Drvar,Drvar,Дрвар,Drvar,127,7
 foca-fbih,Foca-FBiH,Foča-FBiH,Фоча-ФБиХ,Foča-FBiH,127,7
 fojnica,Fojnica,Fojnica,Фојница,Fojnica,127,7
@@ -27,9 +27,9 @@ gornji_vakuf-uskoplje,Gornji Vakuf-Uskoplje,Gornji Vakuf-Uskoplje,Горњи В�
 gracanica,Gracanica,Gračanica,Грачаница,Gračanica,127,7
 gradacac,Gradacac,Gradačac,Градачац,Gradačac,127,7
 grude,Grude,Grude,Груде,Grude,127,7
-hadzici,Sarajevo-Hadzici,Sarajevo-Hadžići,hadzici,Sarajevo-Hadžići,127,7
-ilidza,Sarajevo-Ilidza,Sarajevo-Ilidža,ilidza,Sarajevo-Ilidža,127,7
-ilijas,Sarajevo-Ilijas,Sarajevo-Ilijaš,ilijas,Sarajevo-Ilijaš,127,7
+hadzici,Sarajevo-Hadzici,Sarajevo-Hadžići,Сарајево-Хаџићи,Sarajevo-Hadžići,127,7
+ilidza,Sarajevo-Ilidza,Sarajevo-Ilidža,Сарајево-Илиџа,Sarajevo-Ilidža,127,7
+ilijas,Sarajevo-Ilijas,Sarajevo-Ilijaš,Сарајево-Илијаш,Sarajevo-Ilijaš,127,7
 jablanica,Jablanica,Jablanica,Јабланица,Jablanica,127,7
 jajce,Jajce,Jajce,Јајце,Jajce,127,7
 kakanj,Kakanj,Kakanj,Какањ,Kakanj,127,7
@@ -47,9 +47,9 @@ lukavac,Lukavac,Lukavac,Лукавац,Lukavac,127,7
 maglaj,Maglaj,Maglaj,Маглај,Maglaj,127,7
 mostar,Mostar,Mostar,Мостар,Mostar,127,7
 neum,Neum,Neum,Неум,Neum,127,7
-novi_grad_sarajevo,Sarajevo-Novi Grad,Sarajevo-Novi Grad,novi_grad_sarajevo,Sarajevo-Novi Grad,127,7
+novi_grad_sarajevo,Sarajevo-Novi Grad,Sarajevo-Novi Grad,Сарајево-Нови Град,Sarajevo-Novi Grad,127,7
 novi_travnik,Novi Travnik,Novi Travnik,Нови Травник,Novi Travnik,127,7
-novo_sarajevo,Sarajevo-Novo Sarajevo,Sarajevo-Novo Sarajevo,novo_sarajevo,Sarajevo-Novo Sarajevo,127,7
+novo_sarajevo,Sarajevo-Novo Sarajevo,Sarajevo-Novo Sarajevo,Сарајево-Ново Сарајево,Sarajevo-Novo Sarajevo,127,7
 odzak,Odzak,Odžak,Оџак,Odžak,127,7
 olovo,Olovo,Olovo,Олово,Olovo,127,7
 orasje,Orasje,Orašje,Орашје,Orašje,127,7
@@ -61,7 +61,7 @@ sanski_most,Sanski Most,Sanski Most,Сански Мост,Sanski Most,127,7
 sapna,Sapna,Sapna,Сапна,Sapna,127,7
 siroki_brijeg,Siroki Brijeg,Široki Brijeg,Широки Бријег,Široki Brijeg,127,7
 srebrenik,Srebrenik,Srebrenik,Сребреник,Srebrenik,127,7
-stari_grad_sarajevo,Sarajevo-Stari Grad,Sarajevo-Stari Grad,stari_grad_sarajevo,Sarajevo-Stari Grad,127,7
+stari_grad_sarajevo,Sarajevo-Stari Grad,Sarajevo-Stari Grad,Сарајево-Стари Град,Sarajevo-Stari Grad,127,7
 stolac,Stolac,Stolac,Столац,Stolac,127,7
 teocak,Teocak,Teočak,Теочак,Teočak,127,7
 tesanj,Tesanj,Tešanj,Тешањ,Tešanj,127,7
@@ -74,7 +74,7 @@ vares,Vares,Vareš,Вареш,Vareš,127,7
 velika_kladusa,Velika Kladusa,Velika Kladuša,Велика Кладуша,Velika Kladuša,127,7
 visoko,Visoko,Visoko,Високо,Visoko,127,7
 vitez,Vitez,Vitez,Витез,Vitez,127,7
-vogosca,Sarajevo-Vogosca,Sarajevo-Vogošća,vogosca,Sarajevo-Vogošća,127,7
+vogosca,Sarajevo-Vogosca,Sarajevo-Vogošća,Сарајево-Вогошћа,Sarajevo-Vogošća,127,7
 zavidovici,Zavidovici,Zavidovići,Завидовићи,Zavidovići,127,7
 zenica,Zenica,Zenica,Зеница,Zenica,127,7
 zepce,Zepce,Žepče,Жепче,Žepče,127,7
