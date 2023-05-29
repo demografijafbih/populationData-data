@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "Admin_Area",
@@ -43,20 +43,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "masters_of_science",
-                "masters",
-                "specialists",
+                "Mагистри наука",
+                "Мастери",
+                "Специјалисти",
                 ""
               ]
             },
-            "title": "type_of_education"
+            "title": "Врста образовања"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "F",
                 ""
@@ -67,7 +67,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

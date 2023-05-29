@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "Municipality",
@@ -65,7 +65,7 @@
                 "kljuc",
                 "konjic",
                 "kresevo",
-                "krupa_na_uni",
+                "Крупа на Уни",
                 "kupres-fbih",
                 "livno",
                 "lukavac",
@@ -108,14 +108,14 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Град/општина"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "F",
                 ""
@@ -150,12 +150,12 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Старост"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "Municipality",
@@ -107,14 +107,14 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Град/општина"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "F",
                 ""
@@ -127,13 +127,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "no_education",
-                "incomplete_elementary",
-                "elementary_education",
-                "secondary_education",
-                "secondary_specialization",
-                "first_degree",
-                "university_degree",
+                "Без икаквог образовања",
+                "Непотпуно основно образовање",
+                "Основна школа",
+                "Средња школа",
+                "Специјализација послије средње школе",
+                "Виша школа и први степен факултета",
+                "Висока школа / факултет / академија / универзитет",
                 ""
               ]
             },
@@ -142,7 +142,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

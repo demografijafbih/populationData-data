@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "Municipality",
@@ -107,7 +107,7 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Град/општина"
           },
           {
             "name": "HH_size",
@@ -131,7 +131,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

@@ -12,17 +12,17 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 2060,2060,2060,2060,2060,50,1
 2065,2065,2065,2065,2065,50,1
 2070,2070,2070,2070,2070,50,1
-_%,% of total,% od ukupno,_%,% od ukupno,88,13
-Age,Age,Starosna dob,Age,Starosna dob,12,6
+_%,% of total,% od ukupno,% од укупно,% od ukupno,88,13
+Age,Age,Starosna dob,Старост,Starosna dob,12,6
 BAM,BAM,BAM,BAM,BAM,2,2
-boys_to_girls,Number of boys to 100 girls,Broj dječaka na 100 djevojčica,boys_to_girls,Broj dječaka na 100 djevojčica,1,1
-children_pre_woman,Number of children born per woman during reproductive years (15-49),Broj živorođene djece po jednoj ženi u fertilnom periodu (15-49),children_pre_woman,Broj živorođene djece po jednoj ženi u fertilnom periodu (15-49),10,2
-crude_death_rate_1000,Number per 1000 population,Broj na 1.000 stanovnika,crude_death_rate_1000,Broj na 1.000 stanovnika,1,1
+boys_to_girls,Number of boys to 100 girls,Broj dječaka na 100 djevojčica,Број дјечака на 100 дјевојчица,Broj dječaka na 100 djevojčica,1,1
+children_pre_woman,Number of children born per woman during reproductive years (15-49),Broj živorođene djece po jednoj ženi u fertilnom periodu (15-49),Број дјеце по жени од 15-49 старости,Broj živorođene djece po jednoj ženi u fertilnom periodu (15-49),10,2
+crude_death_rate_1000,Number per 1000 population,Broj na 1.000 stanovnika,Стопа смртности на 1.000 становника,Broj na 1.000 stanovnika,1,1
 EUR,EUR,EUR,EUR,EUR,2,2
-NO_PER_1000_LIVE_BIRTHS,Number per 1000 live births,Broj na 1000 živorođenih,NO_PER_1000_LIVE_BIRTHS,Broj na 1000 živorođenih,6,4
-no_per_1000_marriages,Number per 1000 marriages,Broj na 1000 brakova,no_per_1000_marriages,Broj na 1000 brakova,1,1
+NO_PER_1000_LIVE_BIRTHS,Number per 1000 live births,Broj na 1000 živorođenih,Број на 1.000 живорођених,Broj na 1000 živorođenih,6,4
+no_per_1000_marriages,Number per 1000 marriages,Broj na 1000 brakova,Број на 1.000 бракова,Broj na 1000 brakova,1,1
 NUMBER,Number,Broj,Број,Broj,12410,74
-number_birth_rate,Birth Rate,Stopa nataliteta,number_birth_rate,Stopa nataliteta,2,2
+number_birth_rate,Birth Rate,Stopa nataliteta,Стопа наталитета на 1.000 становника,Stopa nataliteta,2,2
 number_death_rate,Death Rate,Stopa mortaliteta,number_death_rate,Stopa mortaliteta,1,1
 number_marriage_rate,Marriage Rate,Stopa nupcijaliteta,number_marriage_rate,Stopa nupcijaliteta,1,1
-USD,USD,USD,USD,USD,2,2
+USD,USD,USD,УСД,USD,2,2

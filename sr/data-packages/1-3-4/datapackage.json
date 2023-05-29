@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "F",
                 ""
@@ -38,9 +38,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
+                "Укупно",
                 "infectious_and_parasitic_diseases",
-                "neoplasms",
+                "(Ц00-Ц97,Д00-Д48) Неоплазме",
                 "diseases_of_the_blood_and_blood_forming_organs",
                 "diseases_of_the_endocrine_glands_nutrition_and_metabolism",
                 "mental_disorders_and_behavioral_disorders",
@@ -58,17 +58,17 @@
                 "congenital_anomalies_deformities_and_chromosomal_abnormalities",
                 "symptoms_signs_and_abnormal_clinical_and_laboratory_findings",
                 "injuries_poisonings_and_consequences_of_external_factors",
-                "special_purpose_codes",
-                "unknown",
+                "(У00-У85) Шифре за посебне намјене",
+                "Непознато",
                 ""
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Узрок смрти (према шифрама болести по МКБ-10)"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

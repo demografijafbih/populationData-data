@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "Municipality",
@@ -107,14 +107,14 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Град/општина"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "F",
                 ""
@@ -128,22 +128,22 @@
             "constraints": {
               "enum": [
                 "T",
-                "eyesight",
-                "hearing",
-                "walking",
-                "memory",
-                "dressing",
-                "communication",
-                "multiple_disabilities",
+                "Вид, иако носи наочаре",
+                "Слух, иако користи слушни апарат",
+                "Ход или пењање уз степенице",
+                "Памћење или концентрација",
+                "Одијевање и одржавање личне хигијене",
+                "Комуникација",
+                "Са више потешкоћа",
                 ""
               ]
             },
-            "title": "Disabilities"
+            "title": "Врста потешкоће"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

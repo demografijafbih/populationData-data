@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Municipality,Пол,Disabilities,Value
+Year,UNIT_MEASURE,Град/општина,Пол,Врста потешкоће,Value
 2013,Број,banovici,Оба пола,T,1839
 2013,Број,bihac,Оба пола,T,4952
 2013,Број,bosanska_krupa,Оба пола,T,2373
@@ -236,1662 +236,1662 @@ Year,UNIT_MEASURE,Municipality,Пол,Disabilities,Value
 2013,Број,zenica,Ж,T,4879
 2013,Број,zepce,Ж,T,1240
 2013,Број,zivinice,Ж,T,3333
-2013,Број,banovici,Оба пола,eyesight,750
-2013,Број,bihac,Оба пола,eyesight,2073
-2013,Број,bosanska_krupa,Оба пола,eyesight,1158
-2013,Број,bosanski_petrovac,Оба пола,eyesight,254
-2013,Број,bosansko_grahovo,Оба пола,eyesight,156
-2013,Број,breza,Оба пола,eyesight,493
-2013,Број,bugojno,Оба пола,eyesight,950
-2013,Број,busovaca,Оба пола,eyesight,538
-2013,Број,buzim,Оба пола,eyesight,465
-2013,Број,cazin,Оба пола,eyesight,1906
-2013,Број,centar_sarajevo,Оба пола,eyesight,1787
-2013,Број,capljina,Оба пола,eyesight,736
-2013,Број,celic,Оба пола,eyesight,553
-2013,Број,citluk,Оба пола,eyesight,406
-2013,Број,doboj-istok,Оба пола,eyesight,372
-2013,Број,doboj-jug,Оба пола,eyesight,145
-2013,Број,dobretici,Оба пола,eyesight,62
-2013,Број,domaljevac-samac,Оба пола,eyesight,223
-2013,Број,donji_vakuf,Оба пола,eyesight,503
-2013,Број,drvar,Оба пола,eyesight,497
-2013,Број,foca-fbih,Оба пола,eyesight,81
-2013,Број,fojnica,Оба пола,eyesight,555
-2013,Број,glamoc,Оба пола,eyesight,241
-2013,Број,gorazde,Оба пола,eyesight,959
-2013,Број,gornji_vakuf-uskoplje,Оба пола,eyesight,567
-2013,Број,gracanica,Оба пола,eyesight,1400
-2013,Број,gradacac,Оба пола,eyesight,1192
-2013,Број,grude,Оба пола,eyesight,346
-2013,Број,hadzici,Оба пола,eyesight,917
-2013,Број,ilidza,Оба пола,eyesight,2009
-2013,Број,ilijas,Оба пола,eyesight,724
-2013,Број,jablanica,Оба пола,eyesight,271
-2013,Број,jajce,Оба пола,eyesight,912
-2013,Број,kakanj,Оба пола,eyesight,994
-2013,Број,kalesija,Оба пола,eyesight,1405
-2013,Број,kiseljak,Оба пола,eyesight,624
-2013,Број,kladanj,Оба пола,eyesight,426
-2013,Број,kljuc,Оба пола,eyesight,388
-2013,Број,konjic,Оба пола,eyesight,838
-2013,Број,kresevo,Оба пола,eyesight,176
-2013,Број,kupres-fbih,Оба пола,eyesight,151
-2013,Број,livno,Оба пола,eyesight,622
-2013,Број,lukavac,Оба пола,eyesight,2247
-2013,Број,ljubuski,Оба пола,eyesight,652
-2013,Број,maglaj,Оба пола,eyesight,936
-2013,Број,mostar,Оба пола,eyesight,2733
-2013,Број,neum,Оба пола,eyesight,113
-2013,Број,novi_grad_sarajevo,Оба пола,eyesight,4078
-2013,Број,novi_travnik,Оба пола,eyesight,804
-2013,Број,novo_sarajevo,Оба пола,eyesight,1803
-2013,Број,odzak,Оба пола,eyesight,466
-2013,Број,olovo,Оба пола,eyesight,439
-2013,Број,orasje,Оба пола,eyesight,697
-2013,Број,pale-fbih,Оба пола,eyesight,56
-2013,Број,posusje,Оба пола,eyesight,356
-2013,Број,prozor,Оба пола,eyesight,258
-2013,Број,ravno,Оба пола,eyesight,42
-2013,Број,sanski_most,Оба пола,eyesight,880
-2013,Број,sapna,Оба пола,eyesight,226
-2013,Број,srebrenik,Оба пола,eyesight,1779
-2013,Број,stari_grad_sarajevo,Оба пола,eyesight,1538
-2013,Број,stolac,Оба пола,eyesight,367
-2013,Број,siroki_brijeg,Оба пола,eyesight,458
-2013,Број,teocak,Оба пола,eyesight,211
-2013,Број,tesanj,Оба пола,eyesight,1318
-2013,Број,tomislavgrad,Оба пола,eyesight,365
-2013,Број,travnik,Оба пола,eyesight,1696
-2013,Број,trnovo-fbih,Оба пола,eyesight,74
-2013,Број,tuzla,Оба пола,eyesight,5508
-2013,Број,usora,Оба пола,eyesight,149
-2013,Број,vares,Оба пола,eyesight,532
-2013,Број,velika_kladusa,Оба пола,eyesight,1787
-2013,Број,visoko,Оба пола,eyesight,1089
-2013,Број,vitez,Оба пола,eyesight,971
-2013,Број,vogosca,Оба пола,eyesight,1049
-2013,Број,zavidovici,Оба пола,eyesight,1475
-2013,Број,zenica,Оба пола,eyesight,3706
-2013,Број,zepce,Оба пола,eyesight,974
-2013,Број,zivinice,Оба пола,eyesight,2756
-2013,Број,banovici,M,eyesight,275
-2013,Број,bihac,M,eyesight,850
-2013,Број,bosanska_krupa,M,eyesight,509
-2013,Број,bosanski_petrovac,M,eyesight,108
-2013,Број,bosansko_grahovo,M,eyesight,62
-2013,Број,breza,M,eyesight,212
-2013,Број,bugojno,M,eyesight,414
-2013,Број,busovaca,M,eyesight,252
-2013,Број,buzim,M,eyesight,236
-2013,Број,cazin,M,eyesight,891
-2013,Број,centar_sarajevo,M,eyesight,671
-2013,Број,capljina,M,eyesight,341
-2013,Број,celic,M,eyesight,219
-2013,Број,citluk,M,eyesight,174
-2013,Број,doboj-istok,M,eyesight,182
-2013,Број,doboj-jug,M,eyesight,69
-2013,Број,dobretici,M,eyesight,28
-2013,Број,domaljevac-samac,M,eyesight,101
-2013,Број,donji_vakuf,M,eyesight,225
-2013,Број,drvar,M,eyesight,186
-2013,Број,foca-fbih,M,eyesight,41
-2013,Број,fojnica,M,eyesight,239
-2013,Број,glamoc,M,eyesight,93
-2013,Број,gorazde,M,eyesight,421
-2013,Број,gornji_vakuf-uskoplje,M,eyesight,239
-2013,Број,gracanica,M,eyesight,582
-2013,Број,gradacac,M,eyesight,497
-2013,Број,grude,M,eyesight,130
-2013,Број,hadzici,M,eyesight,394
-2013,Број,ilidza,M,eyesight,812
-2013,Број,ilijas,M,eyesight,281
-2013,Број,jablanica,M,eyesight,118
-2013,Број,jajce,M,eyesight,388
-2013,Број,kakanj,M,eyesight,406
-2013,Број,kalesija,M,eyesight,613
-2013,Број,kiseljak,M,eyesight,272
-2013,Број,kladanj,M,eyesight,175
-2013,Број,kljuc,M,eyesight,155
-2013,Број,konjic,M,eyesight,348
-2013,Број,kresevo,M,eyesight,75
-2013,Број,kupres-fbih,M,eyesight,59
-2013,Број,livno,M,eyesight,279
-2013,Број,lukavac,M,eyesight,884
-2013,Број,ljubuski,M,eyesight,254
-2013,Број,maglaj,M,eyesight,364
-2013,Број,mostar,M,eyesight,1129
-2013,Број,neum,M,eyesight,50
-2013,Број,novi_grad_sarajevo,M,eyesight,1587
-2013,Број,novi_travnik,M,eyesight,350
-2013,Број,novo_sarajevo,M,eyesight,657
-2013,Број,odzak,M,eyesight,194
-2013,Број,olovo,M,eyesight,168
-2013,Број,orasje,M,eyesight,297
-2013,Број,pale-fbih,M,eyesight,23
-2013,Број,posusje,M,eyesight,175
-2013,Број,prozor,M,eyesight,122
-2013,Број,ravno,M,eyesight,17
-2013,Број,sanski_most,M,eyesight,373
-2013,Број,sapna,M,eyesight,102
-2013,Број,srebrenik,M,eyesight,697
-2013,Број,stari_grad_sarajevo,M,eyesight,579
-2013,Број,stolac,M,eyesight,158
-2013,Број,siroki_brijeg,M,eyesight,180
-2013,Број,teocak,M,eyesight,95
-2013,Број,tesanj,M,eyesight,549
-2013,Број,tomislavgrad,M,eyesight,167
-2013,Број,travnik,M,eyesight,731
-2013,Број,trnovo-fbih,M,eyesight,32
-2013,Број,tuzla,M,eyesight,2096
-2013,Број,usora,M,eyesight,55
-2013,Број,vares,M,eyesight,206
-2013,Број,velika_kladusa,M,eyesight,783
-2013,Број,visoko,M,eyesight,468
-2013,Број,vitez,M,eyesight,431
-2013,Број,vogosca,M,eyesight,428
-2013,Број,zavidovici,M,eyesight,626
-2013,Број,zenica,M,eyesight,1560
-2013,Број,zepce,M,eyesight,413
-2013,Број,zivinice,M,eyesight,1124
-2013,Број,banovici,Ж,eyesight,475
-2013,Број,bihac,Ж,eyesight,1223
-2013,Број,bosanska_krupa,Ж,eyesight,649
-2013,Број,bosanski_petrovac,Ж,eyesight,146
-2013,Број,bosansko_grahovo,Ж,eyesight,94
-2013,Број,breza,Ж,eyesight,281
-2013,Број,bugojno,Ж,eyesight,536
-2013,Број,busovaca,Ж,eyesight,286
-2013,Број,buzim,Ж,eyesight,229
-2013,Број,cazin,Ж,eyesight,1015
-2013,Број,centar_sarajevo,Ж,eyesight,1116
-2013,Број,capljina,Ж,eyesight,395
-2013,Број,celic,Ж,eyesight,334
-2013,Број,citluk,Ж,eyesight,232
-2013,Број,doboj-istok,Ж,eyesight,190
-2013,Број,doboj-jug,Ж,eyesight,76
-2013,Број,dobretici,Ж,eyesight,34
-2013,Број,domaljevac-samac,Ж,eyesight,122
-2013,Број,donji_vakuf,Ж,eyesight,278
-2013,Број,drvar,Ж,eyesight,311
-2013,Број,foca-fbih,Ж,eyesight,40
-2013,Број,fojnica,Ж,eyesight,316
-2013,Број,glamoc,Ж,eyesight,148
-2013,Број,gorazde,Ж,eyesight,538
-2013,Број,gornji_vakuf-uskoplje,Ж,eyesight,328
-2013,Број,gracanica,Ж,eyesight,818
-2013,Број,gradacac,Ж,eyesight,695
-2013,Број,grude,Ж,eyesight,216
-2013,Број,hadzici,Ж,eyesight,523
-2013,Број,ilidza,Ж,eyesight,1197
-2013,Број,ilijas,Ж,eyesight,443
-2013,Број,jablanica,Ж,eyesight,153
-2013,Број,jajce,Ж,eyesight,524
-2013,Број,kakanj,Ж,eyesight,588
-2013,Број,kalesija,Ж,eyesight,792
-2013,Број,kiseljak,Ж,eyesight,352
-2013,Број,kladanj,Ж,eyesight,251
-2013,Број,kljuc,Ж,eyesight,233
-2013,Број,konjic,Ж,eyesight,490
-2013,Број,kresevo,Ж,eyesight,101
-2013,Број,kupres-fbih,Ж,eyesight,92
-2013,Број,livno,Ж,eyesight,343
-2013,Број,lukavac,Ж,eyesight,1363
-2013,Број,ljubuski,Ж,eyesight,398
-2013,Број,maglaj,Ж,eyesight,572
-2013,Број,mostar,Ж,eyesight,1604
-2013,Број,neum,Ж,eyesight,63
-2013,Број,novi_grad_sarajevo,Ж,eyesight,2491
-2013,Број,novi_travnik,Ж,eyesight,454
-2013,Број,novo_sarajevo,Ж,eyesight,1146
-2013,Број,odzak,Ж,eyesight,272
-2013,Број,olovo,Ж,eyesight,271
-2013,Број,orasje,Ж,eyesight,400
-2013,Број,pale-fbih,Ж,eyesight,33
-2013,Број,posusje,Ж,eyesight,181
-2013,Број,prozor,Ж,eyesight,136
-2013,Број,ravno,Ж,eyesight,25
-2013,Број,sanski_most,Ж,eyesight,507
-2013,Број,sapna,Ж,eyesight,124
-2013,Број,srebrenik,Ж,eyesight,1082
-2013,Број,stari_grad_sarajevo,Ж,eyesight,959
-2013,Број,stolac,Ж,eyesight,209
-2013,Број,siroki_brijeg,Ж,eyesight,278
-2013,Број,teocak,Ж,eyesight,116
-2013,Број,tesanj,Ж,eyesight,769
-2013,Број,tomislavgrad,Ж,eyesight,198
-2013,Број,travnik,Ж,eyesight,965
-2013,Број,trnovo-fbih,Ж,eyesight,42
-2013,Број,tuzla,Ж,eyesight,3412
-2013,Број,usora,Ж,eyesight,94
-2013,Број,vares,Ж,eyesight,326
-2013,Број,velika_kladusa,Ж,eyesight,1004
-2013,Број,visoko,Ж,eyesight,621
-2013,Број,vitez,Ж,eyesight,540
-2013,Број,vogosca,Ж,eyesight,621
-2013,Број,zavidovici,Ж,eyesight,849
-2013,Број,zenica,Ж,eyesight,2146
-2013,Број,zepce,Ж,eyesight,561
-2013,Број,zivinice,Ж,eyesight,1632
-2013,Број,banovici,Оба пола,hearing,357
-2013,Број,bihac,Оба пола,hearing,1189
-2013,Број,bosanska_krupa,Оба пола,hearing,651
-2013,Број,bosanski_petrovac,Оба пола,hearing,188
-2013,Број,bosansko_grahovo,Оба пола,hearing,84
-2013,Број,breza,Оба пола,hearing,256
-2013,Број,bugojno,Оба пола,hearing,551
-2013,Број,busovaca,Оба пола,hearing,311
-2013,Број,buzim,Оба пола,hearing,341
-2013,Број,cazin,Оба пола,hearing,1107
-2013,Број,centar_sarajevo,Оба пола,hearing,1049
-2013,Број,capljina,Оба пола,hearing,442
-2013,Број,celic,Оба пола,hearing,274
-2013,Број,citluk,Оба пола,hearing,304
-2013,Број,doboj-istok,Оба пола,hearing,233
-2013,Број,doboj-jug,Оба пола,hearing,74
-2013,Број,dobretici,Оба пола,hearing,48
-2013,Број,domaljevac-samac,Оба пола,hearing,104
-2013,Број,donji_vakuf,Оба пола,hearing,267
-2013,Број,drvar,Оба пола,hearing,261
-2013,Број,foca-fbih,Оба пола,hearing,50
-2013,Број,fojnica,Оба пола,hearing,270
-2013,Број,glamoc,Оба пола,hearing,160
-2013,Број,gorazde,Оба пола,hearing,585
-2013,Број,gornji_vakuf-uskoplje,Оба пола,hearing,361
-2013,Број,gracanica,Оба пола,hearing,728
-2013,Број,gradacac,Оба пола,hearing,674
-2013,Број,grude,Оба пола,hearing,265
-2013,Број,hadzici,Оба пола,hearing,528
-2013,Број,ilidza,Оба пола,hearing,1185
-2013,Број,ilijas,Оба пола,hearing,382
-2013,Број,jablanica,Оба пола,hearing,192
-2013,Број,jajce,Оба пола,hearing,494
-2013,Број,kakanj,Оба пола,hearing,590
-2013,Број,kalesija,Оба пола,hearing,626
-2013,Број,kiseljak,Оба пола,hearing,351
-2013,Број,kladanj,Оба пола,hearing,246
-2013,Број,kljuc,Оба пола,hearing,226
-2013,Број,konjic,Оба пола,hearing,491
-2013,Број,kresevo,Оба пола,hearing,122
-2013,Број,kupres-fbih,Оба пола,hearing,110
-2013,Број,livno,Оба пола,hearing,448
-2013,Број,lukavac,Оба пола,hearing,1252
-2013,Број,ljubuski,Оба пола,hearing,414
-2013,Број,maglaj,Оба пола,hearing,500
-2013,Број,mostar,Оба пола,hearing,1743
-2013,Број,neum,Оба пола,hearing,76
-2013,Број,novi_grad_sarajevo,Оба пола,hearing,2297
-2013,Број,novi_travnik,Оба пола,hearing,473
-2013,Број,novo_sarajevo,Оба пола,hearing,1142
-2013,Број,odzak,Оба пола,hearing,271
-2013,Број,olovo,Оба пола,hearing,295
-2013,Број,orasje,Оба пола,hearing,387
-2013,Број,pale-fbih,Оба пола,hearing,47
-2013,Број,posusje,Оба пола,hearing,292
-2013,Број,prozor,Оба пола,hearing,180
-2013,Број,ravno,Оба пола,hearing,43
-2013,Број,sanski_most,Оба пола,hearing,556
-2013,Број,sapna,Оба пола,hearing,148
-2013,Број,srebrenik,Оба пола,hearing,974
-2013,Број,stari_grad_sarajevo,Оба пола,hearing,857
-2013,Број,stolac,Оба пола,hearing,241
-2013,Број,siroki_brijeg,Оба пола,hearing,338
-2013,Број,teocak,Оба пола,hearing,116
-2013,Број,tesanj,Оба пола,hearing,611
-2013,Број,tomislavgrad,Оба пола,hearing,270
-2013,Број,travnik,Оба пола,hearing,878
-2013,Број,trnovo-fbih,Оба пола,hearing,46
-2013,Број,tuzla,Оба пола,hearing,2945
-2013,Број,usora,Оба пола,hearing,111
-2013,Број,vares,Оба пола,hearing,274
-2013,Број,velika_kladusa,Оба пола,hearing,881
-2013,Број,visoko,Оба пола,hearing,606
-2013,Број,vitez,Оба пола,hearing,493
-2013,Број,vogosca,Оба пола,hearing,581
-2013,Број,zavidovici,Оба пола,hearing,814
-2013,Број,zenica,Оба пола,hearing,2012
-2013,Број,zepce,Оба пола,hearing,507
-2013,Број,zivinice,Оба пола,hearing,1375
-2013,Број,banovici,M,hearing,151
-2013,Број,bihac,M,hearing,586
-2013,Број,bosanska_krupa,M,hearing,369
-2013,Број,bosanski_petrovac,M,hearing,92
-2013,Број,bosansko_grahovo,M,hearing,48
-2013,Број,breza,M,hearing,133
-2013,Број,bugojno,M,hearing,254
-2013,Број,busovaca,M,hearing,169
-2013,Број,buzim,M,hearing,180
-2013,Број,cazin,M,hearing,570
-2013,Број,centar_sarajevo,M,hearing,475
-2013,Број,capljina,M,hearing,231
-2013,Број,celic,M,hearing,130
-2013,Број,citluk,M,hearing,155
-2013,Број,doboj-istok,M,hearing,135
-2013,Број,doboj-jug,M,hearing,40
-2013,Број,dobretici,M,hearing,29
-2013,Број,domaljevac-samac,M,hearing,54
-2013,Број,donji_vakuf,M,hearing,138
-2013,Број,drvar,M,hearing,117
-2013,Број,foca-fbih,M,hearing,20
-2013,Број,fojnica,M,hearing,129
-2013,Број,glamoc,M,hearing,75
-2013,Број,gorazde,M,hearing,279
-2013,Број,gornji_vakuf-uskoplje,M,hearing,180
-2013,Број,gracanica,M,hearing,342
-2013,Број,gradacac,M,hearing,295
-2013,Број,grude,M,hearing,112
-2013,Број,hadzici,M,hearing,249
-2013,Број,ilidza,M,hearing,569
-2013,Број,ilijas,M,hearing,178
-2013,Број,jablanica,M,hearing,74
-2013,Број,jajce,M,hearing,245
-2013,Број,kakanj,M,hearing,281
-2013,Број,kalesija,M,hearing,327
-2013,Број,kiseljak,M,hearing,175
-2013,Број,kladanj,M,hearing,125
-2013,Број,kljuc,M,hearing,107
-2013,Број,konjic,M,hearing,223
-2013,Број,kresevo,M,hearing,57
-2013,Број,kupres-fbih,M,hearing,52
-2013,Број,livno,M,hearing,225
-2013,Број,lukavac,M,hearing,581
-2013,Број,ljubuski,M,hearing,192
-2013,Број,maglaj,M,hearing,239
-2013,Број,mostar,M,hearing,836
-2013,Број,neum,M,hearing,37
-2013,Број,novi_grad_sarajevo,M,hearing,1014
-2013,Број,novi_travnik,M,hearing,247
-2013,Број,novo_sarajevo,M,hearing,479
-2013,Број,odzak,M,hearing,125
-2013,Број,olovo,M,hearing,135
-2013,Број,orasje,M,hearing,189
-2013,Број,pale-fbih,M,hearing,24
-2013,Број,posusje,M,hearing,166
-2013,Број,prozor,M,hearing,88
-2013,Број,ravno,M,hearing,23
-2013,Број,sanski_most,M,hearing,274
-2013,Број,sapna,M,hearing,76
-2013,Број,srebrenik,M,hearing,433
-2013,Број,stari_grad_sarajevo,M,hearing,389
-2013,Број,stolac,M,hearing,105
-2013,Број,siroki_brijeg,M,hearing,157
-2013,Број,teocak,M,hearing,52
-2013,Број,tesanj,M,hearing,310
-2013,Број,tomislavgrad,M,hearing,127
-2013,Број,travnik,M,hearing,402
-2013,Број,trnovo-fbih,M,hearing,21
-2013,Број,tuzla,M,hearing,1350
-2013,Број,usora,M,hearing,54
-2013,Број,vares,M,hearing,135
-2013,Број,velika_kladusa,M,hearing,432
-2013,Број,visoko,M,hearing,298
-2013,Број,vitez,M,hearing,249
-2013,Број,vogosca,M,hearing,282
-2013,Број,zavidovici,M,hearing,428
-2013,Број,zenica,M,hearing,990
-2013,Број,zepce,M,hearing,273
-2013,Број,zivinice,M,hearing,656
-2013,Број,banovici,Ж,hearing,206
-2013,Број,bihac,Ж,hearing,603
-2013,Број,bosanska_krupa,Ж,hearing,282
-2013,Број,bosanski_petrovac,Ж,hearing,96
-2013,Број,bosansko_grahovo,Ж,hearing,36
-2013,Број,breza,Ж,hearing,123
-2013,Број,bugojno,Ж,hearing,297
-2013,Број,busovaca,Ж,hearing,142
-2013,Број,buzim,Ж,hearing,161
-2013,Број,cazin,Ж,hearing,537
-2013,Број,centar_sarajevo,Ж,hearing,574
-2013,Број,capljina,Ж,hearing,211
-2013,Број,celic,Ж,hearing,144
-2013,Број,citluk,Ж,hearing,149
-2013,Број,doboj-istok,Ж,hearing,98
-2013,Број,doboj-jug,Ж,hearing,34
-2013,Број,dobretici,Ж,hearing,19
-2013,Број,domaljevac-samac,Ж,hearing,50
-2013,Број,donji_vakuf,Ж,hearing,129
-2013,Број,drvar,Ж,hearing,144
-2013,Број,foca-fbih,Ж,hearing,30
-2013,Број,fojnica,Ж,hearing,141
-2013,Број,glamoc,Ж,hearing,85
-2013,Број,gorazde,Ж,hearing,306
-2013,Број,gornji_vakuf-uskoplje,Ж,hearing,181
-2013,Број,gracanica,Ж,hearing,386
-2013,Број,gradacac,Ж,hearing,379
-2013,Број,grude,Ж,hearing,153
-2013,Број,hadzici,Ж,hearing,279
-2013,Број,ilidza,Ж,hearing,616
-2013,Број,ilijas,Ж,hearing,204
-2013,Број,jablanica,Ж,hearing,118
-2013,Број,jajce,Ж,hearing,249
-2013,Број,kakanj,Ж,hearing,309
-2013,Број,kalesija,Ж,hearing,299
-2013,Број,kiseljak,Ж,hearing,176
-2013,Број,kladanj,Ж,hearing,121
-2013,Број,kljuc,Ж,hearing,119
-2013,Број,konjic,Ж,hearing,268
-2013,Број,kresevo,Ж,hearing,65
-2013,Број,kupres-fbih,Ж,hearing,58
-2013,Број,livno,Ж,hearing,223
-2013,Број,lukavac,Ж,hearing,671
-2013,Број,ljubuski,Ж,hearing,222
-2013,Број,maglaj,Ж,hearing,261
-2013,Број,mostar,Ж,hearing,907
-2013,Број,neum,Ж,hearing,39
-2013,Број,novi_grad_sarajevo,Ж,hearing,1283
-2013,Број,novi_travnik,Ж,hearing,226
-2013,Број,novo_sarajevo,Ж,hearing,663
-2013,Број,odzak,Ж,hearing,146
-2013,Број,olovo,Ж,hearing,160
-2013,Број,orasje,Ж,hearing,198
-2013,Број,pale-fbih,Ж,hearing,23
-2013,Број,posusje,Ж,hearing,126
-2013,Број,prozor,Ж,hearing,92
-2013,Број,ravno,Ж,hearing,20
-2013,Број,sanski_most,Ж,hearing,282
-2013,Број,sapna,Ж,hearing,72
-2013,Број,srebrenik,Ж,hearing,541
-2013,Број,stari_grad_sarajevo,Ж,hearing,468
-2013,Број,stolac,Ж,hearing,136
-2013,Број,siroki_brijeg,Ж,hearing,181
-2013,Број,teocak,Ж,hearing,64
-2013,Број,tesanj,Ж,hearing,301
-2013,Број,tomislavgrad,Ж,hearing,143
-2013,Број,travnik,Ж,hearing,476
-2013,Број,trnovo-fbih,Ж,hearing,25
-2013,Број,tuzla,Ж,hearing,1595
-2013,Број,usora,Ж,hearing,57
-2013,Број,vares,Ж,hearing,139
-2013,Број,velika_kladusa,Ж,hearing,449
-2013,Број,visoko,Ж,hearing,308
-2013,Број,vitez,Ж,hearing,244
-2013,Број,vogosca,Ж,hearing,299
-2013,Број,zavidovici,Ж,hearing,386
-2013,Број,zenica,Ж,hearing,1022
-2013,Број,zepce,Ж,hearing,234
-2013,Број,zivinice,Ж,hearing,719
-2013,Број,banovici,Оба пола,walking,1134
-2013,Број,bihac,Оба пола,walking,3069
-2013,Број,bosanska_krupa,Оба пола,walking,1363
-2013,Број,bosanski_petrovac,Оба пола,walking,430
-2013,Број,bosansko_grahovo,Оба пола,walking,215
-2013,Број,breza,Оба пола,walking,857
-2013,Број,bugojno,Оба пола,walking,1558
-2013,Број,busovaca,Оба пола,walking,763
-2013,Број,buzim,Оба пола,walking,649
-2013,Број,cazin,Оба пола,walking,2684
-2013,Број,centar_sarajevo,Оба пола,walking,3318
-2013,Број,capljina,Оба пола,walking,1079
-2013,Број,celic,Оба пола,walking,691
-2013,Број,citluk,Оба пола,walking,714
-2013,Број,doboj-istok,Оба пола,walking,648
-2013,Број,doboj-jug,Оба пола,walking,205
-2013,Број,dobretici,Оба пола,walking,128
-2013,Број,domaljevac-samac,Оба пола,walking,249
-2013,Број,donji_vakuf,Оба пола,walking,731
-2013,Број,drvar,Оба пола,walking,626
-2013,Број,foca-fbih,Оба пола,walking,138
-2013,Број,fojnica,Оба пола,walking,799
-2013,Број,glamoc,Оба пола,walking,277
-2013,Број,gorazde,Оба пола,walking,1525
-2013,Број,gornji_vakuf-uskoplje,Оба пола,walking,829
-2013,Број,gracanica,Оба пола,walking,2298
-2013,Број,gradacac,Оба пола,walking,1925
-2013,Број,grude,Оба пола,walking,601
-2013,Број,hadzici,Оба пола,walking,1385
-2013,Број,ilidza,Оба пола,walking,3404
-2013,Број,ilijas,Оба пола,walking,1054
-2013,Број,jablanica,Оба пола,walking,446
-2013,Број,jajce,Оба пола,walking,1333
-2013,Број,kakanj,Оба пола,walking,1498
-2013,Број,kalesija,Оба пола,walking,1844
-2013,Број,kiseljak,Оба пола,walking,956
-2013,Број,kladanj,Оба пола,walking,608
-2013,Број,kljuc,Оба пола,walking,668
-2013,Број,konjic,Оба пола,walking,1295
-2013,Број,kresevo,Оба пола,walking,274
-2013,Број,kupres-fbih,Оба пола,walking,212
-2013,Број,livno,Оба пола,walking,1102
-2013,Број,lukavac,Оба пола,walking,3253
-2013,Број,ljubuski,Оба пола,walking,1125
-2013,Број,maglaj,Оба пола,walking,1350
-2013,Број,mostar,Оба пола,walking,4730
-2013,Број,neum,Оба пола,walking,184
-2013,Број,novi_grad_sarajevo,Оба пола,walking,6627
-2013,Број,novi_travnik,Оба пола,walking,1117
-2013,Број,novo_sarajevo,Оба пола,walking,3679
-2013,Број,odzak,Оба пола,walking,696
-2013,Број,olovo,Оба пола,walking,735
-2013,Број,orasje,Оба пола,walking,1076
-2013,Број,pale-fbih,Оба пола,walking,83
-2013,Број,posusje,Оба пола,walking,746
-2013,Број,prozor,Оба пола,walking,407
-2013,Број,ravno,Оба пола,walking,83
-2013,Број,sanski_most,Оба пола,walking,1388
-2013,Број,sapna,Оба пола,walking,410
-2013,Број,srebrenik,Оба пола,walking,2370
-2013,Број,stari_grad_sarajevo,Оба пола,walking,2457
-2013,Број,stolac,Оба пола,walking,638
-2013,Број,siroki_brijeg,Оба пола,walking,891
-2013,Број,teocak,Оба пола,walking,330
-2013,Број,tesanj,Оба пола,walking,2057
-2013,Број,tomislavgrad,Оба пола,walking,665
-2013,Број,travnik,Оба пола,walking,2421
-2013,Број,trnovo-fbih,Оба пола,walking,136
-2013,Број,tuzla,Оба пола,walking,8661
-2013,Број,usora,Оба пола,walking,302
-2013,Број,vares,Оба пола,walking,789
-2013,Број,velika_kladusa,Оба пола,walking,2048
-2013,Број,visoko,Оба пола,walking,1960
-2013,Број,vitez,Оба пола,walking,1284
-2013,Број,vogosca,Оба пола,walking,1576
-2013,Број,zavidovici,Оба пола,walking,2318
-2013,Број,zenica,Оба пола,walking,5558
-2013,Број,zepce,Оба пола,walking,1432
-2013,Број,zivinice,Оба пола,walking,3658
-2013,Број,banovici,M,walking,456
-2013,Број,bihac,M,walking,1377
-2013,Број,bosanska_krupa,M,walking,632
-2013,Број,bosanski_petrovac,M,walking,177
-2013,Број,bosansko_grahovo,M,walking,77
-2013,Број,breza,M,walking,359
-2013,Број,bugojno,M,walking,695
-2013,Број,busovaca,M,walking,334
-2013,Број,buzim,M,walking,351
-2013,Број,cazin,M,walking,1326
-2013,Број,centar_sarajevo,M,walking,1231
-2013,Број,capljina,M,walking,504
-2013,Број,celic,M,walking,295
-2013,Број,citluk,M,walking,294
-2013,Број,doboj-istok,M,walking,292
-2013,Број,doboj-jug,M,walking,94
-2013,Број,dobretici,M,walking,83
-2013,Број,domaljevac-samac,M,walking,104
-2013,Број,donji_vakuf,M,walking,349
-2013,Број,drvar,M,walking,244
-2013,Број,foca-fbih,M,walking,55
-2013,Број,fojnica,M,walking,359
-2013,Број,glamoc,M,walking,100
-2013,Број,gorazde,M,walking,610
-2013,Број,gornji_vakuf-uskoplje,M,walking,393
-2013,Број,gracanica,M,walking,976
-2013,Број,gradacac,M,walking,800
-2013,Број,grude,M,walking,248
-2013,Број,hadzici,M,walking,580
-2013,Број,ilidza,M,walking,1407
-2013,Број,ilijas,M,walking,431
-2013,Број,jablanica,M,walking,200
-2013,Број,jajce,M,walking,587
-2013,Број,kakanj,M,walking,616
-2013,Број,kalesija,M,walking,768
-2013,Број,kiseljak,M,walking,399
-2013,Број,kladanj,M,walking,260
-2013,Број,kljuc,M,walking,283
-2013,Број,konjic,M,walking,551
-2013,Број,kresevo,M,walking,91
-2013,Број,kupres-fbih,M,walking,88
-2013,Број,livno,M,walking,477
-2013,Број,lukavac,M,walking,1247
-2013,Број,ljubuski,M,walking,478
-2013,Број,maglaj,M,walking,553
-2013,Број,mostar,M,walking,2043
-2013,Број,neum,M,walking,64
-2013,Број,novi_grad_sarajevo,M,walking,2604
-2013,Број,novi_travnik,M,walking,505
-2013,Број,novo_sarajevo,M,walking,1350
-2013,Број,odzak,M,walking,292
-2013,Број,olovo,M,walking,280
-2013,Број,orasje,M,walking,470
-2013,Број,pale-fbih,M,walking,31
-2013,Број,posusje,M,walking,404
-2013,Број,prozor,M,walking,162
-2013,Број,ravno,M,walking,31
-2013,Број,sanski_most,M,walking,620
-2013,Број,sapna,M,walking,209
-2013,Број,srebrenik,M,walking,905
-2013,Број,stari_grad_sarajevo,M,walking,958
-2013,Број,stolac,M,walking,265
-2013,Број,siroki_brijeg,M,walking,373
-2013,Број,teocak,M,walking,147
-2013,Број,tesanj,M,walking,885
-2013,Број,tomislavgrad,M,walking,307
-2013,Број,travnik,M,walking,1045
-2013,Број,trnovo-fbih,M,walking,54
-2013,Број,tuzla,M,walking,3310
-2013,Број,usora,M,walking,135
-2013,Број,vares,M,walking,323
-2013,Број,velika_kladusa,M,walking,914
-2013,Број,visoko,M,walking,820
-2013,Број,vitez,M,walking,566
-2013,Број,vogosca,M,walking,625
-2013,Број,zavidovici,M,walking,986
-2013,Број,zenica,M,walking,2316
-2013,Број,zepce,M,walking,636
-2013,Број,zivinice,M,walking,1445
-2013,Број,banovici,Ж,walking,678
-2013,Број,bihac,Ж,walking,1692
-2013,Број,bosanska_krupa,Ж,walking,731
-2013,Број,bosanski_petrovac,Ж,walking,253
-2013,Број,bosansko_grahovo,Ж,walking,138
-2013,Број,breza,Ж,walking,498
-2013,Број,bugojno,Ж,walking,863
-2013,Број,busovaca,Ж,walking,429
-2013,Број,buzim,Ж,walking,298
-2013,Број,cazin,Ж,walking,1358
-2013,Број,centar_sarajevo,Ж,walking,2087
-2013,Број,capljina,Ж,walking,575
-2013,Број,celic,Ж,walking,396
-2013,Број,citluk,Ж,walking,420
-2013,Број,doboj-istok,Ж,walking,356
-2013,Број,doboj-jug,Ж,walking,111
-2013,Број,dobretici,Ж,walking,45
-2013,Број,domaljevac-samac,Ж,walking,145
-2013,Број,donji_vakuf,Ж,walking,382
-2013,Број,drvar,Ж,walking,382
-2013,Број,foca-fbih,Ж,walking,83
-2013,Број,fojnica,Ж,walking,440
-2013,Број,glamoc,Ж,walking,177
-2013,Број,gorazde,Ж,walking,915
-2013,Број,gornji_vakuf-uskoplje,Ж,walking,436
-2013,Број,gracanica,Ж,walking,1322
-2013,Број,gradacac,Ж,walking,1125
-2013,Број,grude,Ж,walking,353
-2013,Број,hadzici,Ж,walking,805
-2013,Број,ilidza,Ж,walking,1997
-2013,Број,ilijas,Ж,walking,623
-2013,Број,jablanica,Ж,walking,246
-2013,Број,jajce,Ж,walking,746
-2013,Број,kakanj,Ж,walking,882
-2013,Број,kalesija,Ж,walking,1076
-2013,Број,kiseljak,Ж,walking,557
-2013,Број,kladanj,Ж,walking,348
-2013,Број,kljuc,Ж,walking,385
-2013,Број,konjic,Ж,walking,744
-2013,Број,kresevo,Ж,walking,183
-2013,Број,kupres-fbih,Ж,walking,124
-2013,Број,livno,Ж,walking,625
-2013,Број,lukavac,Ж,walking,2006
-2013,Број,ljubuski,Ж,walking,647
-2013,Број,maglaj,Ж,walking,797
-2013,Број,mostar,Ж,walking,2687
-2013,Број,neum,Ж,walking,120
-2013,Број,novi_grad_sarajevo,Ж,walking,4023
-2013,Број,novi_travnik,Ж,walking,612
-2013,Број,novo_sarajevo,Ж,walking,2329
-2013,Број,odzak,Ж,walking,404
-2013,Број,olovo,Ж,walking,455
-2013,Број,orasje,Ж,walking,606
-2013,Број,pale-fbih,Ж,walking,52
-2013,Број,posusje,Ж,walking,342
-2013,Број,prozor,Ж,walking,245
-2013,Број,ravno,Ж,walking,52
-2013,Број,sanski_most,Ж,walking,768
-2013,Број,sapna,Ж,walking,201
-2013,Број,srebrenik,Ж,walking,1465
-2013,Број,stari_grad_sarajevo,Ж,walking,1499
-2013,Број,stolac,Ж,walking,373
-2013,Број,siroki_brijeg,Ж,walking,518
-2013,Број,teocak,Ж,walking,183
-2013,Број,tesanj,Ж,walking,1172
-2013,Број,tomislavgrad,Ж,walking,358
-2013,Број,travnik,Ж,walking,1376
-2013,Број,trnovo-fbih,Ж,walking,82
-2013,Број,tuzla,Ж,walking,5351
-2013,Број,usora,Ж,walking,167
-2013,Број,vares,Ж,walking,466
-2013,Број,velika_kladusa,Ж,walking,1134
-2013,Број,visoko,Ж,walking,1140
-2013,Број,vitez,Ж,walking,718
-2013,Број,vogosca,Ж,walking,951
-2013,Број,zavidovici,Ж,walking,1332
-2013,Број,zenica,Ж,walking,3242
-2013,Број,zepce,Ж,walking,796
-2013,Број,zivinice,Ж,walking,2213
-2013,Број,banovici,Оба пола,memory,282
-2013,Број,bihac,Оба пола,memory,850
-2013,Број,bosanska_krupa,Оба пола,memory,490
-2013,Број,bosanski_petrovac,Оба пола,memory,138
-2013,Број,bosansko_grahovo,Оба пола,memory,46
-2013,Број,breza,Оба пола,memory,207
-2013,Број,bugojno,Оба пола,memory,512
-2013,Број,busovaca,Оба пола,memory,221
-2013,Број,buzim,Оба пола,memory,296
-2013,Број,cazin,Оба пола,memory,981
-2013,Број,centar_sarajevo,Оба пола,memory,799
-2013,Број,capljina,Оба пола,memory,336
-2013,Број,celic,Оба пола,memory,182
-2013,Број,citluk,Оба пола,memory,200
-2013,Број,doboj-istok,Оба пола,memory,340
-2013,Број,doboj-jug,Оба пола,memory,45
-2013,Број,dobretici,Оба пола,memory,40
-2013,Број,domaljevac-samac,Оба пола,memory,95
-2013,Број,donji_vakuf,Оба пола,memory,206
-2013,Број,drvar,Оба пола,memory,155
-2013,Број,foca-fbih,Оба пола,memory,31
-2013,Број,fojnica,Оба пола,memory,727
-2013,Број,glamoc,Оба пола,memory,89
-2013,Број,gorazde,Оба пола,memory,463
-2013,Број,gornji_vakuf-uskoplje,Оба пола,memory,247
-2013,Број,gracanica,Оба пола,memory,660
-2013,Број,gradacac,Оба пола,memory,623
-2013,Број,grude,Оба пола,memory,239
-2013,Број,hadzici,Оба пола,memory,650
-2013,Број,ilidza,Оба пола,memory,978
-2013,Број,ilijas,Оба пола,memory,382
-2013,Број,jablanica,Оба пола,memory,129
-2013,Број,jajce,Оба пола,memory,346
-2013,Број,kakanj,Оба пола,memory,443
-2013,Број,kalesija,Оба пола,memory,646
-2013,Број,kiseljak,Оба пола,memory,300
-2013,Број,kladanj,Оба пола,memory,218
-2013,Број,kljuc,Оба пола,memory,197
-2013,Број,konjic,Оба пола,memory,379
-2013,Број,kresevo,Оба пола,memory,102
-2013,Број,kupres-fbih,Оба пола,memory,100
-2013,Број,livno,Оба пола,memory,306
-2013,Број,lukavac,Оба пола,memory,1044
-2013,Број,ljubuski,Оба пола,memory,324
-2013,Број,maglaj,Оба пола,memory,385
-2013,Број,mostar,Оба пола,memory,1316
-2013,Број,neum,Оба пола,memory,40
-2013,Број,novi_grad_sarajevo,Оба пола,memory,1760
-2013,Број,novi_travnik,Оба пола,memory,364
-2013,Број,novo_sarajevo,Оба пола,memory,952
-2013,Број,odzak,Оба пола,memory,229
-2013,Број,olovo,Оба пола,memory,221
-2013,Број,orasje,Оба пола,memory,291
-2013,Број,pale-fbih,Оба пола,memory,34
-2013,Број,posusje,Оба пола,memory,213
-2013,Број,prozor,Оба пола,memory,136
-2013,Број,ravno,Оба пола,memory,19
-2013,Број,sanski_most,Оба пола,memory,467
-2013,Број,sapna,Оба пола,memory,117
-2013,Број,srebrenik,Оба пола,memory,866
-2013,Број,stari_grad_sarajevo,Оба пола,memory,663
-2013,Број,stolac,Оба пола,memory,252
-2013,Број,siroki_brijeg,Оба пола,memory,238
-2013,Број,teocak,Оба пола,memory,91
-2013,Број,tesanj,Оба пола,memory,594
-2013,Број,tomislavgrad,Оба пола,memory,192
-2013,Број,travnik,Оба пола,memory,724
-2013,Број,trnovo-fbih,Оба пола,memory,37
-2013,Број,tuzla,Оба пола,memory,2819
-2013,Број,usora,Оба пола,memory,88
-2013,Број,vares,Оба пола,memory,221
-2013,Број,velika_kladusa,Оба пола,memory,801
-2013,Број,visoko,Оба пола,memory,552
-2013,Број,vitez,Оба пола,memory,363
-2013,Број,vogosca,Оба пола,memory,491
-2013,Број,zavidovici,Оба пола,memory,648
-2013,Број,zenica,Оба пола,memory,1568
-2013,Број,zepce,Оба пола,memory,401
-2013,Број,zivinice,Оба пола,memory,1404
-2013,Број,banovici,M,memory,96
-2013,Број,bihac,M,memory,406
-2013,Број,bosanska_krupa,M,memory,248
-2013,Број,bosanski_petrovac,M,memory,66
-2013,Број,bosansko_grahovo,M,memory,18
-2013,Број,breza,M,memory,93
-2013,Број,bugojno,M,memory,251
-2013,Број,busovaca,M,memory,111
-2013,Број,buzim,M,memory,154
-2013,Број,cazin,M,memory,492
-2013,Број,centar_sarajevo,M,memory,351
-2013,Број,capljina,M,memory,160
-2013,Број,celic,M,memory,85
-2013,Број,citluk,M,memory,89
-2013,Број,doboj-istok,M,memory,139
-2013,Број,doboj-jug,M,memory,20
-2013,Број,dobretici,M,memory,26
-2013,Број,domaljevac-samac,M,memory,54
-2013,Број,donji_vakuf,M,memory,99
-2013,Број,drvar,M,memory,67
-2013,Број,foca-fbih,M,memory,15
-2013,Број,fojnica,M,memory,391
-2013,Број,glamoc,M,memory,47
-2013,Број,gorazde,M,memory,182
-2013,Број,gornji_vakuf-uskoplje,M,memory,125
-2013,Број,gracanica,M,memory,289
-2013,Број,gradacac,M,memory,294
-2013,Број,grude,M,memory,109
-2013,Број,hadzici,M,memory,334
-2013,Број,ilidza,M,memory,405
-2013,Број,ilijas,M,memory,167
-2013,Број,jablanica,M,memory,52
-2013,Број,jajce,M,memory,167
-2013,Број,kakanj,M,memory,192
-2013,Број,kalesija,M,memory,288
-2013,Број,kiseljak,M,memory,133
-2013,Број,kladanj,M,memory,82
-2013,Број,kljuc,M,memory,85
-2013,Број,konjic,M,memory,185
-2013,Број,kresevo,M,memory,40
-2013,Број,kupres-fbih,M,memory,45
-2013,Број,livno,M,memory,153
-2013,Број,lukavac,M,memory,412
-2013,Број,ljubuski,M,memory,157
-2013,Број,maglaj,M,memory,162
-2013,Број,mostar,M,memory,617
-2013,Број,neum,M,memory,19
-2013,Број,novi_grad_sarajevo,M,memory,718
-2013,Број,novi_travnik,M,memory,179
-2013,Број,novo_sarajevo,M,memory,396
-2013,Број,odzak,M,memory,108
-2013,Број,olovo,M,memory,87
-2013,Број,orasje,M,memory,131
-2013,Број,pale-fbih,M,memory,15
-2013,Број,posusje,M,memory,110
-2013,Број,prozor,M,memory,61
-2013,Број,ravno,M,memory,8
-2013,Број,sanski_most,M,memory,234
-2013,Број,sapna,M,memory,51
-2013,Број,srebrenik,M,memory,364
-2013,Број,stari_grad_sarajevo,M,memory,284
-2013,Број,stolac,M,memory,126
-2013,Број,siroki_brijeg,M,memory,114
-2013,Број,teocak,M,memory,45
-2013,Број,tesanj,M,memory,258
-2013,Број,tomislavgrad,M,memory,94
-2013,Број,travnik,M,memory,313
-2013,Број,trnovo-fbih,M,memory,13
-2013,Број,tuzla,M,memory,1183
-2013,Број,usora,M,memory,38
-2013,Број,vares,M,memory,95
-2013,Број,velika_kladusa,M,memory,374
-2013,Број,visoko,M,memory,252
-2013,Број,vitez,M,memory,170
-2013,Број,vogosca,M,memory,224
-2013,Број,zavidovici,M,memory,307
-2013,Број,zenica,M,memory,693
-2013,Број,zepce,M,memory,186
-2013,Број,zivinice,M,memory,617
-2013,Број,banovici,Ж,memory,186
-2013,Број,bihac,Ж,memory,444
-2013,Број,bosanska_krupa,Ж,memory,242
-2013,Број,bosanski_petrovac,Ж,memory,72
-2013,Број,bosansko_grahovo,Ж,memory,28
-2013,Број,breza,Ж,memory,114
-2013,Број,bugojno,Ж,memory,261
-2013,Број,busovaca,Ж,memory,110
-2013,Број,buzim,Ж,memory,142
-2013,Број,cazin,Ж,memory,489
-2013,Број,centar_sarajevo,Ж,memory,448
-2013,Број,capljina,Ж,memory,176
-2013,Број,celic,Ж,memory,97
-2013,Број,citluk,Ж,memory,111
-2013,Број,doboj-istok,Ж,memory,201
-2013,Број,doboj-jug,Ж,memory,25
-2013,Број,dobretici,Ж,memory,14
-2013,Број,domaljevac-samac,Ж,memory,41
-2013,Број,donji_vakuf,Ж,memory,107
-2013,Број,drvar,Ж,memory,88
-2013,Број,foca-fbih,Ж,memory,16
-2013,Број,fojnica,Ж,memory,336
-2013,Број,glamoc,Ж,memory,42
-2013,Број,gorazde,Ж,memory,281
-2013,Број,gornji_vakuf-uskoplje,Ж,memory,122
-2013,Број,gracanica,Ж,memory,371
-2013,Број,gradacac,Ж,memory,329
-2013,Број,grude,Ж,memory,130
-2013,Број,hadzici,Ж,memory,316
-2013,Број,ilidza,Ж,memory,573
-2013,Број,ilijas,Ж,memory,215
-2013,Број,jablanica,Ж,memory,77
-2013,Број,jajce,Ж,memory,179
-2013,Број,kakanj,Ж,memory,251
-2013,Број,kalesija,Ж,memory,358
-2013,Број,kiseljak,Ж,memory,167
-2013,Број,kladanj,Ж,memory,136
-2013,Број,kljuc,Ж,memory,112
-2013,Број,konjic,Ж,memory,194
-2013,Број,kresevo,Ж,memory,62
-2013,Број,kupres-fbih,Ж,memory,55
-2013,Број,livno,Ж,memory,153
-2013,Број,lukavac,Ж,memory,632
-2013,Број,ljubuski,Ж,memory,167
-2013,Број,maglaj,Ж,memory,223
-2013,Број,mostar,Ж,memory,699
-2013,Број,neum,Ж,memory,21
-2013,Број,novi_grad_sarajevo,Ж,memory,1042
-2013,Број,novi_travnik,Ж,memory,185
-2013,Број,novo_sarajevo,Ж,memory,556
-2013,Број,odzak,Ж,memory,121
-2013,Број,olovo,Ж,memory,134
-2013,Број,orasje,Ж,memory,160
-2013,Број,pale-fbih,Ж,memory,19
-2013,Број,posusje,Ж,memory,103
-2013,Број,prozor,Ж,memory,75
-2013,Број,ravno,Ж,memory,11
-2013,Број,sanski_most,Ж,memory,233
-2013,Број,sapna,Ж,memory,66
-2013,Број,srebrenik,Ж,memory,502
-2013,Број,stari_grad_sarajevo,Ж,memory,379
-2013,Број,stolac,Ж,memory,126
-2013,Број,siroki_brijeg,Ж,memory,124
-2013,Број,teocak,Ж,memory,46
-2013,Број,tesanj,Ж,memory,336
-2013,Број,tomislavgrad,Ж,memory,98
-2013,Број,travnik,Ж,memory,411
-2013,Број,trnovo-fbih,Ж,memory,24
-2013,Број,tuzla,Ж,memory,1636
-2013,Број,usora,Ж,memory,50
-2013,Број,vares,Ж,memory,126
-2013,Број,velika_kladusa,Ж,memory,427
-2013,Број,visoko,Ж,memory,300
-2013,Број,vitez,Ж,memory,193
-2013,Број,vogosca,Ж,memory,267
-2013,Број,zavidovici,Ж,memory,341
-2013,Број,zenica,Ж,memory,875
-2013,Број,zepce,Ж,memory,215
-2013,Број,zivinice,Ж,memory,787
-2013,Број,banovici,Оба пола,dressing,217
-2013,Број,bihac,Оба пола,dressing,655
-2013,Број,bosanska_krupa,Оба пола,dressing,298
-2013,Број,bosanski_petrovac,Оба пола,dressing,131
-2013,Број,bosansko_grahovo,Оба пола,dressing,47
-2013,Број,breza,Оба пола,dressing,167
-2013,Број,bugojno,Оба пола,dressing,362
-2013,Број,busovaca,Оба пола,dressing,134
-2013,Број,buzim,Оба пола,dressing,186
-2013,Број,cazin,Оба пола,dressing,600
-2013,Број,centar_sarajevo,Оба пола,dressing,635
-2013,Број,capljina,Оба пола,dressing,254
-2013,Број,celic,Оба пола,dressing,110
-2013,Број,citluk,Оба пола,dressing,166
-2013,Број,doboj-istok,Оба пола,dressing,217
-2013,Број,doboj-jug,Оба пола,dressing,29
-2013,Број,dobretici,Оба пола,dressing,22
-2013,Број,domaljevac-samac,Оба пола,dressing,42
-2013,Број,donji_vakuf,Оба пола,dressing,142
-2013,Број,drvar,Оба пола,dressing,139
-2013,Број,foca-fbih,Оба пола,dressing,20
-2013,Број,fojnica,Оба пола,dressing,220
-2013,Број,glamoc,Оба пола,dressing,60
-2013,Број,gorazde,Оба пола,dressing,294
-2013,Број,gornji_vakuf-uskoplje,Оба пола,dressing,145
-2013,Број,gracanica,Оба пола,dressing,435
-2013,Број,gradacac,Оба пола,dressing,462
-2013,Број,grude,Оба пола,dressing,193
-2013,Број,hadzici,Оба пола,dressing,449
-2013,Број,ilidza,Оба пола,dressing,767
-2013,Број,ilijas,Оба пола,dressing,246
-2013,Број,jablanica,Оба пола,dressing,101
-2013,Број,jajce,Оба пола,dressing,261
-2013,Број,kakanj,Оба пола,dressing,421
-2013,Број,kalesija,Оба пола,dressing,333
-2013,Број,kiseljak,Оба пола,dressing,216
-2013,Број,kladanj,Оба пола,dressing,115
-2013,Број,kljuc,Оба пола,dressing,136
-2013,Број,konjic,Оба пола,dressing,252
-2013,Број,kresevo,Оба пола,dressing,68
-2013,Број,kupres-fbih,Оба пола,dressing,81
-2013,Број,livno,Оба пола,dressing,246
-2013,Број,lukavac,Оба пола,dressing,674
-2013,Број,ljubuski,Оба пола,dressing,263
-2013,Број,maglaj,Оба пола,dressing,226
-2013,Број,mostar,Оба пола,dressing,970
-2013,Број,neum,Оба пола,dressing,28
-2013,Број,novi_grad_sarajevo,Оба пола,dressing,1361
-2013,Број,novi_travnik,Оба пола,dressing,261
-2013,Број,novo_sarajevo,Оба пола,dressing,743
-2013,Број,odzak,Оба пола,dressing,167
-2013,Број,olovo,Оба пола,dressing,143
-2013,Број,orasje,Оба пола,dressing,166
-2013,Број,pale-fbih,Оба пола,dressing,16
-2013,Број,posusje,Оба пола,dressing,132
-2013,Број,prozor,Оба пола,dressing,86
-2013,Број,ravno,Оба пола,dressing,9
-2013,Број,sanski_most,Оба пола,dressing,322
-2013,Број,sapna,Оба пола,dressing,67
-2013,Број,srebrenik,Оба пола,dressing,496
-2013,Број,stari_grad_sarajevo,Оба пола,dressing,460
-2013,Број,stolac,Оба пола,dressing,221
-2013,Број,siroki_brijeg,Оба пола,dressing,188
-2013,Број,teocak,Оба пола,dressing,63
-2013,Број,tesanj,Оба пола,dressing,465
-2013,Број,tomislavgrad,Оба пола,dressing,164
-2013,Број,travnik,Оба пола,dressing,594
-2013,Број,trnovo-fbih,Оба пола,dressing,22
-2013,Број,tuzla,Оба пола,dressing,1716
-2013,Број,usora,Оба пола,dressing,53
-2013,Број,vares,Оба пола,dressing,160
-2013,Број,velika_kladusa,Оба пола,dressing,423
-2013,Број,visoko,Оба пола,dressing,432
-2013,Број,vitez,Оба пола,dressing,275
-2013,Број,vogosca,Оба пола,dressing,326
-2013,Број,zavidovici,Оба пола,dressing,420
-2013,Број,zenica,Оба пола,dressing,1202
-2013,Број,zepce,Оба пола,dressing,232
-2013,Број,zivinice,Оба пола,dressing,725
-2013,Број,banovici,M,dressing,81
-2013,Број,bihac,M,dressing,301
-2013,Број,bosanska_krupa,M,dressing,147
-2013,Број,bosanski_petrovac,M,dressing,57
-2013,Број,bosansko_grahovo,M,dressing,14
-2013,Број,breza,M,dressing,73
-2013,Број,bugojno,M,dressing,178
-2013,Број,busovaca,M,dressing,68
-2013,Број,buzim,M,dressing,103
-2013,Број,cazin,M,dressing,292
-2013,Број,centar_sarajevo,M,dressing,227
-2013,Број,capljina,M,dressing,115
-2013,Број,celic,M,dressing,50
-2013,Број,citluk,M,dressing,60
-2013,Број,doboj-istok,M,dressing,107
-2013,Број,doboj-jug,M,dressing,12
-2013,Број,dobretici,M,dressing,15
-2013,Број,domaljevac-samac,M,dressing,17
-2013,Број,donji_vakuf,M,dressing,65
-2013,Број,drvar,M,dressing,61
-2013,Број,foca-fbih,M,dressing,9
-2013,Број,fojnica,M,dressing,96
-2013,Број,glamoc,M,dressing,27
-2013,Број,gorazde,M,dressing,119
-2013,Број,gornji_vakuf-uskoplje,M,dressing,72
-2013,Број,gracanica,M,dressing,175
-2013,Број,gradacac,M,dressing,209
-2013,Број,grude,M,dressing,80
-2013,Број,hadzici,M,dressing,221
-2013,Број,ilidza,M,dressing,295
-2013,Број,ilijas,M,dressing,98
-2013,Број,jablanica,M,dressing,48
-2013,Број,jajce,M,dressing,115
-2013,Број,kakanj,M,dressing,182
-2013,Број,kalesija,M,dressing,155
-2013,Број,kiseljak,M,dressing,88
-2013,Број,kladanj,M,dressing,48
-2013,Број,kljuc,M,dressing,52
-2013,Број,konjic,M,dressing,109
-2013,Број,kresevo,M,dressing,27
-2013,Број,kupres-fbih,M,dressing,34
-2013,Број,livno,M,dressing,101
-2013,Број,lukavac,M,dressing,286
-2013,Број,ljubuski,M,dressing,101
-2013,Број,maglaj,M,dressing,86
-2013,Број,mostar,M,dressing,386
-2013,Број,neum,M,dressing,9
-2013,Број,novi_grad_sarajevo,M,dressing,544
-2013,Број,novi_travnik,M,dressing,112
-2013,Број,novo_sarajevo,M,dressing,286
-2013,Број,odzak,M,dressing,69
-2013,Број,olovo,M,dressing,58
-2013,Број,orasje,M,dressing,73
-2013,Број,pale-fbih,M,dressing,7
-2013,Број,posusje,M,dressing,58
-2013,Број,prozor,M,dressing,33
-2013,Број,ravno,M,dressing,2
-2013,Број,sanski_most,M,dressing,163
-2013,Број,sapna,M,dressing,34
-2013,Број,srebrenik,M,dressing,195
-2013,Број,stari_grad_sarajevo,M,dressing,185
-2013,Број,stolac,M,dressing,106
-2013,Број,siroki_brijeg,M,dressing,70
-2013,Број,teocak,M,dressing,32
-2013,Број,tesanj,M,dressing,186
-2013,Број,tomislavgrad,M,dressing,67
-2013,Број,travnik,M,dressing,249
-2013,Број,trnovo-fbih,M,dressing,7
-2013,Број,tuzla,M,dressing,682
-2013,Број,usora,M,dressing,22
-2013,Број,vares,M,dressing,61
-2013,Број,velika_kladusa,M,dressing,187
-2013,Број,visoko,M,dressing,189
-2013,Број,vitez,M,dressing,107
-2013,Број,vogosca,M,dressing,146
-2013,Број,zavidovici,M,dressing,197
-2013,Број,zenica,M,dressing,509
-2013,Број,zepce,M,dressing,111
-2013,Број,zivinice,M,dressing,299
-2013,Број,banovici,Ж,dressing,136
-2013,Број,bihac,Ж,dressing,354
-2013,Број,bosanska_krupa,Ж,dressing,151
-2013,Број,bosanski_petrovac,Ж,dressing,74
-2013,Број,bosansko_grahovo,Ж,dressing,33
-2013,Број,breza,Ж,dressing,94
-2013,Број,bugojno,Ж,dressing,184
-2013,Број,busovaca,Ж,dressing,66
-2013,Број,buzim,Ж,dressing,83
-2013,Број,cazin,Ж,dressing,308
-2013,Број,centar_sarajevo,Ж,dressing,408
-2013,Број,capljina,Ж,dressing,139
-2013,Број,celic,Ж,dressing,60
-2013,Број,citluk,Ж,dressing,106
-2013,Број,doboj-istok,Ж,dressing,110
-2013,Број,doboj-jug,Ж,dressing,17
-2013,Број,dobretici,Ж,dressing,7
-2013,Број,domaljevac-samac,Ж,dressing,25
-2013,Број,donji_vakuf,Ж,dressing,77
-2013,Број,drvar,Ж,dressing,78
-2013,Број,foca-fbih,Ж,dressing,11
-2013,Број,fojnica,Ж,dressing,124
-2013,Број,glamoc,Ж,dressing,33
-2013,Број,gorazde,Ж,dressing,175
-2013,Број,gornji_vakuf-uskoplje,Ж,dressing,73
-2013,Број,gracanica,Ж,dressing,260
-2013,Број,gradacac,Ж,dressing,253
-2013,Број,grude,Ж,dressing,113
-2013,Број,hadzici,Ж,dressing,228
-2013,Број,ilidza,Ж,dressing,472
-2013,Број,ilijas,Ж,dressing,148
-2013,Број,jablanica,Ж,dressing,53
-2013,Број,jajce,Ж,dressing,146
-2013,Број,kakanj,Ж,dressing,239
-2013,Број,kalesija,Ж,dressing,178
-2013,Број,kiseljak,Ж,dressing,128
-2013,Број,kladanj,Ж,dressing,67
-2013,Број,kljuc,Ж,dressing,84
-2013,Број,konjic,Ж,dressing,143
-2013,Број,kresevo,Ж,dressing,41
-2013,Број,kupres-fbih,Ж,dressing,47
-2013,Број,livno,Ж,dressing,145
-2013,Број,lukavac,Ж,dressing,388
-2013,Број,ljubuski,Ж,dressing,162
-2013,Број,maglaj,Ж,dressing,140
-2013,Број,mostar,Ж,dressing,584
-2013,Број,neum,Ж,dressing,19
-2013,Број,novi_grad_sarajevo,Ж,dressing,817
-2013,Број,novi_travnik,Ж,dressing,149
-2013,Број,novo_sarajevo,Ж,dressing,457
-2013,Број,odzak,Ж,dressing,98
-2013,Број,olovo,Ж,dressing,85
-2013,Број,orasje,Ж,dressing,93
-2013,Број,pale-fbih,Ж,dressing,9
-2013,Број,posusje,Ж,dressing,74
-2013,Број,prozor,Ж,dressing,53
-2013,Број,ravno,Ж,dressing,7
-2013,Број,sanski_most,Ж,dressing,159
-2013,Број,sapna,Ж,dressing,33
-2013,Број,srebrenik,Ж,dressing,301
-2013,Број,stari_grad_sarajevo,Ж,dressing,275
-2013,Број,stolac,Ж,dressing,115
-2013,Број,siroki_brijeg,Ж,dressing,118
-2013,Број,teocak,Ж,dressing,31
-2013,Број,tesanj,Ж,dressing,279
-2013,Број,tomislavgrad,Ж,dressing,97
-2013,Број,travnik,Ж,dressing,345
-2013,Број,trnovo-fbih,Ж,dressing,15
-2013,Број,tuzla,Ж,dressing,1034
-2013,Број,usora,Ж,dressing,31
-2013,Број,vares,Ж,dressing,99
-2013,Број,velika_kladusa,Ж,dressing,236
-2013,Број,visoko,Ж,dressing,243
-2013,Број,vitez,Ж,dressing,168
-2013,Број,vogosca,Ж,dressing,180
-2013,Број,zavidovici,Ж,dressing,223
-2013,Број,zenica,Ж,dressing,693
-2013,Број,zepce,Ж,dressing,121
-2013,Број,zivinice,Ж,dressing,426
-2013,Број,banovici,Оба пола,communication,185
-2013,Број,bihac,Оба пола,communication,491
-2013,Број,bosanska_krupa,Оба пола,communication,269
-2013,Број,bosanski_petrovac,Оба пола,communication,98
-2013,Број,bosansko_grahovo,Оба пола,communication,31
-2013,Број,breza,Оба пола,communication,132
-2013,Број,bugojno,Оба пола,communication,305
-2013,Број,busovaca,Оба пола,communication,114
-2013,Број,buzim,Оба пола,communication,190
-2013,Број,cazin,Оба пола,communication,583
-2013,Број,centar_sarajevo,Оба пола,communication,386
-2013,Број,capljina,Оба пола,communication,217
-2013,Број,celic,Оба пола,communication,90
-2013,Број,citluk,Оба пола,communication,130
-2013,Број,doboj-istok,Оба пола,communication,214
-2013,Број,doboj-jug,Оба пола,communication,23
-2013,Број,dobretici,Оба пола,communication,27
-2013,Број,domaljevac-samac,Оба пола,communication,44
-2013,Број,donji_vakuf,Оба пола,communication,108
-2013,Број,drvar,Оба пола,communication,100
-2013,Број,foca-fbih,Оба пола,communication,17
-2013,Број,fojnica,Оба пола,communication,604
-2013,Број,glamoc,Оба пола,communication,44
-2013,Број,gorazde,Оба пола,communication,226
-2013,Број,gornji_vakuf-uskoplje,Оба пола,communication,164
-2013,Број,gracanica,Оба пола,communication,335
-2013,Број,gradacac,Оба пола,communication,356
-2013,Број,grude,Оба пола,communication,172
-2013,Број,hadzici,Оба пола,communication,405
-2013,Број,ilidza,Оба пола,communication,537
-2013,Број,ilijas,Оба пола,communication,212
-2013,Број,jablanica,Оба пола,communication,85
-2013,Број,jajce,Оба пола,communication,206
-2013,Број,kakanj,Оба пола,communication,320
-2013,Број,kalesija,Оба пола,communication,275
-2013,Број,kiseljak,Оба пола,communication,177
-2013,Број,kladanj,Оба пола,communication,100
-2013,Број,kljuc,Оба пола,communication,100
-2013,Број,konjic,Оба пола,communication,208
-2013,Број,kresevo,Оба пола,communication,45
-2013,Број,kupres-fbih,Оба пола,communication,87
-2013,Број,livno,Оба пола,communication,209
-2013,Број,lukavac,Оба пола,communication,497
-2013,Број,ljubuski,Оба пола,communication,230
-2013,Број,maglaj,Оба пола,communication,224
-2013,Број,mostar,Оба пола,communication,816
-2013,Број,neum,Оба пола,communication,22
-2013,Број,novi_grad_sarajevo,Оба пола,communication,956
-2013,Број,novi_travnik,Оба пола,communication,210
-2013,Број,novo_sarajevo,Оба пола,communication,505
-2013,Број,odzak,Оба пола,communication,141
-2013,Број,olovo,Оба пола,communication,115
-2013,Број,orasje,Оба пола,communication,152
-2013,Број,pale-fbih,Оба пола,communication,8
-2013,Број,posusje,Оба пола,communication,147
-2013,Број,prozor,Оба пола,communication,87
-2013,Број,ravno,Оба пола,communication,13
-2013,Број,sanski_most,Оба пола,communication,328
-2013,Број,sapna,Оба пола,communication,58
-2013,Број,srebrenik,Оба пола,communication,427
-2013,Број,stari_grad_sarajevo,Оба пола,communication,367
-2013,Број,stolac,Оба пола,communication,171
-2013,Број,siroki_brijeg,Оба пола,communication,181
-2013,Број,teocak,Оба пола,communication,49
-2013,Број,tesanj,Оба пола,communication,356
-2013,Број,tomislavgrad,Оба пола,communication,155
-2013,Број,travnik,Оба пола,communication,440
-2013,Број,trnovo-fbih,Оба пола,communication,17
-2013,Број,tuzla,Оба пола,communication,1319
-2013,Број,usora,Оба пола,communication,45
-2013,Број,vares,Оба пола,communication,107
-2013,Број,velika_kladusa,Оба пола,communication,408
-2013,Број,visoko,Оба пола,communication,327
-2013,Број,vitez,Оба пола,communication,216
-2013,Број,vogosca,Оба пола,communication,252
-2013,Број,zavidovici,Оба пола,communication,369
-2013,Број,zenica,Оба пола,communication,958
-2013,Број,zepce,Оба пола,communication,243
-2013,Број,zivinice,Оба пола,communication,643
-2013,Број,banovici,M,communication,76
-2013,Број,bihac,M,communication,256
-2013,Број,bosanska_krupa,M,communication,138
-2013,Број,bosanski_petrovac,M,communication,47
-2013,Број,bosansko_grahovo,M,communication,13
-2013,Број,breza,M,communication,70
-2013,Број,bugojno,M,communication,152
-2013,Број,busovaca,M,communication,65
-2013,Број,buzim,M,communication,106
-2013,Број,cazin,M,communication,312
-2013,Број,centar_sarajevo,M,communication,169
-2013,Број,capljina,M,communication,116
-2013,Број,celic,M,communication,41
-2013,Број,citluk,M,communication,56
-2013,Број,doboj-istok,M,communication,106
-2013,Број,doboj-jug,M,communication,10
-2013,Број,dobretici,M,communication,18
-2013,Број,domaljevac-samac,M,communication,26
-2013,Број,donji_vakuf,M,communication,47
-2013,Број,drvar,M,communication,46
-2013,Број,foca-fbih,M,communication,8
-2013,Број,fojnica,M,communication,344
-2013,Број,glamoc,M,communication,22
-2013,Број,gorazde,M,communication,92
-2013,Број,gornji_vakuf-uskoplje,M,communication,83
-2013,Број,gracanica,M,communication,167
-2013,Број,gradacac,M,communication,174
-2013,Број,grude,M,communication,68
-2013,Број,hadzici,M,communication,209
-2013,Број,ilidza,M,communication,257
-2013,Број,ilijas,M,communication,105
-2013,Број,jablanica,M,communication,44
-2013,Број,jajce,M,communication,104
-2013,Број,kakanj,M,communication,165
-2013,Број,kalesija,M,communication,139
-2013,Број,kiseljak,M,communication,85
-2013,Број,kladanj,M,communication,50
-2013,Број,kljuc,M,communication,44
-2013,Број,konjic,M,communication,101
-2013,Број,kresevo,M,communication,24
-2013,Број,kupres-fbih,M,communication,38
-2013,Број,livno,M,communication,97
-2013,Број,lukavac,M,communication,234
-2013,Број,ljubuski,M,communication,114
-2013,Број,maglaj,M,communication,92
-2013,Број,mostar,M,communication,379
-2013,Број,neum,M,communication,7
-2013,Број,novi_grad_sarajevo,M,communication,440
-2013,Број,novi_travnik,M,communication,96
-2013,Број,novo_sarajevo,M,communication,227
-2013,Број,odzak,M,communication,62
-2013,Број,olovo,M,communication,47
-2013,Број,orasje,M,communication,77
-2013,Број,pale-fbih,M,communication,3
-2013,Број,posusje,M,communication,80
-2013,Број,prozor,M,communication,42
-2013,Број,ravno,M,communication,6
-2013,Број,sanski_most,M,communication,177
-2013,Број,sapna,M,communication,34
-2013,Број,srebrenik,M,communication,211
-2013,Број,stari_grad_sarajevo,M,communication,170
-2013,Број,stolac,M,communication,87
-2013,Број,siroki_brijeg,M,communication,94
-2013,Број,teocak,M,communication,28
-2013,Број,tesanj,M,communication,162
-2013,Број,tomislavgrad,M,communication,74
-2013,Број,travnik,M,communication,210
-2013,Број,trnovo-fbih,M,communication,7
-2013,Број,tuzla,M,communication,619
-2013,Број,usora,M,communication,22
-2013,Број,vares,M,communication,52
-2013,Број,velika_kladusa,M,communication,209
-2013,Број,visoko,M,communication,160
-2013,Број,vitez,M,communication,102
-2013,Број,vogosca,M,communication,128
-2013,Број,zavidovici,M,communication,184
-2013,Број,zenica,M,communication,484
-2013,Број,zepce,M,communication,128
-2013,Број,zivinice,M,communication,308
-2013,Број,banovici,Ж,communication,109
-2013,Број,bihac,Ж,communication,235
-2013,Број,bosanska_krupa,Ж,communication,131
-2013,Број,bosanski_petrovac,Ж,communication,51
-2013,Број,bosansko_grahovo,Ж,communication,18
-2013,Број,breza,Ж,communication,62
-2013,Број,bugojno,Ж,communication,153
-2013,Број,busovaca,Ж,communication,49
-2013,Број,buzim,Ж,communication,84
-2013,Број,cazin,Ж,communication,271
-2013,Број,centar_sarajevo,Ж,communication,217
-2013,Број,capljina,Ж,communication,101
-2013,Број,celic,Ж,communication,49
-2013,Број,citluk,Ж,communication,74
-2013,Број,doboj-istok,Ж,communication,108
-2013,Број,doboj-jug,Ж,communication,13
-2013,Број,dobretici,Ж,communication,9
-2013,Број,domaljevac-samac,Ж,communication,18
-2013,Број,donji_vakuf,Ж,communication,61
-2013,Број,drvar,Ж,communication,54
-2013,Број,foca-fbih,Ж,communication,9
-2013,Број,fojnica,Ж,communication,260
-2013,Број,glamoc,Ж,communication,22
-2013,Број,gorazde,Ж,communication,134
-2013,Број,gornji_vakuf-uskoplje,Ж,communication,81
-2013,Број,gracanica,Ж,communication,168
-2013,Број,gradacac,Ж,communication,182
-2013,Број,grude,Ж,communication,104
-2013,Број,hadzici,Ж,communication,196
-2013,Број,ilidza,Ж,communication,280
-2013,Број,ilijas,Ж,communication,107
-2013,Број,jablanica,Ж,communication,41
-2013,Број,jajce,Ж,communication,102
-2013,Број,kakanj,Ж,communication,155
-2013,Број,kalesija,Ж,communication,136
-2013,Број,kiseljak,Ж,communication,92
-2013,Број,kladanj,Ж,communication,50
-2013,Број,kljuc,Ж,communication,56
-2013,Број,konjic,Ж,communication,107
-2013,Број,kresevo,Ж,communication,21
-2013,Број,kupres-fbih,Ж,communication,49
-2013,Број,livno,Ж,communication,112
-2013,Број,lukavac,Ж,communication,263
-2013,Број,ljubuski,Ж,communication,116
-2013,Број,maglaj,Ж,communication,132
-2013,Број,mostar,Ж,communication,437
-2013,Број,neum,Ж,communication,15
-2013,Број,novi_grad_sarajevo,Ж,communication,516
-2013,Број,novi_travnik,Ж,communication,114
-2013,Број,novo_sarajevo,Ж,communication,278
-2013,Број,odzak,Ж,communication,79
-2013,Број,olovo,Ж,communication,68
-2013,Број,orasje,Ж,communication,75
-2013,Број,pale-fbih,Ж,communication,5
-2013,Број,posusje,Ж,communication,67
-2013,Број,prozor,Ж,communication,45
-2013,Број,ravno,Ж,communication,7
-2013,Број,sanski_most,Ж,communication,151
-2013,Број,sapna,Ж,communication,24
-2013,Број,srebrenik,Ж,communication,216
-2013,Број,stari_grad_sarajevo,Ж,communication,197
-2013,Број,stolac,Ж,communication,84
-2013,Број,siroki_brijeg,Ж,communication,87
-2013,Број,teocak,Ж,communication,21
-2013,Број,tesanj,Ж,communication,194
-2013,Број,tomislavgrad,Ж,communication,81
-2013,Број,travnik,Ж,communication,230
-2013,Број,trnovo-fbih,Ж,communication,10
-2013,Број,tuzla,Ж,communication,700
-2013,Број,usora,Ж,communication,23
-2013,Број,vares,Ж,communication,55
-2013,Број,velika_kladusa,Ж,communication,199
-2013,Број,visoko,Ж,communication,167
-2013,Број,vitez,Ж,communication,114
-2013,Број,vogosca,Ж,communication,124
-2013,Број,zavidovici,Ж,communication,185
-2013,Број,zenica,Ж,communication,474
-2013,Број,zepce,Ж,communication,115
-2013,Број,zivinice,Ж,communication,335
-2013,Број,banovici,Оба пола,multiple_disabilities,640
-2013,Број,bihac,Оба пола,multiple_disabilities,1780
-2013,Број,bosanska_krupa,Оба пола,multiple_disabilities,911
-2013,Број,bosanski_petrovac,Оба пола,multiple_disabilities,272
-2013,Број,bosansko_grahovo,Оба пола,multiple_disabilities,148
-2013,Број,breza,Оба пола,multiple_disabilities,442
-2013,Број,bugojno,Оба пола,multiple_disabilities,921
-2013,Број,busovaca,Оба пола,multiple_disabilities,450
-2013,Број,buzim,Оба пола,multiple_disabilities,438
-2013,Број,cazin,Оба пола,multiple_disabilities,1654
-2013,Број,centar_sarajevo,Оба пола,multiple_disabilities,1789
-2013,Број,capljina,Оба пола,multiple_disabilities,647
-2013,Број,celic,Оба пола,multiple_disabilities,427
-2013,Број,citluk,Оба пола,multiple_disabilities,418
-2013,Број,doboj-istok,Оба пола,multiple_disabilities,403
-2013,Број,doboj-jug,Оба пола,multiple_disabilities,115
-2013,Број,dobretici,Оба пола,multiple_disabilities,65
-2013,Број,domaljevac-samac,Оба пола,multiple_disabilities,171
-2013,Број,donji_vakuf,Оба пола,multiple_disabilities,406
-2013,Број,drvar,Оба пола,multiple_disabilities,398
-2013,Број,foca-fbih,Оба пола,multiple_disabilities,72
-2013,Број,fojnica,Оба пола,multiple_disabilities,946
-2013,Број,glamoc,Оба пола,multiple_disabilities,203
-2013,Број,gorazde,Оба пола,multiple_disabilities,907
-2013,Број,gornji_vakuf-uskoplje,Оба пола,multiple_disabilities,478
-2013,Број,gracanica,Оба пола,multiple_disabilities,1298
-2013,Број,gradacac,Оба пола,multiple_disabilities,1151
-2013,Број,grude,Оба пола,multiple_disabilities,377
-2013,Број,hadzici,Оба пола,multiple_disabilities,973
-2013,Број,ilidza,Оба пола,multiple_disabilities,1907
-2013,Број,ilijas,Оба пола,multiple_disabilities,660
-2013,Број,jablanica,Оба пола,multiple_disabilities,274
-2013,Број,jajce,Оба пола,multiple_disabilities,757
-2013,Број,kakanj,Оба пола,multiple_disabilities,898
-2013,Број,kalesija,Оба пола,multiple_disabilities,1179
-2013,Број,kiseljak,Оба пола,multiple_disabilities,569
-2013,Број,kladanj,Оба пола,multiple_disabilities,389
-2013,Број,kljuc,Оба пола,multiple_disabilities,349
-2013,Број,konjic,Оба пола,multiple_disabilities,720
-2013,Број,kresevo,Оба пола,multiple_disabilities,164
-2013,Број,kupres-fbih,Оба пола,multiple_disabilities,141
-2013,Број,livno,Оба пола,multiple_disabilities,595
-2013,Број,lukavac,Оба пола,multiple_disabilities,2034
-2013,Број,ljubuski,Оба пола,multiple_disabilities,633
-2013,Број,maglaj,Оба пола,multiple_disabilities,770
-2013,Број,mostar,Оба пола,multiple_disabilities,2580
-2013,Број,neum,Оба пола,multiple_disabilities,107
-2013,Број,novi_grad_sarajevo,Оба пола,multiple_disabilities,3772
-2013,Број,novi_travnik,Оба пола,multiple_disabilities,714
-2013,Број,novo_sarajevo,Оба пола,multiple_disabilities,1938
-2013,Број,odzak,Оба пола,multiple_disabilities,393
-2013,Број,olovo,Оба пола,multiple_disabilities,431
-2013,Број,orasje,Оба пола,multiple_disabilities,563
-2013,Број,pale-fbih,Оба пола,multiple_disabilities,51
-2013,Број,posusje,Оба пола,multiple_disabilities,398
-2013,Број,prozor,Оба пола,multiple_disabilities,232
-2013,Број,ravno,Оба пола,multiple_disabilities,40
-2013,Број,sanski_most,Оба пола,multiple_disabilities,831
-2013,Број,sapna,Оба пола,multiple_disabilities,215
-2013,Број,srebrenik,Оба пола,multiple_disabilities,1583
-2013,Број,stari_grad_sarajevo,Оба пола,multiple_disabilities,1390
-2013,Број,stolac,Оба пола,multiple_disabilities,430
-2013,Број,siroki_brijeg,Оба пола,multiple_disabilities,486
-2013,Број,teocak,Оба пола,multiple_disabilities,177
-2013,Број,tesanj,Оба пола,multiple_disabilities,1103
-2013,Број,tomislavgrad,Оба пола,multiple_disabilities,368
-2013,Број,travnik,Оба пола,multiple_disabilities,1480
-2013,Број,trnovo-fbih,Оба пола,multiple_disabilities,74
-2013,Број,tuzla,Оба пола,multiple_disabilities,5315
-2013,Број,usora,Оба пола,multiple_disabilities,148
-2013,Број,vares,Оба пола,multiple_disabilities,482
-2013,Број,velika_kladusa,Оба пола,multiple_disabilities,1323
-2013,Број,visoko,Оба пола,multiple_disabilities,1069
-2013,Број,vitez,Оба пола,multiple_disabilities,737
-2013,Број,vogosca,Оба пола,multiple_disabilities,939
-2013,Број,zavidovici,Оба пола,multiple_disabilities,1338
-2013,Број,zenica,Оба пола,multiple_disabilities,3314
-2013,Број,zepce,Оба пола,multiple_disabilities,814
-2013,Број,zivinice,Оба пола,multiple_disabilities,2382
-2013,Број,banovici,M,multiple_disabilities,229
-2013,Број,bihac,M,multiple_disabilities,782
-2013,Број,bosanska_krupa,M,multiple_disabilities,431
-2013,Број,bosanski_petrovac,M,multiple_disabilities,117
-2013,Број,bosansko_grahovo,M,multiple_disabilities,56
-2013,Број,breza,M,multiple_disabilities,194
-2013,Број,bugojno,M,multiple_disabilities,408
-2013,Број,busovaca,M,multiple_disabilities,206
-2013,Број,buzim,M,multiple_disabilities,228
-2013,Број,cazin,M,multiple_disabilities,779
-2013,Број,centar_sarajevo,M,multiple_disabilities,668
-2013,Број,capljina,M,multiple_disabilities,293
-2013,Број,celic,M,multiple_disabilities,185
-2013,Број,citluk,M,multiple_disabilities,179
-2013,Број,doboj-istok,M,multiple_disabilities,186
-2013,Број,doboj-jug,M,multiple_disabilities,52
-2013,Број,dobretici,M,multiple_disabilities,42
-2013,Број,domaljevac-samac,M,multiple_disabilities,81
-2013,Број,donji_vakuf,M,multiple_disabilities,200
-2013,Број,drvar,M,multiple_disabilities,148
-2013,Број,foca-fbih,M,multiple_disabilities,31
-2013,Број,fojnica,M,multiple_disabilities,477
-2013,Број,glamoc,M,multiple_disabilities,89
-2013,Број,gorazde,M,multiple_disabilities,372
-2013,Број,gornji_vakuf-uskoplje,M,multiple_disabilities,215
-2013,Број,gracanica,M,multiple_disabilities,551
-2013,Број,gradacac,M,multiple_disabilities,487
-2013,Број,grude,M,multiple_disabilities,159
-2013,Број,hadzici,M,multiple_disabilities,446
-2013,Број,ilidza,M,multiple_disabilities,763
-2013,Број,ilijas,M,multiple_disabilities,275
-2013,Број,jablanica,M,multiple_disabilities,112
-2013,Број,jajce,M,multiple_disabilities,337
-2013,Број,kakanj,M,multiple_disabilities,371
-2013,Број,kalesija,M,multiple_disabilities,521
-2013,Број,kiseljak,M,multiple_disabilities,245
-2013,Број,kladanj,M,multiple_disabilities,156
-2013,Број,kljuc,M,multiple_disabilities,143
-2013,Број,konjic,M,multiple_disabilities,300
-2013,Број,kresevo,M,multiple_disabilities,61
-2013,Број,kupres-fbih,M,multiple_disabilities,57
-2013,Број,livno,M,multiple_disabilities,265
-2013,Број,lukavac,M,multiple_disabilities,794
-2013,Број,ljubuski,M,multiple_disabilities,258
-2013,Број,maglaj,M,multiple_disabilities,313
-2013,Број,mostar,M,multiple_disabilities,1081
-2013,Број,neum,M,multiple_disabilities,41
-2013,Број,novi_grad_sarajevo,M,multiple_disabilities,1445
-2013,Број,novi_travnik,M,multiple_disabilities,329
-2013,Број,novo_sarajevo,M,multiple_disabilities,722
-2013,Број,odzak,M,multiple_disabilities,169
-2013,Број,olovo,M,multiple_disabilities,153
-2013,Број,orasje,M,multiple_disabilities,232
-2013,Број,pale-fbih,M,multiple_disabilities,20
-2013,Број,posusje,M,multiple_disabilities,210
-2013,Број,prozor,M,multiple_disabilities,97
-2013,Број,ravno,M,multiple_disabilities,15
-2013,Број,sanski_most,M,multiple_disabilities,376
-2013,Број,sapna,M,multiple_disabilities,102
-2013,Број,srebrenik,M,multiple_disabilities,613
-2013,Број,stari_grad_sarajevo,M,multiple_disabilities,536
-2013,Број,stolac,M,multiple_disabilities,192
-2013,Број,siroki_brijeg,M,multiple_disabilities,205
-2013,Број,teocak,M,multiple_disabilities,70
-2013,Број,tesanj,M,multiple_disabilities,451
-2013,Број,tomislavgrad,M,multiple_disabilities,159
-2013,Број,travnik,M,multiple_disabilities,616
-2013,Број,trnovo-fbih,M,multiple_disabilities,31
-2013,Број,tuzla,M,multiple_disabilities,2063
-2013,Број,usora,M,multiple_disabilities,59
-2013,Број,vares,M,multiple_disabilities,189
-2013,Број,velika_kladusa,M,multiple_disabilities,588
-2013,Број,visoko,M,multiple_disabilities,464
-2013,Број,vitez,M,multiple_disabilities,305
-2013,Број,vogosca,M,multiple_disabilities,392
-2013,Број,zavidovici,M,multiple_disabilities,583
-2013,Број,zenica,M,multiple_disabilities,1372
-2013,Број,zepce,M,multiple_disabilities,347
-2013,Број,zivinice,M,multiple_disabilities,984
-2013,Број,banovici,Ж,multiple_disabilities,411
-2013,Број,bihac,Ж,multiple_disabilities,998
-2013,Број,bosanska_krupa,Ж,multiple_disabilities,480
-2013,Број,bosanski_petrovac,Ж,multiple_disabilities,155
-2013,Број,bosansko_grahovo,Ж,multiple_disabilities,92
-2013,Број,breza,Ж,multiple_disabilities,248
-2013,Број,bugojno,Ж,multiple_disabilities,513
-2013,Број,busovaca,Ж,multiple_disabilities,244
-2013,Број,buzim,Ж,multiple_disabilities,210
-2013,Број,cazin,Ж,multiple_disabilities,875
-2013,Број,centar_sarajevo,Ж,multiple_disabilities,1121
-2013,Број,capljina,Ж,multiple_disabilities,354
-2013,Број,celic,Ж,multiple_disabilities,242
-2013,Број,citluk,Ж,multiple_disabilities,239
-2013,Број,doboj-istok,Ж,multiple_disabilities,217
-2013,Број,doboj-jug,Ж,multiple_disabilities,63
-2013,Број,dobretici,Ж,multiple_disabilities,23
-2013,Број,domaljevac-samac,Ж,multiple_disabilities,90
-2013,Број,donji_vakuf,Ж,multiple_disabilities,206
-2013,Број,drvar,Ж,multiple_disabilities,250
-2013,Број,foca-fbih,Ж,multiple_disabilities,41
-2013,Број,fojnica,Ж,multiple_disabilities,469
-2013,Број,glamoc,Ж,multiple_disabilities,114
-2013,Број,gorazde,Ж,multiple_disabilities,535
-2013,Број,gornji_vakuf-uskoplje,Ж,multiple_disabilities,263
-2013,Број,gracanica,Ж,multiple_disabilities,747
-2013,Број,gradacac,Ж,multiple_disabilities,664
-2013,Број,grude,Ж,multiple_disabilities,218
-2013,Број,hadzici,Ж,multiple_disabilities,527
-2013,Број,ilidza,Ж,multiple_disabilities,1144
-2013,Број,ilijas,Ж,multiple_disabilities,385
-2013,Број,jablanica,Ж,multiple_disabilities,162
-2013,Број,jajce,Ж,multiple_disabilities,420
-2013,Број,kakanj,Ж,multiple_disabilities,527
-2013,Број,kalesija,Ж,multiple_disabilities,658
-2013,Број,kiseljak,Ж,multiple_disabilities,324
-2013,Број,kladanj,Ж,multiple_disabilities,233
-2013,Број,kljuc,Ж,multiple_disabilities,206
-2013,Број,konjic,Ж,multiple_disabilities,420
-2013,Број,kresevo,Ж,multiple_disabilities,103
-2013,Број,kupres-fbih,Ж,multiple_disabilities,84
-2013,Број,livno,Ж,multiple_disabilities,330
-2013,Број,lukavac,Ж,multiple_disabilities,1240
-2013,Број,ljubuski,Ж,multiple_disabilities,375
-2013,Број,maglaj,Ж,multiple_disabilities,457
-2013,Број,mostar,Ж,multiple_disabilities,1499
-2013,Број,neum,Ж,multiple_disabilities,66
-2013,Број,novi_grad_sarajevo,Ж,multiple_disabilities,2327
-2013,Број,novi_travnik,Ж,multiple_disabilities,385
-2013,Број,novo_sarajevo,Ж,multiple_disabilities,1216
-2013,Број,odzak,Ж,multiple_disabilities,224
-2013,Број,olovo,Ж,multiple_disabilities,278
-2013,Број,orasje,Ж,multiple_disabilities,331
-2013,Број,pale-fbih,Ж,multiple_disabilities,31
-2013,Број,posusje,Ж,multiple_disabilities,188
-2013,Број,prozor,Ж,multiple_disabilities,135
-2013,Број,ravno,Ж,multiple_disabilities,25
-2013,Број,sanski_most,Ж,multiple_disabilities,455
-2013,Број,sapna,Ж,multiple_disabilities,113
-2013,Број,srebrenik,Ж,multiple_disabilities,970
-2013,Број,stari_grad_sarajevo,Ж,multiple_disabilities,854
-2013,Број,stolac,Ж,multiple_disabilities,238
-2013,Број,siroki_brijeg,Ж,multiple_disabilities,281
-2013,Број,teocak,Ж,multiple_disabilities,107
-2013,Број,tesanj,Ж,multiple_disabilities,652
-2013,Број,tomislavgrad,Ж,multiple_disabilities,209
-2013,Број,travnik,Ж,multiple_disabilities,864
-2013,Број,trnovo-fbih,Ж,multiple_disabilities,43
-2013,Број,tuzla,Ж,multiple_disabilities,3252
-2013,Број,usora,Ж,multiple_disabilities,89
-2013,Број,vares,Ж,multiple_disabilities,293
-2013,Број,velika_kladusa,Ж,multiple_disabilities,735
-2013,Број,visoko,Ж,multiple_disabilities,605
-2013,Број,vitez,Ж,multiple_disabilities,432
-2013,Број,vogosca,Ж,multiple_disabilities,547
-2013,Број,zavidovici,Ж,multiple_disabilities,755
-2013,Број,zenica,Ж,multiple_disabilities,1942
-2013,Број,zepce,Ж,multiple_disabilities,467
-2013,Број,zivinice,Ж,multiple_disabilities,1398
+2013,Број,banovici,Оба пола,"Вид, иако носи наочаре",750
+2013,Број,bihac,Оба пола,"Вид, иако носи наочаре",2073
+2013,Број,bosanska_krupa,Оба пола,"Вид, иако носи наочаре",1158
+2013,Број,bosanski_petrovac,Оба пола,"Вид, иако носи наочаре",254
+2013,Број,bosansko_grahovo,Оба пола,"Вид, иако носи наочаре",156
+2013,Број,breza,Оба пола,"Вид, иако носи наочаре",493
+2013,Број,bugojno,Оба пола,"Вид, иако носи наочаре",950
+2013,Број,busovaca,Оба пола,"Вид, иако носи наочаре",538
+2013,Број,buzim,Оба пола,"Вид, иако носи наочаре",465
+2013,Број,cazin,Оба пола,"Вид, иако носи наочаре",1906
+2013,Број,centar_sarajevo,Оба пола,"Вид, иако носи наочаре",1787
+2013,Број,capljina,Оба пола,"Вид, иако носи наочаре",736
+2013,Број,celic,Оба пола,"Вид, иако носи наочаре",553
+2013,Број,citluk,Оба пола,"Вид, иако носи наочаре",406
+2013,Број,doboj-istok,Оба пола,"Вид, иако носи наочаре",372
+2013,Број,doboj-jug,Оба пола,"Вид, иако носи наочаре",145
+2013,Број,dobretici,Оба пола,"Вид, иако носи наочаре",62
+2013,Број,domaljevac-samac,Оба пола,"Вид, иако носи наочаре",223
+2013,Број,donji_vakuf,Оба пола,"Вид, иако носи наочаре",503
+2013,Број,drvar,Оба пола,"Вид, иако носи наочаре",497
+2013,Број,foca-fbih,Оба пола,"Вид, иако носи наочаре",81
+2013,Број,fojnica,Оба пола,"Вид, иако носи наочаре",555
+2013,Број,glamoc,Оба пола,"Вид, иако носи наочаре",241
+2013,Број,gorazde,Оба пола,"Вид, иако носи наочаре",959
+2013,Број,gornji_vakuf-uskoplje,Оба пола,"Вид, иако носи наочаре",567
+2013,Број,gracanica,Оба пола,"Вид, иако носи наочаре",1400
+2013,Број,gradacac,Оба пола,"Вид, иако носи наочаре",1192
+2013,Број,grude,Оба пола,"Вид, иако носи наочаре",346
+2013,Број,hadzici,Оба пола,"Вид, иако носи наочаре",917
+2013,Број,ilidza,Оба пола,"Вид, иако носи наочаре",2009
+2013,Број,ilijas,Оба пола,"Вид, иако носи наочаре",724
+2013,Број,jablanica,Оба пола,"Вид, иако носи наочаре",271
+2013,Број,jajce,Оба пола,"Вид, иако носи наочаре",912
+2013,Број,kakanj,Оба пола,"Вид, иако носи наочаре",994
+2013,Број,kalesija,Оба пола,"Вид, иако носи наочаре",1405
+2013,Број,kiseljak,Оба пола,"Вид, иако носи наочаре",624
+2013,Број,kladanj,Оба пола,"Вид, иако носи наочаре",426
+2013,Број,kljuc,Оба пола,"Вид, иако носи наочаре",388
+2013,Број,konjic,Оба пола,"Вид, иако носи наочаре",838
+2013,Број,kresevo,Оба пола,"Вид, иако носи наочаре",176
+2013,Број,kupres-fbih,Оба пола,"Вид, иако носи наочаре",151
+2013,Број,livno,Оба пола,"Вид, иако носи наочаре",622
+2013,Број,lukavac,Оба пола,"Вид, иако носи наочаре",2247
+2013,Број,ljubuski,Оба пола,"Вид, иако носи наочаре",652
+2013,Број,maglaj,Оба пола,"Вид, иако носи наочаре",936
+2013,Број,mostar,Оба пола,"Вид, иако носи наочаре",2733
+2013,Број,neum,Оба пола,"Вид, иако носи наочаре",113
+2013,Број,novi_grad_sarajevo,Оба пола,"Вид, иако носи наочаре",4078
+2013,Број,novi_travnik,Оба пола,"Вид, иако носи наочаре",804
+2013,Број,novo_sarajevo,Оба пола,"Вид, иако носи наочаре",1803
+2013,Број,odzak,Оба пола,"Вид, иако носи наочаре",466
+2013,Број,olovo,Оба пола,"Вид, иако носи наочаре",439
+2013,Број,orasje,Оба пола,"Вид, иако носи наочаре",697
+2013,Број,pale-fbih,Оба пола,"Вид, иако носи наочаре",56
+2013,Број,posusje,Оба пола,"Вид, иако носи наочаре",356
+2013,Број,prozor,Оба пола,"Вид, иако носи наочаре",258
+2013,Број,ravno,Оба пола,"Вид, иако носи наочаре",42
+2013,Број,sanski_most,Оба пола,"Вид, иако носи наочаре",880
+2013,Број,sapna,Оба пола,"Вид, иако носи наочаре",226
+2013,Број,srebrenik,Оба пола,"Вид, иако носи наочаре",1779
+2013,Број,stari_grad_sarajevo,Оба пола,"Вид, иако носи наочаре",1538
+2013,Број,stolac,Оба пола,"Вид, иако носи наочаре",367
+2013,Број,siroki_brijeg,Оба пола,"Вид, иако носи наочаре",458
+2013,Број,teocak,Оба пола,"Вид, иако носи наочаре",211
+2013,Број,tesanj,Оба пола,"Вид, иако носи наочаре",1318
+2013,Број,tomislavgrad,Оба пола,"Вид, иако носи наочаре",365
+2013,Број,travnik,Оба пола,"Вид, иако носи наочаре",1696
+2013,Број,trnovo-fbih,Оба пола,"Вид, иако носи наочаре",74
+2013,Број,tuzla,Оба пола,"Вид, иако носи наочаре",5508
+2013,Број,usora,Оба пола,"Вид, иако носи наочаре",149
+2013,Број,vares,Оба пола,"Вид, иако носи наочаре",532
+2013,Број,velika_kladusa,Оба пола,"Вид, иако носи наочаре",1787
+2013,Број,visoko,Оба пола,"Вид, иако носи наочаре",1089
+2013,Број,vitez,Оба пола,"Вид, иако носи наочаре",971
+2013,Број,vogosca,Оба пола,"Вид, иако носи наочаре",1049
+2013,Број,zavidovici,Оба пола,"Вид, иако носи наочаре",1475
+2013,Број,zenica,Оба пола,"Вид, иако носи наочаре",3706
+2013,Број,zepce,Оба пола,"Вид, иако носи наочаре",974
+2013,Број,zivinice,Оба пола,"Вид, иако носи наочаре",2756
+2013,Број,banovici,M,"Вид, иако носи наочаре",275
+2013,Број,bihac,M,"Вид, иако носи наочаре",850
+2013,Број,bosanska_krupa,M,"Вид, иако носи наочаре",509
+2013,Број,bosanski_petrovac,M,"Вид, иако носи наочаре",108
+2013,Број,bosansko_grahovo,M,"Вид, иако носи наочаре",62
+2013,Број,breza,M,"Вид, иако носи наочаре",212
+2013,Број,bugojno,M,"Вид, иако носи наочаре",414
+2013,Број,busovaca,M,"Вид, иако носи наочаре",252
+2013,Број,buzim,M,"Вид, иако носи наочаре",236
+2013,Број,cazin,M,"Вид, иако носи наочаре",891
+2013,Број,centar_sarajevo,M,"Вид, иако носи наочаре",671
+2013,Број,capljina,M,"Вид, иако носи наочаре",341
+2013,Број,celic,M,"Вид, иако носи наочаре",219
+2013,Број,citluk,M,"Вид, иако носи наочаре",174
+2013,Број,doboj-istok,M,"Вид, иако носи наочаре",182
+2013,Број,doboj-jug,M,"Вид, иако носи наочаре",69
+2013,Број,dobretici,M,"Вид, иако носи наочаре",28
+2013,Број,domaljevac-samac,M,"Вид, иако носи наочаре",101
+2013,Број,donji_vakuf,M,"Вид, иако носи наочаре",225
+2013,Број,drvar,M,"Вид, иако носи наочаре",186
+2013,Број,foca-fbih,M,"Вид, иако носи наочаре",41
+2013,Број,fojnica,M,"Вид, иако носи наочаре",239
+2013,Број,glamoc,M,"Вид, иако носи наочаре",93
+2013,Број,gorazde,M,"Вид, иако носи наочаре",421
+2013,Број,gornji_vakuf-uskoplje,M,"Вид, иако носи наочаре",239
+2013,Број,gracanica,M,"Вид, иако носи наочаре",582
+2013,Број,gradacac,M,"Вид, иако носи наочаре",497
+2013,Број,grude,M,"Вид, иако носи наочаре",130
+2013,Број,hadzici,M,"Вид, иако носи наочаре",394
+2013,Број,ilidza,M,"Вид, иако носи наочаре",812
+2013,Број,ilijas,M,"Вид, иако носи наочаре",281
+2013,Број,jablanica,M,"Вид, иако носи наочаре",118
+2013,Број,jajce,M,"Вид, иако носи наочаре",388
+2013,Број,kakanj,M,"Вид, иако носи наочаре",406
+2013,Број,kalesija,M,"Вид, иако носи наочаре",613
+2013,Број,kiseljak,M,"Вид, иако носи наочаре",272
+2013,Број,kladanj,M,"Вид, иако носи наочаре",175
+2013,Број,kljuc,M,"Вид, иако носи наочаре",155
+2013,Број,konjic,M,"Вид, иако носи наочаре",348
+2013,Број,kresevo,M,"Вид, иако носи наочаре",75
+2013,Број,kupres-fbih,M,"Вид, иако носи наочаре",59
+2013,Број,livno,M,"Вид, иако носи наочаре",279
+2013,Број,lukavac,M,"Вид, иако носи наочаре",884
+2013,Број,ljubuski,M,"Вид, иако носи наочаре",254
+2013,Број,maglaj,M,"Вид, иако носи наочаре",364
+2013,Број,mostar,M,"Вид, иако носи наочаре",1129
+2013,Број,neum,M,"Вид, иако носи наочаре",50
+2013,Број,novi_grad_sarajevo,M,"Вид, иако носи наочаре",1587
+2013,Број,novi_travnik,M,"Вид, иако носи наочаре",350
+2013,Број,novo_sarajevo,M,"Вид, иако носи наочаре",657
+2013,Број,odzak,M,"Вид, иако носи наочаре",194
+2013,Број,olovo,M,"Вид, иако носи наочаре",168
+2013,Број,orasje,M,"Вид, иако носи наочаре",297
+2013,Број,pale-fbih,M,"Вид, иако носи наочаре",23
+2013,Број,posusje,M,"Вид, иако носи наочаре",175
+2013,Број,prozor,M,"Вид, иако носи наочаре",122
+2013,Број,ravno,M,"Вид, иако носи наочаре",17
+2013,Број,sanski_most,M,"Вид, иако носи наочаре",373
+2013,Број,sapna,M,"Вид, иако носи наочаре",102
+2013,Број,srebrenik,M,"Вид, иако носи наочаре",697
+2013,Број,stari_grad_sarajevo,M,"Вид, иако носи наочаре",579
+2013,Број,stolac,M,"Вид, иако носи наочаре",158
+2013,Број,siroki_brijeg,M,"Вид, иако носи наочаре",180
+2013,Број,teocak,M,"Вид, иако носи наочаре",95
+2013,Број,tesanj,M,"Вид, иако носи наочаре",549
+2013,Број,tomislavgrad,M,"Вид, иако носи наочаре",167
+2013,Број,travnik,M,"Вид, иако носи наочаре",731
+2013,Број,trnovo-fbih,M,"Вид, иако носи наочаре",32
+2013,Број,tuzla,M,"Вид, иако носи наочаре",2096
+2013,Број,usora,M,"Вид, иако носи наочаре",55
+2013,Број,vares,M,"Вид, иако носи наочаре",206
+2013,Број,velika_kladusa,M,"Вид, иако носи наочаре",783
+2013,Број,visoko,M,"Вид, иако носи наочаре",468
+2013,Број,vitez,M,"Вид, иако носи наочаре",431
+2013,Број,vogosca,M,"Вид, иако носи наочаре",428
+2013,Број,zavidovici,M,"Вид, иако носи наочаре",626
+2013,Број,zenica,M,"Вид, иако носи наочаре",1560
+2013,Број,zepce,M,"Вид, иако носи наочаре",413
+2013,Број,zivinice,M,"Вид, иако носи наочаре",1124
+2013,Број,banovici,Ж,"Вид, иако носи наочаре",475
+2013,Број,bihac,Ж,"Вид, иако носи наочаре",1223
+2013,Број,bosanska_krupa,Ж,"Вид, иако носи наочаре",649
+2013,Број,bosanski_petrovac,Ж,"Вид, иако носи наочаре",146
+2013,Број,bosansko_grahovo,Ж,"Вид, иако носи наочаре",94
+2013,Број,breza,Ж,"Вид, иако носи наочаре",281
+2013,Број,bugojno,Ж,"Вид, иако носи наочаре",536
+2013,Број,busovaca,Ж,"Вид, иако носи наочаре",286
+2013,Број,buzim,Ж,"Вид, иако носи наочаре",229
+2013,Број,cazin,Ж,"Вид, иако носи наочаре",1015
+2013,Број,centar_sarajevo,Ж,"Вид, иако носи наочаре",1116
+2013,Број,capljina,Ж,"Вид, иако носи наочаре",395
+2013,Број,celic,Ж,"Вид, иако носи наочаре",334
+2013,Број,citluk,Ж,"Вид, иако носи наочаре",232
+2013,Број,doboj-istok,Ж,"Вид, иако носи наочаре",190
+2013,Број,doboj-jug,Ж,"Вид, иако носи наочаре",76
+2013,Број,dobretici,Ж,"Вид, иако носи наочаре",34
+2013,Број,domaljevac-samac,Ж,"Вид, иако носи наочаре",122
+2013,Број,donji_vakuf,Ж,"Вид, иако носи наочаре",278
+2013,Број,drvar,Ж,"Вид, иако носи наочаре",311
+2013,Број,foca-fbih,Ж,"Вид, иако носи наочаре",40
+2013,Број,fojnica,Ж,"Вид, иако носи наочаре",316
+2013,Број,glamoc,Ж,"Вид, иако носи наочаре",148
+2013,Број,gorazde,Ж,"Вид, иако носи наочаре",538
+2013,Број,gornji_vakuf-uskoplje,Ж,"Вид, иако носи наочаре",328
+2013,Број,gracanica,Ж,"Вид, иако носи наочаре",818
+2013,Број,gradacac,Ж,"Вид, иако носи наочаре",695
+2013,Број,grude,Ж,"Вид, иако носи наочаре",216
+2013,Број,hadzici,Ж,"Вид, иако носи наочаре",523
+2013,Број,ilidza,Ж,"Вид, иако носи наочаре",1197
+2013,Број,ilijas,Ж,"Вид, иако носи наочаре",443
+2013,Број,jablanica,Ж,"Вид, иако носи наочаре",153
+2013,Број,jajce,Ж,"Вид, иако носи наочаре",524
+2013,Број,kakanj,Ж,"Вид, иако носи наочаре",588
+2013,Број,kalesija,Ж,"Вид, иако носи наочаре",792
+2013,Број,kiseljak,Ж,"Вид, иако носи наочаре",352
+2013,Број,kladanj,Ж,"Вид, иако носи наочаре",251
+2013,Број,kljuc,Ж,"Вид, иако носи наочаре",233
+2013,Број,konjic,Ж,"Вид, иако носи наочаре",490
+2013,Број,kresevo,Ж,"Вид, иако носи наочаре",101
+2013,Број,kupres-fbih,Ж,"Вид, иако носи наочаре",92
+2013,Број,livno,Ж,"Вид, иако носи наочаре",343
+2013,Број,lukavac,Ж,"Вид, иако носи наочаре",1363
+2013,Број,ljubuski,Ж,"Вид, иако носи наочаре",398
+2013,Број,maglaj,Ж,"Вид, иако носи наочаре",572
+2013,Број,mostar,Ж,"Вид, иако носи наочаре",1604
+2013,Број,neum,Ж,"Вид, иако носи наочаре",63
+2013,Број,novi_grad_sarajevo,Ж,"Вид, иако носи наочаре",2491
+2013,Број,novi_travnik,Ж,"Вид, иако носи наочаре",454
+2013,Број,novo_sarajevo,Ж,"Вид, иако носи наочаре",1146
+2013,Број,odzak,Ж,"Вид, иако носи наочаре",272
+2013,Број,olovo,Ж,"Вид, иако носи наочаре",271
+2013,Број,orasje,Ж,"Вид, иако носи наочаре",400
+2013,Број,pale-fbih,Ж,"Вид, иако носи наочаре",33
+2013,Број,posusje,Ж,"Вид, иако носи наочаре",181
+2013,Број,prozor,Ж,"Вид, иако носи наочаре",136
+2013,Број,ravno,Ж,"Вид, иако носи наочаре",25
+2013,Број,sanski_most,Ж,"Вид, иако носи наочаре",507
+2013,Број,sapna,Ж,"Вид, иако носи наочаре",124
+2013,Број,srebrenik,Ж,"Вид, иако носи наочаре",1082
+2013,Број,stari_grad_sarajevo,Ж,"Вид, иако носи наочаре",959
+2013,Број,stolac,Ж,"Вид, иако носи наочаре",209
+2013,Број,siroki_brijeg,Ж,"Вид, иако носи наочаре",278
+2013,Број,teocak,Ж,"Вид, иако носи наочаре",116
+2013,Број,tesanj,Ж,"Вид, иако носи наочаре",769
+2013,Број,tomislavgrad,Ж,"Вид, иако носи наочаре",198
+2013,Број,travnik,Ж,"Вид, иако носи наочаре",965
+2013,Број,trnovo-fbih,Ж,"Вид, иако носи наочаре",42
+2013,Број,tuzla,Ж,"Вид, иако носи наочаре",3412
+2013,Број,usora,Ж,"Вид, иако носи наочаре",94
+2013,Број,vares,Ж,"Вид, иако носи наочаре",326
+2013,Број,velika_kladusa,Ж,"Вид, иако носи наочаре",1004
+2013,Број,visoko,Ж,"Вид, иако носи наочаре",621
+2013,Број,vitez,Ж,"Вид, иако носи наочаре",540
+2013,Број,vogosca,Ж,"Вид, иако носи наочаре",621
+2013,Број,zavidovici,Ж,"Вид, иако носи наочаре",849
+2013,Број,zenica,Ж,"Вид, иако носи наочаре",2146
+2013,Број,zepce,Ж,"Вид, иако носи наочаре",561
+2013,Број,zivinice,Ж,"Вид, иако носи наочаре",1632
+2013,Број,banovici,Оба пола,"Слух, иако користи слушни апарат",357
+2013,Број,bihac,Оба пола,"Слух, иако користи слушни апарат",1189
+2013,Број,bosanska_krupa,Оба пола,"Слух, иако користи слушни апарат",651
+2013,Број,bosanski_petrovac,Оба пола,"Слух, иако користи слушни апарат",188
+2013,Број,bosansko_grahovo,Оба пола,"Слух, иако користи слушни апарат",84
+2013,Број,breza,Оба пола,"Слух, иако користи слушни апарат",256
+2013,Број,bugojno,Оба пола,"Слух, иако користи слушни апарат",551
+2013,Број,busovaca,Оба пола,"Слух, иако користи слушни апарат",311
+2013,Број,buzim,Оба пола,"Слух, иако користи слушни апарат",341
+2013,Број,cazin,Оба пола,"Слух, иако користи слушни апарат",1107
+2013,Број,centar_sarajevo,Оба пола,"Слух, иако користи слушни апарат",1049
+2013,Број,capljina,Оба пола,"Слух, иако користи слушни апарат",442
+2013,Број,celic,Оба пола,"Слух, иако користи слушни апарат",274
+2013,Број,citluk,Оба пола,"Слух, иако користи слушни апарат",304
+2013,Број,doboj-istok,Оба пола,"Слух, иако користи слушни апарат",233
+2013,Број,doboj-jug,Оба пола,"Слух, иако користи слушни апарат",74
+2013,Број,dobretici,Оба пола,"Слух, иако користи слушни апарат",48
+2013,Број,domaljevac-samac,Оба пола,"Слух, иако користи слушни апарат",104
+2013,Број,donji_vakuf,Оба пола,"Слух, иако користи слушни апарат",267
+2013,Број,drvar,Оба пола,"Слух, иако користи слушни апарат",261
+2013,Број,foca-fbih,Оба пола,"Слух, иако користи слушни апарат",50
+2013,Број,fojnica,Оба пола,"Слух, иако користи слушни апарат",270
+2013,Број,glamoc,Оба пола,"Слух, иако користи слушни апарат",160
+2013,Број,gorazde,Оба пола,"Слух, иако користи слушни апарат",585
+2013,Број,gornji_vakuf-uskoplje,Оба пола,"Слух, иако користи слушни апарат",361
+2013,Број,gracanica,Оба пола,"Слух, иако користи слушни апарат",728
+2013,Број,gradacac,Оба пола,"Слух, иако користи слушни апарат",674
+2013,Број,grude,Оба пола,"Слух, иако користи слушни апарат",265
+2013,Број,hadzici,Оба пола,"Слух, иако користи слушни апарат",528
+2013,Број,ilidza,Оба пола,"Слух, иако користи слушни апарат",1185
+2013,Број,ilijas,Оба пола,"Слух, иако користи слушни апарат",382
+2013,Број,jablanica,Оба пола,"Слух, иако користи слушни апарат",192
+2013,Број,jajce,Оба пола,"Слух, иако користи слушни апарат",494
+2013,Број,kakanj,Оба пола,"Слух, иако користи слушни апарат",590
+2013,Број,kalesija,Оба пола,"Слух, иако користи слушни апарат",626
+2013,Број,kiseljak,Оба пола,"Слух, иако користи слушни апарат",351
+2013,Број,kladanj,Оба пола,"Слух, иако користи слушни апарат",246
+2013,Број,kljuc,Оба пола,"Слух, иако користи слушни апарат",226
+2013,Број,konjic,Оба пола,"Слух, иако користи слушни апарат",491
+2013,Број,kresevo,Оба пола,"Слух, иако користи слушни апарат",122
+2013,Број,kupres-fbih,Оба пола,"Слух, иако користи слушни апарат",110
+2013,Број,livno,Оба пола,"Слух, иако користи слушни апарат",448
+2013,Број,lukavac,Оба пола,"Слух, иако користи слушни апарат",1252
+2013,Број,ljubuski,Оба пола,"Слух, иако користи слушни апарат",414
+2013,Број,maglaj,Оба пола,"Слух, иако користи слушни апарат",500
+2013,Број,mostar,Оба пола,"Слух, иако користи слушни апарат",1743
+2013,Број,neum,Оба пола,"Слух, иако користи слушни апарат",76
+2013,Број,novi_grad_sarajevo,Оба пола,"Слух, иако користи слушни апарат",2297
+2013,Број,novi_travnik,Оба пола,"Слух, иако користи слушни апарат",473
+2013,Број,novo_sarajevo,Оба пола,"Слух, иако користи слушни апарат",1142
+2013,Број,odzak,Оба пола,"Слух, иако користи слушни апарат",271
+2013,Број,olovo,Оба пола,"Слух, иако користи слушни апарат",295
+2013,Број,orasje,Оба пола,"Слух, иако користи слушни апарат",387
+2013,Број,pale-fbih,Оба пола,"Слух, иако користи слушни апарат",47
+2013,Број,posusje,Оба пола,"Слух, иако користи слушни апарат",292
+2013,Број,prozor,Оба пола,"Слух, иако користи слушни апарат",180
+2013,Број,ravno,Оба пола,"Слух, иако користи слушни апарат",43
+2013,Број,sanski_most,Оба пола,"Слух, иако користи слушни апарат",556
+2013,Број,sapna,Оба пола,"Слух, иако користи слушни апарат",148
+2013,Број,srebrenik,Оба пола,"Слух, иако користи слушни апарат",974
+2013,Број,stari_grad_sarajevo,Оба пола,"Слух, иако користи слушни апарат",857
+2013,Број,stolac,Оба пола,"Слух, иако користи слушни апарат",241
+2013,Број,siroki_brijeg,Оба пола,"Слух, иако користи слушни апарат",338
+2013,Број,teocak,Оба пола,"Слух, иако користи слушни апарат",116
+2013,Број,tesanj,Оба пола,"Слух, иако користи слушни апарат",611
+2013,Број,tomislavgrad,Оба пола,"Слух, иако користи слушни апарат",270
+2013,Број,travnik,Оба пола,"Слух, иако користи слушни апарат",878
+2013,Број,trnovo-fbih,Оба пола,"Слух, иако користи слушни апарат",46
+2013,Број,tuzla,Оба пола,"Слух, иако користи слушни апарат",2945
+2013,Број,usora,Оба пола,"Слух, иако користи слушни апарат",111
+2013,Број,vares,Оба пола,"Слух, иако користи слушни апарат",274
+2013,Број,velika_kladusa,Оба пола,"Слух, иако користи слушни апарат",881
+2013,Број,visoko,Оба пола,"Слух, иако користи слушни апарат",606
+2013,Број,vitez,Оба пола,"Слух, иако користи слушни апарат",493
+2013,Број,vogosca,Оба пола,"Слух, иако користи слушни апарат",581
+2013,Број,zavidovici,Оба пола,"Слух, иако користи слушни апарат",814
+2013,Број,zenica,Оба пола,"Слух, иако користи слушни апарат",2012
+2013,Број,zepce,Оба пола,"Слух, иако користи слушни апарат",507
+2013,Број,zivinice,Оба пола,"Слух, иако користи слушни апарат",1375
+2013,Број,banovici,M,"Слух, иако користи слушни апарат",151
+2013,Број,bihac,M,"Слух, иако користи слушни апарат",586
+2013,Број,bosanska_krupa,M,"Слух, иако користи слушни апарат",369
+2013,Број,bosanski_petrovac,M,"Слух, иако користи слушни апарат",92
+2013,Број,bosansko_grahovo,M,"Слух, иако користи слушни апарат",48
+2013,Број,breza,M,"Слух, иако користи слушни апарат",133
+2013,Број,bugojno,M,"Слух, иако користи слушни апарат",254
+2013,Број,busovaca,M,"Слух, иако користи слушни апарат",169
+2013,Број,buzim,M,"Слух, иако користи слушни апарат",180
+2013,Број,cazin,M,"Слух, иако користи слушни апарат",570
+2013,Број,centar_sarajevo,M,"Слух, иако користи слушни апарат",475
+2013,Број,capljina,M,"Слух, иако користи слушни апарат",231
+2013,Број,celic,M,"Слух, иако користи слушни апарат",130
+2013,Број,citluk,M,"Слух, иако користи слушни апарат",155
+2013,Број,doboj-istok,M,"Слух, иако користи слушни апарат",135
+2013,Број,doboj-jug,M,"Слух, иако користи слушни апарат",40
+2013,Број,dobretici,M,"Слух, иако користи слушни апарат",29
+2013,Број,domaljevac-samac,M,"Слух, иако користи слушни апарат",54
+2013,Број,donji_vakuf,M,"Слух, иако користи слушни апарат",138
+2013,Број,drvar,M,"Слух, иако користи слушни апарат",117
+2013,Број,foca-fbih,M,"Слух, иако користи слушни апарат",20
+2013,Број,fojnica,M,"Слух, иако користи слушни апарат",129
+2013,Број,glamoc,M,"Слух, иако користи слушни апарат",75
+2013,Број,gorazde,M,"Слух, иако користи слушни апарат",279
+2013,Број,gornji_vakuf-uskoplje,M,"Слух, иако користи слушни апарат",180
+2013,Број,gracanica,M,"Слух, иако користи слушни апарат",342
+2013,Број,gradacac,M,"Слух, иако користи слушни апарат",295
+2013,Број,grude,M,"Слух, иако користи слушни апарат",112
+2013,Број,hadzici,M,"Слух, иако користи слушни апарат",249
+2013,Број,ilidza,M,"Слух, иако користи слушни апарат",569
+2013,Број,ilijas,M,"Слух, иако користи слушни апарат",178
+2013,Број,jablanica,M,"Слух, иако користи слушни апарат",74
+2013,Број,jajce,M,"Слух, иако користи слушни апарат",245
+2013,Број,kakanj,M,"Слух, иако користи слушни апарат",281
+2013,Број,kalesija,M,"Слух, иако користи слушни апарат",327
+2013,Број,kiseljak,M,"Слух, иако користи слушни апарат",175
+2013,Број,kladanj,M,"Слух, иако користи слушни апарат",125
+2013,Број,kljuc,M,"Слух, иако користи слушни апарат",107
+2013,Број,konjic,M,"Слух, иако користи слушни апарат",223
+2013,Број,kresevo,M,"Слух, иако користи слушни апарат",57
+2013,Број,kupres-fbih,M,"Слух, иако користи слушни апарат",52
+2013,Број,livno,M,"Слух, иако користи слушни апарат",225
+2013,Број,lukavac,M,"Слух, иако користи слушни апарат",581
+2013,Број,ljubuski,M,"Слух, иако користи слушни апарат",192
+2013,Број,maglaj,M,"Слух, иако користи слушни апарат",239
+2013,Број,mostar,M,"Слух, иако користи слушни апарат",836
+2013,Број,neum,M,"Слух, иако користи слушни апарат",37
+2013,Број,novi_grad_sarajevo,M,"Слух, иако користи слушни апарат",1014
+2013,Број,novi_travnik,M,"Слух, иако користи слушни апарат",247
+2013,Број,novo_sarajevo,M,"Слух, иако користи слушни апарат",479
+2013,Број,odzak,M,"Слух, иако користи слушни апарат",125
+2013,Број,olovo,M,"Слух, иако користи слушни апарат",135
+2013,Број,orasje,M,"Слух, иако користи слушни апарат",189
+2013,Број,pale-fbih,M,"Слух, иако користи слушни апарат",24
+2013,Број,posusje,M,"Слух, иако користи слушни апарат",166
+2013,Број,prozor,M,"Слух, иако користи слушни апарат",88
+2013,Број,ravno,M,"Слух, иако користи слушни апарат",23
+2013,Број,sanski_most,M,"Слух, иако користи слушни апарат",274
+2013,Број,sapna,M,"Слух, иако користи слушни апарат",76
+2013,Број,srebrenik,M,"Слух, иако користи слушни апарат",433
+2013,Број,stari_grad_sarajevo,M,"Слух, иако користи слушни апарат",389
+2013,Број,stolac,M,"Слух, иако користи слушни апарат",105
+2013,Број,siroki_brijeg,M,"Слух, иако користи слушни апарат",157
+2013,Број,teocak,M,"Слух, иако користи слушни апарат",52
+2013,Број,tesanj,M,"Слух, иако користи слушни апарат",310
+2013,Број,tomislavgrad,M,"Слух, иако користи слушни апарат",127
+2013,Број,travnik,M,"Слух, иако користи слушни апарат",402
+2013,Број,trnovo-fbih,M,"Слух, иако користи слушни апарат",21
+2013,Број,tuzla,M,"Слух, иако користи слушни апарат",1350
+2013,Број,usora,M,"Слух, иако користи слушни апарат",54
+2013,Број,vares,M,"Слух, иако користи слушни апарат",135
+2013,Број,velika_kladusa,M,"Слух, иако користи слушни апарат",432
+2013,Број,visoko,M,"Слух, иако користи слушни апарат",298
+2013,Број,vitez,M,"Слух, иако користи слушни апарат",249
+2013,Број,vogosca,M,"Слух, иако користи слушни апарат",282
+2013,Број,zavidovici,M,"Слух, иако користи слушни апарат",428
+2013,Број,zenica,M,"Слух, иако користи слушни апарат",990
+2013,Број,zepce,M,"Слух, иако користи слушни апарат",273
+2013,Број,zivinice,M,"Слух, иако користи слушни апарат",656
+2013,Број,banovici,Ж,"Слух, иако користи слушни апарат",206
+2013,Број,bihac,Ж,"Слух, иако користи слушни апарат",603
+2013,Број,bosanska_krupa,Ж,"Слух, иако користи слушни апарат",282
+2013,Број,bosanski_petrovac,Ж,"Слух, иако користи слушни апарат",96
+2013,Број,bosansko_grahovo,Ж,"Слух, иако користи слушни апарат",36
+2013,Број,breza,Ж,"Слух, иако користи слушни апарат",123
+2013,Број,bugojno,Ж,"Слух, иако користи слушни апарат",297
+2013,Број,busovaca,Ж,"Слух, иако користи слушни апарат",142
+2013,Број,buzim,Ж,"Слух, иако користи слушни апарат",161
+2013,Број,cazin,Ж,"Слух, иако користи слушни апарат",537
+2013,Број,centar_sarajevo,Ж,"Слух, иако користи слушни апарат",574
+2013,Број,capljina,Ж,"Слух, иако користи слушни апарат",211
+2013,Број,celic,Ж,"Слух, иако користи слушни апарат",144
+2013,Број,citluk,Ж,"Слух, иако користи слушни апарат",149
+2013,Број,doboj-istok,Ж,"Слух, иако користи слушни апарат",98
+2013,Број,doboj-jug,Ж,"Слух, иако користи слушни апарат",34
+2013,Број,dobretici,Ж,"Слух, иако користи слушни апарат",19
+2013,Број,domaljevac-samac,Ж,"Слух, иако користи слушни апарат",50
+2013,Број,donji_vakuf,Ж,"Слух, иако користи слушни апарат",129
+2013,Број,drvar,Ж,"Слух, иако користи слушни апарат",144
+2013,Број,foca-fbih,Ж,"Слух, иако користи слушни апарат",30
+2013,Број,fojnica,Ж,"Слух, иако користи слушни апарат",141
+2013,Број,glamoc,Ж,"Слух, иако користи слушни апарат",85
+2013,Број,gorazde,Ж,"Слух, иако користи слушни апарат",306
+2013,Број,gornji_vakuf-uskoplje,Ж,"Слух, иако користи слушни апарат",181
+2013,Број,gracanica,Ж,"Слух, иако користи слушни апарат",386
+2013,Број,gradacac,Ж,"Слух, иако користи слушни апарат",379
+2013,Број,grude,Ж,"Слух, иако користи слушни апарат",153
+2013,Број,hadzici,Ж,"Слух, иако користи слушни апарат",279
+2013,Број,ilidza,Ж,"Слух, иако користи слушни апарат",616
+2013,Број,ilijas,Ж,"Слух, иако користи слушни апарат",204
+2013,Број,jablanica,Ж,"Слух, иако користи слушни апарат",118
+2013,Број,jajce,Ж,"Слух, иако користи слушни апарат",249
+2013,Број,kakanj,Ж,"Слух, иако користи слушни апарат",309
+2013,Број,kalesija,Ж,"Слух, иако користи слушни апарат",299
+2013,Број,kiseljak,Ж,"Слух, иако користи слушни апарат",176
+2013,Број,kladanj,Ж,"Слух, иако користи слушни апарат",121
+2013,Број,kljuc,Ж,"Слух, иако користи слушни апарат",119
+2013,Број,konjic,Ж,"Слух, иако користи слушни апарат",268
+2013,Број,kresevo,Ж,"Слух, иако користи слушни апарат",65
+2013,Број,kupres-fbih,Ж,"Слух, иако користи слушни апарат",58
+2013,Број,livno,Ж,"Слух, иако користи слушни апарат",223
+2013,Број,lukavac,Ж,"Слух, иако користи слушни апарат",671
+2013,Број,ljubuski,Ж,"Слух, иако користи слушни апарат",222
+2013,Број,maglaj,Ж,"Слух, иако користи слушни апарат",261
+2013,Број,mostar,Ж,"Слух, иако користи слушни апарат",907
+2013,Број,neum,Ж,"Слух, иако користи слушни апарат",39
+2013,Број,novi_grad_sarajevo,Ж,"Слух, иако користи слушни апарат",1283
+2013,Број,novi_travnik,Ж,"Слух, иако користи слушни апарат",226
+2013,Број,novo_sarajevo,Ж,"Слух, иако користи слушни апарат",663
+2013,Број,odzak,Ж,"Слух, иако користи слушни апарат",146
+2013,Број,olovo,Ж,"Слух, иако користи слушни апарат",160
+2013,Број,orasje,Ж,"Слух, иако користи слушни апарат",198
+2013,Број,pale-fbih,Ж,"Слух, иако користи слушни апарат",23
+2013,Број,posusje,Ж,"Слух, иако користи слушни апарат",126
+2013,Број,prozor,Ж,"Слух, иако користи слушни апарат",92
+2013,Број,ravno,Ж,"Слух, иако користи слушни апарат",20
+2013,Број,sanski_most,Ж,"Слух, иако користи слушни апарат",282
+2013,Број,sapna,Ж,"Слух, иако користи слушни апарат",72
+2013,Број,srebrenik,Ж,"Слух, иако користи слушни апарат",541
+2013,Број,stari_grad_sarajevo,Ж,"Слух, иако користи слушни апарат",468
+2013,Број,stolac,Ж,"Слух, иако користи слушни апарат",136
+2013,Број,siroki_brijeg,Ж,"Слух, иако користи слушни апарат",181
+2013,Број,teocak,Ж,"Слух, иако користи слушни апарат",64
+2013,Број,tesanj,Ж,"Слух, иако користи слушни апарат",301
+2013,Број,tomislavgrad,Ж,"Слух, иако користи слушни апарат",143
+2013,Број,travnik,Ж,"Слух, иако користи слушни апарат",476
+2013,Број,trnovo-fbih,Ж,"Слух, иако користи слушни апарат",25
+2013,Број,tuzla,Ж,"Слух, иако користи слушни апарат",1595
+2013,Број,usora,Ж,"Слух, иако користи слушни апарат",57
+2013,Број,vares,Ж,"Слух, иако користи слушни апарат",139
+2013,Број,velika_kladusa,Ж,"Слух, иако користи слушни апарат",449
+2013,Број,visoko,Ж,"Слух, иако користи слушни апарат",308
+2013,Број,vitez,Ж,"Слух, иако користи слушни апарат",244
+2013,Број,vogosca,Ж,"Слух, иако користи слушни апарат",299
+2013,Број,zavidovici,Ж,"Слух, иако користи слушни апарат",386
+2013,Број,zenica,Ж,"Слух, иако користи слушни апарат",1022
+2013,Број,zepce,Ж,"Слух, иако користи слушни апарат",234
+2013,Број,zivinice,Ж,"Слух, иако користи слушни апарат",719
+2013,Број,banovici,Оба пола,Ход или пењање уз степенице,1134
+2013,Број,bihac,Оба пола,Ход или пењање уз степенице,3069
+2013,Број,bosanska_krupa,Оба пола,Ход или пењање уз степенице,1363
+2013,Број,bosanski_petrovac,Оба пола,Ход или пењање уз степенице,430
+2013,Број,bosansko_grahovo,Оба пола,Ход или пењање уз степенице,215
+2013,Број,breza,Оба пола,Ход или пењање уз степенице,857
+2013,Број,bugojno,Оба пола,Ход или пењање уз степенице,1558
+2013,Број,busovaca,Оба пола,Ход или пењање уз степенице,763
+2013,Број,buzim,Оба пола,Ход или пењање уз степенице,649
+2013,Број,cazin,Оба пола,Ход или пењање уз степенице,2684
+2013,Број,centar_sarajevo,Оба пола,Ход или пењање уз степенице,3318
+2013,Број,capljina,Оба пола,Ход или пењање уз степенице,1079
+2013,Број,celic,Оба пола,Ход или пењање уз степенице,691
+2013,Број,citluk,Оба пола,Ход или пењање уз степенице,714
+2013,Број,doboj-istok,Оба пола,Ход или пењање уз степенице,648
+2013,Број,doboj-jug,Оба пола,Ход или пењање уз степенице,205
+2013,Број,dobretici,Оба пола,Ход или пењање уз степенице,128
+2013,Број,domaljevac-samac,Оба пола,Ход или пењање уз степенице,249
+2013,Број,donji_vakuf,Оба пола,Ход или пењање уз степенице,731
+2013,Број,drvar,Оба пола,Ход или пењање уз степенице,626
+2013,Број,foca-fbih,Оба пола,Ход или пењање уз степенице,138
+2013,Број,fojnica,Оба пола,Ход или пењање уз степенице,799
+2013,Број,glamoc,Оба пола,Ход или пењање уз степенице,277
+2013,Број,gorazde,Оба пола,Ход или пењање уз степенице,1525
+2013,Број,gornji_vakuf-uskoplje,Оба пола,Ход или пењање уз степенице,829
+2013,Број,gracanica,Оба пола,Ход или пењање уз степенице,2298
+2013,Број,gradacac,Оба пола,Ход или пењање уз степенице,1925
+2013,Број,grude,Оба пола,Ход или пењање уз степенице,601
+2013,Број,hadzici,Оба пола,Ход или пењање уз степенице,1385
+2013,Број,ilidza,Оба пола,Ход или пењање уз степенице,3404
+2013,Број,ilijas,Оба пола,Ход или пењање уз степенице,1054
+2013,Број,jablanica,Оба пола,Ход или пењање уз степенице,446
+2013,Број,jajce,Оба пола,Ход или пењање уз степенице,1333
+2013,Број,kakanj,Оба пола,Ход или пењање уз степенице,1498
+2013,Број,kalesija,Оба пола,Ход или пењање уз степенице,1844
+2013,Број,kiseljak,Оба пола,Ход или пењање уз степенице,956
+2013,Број,kladanj,Оба пола,Ход или пењање уз степенице,608
+2013,Број,kljuc,Оба пола,Ход или пењање уз степенице,668
+2013,Број,konjic,Оба пола,Ход или пењање уз степенице,1295
+2013,Број,kresevo,Оба пола,Ход или пењање уз степенице,274
+2013,Број,kupres-fbih,Оба пола,Ход или пењање уз степенице,212
+2013,Број,livno,Оба пола,Ход или пењање уз степенице,1102
+2013,Број,lukavac,Оба пола,Ход или пењање уз степенице,3253
+2013,Број,ljubuski,Оба пола,Ход или пењање уз степенице,1125
+2013,Број,maglaj,Оба пола,Ход или пењање уз степенице,1350
+2013,Број,mostar,Оба пола,Ход или пењање уз степенице,4730
+2013,Број,neum,Оба пола,Ход или пењање уз степенице,184
+2013,Број,novi_grad_sarajevo,Оба пола,Ход или пењање уз степенице,6627
+2013,Број,novi_travnik,Оба пола,Ход или пењање уз степенице,1117
+2013,Број,novo_sarajevo,Оба пола,Ход или пењање уз степенице,3679
+2013,Број,odzak,Оба пола,Ход или пењање уз степенице,696
+2013,Број,olovo,Оба пола,Ход или пењање уз степенице,735
+2013,Број,orasje,Оба пола,Ход или пењање уз степенице,1076
+2013,Број,pale-fbih,Оба пола,Ход или пењање уз степенице,83
+2013,Број,posusje,Оба пола,Ход или пењање уз степенице,746
+2013,Број,prozor,Оба пола,Ход или пењање уз степенице,407
+2013,Број,ravno,Оба пола,Ход или пењање уз степенице,83
+2013,Број,sanski_most,Оба пола,Ход или пењање уз степенице,1388
+2013,Број,sapna,Оба пола,Ход или пењање уз степенице,410
+2013,Број,srebrenik,Оба пола,Ход или пењање уз степенице,2370
+2013,Број,stari_grad_sarajevo,Оба пола,Ход или пењање уз степенице,2457
+2013,Број,stolac,Оба пола,Ход или пењање уз степенице,638
+2013,Број,siroki_brijeg,Оба пола,Ход или пењање уз степенице,891
+2013,Број,teocak,Оба пола,Ход или пењање уз степенице,330
+2013,Број,tesanj,Оба пола,Ход или пењање уз степенице,2057
+2013,Број,tomislavgrad,Оба пола,Ход или пењање уз степенице,665
+2013,Број,travnik,Оба пола,Ход или пењање уз степенице,2421
+2013,Број,trnovo-fbih,Оба пола,Ход или пењање уз степенице,136
+2013,Број,tuzla,Оба пола,Ход или пењање уз степенице,8661
+2013,Број,usora,Оба пола,Ход или пењање уз степенице,302
+2013,Број,vares,Оба пола,Ход или пењање уз степенице,789
+2013,Број,velika_kladusa,Оба пола,Ход или пењање уз степенице,2048
+2013,Број,visoko,Оба пола,Ход или пењање уз степенице,1960
+2013,Број,vitez,Оба пола,Ход или пењање уз степенице,1284
+2013,Број,vogosca,Оба пола,Ход или пењање уз степенице,1576
+2013,Број,zavidovici,Оба пола,Ход или пењање уз степенице,2318
+2013,Број,zenica,Оба пола,Ход или пењање уз степенице,5558
+2013,Број,zepce,Оба пола,Ход или пењање уз степенице,1432
+2013,Број,zivinice,Оба пола,Ход или пењање уз степенице,3658
+2013,Број,banovici,M,Ход или пењање уз степенице,456
+2013,Број,bihac,M,Ход или пењање уз степенице,1377
+2013,Број,bosanska_krupa,M,Ход или пењање уз степенице,632
+2013,Број,bosanski_petrovac,M,Ход или пењање уз степенице,177
+2013,Број,bosansko_grahovo,M,Ход или пењање уз степенице,77
+2013,Број,breza,M,Ход или пењање уз степенице,359
+2013,Број,bugojno,M,Ход или пењање уз степенице,695
+2013,Број,busovaca,M,Ход или пењање уз степенице,334
+2013,Број,buzim,M,Ход или пењање уз степенице,351
+2013,Број,cazin,M,Ход или пењање уз степенице,1326
+2013,Број,centar_sarajevo,M,Ход или пењање уз степенице,1231
+2013,Број,capljina,M,Ход или пењање уз степенице,504
+2013,Број,celic,M,Ход или пењање уз степенице,295
+2013,Број,citluk,M,Ход или пењање уз степенице,294
+2013,Број,doboj-istok,M,Ход или пењање уз степенице,292
+2013,Број,doboj-jug,M,Ход или пењање уз степенице,94
+2013,Број,dobretici,M,Ход или пењање уз степенице,83
+2013,Број,domaljevac-samac,M,Ход или пењање уз степенице,104
+2013,Број,donji_vakuf,M,Ход или пењање уз степенице,349
+2013,Број,drvar,M,Ход или пењање уз степенице,244
+2013,Број,foca-fbih,M,Ход или пењање уз степенице,55
+2013,Број,fojnica,M,Ход или пењање уз степенице,359
+2013,Број,glamoc,M,Ход или пењање уз степенице,100
+2013,Број,gorazde,M,Ход или пењање уз степенице,610
+2013,Број,gornji_vakuf-uskoplje,M,Ход или пењање уз степенице,393
+2013,Број,gracanica,M,Ход или пењање уз степенице,976
+2013,Број,gradacac,M,Ход или пењање уз степенице,800
+2013,Број,grude,M,Ход или пењање уз степенице,248
+2013,Број,hadzici,M,Ход или пењање уз степенице,580
+2013,Број,ilidza,M,Ход или пењање уз степенице,1407
+2013,Број,ilijas,M,Ход или пењање уз степенице,431
+2013,Број,jablanica,M,Ход или пењање уз степенице,200
+2013,Број,jajce,M,Ход или пењање уз степенице,587
+2013,Број,kakanj,M,Ход или пењање уз степенице,616
+2013,Број,kalesija,M,Ход или пењање уз степенице,768
+2013,Број,kiseljak,M,Ход или пењање уз степенице,399
+2013,Број,kladanj,M,Ход или пењање уз степенице,260
+2013,Број,kljuc,M,Ход или пењање уз степенице,283
+2013,Број,konjic,M,Ход или пењање уз степенице,551
+2013,Број,kresevo,M,Ход или пењање уз степенице,91
+2013,Број,kupres-fbih,M,Ход или пењање уз степенице,88
+2013,Број,livno,M,Ход или пењање уз степенице,477
+2013,Број,lukavac,M,Ход или пењање уз степенице,1247
+2013,Број,ljubuski,M,Ход или пењање уз степенице,478
+2013,Број,maglaj,M,Ход или пењање уз степенице,553
+2013,Број,mostar,M,Ход или пењање уз степенице,2043
+2013,Број,neum,M,Ход или пењање уз степенице,64
+2013,Број,novi_grad_sarajevo,M,Ход или пењање уз степенице,2604
+2013,Број,novi_travnik,M,Ход или пењање уз степенице,505
+2013,Број,novo_sarajevo,M,Ход или пењање уз степенице,1350
+2013,Број,odzak,M,Ход или пењање уз степенице,292
+2013,Број,olovo,M,Ход или пењање уз степенице,280
+2013,Број,orasje,M,Ход или пењање уз степенице,470
+2013,Број,pale-fbih,M,Ход или пењање уз степенице,31
+2013,Број,posusje,M,Ход или пењање уз степенице,404
+2013,Број,prozor,M,Ход или пењање уз степенице,162
+2013,Број,ravno,M,Ход или пењање уз степенице,31
+2013,Број,sanski_most,M,Ход или пењање уз степенице,620
+2013,Број,sapna,M,Ход или пењање уз степенице,209
+2013,Број,srebrenik,M,Ход или пењање уз степенице,905
+2013,Број,stari_grad_sarajevo,M,Ход или пењање уз степенице,958
+2013,Број,stolac,M,Ход или пењање уз степенице,265
+2013,Број,siroki_brijeg,M,Ход или пењање уз степенице,373
+2013,Број,teocak,M,Ход или пењање уз степенице,147
+2013,Број,tesanj,M,Ход или пењање уз степенице,885
+2013,Број,tomislavgrad,M,Ход или пењање уз степенице,307
+2013,Број,travnik,M,Ход или пењање уз степенице,1045
+2013,Број,trnovo-fbih,M,Ход или пењање уз степенице,54
+2013,Број,tuzla,M,Ход или пењање уз степенице,3310
+2013,Број,usora,M,Ход или пењање уз степенице,135
+2013,Број,vares,M,Ход или пењање уз степенице,323
+2013,Број,velika_kladusa,M,Ход или пењање уз степенице,914
+2013,Број,visoko,M,Ход или пењање уз степенице,820
+2013,Број,vitez,M,Ход или пењање уз степенице,566
+2013,Број,vogosca,M,Ход или пењање уз степенице,625
+2013,Број,zavidovici,M,Ход или пењање уз степенице,986
+2013,Број,zenica,M,Ход или пењање уз степенице,2316
+2013,Број,zepce,M,Ход или пењање уз степенице,636
+2013,Број,zivinice,M,Ход или пењање уз степенице,1445
+2013,Број,banovici,Ж,Ход или пењање уз степенице,678
+2013,Број,bihac,Ж,Ход или пењање уз степенице,1692
+2013,Број,bosanska_krupa,Ж,Ход или пењање уз степенице,731
+2013,Број,bosanski_petrovac,Ж,Ход или пењање уз степенице,253
+2013,Број,bosansko_grahovo,Ж,Ход или пењање уз степенице,138
+2013,Број,breza,Ж,Ход или пењање уз степенице,498
+2013,Број,bugojno,Ж,Ход или пењање уз степенице,863
+2013,Број,busovaca,Ж,Ход или пењање уз степенице,429
+2013,Број,buzim,Ж,Ход или пењање уз степенице,298
+2013,Број,cazin,Ж,Ход или пењање уз степенице,1358
+2013,Број,centar_sarajevo,Ж,Ход или пењање уз степенице,2087
+2013,Број,capljina,Ж,Ход или пењање уз степенице,575
+2013,Број,celic,Ж,Ход или пењање уз степенице,396
+2013,Број,citluk,Ж,Ход или пењање уз степенице,420
+2013,Број,doboj-istok,Ж,Ход или пењање уз степенице,356
+2013,Број,doboj-jug,Ж,Ход или пењање уз степенице,111
+2013,Број,dobretici,Ж,Ход или пењање уз степенице,45
+2013,Број,domaljevac-samac,Ж,Ход или пењање уз степенице,145
+2013,Број,donji_vakuf,Ж,Ход или пењање уз степенице,382
+2013,Број,drvar,Ж,Ход или пењање уз степенице,382
+2013,Број,foca-fbih,Ж,Ход или пењање уз степенице,83
+2013,Број,fojnica,Ж,Ход или пењање уз степенице,440
+2013,Број,glamoc,Ж,Ход или пењање уз степенице,177
+2013,Број,gorazde,Ж,Ход или пењање уз степенице,915
+2013,Број,gornji_vakuf-uskoplje,Ж,Ход или пењање уз степенице,436
+2013,Број,gracanica,Ж,Ход или пењање уз степенице,1322
+2013,Број,gradacac,Ж,Ход или пењање уз степенице,1125
+2013,Број,grude,Ж,Ход или пењање уз степенице,353
+2013,Број,hadzici,Ж,Ход или пењање уз степенице,805
+2013,Број,ilidza,Ж,Ход или пењање уз степенице,1997
+2013,Број,ilijas,Ж,Ход или пењање уз степенице,623
+2013,Број,jablanica,Ж,Ход или пењање уз степенице,246
+2013,Број,jajce,Ж,Ход или пењање уз степенице,746
+2013,Број,kakanj,Ж,Ход или пењање уз степенице,882
+2013,Број,kalesija,Ж,Ход или пењање уз степенице,1076
+2013,Број,kiseljak,Ж,Ход или пењање уз степенице,557
+2013,Број,kladanj,Ж,Ход или пењање уз степенице,348
+2013,Број,kljuc,Ж,Ход или пењање уз степенице,385
+2013,Број,konjic,Ж,Ход или пењање уз степенице,744
+2013,Број,kresevo,Ж,Ход или пењање уз степенице,183
+2013,Број,kupres-fbih,Ж,Ход или пењање уз степенице,124
+2013,Број,livno,Ж,Ход или пењање уз степенице,625
+2013,Број,lukavac,Ж,Ход или пењање уз степенице,2006
+2013,Број,ljubuski,Ж,Ход или пењање уз степенице,647
+2013,Број,maglaj,Ж,Ход или пењање уз степенице,797
+2013,Број,mostar,Ж,Ход или пењање уз степенице,2687
+2013,Број,neum,Ж,Ход или пењање уз степенице,120
+2013,Број,novi_grad_sarajevo,Ж,Ход или пењање уз степенице,4023
+2013,Број,novi_travnik,Ж,Ход или пењање уз степенице,612
+2013,Број,novo_sarajevo,Ж,Ход или пењање уз степенице,2329
+2013,Број,odzak,Ж,Ход или пењање уз степенице,404
+2013,Број,olovo,Ж,Ход или пењање уз степенице,455
+2013,Број,orasje,Ж,Ход или пењање уз степенице,606
+2013,Број,pale-fbih,Ж,Ход или пењање уз степенице,52
+2013,Број,posusje,Ж,Ход или пењање уз степенице,342
+2013,Број,prozor,Ж,Ход или пењање уз степенице,245
+2013,Број,ravno,Ж,Ход или пењање уз степенице,52
+2013,Број,sanski_most,Ж,Ход или пењање уз степенице,768
+2013,Број,sapna,Ж,Ход или пењање уз степенице,201
+2013,Број,srebrenik,Ж,Ход или пењање уз степенице,1465
+2013,Број,stari_grad_sarajevo,Ж,Ход или пењање уз степенице,1499
+2013,Број,stolac,Ж,Ход или пењање уз степенице,373
+2013,Број,siroki_brijeg,Ж,Ход или пењање уз степенице,518
+2013,Број,teocak,Ж,Ход или пењање уз степенице,183
+2013,Број,tesanj,Ж,Ход или пењање уз степенице,1172
+2013,Број,tomislavgrad,Ж,Ход или пењање уз степенице,358
+2013,Број,travnik,Ж,Ход или пењање уз степенице,1376
+2013,Број,trnovo-fbih,Ж,Ход или пењање уз степенице,82
+2013,Број,tuzla,Ж,Ход или пењање уз степенице,5351
+2013,Број,usora,Ж,Ход или пењање уз степенице,167
+2013,Број,vares,Ж,Ход или пењање уз степенице,466
+2013,Број,velika_kladusa,Ж,Ход или пењање уз степенице,1134
+2013,Број,visoko,Ж,Ход или пењање уз степенице,1140
+2013,Број,vitez,Ж,Ход или пењање уз степенице,718
+2013,Број,vogosca,Ж,Ход или пењање уз степенице,951
+2013,Број,zavidovici,Ж,Ход или пењање уз степенице,1332
+2013,Број,zenica,Ж,Ход или пењање уз степенице,3242
+2013,Број,zepce,Ж,Ход или пењање уз степенице,796
+2013,Број,zivinice,Ж,Ход или пењање уз степенице,2213
+2013,Број,banovici,Оба пола,Памћење или концентрација,282
+2013,Број,bihac,Оба пола,Памћење или концентрација,850
+2013,Број,bosanska_krupa,Оба пола,Памћење или концентрација,490
+2013,Број,bosanski_petrovac,Оба пола,Памћење или концентрација,138
+2013,Број,bosansko_grahovo,Оба пола,Памћење или концентрација,46
+2013,Број,breza,Оба пола,Памћење или концентрација,207
+2013,Број,bugojno,Оба пола,Памћење или концентрација,512
+2013,Број,busovaca,Оба пола,Памћење или концентрација,221
+2013,Број,buzim,Оба пола,Памћење или концентрација,296
+2013,Број,cazin,Оба пола,Памћење или концентрација,981
+2013,Број,centar_sarajevo,Оба пола,Памћење или концентрација,799
+2013,Број,capljina,Оба пола,Памћење или концентрација,336
+2013,Број,celic,Оба пола,Памћење или концентрација,182
+2013,Број,citluk,Оба пола,Памћење или концентрација,200
+2013,Број,doboj-istok,Оба пола,Памћење или концентрација,340
+2013,Број,doboj-jug,Оба пола,Памћење или концентрација,45
+2013,Број,dobretici,Оба пола,Памћење или концентрација,40
+2013,Број,domaljevac-samac,Оба пола,Памћење или концентрација,95
+2013,Број,donji_vakuf,Оба пола,Памћење или концентрација,206
+2013,Број,drvar,Оба пола,Памћење или концентрација,155
+2013,Број,foca-fbih,Оба пола,Памћење или концентрација,31
+2013,Број,fojnica,Оба пола,Памћење или концентрација,727
+2013,Број,glamoc,Оба пола,Памћење или концентрација,89
+2013,Број,gorazde,Оба пола,Памћење или концентрација,463
+2013,Број,gornji_vakuf-uskoplje,Оба пола,Памћење или концентрација,247
+2013,Број,gracanica,Оба пола,Памћење или концентрација,660
+2013,Број,gradacac,Оба пола,Памћење или концентрација,623
+2013,Број,grude,Оба пола,Памћење или концентрација,239
+2013,Број,hadzici,Оба пола,Памћење или концентрација,650
+2013,Број,ilidza,Оба пола,Памћење или концентрација,978
+2013,Број,ilijas,Оба пола,Памћење или концентрација,382
+2013,Број,jablanica,Оба пола,Памћење или концентрација,129
+2013,Број,jajce,Оба пола,Памћење или концентрација,346
+2013,Број,kakanj,Оба пола,Памћење или концентрација,443
+2013,Број,kalesija,Оба пола,Памћење или концентрација,646
+2013,Број,kiseljak,Оба пола,Памћење или концентрација,300
+2013,Број,kladanj,Оба пола,Памћење или концентрација,218
+2013,Број,kljuc,Оба пола,Памћење или концентрација,197
+2013,Број,konjic,Оба пола,Памћење или концентрација,379
+2013,Број,kresevo,Оба пола,Памћење или концентрација,102
+2013,Број,kupres-fbih,Оба пола,Памћење или концентрација,100
+2013,Број,livno,Оба пола,Памћење или концентрација,306
+2013,Број,lukavac,Оба пола,Памћење или концентрација,1044
+2013,Број,ljubuski,Оба пола,Памћење или концентрација,324
+2013,Број,maglaj,Оба пола,Памћење или концентрација,385
+2013,Број,mostar,Оба пола,Памћење или концентрација,1316
+2013,Број,neum,Оба пола,Памћење или концентрација,40
+2013,Број,novi_grad_sarajevo,Оба пола,Памћење или концентрација,1760
+2013,Број,novi_travnik,Оба пола,Памћење или концентрација,364
+2013,Број,novo_sarajevo,Оба пола,Памћење или концентрација,952
+2013,Број,odzak,Оба пола,Памћење или концентрација,229
+2013,Број,olovo,Оба пола,Памћење или концентрација,221
+2013,Број,orasje,Оба пола,Памћење или концентрација,291
+2013,Број,pale-fbih,Оба пола,Памћење или концентрација,34
+2013,Број,posusje,Оба пола,Памћење или концентрација,213
+2013,Број,prozor,Оба пола,Памћење или концентрација,136
+2013,Број,ravno,Оба пола,Памћење или концентрација,19
+2013,Број,sanski_most,Оба пола,Памћење или концентрација,467
+2013,Број,sapna,Оба пола,Памћење или концентрација,117
+2013,Број,srebrenik,Оба пола,Памћење или концентрација,866
+2013,Број,stari_grad_sarajevo,Оба пола,Памћење или концентрација,663
+2013,Број,stolac,Оба пола,Памћење или концентрација,252
+2013,Број,siroki_brijeg,Оба пола,Памћење или концентрација,238
+2013,Број,teocak,Оба пола,Памћење или концентрација,91
+2013,Број,tesanj,Оба пола,Памћење или концентрација,594
+2013,Број,tomislavgrad,Оба пола,Памћење или концентрација,192
+2013,Број,travnik,Оба пола,Памћење или концентрација,724
+2013,Број,trnovo-fbih,Оба пола,Памћење или концентрација,37
+2013,Број,tuzla,Оба пола,Памћење или концентрација,2819
+2013,Број,usora,Оба пола,Памћење или концентрација,88
+2013,Број,vares,Оба пола,Памћење или концентрација,221
+2013,Број,velika_kladusa,Оба пола,Памћење или концентрација,801
+2013,Број,visoko,Оба пола,Памћење или концентрација,552
+2013,Број,vitez,Оба пола,Памћење или концентрација,363
+2013,Број,vogosca,Оба пола,Памћење или концентрација,491
+2013,Број,zavidovici,Оба пола,Памћење или концентрација,648
+2013,Број,zenica,Оба пола,Памћење или концентрација,1568
+2013,Број,zepce,Оба пола,Памћење или концентрација,401
+2013,Број,zivinice,Оба пола,Памћење или концентрација,1404
+2013,Број,banovici,M,Памћење или концентрација,96
+2013,Број,bihac,M,Памћење или концентрација,406
+2013,Број,bosanska_krupa,M,Памћење или концентрација,248
+2013,Број,bosanski_petrovac,M,Памћење или концентрација,66
+2013,Број,bosansko_grahovo,M,Памћење или концентрација,18
+2013,Број,breza,M,Памћење или концентрација,93
+2013,Број,bugojno,M,Памћење или концентрација,251
+2013,Број,busovaca,M,Памћење или концентрација,111
+2013,Број,buzim,M,Памћење или концентрација,154
+2013,Број,cazin,M,Памћење или концентрација,492
+2013,Број,centar_sarajevo,M,Памћење или концентрација,351
+2013,Број,capljina,M,Памћење или концентрација,160
+2013,Број,celic,M,Памћење или концентрација,85
+2013,Број,citluk,M,Памћење или концентрација,89
+2013,Број,doboj-istok,M,Памћење или концентрација,139
+2013,Број,doboj-jug,M,Памћење или концентрација,20
+2013,Број,dobretici,M,Памћење или концентрација,26
+2013,Број,domaljevac-samac,M,Памћење или концентрација,54
+2013,Број,donji_vakuf,M,Памћење или концентрација,99
+2013,Број,drvar,M,Памћење или концентрација,67
+2013,Број,foca-fbih,M,Памћење или концентрација,15
+2013,Број,fojnica,M,Памћење или концентрација,391
+2013,Број,glamoc,M,Памћење или концентрација,47
+2013,Број,gorazde,M,Памћење или концентрација,182
+2013,Број,gornji_vakuf-uskoplje,M,Памћење или концентрација,125
+2013,Број,gracanica,M,Памћење или концентрација,289
+2013,Број,gradacac,M,Памћење или концентрација,294
+2013,Број,grude,M,Памћење или концентрација,109
+2013,Број,hadzici,M,Памћење или концентрација,334
+2013,Број,ilidza,M,Памћење или концентрација,405
+2013,Број,ilijas,M,Памћење или концентрација,167
+2013,Број,jablanica,M,Памћење или концентрација,52
+2013,Број,jajce,M,Памћење или концентрација,167
+2013,Број,kakanj,M,Памћење или концентрација,192
+2013,Број,kalesija,M,Памћење или концентрација,288
+2013,Број,kiseljak,M,Памћење или концентрација,133
+2013,Број,kladanj,M,Памћење или концентрација,82
+2013,Број,kljuc,M,Памћење или концентрација,85
+2013,Број,konjic,M,Памћење или концентрација,185
+2013,Број,kresevo,M,Памћење или концентрација,40
+2013,Број,kupres-fbih,M,Памћење или концентрација,45
+2013,Број,livno,M,Памћење или концентрација,153
+2013,Број,lukavac,M,Памћење или концентрација,412
+2013,Број,ljubuski,M,Памћење или концентрација,157
+2013,Број,maglaj,M,Памћење или концентрација,162
+2013,Број,mostar,M,Памћење или концентрација,617
+2013,Број,neum,M,Памћење или концентрација,19
+2013,Број,novi_grad_sarajevo,M,Памћење или концентрација,718
+2013,Број,novi_travnik,M,Памћење или концентрација,179
+2013,Број,novo_sarajevo,M,Памћење или концентрација,396
+2013,Број,odzak,M,Памћење или концентрација,108
+2013,Број,olovo,M,Памћење или концентрација,87
+2013,Број,orasje,M,Памћење или концентрација,131
+2013,Број,pale-fbih,M,Памћење или концентрација,15
+2013,Број,posusje,M,Памћење или концентрација,110
+2013,Број,prozor,M,Памћење или концентрација,61
+2013,Број,ravno,M,Памћење или концентрација,8
+2013,Број,sanski_most,M,Памћење или концентрација,234
+2013,Број,sapna,M,Памћење или концентрација,51
+2013,Број,srebrenik,M,Памћење или концентрација,364
+2013,Број,stari_grad_sarajevo,M,Памћење или концентрација,284
+2013,Број,stolac,M,Памћење или концентрација,126
+2013,Број,siroki_brijeg,M,Памћење или концентрација,114
+2013,Број,teocak,M,Памћење или концентрација,45
+2013,Број,tesanj,M,Памћење или концентрација,258
+2013,Број,tomislavgrad,M,Памћење или концентрација,94
+2013,Број,travnik,M,Памћење или концентрација,313
+2013,Број,trnovo-fbih,M,Памћење или концентрација,13
+2013,Број,tuzla,M,Памћење или концентрација,1183
+2013,Број,usora,M,Памћење или концентрација,38
+2013,Број,vares,M,Памћење или концентрација,95
+2013,Број,velika_kladusa,M,Памћење или концентрација,374
+2013,Број,visoko,M,Памћење или концентрација,252
+2013,Број,vitez,M,Памћење или концентрација,170
+2013,Број,vogosca,M,Памћење или концентрација,224
+2013,Број,zavidovici,M,Памћење или концентрација,307
+2013,Број,zenica,M,Памћење или концентрација,693
+2013,Број,zepce,M,Памћење или концентрација,186
+2013,Број,zivinice,M,Памћење или концентрација,617
+2013,Број,banovici,Ж,Памћење или концентрација,186
+2013,Број,bihac,Ж,Памћење или концентрација,444
+2013,Број,bosanska_krupa,Ж,Памћење или концентрација,242
+2013,Број,bosanski_petrovac,Ж,Памћење или концентрација,72
+2013,Број,bosansko_grahovo,Ж,Памћење или концентрација,28
+2013,Број,breza,Ж,Памћење или концентрација,114
+2013,Број,bugojno,Ж,Памћење или концентрација,261
+2013,Број,busovaca,Ж,Памћење или концентрација,110
+2013,Број,buzim,Ж,Памћење или концентрација,142
+2013,Број,cazin,Ж,Памћење или концентрација,489
+2013,Број,centar_sarajevo,Ж,Памћење или концентрација,448
+2013,Број,capljina,Ж,Памћење или концентрација,176
+2013,Број,celic,Ж,Памћење или концентрација,97
+2013,Број,citluk,Ж,Памћење или концентрација,111
+2013,Број,doboj-istok,Ж,Памћење или концентрација,201
+2013,Број,doboj-jug,Ж,Памћење или концентрација,25
+2013,Број,dobretici,Ж,Памћење или концентрација,14
+2013,Број,domaljevac-samac,Ж,Памћење или концентрација,41
+2013,Број,donji_vakuf,Ж,Памћење или концентрација,107
+2013,Број,drvar,Ж,Памћење или концентрација,88
+2013,Број,foca-fbih,Ж,Памћење или концентрација,16
+2013,Број,fojnica,Ж,Памћење или концентрација,336
+2013,Број,glamoc,Ж,Памћење или концентрација,42
+2013,Број,gorazde,Ж,Памћење или концентрација,281
+2013,Број,gornji_vakuf-uskoplje,Ж,Памћење или концентрација,122
+2013,Број,gracanica,Ж,Памћење или концентрација,371
+2013,Број,gradacac,Ж,Памћење или концентрација,329
+2013,Број,grude,Ж,Памћење или концентрација,130
+2013,Број,hadzici,Ж,Памћење или концентрација,316
+2013,Број,ilidza,Ж,Памћење или концентрација,573
+2013,Број,ilijas,Ж,Памћење или концентрација,215
+2013,Број,jablanica,Ж,Памћење или концентрација,77
+2013,Број,jajce,Ж,Памћење или концентрација,179
+2013,Број,kakanj,Ж,Памћење или концентрација,251
+2013,Број,kalesija,Ж,Памћење или концентрација,358
+2013,Број,kiseljak,Ж,Памћење или концентрација,167
+2013,Број,kladanj,Ж,Памћење или концентрација,136
+2013,Број,kljuc,Ж,Памћење или концентрација,112
+2013,Број,konjic,Ж,Памћење или концентрација,194
+2013,Број,kresevo,Ж,Памћење или концентрација,62
+2013,Број,kupres-fbih,Ж,Памћење или концентрација,55
+2013,Број,livno,Ж,Памћење или концентрација,153
+2013,Број,lukavac,Ж,Памћење или концентрација,632
+2013,Број,ljubuski,Ж,Памћење или концентрација,167
+2013,Број,maglaj,Ж,Памћење или концентрација,223
+2013,Број,mostar,Ж,Памћење или концентрација,699
+2013,Број,neum,Ж,Памћење или концентрација,21
+2013,Број,novi_grad_sarajevo,Ж,Памћење или концентрација,1042
+2013,Број,novi_travnik,Ж,Памћење или концентрација,185
+2013,Број,novo_sarajevo,Ж,Памћење или концентрација,556
+2013,Број,odzak,Ж,Памћење или концентрација,121
+2013,Број,olovo,Ж,Памћење или концентрација,134
+2013,Број,orasje,Ж,Памћење или концентрација,160
+2013,Број,pale-fbih,Ж,Памћење или концентрација,19
+2013,Број,posusje,Ж,Памћење или концентрација,103
+2013,Број,prozor,Ж,Памћење или концентрација,75
+2013,Број,ravno,Ж,Памћење или концентрација,11
+2013,Број,sanski_most,Ж,Памћење или концентрација,233
+2013,Број,sapna,Ж,Памћење или концентрација,66
+2013,Број,srebrenik,Ж,Памћење или концентрација,502
+2013,Број,stari_grad_sarajevo,Ж,Памћење или концентрација,379
+2013,Број,stolac,Ж,Памћење или концентрација,126
+2013,Број,siroki_brijeg,Ж,Памћење или концентрација,124
+2013,Број,teocak,Ж,Памћење или концентрација,46
+2013,Број,tesanj,Ж,Памћење или концентрација,336
+2013,Број,tomislavgrad,Ж,Памћење или концентрација,98
+2013,Број,travnik,Ж,Памћење или концентрација,411
+2013,Број,trnovo-fbih,Ж,Памћење или концентрација,24
+2013,Број,tuzla,Ж,Памћење или концентрација,1636
+2013,Број,usora,Ж,Памћење или концентрација,50
+2013,Број,vares,Ж,Памћење или концентрација,126
+2013,Број,velika_kladusa,Ж,Памћење или концентрација,427
+2013,Број,visoko,Ж,Памћење или концентрација,300
+2013,Број,vitez,Ж,Памћење или концентрација,193
+2013,Број,vogosca,Ж,Памћење или концентрација,267
+2013,Број,zavidovici,Ж,Памћење или концентрација,341
+2013,Број,zenica,Ж,Памћење или концентрација,875
+2013,Број,zepce,Ж,Памћење или концентрација,215
+2013,Број,zivinice,Ж,Памћење или концентрација,787
+2013,Број,banovici,Оба пола,Одијевање и одржавање личне хигијене,217
+2013,Број,bihac,Оба пола,Одијевање и одржавање личне хигијене,655
+2013,Број,bosanska_krupa,Оба пола,Одијевање и одржавање личне хигијене,298
+2013,Број,bosanski_petrovac,Оба пола,Одијевање и одржавање личне хигијене,131
+2013,Број,bosansko_grahovo,Оба пола,Одијевање и одржавање личне хигијене,47
+2013,Број,breza,Оба пола,Одијевање и одржавање личне хигијене,167
+2013,Број,bugojno,Оба пола,Одијевање и одржавање личне хигијене,362
+2013,Број,busovaca,Оба пола,Одијевање и одржавање личне хигијене,134
+2013,Број,buzim,Оба пола,Одијевање и одржавање личне хигијене,186
+2013,Број,cazin,Оба пола,Одијевање и одржавање личне хигијене,600
+2013,Број,centar_sarajevo,Оба пола,Одијевање и одржавање личне хигијене,635
+2013,Број,capljina,Оба пола,Одијевање и одржавање личне хигијене,254
+2013,Број,celic,Оба пола,Одијевање и одржавање личне хигијене,110
+2013,Број,citluk,Оба пола,Одијевање и одржавање личне хигијене,166
+2013,Број,doboj-istok,Оба пола,Одијевање и одржавање личне хигијене,217
+2013,Број,doboj-jug,Оба пола,Одијевање и одржавање личне хигијене,29
+2013,Број,dobretici,Оба пола,Одијевање и одржавање личне хигијене,22
+2013,Број,domaljevac-samac,Оба пола,Одијевање и одржавање личне хигијене,42
+2013,Број,donji_vakuf,Оба пола,Одијевање и одржавање личне хигијене,142
+2013,Број,drvar,Оба пола,Одијевање и одржавање личне хигијене,139
+2013,Број,foca-fbih,Оба пола,Одијевање и одржавање личне хигијене,20
+2013,Број,fojnica,Оба пола,Одијевање и одржавање личне хигијене,220
+2013,Број,glamoc,Оба пола,Одијевање и одржавање личне хигијене,60
+2013,Број,gorazde,Оба пола,Одијевање и одржавање личне хигијене,294
+2013,Број,gornji_vakuf-uskoplje,Оба пола,Одијевање и одржавање личне хигијене,145
+2013,Број,gracanica,Оба пола,Одијевање и одржавање личне хигијене,435
+2013,Број,gradacac,Оба пола,Одијевање и одржавање личне хигијене,462
+2013,Број,grude,Оба пола,Одијевање и одржавање личне хигијене,193
+2013,Број,hadzici,Оба пола,Одијевање и одржавање личне хигијене,449
+2013,Број,ilidza,Оба пола,Одијевање и одржавање личне хигијене,767
+2013,Број,ilijas,Оба пола,Одијевање и одржавање личне хигијене,246
+2013,Број,jablanica,Оба пола,Одијевање и одржавање личне хигијене,101
+2013,Број,jajce,Оба пола,Одијевање и одржавање личне хигијене,261
+2013,Број,kakanj,Оба пола,Одијевање и одржавање личне хигијене,421
+2013,Број,kalesija,Оба пола,Одијевање и одржавање личне хигијене,333
+2013,Број,kiseljak,Оба пола,Одијевање и одржавање личне хигијене,216
+2013,Број,kladanj,Оба пола,Одијевање и одржавање личне хигијене,115
+2013,Број,kljuc,Оба пола,Одијевање и одржавање личне хигијене,136
+2013,Број,konjic,Оба пола,Одијевање и одржавање личне хигијене,252
+2013,Број,kresevo,Оба пола,Одијевање и одржавање личне хигијене,68
+2013,Број,kupres-fbih,Оба пола,Одијевање и одржавање личне хигијене,81
+2013,Број,livno,Оба пола,Одијевање и одржавање личне хигијене,246
+2013,Број,lukavac,Оба пола,Одијевање и одржавање личне хигијене,674
+2013,Број,ljubuski,Оба пола,Одијевање и одржавање личне хигијене,263
+2013,Број,maglaj,Оба пола,Одијевање и одржавање личне хигијене,226
+2013,Број,mostar,Оба пола,Одијевање и одржавање личне хигијене,970
+2013,Број,neum,Оба пола,Одијевање и одржавање личне хигијене,28
+2013,Број,novi_grad_sarajevo,Оба пола,Одијевање и одржавање личне хигијене,1361
+2013,Број,novi_travnik,Оба пола,Одијевање и одржавање личне хигијене,261
+2013,Број,novo_sarajevo,Оба пола,Одијевање и одржавање личне хигијене,743
+2013,Број,odzak,Оба пола,Одијевање и одржавање личне хигијене,167
+2013,Број,olovo,Оба пола,Одијевање и одржавање личне хигијене,143
+2013,Број,orasje,Оба пола,Одијевање и одржавање личне хигијене,166
+2013,Број,pale-fbih,Оба пола,Одијевање и одржавање личне хигијене,16
+2013,Број,posusje,Оба пола,Одијевање и одржавање личне хигијене,132
+2013,Број,prozor,Оба пола,Одијевање и одржавање личне хигијене,86
+2013,Број,ravno,Оба пола,Одијевање и одржавање личне хигијене,9
+2013,Број,sanski_most,Оба пола,Одијевање и одржавање личне хигијене,322
+2013,Број,sapna,Оба пола,Одијевање и одржавање личне хигијене,67
+2013,Број,srebrenik,Оба пола,Одијевање и одржавање личне хигијене,496
+2013,Број,stari_grad_sarajevo,Оба пола,Одијевање и одржавање личне хигијене,460
+2013,Број,stolac,Оба пола,Одијевање и одржавање личне хигијене,221
+2013,Број,siroki_brijeg,Оба пола,Одијевање и одржавање личне хигијене,188
+2013,Број,teocak,Оба пола,Одијевање и одржавање личне хигијене,63
+2013,Број,tesanj,Оба пола,Одијевање и одржавање личне хигијене,465
+2013,Број,tomislavgrad,Оба пола,Одијевање и одржавање личне хигијене,164
+2013,Број,travnik,Оба пола,Одијевање и одржавање личне хигијене,594
+2013,Број,trnovo-fbih,Оба пола,Одијевање и одржавање личне хигијене,22
+2013,Број,tuzla,Оба пола,Одијевање и одржавање личне хигијене,1716
+2013,Број,usora,Оба пола,Одијевање и одржавање личне хигијене,53
+2013,Број,vares,Оба пола,Одијевање и одржавање личне хигијене,160
+2013,Број,velika_kladusa,Оба пола,Одијевање и одржавање личне хигијене,423
+2013,Број,visoko,Оба пола,Одијевање и одржавање личне хигијене,432
+2013,Број,vitez,Оба пола,Одијевање и одржавање личне хигијене,275
+2013,Број,vogosca,Оба пола,Одијевање и одржавање личне хигијене,326
+2013,Број,zavidovici,Оба пола,Одијевање и одржавање личне хигијене,420
+2013,Број,zenica,Оба пола,Одијевање и одржавање личне хигијене,1202
+2013,Број,zepce,Оба пола,Одијевање и одржавање личне хигијене,232
+2013,Број,zivinice,Оба пола,Одијевање и одржавање личне хигијене,725
+2013,Број,banovici,M,Одијевање и одржавање личне хигијене,81
+2013,Број,bihac,M,Одијевање и одржавање личне хигијене,301
+2013,Број,bosanska_krupa,M,Одијевање и одржавање личне хигијене,147
+2013,Број,bosanski_petrovac,M,Одијевање и одржавање личне хигијене,57
+2013,Број,bosansko_grahovo,M,Одијевање и одржавање личне хигијене,14
+2013,Број,breza,M,Одијевање и одржавање личне хигијене,73
+2013,Број,bugojno,M,Одијевање и одржавање личне хигијене,178
+2013,Број,busovaca,M,Одијевање и одржавање личне хигијене,68
+2013,Број,buzim,M,Одијевање и одржавање личне хигијене,103
+2013,Број,cazin,M,Одијевање и одржавање личне хигијене,292
+2013,Број,centar_sarajevo,M,Одијевање и одржавање личне хигијене,227
+2013,Број,capljina,M,Одијевање и одржавање личне хигијене,115
+2013,Број,celic,M,Одијевање и одржавање личне хигијене,50
+2013,Број,citluk,M,Одијевање и одржавање личне хигијене,60
+2013,Број,doboj-istok,M,Одијевање и одржавање личне хигијене,107
+2013,Број,doboj-jug,M,Одијевање и одржавање личне хигијене,12
+2013,Број,dobretici,M,Одијевање и одржавање личне хигијене,15
+2013,Број,domaljevac-samac,M,Одијевање и одржавање личне хигијене,17
+2013,Број,donji_vakuf,M,Одијевање и одржавање личне хигијене,65
+2013,Број,drvar,M,Одијевање и одржавање личне хигијене,61
+2013,Број,foca-fbih,M,Одијевање и одржавање личне хигијене,9
+2013,Број,fojnica,M,Одијевање и одржавање личне хигијене,96
+2013,Број,glamoc,M,Одијевање и одржавање личне хигијене,27
+2013,Број,gorazde,M,Одијевање и одржавање личне хигијене,119
+2013,Број,gornji_vakuf-uskoplje,M,Одијевање и одржавање личне хигијене,72
+2013,Број,gracanica,M,Одијевање и одржавање личне хигијене,175
+2013,Број,gradacac,M,Одијевање и одржавање личне хигијене,209
+2013,Број,grude,M,Одијевање и одржавање личне хигијене,80
+2013,Број,hadzici,M,Одијевање и одржавање личне хигијене,221
+2013,Број,ilidza,M,Одијевање и одржавање личне хигијене,295
+2013,Број,ilijas,M,Одијевање и одржавање личне хигијене,98
+2013,Број,jablanica,M,Одијевање и одржавање личне хигијене,48
+2013,Број,jajce,M,Одијевање и одржавање личне хигијене,115
+2013,Број,kakanj,M,Одијевање и одржавање личне хигијене,182
+2013,Број,kalesija,M,Одијевање и одржавање личне хигијене,155
+2013,Број,kiseljak,M,Одијевање и одржавање личне хигијене,88
+2013,Број,kladanj,M,Одијевање и одржавање личне хигијене,48
+2013,Број,kljuc,M,Одијевање и одржавање личне хигијене,52
+2013,Број,konjic,M,Одијевање и одржавање личне хигијене,109
+2013,Број,kresevo,M,Одијевање и одржавање личне хигијене,27
+2013,Број,kupres-fbih,M,Одијевање и одржавање личне хигијене,34
+2013,Број,livno,M,Одијевање и одржавање личне хигијене,101
+2013,Број,lukavac,M,Одијевање и одржавање личне хигијене,286
+2013,Број,ljubuski,M,Одијевање и одржавање личне хигијене,101
+2013,Број,maglaj,M,Одијевање и одржавање личне хигијене,86
+2013,Број,mostar,M,Одијевање и одржавање личне хигијене,386
+2013,Број,neum,M,Одијевање и одржавање личне хигијене,9
+2013,Број,novi_grad_sarajevo,M,Одијевање и одржавање личне хигијене,544
+2013,Број,novi_travnik,M,Одијевање и одржавање личне хигијене,112
+2013,Број,novo_sarajevo,M,Одијевање и одржавање личне хигијене,286
+2013,Број,odzak,M,Одијевање и одржавање личне хигијене,69
+2013,Број,olovo,M,Одијевање и одржавање личне хигијене,58
+2013,Број,orasje,M,Одијевање и одржавање личне хигијене,73
+2013,Број,pale-fbih,M,Одијевање и одржавање личне хигијене,7
+2013,Број,posusje,M,Одијевање и одржавање личне хигијене,58
+2013,Број,prozor,M,Одијевање и одржавање личне хигијене,33
+2013,Број,ravno,M,Одијевање и одржавање личне хигијене,2
+2013,Број,sanski_most,M,Одијевање и одржавање личне хигијене,163
+2013,Број,sapna,M,Одијевање и одржавање личне хигијене,34
+2013,Број,srebrenik,M,Одијевање и одржавање личне хигијене,195
+2013,Број,stari_grad_sarajevo,M,Одијевање и одржавање личне хигијене,185
+2013,Број,stolac,M,Одијевање и одржавање личне хигијене,106
+2013,Број,siroki_brijeg,M,Одијевање и одржавање личне хигијене,70
+2013,Број,teocak,M,Одијевање и одржавање личне хигијене,32
+2013,Број,tesanj,M,Одијевање и одржавање личне хигијене,186
+2013,Број,tomislavgrad,M,Одијевање и одржавање личне хигијене,67
+2013,Број,travnik,M,Одијевање и одржавање личне хигијене,249
+2013,Број,trnovo-fbih,M,Одијевање и одржавање личне хигијене,7
+2013,Број,tuzla,M,Одијевање и одржавање личне хигијене,682
+2013,Број,usora,M,Одијевање и одржавање личне хигијене,22
+2013,Број,vares,M,Одијевање и одржавање личне хигијене,61
+2013,Број,velika_kladusa,M,Одијевање и одржавање личне хигијене,187
+2013,Број,visoko,M,Одијевање и одржавање личне хигијене,189
+2013,Број,vitez,M,Одијевање и одржавање личне хигијене,107
+2013,Број,vogosca,M,Одијевање и одржавање личне хигијене,146
+2013,Број,zavidovici,M,Одијевање и одржавање личне хигијене,197
+2013,Број,zenica,M,Одијевање и одржавање личне хигијене,509
+2013,Број,zepce,M,Одијевање и одржавање личне хигијене,111
+2013,Број,zivinice,M,Одијевање и одржавање личне хигијене,299
+2013,Број,banovici,Ж,Одијевање и одржавање личне хигијене,136
+2013,Број,bihac,Ж,Одијевање и одржавање личне хигијене,354
+2013,Број,bosanska_krupa,Ж,Одијевање и одржавање личне хигијене,151
+2013,Број,bosanski_petrovac,Ж,Одијевање и одржавање личне хигијене,74
+2013,Број,bosansko_grahovo,Ж,Одијевање и одржавање личне хигијене,33
+2013,Број,breza,Ж,Одијевање и одржавање личне хигијене,94
+2013,Број,bugojno,Ж,Одијевање и одржавање личне хигијене,184
+2013,Број,busovaca,Ж,Одијевање и одржавање личне хигијене,66
+2013,Број,buzim,Ж,Одијевање и одржавање личне хигијене,83
+2013,Број,cazin,Ж,Одијевање и одржавање личне хигијене,308
+2013,Број,centar_sarajevo,Ж,Одијевање и одржавање личне хигијене,408
+2013,Број,capljina,Ж,Одијевање и одржавање личне хигијене,139
+2013,Број,celic,Ж,Одијевање и одржавање личне хигијене,60
+2013,Број,citluk,Ж,Одијевање и одржавање личне хигијене,106
+2013,Број,doboj-istok,Ж,Одијевање и одржавање личне хигијене,110
+2013,Број,doboj-jug,Ж,Одијевање и одржавање личне хигијене,17
+2013,Број,dobretici,Ж,Одијевање и одржавање личне хигијене,7
+2013,Број,domaljevac-samac,Ж,Одијевање и одржавање личне хигијене,25
+2013,Број,donji_vakuf,Ж,Одијевање и одржавање личне хигијене,77
+2013,Број,drvar,Ж,Одијевање и одржавање личне хигијене,78
+2013,Број,foca-fbih,Ж,Одијевање и одржавање личне хигијене,11
+2013,Број,fojnica,Ж,Одијевање и одржавање личне хигијене,124
+2013,Број,glamoc,Ж,Одијевање и одржавање личне хигијене,33
+2013,Број,gorazde,Ж,Одијевање и одржавање личне хигијене,175
+2013,Број,gornji_vakuf-uskoplje,Ж,Одијевање и одржавање личне хигијене,73
+2013,Број,gracanica,Ж,Одијевање и одржавање личне хигијене,260
+2013,Број,gradacac,Ж,Одијевање и одржавање личне хигијене,253
+2013,Број,grude,Ж,Одијевање и одржавање личне хигијене,113
+2013,Број,hadzici,Ж,Одијевање и одржавање личне хигијене,228
+2013,Број,ilidza,Ж,Одијевање и одржавање личне хигијене,472
+2013,Број,ilijas,Ж,Одијевање и одржавање личне хигијене,148
+2013,Број,jablanica,Ж,Одијевање и одржавање личне хигијене,53
+2013,Број,jajce,Ж,Одијевање и одржавање личне хигијене,146
+2013,Број,kakanj,Ж,Одијевање и одржавање личне хигијене,239
+2013,Број,kalesija,Ж,Одијевање и одржавање личне хигијене,178
+2013,Број,kiseljak,Ж,Одијевање и одржавање личне хигијене,128
+2013,Број,kladanj,Ж,Одијевање и одржавање личне хигијене,67
+2013,Број,kljuc,Ж,Одијевање и одржавање личне хигијене,84
+2013,Број,konjic,Ж,Одијевање и одржавање личне хигијене,143
+2013,Број,kresevo,Ж,Одијевање и одржавање личне хигијене,41
+2013,Број,kupres-fbih,Ж,Одијевање и одржавање личне хигијене,47
+2013,Број,livno,Ж,Одијевање и одржавање личне хигијене,145
+2013,Број,lukavac,Ж,Одијевање и одржавање личне хигијене,388
+2013,Број,ljubuski,Ж,Одијевање и одржавање личне хигијене,162
+2013,Број,maglaj,Ж,Одијевање и одржавање личне хигијене,140
+2013,Број,mostar,Ж,Одијевање и одржавање личне хигијене,584
+2013,Број,neum,Ж,Одијевање и одржавање личне хигијене,19
+2013,Број,novi_grad_sarajevo,Ж,Одијевање и одржавање личне хигијене,817
+2013,Број,novi_travnik,Ж,Одијевање и одржавање личне хигијене,149
+2013,Број,novo_sarajevo,Ж,Одијевање и одржавање личне хигијене,457
+2013,Број,odzak,Ж,Одијевање и одржавање личне хигијене,98
+2013,Број,olovo,Ж,Одијевање и одржавање личне хигијене,85
+2013,Број,orasje,Ж,Одијевање и одржавање личне хигијене,93
+2013,Број,pale-fbih,Ж,Одијевање и одржавање личне хигијене,9
+2013,Број,posusje,Ж,Одијевање и одржавање личне хигијене,74
+2013,Број,prozor,Ж,Одијевање и одржавање личне хигијене,53
+2013,Број,ravno,Ж,Одијевање и одржавање личне хигијене,7
+2013,Број,sanski_most,Ж,Одијевање и одржавање личне хигијене,159
+2013,Број,sapna,Ж,Одијевање и одржавање личне хигијене,33
+2013,Број,srebrenik,Ж,Одијевање и одржавање личне хигијене,301
+2013,Број,stari_grad_sarajevo,Ж,Одијевање и одржавање личне хигијене,275
+2013,Број,stolac,Ж,Одијевање и одржавање личне хигијене,115
+2013,Број,siroki_brijeg,Ж,Одијевање и одржавање личне хигијене,118
+2013,Број,teocak,Ж,Одијевање и одржавање личне хигијене,31
+2013,Број,tesanj,Ж,Одијевање и одржавање личне хигијене,279
+2013,Број,tomislavgrad,Ж,Одијевање и одржавање личне хигијене,97
+2013,Број,travnik,Ж,Одијевање и одржавање личне хигијене,345
+2013,Број,trnovo-fbih,Ж,Одијевање и одржавање личне хигијене,15
+2013,Број,tuzla,Ж,Одијевање и одржавање личне хигијене,1034
+2013,Број,usora,Ж,Одијевање и одржавање личне хигијене,31
+2013,Број,vares,Ж,Одијевање и одржавање личне хигијене,99
+2013,Број,velika_kladusa,Ж,Одијевање и одржавање личне хигијене,236
+2013,Број,visoko,Ж,Одијевање и одржавање личне хигијене,243
+2013,Број,vitez,Ж,Одијевање и одржавање личне хигијене,168
+2013,Број,vogosca,Ж,Одијевање и одржавање личне хигијене,180
+2013,Број,zavidovici,Ж,Одијевање и одржавање личне хигијене,223
+2013,Број,zenica,Ж,Одијевање и одржавање личне хигијене,693
+2013,Број,zepce,Ж,Одијевање и одржавање личне хигијене,121
+2013,Број,zivinice,Ж,Одијевање и одржавање личне хигијене,426
+2013,Број,banovici,Оба пола,Комуникација,185
+2013,Број,bihac,Оба пола,Комуникација,491
+2013,Број,bosanska_krupa,Оба пола,Комуникација,269
+2013,Број,bosanski_petrovac,Оба пола,Комуникација,98
+2013,Број,bosansko_grahovo,Оба пола,Комуникација,31
+2013,Број,breza,Оба пола,Комуникација,132
+2013,Број,bugojno,Оба пола,Комуникација,305
+2013,Број,busovaca,Оба пола,Комуникација,114
+2013,Број,buzim,Оба пола,Комуникација,190
+2013,Број,cazin,Оба пола,Комуникација,583
+2013,Број,centar_sarajevo,Оба пола,Комуникација,386
+2013,Број,capljina,Оба пола,Комуникација,217
+2013,Број,celic,Оба пола,Комуникација,90
+2013,Број,citluk,Оба пола,Комуникација,130
+2013,Број,doboj-istok,Оба пола,Комуникација,214
+2013,Број,doboj-jug,Оба пола,Комуникација,23
+2013,Број,dobretici,Оба пола,Комуникација,27
+2013,Број,domaljevac-samac,Оба пола,Комуникација,44
+2013,Број,donji_vakuf,Оба пола,Комуникација,108
+2013,Број,drvar,Оба пола,Комуникација,100
+2013,Број,foca-fbih,Оба пола,Комуникација,17
+2013,Број,fojnica,Оба пола,Комуникација,604
+2013,Број,glamoc,Оба пола,Комуникација,44
+2013,Број,gorazde,Оба пола,Комуникација,226
+2013,Број,gornji_vakuf-uskoplje,Оба пола,Комуникација,164
+2013,Број,gracanica,Оба пола,Комуникација,335
+2013,Број,gradacac,Оба пола,Комуникација,356
+2013,Број,grude,Оба пола,Комуникација,172
+2013,Број,hadzici,Оба пола,Комуникација,405
+2013,Број,ilidza,Оба пола,Комуникација,537
+2013,Број,ilijas,Оба пола,Комуникација,212
+2013,Број,jablanica,Оба пола,Комуникација,85
+2013,Број,jajce,Оба пола,Комуникација,206
+2013,Број,kakanj,Оба пола,Комуникација,320
+2013,Број,kalesija,Оба пола,Комуникација,275
+2013,Број,kiseljak,Оба пола,Комуникација,177
+2013,Број,kladanj,Оба пола,Комуникација,100
+2013,Број,kljuc,Оба пола,Комуникација,100
+2013,Број,konjic,Оба пола,Комуникација,208
+2013,Број,kresevo,Оба пола,Комуникација,45
+2013,Број,kupres-fbih,Оба пола,Комуникација,87
+2013,Број,livno,Оба пола,Комуникација,209
+2013,Број,lukavac,Оба пола,Комуникација,497
+2013,Број,ljubuski,Оба пола,Комуникација,230
+2013,Број,maglaj,Оба пола,Комуникација,224
+2013,Број,mostar,Оба пола,Комуникација,816
+2013,Број,neum,Оба пола,Комуникација,22
+2013,Број,novi_grad_sarajevo,Оба пола,Комуникација,956
+2013,Број,novi_travnik,Оба пола,Комуникација,210
+2013,Број,novo_sarajevo,Оба пола,Комуникација,505
+2013,Број,odzak,Оба пола,Комуникација,141
+2013,Број,olovo,Оба пола,Комуникација,115
+2013,Број,orasje,Оба пола,Комуникација,152
+2013,Број,pale-fbih,Оба пола,Комуникација,8
+2013,Број,posusje,Оба пола,Комуникација,147
+2013,Број,prozor,Оба пола,Комуникација,87
+2013,Број,ravno,Оба пола,Комуникација,13
+2013,Број,sanski_most,Оба пола,Комуникација,328
+2013,Број,sapna,Оба пола,Комуникација,58
+2013,Број,srebrenik,Оба пола,Комуникација,427
+2013,Број,stari_grad_sarajevo,Оба пола,Комуникација,367
+2013,Број,stolac,Оба пола,Комуникација,171
+2013,Број,siroki_brijeg,Оба пола,Комуникација,181
+2013,Број,teocak,Оба пола,Комуникација,49
+2013,Број,tesanj,Оба пола,Комуникација,356
+2013,Број,tomislavgrad,Оба пола,Комуникација,155
+2013,Број,travnik,Оба пола,Комуникација,440
+2013,Број,trnovo-fbih,Оба пола,Комуникација,17
+2013,Број,tuzla,Оба пола,Комуникација,1319
+2013,Број,usora,Оба пола,Комуникација,45
+2013,Број,vares,Оба пола,Комуникација,107
+2013,Број,velika_kladusa,Оба пола,Комуникација,408
+2013,Број,visoko,Оба пола,Комуникација,327
+2013,Број,vitez,Оба пола,Комуникација,216
+2013,Број,vogosca,Оба пола,Комуникација,252
+2013,Број,zavidovici,Оба пола,Комуникација,369
+2013,Број,zenica,Оба пола,Комуникација,958
+2013,Број,zepce,Оба пола,Комуникација,243
+2013,Број,zivinice,Оба пола,Комуникација,643
+2013,Број,banovici,M,Комуникација,76
+2013,Број,bihac,M,Комуникација,256
+2013,Број,bosanska_krupa,M,Комуникација,138
+2013,Број,bosanski_petrovac,M,Комуникација,47
+2013,Број,bosansko_grahovo,M,Комуникација,13
+2013,Број,breza,M,Комуникација,70
+2013,Број,bugojno,M,Комуникација,152
+2013,Број,busovaca,M,Комуникација,65
+2013,Број,buzim,M,Комуникација,106
+2013,Број,cazin,M,Комуникација,312
+2013,Број,centar_sarajevo,M,Комуникација,169
+2013,Број,capljina,M,Комуникација,116
+2013,Број,celic,M,Комуникација,41
+2013,Број,citluk,M,Комуникација,56
+2013,Број,doboj-istok,M,Комуникација,106
+2013,Број,doboj-jug,M,Комуникација,10
+2013,Број,dobretici,M,Комуникација,18
+2013,Број,domaljevac-samac,M,Комуникација,26
+2013,Број,donji_vakuf,M,Комуникација,47
+2013,Број,drvar,M,Комуникација,46
+2013,Број,foca-fbih,M,Комуникација,8
+2013,Број,fojnica,M,Комуникација,344
+2013,Број,glamoc,M,Комуникација,22
+2013,Број,gorazde,M,Комуникација,92
+2013,Број,gornji_vakuf-uskoplje,M,Комуникација,83
+2013,Број,gracanica,M,Комуникација,167
+2013,Број,gradacac,M,Комуникација,174
+2013,Број,grude,M,Комуникација,68
+2013,Број,hadzici,M,Комуникација,209
+2013,Број,ilidza,M,Комуникација,257
+2013,Број,ilijas,M,Комуникација,105
+2013,Број,jablanica,M,Комуникација,44
+2013,Број,jajce,M,Комуникација,104
+2013,Број,kakanj,M,Комуникација,165
+2013,Број,kalesija,M,Комуникација,139
+2013,Број,kiseljak,M,Комуникација,85
+2013,Број,kladanj,M,Комуникација,50
+2013,Број,kljuc,M,Комуникација,44
+2013,Број,konjic,M,Комуникација,101
+2013,Број,kresevo,M,Комуникација,24
+2013,Број,kupres-fbih,M,Комуникација,38
+2013,Број,livno,M,Комуникација,97
+2013,Број,lukavac,M,Комуникација,234
+2013,Број,ljubuski,M,Комуникација,114
+2013,Број,maglaj,M,Комуникација,92
+2013,Број,mostar,M,Комуникација,379
+2013,Број,neum,M,Комуникација,7
+2013,Број,novi_grad_sarajevo,M,Комуникација,440
+2013,Број,novi_travnik,M,Комуникација,96
+2013,Број,novo_sarajevo,M,Комуникација,227
+2013,Број,odzak,M,Комуникација,62
+2013,Број,olovo,M,Комуникација,47
+2013,Број,orasje,M,Комуникација,77
+2013,Број,pale-fbih,M,Комуникација,3
+2013,Број,posusje,M,Комуникација,80
+2013,Број,prozor,M,Комуникација,42
+2013,Број,ravno,M,Комуникација,6
+2013,Број,sanski_most,M,Комуникација,177
+2013,Број,sapna,M,Комуникација,34
+2013,Број,srebrenik,M,Комуникација,211
+2013,Број,stari_grad_sarajevo,M,Комуникација,170
+2013,Број,stolac,M,Комуникација,87
+2013,Број,siroki_brijeg,M,Комуникација,94
+2013,Број,teocak,M,Комуникација,28
+2013,Број,tesanj,M,Комуникација,162
+2013,Број,tomislavgrad,M,Комуникација,74
+2013,Број,travnik,M,Комуникација,210
+2013,Број,trnovo-fbih,M,Комуникација,7
+2013,Број,tuzla,M,Комуникација,619
+2013,Број,usora,M,Комуникација,22
+2013,Број,vares,M,Комуникација,52
+2013,Број,velika_kladusa,M,Комуникација,209
+2013,Број,visoko,M,Комуникација,160
+2013,Број,vitez,M,Комуникација,102
+2013,Број,vogosca,M,Комуникација,128
+2013,Број,zavidovici,M,Комуникација,184
+2013,Број,zenica,M,Комуникација,484
+2013,Број,zepce,M,Комуникација,128
+2013,Број,zivinice,M,Комуникација,308
+2013,Број,banovici,Ж,Комуникација,109
+2013,Број,bihac,Ж,Комуникација,235
+2013,Број,bosanska_krupa,Ж,Комуникација,131
+2013,Број,bosanski_petrovac,Ж,Комуникација,51
+2013,Број,bosansko_grahovo,Ж,Комуникација,18
+2013,Број,breza,Ж,Комуникација,62
+2013,Број,bugojno,Ж,Комуникација,153
+2013,Број,busovaca,Ж,Комуникација,49
+2013,Број,buzim,Ж,Комуникација,84
+2013,Број,cazin,Ж,Комуникација,271
+2013,Број,centar_sarajevo,Ж,Комуникација,217
+2013,Број,capljina,Ж,Комуникација,101
+2013,Број,celic,Ж,Комуникација,49
+2013,Број,citluk,Ж,Комуникација,74
+2013,Број,doboj-istok,Ж,Комуникација,108
+2013,Број,doboj-jug,Ж,Комуникација,13
+2013,Број,dobretici,Ж,Комуникација,9
+2013,Број,domaljevac-samac,Ж,Комуникација,18
+2013,Број,donji_vakuf,Ж,Комуникација,61
+2013,Број,drvar,Ж,Комуникација,54
+2013,Број,foca-fbih,Ж,Комуникација,9
+2013,Број,fojnica,Ж,Комуникација,260
+2013,Број,glamoc,Ж,Комуникација,22
+2013,Број,gorazde,Ж,Комуникација,134
+2013,Број,gornji_vakuf-uskoplje,Ж,Комуникација,81
+2013,Број,gracanica,Ж,Комуникација,168
+2013,Број,gradacac,Ж,Комуникација,182
+2013,Број,grude,Ж,Комуникација,104
+2013,Број,hadzici,Ж,Комуникација,196
+2013,Број,ilidza,Ж,Комуникација,280
+2013,Број,ilijas,Ж,Комуникација,107
+2013,Број,jablanica,Ж,Комуникација,41
+2013,Број,jajce,Ж,Комуникација,102
+2013,Број,kakanj,Ж,Комуникација,155
+2013,Број,kalesija,Ж,Комуникација,136
+2013,Број,kiseljak,Ж,Комуникација,92
+2013,Број,kladanj,Ж,Комуникација,50
+2013,Број,kljuc,Ж,Комуникација,56
+2013,Број,konjic,Ж,Комуникација,107
+2013,Број,kresevo,Ж,Комуникација,21
+2013,Број,kupres-fbih,Ж,Комуникација,49
+2013,Број,livno,Ж,Комуникација,112
+2013,Број,lukavac,Ж,Комуникација,263
+2013,Број,ljubuski,Ж,Комуникација,116
+2013,Број,maglaj,Ж,Комуникација,132
+2013,Број,mostar,Ж,Комуникација,437
+2013,Број,neum,Ж,Комуникација,15
+2013,Број,novi_grad_sarajevo,Ж,Комуникација,516
+2013,Број,novi_travnik,Ж,Комуникација,114
+2013,Број,novo_sarajevo,Ж,Комуникација,278
+2013,Број,odzak,Ж,Комуникација,79
+2013,Број,olovo,Ж,Комуникација,68
+2013,Број,orasje,Ж,Комуникација,75
+2013,Број,pale-fbih,Ж,Комуникација,5
+2013,Број,posusje,Ж,Комуникација,67
+2013,Број,prozor,Ж,Комуникација,45
+2013,Број,ravno,Ж,Комуникација,7
+2013,Број,sanski_most,Ж,Комуникација,151
+2013,Број,sapna,Ж,Комуникација,24
+2013,Број,srebrenik,Ж,Комуникација,216
+2013,Број,stari_grad_sarajevo,Ж,Комуникација,197
+2013,Број,stolac,Ж,Комуникација,84
+2013,Број,siroki_brijeg,Ж,Комуникација,87
+2013,Број,teocak,Ж,Комуникација,21
+2013,Број,tesanj,Ж,Комуникација,194
+2013,Број,tomislavgrad,Ж,Комуникација,81
+2013,Број,travnik,Ж,Комуникација,230
+2013,Број,trnovo-fbih,Ж,Комуникација,10
+2013,Број,tuzla,Ж,Комуникација,700
+2013,Број,usora,Ж,Комуникација,23
+2013,Број,vares,Ж,Комуникација,55
+2013,Број,velika_kladusa,Ж,Комуникација,199
+2013,Број,visoko,Ж,Комуникација,167
+2013,Број,vitez,Ж,Комуникација,114
+2013,Број,vogosca,Ж,Комуникација,124
+2013,Број,zavidovici,Ж,Комуникација,185
+2013,Број,zenica,Ж,Комуникација,474
+2013,Број,zepce,Ж,Комуникација,115
+2013,Број,zivinice,Ж,Комуникација,335
+2013,Број,banovici,Оба пола,Са више потешкоћа,640
+2013,Број,bihac,Оба пола,Са више потешкоћа,1780
+2013,Број,bosanska_krupa,Оба пола,Са више потешкоћа,911
+2013,Број,bosanski_petrovac,Оба пола,Са више потешкоћа,272
+2013,Број,bosansko_grahovo,Оба пола,Са више потешкоћа,148
+2013,Број,breza,Оба пола,Са више потешкоћа,442
+2013,Број,bugojno,Оба пола,Са више потешкоћа,921
+2013,Број,busovaca,Оба пола,Са више потешкоћа,450
+2013,Број,buzim,Оба пола,Са више потешкоћа,438
+2013,Број,cazin,Оба пола,Са више потешкоћа,1654
+2013,Број,centar_sarajevo,Оба пола,Са више потешкоћа,1789
+2013,Број,capljina,Оба пола,Са више потешкоћа,647
+2013,Број,celic,Оба пола,Са више потешкоћа,427
+2013,Број,citluk,Оба пола,Са више потешкоћа,418
+2013,Број,doboj-istok,Оба пола,Са више потешкоћа,403
+2013,Број,doboj-jug,Оба пола,Са више потешкоћа,115
+2013,Број,dobretici,Оба пола,Са више потешкоћа,65
+2013,Број,domaljevac-samac,Оба пола,Са више потешкоћа,171
+2013,Број,donji_vakuf,Оба пола,Са више потешкоћа,406
+2013,Број,drvar,Оба пола,Са више потешкоћа,398
+2013,Број,foca-fbih,Оба пола,Са више потешкоћа,72
+2013,Број,fojnica,Оба пола,Са више потешкоћа,946
+2013,Број,glamoc,Оба пола,Са више потешкоћа,203
+2013,Број,gorazde,Оба пола,Са више потешкоћа,907
+2013,Број,gornji_vakuf-uskoplje,Оба пола,Са више потешкоћа,478
+2013,Број,gracanica,Оба пола,Са више потешкоћа,1298
+2013,Број,gradacac,Оба пола,Са више потешкоћа,1151
+2013,Број,grude,Оба пола,Са више потешкоћа,377
+2013,Број,hadzici,Оба пола,Са више потешкоћа,973
+2013,Број,ilidza,Оба пола,Са више потешкоћа,1907
+2013,Број,ilijas,Оба пола,Са више потешкоћа,660
+2013,Број,jablanica,Оба пола,Са више потешкоћа,274
+2013,Број,jajce,Оба пола,Са више потешкоћа,757
+2013,Број,kakanj,Оба пола,Са више потешкоћа,898
+2013,Број,kalesija,Оба пола,Са више потешкоћа,1179
+2013,Број,kiseljak,Оба пола,Са више потешкоћа,569
+2013,Број,kladanj,Оба пола,Са више потешкоћа,389
+2013,Број,kljuc,Оба пола,Са више потешкоћа,349
+2013,Број,konjic,Оба пола,Са више потешкоћа,720
+2013,Број,kresevo,Оба пола,Са више потешкоћа,164
+2013,Број,kupres-fbih,Оба пола,Са више потешкоћа,141
+2013,Број,livno,Оба пола,Са више потешкоћа,595
+2013,Број,lukavac,Оба пола,Са више потешкоћа,2034
+2013,Број,ljubuski,Оба пола,Са више потешкоћа,633
+2013,Број,maglaj,Оба пола,Са више потешкоћа,770
+2013,Број,mostar,Оба пола,Са више потешкоћа,2580
+2013,Број,neum,Оба пола,Са више потешкоћа,107
+2013,Број,novi_grad_sarajevo,Оба пола,Са више потешкоћа,3772
+2013,Број,novi_travnik,Оба пола,Са више потешкоћа,714
+2013,Број,novo_sarajevo,Оба пола,Са више потешкоћа,1938
+2013,Број,odzak,Оба пола,Са више потешкоћа,393
+2013,Број,olovo,Оба пола,Са више потешкоћа,431
+2013,Број,orasje,Оба пола,Са више потешкоћа,563
+2013,Број,pale-fbih,Оба пола,Са више потешкоћа,51
+2013,Број,posusje,Оба пола,Са више потешкоћа,398
+2013,Број,prozor,Оба пола,Са више потешкоћа,232
+2013,Број,ravno,Оба пола,Са више потешкоћа,40
+2013,Број,sanski_most,Оба пола,Са више потешкоћа,831
+2013,Број,sapna,Оба пола,Са више потешкоћа,215
+2013,Број,srebrenik,Оба пола,Са више потешкоћа,1583
+2013,Број,stari_grad_sarajevo,Оба пола,Са више потешкоћа,1390
+2013,Број,stolac,Оба пола,Са више потешкоћа,430
+2013,Број,siroki_brijeg,Оба пола,Са више потешкоћа,486
+2013,Број,teocak,Оба пола,Са више потешкоћа,177
+2013,Број,tesanj,Оба пола,Са више потешкоћа,1103
+2013,Број,tomislavgrad,Оба пола,Са више потешкоћа,368
+2013,Број,travnik,Оба пола,Са више потешкоћа,1480
+2013,Број,trnovo-fbih,Оба пола,Са више потешкоћа,74
+2013,Број,tuzla,Оба пола,Са више потешкоћа,5315
+2013,Број,usora,Оба пола,Са више потешкоћа,148
+2013,Број,vares,Оба пола,Са више потешкоћа,482
+2013,Број,velika_kladusa,Оба пола,Са више потешкоћа,1323
+2013,Број,visoko,Оба пола,Са више потешкоћа,1069
+2013,Број,vitez,Оба пола,Са више потешкоћа,737
+2013,Број,vogosca,Оба пола,Са више потешкоћа,939
+2013,Број,zavidovici,Оба пола,Са више потешкоћа,1338
+2013,Број,zenica,Оба пола,Са више потешкоћа,3314
+2013,Број,zepce,Оба пола,Са више потешкоћа,814
+2013,Број,zivinice,Оба пола,Са више потешкоћа,2382
+2013,Број,banovici,M,Са више потешкоћа,229
+2013,Број,bihac,M,Са више потешкоћа,782
+2013,Број,bosanska_krupa,M,Са више потешкоћа,431
+2013,Број,bosanski_petrovac,M,Са више потешкоћа,117
+2013,Број,bosansko_grahovo,M,Са више потешкоћа,56
+2013,Број,breza,M,Са више потешкоћа,194
+2013,Број,bugojno,M,Са више потешкоћа,408
+2013,Број,busovaca,M,Са више потешкоћа,206
+2013,Број,buzim,M,Са више потешкоћа,228
+2013,Број,cazin,M,Са више потешкоћа,779
+2013,Број,centar_sarajevo,M,Са више потешкоћа,668
+2013,Број,capljina,M,Са више потешкоћа,293
+2013,Број,celic,M,Са више потешкоћа,185
+2013,Број,citluk,M,Са више потешкоћа,179
+2013,Број,doboj-istok,M,Са више потешкоћа,186
+2013,Број,doboj-jug,M,Са више потешкоћа,52
+2013,Број,dobretici,M,Са више потешкоћа,42
+2013,Број,domaljevac-samac,M,Са више потешкоћа,81
+2013,Број,donji_vakuf,M,Са више потешкоћа,200
+2013,Број,drvar,M,Са више потешкоћа,148
+2013,Број,foca-fbih,M,Са више потешкоћа,31
+2013,Број,fojnica,M,Са више потешкоћа,477
+2013,Број,glamoc,M,Са више потешкоћа,89
+2013,Број,gorazde,M,Са више потешкоћа,372
+2013,Број,gornji_vakuf-uskoplje,M,Са више потешкоћа,215
+2013,Број,gracanica,M,Са више потешкоћа,551
+2013,Број,gradacac,M,Са више потешкоћа,487
+2013,Број,grude,M,Са више потешкоћа,159
+2013,Број,hadzici,M,Са више потешкоћа,446
+2013,Број,ilidza,M,Са више потешкоћа,763
+2013,Број,ilijas,M,Са више потешкоћа,275
+2013,Број,jablanica,M,Са више потешкоћа,112
+2013,Број,jajce,M,Са више потешкоћа,337
+2013,Број,kakanj,M,Са више потешкоћа,371
+2013,Број,kalesija,M,Са више потешкоћа,521
+2013,Број,kiseljak,M,Са више потешкоћа,245
+2013,Број,kladanj,M,Са више потешкоћа,156
+2013,Број,kljuc,M,Са више потешкоћа,143
+2013,Број,konjic,M,Са више потешкоћа,300
+2013,Број,kresevo,M,Са више потешкоћа,61
+2013,Број,kupres-fbih,M,Са више потешкоћа,57
+2013,Број,livno,M,Са више потешкоћа,265
+2013,Број,lukavac,M,Са више потешкоћа,794
+2013,Број,ljubuski,M,Са више потешкоћа,258
+2013,Број,maglaj,M,Са више потешкоћа,313
+2013,Број,mostar,M,Са више потешкоћа,1081
+2013,Број,neum,M,Са више потешкоћа,41
+2013,Број,novi_grad_sarajevo,M,Са више потешкоћа,1445
+2013,Број,novi_travnik,M,Са више потешкоћа,329
+2013,Број,novo_sarajevo,M,Са више потешкоћа,722
+2013,Број,odzak,M,Са више потешкоћа,169
+2013,Број,olovo,M,Са више потешкоћа,153
+2013,Број,orasje,M,Са више потешкоћа,232
+2013,Број,pale-fbih,M,Са више потешкоћа,20
+2013,Број,posusje,M,Са више потешкоћа,210
+2013,Број,prozor,M,Са више потешкоћа,97
+2013,Број,ravno,M,Са више потешкоћа,15
+2013,Број,sanski_most,M,Са више потешкоћа,376
+2013,Број,sapna,M,Са више потешкоћа,102
+2013,Број,srebrenik,M,Са више потешкоћа,613
+2013,Број,stari_grad_sarajevo,M,Са више потешкоћа,536
+2013,Број,stolac,M,Са више потешкоћа,192
+2013,Број,siroki_brijeg,M,Са више потешкоћа,205
+2013,Број,teocak,M,Са више потешкоћа,70
+2013,Број,tesanj,M,Са више потешкоћа,451
+2013,Број,tomislavgrad,M,Са више потешкоћа,159
+2013,Број,travnik,M,Са више потешкоћа,616
+2013,Број,trnovo-fbih,M,Са више потешкоћа,31
+2013,Број,tuzla,M,Са више потешкоћа,2063
+2013,Број,usora,M,Са више потешкоћа,59
+2013,Број,vares,M,Са више потешкоћа,189
+2013,Број,velika_kladusa,M,Са више потешкоћа,588
+2013,Број,visoko,M,Са више потешкоћа,464
+2013,Број,vitez,M,Са више потешкоћа,305
+2013,Број,vogosca,M,Са више потешкоћа,392
+2013,Број,zavidovici,M,Са више потешкоћа,583
+2013,Број,zenica,M,Са више потешкоћа,1372
+2013,Број,zepce,M,Са више потешкоћа,347
+2013,Број,zivinice,M,Са више потешкоћа,984
+2013,Број,banovici,Ж,Са више потешкоћа,411
+2013,Број,bihac,Ж,Са више потешкоћа,998
+2013,Број,bosanska_krupa,Ж,Са више потешкоћа,480
+2013,Број,bosanski_petrovac,Ж,Са више потешкоћа,155
+2013,Број,bosansko_grahovo,Ж,Са више потешкоћа,92
+2013,Број,breza,Ж,Са више потешкоћа,248
+2013,Број,bugojno,Ж,Са више потешкоћа,513
+2013,Број,busovaca,Ж,Са више потешкоћа,244
+2013,Број,buzim,Ж,Са више потешкоћа,210
+2013,Број,cazin,Ж,Са више потешкоћа,875
+2013,Број,centar_sarajevo,Ж,Са више потешкоћа,1121
+2013,Број,capljina,Ж,Са више потешкоћа,354
+2013,Број,celic,Ж,Са више потешкоћа,242
+2013,Број,citluk,Ж,Са више потешкоћа,239
+2013,Број,doboj-istok,Ж,Са више потешкоћа,217
+2013,Број,doboj-jug,Ж,Са више потешкоћа,63
+2013,Број,dobretici,Ж,Са више потешкоћа,23
+2013,Број,domaljevac-samac,Ж,Са више потешкоћа,90
+2013,Број,donji_vakuf,Ж,Са више потешкоћа,206
+2013,Број,drvar,Ж,Са више потешкоћа,250
+2013,Број,foca-fbih,Ж,Са више потешкоћа,41
+2013,Број,fojnica,Ж,Са више потешкоћа,469
+2013,Број,glamoc,Ж,Са више потешкоћа,114
+2013,Број,gorazde,Ж,Са више потешкоћа,535
+2013,Број,gornji_vakuf-uskoplje,Ж,Са више потешкоћа,263
+2013,Број,gracanica,Ж,Са више потешкоћа,747
+2013,Број,gradacac,Ж,Са више потешкоћа,664
+2013,Број,grude,Ж,Са више потешкоћа,218
+2013,Број,hadzici,Ж,Са више потешкоћа,527
+2013,Број,ilidza,Ж,Са више потешкоћа,1144
+2013,Број,ilijas,Ж,Са више потешкоћа,385
+2013,Број,jablanica,Ж,Са више потешкоћа,162
+2013,Број,jajce,Ж,Са више потешкоћа,420
+2013,Број,kakanj,Ж,Са више потешкоћа,527
+2013,Број,kalesija,Ж,Са више потешкоћа,658
+2013,Број,kiseljak,Ж,Са више потешкоћа,324
+2013,Број,kladanj,Ж,Са више потешкоћа,233
+2013,Број,kljuc,Ж,Са више потешкоћа,206
+2013,Број,konjic,Ж,Са више потешкоћа,420
+2013,Број,kresevo,Ж,Са више потешкоћа,103
+2013,Број,kupres-fbih,Ж,Са више потешкоћа,84
+2013,Број,livno,Ж,Са више потешкоћа,330
+2013,Број,lukavac,Ж,Са више потешкоћа,1240
+2013,Број,ljubuski,Ж,Са више потешкоћа,375
+2013,Број,maglaj,Ж,Са више потешкоћа,457
+2013,Број,mostar,Ж,Са више потешкоћа,1499
+2013,Број,neum,Ж,Са више потешкоћа,66
+2013,Број,novi_grad_sarajevo,Ж,Са више потешкоћа,2327
+2013,Број,novi_travnik,Ж,Са више потешкоћа,385
+2013,Број,novo_sarajevo,Ж,Са више потешкоћа,1216
+2013,Број,odzak,Ж,Са више потешкоћа,224
+2013,Број,olovo,Ж,Са више потешкоћа,278
+2013,Број,orasje,Ж,Са више потешкоћа,331
+2013,Број,pale-fbih,Ж,Са више потешкоћа,31
+2013,Број,posusje,Ж,Са више потешкоћа,188
+2013,Број,prozor,Ж,Са више потешкоћа,135
+2013,Број,ravno,Ж,Са више потешкоћа,25
+2013,Број,sanski_most,Ж,Са више потешкоћа,455
+2013,Број,sapna,Ж,Са више потешкоћа,113
+2013,Број,srebrenik,Ж,Са више потешкоћа,970
+2013,Број,stari_grad_sarajevo,Ж,Са више потешкоћа,854
+2013,Број,stolac,Ж,Са више потешкоћа,238
+2013,Број,siroki_brijeg,Ж,Са више потешкоћа,281
+2013,Број,teocak,Ж,Са више потешкоћа,107
+2013,Број,tesanj,Ж,Са више потешкоћа,652
+2013,Број,tomislavgrad,Ж,Са више потешкоћа,209
+2013,Број,travnik,Ж,Са више потешкоћа,864
+2013,Број,trnovo-fbih,Ж,Са више потешкоћа,43
+2013,Број,tuzla,Ж,Са више потешкоћа,3252
+2013,Број,usora,Ж,Са више потешкоћа,89
+2013,Број,vares,Ж,Са више потешкоћа,293
+2013,Број,velika_kladusa,Ж,Са више потешкоћа,735
+2013,Број,visoko,Ж,Са више потешкоћа,605
+2013,Број,vitez,Ж,Са више потешкоћа,432
+2013,Број,vogosca,Ж,Са више потешкоћа,547
+2013,Број,zavidovici,Ж,Са више потешкоћа,755
+2013,Број,zenica,Ж,Са више потешкоћа,1942
+2013,Број,zepce,Ж,Са више потешкоћа,467
+2013,Број,zivinice,Ж,Са више потешкоћа,1398

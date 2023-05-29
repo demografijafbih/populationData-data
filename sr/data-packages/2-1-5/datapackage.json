@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "Municipality",
@@ -107,7 +107,7 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Град/општина"
           },
           {
             "name": "No_of_births",
@@ -115,12 +115,12 @@
             "constraints": {
               "enum": [
                 "T",
-                "did_not_give_birth",
-                "one_child",
-                "two_children",
-                "three_children",
-                "four_children",
-                "5+_children",
+                "Нису рађале",
+                "1 дијете",
+                "2 дјеце",
+                "3 дјеце",
+                "4 дјеце",
+                "5 и више дјеце",
                 ""
               ]
             },
@@ -129,7 +129,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }
