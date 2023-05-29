@@ -85,7 +85,7 @@ injuries_poisoning_and_consequences: "(С00-Т98) Повреде, тровања
 external_causes_of_mortality: "(В01-Y98) Спољни узроци смртности"
 factors_influencing_health_status: "(З00-З99) Фактори који утичу на здравствено стање и контакт са здравственом службом"
 total: Укупно
-EDUCATION: Ниво образовања
+Education: Ниво образовања
 women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever): Жене које су доживјеле било који облик насиља у доби од 15 година (било када)
 women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(past_12_months): Жене које су доживјеле било који облик насиља након навршених 15 година живота (у протеклих 12 мјесеци)
 women_who_have_experienced_any_form_of_partner_violence_after_the_age_of_15_(ever): Жене које су доживјеле било који облик насиља од партнера након навршених 15 година живота (било када)
