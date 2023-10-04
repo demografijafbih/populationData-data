@@ -199,16 +199,16 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,494
 2019,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,448
 2020,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,443
-2011,Number,Both sexes,special_purpose_codes,0
-2012,Number,Both sexes,special_purpose_codes,0
-2013,Number,Both sexes,special_purpose_codes,0
-2014,Number,Both sexes,special_purpose_codes,0
-2015,Number,Both sexes,special_purpose_codes,0
-2016,Number,Both sexes,special_purpose_codes,0
-2017,Number,Both sexes,special_purpose_codes,0
-2018,Number,Both sexes,special_purpose_codes,0
-2019,Number,Both sexes,special_purpose_codes,0
-2020,Number,Both sexes,special_purpose_codes,2690
+2011,Number,Both sexes,(U00-U85) Special purpose codes,0
+2012,Number,Both sexes,(U00-U85) Special purpose codes,0
+2013,Number,Both sexes,(U00-U85) Special purpose codes,0
+2014,Number,Both sexes,(U00-U85) Special purpose codes,0
+2015,Number,Both sexes,(U00-U85) Special purpose codes,0
+2016,Number,Both sexes,(U00-U85) Special purpose codes,0
+2017,Number,Both sexes,(U00-U85) Special purpose codes,0
+2018,Number,Both sexes,(U00-U85) Special purpose codes,0
+2019,Number,Both sexes,(U00-U85) Special purpose codes,0
+2020,Number,Both sexes,(U00-U85) Special purpose codes,2690
 2011,Number,Both sexes,Unknown,456
 2012,Number,Both sexes,Unknown,543
 2013,Number,Both sexes,Unknown,579
@@ -409,16 +409,16 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,injuries_poisonings_and_consequences_of_external_factors,373
 2019,Number,M,injuries_poisonings_and_consequences_of_external_factors,330
 2020,Number,M,injuries_poisonings_and_consequences_of_external_factors,337
-2011,Number,M,special_purpose_codes,0
-2012,Number,M,special_purpose_codes,0
-2013,Number,M,special_purpose_codes,0
-2014,Number,M,special_purpose_codes,0
-2015,Number,M,special_purpose_codes,0
-2016,Number,M,special_purpose_codes,0
-2017,Number,M,special_purpose_codes,0
-2018,Number,M,special_purpose_codes,0
-2019,Number,M,special_purpose_codes,0
-2020,Number,M,special_purpose_codes,1711
+2011,Number,M,(U00-U85) Special purpose codes,0
+2012,Number,M,(U00-U85) Special purpose codes,0
+2013,Number,M,(U00-U85) Special purpose codes,0
+2014,Number,M,(U00-U85) Special purpose codes,0
+2015,Number,M,(U00-U85) Special purpose codes,0
+2016,Number,M,(U00-U85) Special purpose codes,0
+2017,Number,M,(U00-U85) Special purpose codes,0
+2018,Number,M,(U00-U85) Special purpose codes,0
+2019,Number,M,(U00-U85) Special purpose codes,0
+2020,Number,M,(U00-U85) Special purpose codes,1711
 2011,Number,M,Unknown,251
 2012,Number,M,Unknown,299
 2013,Number,M,Unknown,296
@@ -629,16 +629,16 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,injuries_poisonings_and_consequences_of_external_factors,121
 2019,Number,F,injuries_poisonings_and_consequences_of_external_factors,118
 2020,Number,F,injuries_poisonings_and_consequences_of_external_factors,106
-2011,Number,F,special_purpose_codes,0
-2012,Number,F,special_purpose_codes,0
-2013,Number,F,special_purpose_codes,0
-2014,Number,F,special_purpose_codes,0
-2015,Number,F,special_purpose_codes,0
-2016,Number,F,special_purpose_codes,0
-2017,Number,F,special_purpose_codes,0
-2018,Number,F,special_purpose_codes,0
-2019,Number,F,special_purpose_codes,0
-2020,Number,F,special_purpose_codes,979
+2011,Number,F,(U00-U85) Special purpose codes,0
+2012,Number,F,(U00-U85) Special purpose codes,0
+2013,Number,F,(U00-U85) Special purpose codes,0
+2014,Number,F,(U00-U85) Special purpose codes,0
+2015,Number,F,(U00-U85) Special purpose codes,0
+2016,Number,F,(U00-U85) Special purpose codes,0
+2017,Number,F,(U00-U85) Special purpose codes,0
+2018,Number,F,(U00-U85) Special purpose codes,0
+2019,Number,F,(U00-U85) Special purpose codes,0
+2020,Number,F,(U00-U85) Special purpose codes,979
 2011,Number,F,Unknown,205
 2012,Number,F,Unknown,244
 2013,Number,F,Unknown,283

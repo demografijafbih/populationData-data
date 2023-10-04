@@ -34,7 +34,7 @@
                 "(C00-C97,D00-D48) Neoplasms",
                 "pregnancy_childbirth_and_puerperium",
                 "skin_and_subcutaneous_tissue_disorders",
-                "special_purpose_codes",
+                "(U00-U85) Special purpose codes",
                 "symptoms_signs_and_abnormal_clinical_and_laboratory_findings",
                 "Total",
                 "Unknown"
