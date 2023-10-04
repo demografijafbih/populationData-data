@@ -47,7 +47,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2001,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,667
 2001,Both sexes,(F00-F99) Mental and behavioural disorders,Number,48
 2001,Both sexes,(G00-G99) Diseases of the nervous system,Number,161
-2001,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2001,Both sexes,(H00-H59) Diseases of the eye,Number,1
 2001,Both sexes,(I00-I99) Diseases of the circulatory system,Number,16328
 2001,Both sexes,(J00-J99) Diseases of the respiratory system,Number,745
 2001,Both sexes,(K00-K93) Diseases of the digestive system,Number,827
@@ -69,7 +69,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2001,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,240
 2001,M,(F00-F99) Mental and behavioural disorders,Number,37
 2001,M,(G00-G99) Diseases of the nervous system,Number,79
-2001,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2001,M,(H00-H59) Diseases of the eye,Number,1
 2001,M,(I00-I99) Diseases of the circulatory system,Number,7943
 2001,M,(J00-J99) Diseases of the respiratory system,Number,434
 2001,M,(K00-K93) Diseases of the digestive system,Number,540
@@ -110,7 +110,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2002,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,862
 2002,Both sexes,(F00-F99) Mental and behavioural disorders,Number,66
 2002,Both sexes,(G00-G99) Diseases of the nervous system,Number,157
-2002,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2002,Both sexes,(H00-H59) Diseases of the eye,Number,1
 2002,Both sexes,(I00-I99) Diseases of the circulatory system,Number,16007
 2002,Both sexes,(J00-J99) Diseases of the respiratory system,Number,817
 2002,Both sexes,(K00-K93) Diseases of the digestive system,Number,820
@@ -132,7 +132,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2002,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,300
 2002,M,(F00-F99) Mental and behavioural disorders,Number,39
 2002,M,(G00-G99) Diseases of the nervous system,Number,87
-2002,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2002,M,(H00-H59) Diseases of the eye,Number,1
 2002,M,(I00-I99) Diseases of the circulatory system,Number,7544
 2002,M,(J00-J99) Diseases of the respiratory system,Number,478
 2002,M,(K00-K93) Diseases of the digestive system,Number,495
@@ -279,7 +279,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2006,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1537
 2006,Both sexes,(F00-F99) Mental and behavioural disorders,Number,118
 2006,Both sexes,(G00-G99) Diseases of the nervous system,Number,298
-2006,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2006,Both sexes,(H00-H59) Diseases of the eye,Number,1
 2006,Both sexes,(I00-I99) Diseases of the circulatory system,Number,16967
 2006,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1132
 2006,Both sexes,(K00-K93) Diseases of the digestive system,Number,826
@@ -320,7 +320,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2006,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,939
 2006,F,(F00-F99) Mental and behavioural disorders,Number,30
 2006,F,(G00-G99) Diseases of the nervous system,Number,124
-2006,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2006,F,(H00-H59) Diseases of the eye,Number,1
 2006,F,(I00-I99) Diseases of the circulatory system,Number,9026
 2006,F,(J00-J99) Diseases of the respiratory system,Number,455
 2006,F,(K00-K93) Diseases of the digestive system,Number,333
@@ -342,7 +342,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2007,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1582
 2007,Both sexes,(F00-F99) Mental and behavioural disorders,Number,162
 2007,Both sexes,(G00-G99) Diseases of the nervous system,Number,317
-2007,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2007,Both sexes,(H00-H59) Diseases of the eye,Number,1
 2007,Both sexes,(I00-I99) Diseases of the circulatory system,Number,18516
 2007,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1145
 2007,Both sexes,(K00-K93) Diseases of the digestive system,Number,924
@@ -363,7 +363,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2007,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,609
 2007,M,(F00-F99) Mental and behavioural disorders,Number,113
 2007,M,(G00-G99) Diseases of the nervous system,Number,161
-2007,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2007,M,(H00-H59) Diseases of the eye,Number,1
 2007,M,(I00-I99) Diseases of the circulatory system,Number,8697
 2007,M,(J00-J99) Diseases of the respiratory system,Number,664
 2007,M,(K00-K93) Diseases of the digestive system,Number,570
@@ -403,7 +403,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2008,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1563
 2008,Both sexes,(F00-F99) Mental and behavioural disorders,Number,169
 2008,Both sexes,(G00-G99) Diseases of the nervous system,Number,287
-2008,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2008,Both sexes,(H00-H59) Diseases of the eye,Number,1
 2008,Both sexes,(I00-I99) Diseases of the circulatory system,Number,17988
 2008,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1035
 2008,Both sexes,(K00-K93) Diseases of the digestive system,Number,846
@@ -443,7 +443,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2008,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,945
 2008,F,(F00-F99) Mental and behavioural disorders,Number,42
 2008,F,(G00-G99) Diseases of the nervous system,Number,120
-2008,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2008,F,(H00-H59) Diseases of the eye,Number,1
 2008,F,(I00-I99) Diseases of the circulatory system,Number,9603
 2008,F,(J00-J99) Diseases of the respiratory system,Number,408
 2008,F,(K00-K93) Diseases of the digestive system,Number,334
@@ -524,7 +524,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2010,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1903
 2010,Both sexes,(F00-F99) Mental and behavioural disorders,Number,171
 2010,Both sexes,(G00-G99) Diseases of the nervous system,Number,350
-2010,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,2
+2010,Both sexes,(H00-H59) Diseases of the eye,Number,2
 2010,Both sexes,(I00-I99) Diseases of the circulatory system,Number,18805
 2010,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1145
 2010,Both sexes,(K00-K93) Diseases of the digestive system,Number,918
@@ -545,7 +545,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2010,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,729
 2010,M,(F00-F99) Mental and behavioural disorders,Number,118
 2010,M,(G00-G99) Diseases of the nervous system,Number,178
-2010,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2010,M,(H00-H59) Diseases of the eye,Number,1
 2010,M,(I00-I99) Diseases of the circulatory system,Number,8699
 2010,M,(J00-J99) Diseases of the respiratory system,Number,681
 2010,M,(K00-K93) Diseases of the digestive system,Number,544
@@ -565,7 +565,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2010,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1174
 2010,F,(F00-F99) Mental and behavioural disorders,Number,53
 2010,F,(G00-G99) Diseases of the nervous system,Number,172
-2010,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2010,F,(H00-H59) Diseases of the eye,Number,1
 2010,F,(I00-I99) Diseases of the circulatory system,Number,10106
 2010,F,(J00-J99) Diseases of the respiratory system,Number,464
 2010,F,(K00-K93) Diseases of the digestive system,Number,374
@@ -647,7 +647,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2012,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1926
 2012,Both sexes,(F00-F99) Mental and behavioural disorders,Number,160
 2012,Both sexes,(G00-G99) Diseases of the nervous system,Number,409
-2012,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2012,Both sexes,(H00-H59) Diseases of the eye,Number,1
 2012,Both sexes,(I00-I99) Diseases of the circulatory system,Number,19252
 2012,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1266
 2012,Both sexes,(K00-K93) Diseases of the digestive system,Number,978
@@ -685,7 +685,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2012,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1141
 2012,F,(F00-F99) Mental and behavioural disorders,Number,51
 2012,F,(G00-G99) Diseases of the nervous system,Number,202
-2012,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2012,F,(H00-H59) Diseases of the eye,Number,1
 2012,F,(I00-I99) Diseases of the circulatory system,Number,10192
 2012,F,(J00-J99) Diseases of the respiratory system,Number,512
 2012,F,(K00-K93) Diseases of the digestive system,Number,390
@@ -761,7 +761,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2014,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,2267
 2014,Both sexes,(F00-F99) Mental and behavioural disorders,Number,225
 2014,Both sexes,(G00-G99) Diseases of the nervous system,Number,396
-2014,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,6
+2014,Both sexes,(H00-H59) Diseases of the eye,Number,6
 2014,Both sexes,(I00-I99) Diseases of the circulatory system,Number,17930
 2014,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1409
 2014,Both sexes,(K00-K93) Diseases of the digestive system,Number,949
@@ -801,7 +801,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2014,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1342
 2014,F,(F00-F99) Mental and behavioural disorders,Number,83
 2014,F,(G00-G99) Diseases of the nervous system,Number,189
-2014,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,6
+2014,F,(H00-H59) Diseases of the eye,Number,6
 2014,F,(I00-I99) Diseases of the circulatory system,Number,9594
 2014,F,(J00-J99) Diseases of the respiratory system,Number,569
 2014,F,(K00-K93) Diseases of the digestive system,Number,404
@@ -822,7 +822,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2015,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,2025
 2015,Both sexes,(F00-F99) Mental and behavioural disorders,Number,188
 2015,Both sexes,(G00-G99) Diseases of the nervous system,Number,447
-2015,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2015,Both sexes,(H00-H59) Diseases of the eye,Number,1
 2015,Both sexes,(I00-I99) Diseases of the circulatory system,Number,19713
 2015,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1718
 2015,Both sexes,(K00-K93) Diseases of the digestive system,Number,988
@@ -862,7 +862,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2015,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1169
 2015,F,(F00-F99) Mental and behavioural disorders,Number,86
 2015,F,(G00-G99) Diseases of the nervous system,Number,206
-2015,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,1
+2015,F,(H00-H59) Diseases of the eye,Number,1
 2015,F,(I00-I99) Diseases of the circulatory system,Number,10701
 2015,F,(J00-J99) Diseases of the respiratory system,Number,746
 2015,F,(K00-K93) Diseases of the digestive system,Number,417
@@ -883,7 +883,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2016,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1961
 2016,Both sexes,(F00-F99) Mental and behavioural disorders,Number,226
 2016,Both sexes,(G00-G99) Diseases of the nervous system,Number,386
-2016,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,8
+2016,Both sexes,(H00-H59) Diseases of the eye,Number,8
 2016,Both sexes,(I00-I99) Diseases of the circulatory system,Number,18959
 2016,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1487
 2016,Both sexes,(K00-K93) Diseases of the digestive system,Number,1077
@@ -904,7 +904,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2016,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,789
 2016,M,(F00-F99) Mental and behavioural disorders,Number,141
 2016,M,(G00-G99) Diseases of the nervous system,Number,213
-2016,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,6
+2016,M,(H00-H59) Diseases of the eye,Number,6
 2016,M,(I00-I99) Diseases of the circulatory system,Number,8780
 2016,M,(J00-J99) Diseases of the respiratory system,Number,879
 2016,M,(K00-K93) Diseases of the digestive system,Number,619
@@ -924,7 +924,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2016,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1172
 2016,F,(F00-F99) Mental and behavioural disorders,Number,85
 2016,F,(G00-G99) Diseases of the nervous system,Number,173
-2016,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,2
+2016,F,(H00-H59) Diseases of the eye,Number,2
 2016,F,(I00-I99) Diseases of the circulatory system,Number,10179
 2016,F,(J00-J99) Diseases of the respiratory system,Number,608
 2016,F,(K00-K93) Diseases of the digestive system,Number,458
@@ -945,7 +945,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2017,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,2170
 2017,Both sexes,(F00-F99) Mental and behavioural disorders,Number,265
 2017,Both sexes,(G00-G99) Diseases of the nervous system,Number,382
-2017,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,5
+2017,Both sexes,(H00-H59) Diseases of the eye,Number,5
 2017,Both sexes,(I00-I99) Diseases of the circulatory system,Number,19207
 2017,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1579
 2017,Both sexes,(K00-K93) Diseases of the digestive system,Number,1007
@@ -965,7 +965,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2017,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,885
 2017,M,(F00-F99) Mental and behavioural disorders,Number,147
 2017,M,(G00-G99) Diseases of the nervous system,Number,193
-2017,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,2
+2017,M,(H00-H59) Diseases of the eye,Number,2
 2017,M,(I00-I99) Diseases of the circulatory system,Number,8880
 2017,M,(J00-J99) Diseases of the respiratory system,Number,936
 2017,M,(K00-K93) Diseases of the digestive system,Number,570
@@ -985,7 +985,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2017,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1285
 2017,F,(F00-F99) Mental and behavioural disorders,Number,118
 2017,F,(G00-G99) Diseases of the nervous system,Number,189
-2017,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,3
+2017,F,(H00-H59) Diseases of the eye,Number,3
 2017,F,(I00-I99) Diseases of the circulatory system,Number,10327
 2017,F,(J00-J99) Diseases of the respiratory system,Number,643
 2017,F,(K00-K93) Diseases of the digestive system,Number,437
@@ -1066,7 +1066,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2019,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1925
 2019,Both sexes,(F00-F99) Mental and behavioural disorders,Number,290
 2019,Both sexes,(G00-G99) Diseases of the nervous system,Number,388
-2019,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",Number,9
+2019,Both sexes,(H00-H59) Diseases of the eye,Number,9
 2019,Both sexes,(I00-I99) Diseases of the circulatory system,Number,18939
 2019,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1946
 2019,Both sexes,(K00-K93) Diseases of the digestive system,Number,1043
@@ -1088,7 +1088,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2019,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,806
 2019,M,(F00-F99) Mental and behavioural disorders,Number,153
 2019,M,(G00-G99) Diseases of the nervous system,Number,202
-2019,M,"(H00-H93) Diseases of the eye, ear and adnexa",Number,3
+2019,M,(H00-H59) Diseases of the eye,Number,3
 2019,M,(I00-I99) Diseases of the circulatory system,Number,8848
 2019,M,(J00-J99) Diseases of the respiratory system,Number,1076
 2019,M,(K00-K93) Diseases of the digestive system,Number,603
@@ -1109,7 +1109,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2019,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1119
 2019,F,(F00-F99) Mental and behavioural disorders,Number,137
 2019,F,(G00-G99) Diseases of the nervous system,Number,186
-2019,F,"(H00-H93) Diseases of the eye, ear and adnexa",Number,6
+2019,F,(H00-H59) Diseases of the eye,Number,6
 2019,F,(I00-I99) Diseases of the circulatory system,Number,10091
 2019,F,(J00-J99) Diseases of the respiratory system,Number,870
 2019,F,(K00-K93) Diseases of the digestive system,Number,440
