@@ -35,7 +35,7 @@ neoplasms,"(C00-C97,D00-D48) Neoplasms","(C00-C97,D00-D48) Neoplazme","(Ц00-Ц9
 pregnancy_childbirth_and_puerperium,pregnancy_childbirth_and_puerperium,pregnancy_childbirth_and_puerperium,pregnancy_childbirth_and_puerperium,pregnancy_childbirth_and_puerperium,2,1
 pregnancy_childbirth_and_the,"(O00-O99) Pregnancy, childbirth and the puerperium","(O00-O99) Trudnoća, porođaj i postporođajni period","(О00-О99) Трудноћа, порођај и постпорођајни период","(O00-O99) Trudnoća, porođaj i postporođajni period",3,2
 skin_and_subcutaneous_tissue_disorders,skin_and_subcutaneous_tissue_disorders,skin_and_subcutaneous_tissue_disorders,skin_and_subcutaneous_tissue_disorders,skin_and_subcutaneous_tissue_disorders,3,1
-special_purpose_codes,(U00-U85) Special purpose codes,special_purpose_codes,special_purpose_codes,special_purpose_codes,3,1
+special_purpose_codes,(U00-U99) Special purpose codes,special_purpose_codes,special_purpose_codes,special_purpose_codes,3,1
 symptoms_signs_and_abnormal,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani","(Р00-Р99) Симптоми, знакови и абнормални клинички и лабораторијски налази који нису другдје класифицирани","(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo",4,2
 symptoms_signs_and_abnormal_clinical_and_laboratory_findings,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,3,1
 total,Total,Ukupno,Укупно,Ukupno,6,2
