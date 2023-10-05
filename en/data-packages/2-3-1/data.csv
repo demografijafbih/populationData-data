@@ -19,7 +19,7 @@ Year,UNIT_MEASURE,Municipality,Literacy,Sex,Value
 2013,Number,Domaljevac-Samac,Literate,M,2125
 2013,Number,Donji Vakuf,Literate,M,6037
 2013,Number,Drvar,Literate,M,3200
-2013,Number,Foca-FBiH,Literate,M,901
+2013,Number,foca-fbih,Literate,M,901
 2013,Number,Fojnica,Literate,M,5384
 2013,Number,Glamoc,Literate,M,1746
 2013,Number,Gorazde,Literate,M,9077
@@ -98,7 +98,7 @@ Year,UNIT_MEASURE,Municipality,Literacy,Sex,Value
 2013,Number,Domaljevac-Samac,Literate,F,2070
 2013,Number,Donji Vakuf,Literate,F,5837
 2013,Number,Drvar,Literate,F,3186
-2013,Number,Foca-FBiH,Literate,F,777
+2013,Number,foca-fbih,Literate,F,777
 2013,Number,Fojnica,Literate,F,5050
 2013,Number,Glamoc,Literate,F,1620
 2013,Number,Gorazde,Literate,F,9190
@@ -177,7 +177,7 @@ Year,UNIT_MEASURE,Municipality,Literacy,Sex,Value
 2013,Number,Domaljevac-Samac,Illiterate,M,23
 2013,Number,Donji Vakuf,Illiterate,M,55
 2013,Number,Drvar,Illiterate,M,21
-2013,Number,Foca-FBiH,Illiterate,M,7
+2013,Number,foca-fbih,Illiterate,M,7
 2013,Number,Fojnica,Illiterate,M,57
 2013,Number,Glamoc,Illiterate,M,17
 2013,Number,Gorazde,Illiterate,M,70
@@ -256,7 +256,7 @@ Year,UNIT_MEASURE,Municipality,Literacy,Sex,Value
 2013,Number,Domaljevac-Samac,Illiterate,F,94
 2013,Number,Donji Vakuf,Illiterate,F,344
 2013,Number,Drvar,Illiterate,F,118
-2013,Number,Foca-FBiH,Illiterate,F,84
+2013,Number,foca-fbih,Illiterate,F,84
 2013,Number,Fojnica,Illiterate,F,341
 2013,Number,Glamoc,Illiterate,F,102
 2013,Number,Gorazde,Illiterate,F,587
@@ -335,7 +335,7 @@ Year,UNIT_MEASURE,Municipality,Literacy,Sex,Value
 2013,Number,Domaljevac-Samac,Unknown,M,27
 2013,Number,Donji Vakuf,Unknown,M,66
 2013,Number,Drvar,Unknown,M,16
-2013,Number,Foca-FBiH,Unknown,M,3
+2013,Number,foca-fbih,Unknown,M,3
 2013,Number,Fojnica,Unknown,M,131
 2013,Number,Glamoc,Unknown,M,22
 2013,Number,Gorazde,Unknown,M,45
@@ -414,7 +414,7 @@ Year,UNIT_MEASURE,Municipality,Literacy,Sex,Value
 2013,Number,Domaljevac-Samac,Unknown,F,32
 2013,Number,Donji Vakuf,Unknown,F,105
 2013,Number,Drvar,Unknown,F,35
-2013,Number,Foca-FBiH,Unknown,F,5
+2013,Number,foca-fbih,Unknown,F,5
 2013,Number,Fojnica,Unknown,F,201
 2013,Number,Glamoc,Unknown,F,27
 2013,Number,Gorazde,Unknown,F,105

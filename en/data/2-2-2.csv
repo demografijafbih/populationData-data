@@ -19,7 +19,7 @@ Year,UNIT_MEASURE,Municipality,Household agricultural activity,Value
 2013,Number,Domaljevac-Samac,Total,1312
 2013,Number,Donji Vakuf,Total,4183
 2013,Number,Drvar,Total,3033
-2013,Number,Foca-FBiH,Total,747
+2013,Number,foca-fbih,Total,747
 2013,Number,Fojnica,Total,3908
 2013,Number,Glamoc,Total,1437
 2013,Number,Gorazde,Total,7573
@@ -98,7 +98,7 @@ Year,UNIT_MEASURE,Municipality,Household agricultural activity,Value
 2013,Number,Domaljevac-Samac,Engaged in agricultural activities,413
 2013,Number,Donji Vakuf,Engaged in agricultural activities,2104
 2013,Number,Drvar,Engaged in agricultural activities,643
-2013,Number,Foca-FBiH,Engaged in agricultural activities,296
+2013,Number,foca-fbih,Engaged in agricultural activities,296
 2013,Number,Fojnica,Engaged in agricultural activities,1500
 2013,Number,Glamoc,Engaged in agricultural activities,550
 2013,Number,Gorazde,Engaged in agricultural activities,2903
@@ -177,7 +177,7 @@ Year,UNIT_MEASURE,Municipality,Household agricultural activity,Value
 2013,Number,Domaljevac-Samac,Engaged in agricultural activities and sell their products in the market,94
 2013,Number,Donji Vakuf,Engaged in agricultural activities and sell their products in the market,381
 2013,Number,Drvar,Engaged in agricultural activities and sell their products in the market,75
-2013,Number,Foca-FBiH,Engaged in agricultural activities and sell their products in the market,82
+2013,Number,foca-fbih,Engaged in agricultural activities and sell their products in the market,82
 2013,Number,Fojnica,Engaged in agricultural activities and sell their products in the market,268
 2013,Number,Glamoc,Engaged in agricultural activities and sell their products in the market,339
 2013,Number,Gorazde,Engaged in agricultural activities and sell their products in the market,357

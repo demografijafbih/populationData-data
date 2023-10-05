@@ -19,7 +19,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Domaljevac-Samac,Total,1312
 2013,Number,Donji Vakuf,Total,4183
 2013,Number,Drvar,Total,3033
-2013,Number,Foca-FBiH,Total,747
+2013,Number,foca-fbih,Total,747
 2013,Number,Fojnica,Total,3908
 2013,Number,Glamoc,Total,1437
 2013,Number,Gorazde,Total,7573
@@ -98,7 +98,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Domaljevac-Samac,1,207
 2013,Number,Donji Vakuf,1,570
 2013,Number,Drvar,1,1018
-2013,Number,Foca-FBiH,1,225
+2013,Number,foca-fbih,1,225
 2013,Number,Fojnica,1,721
 2013,Number,Glamoc,1,404
 2013,Number,Gorazde,1,1599
@@ -177,7 +177,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Domaljevac-Samac,2,230
 2013,Number,Donji Vakuf,2,843
 2013,Number,Drvar,2,940
-2013,Number,Foca-FBiH,2,211
+2013,Number,foca-fbih,2,211
 2013,Number,Fojnica,2,954
 2013,Number,Glamoc,2,439
 2013,Number,Gorazde,2,2101
@@ -256,7 +256,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Domaljevac-Samac,3,202
 2013,Number,Donji Vakuf,3,829
 2013,Number,Drvar,3,470
-2013,Number,Foca-FBiH,3,108
+2013,Number,foca-fbih,3,108
 2013,Number,Fojnica,3,814
 2013,Number,Glamoc,3,198
 2013,Number,Gorazde,3,1590
@@ -335,7 +335,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Domaljevac-Samac,4,253
 2013,Number,Donji Vakuf,4,1043
 2013,Number,Drvar,4,390
-2013,Number,Foca-FBiH,4,132
+2013,Number,foca-fbih,4,132
 2013,Number,Fojnica,4,867
 2013,Number,Glamoc,4,172
 2013,Number,Gorazde,4,1529
@@ -414,7 +414,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Domaljevac-Samac,5,216
 2013,Number,Donji Vakuf,5,527
 2013,Number,Drvar,5,143
-2013,Number,Foca-FBiH,5,43
+2013,Number,foca-fbih,5,43
 2013,Number,Fojnica,5,380
 2013,Number,Glamoc,5,123
 2013,Number,Gorazde,5,499
@@ -493,7 +493,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Domaljevac-Samac,6,120
 2013,Number,Donji Vakuf,6,251
 2013,Number,Drvar,6,55
-2013,Number,Foca-FBiH,6,16
+2013,Number,foca-fbih,6,16
 2013,Number,Fojnica,6,117
 2013,Number,Glamoc,6,61
 2013,Number,Gorazde,6,177
@@ -572,7 +572,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Domaljevac-Samac,7,36
 2013,Number,Donji Vakuf,7,74
 2013,Number,Drvar,7,14
-2013,Number,Foca-FBiH,7,9
+2013,Number,foca-fbih,7,9
 2013,Number,Fojnica,7,43
 2013,Number,Glamoc,7,22
 2013,Number,Gorazde,7,56
@@ -651,7 +651,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Domaljevac-Samac,8+,48
 2013,Number,Donji Vakuf,8+,46
 2013,Number,Drvar,8+,3
-2013,Number,Foca-FBiH,8+,3
+2013,Number,foca-fbih,8+,3
 2013,Number,Fojnica,8+,12
 2013,Number,Glamoc,8+,18
 2013,Number,Gorazde,8+,22

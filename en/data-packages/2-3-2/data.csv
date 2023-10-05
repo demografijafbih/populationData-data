@@ -19,7 +19,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,Both sexes,No education,259
 2013,Number,Donji Vakuf,Both sexes,No education,631
 2013,Number,Drvar,Both sexes,No education,273
-2013,Number,Foca-FBiH,Both sexes,No education,148
+2013,Number,foca-fbih,Both sexes,No education,148
 2013,Number,Fojnica,Both sexes,No education,681
 2013,Number,Glamoc,Both sexes,No education,244
 2013,Number,Gorazde,Both sexes,No education,915
@@ -98,7 +98,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,M,No education,54
 2013,Number,Donji Vakuf,M,No education,129
 2013,Number,Drvar,M,No education,39
-2013,Number,Foca-FBiH,M,No education,24
+2013,Number,foca-fbih,M,No education,24
 2013,Number,Fojnica,M,No education,133
 2013,Number,Glamoc,M,No education,40
 2013,Number,Gorazde,M,No education,118
@@ -177,7 +177,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,F,No education,205
 2013,Number,Donji Vakuf,F,No education,502
 2013,Number,Drvar,F,No education,234
-2013,Number,Foca-FBiH,F,No education,124
+2013,Number,foca-fbih,F,No education,124
 2013,Number,Fojnica,F,No education,548
 2013,Number,Glamoc,F,No education,204
 2013,Number,Gorazde,F,No education,797
@@ -256,7 +256,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,Both sexes,Incomplete elementary education,687
 2013,Number,Donji Vakuf,Both sexes,Incomplete elementary education,1308
 2013,Number,Drvar,Both sexes,Incomplete elementary education,534
-2013,Number,Foca-FBiH,Both sexes,Incomplete elementary education,225
+2013,Number,foca-fbih,Both sexes,Incomplete elementary education,225
 2013,Number,Fojnica,Both sexes,Incomplete elementary education,1369
 2013,Number,Glamoc,Both sexes,Incomplete elementary education,443
 2013,Number,Gorazde,Both sexes,Incomplete elementary education,1388
@@ -335,7 +335,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,M,Incomplete elementary education,297
 2013,Number,Donji Vakuf,M,Incomplete elementary education,370
 2013,Number,Drvar,M,Incomplete elementary education,105
-2013,Number,Foca-FBiH,M,Incomplete elementary education,71
+2013,Number,foca-fbih,M,Incomplete elementary education,71
 2013,Number,Fojnica,M,Incomplete elementary education,466
 2013,Number,Glamoc,M,Incomplete elementary education,146
 2013,Number,Gorazde,M,Incomplete elementary education,309
@@ -414,7 +414,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,F,Incomplete elementary education,390
 2013,Number,Donji Vakuf,F,Incomplete elementary education,938
 2013,Number,Drvar,F,Incomplete elementary education,429
-2013,Number,Foca-FBiH,F,Incomplete elementary education,154
+2013,Number,foca-fbih,F,Incomplete elementary education,154
 2013,Number,Fojnica,F,Incomplete elementary education,903
 2013,Number,Glamoc,F,Incomplete elementary education,297
 2013,Number,Gorazde,F,Incomplete elementary education,1079
@@ -493,7 +493,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,Both sexes,Elementary education,968
 2013,Number,Donji Vakuf,Both sexes,Elementary education,3250
 2013,Number,Drvar,Both sexes,Elementary education,1232
-2013,Number,Foca-FBiH,Both sexes,Elementary education,440
+2013,Number,foca-fbih,Both sexes,Elementary education,440
 2013,Number,Fojnica,Both sexes,Elementary education,2448
 2013,Number,Glamoc,Both sexes,Elementary education,781
 2013,Number,Gorazde,Both sexes,Elementary education,4197
@@ -572,7 +572,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,M,Elementary education,488
 2013,Number,Donji Vakuf,M,Elementary education,1432
 2013,Number,Drvar,M,Elementary education,466
-2013,Number,Foca-FBiH,M,Elementary education,202
+2013,Number,foca-fbih,M,Elementary education,202
 2013,Number,Fojnica,M,Elementary education,1059
 2013,Number,Glamoc,M,Elementary education,357
 2013,Number,Gorazde,M,Elementary education,1544
@@ -651,7 +651,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,F,Elementary education,480
 2013,Number,Donji Vakuf,F,Elementary education,1818
 2013,Number,Drvar,F,Elementary education,766
-2013,Number,Foca-FBiH,F,Elementary education,238
+2013,Number,foca-fbih,F,Elementary education,238
 2013,Number,Fojnica,F,Elementary education,1389
 2013,Number,Glamoc,F,Elementary education,424
 2013,Number,Gorazde,F,Elementary education,2653
@@ -730,7 +730,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,Both sexes,Secondary education,1754
 2013,Number,Donji Vakuf,Both sexes,Secondary education,5494
 2013,Number,Drvar,Both sexes,Secondary education,3594
-2013,Number,Foca-FBiH,Both sexes,Secondary education,748
+2013,Number,foca-fbih,Both sexes,Secondary education,748
 2013,Number,Fojnica,Both sexes,Secondary education,4766
 2013,Number,Glamoc,Both sexes,Secondary education,1572
 2013,Number,Gorazde,Both sexes,Secondary education,9103
@@ -809,7 +809,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,M,Secondary education,973
 2013,Number,Donji Vakuf,M,Secondary education,3313
 2013,Number,Drvar,M,Secondary education,2098
-2013,Number,Foca-FBiH,M,Secondary education,486
+2013,Number,foca-fbih,M,Secondary education,486
 2013,Number,Fojnica,M,Secondary education,2861
 2013,Number,Glamoc,M,Secondary education,963
 2013,Number,Gorazde,M,Secondary education,5252
@@ -888,7 +888,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,F,Secondary education,781
 2013,Number,Donji Vakuf,F,Secondary education,2181
 2013,Number,Drvar,F,Secondary education,1496
-2013,Number,Foca-FBiH,F,Secondary education,262
+2013,Number,foca-fbih,F,Secondary education,262
 2013,Number,Fojnica,F,Secondary education,1905
 2013,Number,Glamoc,F,Secondary education,609
 2013,Number,Gorazde,F,Secondary education,3851
@@ -967,7 +967,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,Both sexes,Secondary specialisation,30
 2013,Number,Donji Vakuf,Both sexes,Secondary specialisation,24
 2013,Number,Drvar,Both sexes,Secondary specialisation,32
-2013,Number,Foca-FBiH,Both sexes,Secondary specialisation,11
+2013,Number,foca-fbih,Both sexes,Secondary specialisation,11
 2013,Number,Fojnica,Both sexes,Secondary specialisation,42
 2013,Number,Glamoc,Both sexes,Secondary specialisation,13
 2013,Number,Gorazde,Both sexes,Secondary specialisation,190
@@ -1046,7 +1046,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,M,Secondary specialisation,19
 2013,Number,Donji Vakuf,M,Secondary specialisation,19
 2013,Number,Drvar,M,Secondary specialisation,27
-2013,Number,Foca-FBiH,M,Secondary specialisation,8
+2013,Number,foca-fbih,M,Secondary specialisation,8
 2013,Number,Fojnica,M,Secondary specialisation,36
 2013,Number,Glamoc,M,Secondary specialisation,10
 2013,Number,Gorazde,M,Secondary specialisation,163
@@ -1125,7 +1125,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,F,Secondary specialisation,11
 2013,Number,Donji Vakuf,F,Secondary specialisation,5
 2013,Number,Drvar,F,Secondary specialisation,5
-2013,Number,Foca-FBiH,F,Secondary specialisation,3
+2013,Number,foca-fbih,F,Secondary specialisation,3
 2013,Number,Fojnica,F,Secondary specialisation,6
 2013,Number,Glamoc,F,Secondary specialisation,3
 2013,Number,Gorazde,F,Secondary specialisation,27
@@ -1204,7 +1204,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,Both sexes,Higher school and first degree of faculty,112
 2013,Number,Donji Vakuf,Both sexes,Higher school and first degree of faculty,257
 2013,Number,Drvar,Both sexes,Higher school and first degree of faculty,280
-2013,Number,Foca-FBiH,Both sexes,Higher school and first degree of faculty,43
+2013,Number,foca-fbih,Both sexes,Higher school and first degree of faculty,43
 2013,Number,Fojnica,Both sexes,Higher school and first degree of faculty,235
 2013,Number,Glamoc,Both sexes,Higher school and first degree of faculty,94
 2013,Number,Gorazde,Both sexes,Higher school and first degree of faculty,468
@@ -1283,7 +1283,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,M,Higher school and first degree of faculty,64
 2013,Number,Donji Vakuf,M,Higher school and first degree of faculty,116
 2013,Number,Drvar,M,Higher school and first degree of faculty,162
-2013,Number,Foca-FBiH,M,Higher school and first degree of faculty,30
+2013,Number,foca-fbih,M,Higher school and first degree of faculty,30
 2013,Number,Fojnica,M,Higher school and first degree of faculty,154
 2013,Number,Glamoc,M,Higher school and first degree of faculty,58
 2013,Number,Gorazde,M,Higher school and first degree of faculty,318
@@ -1362,7 +1362,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,F,Higher school and first degree of faculty,48
 2013,Number,Donji Vakuf,F,Higher school and first degree of faculty,141
 2013,Number,Drvar,F,Higher school and first degree of faculty,118
-2013,Number,Foca-FBiH,F,Higher school and first degree of faculty,13
+2013,Number,foca-fbih,F,Higher school and first degree of faculty,13
 2013,Number,Fojnica,F,Higher school and first degree of faculty,81
 2013,Number,Glamoc,F,Higher school and first degree of faculty,36
 2013,Number,Gorazde,F,Higher school and first degree of faculty,150
@@ -1441,7 +1441,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,Both sexes,Faculty / academy / university,289
 2013,Number,Donji Vakuf,Both sexes,Faculty / academy / university,522
 2013,Number,Drvar,Both sexes,Faculty / academy / university,363
-2013,Number,Foca-FBiH,Both sexes,Faculty / academy / university,77
+2013,Number,foca-fbih,Both sexes,Faculty / academy / university,77
 2013,Number,Fojnica,Both sexes,Faculty / academy / university,885
 2013,Number,Glamoc,Both sexes,Faculty / academy / university,210
 2013,Number,Gorazde,Both sexes,Faculty / academy / university,1727
@@ -1520,7 +1520,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,M,Faculty / academy / university,131
 2013,Number,Donji Vakuf,M,Faculty / academy / university,285
 2013,Number,Drvar,M,Faculty / academy / university,193
-2013,Number,Foca-FBiH,M,Faculty / academy / university,46
+2013,Number,foca-fbih,M,Faculty / academy / university,46
 2013,Number,Fojnica,M,Faculty / academy / university,488
 2013,Number,Glamoc,M,Faculty / academy / university,109
 2013,Number,Gorazde,M,Faculty / academy / university,933
@@ -1599,7 +1599,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Domaljevac-Samac,F,Faculty / academy / university,158
 2013,Number,Donji Vakuf,F,Faculty / academy / university,237
 2013,Number,Drvar,F,Faculty / academy / university,170
-2013,Number,Foca-FBiH,F,Faculty / academy / university,31
+2013,Number,foca-fbih,F,Faculty / academy / university,31
 2013,Number,Fojnica,F,Faculty / academy / university,397
 2013,Number,Glamoc,F,Faculty / academy / university,101
 2013,Number,Gorazde,F,Faculty / academy / university,794

@@ -19,7 +19,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Domaljevac-Samac,Total,2073
 2013,Number,Donji Vakuf,Total,5822
 2013,Number,Drvar,Total,3218
-2013,Number,Foca-FBiH,Total,825
+2013,Number,foca-fbih,Total,825
 2013,Number,Fojnica,Total,5229
 2013,Number,Glamoc,Total,1674
 2013,Number,Gorazde,Total,9351
@@ -98,7 +98,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Domaljevac-Samac,Did not give birth,676
 2013,Number,Donji Vakuf,Did not give birth,1683
 2013,Number,Drvar,Did not give birth,778
-2013,Number,Foca-FBiH,Did not give birth,190
+2013,Number,foca-fbih,Did not give birth,190
 2013,Number,Fojnica,Did not give birth,1705
 2013,Number,Glamoc,Did not give birth,447
 2013,Number,Gorazde,Did not give birth,2468
@@ -177,7 +177,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Domaljevac-Samac,One child,242
 2013,Number,Donji Vakuf,One child,644
 2013,Number,Drvar,One child,431
-2013,Number,Foca-FBiH,One child,73
+2013,Number,foca-fbih,One child,73
 2013,Number,Fojnica,One child,579
 2013,Number,Glamoc,One child,135
 2013,Number,Gorazde,One child,1198
@@ -256,7 +256,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Domaljevac-Samac,Two children,565
 2013,Number,Donji Vakuf,Two children,1613
 2013,Number,Drvar,Two children,1399
-2013,Number,Foca-FBiH,Two children,262
+2013,Number,foca-fbih,Two children,262
 2013,Number,Fojnica,Two children,1407
 2013,Number,Glamoc,Two children,504
 2013,Number,Gorazde,Two children,3406
@@ -335,7 +335,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Domaljevac-Samac,Three children,350
 2013,Number,Donji Vakuf,Three children,1024
 2013,Number,Drvar,Three children,465
-2013,Number,Foca-FBiH,Three children,158
+2013,Number,foca-fbih,Three children,158
 2013,Number,Fojnica,Three children,848
 2013,Number,Glamoc,Three children,363
 2013,Number,Gorazde,Three children,1424
@@ -414,7 +414,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Domaljevac-Samac,Four children,130
 2013,Number,Donji Vakuf,Four children,466
 2013,Number,Drvar,Four children,102
-2013,Number,Foca-FBiH,Four children,81
+2013,Number,foca-fbih,Four children,81
 2013,Number,Fojnica,Four children,377
 2013,Number,Glamoc,Four children,148
 2013,Number,Gorazde,Four children,484
@@ -493,7 +493,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Domaljevac-Samac,5+ children,110
 2013,Number,Donji Vakuf,5+ children,392
 2013,Number,Drvar,5+ children,43
-2013,Number,Foca-FBiH,5+ children,61
+2013,Number,foca-fbih,5+ children,61
 2013,Number,Fojnica,5+ children,313
 2013,Number,Glamoc,5+ children,77
 2013,Number,Gorazde,5+ children,371

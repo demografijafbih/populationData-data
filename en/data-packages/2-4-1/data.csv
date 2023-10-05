@@ -19,7 +19,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,Both sexes,Total,452
 2013,Number,Donji Vakuf,Both sexes,Total,1218
 2013,Number,Drvar,Both sexes,Total,1017
-2013,Number,Foca-FBiH,Both sexes,Total,211
+2013,Number,foca-fbih,Both sexes,Total,211
 2013,Number,Fojnica,Both sexes,Total,1742
 2013,Number,Glamoc,Both sexes,Total,479
 2013,Number,Gorazde,Both sexes,Total,2279
@@ -98,7 +98,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,M,Total,213
 2013,Number,Donji Vakuf,M,Total,598
 2013,Number,Drvar,M,Total,434
-2013,Number,Foca-FBiH,M,Total,97
+2013,Number,foca-fbih,M,Total,97
 2013,Number,Fojnica,M,Total,879
 2013,Number,Glamoc,M,Total,198
 2013,Number,Gorazde,M,Total,993
@@ -177,7 +177,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,F,Total,239
 2013,Number,Donji Vakuf,F,Total,620
 2013,Number,Drvar,F,Total,583
-2013,Number,Foca-FBiH,F,Total,114
+2013,Number,foca-fbih,F,Total,114
 2013,Number,Fojnica,F,Total,863
 2013,Number,Glamoc,F,Total,281
 2013,Number,Gorazde,F,Total,1286
@@ -256,7 +256,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,Both sexes,"Seeing, even with the use of seeing aids",223
 2013,Number,Donji Vakuf,Both sexes,"Seeing, even with the use of seeing aids",503
 2013,Number,Drvar,Both sexes,"Seeing, even with the use of seeing aids",497
-2013,Number,Foca-FBiH,Both sexes,"Seeing, even with the use of seeing aids",81
+2013,Number,foca-fbih,Both sexes,"Seeing, even with the use of seeing aids",81
 2013,Number,Fojnica,Both sexes,"Seeing, even with the use of seeing aids",555
 2013,Number,Glamoc,Both sexes,"Seeing, even with the use of seeing aids",241
 2013,Number,Gorazde,Both sexes,"Seeing, even with the use of seeing aids",959
@@ -335,7 +335,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,M,"Seeing, even with the use of seeing aids",101
 2013,Number,Donji Vakuf,M,"Seeing, even with the use of seeing aids",225
 2013,Number,Drvar,M,"Seeing, even with the use of seeing aids",186
-2013,Number,Foca-FBiH,M,"Seeing, even with the use of seeing aids",41
+2013,Number,foca-fbih,M,"Seeing, even with the use of seeing aids",41
 2013,Number,Fojnica,M,"Seeing, even with the use of seeing aids",239
 2013,Number,Glamoc,M,"Seeing, even with the use of seeing aids",93
 2013,Number,Gorazde,M,"Seeing, even with the use of seeing aids",421
@@ -414,7 +414,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,F,"Seeing, even with the use of seeing aids",122
 2013,Number,Donji Vakuf,F,"Seeing, even with the use of seeing aids",278
 2013,Number,Drvar,F,"Seeing, even with the use of seeing aids",311
-2013,Number,Foca-FBiH,F,"Seeing, even with the use of seeing aids",40
+2013,Number,foca-fbih,F,"Seeing, even with the use of seeing aids",40
 2013,Number,Fojnica,F,"Seeing, even with the use of seeing aids",316
 2013,Number,Glamoc,F,"Seeing, even with the use of seeing aids",148
 2013,Number,Gorazde,F,"Seeing, even with the use of seeing aids",538
@@ -493,7 +493,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,Both sexes,"Hearing, even with the use of hearing aids",104
 2013,Number,Donji Vakuf,Both sexes,"Hearing, even with the use of hearing aids",267
 2013,Number,Drvar,Both sexes,"Hearing, even with the use of hearing aids",261
-2013,Number,Foca-FBiH,Both sexes,"Hearing, even with the use of hearing aids",50
+2013,Number,foca-fbih,Both sexes,"Hearing, even with the use of hearing aids",50
 2013,Number,Fojnica,Both sexes,"Hearing, even with the use of hearing aids",270
 2013,Number,Glamoc,Both sexes,"Hearing, even with the use of hearing aids",160
 2013,Number,Gorazde,Both sexes,"Hearing, even with the use of hearing aids",585
@@ -572,7 +572,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,M,"Hearing, even with the use of hearing aids",54
 2013,Number,Donji Vakuf,M,"Hearing, even with the use of hearing aids",138
 2013,Number,Drvar,M,"Hearing, even with the use of hearing aids",117
-2013,Number,Foca-FBiH,M,"Hearing, even with the use of hearing aids",20
+2013,Number,foca-fbih,M,"Hearing, even with the use of hearing aids",20
 2013,Number,Fojnica,M,"Hearing, even with the use of hearing aids",129
 2013,Number,Glamoc,M,"Hearing, even with the use of hearing aids",75
 2013,Number,Gorazde,M,"Hearing, even with the use of hearing aids",279
@@ -651,7 +651,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,F,"Hearing, even with the use of hearing aids",50
 2013,Number,Donji Vakuf,F,"Hearing, even with the use of hearing aids",129
 2013,Number,Drvar,F,"Hearing, even with the use of hearing aids",144
-2013,Number,Foca-FBiH,F,"Hearing, even with the use of hearing aids",30
+2013,Number,foca-fbih,F,"Hearing, even with the use of hearing aids",30
 2013,Number,Fojnica,F,"Hearing, even with the use of hearing aids",141
 2013,Number,Glamoc,F,"Hearing, even with the use of hearing aids",85
 2013,Number,Gorazde,F,"Hearing, even with the use of hearing aids",306
@@ -730,7 +730,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,Both sexes,Walking or climbing the stairs,249
 2013,Number,Donji Vakuf,Both sexes,Walking or climbing the stairs,731
 2013,Number,Drvar,Both sexes,Walking or climbing the stairs,626
-2013,Number,Foca-FBiH,Both sexes,Walking or climbing the stairs,138
+2013,Number,foca-fbih,Both sexes,Walking or climbing the stairs,138
 2013,Number,Fojnica,Both sexes,Walking or climbing the stairs,799
 2013,Number,Glamoc,Both sexes,Walking or climbing the stairs,277
 2013,Number,Gorazde,Both sexes,Walking or climbing the stairs,1525
@@ -809,7 +809,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,M,Walking or climbing the stairs,104
 2013,Number,Donji Vakuf,M,Walking or climbing the stairs,349
 2013,Number,Drvar,M,Walking or climbing the stairs,244
-2013,Number,Foca-FBiH,M,Walking or climbing the stairs,55
+2013,Number,foca-fbih,M,Walking or climbing the stairs,55
 2013,Number,Fojnica,M,Walking or climbing the stairs,359
 2013,Number,Glamoc,M,Walking or climbing the stairs,100
 2013,Number,Gorazde,M,Walking or climbing the stairs,610
@@ -888,7 +888,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,F,Walking or climbing the stairs,145
 2013,Number,Donji Vakuf,F,Walking or climbing the stairs,382
 2013,Number,Drvar,F,Walking or climbing the stairs,382
-2013,Number,Foca-FBiH,F,Walking or climbing the stairs,83
+2013,Number,foca-fbih,F,Walking or climbing the stairs,83
 2013,Number,Fojnica,F,Walking or climbing the stairs,440
 2013,Number,Glamoc,F,Walking or climbing the stairs,177
 2013,Number,Gorazde,F,Walking or climbing the stairs,915
@@ -967,7 +967,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,Both sexes,Remembering or concentrating,95
 2013,Number,Donji Vakuf,Both sexes,Remembering or concentrating,206
 2013,Number,Drvar,Both sexes,Remembering or concentrating,155
-2013,Number,Foca-FBiH,Both sexes,Remembering or concentrating,31
+2013,Number,foca-fbih,Both sexes,Remembering or concentrating,31
 2013,Number,Fojnica,Both sexes,Remembering or concentrating,727
 2013,Number,Glamoc,Both sexes,Remembering or concentrating,89
 2013,Number,Gorazde,Both sexes,Remembering or concentrating,463
@@ -1046,7 +1046,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,M,Remembering or concentrating,54
 2013,Number,Donji Vakuf,M,Remembering or concentrating,99
 2013,Number,Drvar,M,Remembering or concentrating,67
-2013,Number,Foca-FBiH,M,Remembering or concentrating,15
+2013,Number,foca-fbih,M,Remembering or concentrating,15
 2013,Number,Fojnica,M,Remembering or concentrating,391
 2013,Number,Glamoc,M,Remembering or concentrating,47
 2013,Number,Gorazde,M,Remembering or concentrating,182
@@ -1125,7 +1125,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,F,Remembering or concentrating,41
 2013,Number,Donji Vakuf,F,Remembering or concentrating,107
 2013,Number,Drvar,F,Remembering or concentrating,88
-2013,Number,Foca-FBiH,F,Remembering or concentrating,16
+2013,Number,foca-fbih,F,Remembering or concentrating,16
 2013,Number,Fojnica,F,Remembering or concentrating,336
 2013,Number,Glamoc,F,Remembering or concentrating,42
 2013,Number,Gorazde,F,Remembering or concentrating,281
@@ -1204,7 +1204,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,Both sexes,Dressing and personal hygiene,42
 2013,Number,Donji Vakuf,Both sexes,Dressing and personal hygiene,142
 2013,Number,Drvar,Both sexes,Dressing and personal hygiene,139
-2013,Number,Foca-FBiH,Both sexes,Dressing and personal hygiene,20
+2013,Number,foca-fbih,Both sexes,Dressing and personal hygiene,20
 2013,Number,Fojnica,Both sexes,Dressing and personal hygiene,220
 2013,Number,Glamoc,Both sexes,Dressing and personal hygiene,60
 2013,Number,Gorazde,Both sexes,Dressing and personal hygiene,294
@@ -1283,7 +1283,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,M,Dressing and personal hygiene,17
 2013,Number,Donji Vakuf,M,Dressing and personal hygiene,65
 2013,Number,Drvar,M,Dressing and personal hygiene,61
-2013,Number,Foca-FBiH,M,Dressing and personal hygiene,9
+2013,Number,foca-fbih,M,Dressing and personal hygiene,9
 2013,Number,Fojnica,M,Dressing and personal hygiene,96
 2013,Number,Glamoc,M,Dressing and personal hygiene,27
 2013,Number,Gorazde,M,Dressing and personal hygiene,119
@@ -1362,7 +1362,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,F,Dressing and personal hygiene,25
 2013,Number,Donji Vakuf,F,Dressing and personal hygiene,77
 2013,Number,Drvar,F,Dressing and personal hygiene,78
-2013,Number,Foca-FBiH,F,Dressing and personal hygiene,11
+2013,Number,foca-fbih,F,Dressing and personal hygiene,11
 2013,Number,Fojnica,F,Dressing and personal hygiene,124
 2013,Number,Glamoc,F,Dressing and personal hygiene,33
 2013,Number,Gorazde,F,Dressing and personal hygiene,175
@@ -1441,7 +1441,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,Both sexes,Communication,44
 2013,Number,Donji Vakuf,Both sexes,Communication,108
 2013,Number,Drvar,Both sexes,Communication,100
-2013,Number,Foca-FBiH,Both sexes,Communication,17
+2013,Number,foca-fbih,Both sexes,Communication,17
 2013,Number,Fojnica,Both sexes,Communication,604
 2013,Number,Glamoc,Both sexes,Communication,44
 2013,Number,Gorazde,Both sexes,Communication,226
@@ -1520,7 +1520,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,M,Communication,26
 2013,Number,Donji Vakuf,M,Communication,47
 2013,Number,Drvar,M,Communication,46
-2013,Number,Foca-FBiH,M,Communication,8
+2013,Number,foca-fbih,M,Communication,8
 2013,Number,Fojnica,M,Communication,344
 2013,Number,Glamoc,M,Communication,22
 2013,Number,Gorazde,M,Communication,92
@@ -1599,7 +1599,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,F,Communication,18
 2013,Number,Donji Vakuf,F,Communication,61
 2013,Number,Drvar,F,Communication,54
-2013,Number,Foca-FBiH,F,Communication,9
+2013,Number,foca-fbih,F,Communication,9
 2013,Number,Fojnica,F,Communication,260
 2013,Number,Glamoc,F,Communication,22
 2013,Number,Gorazde,F,Communication,134
@@ -1678,7 +1678,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,Both sexes,With multiple disabilities,171
 2013,Number,Donji Vakuf,Both sexes,With multiple disabilities,406
 2013,Number,Drvar,Both sexes,With multiple disabilities,398
-2013,Number,Foca-FBiH,Both sexes,With multiple disabilities,72
+2013,Number,foca-fbih,Both sexes,With multiple disabilities,72
 2013,Number,Fojnica,Both sexes,With multiple disabilities,946
 2013,Number,Glamoc,Both sexes,With multiple disabilities,203
 2013,Number,Gorazde,Both sexes,With multiple disabilities,907
@@ -1757,7 +1757,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,M,With multiple disabilities,81
 2013,Number,Donji Vakuf,M,With multiple disabilities,200
 2013,Number,Drvar,M,With multiple disabilities,148
-2013,Number,Foca-FBiH,M,With multiple disabilities,31
+2013,Number,foca-fbih,M,With multiple disabilities,31
 2013,Number,Fojnica,M,With multiple disabilities,477
 2013,Number,Glamoc,M,With multiple disabilities,89
 2013,Number,Gorazde,M,With multiple disabilities,372
@@ -1836,7 +1836,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Domaljevac-Samac,F,With multiple disabilities,90
 2013,Number,Donji Vakuf,F,With multiple disabilities,206
 2013,Number,Drvar,F,With multiple disabilities,250
-2013,Number,Foca-FBiH,F,With multiple disabilities,41
+2013,Number,foca-fbih,F,With multiple disabilities,41
 2013,Number,Fojnica,F,With multiple disabilities,469
 2013,Number,Glamoc,F,With multiple disabilities,114
 2013,Number,Gorazde,F,With multiple disabilities,535
