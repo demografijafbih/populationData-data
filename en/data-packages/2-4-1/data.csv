@@ -44,7 +44,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,Both sexes,Total,5056
 2013,Number,Ljubuski,Both sexes,Total,1740
 2013,Number,Maglaj,Both sexes,Total,2138
-2013,Number,Mostar,Both sexes,Total,7239
+2013,Number,Grad Mostar,Both sexes,Total,7239
 2013,Number,Neum,Both sexes,Total,272
 2013,Number,Sarajevo-Novi Grad,Both sexes,Total,10183
 2013,Number,Novi Travnik,Both sexes,Total,1819
@@ -123,7 +123,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,M,Total,2125
 2013,Number,Ljubuski,M,Total,782
 2013,Number,Maglaj,M,Total,938
-2013,Number,Mostar,M,Total,3314
+2013,Number,Grad Mostar,M,Total,3314
 2013,Number,Neum,M,Total,120
 2013,Number,Sarajevo-Novi Grad,M,Total,4283
 2013,Number,Novi Travnik,M,Total,858
@@ -202,7 +202,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,F,Total,2931
 2013,Number,Ljubuski,F,Total,958
 2013,Number,Maglaj,F,Total,1200
-2013,Number,Mostar,F,Total,3925
+2013,Number,Grad Mostar,F,Total,3925
 2013,Number,Neum,F,Total,152
 2013,Number,Sarajevo-Novi Grad,F,Total,5900
 2013,Number,Novi Travnik,F,Total,961
@@ -281,7 +281,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,Both sexes,"Seeing, even with the use of seeing aids",2247
 2013,Number,Ljubuski,Both sexes,"Seeing, even with the use of seeing aids",652
 2013,Number,Maglaj,Both sexes,"Seeing, even with the use of seeing aids",936
-2013,Number,Mostar,Both sexes,"Seeing, even with the use of seeing aids",2733
+2013,Number,Grad Mostar,Both sexes,"Seeing, even with the use of seeing aids",2733
 2013,Number,Neum,Both sexes,"Seeing, even with the use of seeing aids",113
 2013,Number,Sarajevo-Novi Grad,Both sexes,"Seeing, even with the use of seeing aids",4078
 2013,Number,Novi Travnik,Both sexes,"Seeing, even with the use of seeing aids",804
@@ -360,7 +360,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,M,"Seeing, even with the use of seeing aids",884
 2013,Number,Ljubuski,M,"Seeing, even with the use of seeing aids",254
 2013,Number,Maglaj,M,"Seeing, even with the use of seeing aids",364
-2013,Number,Mostar,M,"Seeing, even with the use of seeing aids",1129
+2013,Number,Grad Mostar,M,"Seeing, even with the use of seeing aids",1129
 2013,Number,Neum,M,"Seeing, even with the use of seeing aids",50
 2013,Number,Sarajevo-Novi Grad,M,"Seeing, even with the use of seeing aids",1587
 2013,Number,Novi Travnik,M,"Seeing, even with the use of seeing aids",350
@@ -439,7 +439,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,F,"Seeing, even with the use of seeing aids",1363
 2013,Number,Ljubuski,F,"Seeing, even with the use of seeing aids",398
 2013,Number,Maglaj,F,"Seeing, even with the use of seeing aids",572
-2013,Number,Mostar,F,"Seeing, even with the use of seeing aids",1604
+2013,Number,Grad Mostar,F,"Seeing, even with the use of seeing aids",1604
 2013,Number,Neum,F,"Seeing, even with the use of seeing aids",63
 2013,Number,Sarajevo-Novi Grad,F,"Seeing, even with the use of seeing aids",2491
 2013,Number,Novi Travnik,F,"Seeing, even with the use of seeing aids",454
@@ -518,7 +518,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,Both sexes,"Hearing, even with the use of hearing aids",1252
 2013,Number,Ljubuski,Both sexes,"Hearing, even with the use of hearing aids",414
 2013,Number,Maglaj,Both sexes,"Hearing, even with the use of hearing aids",500
-2013,Number,Mostar,Both sexes,"Hearing, even with the use of hearing aids",1743
+2013,Number,Grad Mostar,Both sexes,"Hearing, even with the use of hearing aids",1743
 2013,Number,Neum,Both sexes,"Hearing, even with the use of hearing aids",76
 2013,Number,Sarajevo-Novi Grad,Both sexes,"Hearing, even with the use of hearing aids",2297
 2013,Number,Novi Travnik,Both sexes,"Hearing, even with the use of hearing aids",473
@@ -597,7 +597,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,M,"Hearing, even with the use of hearing aids",581
 2013,Number,Ljubuski,M,"Hearing, even with the use of hearing aids",192
 2013,Number,Maglaj,M,"Hearing, even with the use of hearing aids",239
-2013,Number,Mostar,M,"Hearing, even with the use of hearing aids",836
+2013,Number,Grad Mostar,M,"Hearing, even with the use of hearing aids",836
 2013,Number,Neum,M,"Hearing, even with the use of hearing aids",37
 2013,Number,Sarajevo-Novi Grad,M,"Hearing, even with the use of hearing aids",1014
 2013,Number,Novi Travnik,M,"Hearing, even with the use of hearing aids",247
@@ -676,7 +676,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,F,"Hearing, even with the use of hearing aids",671
 2013,Number,Ljubuski,F,"Hearing, even with the use of hearing aids",222
 2013,Number,Maglaj,F,"Hearing, even with the use of hearing aids",261
-2013,Number,Mostar,F,"Hearing, even with the use of hearing aids",907
+2013,Number,Grad Mostar,F,"Hearing, even with the use of hearing aids",907
 2013,Number,Neum,F,"Hearing, even with the use of hearing aids",39
 2013,Number,Sarajevo-Novi Grad,F,"Hearing, even with the use of hearing aids",1283
 2013,Number,Novi Travnik,F,"Hearing, even with the use of hearing aids",226
@@ -755,7 +755,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,Both sexes,Walking or climbing the stairs,3253
 2013,Number,Ljubuski,Both sexes,Walking or climbing the stairs,1125
 2013,Number,Maglaj,Both sexes,Walking or climbing the stairs,1350
-2013,Number,Mostar,Both sexes,Walking or climbing the stairs,4730
+2013,Number,Grad Mostar,Both sexes,Walking or climbing the stairs,4730
 2013,Number,Neum,Both sexes,Walking or climbing the stairs,184
 2013,Number,Sarajevo-Novi Grad,Both sexes,Walking or climbing the stairs,6627
 2013,Number,Novi Travnik,Both sexes,Walking or climbing the stairs,1117
@@ -834,7 +834,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,M,Walking or climbing the stairs,1247
 2013,Number,Ljubuski,M,Walking or climbing the stairs,478
 2013,Number,Maglaj,M,Walking or climbing the stairs,553
-2013,Number,Mostar,M,Walking or climbing the stairs,2043
+2013,Number,Grad Mostar,M,Walking or climbing the stairs,2043
 2013,Number,Neum,M,Walking or climbing the stairs,64
 2013,Number,Sarajevo-Novi Grad,M,Walking or climbing the stairs,2604
 2013,Number,Novi Travnik,M,Walking or climbing the stairs,505
@@ -913,7 +913,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,F,Walking or climbing the stairs,2006
 2013,Number,Ljubuski,F,Walking or climbing the stairs,647
 2013,Number,Maglaj,F,Walking or climbing the stairs,797
-2013,Number,Mostar,F,Walking or climbing the stairs,2687
+2013,Number,Grad Mostar,F,Walking or climbing the stairs,2687
 2013,Number,Neum,F,Walking or climbing the stairs,120
 2013,Number,Sarajevo-Novi Grad,F,Walking or climbing the stairs,4023
 2013,Number,Novi Travnik,F,Walking or climbing the stairs,612
@@ -992,7 +992,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,Both sexes,Remembering or concentrating,1044
 2013,Number,Ljubuski,Both sexes,Remembering or concentrating,324
 2013,Number,Maglaj,Both sexes,Remembering or concentrating,385
-2013,Number,Mostar,Both sexes,Remembering or concentrating,1316
+2013,Number,Grad Mostar,Both sexes,Remembering or concentrating,1316
 2013,Number,Neum,Both sexes,Remembering or concentrating,40
 2013,Number,Sarajevo-Novi Grad,Both sexes,Remembering or concentrating,1760
 2013,Number,Novi Travnik,Both sexes,Remembering or concentrating,364
@@ -1071,7 +1071,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,M,Remembering or concentrating,412
 2013,Number,Ljubuski,M,Remembering or concentrating,157
 2013,Number,Maglaj,M,Remembering or concentrating,162
-2013,Number,Mostar,M,Remembering or concentrating,617
+2013,Number,Grad Mostar,M,Remembering or concentrating,617
 2013,Number,Neum,M,Remembering or concentrating,19
 2013,Number,Sarajevo-Novi Grad,M,Remembering or concentrating,718
 2013,Number,Novi Travnik,M,Remembering or concentrating,179
@@ -1150,7 +1150,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,F,Remembering or concentrating,632
 2013,Number,Ljubuski,F,Remembering or concentrating,167
 2013,Number,Maglaj,F,Remembering or concentrating,223
-2013,Number,Mostar,F,Remembering or concentrating,699
+2013,Number,Grad Mostar,F,Remembering or concentrating,699
 2013,Number,Neum,F,Remembering or concentrating,21
 2013,Number,Sarajevo-Novi Grad,F,Remembering or concentrating,1042
 2013,Number,Novi Travnik,F,Remembering or concentrating,185
@@ -1229,7 +1229,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,Both sexes,Dressing and personal hygiene,674
 2013,Number,Ljubuski,Both sexes,Dressing and personal hygiene,263
 2013,Number,Maglaj,Both sexes,Dressing and personal hygiene,226
-2013,Number,Mostar,Both sexes,Dressing and personal hygiene,970
+2013,Number,Grad Mostar,Both sexes,Dressing and personal hygiene,970
 2013,Number,Neum,Both sexes,Dressing and personal hygiene,28
 2013,Number,Sarajevo-Novi Grad,Both sexes,Dressing and personal hygiene,1361
 2013,Number,Novi Travnik,Both sexes,Dressing and personal hygiene,261
@@ -1308,7 +1308,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,M,Dressing and personal hygiene,286
 2013,Number,Ljubuski,M,Dressing and personal hygiene,101
 2013,Number,Maglaj,M,Dressing and personal hygiene,86
-2013,Number,Mostar,M,Dressing and personal hygiene,386
+2013,Number,Grad Mostar,M,Dressing and personal hygiene,386
 2013,Number,Neum,M,Dressing and personal hygiene,9
 2013,Number,Sarajevo-Novi Grad,M,Dressing and personal hygiene,544
 2013,Number,Novi Travnik,M,Dressing and personal hygiene,112
@@ -1387,7 +1387,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,F,Dressing and personal hygiene,388
 2013,Number,Ljubuski,F,Dressing and personal hygiene,162
 2013,Number,Maglaj,F,Dressing and personal hygiene,140
-2013,Number,Mostar,F,Dressing and personal hygiene,584
+2013,Number,Grad Mostar,F,Dressing and personal hygiene,584
 2013,Number,Neum,F,Dressing and personal hygiene,19
 2013,Number,Sarajevo-Novi Grad,F,Dressing and personal hygiene,817
 2013,Number,Novi Travnik,F,Dressing and personal hygiene,149
@@ -1466,7 +1466,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,Both sexes,Communication,497
 2013,Number,Ljubuski,Both sexes,Communication,230
 2013,Number,Maglaj,Both sexes,Communication,224
-2013,Number,Mostar,Both sexes,Communication,816
+2013,Number,Grad Mostar,Both sexes,Communication,816
 2013,Number,Neum,Both sexes,Communication,22
 2013,Number,Sarajevo-Novi Grad,Both sexes,Communication,956
 2013,Number,Novi Travnik,Both sexes,Communication,210
@@ -1545,7 +1545,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,M,Communication,234
 2013,Number,Ljubuski,M,Communication,114
 2013,Number,Maglaj,M,Communication,92
-2013,Number,Mostar,M,Communication,379
+2013,Number,Grad Mostar,M,Communication,379
 2013,Number,Neum,M,Communication,7
 2013,Number,Sarajevo-Novi Grad,M,Communication,440
 2013,Number,Novi Travnik,M,Communication,96
@@ -1624,7 +1624,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,F,Communication,263
 2013,Number,Ljubuski,F,Communication,116
 2013,Number,Maglaj,F,Communication,132
-2013,Number,Mostar,F,Communication,437
+2013,Number,Grad Mostar,F,Communication,437
 2013,Number,Neum,F,Communication,15
 2013,Number,Sarajevo-Novi Grad,F,Communication,516
 2013,Number,Novi Travnik,F,Communication,114
@@ -1703,7 +1703,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,Both sexes,With multiple disabilities,2034
 2013,Number,Ljubuski,Both sexes,With multiple disabilities,633
 2013,Number,Maglaj,Both sexes,With multiple disabilities,770
-2013,Number,Mostar,Both sexes,With multiple disabilities,2580
+2013,Number,Grad Mostar,Both sexes,With multiple disabilities,2580
 2013,Number,Neum,Both sexes,With multiple disabilities,107
 2013,Number,Sarajevo-Novi Grad,Both sexes,With multiple disabilities,3772
 2013,Number,Novi Travnik,Both sexes,With multiple disabilities,714
@@ -1782,7 +1782,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,M,With multiple disabilities,794
 2013,Number,Ljubuski,M,With multiple disabilities,258
 2013,Number,Maglaj,M,With multiple disabilities,313
-2013,Number,Mostar,M,With multiple disabilities,1081
+2013,Number,Grad Mostar,M,With multiple disabilities,1081
 2013,Number,Neum,M,With multiple disabilities,41
 2013,Number,Sarajevo-Novi Grad,M,With multiple disabilities,1445
 2013,Number,Novi Travnik,M,With multiple disabilities,329
@@ -1861,7 +1861,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Type of disability,Value
 2013,Number,Lukavac,F,With multiple disabilities,1240
 2013,Number,Ljubuski,F,With multiple disabilities,375
 2013,Number,Maglaj,F,With multiple disabilities,457
-2013,Number,Mostar,F,With multiple disabilities,1499
+2013,Number,Grad Mostar,F,With multiple disabilities,1499
 2013,Number,Neum,F,With multiple disabilities,66
 2013,Number,Sarajevo-Novi Grad,F,With multiple disabilities,2327
 2013,Number,Novi Travnik,F,With multiple disabilities,385

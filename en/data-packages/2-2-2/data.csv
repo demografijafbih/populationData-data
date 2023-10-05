@@ -44,7 +44,7 @@ Year,UNIT_MEASURE,Municipality,Household agricultural activity,Value
 2013,Number,Lukavac,Total,16656
 2013,Number,Ljubuski,Total,7444
 2013,Number,Maglaj,Total,7687
-2013,Number,Mostar,Total,34129
+2013,Number,Grad Mostar,Total,34129
 2013,Number,Neum,Total,1394
 2013,Number,Sarajevo-Novi Grad,Total,42274
 2013,Number,Novi Travnik,Total,7267
@@ -123,7 +123,7 @@ Year,UNIT_MEASURE,Municipality,Household agricultural activity,Value
 2013,Number,Lukavac,Engaged in agricultural activities,6475
 2013,Number,Ljubuski,Engaged in agricultural activities,2302
 2013,Number,Maglaj,Engaged in agricultural activities,3243
-2013,Number,Mostar,Engaged in agricultural activities,6039
+2013,Number,Grad Mostar,Engaged in agricultural activities,6039
 2013,Number,Neum,Engaged in agricultural activities,350
 2013,Number,Sarajevo-Novi Grad,Engaged in agricultural activities,3007
 2013,Number,Novi Travnik,Engaged in agricultural activities,3077
@@ -202,7 +202,7 @@ Year,UNIT_MEASURE,Municipality,Household agricultural activity,Value
 2013,Number,Lukavac,Engaged in agricultural activities and sell their products in the market,331
 2013,Number,Ljubuski,Engaged in agricultural activities and sell their products in the market,766
 2013,Number,Maglaj,Engaged in agricultural activities and sell their products in the market,216
-2013,Number,Mostar,Engaged in agricultural activities and sell their products in the market,635
+2013,Number,Grad Mostar,Engaged in agricultural activities and sell their products in the market,635
 2013,Number,Neum,Engaged in agricultural activities and sell their products in the market,15
 2013,Number,Sarajevo-Novi Grad,Engaged in agricultural activities and sell their products in the market,164
 2013,Number,Novi Travnik,Engaged in agricultural activities and sell their products in the market,679

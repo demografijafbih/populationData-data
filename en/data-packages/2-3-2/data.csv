@@ -44,7 +44,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,Both sexes,No education,2081
 2013,Number,Ljubuski,Both sexes,No education,691
 2013,Number,Maglaj,Both sexes,No education,831
-2013,Number,Mostar,Both sexes,No education,2024
+2013,Number,Grad Mostar,Both sexes,No education,2024
 2013,Number,Neum,Both sexes,No education,204
 2013,Number,Sarajevo-Novi Grad,Both sexes,No education,2624
 2013,Number,Novi Travnik,Both sexes,No education,844
@@ -123,7 +123,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,M,No education,267
 2013,Number,Ljubuski,M,No education,91
 2013,Number,Maglaj,M,No education,121
-2013,Number,Mostar,M,No education,275
+2013,Number,Grad Mostar,M,No education,275
 2013,Number,Neum,M,No education,34
 2013,Number,Sarajevo-Novi Grad,M,No education,362
 2013,Number,Novi Travnik,M,No education,126
@@ -202,7 +202,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,F,No education,1814
 2013,Number,Ljubuski,F,No education,600
 2013,Number,Maglaj,F,No education,710
-2013,Number,Mostar,F,No education,1749
+2013,Number,Grad Mostar,F,No education,1749
 2013,Number,Neum,F,No education,170
 2013,Number,Sarajevo-Novi Grad,F,No education,2262
 2013,Number,Novi Travnik,F,No education,718
@@ -281,7 +281,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,Both sexes,Incomplete elementary education,4069
 2013,Number,Ljubuski,Both sexes,Incomplete elementary education,2547
 2013,Number,Maglaj,Both sexes,Incomplete elementary education,2087
-2013,Number,Mostar,Both sexes,Incomplete elementary education,4310
+2013,Number,Grad Mostar,Both sexes,Incomplete elementary education,4310
 2013,Number,Neum,Both sexes,Incomplete elementary education,282
 2013,Number,Sarajevo-Novi Grad,Both sexes,Incomplete elementary education,4062
 2013,Number,Novi Travnik,Both sexes,Incomplete elementary education,1863
@@ -360,7 +360,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,M,Incomplete elementary education,778
 2013,Number,Ljubuski,M,Incomplete elementary education,889
 2013,Number,Maglaj,M,Incomplete elementary education,553
-2013,Number,Mostar,M,Incomplete elementary education,929
+2013,Number,Grad Mostar,M,Incomplete elementary education,929
 2013,Number,Neum,M,Incomplete elementary education,87
 2013,Number,Sarajevo-Novi Grad,M,Incomplete elementary education,739
 2013,Number,Novi Travnik,M,Incomplete elementary education,359
@@ -439,7 +439,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,F,Incomplete elementary education,3291
 2013,Number,Ljubuski,F,Incomplete elementary education,1658
 2013,Number,Maglaj,F,Incomplete elementary education,1534
-2013,Number,Mostar,F,Incomplete elementary education,3381
+2013,Number,Grad Mostar,F,Incomplete elementary education,3381
 2013,Number,Neum,F,Incomplete elementary education,195
 2013,Number,Sarajevo-Novi Grad,F,Incomplete elementary education,3323
 2013,Number,Novi Travnik,F,Incomplete elementary education,1504
@@ -518,7 +518,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,Both sexes,Elementary education,7860
 2013,Number,Ljubuski,Both sexes,Elementary education,3509
 2013,Number,Maglaj,Both sexes,Elementary education,4758
-2013,Number,Mostar,Both sexes,Elementary education,14243
+2013,Number,Grad Mostar,Both sexes,Elementary education,14243
 2013,Number,Neum,Both sexes,Elementary education,608
 2013,Number,Sarajevo-Novi Grad,Both sexes,Elementary education,15973
 2013,Number,Novi Travnik,Both sexes,Elementary education,4298
@@ -597,7 +597,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,M,Elementary education,2992
 2013,Number,Ljubuski,M,Elementary education,1694
 2013,Number,Maglaj,M,Elementary education,1890
-2013,Number,Mostar,M,Elementary education,5501
+2013,Number,Grad Mostar,M,Elementary education,5501
 2013,Number,Neum,M,Elementary education,281
 2013,Number,Sarajevo-Novi Grad,M,Elementary education,5492
 2013,Number,Novi Travnik,M,Elementary education,1682
@@ -676,7 +676,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,F,Elementary education,4868
 2013,Number,Ljubuski,F,Elementary education,1815
 2013,Number,Maglaj,F,Elementary education,2868
-2013,Number,Mostar,F,Elementary education,8742
+2013,Number,Grad Mostar,F,Elementary education,8742
 2013,Number,Neum,F,Elementary education,327
 2013,Number,Sarajevo-Novi Grad,F,Elementary education,10481
 2013,Number,Novi Travnik,F,Elementary education,2616
@@ -755,7 +755,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,Both sexes,Secondary education,20955
 2013,Number,Ljubuski,Both sexes,Secondary education,12685
 2013,Number,Maglaj,Both sexes,Secondary education,10053
-2013,Number,Mostar,Both sexes,Secondary education,50196
+2013,Number,Grad Mostar,Both sexes,Secondary education,50196
 2013,Number,Neum,Both sexes,Secondary education,2092
 2013,Number,Sarajevo-Novi Grad,Both sexes,Secondary education,55560
 2013,Number,Novi Travnik,Both sexes,Secondary education,10488
@@ -834,7 +834,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,M,Secondary education,12568
 2013,Number,Ljubuski,M,Secondary education,6924
 2013,Number,Maglaj,M,Secondary education,5969
-2013,Number,Mostar,M,Secondary education,27372
+2013,Number,Grad Mostar,M,Secondary education,27372
 2013,Number,Neum,M,Secondary education,1157
 2013,Number,Sarajevo-Novi Grad,M,Secondary education,29274
 2013,Number,Novi Travnik,M,Secondary education,6287
@@ -913,7 +913,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,F,Secondary education,8387
 2013,Number,Ljubuski,F,Secondary education,5761
 2013,Number,Maglaj,F,Secondary education,4084
-2013,Number,Mostar,F,Secondary education,22824
+2013,Number,Grad Mostar,F,Secondary education,22824
 2013,Number,Neum,F,Secondary education,935
 2013,Number,Sarajevo-Novi Grad,F,Secondary education,26286
 2013,Number,Novi Travnik,F,Secondary education,4201
@@ -992,7 +992,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,Both sexes,Secondary specialisation,517
 2013,Number,Ljubuski,Both sexes,Secondary specialisation,138
 2013,Number,Maglaj,Both sexes,Secondary specialisation,208
-2013,Number,Mostar,Both sexes,Secondary specialisation,698
+2013,Number,Grad Mostar,Both sexes,Secondary specialisation,698
 2013,Number,Neum,Both sexes,Secondary specialisation,53
 2013,Number,Sarajevo-Novi Grad,Both sexes,Secondary specialisation,665
 2013,Number,Novi Travnik,Both sexes,Secondary specialisation,335
@@ -1071,7 +1071,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,M,Secondary specialisation,478
 2013,Number,Ljubuski,M,Secondary specialisation,83
 2013,Number,Maglaj,M,Secondary specialisation,173
-2013,Number,Mostar,M,Secondary specialisation,555
+2013,Number,Grad Mostar,M,Secondary specialisation,555
 2013,Number,Neum,M,Secondary specialisation,45
 2013,Number,Sarajevo-Novi Grad,M,Secondary specialisation,539
 2013,Number,Novi Travnik,M,Secondary specialisation,301
@@ -1150,7 +1150,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,F,Secondary specialisation,39
 2013,Number,Ljubuski,F,Secondary specialisation,55
 2013,Number,Maglaj,F,Secondary specialisation,35
-2013,Number,Mostar,F,Secondary specialisation,143
+2013,Number,Grad Mostar,F,Secondary specialisation,143
 2013,Number,Neum,F,Secondary specialisation,8
 2013,Number,Sarajevo-Novi Grad,F,Secondary specialisation,126
 2013,Number,Novi Travnik,F,Secondary specialisation,34
@@ -1229,7 +1229,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,Both sexes,Higher school and first degree of faculty,690
 2013,Number,Ljubuski,Both sexes,Higher school and first degree of faculty,891
 2013,Number,Maglaj,Both sexes,Higher school and first degree of faculty,417
-2013,Number,Mostar,Both sexes,Higher school and first degree of faculty,4422
+2013,Number,Grad Mostar,Both sexes,Higher school and first degree of faculty,4422
 2013,Number,Neum,Both sexes,Higher school and first degree of faculty,157
 2013,Number,Sarajevo-Novi Grad,Both sexes,Higher school and first degree of faculty,4084
 2013,Number,Novi Travnik,Both sexes,Higher school and first degree of faculty,520
@@ -1308,7 +1308,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,M,Higher school and first degree of faculty,441
 2013,Number,Ljubuski,M,Higher school and first degree of faculty,416
 2013,Number,Maglaj,M,Higher school and first degree of faculty,233
-2013,Number,Mostar,M,Higher school and first degree of faculty,2202
+2013,Number,Grad Mostar,M,Higher school and first degree of faculty,2202
 2013,Number,Neum,M,Higher school and first degree of faculty,89
 2013,Number,Sarajevo-Novi Grad,M,Higher school and first degree of faculty,2238
 2013,Number,Novi Travnik,M,Higher school and first degree of faculty,300
@@ -1387,7 +1387,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,F,Higher school and first degree of faculty,249
 2013,Number,Ljubuski,F,Higher school and first degree of faculty,475
 2013,Number,Maglaj,F,Higher school and first degree of faculty,184
-2013,Number,Mostar,F,Higher school and first degree of faculty,2220
+2013,Number,Grad Mostar,F,Higher school and first degree of faculty,2220
 2013,Number,Neum,F,Higher school and first degree of faculty,68
 2013,Number,Sarajevo-Novi Grad,F,Higher school and first degree of faculty,1846
 2013,Number,Novi Travnik,F,Higher school and first degree of faculty,220
@@ -1466,7 +1466,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,Both sexes,Faculty / academy / university,2326
 2013,Number,Ljubuski,Both sexes,Faculty / academy / university,2948
 2013,Number,Maglaj,Both sexes,Faculty / academy / university,1097
-2013,Number,Mostar,Both sexes,Faculty / academy / university,14199
+2013,Number,Grad Mostar,Both sexes,Faculty / academy / university,14199
 2013,Number,Neum,Both sexes,Faculty / academy / university,532
 2013,Number,Sarajevo-Novi Grad,Both sexes,Faculty / academy / university,16824
 2013,Number,Novi Travnik,Both sexes,Faculty / academy / university,1330
@@ -1545,7 +1545,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,M,Faculty / academy / university,1150
 2013,Number,Ljubuski,M,Faculty / academy / university,1440
 2013,Number,Maglaj,M,Faculty / academy / university,550
-2013,Number,Mostar,M,Faculty / academy / university,6346
+2013,Number,Grad Mostar,M,Faculty / academy / university,6346
 2013,Number,Neum,M,Faculty / academy / university,287
 2013,Number,Sarajevo-Novi Grad,M,Faculty / academy / university,7465
 2013,Number,Novi Travnik,M,Faculty / academy / university,660
@@ -1624,7 +1624,7 @@ Year,UNIT_MEASURE,Municipality,Sex,Education,Value
 2013,Number,Lukavac,F,Faculty / academy / university,1176
 2013,Number,Ljubuski,F,Faculty / academy / university,1508
 2013,Number,Maglaj,F,Faculty / academy / university,547
-2013,Number,Mostar,F,Faculty / academy / university,7853
+2013,Number,Grad Mostar,F,Faculty / academy / university,7853
 2013,Number,Neum,F,Faculty / academy / university,245
 2013,Number,Sarajevo-Novi Grad,F,Faculty / academy / university,9359
 2013,Number,Novi Travnik,F,Faculty / academy / university,670

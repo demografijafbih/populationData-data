@@ -44,7 +44,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Lukavac,Total,16656
 2013,Number,Ljubuski,Total,7444
 2013,Number,Maglaj,Total,7687
-2013,Number,Mostar,Total,34129
+2013,Number,Grad Mostar,Total,34129
 2013,Number,Neum,Total,1394
 2013,Number,Sarajevo-Novi Grad,Total,42274
 2013,Number,Novi Travnik,Total,7267
@@ -123,7 +123,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Lukavac,1,3321
 2013,Number,Ljubuski,1,1127
 2013,Number,Maglaj,1,1351
-2013,Number,Mostar,1,6278
+2013,Number,Grad Mostar,1,6278
 2013,Number,Neum,1,242
 2013,Number,Sarajevo-Novi Grad,1,8666
 2013,Number,Novi Travnik,1,1082
@@ -202,7 +202,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Lukavac,2,4793
 2013,Number,Ljubuski,2,1323
 2013,Number,Maglaj,2,1858
-2013,Number,Mostar,2,7817
+2013,Number,Grad Mostar,2,7817
 2013,Number,Neum,2,312
 2013,Number,Sarajevo-Novi Grad,2,10926
 2013,Number,Novi Travnik,2,1518
@@ -281,7 +281,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Lukavac,3,4194
 2013,Number,Ljubuski,3,1126
 2013,Number,Maglaj,3,1671
-2013,Number,Mostar,3,6904
+2013,Number,Grad Mostar,3,6904
 2013,Number,Neum,3,230
 2013,Number,Sarajevo-Novi Grad,3,9682
 2013,Number,Novi Travnik,3,1526
@@ -360,7 +360,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Lukavac,4,3309
 2013,Number,Ljubuski,4,1365
 2013,Number,Maglaj,4,1746
-2013,Number,Mostar,4,7152
+2013,Number,Grad Mostar,4,7152
 2013,Number,Neum,4,263
 2013,Number,Sarajevo-Novi Grad,4,8817
 2013,Number,Novi Travnik,4,1661
@@ -439,7 +439,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Lukavac,5,753
 2013,Number,Ljubuski,5,1081
 2013,Number,Maglaj,5,601
-2013,Number,Mostar,5,3595
+2013,Number,Grad Mostar,5,3595
 2013,Number,Neum,5,185
 2013,Number,Sarajevo-Novi Grad,5,2831
 2013,Number,Novi Travnik,5,878
@@ -518,7 +518,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Lukavac,6,185
 2013,Number,Ljubuski,6,682
 2013,Number,Maglaj,6,304
-2013,Number,Mostar,6,1494
+2013,Number,Grad Mostar,6,1494
 2013,Number,Neum,6,96
 2013,Number,Sarajevo-Novi Grad,6,856
 2013,Number,Novi Travnik,6,382
@@ -597,7 +597,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Lukavac,7,59
 2013,Number,Ljubuski,7,377
 2013,Number,Maglaj,7,82
-2013,Number,Mostar,7,547
+2013,Number,Grad Mostar,7,547
 2013,Number,Neum,7,28
 2013,Number,Sarajevo-Novi Grad,7,281
 2013,Number,Novi Travnik,7,127
@@ -676,7 +676,7 @@ Year,UNIT_MEASURE,Municipality,Household size,Value
 2013,Number,Lukavac,8+,42
 2013,Number,Ljubuski,8+,363
 2013,Number,Maglaj,8+,74
-2013,Number,Mostar,8+,342
+2013,Number,Grad Mostar,8+,342
 2013,Number,Neum,8+,38
 2013,Number,Sarajevo-Novi Grad,8+,215
 2013,Number,Novi Travnik,8+,93

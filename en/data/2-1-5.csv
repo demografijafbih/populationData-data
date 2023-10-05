@@ -44,7 +44,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Lukavac,Total,19824
 2013,Number,Ljubuski,Total,11872
 2013,Number,Maglaj,Total,9962
-2013,Number,Mostar,Total,46912
+2013,Number,Grad Mostar,Total,46912
 2013,Number,Neum,Total,1948
 2013,Number,Sarajevo-Novi Grad,Total,53683
 2013,Number,Novi Travnik,Total,9963
@@ -123,7 +123,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Lukavac,Did not give birth,4464
 2013,Number,Ljubuski,Did not give birth,4107
 2013,Number,Maglaj,Did not give birth,2547
-2013,Number,Mostar,Did not give birth,15227
+2013,Number,Grad Mostar,Did not give birth,15227
 2013,Number,Neum,Did not give birth,643
 2013,Number,Sarajevo-Novi Grad,Did not give birth,16129
 2013,Number,Novi Travnik,Did not give birth,2871
@@ -202,7 +202,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Lukavac,One child,3691
 2013,Number,Ljubuski,One child,1040
 2013,Number,Maglaj,One child,1424
-2013,Number,Mostar,One child,5896
+2013,Number,Grad Mostar,One child,5896
 2013,Number,Neum,One child,168
 2013,Number,Sarajevo-Novi Grad,One child,9593
 2013,Number,Novi Travnik,One child,1255
@@ -281,7 +281,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Lukavac,Two children,8198
 2013,Number,Ljubuski,Two children,2573
 2013,Number,Maglaj,Two children,3455
-2013,Number,Mostar,Two children,15128
+2013,Number,Grad Mostar,Two children,15128
 2013,Number,Neum,Two children,420
 2013,Number,Sarajevo-Novi Grad,Two children,19695
 2013,Number,Novi Travnik,Two children,2665
@@ -360,7 +360,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Lukavac,Three children,2140
 2013,Number,Ljubuski,Three children,2364
 2013,Number,Maglaj,Three children,1449
-2013,Number,Mostar,Three children,7025
+2013,Number,Grad Mostar,Three children,7025
 2013,Number,Neum,Three children,391
 2013,Number,Sarajevo-Novi Grad,Three children,5446
 2013,Number,Novi Travnik,Three children,1666
@@ -439,7 +439,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Lukavac,Four children,717
 2013,Number,Ljubuski,Four children,1105
 2013,Number,Maglaj,Four children,540
-2013,Number,Mostar,Four children,2270
+2013,Number,Grad Mostar,Four children,2270
 2013,Number,Neum,Four children,185
 2013,Number,Sarajevo-Novi Grad,Four children,1594
 2013,Number,Novi Travnik,Four children,729
@@ -518,7 +518,7 @@ Year,UNIT_MEASURE,Municipality,Number of children,Value
 2013,Number,Lukavac,5+ children,614
 2013,Number,Ljubuski,5+ children,683
 2013,Number,Maglaj,5+ children,547
-2013,Number,Mostar,5+ children,1366
+2013,Number,Grad Mostar,5+ children,1366
 2013,Number,Neum,5+ children,141
 2013,Number,Sarajevo-Novi Grad,5+ children,1226
 2013,Number,Novi Travnik,5+ children,777

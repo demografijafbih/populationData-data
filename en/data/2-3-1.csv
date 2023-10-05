@@ -44,7 +44,7 @@ Year,UNIT_MEASURE,Municipality,Literacy,Sex,Value
 2013,Number,Lukavac,Literate,M,19474
 2013,Number,Ljubuski,Literate,M,12328
 2013,Number,Maglaj,Literate,M,10042
-2013,Number,Mostar,Literate,M,45482
+2013,Number,Grad Mostar,Literate,M,45482
 2013,Number,Neum,Literate,M,2089
 2013,Number,Sarajevo-Novi Grad,Literate,M,48841
 2013,Number,Novi Travnik,Literate,M,10277
@@ -123,7 +123,7 @@ Year,UNIT_MEASURE,Municipality,Literacy,Sex,Value
 2013,Number,Lukavac,Literate,F,19292
 2013,Number,Ljubuski,Literate,F,12242
 2013,Number,Maglaj,Literate,F,9966
-2013,Number,Mostar,Literate,F,48016
+2013,Number,Grad Mostar,Literate,F,48016
 2013,Number,Neum,Literate,F,1960
 2013,Number,Sarajevo-Novi Grad,Literate,F,54682
 2013,Number,Novi Travnik,Literate,F,10000
@@ -202,7 +202,7 @@ Year,UNIT_MEASURE,Municipality,Literacy,Sex,Value
 2013,Number,Lukavac,Illiterate,M,185
 2013,Number,Ljubuski,Illiterate,M,49
 2013,Number,Maglaj,Illiterate,M,64
-2013,Number,Mostar,Illiterate,M,137
+2013,Number,Grad Mostar,Illiterate,M,137
 2013,Number,Neum,Illiterate,M,11
 2013,Number,Sarajevo-Novi Grad,Illiterate,M,159
 2013,Number,Novi Travnik,Illiterate,M,58
@@ -281,7 +281,7 @@ Year,UNIT_MEASURE,Municipality,Literacy,Sex,Value
 2013,Number,Lukavac,Illiterate,F,1359
 2013,Number,Ljubuski,Illiterate,F,312
 2013,Number,Maglaj,Illiterate,F,444
-2013,Number,Mostar,Illiterate,F,1006
+2013,Number,Grad Mostar,Illiterate,F,1006
 2013,Number,Neum,Illiterate,F,105
 2013,Number,Sarajevo-Novi Grad,Illiterate,F,1470
 2013,Number,Novi Travnik,Illiterate,F,459
@@ -360,7 +360,7 @@ Year,UNIT_MEASURE,Municipality,Literacy,Sex,Value
 2013,Number,Lukavac,Unknown,M,125
 2013,Number,Ljubuski,Unknown,M,131
 2013,Number,Maglaj,Unknown,M,70
-2013,Number,Mostar,Unknown,M,338
+2013,Number,Grad Mostar,Unknown,M,338
 2013,Number,Neum,Unknown,M,18
 2013,Number,Sarajevo-Novi Grad,Unknown,M,176
 2013,Number,Novi Travnik,Unknown,M,153
@@ -439,7 +439,7 @@ Year,UNIT_MEASURE,Municipality,Literacy,Sex,Value
 2013,Number,Lukavac,Unknown,F,225
 2013,Number,Ljubuski,Unknown,F,197
 2013,Number,Maglaj,Unknown,F,167
-2013,Number,Mostar,Unknown,F,594
+2013,Number,Grad Mostar,Unknown,F,594
 2013,Number,Neum,Unknown,F,27
 2013,Number,Sarajevo-Novi Grad,Unknown,F,425
 2013,Number,Novi Travnik,Unknown,F,222
