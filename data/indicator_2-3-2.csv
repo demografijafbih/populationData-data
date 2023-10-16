@@ -1,4 +1,4 @@
-YEAR,UNIT-MEASURE,Admin_Area,Sex,highest_attainment,Value
+Year,UNIT-MEASURE,Admin_Area,Sex,highest_attainment,Value
 2013,NUMBER,federation_of_bih,T,T,1862272
 2013,NUMBER,federation_of_bih,T,no_education,82724
 2013,NUMBER,federation_of_bih,T,incomplete_elementary,167956
