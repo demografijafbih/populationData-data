@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Admin_Area,AGE,Sex,Value
+﻿Year,UNIT_MEASURE,Admin_Area,AGE,Sex,Value
 2013,NUMBER,federation_of_bih,T,_T,2219220
 2013,NUMBER,federation_of_bih,0,_T,21718
 2013,NUMBER,federation_of_bih,1,_T,22690
@@ -259,7 +259,7 @@ Year,UNIT_MEASURE,Admin_Area,AGE,Sex,Value
 2013,NUMBER,posavina_canton,82,_T,156
 2013,NUMBER,posavina_canton,83,_T,101
 2013,NUMBER,posavina_canton,84,_T,91
-2013,NUMBER,posavina_canton,85 i vi�e,_T,245
+2013,NUMBER,posavina_canton,85 i više,_T,245
 2013,NUMBER,tuzla_canton,T,_T,445028
 2013,NUMBER,tuzla_canton,0,_T,4395
 2013,NUMBER,tuzla_canton,1,_T,4522
