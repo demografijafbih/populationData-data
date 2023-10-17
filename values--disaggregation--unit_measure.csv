@@ -1,4 +1,5 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-%,%,%,%,%,1,1
-NUMBER,Number,Broj,Број,Broj,1465,5
-permil,‰,‰,‰,‰,9,7
+%,%,%,%,%,10,2
+AGE,Age,Starosna dob,Старосна доб,Starosna dob,5,3
+NUMBER,Number,Broj,Број,Broj,1937,12
+permil,‰,‰,‰,‰,11,9
