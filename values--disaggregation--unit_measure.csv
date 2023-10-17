@@ -12,8 +12,10 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 2060,2060,2060,2060,2060,50,1
 2065,2065,2065,2065,2065,50,1
 2070,2070,2070,2070,2070,50,1
+_%,% of total,% od ukupno,% од укупно,% od ukupno,6,4
 AGE,Age,Starosna dob,Старосна доб,Starosna dob,5,3
 crude_death_rate_1000,Number per 1000 population,Broj na 1.000 stanovnika,Број на 1.000 становника,Broj na 1.000 stanovnika,1,1
-NUMBER,Number,Broj,Број,Broj,12194,25
+NO_PER_1000_LIVE_BIRTHS,Number per 1000 live births,Broj na 1000 živorođenih,Број на 1.000 живорођених,Broj na 1000 živorođenih,2,2
+NUMBER,Number,Broj,Број,Broj,12298,43
 number_birth_rate,Birth Rate,Stopa nataliteta,Стопа наталитета,Stopa nataliteta,1,1
 permil,‰,‰,‰,‰,11,9

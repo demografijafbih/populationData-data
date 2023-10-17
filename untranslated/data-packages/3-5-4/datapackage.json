@@ -12,11 +12,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

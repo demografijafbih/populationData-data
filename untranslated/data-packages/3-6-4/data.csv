@@ -1,1 +1,4 @@
-Year,Value
+Year,UNIT_MEASURE,Value
+2000,_%,100.0
+2006,_%,99.5
+2011,_%,99.9

@@ -12,8 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "MICS_NUMBER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sve metode",
+                "Tradicionalne metode",
+                "Savremene metode",
+                ""
+              ]
+            },
+            "title": "Metoda"
           },
           {
             "name": "Value",

@@ -12,8 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "Ž",
+                "Oba spola",
+                ""
+              ]
+            },
+            "title": "Spol"
           },
           {
             "name": "Value",

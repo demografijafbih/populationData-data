@@ -12,12 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Godina"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
