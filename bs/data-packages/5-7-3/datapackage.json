@@ -12,26 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "type_of_institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "Javna",
-                "Privatna",
-                ""
-              ]
-            },
-            "title": "Vrsta ustanove"
           },
           {
             "name": "Value",

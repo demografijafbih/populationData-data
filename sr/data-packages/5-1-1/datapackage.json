@@ -12,26 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Година"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "type_of_institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Укупно",
-                "Јавна",
-                "Приватна",
-                ""
-              ]
-            },
-            "title": "Врста установе"
           },
           {
             "name": "Value",

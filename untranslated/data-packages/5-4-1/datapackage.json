@@ -12,44 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

@@ -12,42 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "BIRTH",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Živorođeni",
-                "Umrli",
-                ""
-              ]
-            },
-            "title": "Vitalna statistika"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

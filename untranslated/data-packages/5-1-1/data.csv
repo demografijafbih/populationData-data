@@ -1,16 +1,1 @@
-Year,UNIT_MEASURE,type_of_institution,Value
-2016,NUMBER,total,
-2016,NUMBER,public,
-2016,NUMBER,private,
-2017,NUMBER,total,
-2017,NUMBER,public,
-2017,NUMBER,private,
-2018,NUMBER,total,
-2018,NUMBER,public,
-2018,NUMBER,private,
-2019,NUMBER,total,
-2019,NUMBER,public,
-2019,NUMBER,private,
-2020,NUMBER,total,
-2020,NUMBER,public,
-2020,NUMBER,private,
+Year,Value

@@ -12,57 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Tuzlanska županija",
-                "Unsko-sanska županija",
-                "Zeničko-dobojska županija",
-                "Bosansko-podrinjska županija",
-                "Srednjobosanska županija",
-                "Hercegovačko-neretvanska županija",
-                "Sarajevska županija",
-                ""
-              ]
-            },
-            "title": "Administrativna jedinica"
-          },
-          {
-            "name": "type_of_education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Magistri nauka",
-                "Masteri",
-                "Specijalisti",
-                ""
-              ]
-            },
-            "title": "Vrsta obrazovanja"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
           },
           {
             "name": "Value",

@@ -12,51 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Kanton Sarajevo",
-                ""
-              ]
-            },
-            "title": "Administrativna jedinica"
-          },
-          {
-            "name": "scientific_field",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obrazovanje",
-                "Umjetnost i humanističke nauke",
-                "Društvene nauke, novinarstvo i informiranje",
-                "Poslovanje, administracija i pravo",
-                "Prirodne nauke, matematika i statistika",
-                "Informacijske i komunikacijske tehnologije",
-                "Inženjerstvo, proizvodnja i građevinarstvo",
-                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
-                "Zdravstvo i socijalna zaštita",
-                "Usluge",
-                ""
-              ]
-            },
-            "title": "Naučna oblast"
           },
           {
             "name": "Value",

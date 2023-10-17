@@ -12,47 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "scientific_field",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "education",
-                "arts_and_humanities",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
-                "information_and_communication_technologies",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "health_and_social_protection",
-                "services",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

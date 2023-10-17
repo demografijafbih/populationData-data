@@ -12,60 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanska županija",
-                "Posavska županija",
-                "Tuzlanska županija",
-                "Zeničko-dobojska županija",
-                "Bosansko-podrinjska županija",
-                "Srednjobosanska županija",
-                "Hercegovačko-neretvanska županija",
-                "Zapadno-hercegovačka županija",
-                "Sarajevska županija",
-                "Županija 10",
-                ""
-              ]
-            },
-            "title": "Administrativna jedinica"
-          },
-          {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Živorođeni",
-                "Umrli",
-                "Prirodni priraštaj",
-                ""
-              ]
-            },
-            "title": "Vitalna statistika"
           },
           {
             "name": "Value",

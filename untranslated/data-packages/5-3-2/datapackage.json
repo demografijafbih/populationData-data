@@ -12,46 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "type_of_school",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "gymnasium",
-                "technical_high_schools",
-                "vocational_high_schools",
-                "art_schools",
-                "religious_schools",
-                "high_schools_for_students_with_disabilities",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

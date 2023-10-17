@@ -11,45 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Unnamed: 4",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 4"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]

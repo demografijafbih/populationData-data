@@ -12,23 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "MICS_NUMBER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "all_methods",
-                "traditional_methods",
-                "modern_methods",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

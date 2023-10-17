@@ -12,23 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "type_of_institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total",
-                "public",
-                "private",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

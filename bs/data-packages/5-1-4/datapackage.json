@@ -12,51 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanski kanton",
-                "Posavski kanton",
-                "Tuzlanski kanton",
-                "Zeničko-dobojski kanton",
-                "Bosansko-podrinjski kanton",
-                "Srednjobosanski kanton",
-                "Hercegovačko-neretvanski kanton",
-                "Zapadno-hercegovački kanton",
-                "Kanton Sarajevo",
-                "Kanton 10",
-                ""
-              ]
-            },
-            "title": "Administrativna jedinica"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

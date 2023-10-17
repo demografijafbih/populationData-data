@@ -11,52 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Bosnian-Podrinje Canton",
-                "Canton 10",
-                "Central Bosnia Canton",
-                "Federation of Bosnia and Herzegovina",
-                "Herzegovina-Neretva Canton",
-                "Posavina Canton",
-                "Sarajevo Canton",
-                "Tuzla Canton",
-                "Una-Sana Canton",
-                "West Herzegovina Canton",
-                "Zenica-Doboj Canton"
-              ]
-            },
-            "title": "Administrative Area"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]

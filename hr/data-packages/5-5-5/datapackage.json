@@ -12,51 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Federacija Bosne i Hercegovine",
-                "Unsko-sanska županija",
-                "Tuzlanska županija",
-                "Zeničko-dobojska županija",
-                "Bosansko-podrinjska županija",
-                "Srednjobosanska županija",
-                "Hercegovačko-neretvanska županija",
-                "Sarajevska županija",
-                ""
-              ]
-            },
-            "title": "Administrativna jedinica"
-          },
-          {
-            "name": "scientific_field",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Obrazovanje",
-                "Umjetnost i humanističke znanosti",
-                "Društvene znanosti, novinarstvo i informiranje",
-                "Poslovanje, administracija i pravo",
-                "Prirodne znanosti, matematika i statistika",
-                "Informacijske i komunikacijske tehnologije",
-                "Inženjerstvo, proizvodnja i građevinarstvo",
-                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
-                "Zdravstvo i socijalna skrb",
-                "Usluge",
-                ""
-              ]
-            },
-            "title": "Znanstvena oblast"
           },
           {
             "name": "Value",
