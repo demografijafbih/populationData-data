@@ -12,12 +12,67 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Federacija Bosne i Hercegovine",
+                "Unsko-sanski kanton",
+                "Tuzlanski kanton",
+                "Zeničko-dobojski kanton",
+                "Srednjobosanski kanton",
+                "Hercegovačko-neretvanski kanton",
+                "Zapadno-hercegovački kanton",
+                "Kanton Sarajevo",
+                "Posavski kanton",
+                "Bosansko-podrinjski kanton",
+                "Kanton 10",
+                ""
+              ]
+            },
+            "title": "Administrativna jedinica"
+          },
+          {
+            "name": "type_of_school",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Umjetničke škole",
+                "Gimnazija",
+                "Srednje škole za djecu s poteškoćama u razvoju",
+                "Vjerske škole",
+                "Tehničke škole",
+                "Stručne škole",
+                ""
+              ]
+            },
+            "title": "Vrsta škole"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

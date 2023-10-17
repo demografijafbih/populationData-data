@@ -1,7 +1,7 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
-Admin_Area,Administrative Area,Administrativna jedinica,Административна јединица,Administrativna jedinica,11,92
+Admin_Area,Administrative Area,Administrativna jedinica,Административна јединица,Administrativna jedinica,29,92
 ADMIN_AREA,Administrative area,Administrativna oblast,Административно подручје,Administrativna oblast,1,11
-AGE,Age,Starosna dob,Старосна доб,Starosna dob,10,165
+AGE,Age,Starosna dob,Старосна доб,Starosna dob,11,170
 BIRTH,Birth,Vitalna statistika,Рађање,Vitalna statistika,1,2
 Births,Births,Births,Births,Births,1,3
 Cause_of_death,Cause_of_death,Cause_of_death,Cause_of_death,Cause_of_death,1,22
@@ -15,8 +15,10 @@ MICS_NUMBER,Method,Metoda,Метода,Metoda,1,3
 No_of_births,Number of children,Broj djece,Број дјеце,Broj djece,1,7
 PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,26
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
-Sex,Sex,Spol,Пол,Spol,20,5
-SEX,Sex,Spol,Пол,Spol,8,3
+Sex,Sex,Spol,Пол,Spol,34,5
+SEX,Sex,Spol,Пол,Spol,14,3
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,3
+type_of_institution,Type of institution,Vrsta ustanove,Врста установе,Vrsta ustanove,2,8
+type_of_school,Type of school,Vrsta škole,Врста школе,Vrsta škole,2,6
 UNIT-MEASURE,UNIT-MEASURE,UNIT-MEASURE,UNIT-MEASURE,UNIT-MEASURE,1,1
-UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,68,20
+UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,90,20

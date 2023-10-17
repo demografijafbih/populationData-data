@@ -11,14 +11,32 @@
       "schema": {
         "fields": [
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Private",
+                "Public",
+                "Total"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       }

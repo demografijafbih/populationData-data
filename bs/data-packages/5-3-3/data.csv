@@ -1,1 +1,232 @@
-Year,Value
+Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
+2016,Broj,Federacija Bosne i Hercegovine,Oba spola,24033
+2016,Broj,Federacija Bosne i Hercegovine,M,12326
+2016,Broj,Federacija Bosne i Hercegovine,Ž,11707
+2017,Broj,Federacija Bosne i Hercegovine,Oba spola,20093
+2017,Broj,Federacija Bosne i Hercegovine,M,10315
+2017,Broj,Federacija Bosne i Hercegovine,Ž,9778
+2018,Broj,Federacija Bosne i Hercegovine,Oba spola,21631
+2018,Broj,Federacija Bosne i Hercegovine,M,10804
+2018,Broj,Federacija Bosne i Hercegovine,Ž,10827
+2019,Broj,Federacija Bosne i Hercegovine,Oba spola,21304
+2019,Broj,Federacija Bosne i Hercegovine,M,10750
+2019,Broj,Federacija Bosne i Hercegovine,Ž,10554
+2020,Broj,Federacija Bosne i Hercegovine,Oba spola,20556
+2020,Broj,Federacija Bosne i Hercegovine,M,10533
+2020,Broj,Federacija Bosne i Hercegovine,Ž,10023
+2021,Broj,Federacija Bosne i Hercegovine,Oba spola,18898
+2021,Broj,Federacija Bosne i Hercegovine,M,9638
+2021,Broj,Federacija Bosne i Hercegovine,Ž,9260
+2022,Broj,Federacija Bosne i Hercegovine,Oba spola,16711
+2022,Broj,Federacija Bosne i Hercegovine,M,8674
+2022,Broj,Federacija Bosne i Hercegovine,Ž,8037
+2016,Broj,Unsko-sanski kanton,Oba spola,2933
+2016,Broj,Unsko-sanski kanton,M,1492
+2016,Broj,Unsko-sanski kanton,Ž,1441
+2017,Broj,Unsko-sanski kanton,Oba spola,2328
+2017,Broj,Unsko-sanski kanton,M,1192
+2017,Broj,Unsko-sanski kanton,Ž,1136
+2018,Broj,Unsko-sanski kanton,Oba spola,3031
+2018,Broj,Unsko-sanski kanton,M,1509
+2018,Broj,Unsko-sanski kanton,Ž,1522
+2019,Broj,Unsko-sanski kanton,Oba spola,2386
+2019,Broj,Unsko-sanski kanton,M,1173
+2019,Broj,Unsko-sanski kanton,Ž,1213
+2020,Broj,Unsko-sanski kanton,Oba spola,2235
+2020,Broj,Unsko-sanski kanton,M,1145
+2020,Broj,Unsko-sanski kanton,Ž,1090
+2021,Broj,Unsko-sanski kanton,Oba spola,2128
+2021,Broj,Unsko-sanski kanton,M,1129
+2021,Broj,Unsko-sanski kanton,Ž,999
+2022,Broj,Unsko-sanski kanton,Oba spola,1919
+2022,Broj,Unsko-sanski kanton,M,987
+2022,Broj,Unsko-sanski kanton,Ž,932
+2016,Broj,Posavski kanton,Oba spola,412
+2016,Broj,Posavski kanton,M,200
+2016,Broj,Posavski kanton,Ž,212
+2017,Broj,Posavski kanton,Oba spola,373
+2017,Broj,Posavski kanton,M,174
+2017,Broj,Posavski kanton,Ž,199
+2018,Broj,Posavski kanton,Oba spola,354
+2018,Broj,Posavski kanton,M,168
+2018,Broj,Posavski kanton,Ž,186
+2019,Broj,Posavski kanton,Oba spola,262
+2019,Broj,Posavski kanton,M,144
+2019,Broj,Posavski kanton,Ž,118
+2020,Broj,Posavski kanton,Oba spola,295
+2020,Broj,Posavski kanton,M,161
+2020,Broj,Posavski kanton,Ž,134
+2021,Broj,Posavski kanton,Oba spola,238
+2021,Broj,Posavski kanton,M,110
+2021,Broj,Posavski kanton,Ž,128
+2022,Broj,Posavski kanton,Oba spola,240
+2022,Broj,Posavski kanton,M,123
+2022,Broj,Posavski kanton,Ž,117
+2016,Broj,Tuzlanski kanton,Oba spola,4524
+2016,Broj,Tuzlanski kanton,M,2389
+2016,Broj,Tuzlanski kanton,Ž,2135
+2017,Broj,Tuzlanski kanton,Oba spola,3939
+2017,Broj,Tuzlanski kanton,M,2073
+2017,Broj,Tuzlanski kanton,Ž,1866
+2018,Broj,Tuzlanski kanton,Oba spola,3898
+2018,Broj,Tuzlanski kanton,M,2003
+2018,Broj,Tuzlanski kanton,Ž,1895
+2019,Broj,Tuzlanski kanton,Oba spola,4493
+2019,Broj,Tuzlanski kanton,M,2321
+2019,Broj,Tuzlanski kanton,Ž,2172
+2020,Broj,Tuzlanski kanton,Oba spola,3991
+2020,Broj,Tuzlanski kanton,M,2020
+2020,Broj,Tuzlanski kanton,Ž,1971
+2021,Broj,Tuzlanski kanton,Oba spola,3945
+2021,Broj,Tuzlanski kanton,M,2069
+2021,Broj,Tuzlanski kanton,Ž,1876
+2022,Broj,Tuzlanski kanton,Oba spola,3887
+2022,Broj,Tuzlanski kanton,M,2018
+2022,Broj,Tuzlanski kanton,Ž,1869
+2016,Broj,Zeničko-dobojski kanton,Oba spola,3805
+2016,Broj,Zeničko-dobojski kanton,M,2022
+2016,Broj,Zeničko-dobojski kanton,Ž,1783
+2017,Broj,Zeničko-dobojski kanton,Oba spola,3269
+2017,Broj,Zeničko-dobojski kanton,M,1753
+2017,Broj,Zeničko-dobojski kanton,Ž,1516
+2018,Broj,Zeničko-dobojski kanton,Oba spola,3605
+2018,Broj,Zeničko-dobojski kanton,M,1838
+2018,Broj,Zeničko-dobojski kanton,Ž,1767
+2019,Broj,Zeničko-dobojski kanton,Oba spola,3604
+2019,Broj,Zeničko-dobojski kanton,M,1883
+2019,Broj,Zeničko-dobojski kanton,Ž,1721
+2020,Broj,Zeničko-dobojski kanton,Oba spola,3880
+2020,Broj,Zeničko-dobojski kanton,M,2011
+2020,Broj,Zeničko-dobojski kanton,Ž,1869
+2021,Broj,Zeničko-dobojski kanton,Oba spola,3236
+2021,Broj,Zeničko-dobojski kanton,M,1693
+2021,Broj,Zeničko-dobojski kanton,Ž,1543
+2022,Broj,Zeničko-dobojski kanton,Oba spola,2823
+2022,Broj,Zeničko-dobojski kanton,M,1528
+2022,Broj,Zeničko-dobojski kanton,Ž,1295
+2016,Broj,Bosansko-podrinjski kanton,Oba spola,334
+2016,Broj,Bosansko-podrinjski kanton,M,176
+2016,Broj,Bosansko-podrinjski kanton,Ž,158
+2017,Broj,Bosansko-podrinjski kanton,Oba spola,179
+2017,Broj,Bosansko-podrinjski kanton,M,102
+2017,Broj,Bosansko-podrinjski kanton,Ž,77
+2018,Broj,Bosansko-podrinjski kanton,Oba spola,283
+2018,Broj,Bosansko-podrinjski kanton,M,147
+2018,Broj,Bosansko-podrinjski kanton,Ž,136
+2019,Broj,Bosansko-podrinjski kanton,Oba spola,263
+2019,Broj,Bosansko-podrinjski kanton,M,122
+2019,Broj,Bosansko-podrinjski kanton,Ž,141
+2020,Broj,Bosansko-podrinjski kanton,Oba spola,244
+2020,Broj,Bosansko-podrinjski kanton,M,135
+2020,Broj,Bosansko-podrinjski kanton,Ž,109
+2021,Broj,Bosansko-podrinjski kanton,Oba spola,250
+2021,Broj,Bosansko-podrinjski kanton,M,141
+2021,Broj,Bosansko-podrinjski kanton,Ž,109
+2022,Broj,Bosansko-podrinjski kanton,Oba spola,191
+2022,Broj,Bosansko-podrinjski kanton,M,103
+2022,Broj,Bosansko-podrinjski kanton,Ž,88
+2016,Broj,Srednjobosanski kanton,Oba spola,3081
+2016,Broj,Srednjobosanski kanton,M,1581
+2016,Broj,Srednjobosanski kanton,Ž,1500
+2017,Broj,Srednjobosanski kanton,Oba spola,2902
+2017,Broj,Srednjobosanski kanton,M,1428
+2017,Broj,Srednjobosanski kanton,Ž,1474
+2018,Broj,Srednjobosanski kanton,Oba spola,2667
+2018,Broj,Srednjobosanski kanton,M,1308
+2018,Broj,Srednjobosanski kanton,Ž,1359
+2019,Broj,Srednjobosanski kanton,Oba spola,2688
+2019,Broj,Srednjobosanski kanton,M,1314
+2019,Broj,Srednjobosanski kanton,Ž,1374
+2020,Broj,Srednjobosanski kanton,Oba spola,2494
+2020,Broj,Srednjobosanski kanton,M,1314
+2020,Broj,Srednjobosanski kanton,Ž,1180
+2021,Broj,Srednjobosanski kanton,Oba spola,1930
+2021,Broj,Srednjobosanski kanton,M,874
+2021,Broj,Srednjobosanski kanton,Ž,1056
+2022,Broj,Srednjobosanski kanton,Oba spola,1306
+2022,Broj,Srednjobosanski kanton,M,753
+2022,Broj,Srednjobosanski kanton,Ž,553
+2016,Broj,Hercegovačko-neretvanski kanton,Oba spola,2701
+2016,Broj,Hercegovačko-neretvanski kanton,M,1349
+2016,Broj,Hercegovačko-neretvanski kanton,Ž,1352
+2017,Broj,Hercegovačko-neretvanski kanton,Oba spola,2307
+2017,Broj,Hercegovačko-neretvanski kanton,M,1136
+2017,Broj,Hercegovačko-neretvanski kanton,Ž,1171
+2018,Broj,Hercegovačko-neretvanski kanton,Oba spola,2040
+2018,Broj,Hercegovačko-neretvanski kanton,M,983
+2018,Broj,Hercegovačko-neretvanski kanton,Ž,1057
+2019,Broj,Hercegovačko-neretvanski kanton,Oba spola,2203
+2019,Broj,Hercegovačko-neretvanski kanton,M,1110
+2019,Broj,Hercegovačko-neretvanski kanton,Ž,1093
+2020,Broj,Hercegovačko-neretvanski kanton,Oba spola,2109
+2020,Broj,Hercegovačko-neretvanski kanton,M,1047
+2020,Broj,Hercegovačko-neretvanski kanton,Ž,1062
+2021,Broj,Hercegovačko-neretvanski kanton,Oba spola,1795
+2021,Broj,Hercegovačko-neretvanski kanton,M,884
+2021,Broj,Hercegovačko-neretvanski kanton,Ž,911
+2022,Broj,Hercegovačko-neretvanski kanton,Oba spola,1483
+2022,Broj,Hercegovačko-neretvanski kanton,M,706
+2022,Broj,Hercegovačko-neretvanski kanton,Ž,777
+2016,Broj,Zapadno-hercegovački kanton,Oba spola,1208
+2016,Broj,Zapadno-hercegovački kanton,M,609
+2016,Broj,Zapadno-hercegovački kanton,Ž,599
+2017,Broj,Zapadno-hercegovački kanton,Oba spola,1164
+2017,Broj,Zapadno-hercegovački kanton,M,567
+2017,Broj,Zapadno-hercegovački kanton,Ž,597
+2018,Broj,Zapadno-hercegovački kanton,Oba spola,1049
+2018,Broj,Zapadno-hercegovački kanton,M,491
+2018,Broj,Zapadno-hercegovački kanton,Ž,558
+2019,Broj,Zapadno-hercegovački kanton,Oba spola,914
+2019,Broj,Zapadno-hercegovački kanton,M,465
+2019,Broj,Zapadno-hercegovački kanton,Ž,449
+2020,Broj,Zapadno-hercegovački kanton,Oba spola,949
+2020,Broj,Zapadno-hercegovački kanton,M,481
+2020,Broj,Zapadno-hercegovački kanton,Ž,468
+2021,Broj,Zapadno-hercegovački kanton,Oba spola,858
+2021,Broj,Zapadno-hercegovački kanton,M,447
+2021,Broj,Zapadno-hercegovački kanton,Ž,411
+2022,Broj,Zapadno-hercegovački kanton,Oba spola,644
+2022,Broj,Zapadno-hercegovački kanton,M,357
+2022,Broj,Zapadno-hercegovački kanton,Ž,287
+2016,Broj,Kanton Sarajevo,Oba spola,4295
+2016,Broj,Kanton Sarajevo,M,2160
+2016,Broj,Kanton Sarajevo,Ž,2135
+2017,Broj,Kanton Sarajevo,Oba spola,2992
+2017,Broj,Kanton Sarajevo,M,1562
+2017,Broj,Kanton Sarajevo,Ž,1430
+2018,Broj,Kanton Sarajevo,Oba spola,4145
+2018,Broj,Kanton Sarajevo,M,2097
+2018,Broj,Kanton Sarajevo,Ž,2048
+2019,Broj,Kanton Sarajevo,Oba spola,4117
+2019,Broj,Kanton Sarajevo,M,2025
+2019,Broj,Kanton Sarajevo,Ž,2092
+2020,Broj,Kanton Sarajevo,Oba spola,3850
+2020,Broj,Kanton Sarajevo,M,1968
+2020,Broj,Kanton Sarajevo,Ž,1882
+2021,Broj,Kanton Sarajevo,Oba spola,3979
+2021,Broj,Kanton Sarajevo,M,2013
+2021,Broj,Kanton Sarajevo,Ž,1966
+2022,Broj,Kanton Sarajevo,Oba spola,3700
+2022,Broj,Kanton Sarajevo,M,1839
+2022,Broj,Kanton Sarajevo,Ž,1861
+2016,Broj,Kanton 10,Oba spola,740
+2016,Broj,Kanton 10,M,348
+2016,Broj,Kanton 10,Ž,392
+2017,Broj,Kanton 10,Oba spola,640
+2017,Broj,Kanton 10,M,328
+2017,Broj,Kanton 10,Ž,312
+2018,Broj,Kanton 10,Oba spola,559
+2018,Broj,Kanton 10,M,260
+2018,Broj,Kanton 10,Ž,299
+2019,Broj,Kanton 10,Oba spola,374
+2019,Broj,Kanton 10,M,193
+2019,Broj,Kanton 10,Ž,181
+2020,Broj,Kanton 10,Oba spola,509
+2020,Broj,Kanton 10,M,251
+2020,Broj,Kanton 10,Ž,258
+2021,Broj,Kanton 10,Oba spola,539
+2021,Broj,Kanton 10,M,278
+2021,Broj,Kanton 10,Ž,261
+2022,Broj,Kanton 10,Oba spola,518
+2022,Broj,Kanton 10,M,260
+2022,Broj,Kanton 10,Ž,258

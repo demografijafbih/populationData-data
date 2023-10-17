@@ -1,1 +1,212 @@
-Year,Value
+Year,UNIT_MEASURE,Administrative Area,Sex,Value
+2010,Number,Federation of Bosnia and Herzegovina,Both sexes,58
+2011,Number,Federation of Bosnia and Herzegovina,Both sexes,66
+2012,Number,Federation of Bosnia and Herzegovina,Both sexes,134
+2013,Number,Federation of Bosnia and Herzegovina,Both sexes,380
+2014,Number,Federation of Bosnia and Herzegovina,Both sexes,571
+2015,Number,Federation of Bosnia and Herzegovina,Both sexes,597
+2016,Number,Federation of Bosnia and Herzegovina,Both sexes,599
+2017,Number,Federation of Bosnia and Herzegovina,Both sexes,627
+2018,Number,Federation of Bosnia and Herzegovina,Both sexes,603
+2019,Number,Federation of Bosnia and Herzegovina,Both sexes,898
+2020,Number,Federation of Bosnia and Herzegovina,Both sexes,909
+2021,Number,Federation of Bosnia and Herzegovina,Both sexes,753
+2022,Number,Federation of Bosnia and Herzegovina,Both sexes,783
+2010,Number,Federation of Bosnia and Herzegovina,M,18
+2011,Number,Federation of Bosnia and Herzegovina,M,22
+2012,Number,Federation of Bosnia and Herzegovina,M,44
+2013,Number,Federation of Bosnia and Herzegovina,M,121
+2014,Number,Federation of Bosnia and Herzegovina,M,190
+2015,Number,Federation of Bosnia and Herzegovina,M,155
+2016,Number,Federation of Bosnia and Herzegovina,M,160
+2017,Number,Federation of Bosnia and Herzegovina,M,206
+2018,Number,Federation of Bosnia and Herzegovina,M,191
+2019,Number,Federation of Bosnia and Herzegovina,M,319
+2020,Number,Federation of Bosnia and Herzegovina,M,333
+2021,Number,Federation of Bosnia and Herzegovina,M,218
+2022,Number,Federation of Bosnia and Herzegovina,M,217
+2010,Number,Federation of Bosnia and Herzegovina,F,40
+2011,Number,Federation of Bosnia and Herzegovina,F,44
+2012,Number,Federation of Bosnia and Herzegovina,F,90
+2013,Number,Federation of Bosnia and Herzegovina,F,259
+2014,Number,Federation of Bosnia and Herzegovina,F,381
+2015,Number,Federation of Bosnia and Herzegovina,F,442
+2016,Number,Federation of Bosnia and Herzegovina,F,439
+2017,Number,Federation of Bosnia and Herzegovina,F,421
+2018,Number,Federation of Bosnia and Herzegovina,F,412
+2019,Number,Federation of Bosnia and Herzegovina,F,579
+2020,Number,Federation of Bosnia and Herzegovina,F,576
+2021,Number,Federation of Bosnia and Herzegovina,F,535
+2022,Number,Federation of Bosnia and Herzegovina,F,566
+2013,Number,Tuzla Canton,Both sexes,202
+2014,Number,Tuzla Canton,Both sexes,154
+2015,Number,Tuzla Canton,Both sexes,198
+2016,Number,Tuzla Canton,Both sexes,215
+2017,Number,Tuzla Canton,Both sexes,187
+2018,Number,Tuzla Canton,Both sexes,151
+2019,Number,Tuzla Canton,Both sexes,268
+2020,Number,Tuzla Canton,Both sexes,223
+2021,Number,Tuzla Canton,Both sexes,174
+2022,Number,Tuzla Canton,Both sexes,247
+2013,Number,Tuzla Canton,M,67
+2014,Number,Tuzla Canton,M,37
+2015,Number,Tuzla Canton,M,55
+2016,Number,Tuzla Canton,M,55
+2017,Number,Tuzla Canton,M,50
+2018,Number,Tuzla Canton,M,40
+2019,Number,Tuzla Canton,M,65
+2020,Number,Tuzla Canton,M,67
+2021,Number,Tuzla Canton,M,38
+2022,Number,Tuzla Canton,M,63
+2013,Number,Tuzla Canton,F,135
+2014,Number,Tuzla Canton,F,117
+2015,Number,Tuzla Canton,F,143
+2016,Number,Tuzla Canton,F,160
+2017,Number,Tuzla Canton,F,137
+2018,Number,Tuzla Canton,F,111
+2019,Number,Tuzla Canton,F,203
+2020,Number,Tuzla Canton,F,156
+2021,Number,Tuzla Canton,F,136
+2022,Number,Tuzla Canton,F,184
+2022,Number,Zenica-Doboj Canton,Both sexes,4
+2022,Number,Zenica-Doboj Canton,M,3
+2022,Number,Zenica-Doboj Canton,F,1
+2021,Number,Bosnian-Podrinje Canton,Both sexes,15
+2021,Number,Bosnian-Podrinje Canton,M,6
+2021,Number,Bosnian-Podrinje Canton,F,9
+2014,Number,Central Bosnia Canton,Both sexes,12
+2015,Number,Central Bosnia Canton,Both sexes,46
+2016,Number,Central Bosnia Canton,Both sexes,23
+2017,Number,Central Bosnia Canton,Both sexes,19
+2018,Number,Central Bosnia Canton,Both sexes,13
+2019,Number,Central Bosnia Canton,Both sexes,145
+2020,Number,Central Bosnia Canton,Both sexes,73
+2021,Number,Central Bosnia Canton,Both sexes,43
+2022,Number,Central Bosnia Canton,Both sexes,43
+2015,Number,Central Bosnia Canton,M,5
+2016,Number,Central Bosnia Canton,M,3
+2017,Number,Central Bosnia Canton,M,10
+2018,Number,Central Bosnia Canton,M,5
+2019,Number,Central Bosnia Canton,M,91
+2020,Number,Central Bosnia Canton,M,28
+2021,Number,Central Bosnia Canton,M,14
+2022,Number,Central Bosnia Canton,M,18
+2014,Number,Central Bosnia Canton,F,12
+2015,Number,Central Bosnia Canton,F,41
+2016,Number,Central Bosnia Canton,F,20
+2017,Number,Central Bosnia Canton,F,9
+2018,Number,Central Bosnia Canton,F,8
+2019,Number,Central Bosnia Canton,F,54
+2020,Number,Central Bosnia Canton,F,45
+2021,Number,Central Bosnia Canton,F,29
+2022,Number,Central Bosnia Canton,F,25
+2010,Number,Herzegovina-Neretva Canton,Both sexes,40
+2011,Number,Herzegovina-Neretva Canton,Both sexes,53
+2012,Number,Herzegovina-Neretva Canton,Both sexes,115
+2013,Number,Herzegovina-Neretva Canton,Both sexes,137
+2014,Number,Herzegovina-Neretva Canton,Both sexes,178
+2015,Number,Herzegovina-Neretva Canton,Both sexes,184
+2016,Number,Herzegovina-Neretva Canton,Both sexes,168
+2017,Number,Herzegovina-Neretva Canton,Both sexes,74
+2018,Number,Herzegovina-Neretva Canton,Both sexes,99
+2019,Number,Herzegovina-Neretva Canton,Both sexes,124
+2020,Number,Herzegovina-Neretva Canton,Both sexes,142
+2021,Number,Herzegovina-Neretva Canton,Both sexes,76
+2022,Number,Herzegovina-Neretva Canton,Both sexes,108
+2010,Number,Herzegovina-Neretva Canton,M,10
+2011,Number,Herzegovina-Neretva Canton,M,16
+2012,Number,Herzegovina-Neretva Canton,M,36
+2013,Number,Herzegovina-Neretva Canton,M,38
+2014,Number,Herzegovina-Neretva Canton,M,54
+2015,Number,Herzegovina-Neretva Canton,M,59
+2016,Number,Herzegovina-Neretva Canton,M,54
+2017,Number,Herzegovina-Neretva Canton,M,21
+2018,Number,Herzegovina-Neretva Canton,M,28
+2019,Number,Herzegovina-Neretva Canton,M,43
+2020,Number,Herzegovina-Neretva Canton,M,57
+2021,Number,Herzegovina-Neretva Canton,M,22
+2022,Number,Herzegovina-Neretva Canton,M,37
+2010,Number,Herzegovina-Neretva Canton,F,30
+2011,Number,Herzegovina-Neretva Canton,F,37
+2012,Number,Herzegovina-Neretva Canton,F,79
+2013,Number,Herzegovina-Neretva Canton,F,99
+2014,Number,Herzegovina-Neretva Canton,F,124
+2015,Number,Herzegovina-Neretva Canton,F,125
+2016,Number,Herzegovina-Neretva Canton,F,114
+2017,Number,Herzegovina-Neretva Canton,F,53
+2018,Number,Herzegovina-Neretva Canton,F,71
+2019,Number,Herzegovina-Neretva Canton,F,81
+2020,Number,Herzegovina-Neretva Canton,F,85
+2021,Number,Herzegovina-Neretva Canton,F,54
+2022,Number,Herzegovina-Neretva Canton,F,71
+2010,Number,West Herzegovina Canton,Both sexes,16
+2011,Number,West Herzegovina Canton,Both sexes,13
+2012,Number,West Herzegovina Canton,Both sexes,19
+2013,Number,West Herzegovina Canton,Both sexes,14
+2014,Number,West Herzegovina Canton,Both sexes,9
+2015,Number,West Herzegovina Canton,Both sexes,16
+2016,Number,West Herzegovina Canton,Both sexes,15
+2017,Number,West Herzegovina Canton,Both sexes,25
+2018,Number,West Herzegovina Canton,Both sexes,16
+2019,Number,West Herzegovina Canton,Both sexes,6
+2020,Number,West Herzegovina Canton,Both sexes,17
+2021,Number,West Herzegovina Canton,Both sexes,16
+2022,Number,West Herzegovina Canton,Both sexes,13
+2010,Number,West Herzegovina Canton,M,6
+2011,Number,West Herzegovina Canton,M,6
+2012,Number,West Herzegovina Canton,M,8
+2013,Number,West Herzegovina Canton,M,7
+2014,Number,West Herzegovina Canton,M,4
+2015,Number,West Herzegovina Canton,M,5
+2016,Number,West Herzegovina Canton,M,7
+2017,Number,West Herzegovina Canton,M,6
+2018,Number,West Herzegovina Canton,M,6
+2019,Number,West Herzegovina Canton,M,2
+2020,Number,West Herzegovina Canton,M,7
+2021,Number,West Herzegovina Canton,M,7
+2022,Number,West Herzegovina Canton,M,2
+2010,Number,West Herzegovina Canton,F,10
+2011,Number,West Herzegovina Canton,F,7
+2012,Number,West Herzegovina Canton,F,11
+2013,Number,West Herzegovina Canton,F,7
+2014,Number,West Herzegovina Canton,F,5
+2015,Number,West Herzegovina Canton,F,11
+2016,Number,West Herzegovina Canton,F,8
+2017,Number,West Herzegovina Canton,F,19
+2018,Number,West Herzegovina Canton,F,10
+2019,Number,West Herzegovina Canton,F,4
+2020,Number,West Herzegovina Canton,F,10
+2021,Number,West Herzegovina Canton,F,9
+2022,Number,West Herzegovina Canton,F,11
+2010,Number,Sarajevo Canton,Both sexes,2
+2013,Number,Sarajevo Canton,Both sexes,27
+2014,Number,Sarajevo Canton,Both sexes,218
+2015,Number,Sarajevo Canton,Both sexes,153
+2016,Number,Sarajevo Canton,Both sexes,178
+2017,Number,Sarajevo Canton,Both sexes,322
+2018,Number,Sarajevo Canton,Both sexes,324
+2019,Number,Sarajevo Canton,Both sexes,351
+2020,Number,Sarajevo Canton,Both sexes,454
+2021,Number,Sarajevo Canton,Both sexes,429
+2022,Number,Sarajevo Canton,Both sexes,368
+2010,Number,Sarajevo Canton,M,2
+2013,Number,Sarajevo Canton,M,9
+2014,Number,Sarajevo Canton,M,95
+2015,Number,Sarajevo Canton,M,31
+2016,Number,Sarajevo Canton,M,41
+2017,Number,Sarajevo Canton,M,119
+2018,Number,Sarajevo Canton,M,112
+2019,Number,Sarajevo Canton,M,116
+2020,Number,Sarajevo Canton,M,174
+2021,Number,Sarajevo Canton,M,131
+2022,Number,Sarajevo Canton,M,94
+2013,Number,Sarajevo Canton,F,18
+2014,Number,Sarajevo Canton,F,123
+2015,Number,Sarajevo Canton,F,122
+2016,Number,Sarajevo Canton,F,137
+2017,Number,Sarajevo Canton,F,203
+2018,Number,Sarajevo Canton,F,212
+2019,Number,Sarajevo Canton,F,235
+2020,Number,Sarajevo Canton,F,280
+2021,Number,Sarajevo Canton,F,298
+2022,Number,Sarajevo Canton,F,274

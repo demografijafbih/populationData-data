@@ -1,1 +1,247 @@
-Year,Value
+Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
+2010,Broj,Federacija Bosne i Hercegovine,Oba spola,535
+2011,Broj,Federacija Bosne i Hercegovine,Oba spola,1157
+2012,Broj,Federacija Bosne i Hercegovine,Oba spola,1595
+2013,Broj,Federacija Bosne i Hercegovine,Oba spola,2316
+2014,Broj,Federacija Bosne i Hercegovine,Oba spola,2355
+2015,Broj,Federacija Bosne i Hercegovine,Oba spola,2564
+2016,Broj,Federacija Bosne i Hercegovine,Oba spola,2959
+2017,Broj,Federacija Bosne i Hercegovine,Oba spola,2927
+2018,Broj,Federacija Bosne i Hercegovine,Oba spola,2641
+2019,Broj,Federacija Bosne i Hercegovine,Oba spola,2823
+2020,Broj,Federacija Bosne i Hercegovine,Oba spola,2718
+2021,Broj,Federacija Bosne i Hercegovine,Oba spola,3116
+2022,Broj,Federacija Bosne i Hercegovine,Oba spola,2795
+2010,Broj,Federacija Bosne i Hercegovine,M,201
+2011,Broj,Federacija Bosne i Hercegovine,M,393
+2012,Broj,Federacija Bosne i Hercegovine,M,557
+2013,Broj,Federacija Bosne i Hercegovine,M,862
+2014,Broj,Federacija Bosne i Hercegovine,M,837
+2015,Broj,Federacija Bosne i Hercegovine,M,962
+2016,Broj,Federacija Bosne i Hercegovine,M,1070
+2017,Broj,Federacija Bosne i Hercegovine,M,1038
+2018,Broj,Federacija Bosne i Hercegovine,M,980
+2019,Broj,Federacija Bosne i Hercegovine,M,1026
+2020,Broj,Federacija Bosne i Hercegovine,M,950
+2021,Broj,Federacija Bosne i Hercegovine,M,1064
+2022,Broj,Federacija Bosne i Hercegovine,M,992
+2010,Broj,Federacija Bosne i Hercegovine,Ž,334
+2011,Broj,Federacija Bosne i Hercegovine,Ž,764
+2012,Broj,Federacija Bosne i Hercegovine,Ž,1038
+2013,Broj,Federacija Bosne i Hercegovine,Ž,1454
+2014,Broj,Federacija Bosne i Hercegovine,Ž,1518
+2015,Broj,Federacija Bosne i Hercegovine,Ž,1602
+2016,Broj,Federacija Bosne i Hercegovine,Ž,1889
+2017,Broj,Federacija Bosne i Hercegovine,Ž,1889
+2018,Broj,Federacija Bosne i Hercegovine,Ž,1661
+2019,Broj,Federacija Bosne i Hercegovine,Ž,1797
+2020,Broj,Federacija Bosne i Hercegovine,Ž,1768
+2021,Broj,Federacija Bosne i Hercegovine,Ž,2052
+2022,Broj,Federacija Bosne i Hercegovine,Ž,1803
+2010,Broj,Unsko-sanska županija,Oba spola,1
+2013,Broj,Unsko-sanska županija,Oba spola,1
+2014,Broj,Unsko-sanska županija,Oba spola,9
+2015,Broj,Unsko-sanska županija,Oba spola,19
+2016,Broj,Unsko-sanska županija,Oba spola,27
+2017,Broj,Unsko-sanska županija,Oba spola,29
+2018,Broj,Unsko-sanska županija,Oba spola,22
+2019,Broj,Unsko-sanska županija,Oba spola,22
+2020,Broj,Unsko-sanska županija,Oba spola,15
+2021,Broj,Unsko-sanska županija,Oba spola,18
+2022,Broj,Unsko-sanska županija,Oba spola,11
+2013,Broj,Unsko-sanska županija,M,1
+2014,Broj,Unsko-sanska županija,M,5
+2015,Broj,Unsko-sanska županija,M,13
+2016,Broj,Unsko-sanska županija,M,13
+2017,Broj,Unsko-sanska županija,M,18
+2018,Broj,Unsko-sanska županija,M,16
+2019,Broj,Unsko-sanska županija,M,9
+2020,Broj,Unsko-sanska županija,M,6
+2021,Broj,Unsko-sanska županija,M,7
+2022,Broj,Unsko-sanska županija,M,3
+2010,Broj,Unsko-sanska županija,Ž,1
+2014,Broj,Unsko-sanska županija,Ž,4
+2015,Broj,Unsko-sanska županija,Ž,6
+2016,Broj,Unsko-sanska županija,Ž,14
+2017,Broj,Unsko-sanska županija,Ž,11
+2018,Broj,Unsko-sanska županija,Ž,6
+2019,Broj,Unsko-sanska županija,Ž,13
+2020,Broj,Unsko-sanska županija,Ž,9
+2021,Broj,Unsko-sanska županija,Ž,11
+2022,Broj,Unsko-sanska županija,Ž,8
+2013,Broj,Tuzlanska županija,Oba spola,6
+2014,Broj,Tuzlanska županija,Oba spola,58
+2015,Broj,Tuzlanska županija,Oba spola,125
+2016,Broj,Tuzlanska županija,Oba spola,113
+2017,Broj,Tuzlanska županija,Oba spola,74
+2018,Broj,Tuzlanska županija,Oba spola,110
+2019,Broj,Tuzlanska županija,Oba spola,104
+2020,Broj,Tuzlanska županija,Oba spola,64
+2021,Broj,Tuzlanska županija,Oba spola,95
+2022,Broj,Tuzlanska županija,Oba spola,109
+2013,Broj,Tuzlanska županija,M,5
+2014,Broj,Tuzlanska županija,M,28
+2015,Broj,Tuzlanska županija,M,61
+2016,Broj,Tuzlanska županija,M,60
+2017,Broj,Tuzlanska županija,M,43
+2018,Broj,Tuzlanska županija,M,61
+2019,Broj,Tuzlanska županija,M,44
+2020,Broj,Tuzlanska županija,M,29
+2021,Broj,Tuzlanska županija,M,50
+2022,Broj,Tuzlanska županija,M,41
+2013,Broj,Tuzlanska županija,Ž,1
+2014,Broj,Tuzlanska županija,Ž,30
+2015,Broj,Tuzlanska županija,Ž,64
+2016,Broj,Tuzlanska županija,Ž,53
+2017,Broj,Tuzlanska županija,Ž,31
+2018,Broj,Tuzlanska županija,Ž,49
+2019,Broj,Tuzlanska županija,Ž,60
+2020,Broj,Tuzlanska županija,Ž,35
+2021,Broj,Tuzlanska županija,Ž,45
+2022,Broj,Tuzlanska županija,Ž,68
+2012,Broj,Zeničko-dobojska županija,Oba spola,2
+2013,Broj,Zeničko-dobojska županija,Oba spola,11
+2014,Broj,Zeničko-dobojska županija,Oba spola,6
+2015,Broj,Zeničko-dobojska županija,Oba spola,10
+2016,Broj,Zeničko-dobojska županija,Oba spola,20
+2017,Broj,Zeničko-dobojska županija,Oba spola,38
+2018,Broj,Zeničko-dobojska županija,Oba spola,45
+2019,Broj,Zeničko-dobojska županija,Oba spola,34
+2020,Broj,Zeničko-dobojska županija,Oba spola,48
+2021,Broj,Zeničko-dobojska županija,Oba spola,25
+2022,Broj,Zeničko-dobojska županija,Oba spola,34
+2012,Broj,Zeničko-dobojska županija,M,2
+2013,Broj,Zeničko-dobojska županija,M,3
+2014,Broj,Zeničko-dobojska županija,M,3
+2015,Broj,Zeničko-dobojska županija,M,4
+2016,Broj,Zeničko-dobojska županija,M,9
+2017,Broj,Zeničko-dobojska županija,M,19
+2018,Broj,Zeničko-dobojska županija,M,18
+2019,Broj,Zeničko-dobojska županija,M,2
+2020,Broj,Zeničko-dobojska županija,M,14
+2021,Broj,Zeničko-dobojska županija,M,13
+2022,Broj,Zeničko-dobojska županija,M,7
+2013,Broj,Zeničko-dobojska županija,Ž,8
+2014,Broj,Zeničko-dobojska županija,Ž,3
+2015,Broj,Zeničko-dobojska županija,Ž,6
+2016,Broj,Zeničko-dobojska županija,Ž,11
+2017,Broj,Zeničko-dobojska županija,Ž,19
+2018,Broj,Zeničko-dobojska županija,Ž,27
+2019,Broj,Zeničko-dobojska županija,Ž,32
+2020,Broj,Zeničko-dobojska županija,Ž,34
+2021,Broj,Zeničko-dobojska županija,Ž,12
+2022,Broj,Zeničko-dobojska županija,Ž,27
+2011,Broj,Srednjobosanska županija,Oba spola,6
+2013,Broj,Srednjobosanska županija,Oba spola,65
+2014,Broj,Srednjobosanska županija,Oba spola,38
+2015,Broj,Srednjobosanska županija,Oba spola,61
+2016,Broj,Srednjobosanska županija,Oba spola,100
+2017,Broj,Srednjobosanska županija,Oba spola,113
+2018,Broj,Srednjobosanska županija,Oba spola,157
+2019,Broj,Srednjobosanska županija,Oba spola,205
+2020,Broj,Srednjobosanska županija,Oba spola,177
+2021,Broj,Srednjobosanska županija,Oba spola,181
+2022,Broj,Srednjobosanska županija,Oba spola,291
+2011,Broj,Srednjobosanska županija,M,4
+2013,Broj,Srednjobosanska županija,M,52
+2014,Broj,Srednjobosanska županija,M,19
+2015,Broj,Srednjobosanska županija,M,27
+2016,Broj,Srednjobosanska županija,M,45
+2017,Broj,Srednjobosanska županija,M,59
+2018,Broj,Srednjobosanska županija,M,99
+2019,Broj,Srednjobosanska županija,M,110
+2020,Broj,Srednjobosanska županija,M,102
+2021,Broj,Srednjobosanska županija,M,106
+2022,Broj,Srednjobosanska županija,M,140
+2011,Broj,Srednjobosanska županija,Ž,2
+2013,Broj,Srednjobosanska županija,Ž,13
+2014,Broj,Srednjobosanska županija,Ž,19
+2015,Broj,Srednjobosanska županija,Ž,34
+2016,Broj,Srednjobosanska županija,Ž,55
+2017,Broj,Srednjobosanska županija,Ž,54
+2018,Broj,Srednjobosanska županija,Ž,58
+2019,Broj,Srednjobosanska županija,Ž,95
+2020,Broj,Srednjobosanska županija,Ž,75
+2021,Broj,Srednjobosanska županija,Ž,75
+2022,Broj,Srednjobosanska županija,Ž,151
+2010,Broj,Hercegovačko-neretvanska županija,Oba spola,224
+2011,Broj,Hercegovačko-neretvanska županija,Oba spola,350
+2012,Broj,Hercegovačko-neretvanska županija,Oba spola,422
+2013,Broj,Hercegovačko-neretvanska županija,Oba spola,607
+2014,Broj,Hercegovačko-neretvanska županija,Oba spola,847
+2015,Broj,Hercegovačko-neretvanska županija,Oba spola,797
+2016,Broj,Hercegovačko-neretvanska županija,Oba spola,820
+2017,Broj,Hercegovačko-neretvanska županija,Oba spola,962
+2018,Broj,Hercegovačko-neretvanska županija,Oba spola,822
+2019,Broj,Hercegovačko-neretvanska županija,Oba spola,963
+2020,Broj,Hercegovačko-neretvanska županija,Oba spola,786
+2021,Broj,Hercegovačko-neretvanska županija,Oba spola,1208
+2022,Broj,Hercegovačko-neretvanska županija,Oba spola,902
+2010,Broj,Hercegovačko-neretvanska županija,M,59
+2011,Broj,Hercegovačko-neretvanska županija,M,87
+2012,Broj,Hercegovačko-neretvanska županija,M,125
+2013,Broj,Hercegovačko-neretvanska županija,M,147
+2014,Broj,Hercegovačko-neretvanska županija,M,240
+2015,Broj,Hercegovačko-neretvanska županija,M,240
+2016,Broj,Hercegovačko-neretvanska županija,M,275
+2017,Broj,Hercegovačko-neretvanska županija,M,276
+2018,Broj,Hercegovačko-neretvanska županija,M,256
+2019,Broj,Hercegovačko-neretvanska županija,M,320
+2020,Broj,Hercegovačko-neretvanska županija,M,219
+2021,Broj,Hercegovačko-neretvanska županija,M,359
+2022,Broj,Hercegovačko-neretvanska županija,M,304
+2010,Broj,Hercegovačko-neretvanska županija,Ž,165
+2011,Broj,Hercegovačko-neretvanska županija,Ž,263
+2012,Broj,Hercegovačko-neretvanska županija,Ž,297
+2013,Broj,Hercegovačko-neretvanska županija,Ž,460
+2014,Broj,Hercegovačko-neretvanska županija,Ž,607
+2015,Broj,Hercegovačko-neretvanska županija,Ž,557
+2016,Broj,Hercegovačko-neretvanska županija,Ž,545
+2017,Broj,Hercegovačko-neretvanska županija,Ž,686
+2018,Broj,Hercegovačko-neretvanska županija,Ž,566
+2019,Broj,Hercegovačko-neretvanska županija,Ž,643
+2020,Broj,Hercegovačko-neretvanska županija,Ž,567
+2021,Broj,Hercegovačko-neretvanska županija,Ž,849
+2022,Broj,Hercegovačko-neretvanska županija,Ž,598
+2022,Broj,Zapadno-hercegovačka županija,Oba spola,2
+2022,Broj,Zapadno-hercegovačka županija,M,1
+2022,Broj,Zapadno-hercegovačka županija,Ž,1
+2010,Broj,Sarajevska županija,Oba spola,297
+2011,Broj,Sarajevska županija,Oba spola,741
+2012,Broj,Sarajevska županija,Oba spola,1171
+2013,Broj,Sarajevska županija,Oba spola,1626
+2014,Broj,Sarajevska županija,Oba spola,1383
+2015,Broj,Sarajevska županija,Oba spola,1542
+2016,Broj,Sarajevska županija,Oba spola,1837
+2017,Broj,Sarajevska županija,Oba spola,1686
+2018,Broj,Sarajevska županija,Oba spola,1462
+2019,Broj,Sarajevska županija,Oba spola,1478
+2020,Broj,Sarajevska županija,Oba spola,1628
+2021,Broj,Sarajevska županija,Oba spola,1589
+2022,Broj,Sarajevska županija,Oba spola,1446
+2010,Broj,Sarajevska županija,M,136
+2011,Broj,Sarajevska županija,M,292
+2012,Broj,Sarajevska županija,M,430
+2013,Broj,Sarajevska županija,M,654
+2014,Broj,Sarajevska županija,M,534
+2015,Broj,Sarajevska županija,M,612
+2016,Broj,Sarajevska županija,M,644
+2017,Broj,Sarajevska županija,M,610
+2018,Broj,Sarajevska županija,M,523
+2019,Broj,Sarajevska županija,M,531
+2020,Broj,Sarajevska županija,M,580
+2021,Broj,Sarajevska županija,M,529
+2022,Broj,Sarajevska županija,M,496
+2010,Broj,Sarajevska županija,Ž,161
+2011,Broj,Sarajevska županija,Ž,449
+2012,Broj,Sarajevska županija,Ž,741
+2013,Broj,Sarajevska županija,Ž,972
+2014,Broj,Sarajevska županija,Ž,849
+2015,Broj,Sarajevska županija,Ž,930
+2016,Broj,Sarajevska županija,Ž,1193
+2017,Broj,Sarajevska županija,Ž,1076
+2018,Broj,Sarajevska županija,Ž,939
+2019,Broj,Sarajevska županija,Ž,947
+2020,Broj,Sarajevska županija,Ž,1048
+2021,Broj,Sarajevska županija,Ž,1060
+2022,Broj,Sarajevska županija,Ž,950

@@ -3,6 +3,85 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "5-3-4/data.csv",
+      "name": "5-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Посавски кантон",
+                "Босанско-подрињски кантон",
+                "Кантон 10",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "type_of_school",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Умјетничке школе",
+                "Гимназија",
+                "Средње школе за дјецу са посебним потребама",
+                "Вјерске школе",
+                "Техничке школе",
+                "Стручне школe",
+                ""
+              ]
+            },
+            "title": "Врста школе"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Број ученика који су завршили средњу школу према врсти школе"
+    },
+    {
       "path": "1-6-4/data.csv",
       "name": "1-6-4",
       "profile": "tabular-data-resource",
@@ -302,6 +381,65 @@
       "title": "1-8-3"
     },
     {
+      "path": "3-7-1/data.csv",
+      "name": "3-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-14",
+                "15-19",
+                "20-29",
+                "30-49",
+                "50-59",
+                "60-64",
+                "65+",
+                ""
+              ]
+            },
+            "title": "Старосна доб"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Становништво са потешкоћама према врсти потешкоће и полу"
+    },
+    {
       "path": "3-5-5/data.csv",
       "name": "3-5-5",
       "profile": "tabular-data-resource",
@@ -535,6 +673,69 @@
       "title": "Просјечна старост мајке приликом рођења првог дјетета"
     },
     {
+      "path": "5-2-1/data.csv",
+      "name": "5-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Посавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Број ученика на почетку школске године према полу (основна школа)"
+    },
+    {
       "path": "3-5-2/data.csv",
       "name": "3-5-2",
       "profile": "tabular-data-resource",
@@ -663,6 +864,106 @@
       "title": "Стопа мртворођених"
     },
     {
+      "path": "5-7-2/data.csv",
+      "name": "5-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Становништво у доби од 15-24 године које није запослено, не образује се нити се усавршава (НЕЕТ), према полу"
+    },
+    {
+      "path": "5-4-2/data.csv",
+      "name": "5-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Дипломирани студенти према полу"
+    },
+    {
       "path": "3-5-3/data.csv",
       "name": "3-5-3",
       "profile": "tabular-data-resource",
@@ -690,6 +991,55 @@
         ]
       },
       "title": "Број доктора медицине запослених у установама за пружање здравствене заштите према полу"
+    },
+    {
+      "path": "5-5-5/data.csv",
+      "name": "5-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "scientific_field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Научна област"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Уписани на магистарске, мастер и специјалистичке студије према области образовања"
     },
     {
       "path": "2-1-4/data.csv",
@@ -961,6 +1311,69 @@
       "title": "Пројектовани коефицијенти зависности према полу"
     },
     {
+      "path": "5-1-4/data.csv",
+      "name": "5-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Посавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Број васпитача у предшколским установама према полу"
+    },
+    {
       "path": "3-5-6/data.csv",
       "name": "3-5-6",
       "profile": "tabular-data-resource",
@@ -1162,6 +1575,69 @@
         ]
       },
       "title": "Пројекције становништва према старости и полу"
+    },
+    {
+      "path": "5-3-3/data.csv",
+      "name": "5-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Посавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Број ученика који су завршили средњу школу према полу"
     },
     {
       "path": "1-8-1/data.csv",
@@ -1675,6 +2151,108 @@
       "title": "Број царских резова на 1,000 живорођене дјеце"
     },
     {
+      "path": "5-7-3/data.csv",
+      "name": "5-7-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Врста установе"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Становништво старо 10 и више година према писмености и полу"
+    },
+    {
+      "path": "5-1-2/data.csv",
+      "name": "5-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Посавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Број дјеце у предшколским установама према полу"
+    },
+    {
       "path": "3-3-4/data.csv",
       "name": "3-3-4",
       "profile": "tabular-data-resource",
@@ -1880,6 +2458,67 @@
       "title": "3-3-2"
     },
     {
+      "path": "5-6-1/data.csv",
+      "name": "5-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Уписани на докторске студије према полу"
+    },
+    {
       "path": "1-3-1/data.csv",
       "name": "1-3-1",
       "profile": "tabular-data-resource",
@@ -1909,6 +2548,69 @@
       "title": "Стопа морталитета"
     },
     {
+      "path": "5-2-3/data.csv",
+      "name": "5-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Посавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Број наставника у основним школама према полу"
+    },
+    {
       "path": "3-4-1/data.csv",
       "name": "3-4-1",
       "profile": "tabular-data-resource",
@@ -1936,6 +2638,45 @@
         ]
       },
       "title": "Број царских резова"
+    },
+    {
+      "path": "5-7-1/data.csv",
+      "name": "5-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Становништво у доби од 25-64 године уписано у неформално образовање одраслих, према старосној доби и полу"
     },
     {
       "path": "1-3-3/data.csv",
@@ -1978,6 +2719,65 @@
         ]
       },
       "title": "Стопа смртности одојчади"
+    },
+    {
+      "path": "5-5-3/data.csv",
+      "name": "5-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "type_of_education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Врста образовања"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Дипломирани студенти интегрисаних студија према области образовања"
     },
     {
       "path": "2-2-1/data.csv",
@@ -2372,6 +3172,102 @@
       "title": "Број опстетричара и гинеколога запослених у установама за пружање здравствене заштите"
     },
     {
+      "path": "4-1-2/data.csv",
+      "name": "4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "Домови за дјецу и младе без родитељског старања",
+                "Установе социјалне заштите за дјецу, младе и одрасле са менталним и физичким инвалидитетом",
+                "Установе социјалне заштите за одрасле особе са инвалидитетом",
+                "Установе социјалне заштите за одрасле",
+                ""
+              ]
+            },
+            "title": "Врста установе"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Корисници социјалне заштите према врсти установе и полу"
+    },
+    {
+      "path": "5-7-4/data.csv",
+      "name": "5-7-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Врста установе"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Становништво старо 15 и више година према највишој завршеној школи и полу"
+    },
+    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -2399,6 +3295,48 @@
         ]
       },
       "title": "Стопа наталитета"
+    },
+    {
+      "path": "5-1-1/data.csv",
+      "name": "5-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупно",
+                "Јавна",
+                "Приватна",
+                ""
+              ]
+            },
+            "title": "Врста установе"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Број предшколских установа према својини"
     },
     {
       "path": "3-1-2/data.csv",
@@ -2459,6 +3397,175 @@
         ]
       },
       "title": "Стопа смртности одојчади"
+    },
+    {
+      "path": "5-5-6/data.csv",
+      "name": "5-5-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Магистри наука, мастери и специјалисти према полу"
+    },
+    {
+      "path": "5-5-1/data.csv",
+      "name": "5-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Уписани на интегрисане студије према полу"
+    },
+    {
+      "path": "5-5-7/data.csv",
+      "name": "5-5-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "scientific_field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Научна област"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Магистри наука, мастери и специјалисти према области образовања"
     },
     {
       "path": "3-2-4/data.csv",
@@ -2594,6 +3701,48 @@
       "title": "Становништво старо 10 и више година према писмености и полу"
     },
     {
+      "path": "5-1-3/data.csv",
+      "name": "5-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Број дјеце у јаслицама према полу"
+    },
+    {
       "path": "1-4-2/data.csv",
       "name": "1-4-2",
       "profile": "tabular-data-resource",
@@ -2703,6 +3852,72 @@
         ]
       },
       "title": "Просјечна старост приликом склапања првог брака према полу"
+    },
+    {
+      "path": "5-3-2/data.csv",
+      "name": "5-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Посавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "type_of_school",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Гимназија",
+                "Техничке школе",
+                "Стручне школe",
+                "Умјетничке школе",
+                "Вјерске школе",
+                "Средње школе за дјецу са посебним потребама",
+                ""
+              ]
+            },
+            "title": "Врста школе"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Број ученика на почетку школске године према врсти средње школе"
     },
     {
       "path": "3-6-1/data.csv",
@@ -3093,6 +4308,181 @@
       "title": "Пројекције становништва према старосним групама и полу"
     },
     {
+      "path": "5-6-4/data.csv",
+      "name": "5-6-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "scientific_field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Научна област"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Доктори наука према области образовања"
+    },
+    {
+      "path": "5-3-5/data.csv",
+      "name": "5-3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Посавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Број наставника у средњим школама према полу"
+    },
+    {
+      "path": "4-1-1/data.csv",
+      "name": "4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Посавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Корисници социјалне заштите према врсти корисника и полу"
+    },
+    {
       "path": "3-2-2/data.csv",
       "name": "3-2-2",
       "profile": "tabular-data-resource",
@@ -3445,6 +4835,115 @@
       "title": "Задовољене потребе за планирањем породице"
     },
     {
+      "path": "5-6-3/data.csv",
+      "name": "5-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Доктори наука према полу"
+    },
+    {
+      "path": "5-4-1/data.csv",
+      "name": "5-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Кантон Сарајево",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Уписани у основне студијске програме према полу"
+    },
+    {
       "path": "1-2-3/data.csv",
       "name": "1-2-3",
       "profile": "tabular-data-resource",
@@ -3474,6 +4973,118 @@
       "title": "Стопа фертилитета према старосним групама"
     },
     {
+      "path": "5-4-3/data.csv",
+      "name": "5-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "scientific_field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Научна област"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Дипломирани студенти према области образовања"
+    },
+    {
+      "path": "5-3-1/data.csv",
+      "name": "5-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Посавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Број ученика на почетку школске године према полу (средња школа)"
+    },
+    {
       "path": "1-7-5/data.csv",
       "name": "1-7-5",
       "profile": "tabular-data-resource",
@@ -3501,6 +5112,115 @@
         ]
       },
       "title": "Пројектована стопа наталитета"
+    },
+    {
+      "path": "5-5-2/data.csv",
+      "name": "5-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Дипломирани студенти интегрисаних студија према полу"
+    },
+    {
+      "path": "5-6-2/data.csv",
+      "name": "5-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "scientific_field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Научна област"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Уписани на докторске студије према области образовања"
     },
     {
       "path": "3-1-3/data.csv",
@@ -3628,6 +5348,69 @@
       "title": "Мртворођени према полу"
     },
     {
+      "path": "5-2-2/data.csv",
+      "name": "5-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Посавски кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                "Кантон 10",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Број ученика који су завршили основну школу према полу"
+    },
+    {
       "path": "3-1-5/data.csv",
       "name": "3-1-5",
       "profile": "tabular-data-resource",
@@ -3697,8 +5480,8 @@
       "title": "Инциденца карцинома цервикса"
     },
     {
-      "path": "5-3-5/data.csv",
-      "name": "5-3-5",
+      "path": "5-5-4/data.csv",
+      "name": "5-5-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3708,41 +5491,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Година"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Федерација Босне и Херцеговине",
+                "Унско-сански кантон",
+                "Тузлански кантон",
+                "Зеничко-добојски кантон",
+                "Босанско-подрињски кантон",
+                "Средњобосански кантон",
+                "Херцеговачко-неретвански кантон",
+                "Западнохерцеговчки кантон",
+                "Кантон Сарајево",
+                ""
+              ]
+            },
+            "title": "Административна јединица"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Оба пола",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
       },
-      "title": "Број наставника у средњим школама према полу"
-    },
-    {
-      "path": "5-5-1/data.csv",
-      "name": "5-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Уписани на интегрисане студије према полу"
+      "title": "Уписани на магистарске, мастер и специјалистичке студије према полу"
     },
     {
       "path": "6-1-1/data.csv",
@@ -3769,126 +5565,6 @@
       "title": "Бруто друштвени производ (БДП) – укупни (у милионима)"
     },
     {
-      "path": "5-2-2/data.csv",
-      "name": "5-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Број ученика који су завршили основну школу према полу"
-    },
-    {
-      "path": "5-2-3/data.csv",
-      "name": "5-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Број наставника у основним школама према полу"
-    },
-    {
-      "path": "5-7-1/data.csv",
-      "name": "5-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Становништво у доби од 25-64 године уписано у неформално образовање одраслих, према старосној доби и полу"
-    },
-    {
-      "path": "5-6-3/data.csv",
-      "name": "5-6-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Доктори наука према полу"
-    },
-    {
-      "path": "5-5-2/data.csv",
-      "name": "5-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Дипломирани студенти интегрисаних студија према полу"
-    },
-    {
       "path": "7-2-2/data.csv",
       "name": "7-2-2",
       "profile": "tabular-data-resource",
@@ -3911,30 +5587,6 @@
         ]
       },
       "title": "Становништво које живи у релативном сиромаштву према полу"
-    },
-    {
-      "path": "5-7-4/data.csv",
-      "name": "5-7-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Становништво старо 15 и више година према највишој завршеној школи и полу"
     },
     {
       "path": "7-1-2/data.csv",
@@ -3961,30 +5613,6 @@
       "title": "Омјер запослености и броја становника - постотак запосленог становништва у радно способном становништву према старосној групи и полу"
     },
     {
-      "path": "4-1-2/data.csv",
-      "name": "4-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Корисници социјалне заштите према врсти установе и полу"
-    },
-    {
       "path": "8-1-1/data.csv",
       "name": "8-1-1",
       "profile": "tabular-data-resource",
@@ -4007,78 +5635,6 @@
         ]
       },
       "title": "Насиље над женама након напуњених 15 година живота (све врсте)"
-    },
-    {
-      "path": "5-5-3/data.csv",
-      "name": "5-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Дипломирани студенти интегрисаних студија према области образовања"
-    },
-    {
-      "path": "5-3-4/data.csv",
-      "name": "5-3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Број ученика који су завршили средњу школу према врсти школе"
-    },
-    {
-      "path": "5-6-1/data.csv",
-      "name": "5-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Уписани на докторске студије према полу"
     },
     {
       "path": "7-1-5/data.csv",
@@ -4105,30 +5661,6 @@
       "title": "Становништво у доби од 15-24 године које није запослено, не образује се нити се усавршава (НЕЕТ), према полу"
     },
     {
-      "path": "5-2-1/data.csv",
-      "name": "5-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Број ученика на почетку школске године према полу (основна школа)"
-    },
-    {
       "path": "6-1-2/data.csv",
       "name": "6-1-2",
       "profile": "tabular-data-resource",
@@ -4151,78 +5683,6 @@
         ]
       },
       "title": "Бруто друштвени производ (БДП) према глави становника"
-    },
-    {
-      "path": "5-6-4/data.csv",
-      "name": "5-6-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Доктори наука према области образовања"
-    },
-    {
-      "path": "5-6-2/data.csv",
-      "name": "5-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Уписани на докторске студије према области образовања"
-    },
-    {
-      "path": "5-4-3/data.csv",
-      "name": "5-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Дипломирани студенти према области образовања"
     },
     {
       "path": "7-1-1/data.csv",
@@ -4249,366 +5709,6 @@
       "title": "Стопа учешћа радне снаге - постотак активног становништва (радне снаге) у радно способном становништву према старосној групи и полу"
     },
     {
-      "path": "5-4-2/data.csv",
-      "name": "5-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Дипломирани студенти према полу"
-    },
-    {
-      "path": "5-1-2/data.csv",
-      "name": "5-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Број дјеце у предшколским установама према полу"
-    },
-    {
-      "path": "5-3-3/data.csv",
-      "name": "5-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Број ученика који су завршили средњу школу према полу"
-    },
-    {
-      "path": "5-3-1/data.csv",
-      "name": "5-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Број ученика на почетку школске године према полу (средња школа)"
-    },
-    {
-      "path": "5-7-2/data.csv",
-      "name": "5-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Становништво у доби од 15-24 године које није запослено, не образује се нити се усавршава (НЕЕТ), према полу"
-    },
-    {
-      "path": "5-4-1/data.csv",
-      "name": "5-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Уписани у основне студијске програме према полу"
-    },
-    {
-      "path": "5-7-3/data.csv",
-      "name": "5-7-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Становништво старо 10 и више година према писмености и полу"
-    },
-    {
-      "path": "4-1-1/data.csv",
-      "name": "4-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Корисници социјалне заштите према врсти корисника и полу"
-    },
-    {
-      "path": "3-7-1/data.csv",
-      "name": "3-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Становништво са потешкоћама према врсти потешкоће и полу"
-    },
-    {
-      "path": "5-1-1/data.csv",
-      "name": "5-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Број предшколских установа према својини"
-    },
-    {
-      "path": "5-5-7/data.csv",
-      "name": "5-5-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Магистри наука, мастери и специјалисти према области образовања"
-    },
-    {
-      "path": "5-1-4/data.csv",
-      "name": "5-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Број васпитача у предшколским установама према полу"
-    },
-    {
-      "path": "5-1-3/data.csv",
-      "name": "5-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Број дјеце у јаслицама према полу"
-    },
-    {
-      "path": "5-5-6/data.csv",
-      "name": "5-5-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Магистри наука, мастери и специјалисти према полу"
-    },
-    {
-      "path": "5-3-2/data.csv",
-      "name": "5-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Број ученика на почетку школске године према врсти средње школе"
-    },
-    {
       "path": "7-2-1/data.csv",
       "name": "7-2-1",
       "profile": "tabular-data-resource",
@@ -4633,30 +5733,6 @@
       "title": "Домаћинства која живе у релативном сиромаштву"
     },
     {
-      "path": "5-5-5/data.csv",
-      "name": "5-5-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Уписани на магистарске, мастер и специјалистичке студије према области образовања"
-    },
-    {
       "path": "7-1-3/data.csv",
       "name": "7-1-3",
       "profile": "tabular-data-resource",
@@ -4679,30 +5755,6 @@
         ]
       },
       "title": "Стопа незапослености - постотак незапосленог становништва у активном становништву (радној снази) према старосној групи и полу"
-    },
-    {
-      "path": "5-5-4/data.csv",
-      "name": "5-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Уписани на магистарске, мастер и специјалистичке студије према полу"
     },
     {
       "path": "7-1-4/data.csv",

@@ -1,1 +1,382 @@
-Year,Value
+Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
+2016,Broj,Federacija Bosne i Hercegovine,Gimnazija,20668
+2016,Broj,Federacija Bosne i Hercegovine,Tehničke škole,41964
+2016,Broj,Federacija Bosne i Hercegovine,Stručne škole,16751
+2016,Broj,Federacija Bosne i Hercegovine,Umjetničke škole,896
+2016,Broj,Federacija Bosne i Hercegovine,Vjerske škole,2139
+2016,Broj,Federacija Bosne i Hercegovine,Srednje škole za djecu s poteškoćama u razvitku,257
+2017,Broj,Federacija Bosne i Hercegovine,Gimnazija,20253
+2017,Broj,Federacija Bosne i Hercegovine,Tehničke škole,41503
+2017,Broj,Federacija Bosne i Hercegovine,Stručne škole,16335
+2017,Broj,Federacija Bosne i Hercegovine,Umjetničke škole,879
+2017,Broj,Federacija Bosne i Hercegovine,Vjerske škole,2229
+2017,Broj,Federacija Bosne i Hercegovine,Srednje škole za djecu s poteškoćama u razvitku,255
+2018,Broj,Federacija Bosne i Hercegovine,Gimnazija,17917
+2018,Broj,Federacija Bosne i Hercegovine,Tehničke škole,39424
+2018,Broj,Federacija Bosne i Hercegovine,Stručne škole,15523
+2018,Broj,Federacija Bosne i Hercegovine,Umjetničke škole,879
+2018,Broj,Federacija Bosne i Hercegovine,Vjerske škole,2180
+2018,Broj,Federacija Bosne i Hercegovine,Srednje škole za djecu s poteškoćama u razvitku,241
+2019,Broj,Federacija Bosne i Hercegovine,Gimnazija,16637
+2019,Broj,Federacija Bosne i Hercegovine,Tehničke škole,38135
+2019,Broj,Federacija Bosne i Hercegovine,Stručne škole,14905
+2019,Broj,Federacija Bosne i Hercegovine,Umjetničke škole,846
+2019,Broj,Federacija Bosne i Hercegovine,Vjerske škole,2139
+2019,Broj,Federacija Bosne i Hercegovine,Srednje škole za djecu s poteškoćama u razvitku,230
+2020,Broj,Federacija Bosne i Hercegovine,Gimnazija,16195
+2020,Broj,Federacija Bosne i Hercegovine,Tehničke škole,37357
+2020,Broj,Federacija Bosne i Hercegovine,Stručne škole,14547
+2020,Broj,Federacija Bosne i Hercegovine,Umjetničke škole,840
+2020,Broj,Federacija Bosne i Hercegovine,Vjerske škole,2142
+2020,Broj,Federacija Bosne i Hercegovine,Srednje škole za djecu s poteškoćama u razvitku,247
+2021,Broj,Federacija Bosne i Hercegovine,Gimnazija,15617
+2021,Broj,Federacija Bosne i Hercegovine,Tehničke škole,37112
+2021,Broj,Federacija Bosne i Hercegovine,Stručne škole,14053
+2021,Broj,Federacija Bosne i Hercegovine,Umjetničke škole,939
+2021,Broj,Federacija Bosne i Hercegovine,Vjerske škole,2108
+2021,Broj,Federacija Bosne i Hercegovine,Srednje škole za djecu s poteškoćama u razvitku,195
+2022,Broj,Federacija Bosne i Hercegovine,Gimnazija,15425
+2022,Broj,Federacija Bosne i Hercegovine,Tehničke škole,37855
+2022,Broj,Federacija Bosne i Hercegovine,Stručne škole,13829
+2022,Broj,Federacija Bosne i Hercegovine,Umjetničke škole,924
+2022,Broj,Federacija Bosne i Hercegovine,Vjerske škole,2126
+2022,Broj,Federacija Bosne i Hercegovine,Srednje škole za djecu s poteškoćama u razvitku,166
+2016,Broj,Unsko-sanska županija,Gimnazija,1905
+2016,Broj,Unsko-sanska županija,Tehničke škole,4610
+2016,Broj,Unsko-sanska županija,Stručne škole,2755
+2016,Broj,Unsko-sanska županija,Umjetničke škole,85
+2016,Broj,Unsko-sanska županija,Vjerske škole,264
+2017,Broj,Unsko-sanska županija,Gimnazija,1820
+2017,Broj,Unsko-sanska županija,Tehničke škole,4719
+2017,Broj,Unsko-sanska županija,Stručne škole,2631
+2017,Broj,Unsko-sanska županija,Umjetničke škole,63
+2017,Broj,Unsko-sanska županija,Vjerske škole,263
+2018,Broj,Unsko-sanska županija,Gimnazija,1585
+2018,Broj,Unsko-sanska županija,Tehničke škole,4262
+2018,Broj,Unsko-sanska županija,Stručne škole,2547
+2018,Broj,Unsko-sanska županija,Umjetničke škole,57
+2018,Broj,Unsko-sanska županija,Vjerske škole,247
+2019,Broj,Unsko-sanska županija,Gimnazija,1398
+2019,Broj,Unsko-sanska županija,Tehničke škole,3943
+2019,Broj,Unsko-sanska županija,Stručne škole,2420
+2019,Broj,Unsko-sanska županija,Umjetničke škole,58
+2019,Broj,Unsko-sanska županija,Vjerske škole,227
+2020,Broj,Unsko-sanska županija,Gimnazija,1543
+2020,Broj,Unsko-sanska županija,Tehničke škole,3463
+2020,Broj,Unsko-sanska županija,Stručne škole,2212
+2020,Broj,Unsko-sanska županija,Umjetničke škole,64
+2020,Broj,Unsko-sanska županija,Vjerske škole,219
+2021,Broj,Unsko-sanska županija,Gimnazija,1458
+2021,Broj,Unsko-sanska županija,Tehničke škole,3283
+2021,Broj,Unsko-sanska županija,Stručne škole,2069
+2021,Broj,Unsko-sanska županija,Umjetničke škole,76
+2021,Broj,Unsko-sanska županija,Vjerske škole,221
+2022,Broj,Unsko-sanska županija,Gimnazija,1085
+2022,Broj,Unsko-sanska županija,Tehničke škole,3421
+2022,Broj,Unsko-sanska županija,Stručne škole,2001
+2022,Broj,Unsko-sanska županija,Umjetničke škole,65
+2022,Broj,Unsko-sanska županija,Vjerske škole,220
+2016,Broj,Posavska županija,Gimnazija,228
+2016,Broj,Posavska županija,Tehničke škole,803
+2016,Broj,Posavska županija,Stručne škole,269
+2017,Broj,Posavska županija,Gimnazija,226
+2017,Broj,Posavska županija,Tehničke škole,711
+2017,Broj,Posavska županija,Stručne škole,223
+2018,Broj,Posavska županija,Gimnazija,225
+2018,Broj,Posavska županija,Tehničke škole,611
+2018,Broj,Posavska županija,Stručne škole,201
+2019,Broj,Posavska županija,Gimnazija,206
+2019,Broj,Posavska županija,Tehničke škole,592
+2019,Broj,Posavska županija,Stručne škole,188
+2020,Broj,Posavska županija,Gimnazija,183
+2020,Broj,Posavska županija,Tehničke škole,549
+2020,Broj,Posavska županija,Stručne škole,164
+2021,Broj,Posavska županija,Gimnazija,163
+2021,Broj,Posavska županija,Tehničke škole,570
+2021,Broj,Posavska županija,Stručne škole,132
+2022,Broj,Posavska županija,Gimnazija,160
+2022,Broj,Posavska županija,Tehničke škole,542
+2022,Broj,Posavska županija,Stručne škole,103
+2016,Broj,Tuzlanska županija,Gimnazija,2428
+2016,Broj,Tuzlanska županija,Tehničke škole,8711
+2016,Broj,Tuzlanska županija,Stručne škole,3898
+2016,Broj,Tuzlanska županija,Umjetničke škole,163
+2016,Broj,Tuzlanska županija,Vjerske škole,516
+2016,Broj,Tuzlanska županija,Srednje škole za djecu s poteškoćama u razvitku,35
+2017,Broj,Tuzlanska županija,Gimnazija,2792
+2017,Broj,Tuzlanska županija,Tehničke škole,8462
+2017,Broj,Tuzlanska županija,Stručne škole,3963
+2017,Broj,Tuzlanska županija,Umjetničke škole,183
+2017,Broj,Tuzlanska županija,Vjerske škole,536
+2017,Broj,Tuzlanska županija,Srednje škole za djecu s poteškoćama u razvitku,30
+2018,Broj,Tuzlanska županija,Gimnazija,2385
+2018,Broj,Tuzlanska županija,Tehničke škole,8472
+2018,Broj,Tuzlanska županija,Stručne škole,3980
+2018,Broj,Tuzlanska županija,Umjetničke škole,184
+2018,Broj,Tuzlanska županija,Vjerske škole,531
+2018,Broj,Tuzlanska županija,Srednje škole za djecu s poteškoćama u razvitku,30
+2019,Broj,Tuzlanska županija,Gimnazija,2274
+2019,Broj,Tuzlanska županija,Tehničke škole,8132
+2019,Broj,Tuzlanska županija,Stručne škole,3952
+2019,Broj,Tuzlanska županija,Umjetničke škole,180
+2019,Broj,Tuzlanska županija,Vjerske škole,508
+2019,Broj,Tuzlanska županija,Srednje škole za djecu s poteškoćama u razvitku,32
+2020,Broj,Tuzlanska županija,Gimnazija,2182
+2020,Broj,Tuzlanska županija,Tehničke škole,8126
+2020,Broj,Tuzlanska županija,Stručne škole,3876
+2020,Broj,Tuzlanska županija,Umjetničke škole,191
+2020,Broj,Tuzlanska županija,Vjerske škole,505
+2020,Broj,Tuzlanska županija,Srednje škole za djecu s poteškoćama u razvitku,43
+2021,Broj,Tuzlanska županija,Gimnazija,1941
+2021,Broj,Tuzlanska županija,Tehničke škole,7975
+2021,Broj,Tuzlanska županija,Stručne škole,3753
+2021,Broj,Tuzlanska županija,Umjetničke škole,204
+2021,Broj,Tuzlanska županija,Vjerske škole,511
+2022,Broj,Tuzlanska županija,Gimnazija,1853
+2022,Broj,Tuzlanska županija,Tehničke škole,7843
+2022,Broj,Tuzlanska županija,Stručne škole,3691
+2022,Broj,Tuzlanska županija,Umjetničke škole,218
+2022,Broj,Tuzlanska županija,Vjerske škole,523
+2016,Broj,Zeničko-dobojska županija,Gimnazija,3602
+2016,Broj,Zeničko-dobojska županija,Tehničke škole,7104
+2016,Broj,Zeničko-dobojska županija,Stručne škole,3417
+2016,Broj,Zeničko-dobojska županija,Umjetničke škole,87
+2016,Broj,Zeničko-dobojska županija,Vjerske škole,230
+2016,Broj,Zeničko-dobojska županija,Srednje škole za djecu s poteškoćama u razvitku,38
+2017,Broj,Zeničko-dobojska županija,Gimnazija,3422
+2017,Broj,Zeničko-dobojska županija,Tehničke škole,7044
+2017,Broj,Zeničko-dobojska županija,Stručne škole,3185
+2017,Broj,Zeničko-dobojska županija,Umjetničke škole,75
+2017,Broj,Zeničko-dobojska županija,Vjerske škole,236
+2017,Broj,Zeničko-dobojska županija,Srednje škole za djecu s poteškoćama u razvitku,44
+2018,Broj,Zeničko-dobojska županija,Gimnazija,3087
+2018,Broj,Zeničko-dobojska županija,Tehničke škole,7121
+2018,Broj,Zeničko-dobojska županija,Stručne škole,3022
+2018,Broj,Zeničko-dobojska županija,Umjetničke škole,68
+2018,Broj,Zeničko-dobojska županija,Vjerske škole,224
+2018,Broj,Zeničko-dobojska županija,Srednje škole za djecu s poteškoćama u razvitku,36
+2019,Broj,Zeničko-dobojska županija,Gimnazija,2832
+2019,Broj,Zeničko-dobojska županija,Tehničke škole,6486
+2019,Broj,Zeničko-dobojska županija,Stručne škole,3035
+2019,Broj,Zeničko-dobojska županija,Umjetničke škole,70
+2019,Broj,Zeničko-dobojska županija,Vjerske škole,230
+2019,Broj,Zeničko-dobojska županija,Srednje škole za djecu s poteškoćama u razvitku,35
+2020,Broj,Zeničko-dobojska županija,Gimnazija,2583
+2020,Broj,Zeničko-dobojska županija,Tehničke škole,6509
+2020,Broj,Zeničko-dobojska županija,Stručne škole,2924
+2020,Broj,Zeničko-dobojska županija,Umjetničke škole,66
+2020,Broj,Zeničko-dobojska županija,Vjerske škole,248
+2020,Broj,Zeničko-dobojska županija,Srednje škole za djecu s poteškoćama u razvitku,35
+2021,Broj,Zeničko-dobojska županija,Gimnazija,2474
+2021,Broj,Zeničko-dobojska županija,Tehničke škole,6249
+2021,Broj,Zeničko-dobojska županija,Stručne škole,2832
+2021,Broj,Zeničko-dobojska županija,Umjetničke škole,72
+2021,Broj,Zeničko-dobojska županija,Vjerske škole,254
+2021,Broj,Zeničko-dobojska županija,Srednje škole za djecu s poteškoćama u razvitku,27
+2022,Broj,Zeničko-dobojska županija,Gimnazija,2368
+2022,Broj,Zeničko-dobojska županija,Tehničke škole,6239
+2022,Broj,Zeničko-dobojska županija,Stručne škole,2930
+2022,Broj,Zeničko-dobojska županija,Umjetničke škole,63
+2022,Broj,Zeničko-dobojska županija,Vjerske škole,255
+2022,Broj,Zeničko-dobojska županija,Srednje škole za djecu s poteškoćama u razvitku,20
+2016,Broj,Bosansko-podrinjska županija,Gimnazija,172
+2016,Broj,Bosansko-podrinjska županija,Tehničke škole,534
+2016,Broj,Bosansko-podrinjska županija,Stručne škole,242
+2017,Broj,Bosansko-podrinjska županija,Gimnazija,184
+2017,Broj,Bosansko-podrinjska županija,Tehničke škole,536
+2017,Broj,Bosansko-podrinjska županija,Stručne škole,244
+2018,Broj,Bosansko-podrinjska županija,Gimnazija,160
+2018,Broj,Bosansko-podrinjska županija,Tehničke škole,503
+2018,Broj,Bosansko-podrinjska županija,Stručne škole,223
+2019,Broj,Bosansko-podrinjska županija,Gimnazija,137
+2019,Broj,Bosansko-podrinjska županija,Tehničke škole,695
+2020,Broj,Bosansko-podrinjska županija,Gimnazija,139
+2020,Broj,Bosansko-podrinjska županija,Tehničke škole,512
+2020,Broj,Bosansko-podrinjska županija,Stručne škole,137
+2021,Broj,Bosansko-podrinjska županija,Gimnazija,130
+2021,Broj,Bosansko-podrinjska županija,Tehničke škole,513
+2021,Broj,Bosansko-podrinjska županija,Stručne škole,105
+2022,Broj,Bosansko-podrinjska županija,Gimnazija,108
+2022,Broj,Bosansko-podrinjska županija,Tehničke škole,495
+2022,Broj,Bosansko-podrinjska županija,Stručne škole,103
+2016,Broj,Srednjobosanska županija,Gimnazija,2287
+2016,Broj,Srednjobosanska županija,Tehničke škole,5589
+2016,Broj,Srednjobosanska županija,Stručne škole,2265
+2016,Broj,Srednjobosanska županija,Umjetničke škole,91
+2016,Broj,Srednjobosanska županija,Vjerske škole,378
+2017,Broj,Srednjobosanska županija,Gimnazija,2021
+2017,Broj,Srednjobosanska županija,Tehničke škole,5389
+2017,Broj,Srednjobosanska županija,Stručne škole,2156
+2017,Broj,Srednjobosanska županija,Umjetničke škole,91
+2017,Broj,Srednjobosanska županija,Vjerske škole,430
+2018,Broj,Srednjobosanska županija,Gimnazija,1614
+2018,Broj,Srednjobosanska županija,Tehničke škole,4590
+2018,Broj,Srednjobosanska županija,Stručne škole,1606
+2018,Broj,Srednjobosanska županija,Umjetničke škole,83
+2018,Broj,Srednjobosanska županija,Vjerske škole,427
+2019,Broj,Srednjobosanska županija,Gimnazija,1416
+2019,Broj,Srednjobosanska županija,Tehničke škole,4549
+2019,Broj,Srednjobosanska županija,Stručne škole,1403
+2019,Broj,Srednjobosanska županija,Umjetničke škole,73
+2019,Broj,Srednjobosanska županija,Vjerske škole,437
+2020,Broj,Srednjobosanska županija,Gimnazija,1254
+2020,Broj,Srednjobosanska županija,Tehničke škole,4716
+2020,Broj,Srednjobosanska županija,Stručne škole,1382
+2020,Broj,Srednjobosanska županija,Umjetničke škole,70
+2020,Broj,Srednjobosanska županija,Vjerske škole,447
+2021,Broj,Srednjobosanska županija,Gimnazija,1098
+2021,Broj,Srednjobosanska županija,Tehničke škole,4818
+2021,Broj,Srednjobosanska županija,Stručne škole,1677
+2021,Broj,Srednjobosanska županija,Umjetničke škole,74
+2021,Broj,Srednjobosanska županija,Vjerske škole,430
+2022,Broj,Srednjobosanska županija,Gimnazija,1174
+2022,Broj,Srednjobosanska županija,Tehničke škole,5678
+2022,Broj,Srednjobosanska županija,Stručne škole,1496
+2022,Broj,Srednjobosanska županija,Umjetničke škole,84
+2022,Broj,Srednjobosanska županija,Vjerske škole,435
+2016,Broj,Hercegovačko-neretvanska županija,Gimnazija,2616
+2016,Broj,Hercegovačko-neretvanska županija,Tehničke škole,4329
+2016,Broj,Hercegovačko-neretvanska županija,Stručne škole,1210
+2016,Broj,Hercegovačko-neretvanska županija,Umjetničke škole,154
+2016,Broj,Hercegovačko-neretvanska županija,Vjerske škole,260
+2016,Broj,Hercegovačko-neretvanska županija,Srednje škole za djecu s poteškoćama u razvitku,45
+2017,Broj,Hercegovačko-neretvanska županija,Gimnazija,2425
+2017,Broj,Hercegovačko-neretvanska županija,Tehničke škole,4035
+2017,Broj,Hercegovačko-neretvanska županija,Stručne škole,1216
+2017,Broj,Hercegovačko-neretvanska županija,Umjetničke škole,108
+2017,Broj,Hercegovačko-neretvanska županija,Vjerske škole,265
+2017,Broj,Hercegovačko-neretvanska županija,Srednje škole za djecu s poteškoćama u razvitku,40
+2018,Broj,Hercegovačko-neretvanska županija,Gimnazija,2167
+2018,Broj,Hercegovačko-neretvanska županija,Tehničke škole,3875
+2018,Broj,Hercegovačko-neretvanska županija,Stručne škole,1129
+2018,Broj,Hercegovačko-neretvanska županija,Umjetničke škole,150
+2018,Broj,Hercegovačko-neretvanska županija,Vjerske škole,264
+2018,Broj,Hercegovačko-neretvanska županija,Srednje škole za djecu s poteškoćama u razvitku,29
+2019,Broj,Hercegovačko-neretvanska županija,Gimnazija,1908
+2019,Broj,Hercegovačko-neretvanska županija,Tehničke škole,3968
+2019,Broj,Hercegovačko-neretvanska županija,Stručne škole,1026
+2019,Broj,Hercegovačko-neretvanska županija,Umjetničke škole,145
+2019,Broj,Hercegovačko-neretvanska županija,Vjerske škole,248
+2019,Broj,Hercegovačko-neretvanska županija,Srednje škole za djecu s poteškoćama u razvitku,33
+2020,Broj,Hercegovačko-neretvanska županija,Gimnazija,1844
+2020,Broj,Hercegovačko-neretvanska županija,Tehničke škole,3848
+2020,Broj,Hercegovačko-neretvanska županija,Stručne škole,942
+2020,Broj,Hercegovačko-neretvanska županija,Umjetničke škole,151
+2020,Broj,Hercegovačko-neretvanska županija,Vjerske škole,238
+2020,Broj,Hercegovačko-neretvanska županija,Srednje škole za djecu s poteškoćama u razvitku,32
+2021,Broj,Hercegovačko-neretvanska županija,Gimnazija,1798
+2021,Broj,Hercegovačko-neretvanska županija,Tehničke škole,3991
+2021,Broj,Hercegovačko-neretvanska županija,Stručne škole,932
+2021,Broj,Hercegovačko-neretvanska županija,Umjetničke škole,142
+2021,Broj,Hercegovačko-neretvanska županija,Vjerske škole,227
+2021,Broj,Hercegovačko-neretvanska županija,Srednje škole za djecu s poteškoćama u razvitku,31
+2022,Broj,Hercegovačko-neretvanska županija,Gimnazija,1777
+2022,Broj,Hercegovačko-neretvanska županija,Tehničke škole,4185
+2022,Broj,Hercegovačko-neretvanska županija,Stručne škole,934
+2022,Broj,Hercegovačko-neretvanska županija,Umjetničke škole,143
+2022,Broj,Hercegovačko-neretvanska županija,Vjerske škole,233
+2022,Broj,Hercegovačko-neretvanska županija,Srednje škole za djecu s poteškoćama u razvitku,12
+2016,Broj,Zapadno-hercegovačka županija,Gimnazija,1603
+2016,Broj,Zapadno-hercegovačka županija,Tehničke škole,1831
+2016,Broj,Zapadno-hercegovačka županija,Stručne škole,571
+2016,Broj,Zapadno-hercegovačka županija,Umjetničke škole,21
+2016,Broj,Zapadno-hercegovačka županija,Srednje škole za djecu s poteškoćama u razvitku,3
+2017,Broj,Zapadno-hercegovačka županija,Gimnazija,1490
+2017,Broj,Zapadno-hercegovačka županija,Tehničke škole,1838
+2017,Broj,Zapadno-hercegovačka županija,Stručne škole,445
+2017,Broj,Zapadno-hercegovačka županija,Umjetničke škole,27
+2017,Broj,Zapadno-hercegovačka županija,Srednje škole za djecu s poteškoćama u razvitku,3
+2018,Broj,Zapadno-hercegovačka županija,Gimnazija,1263
+2018,Broj,Zapadno-hercegovačka županija,Tehničke škole,1738
+2018,Broj,Zapadno-hercegovačka županija,Stručne škole,357
+2018,Broj,Zapadno-hercegovačka županija,Umjetničke škole,30
+2018,Broj,Zapadno-hercegovačka županija,Srednje škole za djecu s poteškoćama u razvitku,2
+2019,Broj,Zapadno-hercegovačka županija,Gimnazija,1201
+2019,Broj,Zapadno-hercegovačka županija,Tehničke škole,1693
+2019,Broj,Zapadno-hercegovačka županija,Stručne škole,324
+2019,Broj,Zapadno-hercegovačka županija,Umjetničke škole,41
+2019,Broj,Zapadno-hercegovačka županija,Srednje škole za djecu s poteškoćama u razvitku,6
+2020,Broj,Zapadno-hercegovačka županija,Gimnazija,1130
+2020,Broj,Zapadno-hercegovačka županija,Tehničke škole,1667
+2020,Broj,Zapadno-hercegovačka županija,Stručne škole,336
+2020,Broj,Zapadno-hercegovačka županija,Srednje škole za djecu s poteškoćama u razvitku,5
+2021,Broj,Zapadno-hercegovačka županija,Gimnazija,1119
+2021,Broj,Zapadno-hercegovačka županija,Tehničke škole,1613
+2021,Broj,Zapadno-hercegovačka županija,Stručne škole,353
+2021,Broj,Zapadno-hercegovačka županija,Umjetničke škole,77
+2021,Broj,Zapadno-hercegovačka županija,Srednje škole za djecu s poteškoćama u razvitku,6
+2022,Broj,Zapadno-hercegovačka županija,Gimnazija,1190
+2022,Broj,Zapadno-hercegovačka županija,Tehničke škole,1674
+2022,Broj,Zapadno-hercegovačka županija,Stručne škole,363
+2022,Broj,Zapadno-hercegovačka županija,Umjetničke škole,52
+2022,Broj,Zapadno-hercegovačka županija,Srednje škole za djecu s poteškoćama u razvitku,2
+2016,Broj,Sarajevska županija,Gimnazija,5120
+2016,Broj,Sarajevska županija,Tehničke škole,7464
+2016,Broj,Sarajevska županija,Stručne škole,1784
+2016,Broj,Sarajevska županija,Umjetničke škole,295
+2016,Broj,Sarajevska županija,Vjerske škole,491
+2016,Broj,Sarajevska županija,Srednje škole za djecu s poteškoćama u razvitku,131
+2017,Broj,Sarajevska županija,Gimnazija,5199
+2017,Broj,Sarajevska županija,Tehničke škole,7807
+2017,Broj,Sarajevska županija,Stručne škole,1956
+2017,Broj,Sarajevska županija,Umjetničke škole,332
+2017,Broj,Sarajevska županija,Vjerske škole,499
+2017,Broj,Sarajevska županija,Srednje škole za djecu s poteškoćama u razvitku,133
+2018,Broj,Sarajevska županija,Gimnazija,4785
+2018,Broj,Sarajevska županija,Tehničke škole,7320
+2018,Broj,Sarajevska županija,Stručne škole,2126
+2018,Broj,Sarajevska županija,Umjetničke škole,307
+2018,Broj,Sarajevska županija,Vjerske škole,487
+2018,Broj,Sarajevska županija,Srednje škole za djecu s poteškoćama u razvitku,137
+2019,Broj,Sarajevska županija,Gimnazija,4595
+2019,Broj,Sarajevska županija,Tehničke škole,7022
+2019,Broj,Sarajevska županija,Stručne škole,2231
+2019,Broj,Sarajevska županija,Umjetničke škole,279
+2019,Broj,Sarajevska županija,Vjerske škole,489
+2019,Broj,Sarajevska županija,Srednje škole za djecu s poteškoćama u razvitku,117
+2020,Broj,Sarajevska županija,Gimnazija,4673
+2020,Broj,Sarajevska županija,Tehničke škole,6877
+2020,Broj,Sarajevska županija,Stručne škole,2290
+2020,Broj,Sarajevska županija,Umjetničke škole,298
+2020,Broj,Sarajevska županija,Vjerske škole,485
+2020,Broj,Sarajevska županija,Srednje škole za djecu s poteškoćama u razvitku,127
+2021,Broj,Sarajevska županija,Gimnazija,4803
+2021,Broj,Sarajevska županija,Tehničke škole,7068
+2021,Broj,Sarajevska županija,Stručne škole,1921
+2021,Broj,Sarajevska županija,Umjetničke škole,294
+2021,Broj,Sarajevska županija,Vjerske škole,465
+2021,Broj,Sarajevska županija,Srednje škole za djecu s poteškoćama u razvitku,128
+2022,Broj,Sarajevska županija,Gimnazija,5103
+2022,Broj,Sarajevska županija,Tehničke škole,6817
+2022,Broj,Sarajevska županija,Stručne škole,1963
+2022,Broj,Sarajevska županija,Umjetničke škole,299
+2022,Broj,Sarajevska županija,Vjerske škole,460
+2022,Broj,Sarajevska županija,Srednje škole za djecu s poteškoćama u razvitku,128
+2016,Broj,Županija 10,Gimnazija,707
+2016,Broj,Županija 10,Tehničke škole,989
+2016,Broj,Županija 10,Stručne škole,340
+2016,Broj,Županija 10,Srednje škole za djecu s poteškoćama u razvitku,5
+2017,Broj,Županija 10,Gimnazija,674
+2017,Broj,Županija 10,Tehničke škole,962
+2017,Broj,Županija 10,Stručne škole,316
+2017,Broj,Županija 10,Srednje škole za djecu s poteškoćama u razvitku,5
+2018,Broj,Županija 10,Gimnazija,646
+2018,Broj,Županija 10,Tehničke škole,932
+2018,Broj,Županija 10,Stručne škole,332
+2018,Broj,Županija 10,Srednje škole za djecu s poteškoćama u razvitku,7
+2019,Broj,Županija 10,Gimnazija,670
+2019,Broj,Županija 10,Tehničke škole,1055
+2019,Broj,Županija 10,Stručne škole,326
+2019,Broj,Županija 10,Srednje škole za djecu s poteškoćama u razvitku,7
+2020,Broj,Županija 10,Gimnazija,664
+2020,Broj,Županija 10,Tehničke škole,1090
+2020,Broj,Županija 10,Stručne škole,284
+2020,Broj,Županija 10,Srednje škole za djecu s poteškoćama u razvitku,5
+2021,Broj,Županija 10,Gimnazija,633
+2021,Broj,Županija 10,Tehničke škole,1032
+2021,Broj,Županija 10,Stručne škole,279
+2021,Broj,Županija 10,Srednje škole za djecu s poteškoćama u razvitku,3
+2022,Broj,Županija 10,Gimnazija,607
+2022,Broj,Županija 10,Tehničke škole,961
+2022,Broj,Županija 10,Stručne škole,245
+2022,Broj,Županija 10,Srednje škole za djecu s poteškoćama u razvitku,4

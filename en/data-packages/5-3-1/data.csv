@@ -1,1 +1,430 @@
-Year,Value
+Year,UNIT_MEASURE,Administrative Area,Sex,Value
+2010,Number,Federation of Bosnia and Herzegovina,Both sexes,99228
+2011,Number,Federation of Bosnia and Herzegovina,Both sexes,108957
+2012,Number,Federation of Bosnia and Herzegovina,Both sexes,113214
+2013,Number,Federation of Bosnia and Herzegovina,Both sexes,106056
+2014,Number,Federation of Bosnia and Herzegovina,Both sexes,96331
+2015,Number,Federation of Bosnia and Herzegovina,Both sexes,87813
+2016,Number,Federation of Bosnia and Herzegovina,Both sexes,82675
+2017,Number,Federation of Bosnia and Herzegovina,Both sexes,81454
+2018,Number,Federation of Bosnia and Herzegovina,Both sexes,76164
+2019,Number,Federation of Bosnia and Herzegovina,Both sexes,72892
+2020,Number,Federation of Bosnia and Herzegovina,Both sexes,71328
+2021,Number,Federation of Bosnia and Herzegovina,Both sexes,70024
+2022,Number,Federation of Bosnia and Herzegovina,Both sexes,70325
+2010,Number,Federation of Bosnia and Herzegovina,M,50211
+2011,Number,Federation of Bosnia and Herzegovina,M,55366
+2012,Number,Federation of Bosnia and Herzegovina,M,57539
+2013,Number,Federation of Bosnia and Herzegovina,M,53616
+2014,Number,Federation of Bosnia and Herzegovina,M,48240
+2015,Number,Federation of Bosnia and Herzegovina,M,43953
+2016,Number,Federation of Bosnia and Herzegovina,M,41231
+2017,Number,Federation of Bosnia and Herzegovina,M,40710
+2018,Number,Federation of Bosnia and Herzegovina,M,38140
+2019,Number,Federation of Bosnia and Herzegovina,M,36506
+2020,Number,Federation of Bosnia and Herzegovina,M,35711
+2021,Number,Federation of Bosnia and Herzegovina,M,35018
+2022,Number,Federation of Bosnia and Herzegovina,M,35016
+2010,Number,Federation of Bosnia and Herzegovina,F,49017
+2011,Number,Federation of Bosnia and Herzegovina,F,53591
+2012,Number,Federation of Bosnia and Herzegovina,F,55675
+2013,Number,Federation of Bosnia and Herzegovina,F,52440
+2014,Number,Federation of Bosnia and Herzegovina,F,48091
+2015,Number,Federation of Bosnia and Herzegovina,F,43860
+2016,Number,Federation of Bosnia and Herzegovina,F,41444
+2017,Number,Federation of Bosnia and Herzegovina,F,40744
+2018,Number,Federation of Bosnia and Herzegovina,F,38024
+2019,Number,Federation of Bosnia and Herzegovina,F,36386
+2020,Number,Federation of Bosnia and Herzegovina,F,35617
+2021,Number,Federation of Bosnia and Herzegovina,F,35006
+2022,Number,Federation of Bosnia and Herzegovina,F,35309
+2010,Number,Una-Sana Canton,Both sexes,10302
+2011,Number,Una-Sana Canton,Both sexes,11913
+2012,Number,Una-Sana Canton,Both sexes,12734
+2013,Number,Una-Sana Canton,Both sexes,11904
+2014,Number,Una-Sana Canton,Both sexes,11058
+2015,Number,Una-Sana Canton,Both sexes,10239
+2016,Number,Una-Sana Canton,Both sexes,9619
+2017,Number,Una-Sana Canton,Both sexes,9496
+2018,Number,Una-Sana Canton,Both sexes,8698
+2019,Number,Una-Sana Canton,Both sexes,8046
+2020,Number,Una-Sana Canton,Both sexes,7501
+2021,Number,Una-Sana Canton,Both sexes,7107
+2022,Number,Una-Sana Canton,Both sexes,6792
+2010,Number,Una-Sana Canton,M,5247
+2011,Number,Una-Sana Canton,M,6049
+2012,Number,Una-Sana Canton,M,6505
+2013,Number,Una-Sana Canton,M,6051
+2014,Number,Una-Sana Canton,M,5573
+2015,Number,Una-Sana Canton,M,5060
+2016,Number,Una-Sana Canton,M,4755
+2017,Number,Una-Sana Canton,M,4705
+2018,Number,Una-Sana Canton,M,4268
+2019,Number,Una-Sana Canton,M,3997
+2020,Number,Una-Sana Canton,M,3676
+2021,Number,Una-Sana Canton,M,3470
+2022,Number,Una-Sana Canton,M,3341
+2010,Number,Una-Sana Canton,F,5055
+2011,Number,Una-Sana Canton,F,5864
+2012,Number,Una-Sana Canton,F,6229
+2013,Number,Una-Sana Canton,F,5853
+2014,Number,Una-Sana Canton,F,5485
+2015,Number,Una-Sana Canton,F,5179
+2016,Number,Una-Sana Canton,F,4864
+2017,Number,Una-Sana Canton,F,4791
+2018,Number,Una-Sana Canton,F,4430
+2019,Number,Una-Sana Canton,F,4049
+2020,Number,Una-Sana Canton,F,3825
+2021,Number,Una-Sana Canton,F,3637
+2022,Number,Una-Sana Canton,F,3451
+2010,Number,Posavina Canton,Both sexes,1516
+2011,Number,Posavina Canton,Both sexes,1591
+2012,Number,Posavina Canton,Both sexes,1673
+2013,Number,Posavina Canton,Both sexes,1670
+2014,Number,Posavina Canton,Both sexes,1600
+2015,Number,Posavina Canton,Both sexes,1413
+2016,Number,Posavina Canton,Both sexes,1300
+2017,Number,Posavina Canton,Both sexes,1160
+2018,Number,Posavina Canton,Both sexes,1037
+2019,Number,Posavina Canton,Both sexes,986
+2020,Number,Posavina Canton,Both sexes,896
+2021,Number,Posavina Canton,Both sexes,865
+2022,Number,Posavina Canton,Both sexes,805
+2010,Number,Posavina Canton,M,738
+2011,Number,Posavina Canton,M,779
+2012,Number,Posavina Canton,M,807
+2013,Number,Posavina Canton,M,809
+2014,Number,Posavina Canton,M,793
+2015,Number,Posavina Canton,M,694
+2016,Number,Posavina Canton,M,649
+2017,Number,Posavina Canton,M,577
+2018,Number,Posavina Canton,M,530
+2019,Number,Posavina Canton,M,488
+2020,Number,Posavina Canton,M,437
+2021,Number,Posavina Canton,M,430
+2022,Number,Posavina Canton,M,403
+2010,Number,Posavina Canton,F,778
+2011,Number,Posavina Canton,F,812
+2012,Number,Posavina Canton,F,866
+2013,Number,Posavina Canton,F,861
+2014,Number,Posavina Canton,F,807
+2015,Number,Posavina Canton,F,719
+2016,Number,Posavina Canton,F,651
+2017,Number,Posavina Canton,F,583
+2018,Number,Posavina Canton,F,507
+2019,Number,Posavina Canton,F,498
+2020,Number,Posavina Canton,F,459
+2021,Number,Posavina Canton,F,435
+2022,Number,Posavina Canton,F,402
+2010,Number,Tuzla Canton,Both sexes,22329
+2011,Number,Tuzla Canton,Both sexes,24166
+2012,Number,Tuzla Canton,Both sexes,24680
+2013,Number,Tuzla Canton,Both sexes,22484
+2014,Number,Tuzla Canton,Both sexes,19226
+2015,Number,Tuzla Canton,Both sexes,16850
+2016,Number,Tuzla Canton,Both sexes,15751
+2017,Number,Tuzla Canton,Both sexes,15966
+2018,Number,Tuzla Canton,Both sexes,15582
+2019,Number,Tuzla Canton,Both sexes,15078
+2020,Number,Tuzla Canton,Both sexes,14923
+2021,Number,Tuzla Canton,Both sexes,14384
+2022,Number,Tuzla Canton,Both sexes,14128
+2010,Number,Tuzla Canton,M,11405
+2011,Number,Tuzla Canton,M,12336
+2012,Number,Tuzla Canton,M,12559
+2013,Number,Tuzla Canton,M,11367
+2014,Number,Tuzla Canton,M,9641
+2015,Number,Tuzla Canton,M,8378
+2016,Number,Tuzla Canton,M,7893
+2017,Number,Tuzla Canton,M,7965
+2018,Number,Tuzla Canton,M,7742
+2019,Number,Tuzla Canton,M,7506
+2020,Number,Tuzla Canton,M,7496
+2021,Number,Tuzla Canton,M,7197
+2022,Number,Tuzla Canton,M,7048
+2010,Number,Tuzla Canton,F,10924
+2011,Number,Tuzla Canton,F,11830
+2012,Number,Tuzla Canton,F,12121
+2013,Number,Tuzla Canton,F,11117
+2014,Number,Tuzla Canton,F,9585
+2015,Number,Tuzla Canton,F,8472
+2016,Number,Tuzla Canton,F,7858
+2017,Number,Tuzla Canton,F,8001
+2018,Number,Tuzla Canton,F,7840
+2019,Number,Tuzla Canton,F,7572
+2020,Number,Tuzla Canton,F,7427
+2021,Number,Tuzla Canton,F,7187
+2022,Number,Tuzla Canton,F,7080
+2010,Number,Zenica-Doboj Canton,Both sexes,17124
+2011,Number,Zenica-Doboj Canton,Both sexes,19199
+2012,Number,Zenica-Doboj Canton,Both sexes,19271
+2013,Number,Zenica-Doboj Canton,Both sexes,17900
+2014,Number,Zenica-Doboj Canton,Both sexes,16228
+2015,Number,Zenica-Doboj Canton,Both sexes,14778
+2016,Number,Zenica-Doboj Canton,Both sexes,14478
+2017,Number,Zenica-Doboj Canton,Both sexes,14006
+2018,Number,Zenica-Doboj Canton,Both sexes,13558
+2019,Number,Zenica-Doboj Canton,Both sexes,12688
+2020,Number,Zenica-Doboj Canton,Both sexes,12365
+2021,Number,Zenica-Doboj Canton,Both sexes,11908
+2022,Number,Zenica-Doboj Canton,Both sexes,11875
+2010,Number,Zenica-Doboj Canton,M,8791
+2011,Number,Zenica-Doboj Canton,M,9949
+2012,Number,Zenica-Doboj Canton,M,9976
+2013,Number,Zenica-Doboj Canton,M,9177
+2014,Number,Zenica-Doboj Canton,M,8257
+2015,Number,Zenica-Doboj Canton,M,7575
+2016,Number,Zenica-Doboj Canton,M,7382
+2017,Number,Zenica-Doboj Canton,M,7162
+2018,Number,Zenica-Doboj Canton,M,6944
+2019,Number,Zenica-Doboj Canton,M,6446
+2020,Number,Zenica-Doboj Canton,M,6217
+2021,Number,Zenica-Doboj Canton,M,5904
+2022,Number,Zenica-Doboj Canton,M,5943
+2010,Number,Zenica-Doboj Canton,F,8333
+2011,Number,Zenica-Doboj Canton,F,9250
+2012,Number,Zenica-Doboj Canton,F,9295
+2013,Number,Zenica-Doboj Canton,F,8723
+2014,Number,Zenica-Doboj Canton,F,7971
+2015,Number,Zenica-Doboj Canton,F,7203
+2016,Number,Zenica-Doboj Canton,F,7096
+2017,Number,Zenica-Doboj Canton,F,6844
+2018,Number,Zenica-Doboj Canton,F,6614
+2019,Number,Zenica-Doboj Canton,F,6242
+2020,Number,Zenica-Doboj Canton,F,6148
+2021,Number,Zenica-Doboj Canton,F,6004
+2022,Number,Zenica-Doboj Canton,F,5932
+2010,Number,Bosnian-Podrinje Canton,Both sexes,1136
+2011,Number,Bosnian-Podrinje Canton,Both sexes,1247
+2012,Number,Bosnian-Podrinje Canton,Both sexes,1389
+2013,Number,Bosnian-Podrinje Canton,Both sexes,1242
+2014,Number,Bosnian-Podrinje Canton,Both sexes,1202
+2015,Number,Bosnian-Podrinje Canton,Both sexes,1031
+2016,Number,Bosnian-Podrinje Canton,Both sexes,948
+2017,Number,Bosnian-Podrinje Canton,Both sexes,964
+2018,Number,Bosnian-Podrinje Canton,Both sexes,886
+2019,Number,Bosnian-Podrinje Canton,Both sexes,832
+2020,Number,Bosnian-Podrinje Canton,Both sexes,788
+2021,Number,Bosnian-Podrinje Canton,Both sexes,748
+2022,Number,Bosnian-Podrinje Canton,Both sexes,706
+2010,Number,Bosnian-Podrinje Canton,M,591
+2011,Number,Bosnian-Podrinje Canton,M,659
+2012,Number,Bosnian-Podrinje Canton,M,717
+2013,Number,Bosnian-Podrinje Canton,M,655
+2014,Number,Bosnian-Podrinje Canton,M,644
+2015,Number,Bosnian-Podrinje Canton,M,552
+2016,Number,Bosnian-Podrinje Canton,M,479
+2017,Number,Bosnian-Podrinje Canton,M,485
+2018,Number,Bosnian-Podrinje Canton,M,452
+2019,Number,Bosnian-Podrinje Canton,M,441
+2020,Number,Bosnian-Podrinje Canton,M,423
+2021,Number,Bosnian-Podrinje Canton,M,388
+2022,Number,Bosnian-Podrinje Canton,M,368
+2010,Number,Bosnian-Podrinje Canton,F,545
+2011,Number,Bosnian-Podrinje Canton,F,588
+2012,Number,Bosnian-Podrinje Canton,F,672
+2013,Number,Bosnian-Podrinje Canton,F,587
+2014,Number,Bosnian-Podrinje Canton,F,558
+2015,Number,Bosnian-Podrinje Canton,F,479
+2016,Number,Bosnian-Podrinje Canton,F,469
+2017,Number,Bosnian-Podrinje Canton,F,479
+2018,Number,Bosnian-Podrinje Canton,F,434
+2019,Number,Bosnian-Podrinje Canton,F,391
+2020,Number,Bosnian-Podrinje Canton,F,365
+2021,Number,Bosnian-Podrinje Canton,F,360
+2022,Number,Bosnian-Podrinje Canton,F,338
+2010,Number,Central Bosnia Canton,Both sexes,11531
+2011,Number,Central Bosnia Canton,Both sexes,12712
+2012,Number,Central Bosnia Canton,Both sexes,13583
+2013,Number,Central Bosnia Canton,Both sexes,13402
+2014,Number,Central Bosnia Canton,Both sexes,12333
+2015,Number,Central Bosnia Canton,Both sexes,11420
+2016,Number,Central Bosnia Canton,Both sexes,10610
+2017,Number,Central Bosnia Canton,Both sexes,10087
+2018,Number,Central Bosnia Canton,Both sexes,8320
+2019,Number,Central Bosnia Canton,Both sexes,7878
+2020,Number,Central Bosnia Canton,Both sexes,7869
+2021,Number,Central Bosnia Canton,Both sexes,8097
+2022,Number,Central Bosnia Canton,Both sexes,8867
+2010,Number,Central Bosnia Canton,M,5829
+2011,Number,Central Bosnia Canton,M,6467
+2012,Number,Central Bosnia Canton,M,6915
+2013,Number,Central Bosnia Canton,M,6792
+2014,Number,Central Bosnia Canton,M,6120
+2015,Number,Central Bosnia Canton,M,5619
+2016,Number,Central Bosnia Canton,M,5211
+2017,Number,Central Bosnia Canton,M,5032
+2018,Number,Central Bosnia Canton,M,4131
+2019,Number,Central Bosnia Canton,M,3906
+2020,Number,Central Bosnia Canton,M,3922
+2021,Number,Central Bosnia Canton,M,4135
+2022,Number,Central Bosnia Canton,M,4418
+2010,Number,Central Bosnia Canton,F,5702
+2011,Number,Central Bosnia Canton,F,6245
+2012,Number,Central Bosnia Canton,F,6668
+2013,Number,Central Bosnia Canton,F,6610
+2014,Number,Central Bosnia Canton,F,6213
+2015,Number,Central Bosnia Canton,F,5801
+2016,Number,Central Bosnia Canton,F,5399
+2017,Number,Central Bosnia Canton,F,5055
+2018,Number,Central Bosnia Canton,F,4189
+2019,Number,Central Bosnia Canton,F,3972
+2020,Number,Central Bosnia Canton,F,3947
+2021,Number,Central Bosnia Canton,F,3962
+2022,Number,Central Bosnia Canton,F,4449
+2010,Number,Herzegovina-Neretva Canton,Both sexes,9924
+2011,Number,Herzegovina-Neretva Canton,Both sexes,10847
+2012,Number,Herzegovina-Neretva Canton,Both sexes,11385
+2013,Number,Herzegovina-Neretva Canton,Both sexes,11170
+2014,Number,Herzegovina-Neretva Canton,Both sexes,9621
+2015,Number,Herzegovina-Neretva Canton,Both sexes,9386
+2016,Number,Herzegovina-Neretva Canton,Both sexes,8614
+2017,Number,Herzegovina-Neretva Canton,Both sexes,8089
+2018,Number,Herzegovina-Neretva Canton,Both sexes,7614
+2019,Number,Herzegovina-Neretva Canton,Both sexes,7328
+2020,Number,Herzegovina-Neretva Canton,Both sexes,7055
+2021,Number,Herzegovina-Neretva Canton,Both sexes,7121
+2022,Number,Herzegovina-Neretva Canton,Both sexes,7284
+2010,Number,Herzegovina-Neretva Canton,M,4940
+2011,Number,Herzegovina-Neretva Canton,M,5391
+2012,Number,Herzegovina-Neretva Canton,M,5789
+2013,Number,Herzegovina-Neretva Canton,M,5622
+2014,Number,Herzegovina-Neretva Canton,M,4641
+2015,Number,Herzegovina-Neretva Canton,M,4804
+2016,Number,Herzegovina-Neretva Canton,M,4225
+2017,Number,Herzegovina-Neretva Canton,M,3993
+2018,Number,Herzegovina-Neretva Canton,M,3802
+2019,Number,Herzegovina-Neretva Canton,M,3626
+2020,Number,Herzegovina-Neretva Canton,M,3489
+2021,Number,Herzegovina-Neretva Canton,M,3534
+2022,Number,Herzegovina-Neretva Canton,M,3633
+2010,Number,Herzegovina-Neretva Canton,F,4984
+2011,Number,Herzegovina-Neretva Canton,F,5456
+2012,Number,Herzegovina-Neretva Canton,F,5596
+2013,Number,Herzegovina-Neretva Canton,F,5548
+2014,Number,Herzegovina-Neretva Canton,F,4980
+2015,Number,Herzegovina-Neretva Canton,F,4582
+2016,Number,Herzegovina-Neretva Canton,F,4389
+2017,Number,Herzegovina-Neretva Canton,F,4096
+2018,Number,Herzegovina-Neretva Canton,F,3812
+2019,Number,Herzegovina-Neretva Canton,F,3702
+2020,Number,Herzegovina-Neretva Canton,F,3566
+2021,Number,Herzegovina-Neretva Canton,F,3587
+2022,Number,Herzegovina-Neretva Canton,F,3651
+2010,Number,West Herzegovina Canton,Both sexes,4115
+2011,Number,West Herzegovina Canton,Both sexes,4250
+2012,Number,West Herzegovina Canton,Both sexes,4406
+2013,Number,West Herzegovina Canton,Both sexes,4494
+2014,Number,West Herzegovina Canton,Both sexes,4419
+2015,Number,West Herzegovina Canton,Both sexes,4265
+2016,Number,West Herzegovina Canton,Both sexes,4029
+2017,Number,West Herzegovina Canton,Both sexes,3803
+2018,Number,West Herzegovina Canton,Both sexes,3390
+2019,Number,West Herzegovina Canton,Both sexes,3265
+2020,Number,West Herzegovina Canton,Both sexes,3138
+2021,Number,West Herzegovina Canton,Both sexes,3168
+2022,Number,West Herzegovina Canton,Both sexes,3281
+2010,Number,West Herzegovina Canton,M,1989
+2011,Number,West Herzegovina Canton,M,2075
+2012,Number,West Herzegovina Canton,M,2174
+2013,Number,West Herzegovina Canton,M,2211
+2014,Number,West Herzegovina Canton,M,2166
+2015,Number,West Herzegovina Canton,M,2087
+2016,Number,West Herzegovina Canton,M,1959
+2017,Number,West Herzegovina Canton,M,1867
+2018,Number,West Herzegovina Canton,M,1708
+2019,Number,West Herzegovina Canton,M,1637
+2020,Number,West Herzegovina Canton,M,1589
+2021,Number,West Herzegovina Canton,M,1600
+2022,Number,West Herzegovina Canton,M,1621
+2010,Number,West Herzegovina Canton,F,2126
+2011,Number,West Herzegovina Canton,F,2175
+2012,Number,West Herzegovina Canton,F,2232
+2013,Number,West Herzegovina Canton,F,2283
+2014,Number,West Herzegovina Canton,F,2253
+2015,Number,West Herzegovina Canton,F,2178
+2016,Number,West Herzegovina Canton,F,2070
+2017,Number,West Herzegovina Canton,F,1936
+2018,Number,West Herzegovina Canton,F,1682
+2019,Number,West Herzegovina Canton,F,1628
+2020,Number,West Herzegovina Canton,F,1549
+2021,Number,West Herzegovina Canton,F,1568
+2022,Number,West Herzegovina Canton,F,1660
+2010,Number,Sarajevo Canton,Both sexes,18625
+2011,Number,Sarajevo Canton,Both sexes,20301
+2012,Number,Sarajevo Canton,Both sexes,21229
+2013,Number,Sarajevo Canton,Both sexes,18966
+2014,Number,Sarajevo Canton,Both sexes,17904
+2015,Number,Sarajevo Canton,Both sexes,16148
+2016,Number,Sarajevo Canton,Both sexes,15285
+2017,Number,Sarajevo Canton,Both sexes,15926
+2018,Number,Sarajevo Canton,Both sexes,15162
+2019,Number,Sarajevo Canton,Both sexes,14733
+2020,Number,Sarajevo Canton,Both sexes,14750
+2021,Number,Sarajevo Canton,Both sexes,14679
+2022,Number,Sarajevo Canton,Both sexes,14770
+2010,Number,Sarajevo Canton,M,9360
+2011,Number,Sarajevo Canton,M,10307
+2012,Number,Sarajevo Canton,M,10700
+2013,Number,Sarajevo Canton,M,9551
+2014,Number,Sarajevo Canton,M,9071
+2015,Number,Sarajevo Canton,M,8075
+2016,Number,Sarajevo Canton,M,7678
+2017,Number,Sarajevo Canton,M,7965
+2018,Number,Sarajevo Canton,M,7604
+2019,Number,Sarajevo Canton,M,7432
+2020,Number,Sarajevo Canton,M,7392
+2021,Number,Sarajevo Canton,M,7353
+2022,Number,Sarajevo Canton,M,7320
+2010,Number,Sarajevo Canton,F,9265
+2011,Number,Sarajevo Canton,F,9994
+2012,Number,Sarajevo Canton,F,10529
+2013,Number,Sarajevo Canton,F,9415
+2014,Number,Sarajevo Canton,F,8833
+2015,Number,Sarajevo Canton,F,8073
+2016,Number,Sarajevo Canton,F,7607
+2017,Number,Sarajevo Canton,F,7961
+2018,Number,Sarajevo Canton,F,7558
+2019,Number,Sarajevo Canton,F,7301
+2020,Number,Sarajevo Canton,F,7358
+2021,Number,Sarajevo Canton,F,7326
+2022,Number,Sarajevo Canton,F,7450
+2010,Number,Canton 10,Both sexes,2626
+2011,Number,Canton 10,Both sexes,2731
+2012,Number,Canton 10,Both sexes,2864
+2013,Number,Canton 10,Both sexes,2824
+2014,Number,Canton 10,Both sexes,2740
+2015,Number,Canton 10,Both sexes,2283
+2016,Number,Canton 10,Both sexes,2041
+2017,Number,Canton 10,Both sexes,1957
+2018,Number,Canton 10,Both sexes,1917
+2019,Number,Canton 10,Both sexes,2058
+2020,Number,Canton 10,Both sexes,2043
+2021,Number,Canton 10,Both sexes,1947
+2022,Number,Canton 10,Both sexes,1817
+2010,Number,Canton 10,M,1321
+2011,Number,Canton 10,M,1354
+2012,Number,Canton 10,M,1397
+2013,Number,Canton 10,M,1381
+2014,Number,Canton 10,M,1334
+2015,Number,Canton 10,M,1109
+2016,Number,Canton 10,M,1000
+2017,Number,Canton 10,M,959
+2018,Number,Canton 10,M,959
+2019,Number,Canton 10,M,1027
+2020,Number,Canton 10,M,1070
+2021,Number,Canton 10,M,1007
+2022,Number,Canton 10,M,921
+2010,Number,Canton 10,F,1305
+2011,Number,Canton 10,F,1377
+2012,Number,Canton 10,F,1467
+2013,Number,Canton 10,F,1443
+2014,Number,Canton 10,F,1406
+2015,Number,Canton 10,F,1174
+2016,Number,Canton 10,F,1041
+2017,Number,Canton 10,F,998
+2018,Number,Canton 10,F,958
+2019,Number,Canton 10,F,1031
+2020,Number,Canton 10,F,973
+2021,Number,Canton 10,F,940
+2022,Number,Canton 10,F,896
