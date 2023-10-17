@@ -11,13 +11,94 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                " 1-4",
+                " 10-14",
+                " 5-9",
+                "0",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
+                "Total",
+                "Unknown"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Cause_of_death",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "(P00-P96) Certain conditions originating in the perinatal period",
+                "(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",
+                "(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",
+                "(I00-I99) Diseases of the circulatory system",
+                "(K00-K93) Diseases of the digestive system",
+                "(H60–H95) Diseases of the ear and adnexa",
+                "(H00-H59) Diseases of the eye",
+                "(N00-N99) Diseases of the genitourinary system",
+                "(M00-M99) Diseases of the musculoskeletal system and connective tissue",
+                "(G00-G99) Diseases of the nervous system",
+                "(J00-J99) Diseases of the respiratory system",
+                "(L00-L99) Diseases of the skin and subcutaneous tissue",
+                "(E00-E90) Endocrine metabolic and nutritional diseases",
+                "(Z00-Z99) Factors influencing health status and contract with health services",
+                "(A00-B99) Infectious and parasitic diseases",
+                "(S00-T98) Injuries, poisoning and consequences of external causes",
+                "(F00-F99) Mental and behavioural disorders",
+                "(C00-C97,D00-D48) Neoplasms",
+                "(O00-O99) Pregnancy, childbirth and the puerperium",
+                "(U00-U99) Special purpose codes",
+                "(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+                "Unknown"
+              ]
+            },
+            "title": "Cause_of_death"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

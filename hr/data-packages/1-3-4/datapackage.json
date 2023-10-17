@@ -12,12 +12,93 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupno",
+                "0",
+                " 1-4",
+                " 5-9",
+                " 10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
+                "Unknown",
+                ""
+              ]
+            },
+            "title": "Starosna dob"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "Cause_of_death",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(H00-H93) Bolesti oka, uha i adneksa",
+                "(O00-O99) Trudnoća, porođaj i postporođajni period",
+                "(A00-B99) Zarazne i parazitarne bolesti",
+                "(C00-C97,D00-D48) Neoplazme",
+                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava",
+                "(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma",
+                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
+                "(G00-G99) Bolesti nervnog sustava",
+                "(I00-I99) Bolesti cirkulacijskog sustava",
+                "(J00-J99) Bolesti respiratornog sustava",
+                "(K00-K93) Bolesti digestivnog sustava",
+                "(L00-L99) Bolesti kože i potkožnog tkiva",
+                "(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva",
+                "(N00-N99) Bolesti genitalno-urinarnog sustava",
+                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
+                "(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti",
+                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo",
+                "Nepoznato",
+                "(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka",
+                "(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom",
+                "diseases_of_the_ear",
+                "special_purpose_codes",
+                ""
+              ]
+            },
+            "title": "Cause_of_death"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
