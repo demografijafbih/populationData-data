@@ -1,1 +1,67 @@
-Year,Value
+Year,UNIT_MEASURE,Administrative Area,Sex,Literacy,Value
+2013,Number,Federation of Bosnia and Herzegovina,M,Literate,955131
+2013,Number,Federation of Bosnia and Herzegovina,M,iliterate,6823
+2013,Number,Federation of Bosnia and Herzegovina,M,Unknown,7389
+2013,Number,Una-Sana Canton,M,Literate,117388
+2013,Number,Una-Sana Canton,M,iliterate,1201
+2013,Number,Una-Sana Canton,M,Unknown,1024
+2013,Number,Posavina Canton,M,Literate,19569
+2013,Number,Posavina Canton,M,iliterate,168
+2013,Number,Posavina Canton,M,Unknown,242
+2013,Number,Tuzla Canton,M,Literate,190794
+2013,Number,Tuzla Canton,M,iliterate,1722
+2013,Number,Tuzla Canton,M,Unknown,1309
+2013,Number,Zenica-Doboj Canton,M,Literate,158533
+2013,Number,Zenica-Doboj Canton,M,iliterate,1077
+2013,Number,Zenica-Doboj Canton,M,Unknown,895
+2013,Number,Bosnian-Podrinje Canton,M,Literate,10379
+2013,Number,Bosnian-Podrinje Canton,M,iliterate,89
+2013,Number,Bosnian-Podrinje Canton,M,Unknown,48
+2013,Number,Central Bosnia Canton,M,Literate,110778
+2013,Number,Central Bosnia Canton,M,iliterate,916
+2013,Number,Central Bosnia Canton,M,Unknown,1490
+2013,Number,Herzegovina-Neretva Canton,M,Literate,96601
+2013,Number,Herzegovina-Neretva Canton,M,iliterate,466
+2013,Number,Herzegovina-Neretva Canton,M,Unknown,932
+2013,Number,West Herzegovina Canton,M,Literate,41183
+2013,Number,West Herzegovina Canton,M,iliterate,196
+2013,Number,West Herzegovina Canton,M,Unknown,474
+2013,Number,Sarajevo Canton,M,Literate,171986
+2013,Number,Sarajevo Canton,M,iliterate,748
+2013,Number,Sarajevo Canton,M,Unknown,571
+2013,Number,Canton 10,M,Literate,37920
+2013,Number,Canton 10,M,iliterate,240
+2013,Number,Canton 10,M,Unknown,404
+2013,Number,Federation of Bosnia and Herzegovina,F,Literate,960183
+2013,Number,Federation of Bosnia and Herzegovina,F,iliterate,45404
+2013,Number,Federation of Bosnia and Herzegovina,F,Unknown,13395
+2013,Number,Una-Sana Canton,F,Literate,114220
+2013,Number,Una-Sana Canton,F,iliterate,7083
+2013,Number,Una-Sana Canton,F,Unknown,1763
+2013,Number,Posavina Canton,F,Literate,18788
+2013,Number,Posavina Canton,F,iliterate,761
+2013,Number,Posavina Canton,F,Unknown,356
+2013,Number,Tuzla Canton,F,Literate,190980
+2013,Number,Tuzla Canton,F,iliterate,11989
+2013,Number,Tuzla Canton,F,Unknown,2457
+2013,Number,Zenica-Doboj Canton,F,Literate,155085
+2013,Number,Zenica-Doboj Canton,F,iliterate,7458
+2013,Number,Zenica-Doboj Canton,F,Unknown,1869
+2013,Number,Bosnian-Podrinje Canton,F,Literate,10328
+2013,Number,Bosnian-Podrinje Canton,F,iliterate,721
+2013,Number,Bosnian-Podrinje Canton,F,Unknown,113
+2013,Number,Central Bosnia Canton,F,Literate,105913
+2013,Number,Central Bosnia Canton,F,iliterate,5831
+2013,Number,Central Bosnia Canton,F,Unknown,2488
+2013,Number,Herzegovina-Neretva Canton,F,Literate,97557
+2013,Number,Herzegovina-Neretva Canton,F,iliterate,3238
+2013,Number,Herzegovina-Neretva Canton,F,Unknown,1630
+2013,Number,West Herzegovina Canton,F,Literate,40544
+2013,Number,West Herzegovina Canton,F,iliterate,1230
+2013,Number,West Herzegovina Canton,F,Unknown,735
+2013,Number,Sarajevo Canton,F,Literate,190584
+2013,Number,Sarajevo Canton,F,iliterate,5558
+2013,Number,Sarajevo Canton,F,Unknown,1432
+2013,Number,Canton 10,F,Literate,36184
+2013,Number,Canton 10,F,iliterate,1535
+2013,Number,Canton 10,F,Unknown,552

@@ -1,1 +1,628 @@
-Year,Value
+Year,UNIT_MEASURE,Age,Sex,Administrative area,Value
+2013,Number,Total,Both sexes,Federation of Bosnia and Herzegovina,2219220
+2013,Number,0-4,Both sexes,Federation of Bosnia and Herzegovina,114843
+2013,Number, 5-9,Both sexes,Federation of Bosnia and Herzegovina,116052
+2013,Number, 10-14,Both sexes,Federation of Bosnia and Herzegovina,126053
+2013,Number, 15-19,Both sexes,Federation of Bosnia and Herzegovina,161881
+2013,Number, 20-24,Both sexes,Federation of Bosnia and Herzegovina,150902
+2013,Number, 25-29,Both sexes,Federation of Bosnia and Herzegovina,164203
+2013,Number, 30-34,Both sexes,Federation of Bosnia and Herzegovina,160988
+2013,Number, 35-39,Both sexes,Federation of Bosnia and Herzegovina,157715
+2013,Number,40-44,Both sexes,Federation of Bosnia and Herzegovina,154830
+2013,Number, 45-49,Both sexes,Federation of Bosnia and Herzegovina,167109
+2013,Number, 50-54,Both sexes,Federation of Bosnia and Herzegovina,173996
+2013,Number, 55-59,Both sexes,Federation of Bosnia and Herzegovina,156089
+2013,Number, 60-64,Both sexes,Federation of Bosnia and Herzegovina,128613
+2013,Number, 65-69,Both sexes,Federation of Bosnia and Herzegovina,88391
+2013,Number, 70-74,Both sexes,Federation of Bosnia and Herzegovina,81023
+2013,Number, 75-79,Both sexes,Federation of Bosnia and Herzegovina,65613
+2013,Number, 80-84,Both sexes,Federation of Bosnia and Herzegovina,35227
+2013,Number,85+,Both sexes,Federation of Bosnia and Herzegovina,15692
+2013,Number,Total,Both sexes,Una-Sana Canton,273261
+2013,Number,0-4,Both sexes,Una-Sana Canton,14805
+2013,Number, 5-9,Both sexes,Una-Sana Canton,15777
+2013,Number, 10-14,Both sexes,Una-Sana Canton,17450
+2013,Number, 15-19,Both sexes,Una-Sana Canton,21328
+2013,Number, 20-24,Both sexes,Una-Sana Canton,19541
+2013,Number, 25-29,Both sexes,Una-Sana Canton,20912
+2013,Number, 30-34,Both sexes,Una-Sana Canton,20676
+2013,Number, 35-39,Both sexes,Una-Sana Canton,21564
+2013,Number,40-44,Both sexes,Una-Sana Canton,20687
+2013,Number, 45-49,Both sexes,Una-Sana Canton,20701
+2013,Number, 50-54,Both sexes,Una-Sana Canton,20224
+2013,Number, 55-59,Both sexes,Una-Sana Canton,16989
+2013,Number, 60-64,Both sexes,Una-Sana Canton,13344
+2013,Number, 65-69,Both sexes,Una-Sana Canton,9626
+2013,Number, 70-74,Both sexes,Una-Sana Canton,8824
+2013,Number, 75-79,Both sexes,Una-Sana Canton,6527
+2013,Number, 80-84,Both sexes,Una-Sana Canton,3067
+2013,Number,85+,Both sexes,Una-Sana Canton,1219
+2013,Number,Total,Both sexes,Posavina Canton,43453
+2013,Number,0-4,Both sexes,Posavina Canton,1582
+2013,Number, 5-9,Both sexes,Posavina Canton,1987
+2013,Number, 10-14,Both sexes,Posavina Canton,2466
+2013,Number, 15-19,Both sexes,Posavina Canton,3016
+2013,Number, 20-24,Both sexes,Posavina Canton,2841
+2013,Number, 25-29,Both sexes,Posavina Canton,2823
+2013,Number, 30-34,Both sexes,Posavina Canton,2680
+2013,Number, 35-39,Both sexes,Posavina Canton,3058
+2013,Number,40-44,Both sexes,Posavina Canton,3579
+2013,Number, 45-49,Both sexes,Posavina Canton,4072
+2013,Number, 50-54,Both sexes,Posavina Canton,3535
+2013,Number, 55-59,Both sexes,Posavina Canton,2797
+2013,Number, 60-64,Both sexes,Posavina Canton,2498
+2013,Number, 65-69,Both sexes,Posavina Canton,2138
+2013,Number, 70-74,Both sexes,Posavina Canton,1934
+2013,Number, 75-79,Both sexes,Posavina Canton,1486
+2013,Number, 80-84,Both sexes,Posavina Canton,716
+2013,Number,85+,Both sexes,Posavina Canton,245
+2013,Number,Total,Both sexes,Tuzla Canton,445028
+2013,Number,0-4,Both sexes,Tuzla Canton,23047
+2013,Number, 5-9,Both sexes,Tuzla Canton,22730
+2013,Number, 10-14,Both sexes,Tuzla Canton,24027
+2013,Number, 15-19,Both sexes,Tuzla Canton,32263
+2013,Number, 20-24,Both sexes,Tuzla Canton,31620
+2013,Number, 25-29,Both sexes,Tuzla Canton,33046
+2013,Number, 30-34,Both sexes,Tuzla Canton,31480
+2013,Number, 35-39,Both sexes,Tuzla Canton,31195
+2013,Number,40-44,Both sexes,Tuzla Canton,31469
+2013,Number, 45-49,Both sexes,Tuzla Canton,34576
+2013,Number, 50-54,Both sexes,Tuzla Canton,37032
+2013,Number, 55-59,Both sexes,Tuzla Canton,31967
+2013,Number, 60-64,Both sexes,Tuzla Canton,26735
+2013,Number, 65-69,Both sexes,Tuzla Canton,18379
+2013,Number, 70-74,Both sexes,Tuzla Canton,15237
+2013,Number, 75-79,Both sexes,Tuzla Canton,11738
+2013,Number, 80-84,Both sexes,Tuzla Canton,6071
+2013,Number,85+,Both sexes,Tuzla Canton,2416
+2013,Number,Total,Both sexes,Zenica-Doboj Canton,364433
+2013,Number,0-4,Both sexes,Zenica-Doboj Canton,19906
+2013,Number, 5-9,Both sexes,Zenica-Doboj Canton,19610
+2013,Number, 10-14,Both sexes,Zenica-Doboj Canton,20927
+2013,Number, 15-19,Both sexes,Zenica-Doboj Canton,27674
+2013,Number, 20-24,Both sexes,Zenica-Doboj Canton,25340
+2013,Number, 25-29,Both sexes,Zenica-Doboj Canton,27092
+2013,Number, 30-34,Both sexes,Zenica-Doboj Canton,26050
+2013,Number, 35-39,Both sexes,Zenica-Doboj Canton,25766
+2013,Number,40-44,Both sexes,Zenica-Doboj Canton,25290
+2013,Number, 45-49,Both sexes,Zenica-Doboj Canton,27980
+2013,Number, 50-54,Both sexes,Zenica-Doboj Canton,29498
+2013,Number, 55-59,Both sexes,Zenica-Doboj Canton,26069
+2013,Number, 60-64,Both sexes,Zenica-Doboj Canton,21251
+2013,Number, 65-69,Both sexes,Zenica-Doboj Canton,14217
+2013,Number, 70-74,Both sexes,Zenica-Doboj Canton,12208
+2013,Number, 75-79,Both sexes,Zenica-Doboj Canton,9237
+2013,Number, 80-84,Both sexes,Zenica-Doboj Canton,4593
+2013,Number,85+,Both sexes,Zenica-Doboj Canton,1725
+2013,Number,Total,Both sexes,Bosnian-Podrinje Canton,23734
+2013,Number,0-4,Both sexes,Bosnian-Podrinje Canton,1098
+2013,Number, 5-9,Both sexes,Bosnian-Podrinje Canton,958
+2013,Number, 10-14,Both sexes,Bosnian-Podrinje Canton,1230
+2013,Number, 15-19,Both sexes,Bosnian-Podrinje Canton,1738
+2013,Number, 20-24,Both sexes,Bosnian-Podrinje Canton,1437
+2013,Number, 25-29,Both sexes,Bosnian-Podrinje Canton,1602
+2013,Number, 30-34,Both sexes,Bosnian-Podrinje Canton,1623
+2013,Number, 35-39,Both sexes,Bosnian-Podrinje Canton,1455
+2013,Number,40-44,Both sexes,Bosnian-Podrinje Canton,1403
+2013,Number, 45-49,Both sexes,Bosnian-Podrinje Canton,1706
+2013,Number, 50-54,Both sexes,Bosnian-Podrinje Canton,1914
+2013,Number, 55-59,Both sexes,Bosnian-Podrinje Canton,2028
+2013,Number, 60-64,Both sexes,Bosnian-Podrinje Canton,1677
+2013,Number, 65-69,Both sexes,Bosnian-Podrinje Canton,1071
+2013,Number, 70-74,Both sexes,Bosnian-Podrinje Canton,1042
+2013,Number, 75-79,Both sexes,Bosnian-Podrinje Canton,1021
+2013,Number, 80-84,Both sexes,Bosnian-Podrinje Canton,511
+2013,Number,85+,Both sexes,Bosnian-Podrinje Canton,220
+2013,Number,Total,Both sexes,Central Bosnia Canton,254686
+2013,Number,0-4,Both sexes,Central Bosnia Canton,12979
+2013,Number, 5-9,Both sexes,Central Bosnia Canton,14291
+2013,Number, 10-14,Both sexes,Central Bosnia Canton,15930
+2013,Number, 15-19,Both sexes,Central Bosnia Canton,19819
+2013,Number, 20-24,Both sexes,Central Bosnia Canton,17764
+2013,Number, 25-29,Both sexes,Central Bosnia Canton,19067
+2013,Number, 30-34,Both sexes,Central Bosnia Canton,18487
+2013,Number, 35-39,Both sexes,Central Bosnia Canton,18371
+2013,Number,40-44,Both sexes,Central Bosnia Canton,18285
+2013,Number, 45-49,Both sexes,Central Bosnia Canton,19430
+2013,Number, 50-54,Both sexes,Central Bosnia Canton,19854
+2013,Number, 55-59,Both sexes,Central Bosnia Canton,17535
+2013,Number, 60-64,Both sexes,Central Bosnia Canton,13788
+2013,Number, 65-69,Both sexes,Central Bosnia Canton,9151
+2013,Number, 70-74,Both sexes,Central Bosnia Canton,8847
+2013,Number, 75-79,Both sexes,Central Bosnia Canton,6561
+2013,Number, 80-84,Both sexes,Central Bosnia Canton,3264
+2013,Number,85+,Both sexes,Central Bosnia Canton,1263
+2013,Number,Total,Both sexes,Herzegovina-Neretva Canton,222007
+2013,Number,0-4,Both sexes,Herzegovina-Neretva Canton,10717
+2013,Number, 5-9,Both sexes,Herzegovina-Neretva Canton,10866
+2013,Number, 10-14,Both sexes,Herzegovina-Neretva Canton,12576
+2013,Number, 15-19,Both sexes,Herzegovina-Neretva Canton,16497
+2013,Number, 20-24,Both sexes,Herzegovina-Neretva Canton,14626
+2013,Number, 25-29,Both sexes,Herzegovina-Neretva Canton,15752
+2013,Number, 30-34,Both sexes,Herzegovina-Neretva Canton,15188
+2013,Number, 35-39,Both sexes,Herzegovina-Neretva Canton,14551
+2013,Number,40-44,Both sexes,Herzegovina-Neretva Canton,14619
+2013,Number, 45-49,Both sexes,Herzegovina-Neretva Canton,16426
+2013,Number, 50-54,Both sexes,Herzegovina-Neretva Canton,17397
+2013,Number, 55-59,Both sexes,Herzegovina-Neretva Canton,15819
+2013,Number, 60-64,Both sexes,Herzegovina-Neretva Canton,12748
+2013,Number, 65-69,Both sexes,Herzegovina-Neretva Canton,8805
+2013,Number, 70-74,Both sexes,Herzegovina-Neretva Canton,9454
+2013,Number, 75-79,Both sexes,Herzegovina-Neretva Canton,8323
+2013,Number, 80-84,Both sexes,Herzegovina-Neretva Canton,5051
+2013,Number,85+,Both sexes,Herzegovina-Neretva Canton,2592
+2013,Number,Total,Both sexes,West Herzegovina Canton,94898
+2013,Number,0-4,Both sexes,West Herzegovina Canton,5017
+2013,Number, 5-9,Both sexes,West Herzegovina Canton,5519
+2013,Number, 10-14,Both sexes,West Herzegovina Canton,6316
+2013,Number, 15-19,Both sexes,West Herzegovina Canton,7379
+2013,Number, 20-24,Both sexes,West Herzegovina Canton,6886
+2013,Number, 25-29,Both sexes,West Herzegovina Canton,6575
+2013,Number, 30-34,Both sexes,West Herzegovina Canton,5795
+2013,Number, 35-39,Both sexes,West Herzegovina Canton,6013
+2013,Number,40-44,Both sexes,West Herzegovina Canton,6517
+2013,Number, 45-49,Both sexes,West Herzegovina Canton,7179
+2013,Number, 50-54,Both sexes,West Herzegovina Canton,6999
+2013,Number, 55-59,Both sexes,West Herzegovina Canton,5838
+2013,Number, 60-64,Both sexes,West Herzegovina Canton,4357
+2013,Number, 65-69,Both sexes,West Herzegovina Canton,3394
+2013,Number, 70-74,Both sexes,West Herzegovina Canton,3928
+2013,Number, 75-79,Both sexes,West Herzegovina Canton,3466
+2013,Number, 80-84,Both sexes,West Herzegovina Canton,2275
+2013,Number,85+,Both sexes,West Herzegovina Canton,1445
+2013,Number,Total,Both sexes,Sarajevo Canton,413593
+2013,Number,0-4,Both sexes,Sarajevo Canton,22280
+2013,Number, 5-9,Both sexes,Sarajevo Canton,20434
+2013,Number, 10-14,Both sexes,Sarajevo Canton,20546
+2013,Number, 15-19,Both sexes,Sarajevo Canton,26388
+2013,Number, 20-24,Both sexes,Sarajevo Canton,25484
+2013,Number, 25-29,Both sexes,Sarajevo Canton,31933
+2013,Number, 30-34,Both sexes,Sarajevo Canton,33628
+2013,Number, 35-39,Both sexes,Sarajevo Canton,30097
+2013,Number,40-44,Both sexes,Sarajevo Canton,26828
+2013,Number, 45-49,Both sexes,Sarajevo Canton,28776
+2013,Number, 50-54,Both sexes,Sarajevo Canton,31191
+2013,Number, 55-59,Both sexes,Sarajevo Canton,31115
+2013,Number, 60-64,Both sexes,Sarajevo Canton,27127
+2013,Number, 65-69,Both sexes,Sarajevo Canton,17662
+2013,Number, 70-74,Both sexes,Sarajevo Canton,15468
+2013,Number, 75-79,Both sexes,Sarajevo Canton,13717
+2013,Number, 80-84,Both sexes,Sarajevo Canton,7483
+2013,Number,85+,Both sexes,Sarajevo Canton,3436
+2013,Number,Total,Both sexes,Canton 10,84127
+2013,Number,0-4,Both sexes,Canton 10,3412
+2013,Number, 5-9,Both sexes,Canton 10,3880
+2013,Number, 10-14,Both sexes,Canton 10,4585
+2013,Number, 15-19,Both sexes,Canton 10,5779
+2013,Number, 20-24,Both sexes,Canton 10,5363
+2013,Number, 25-29,Both sexes,Canton 10,5401
+2013,Number, 30-34,Both sexes,Canton 10,5381
+2013,Number, 35-39,Both sexes,Canton 10,5645
+2013,Number,40-44,Both sexes,Canton 10,6153
+2013,Number, 45-49,Both sexes,Canton 10,6263
+2013,Number, 50-54,Both sexes,Canton 10,6352
+2013,Number, 55-59,Both sexes,Canton 10,5932
+2013,Number, 60-64,Both sexes,Canton 10,5088
+2013,Number, 65-69,Both sexes,Canton 10,3948
+2013,Number, 70-74,Both sexes,Canton 10,4081
+2013,Number, 75-79,Both sexes,Canton 10,3537
+2013,Number, 80-84,Both sexes,Canton 10,2196
+2013,Number,85+,Both sexes,Canton 10,1131
+2013,Number,Total,M,Federation of Bosnia and Herzegovina,1087993
+2013,Number,0-4,M,Federation of Bosnia and Herzegovina,59017
+2013,Number, 5-9,M,Federation of Bosnia and Herzegovina,59633
+2013,Number, 10-14,M,Federation of Bosnia and Herzegovina,64493
+2013,Number, 15-19,M,Federation of Bosnia and Herzegovina,83298
+2013,Number, 20-24,M,Federation of Bosnia and Herzegovina,77103
+2013,Number, 25-29,M,Federation of Bosnia and Herzegovina,84119
+2013,Number, 30-34,M,Federation of Bosnia and Herzegovina,81932
+2013,Number, 35-39,M,Federation of Bosnia and Herzegovina,78939
+2013,Number,40-44,M,Federation of Bosnia and Herzegovina,77122
+2013,Number, 45-49,M,Federation of Bosnia and Herzegovina,82594
+2013,Number, 50-54,M,Federation of Bosnia and Herzegovina,85303
+2013,Number, 55-59,M,Federation of Bosnia and Herzegovina,75568
+2013,Number, 60-64,M,Federation of Bosnia and Herzegovina,59899
+2013,Number, 65-69,M,Federation of Bosnia and Herzegovina,39438
+2013,Number, 70-74,M,Federation of Bosnia and Herzegovina,34445
+2013,Number, 75-79,M,Federation of Bosnia and Herzegovina,26695
+2013,Number, 80-84,M,Federation of Bosnia and Herzegovina,13493
+2013,Number,85+,M,Federation of Bosnia and Herzegovina,4902
+2013,Number,Total,M,Una-Sana Canton,135304
+2013,Number,0-4,M,Una-Sana Canton,7629
+2013,Number, 5-9,M,Una-Sana Canton,8062
+2013,Number, 10-14,M,Una-Sana Canton,8902
+2013,Number, 15-19,M,Una-Sana Canton,11007
+2013,Number, 20-24,M,Una-Sana Canton,10030
+2013,Number, 25-29,M,Una-Sana Canton,10851
+2013,Number, 30-34,M,Una-Sana Canton,10676
+2013,Number, 35-39,M,Una-Sana Canton,10867
+2013,Number,40-44,M,Una-Sana Canton,10236
+2013,Number, 45-49,M,Una-Sana Canton,10261
+2013,Number, 50-54,M,Una-Sana Canton,9978
+2013,Number, 55-59,M,Una-Sana Canton,8241
+2013,Number, 60-64,M,Una-Sana Canton,6329
+2013,Number, 65-69,M,Una-Sana Canton,4351
+2013,Number, 70-74,M,Una-Sana Canton,3767
+2013,Number, 75-79,M,Una-Sana Canton,2604
+2013,Number, 80-84,M,Una-Sana Canton,1126
+2013,Number,85+,M,Una-Sana Canton,387
+2013,Number,Total,M,Posavina Canton,21805
+2013,Number,0-4,M,Posavina Canton,802
+2013,Number, 5-9,M,Posavina Canton,1024
+2013,Number, 10-14,M,Posavina Canton,1323
+2013,Number, 15-19,M,Posavina Canton,1560
+2013,Number, 20-24,M,Posavina Canton,1509
+2013,Number, 25-29,M,Posavina Canton,1473
+2013,Number, 30-34,M,Posavina Canton,1369
+2013,Number, 35-39,M,Posavina Canton,1544
+2013,Number,40-44,M,Posavina Canton,1877
+2013,Number, 45-49,M,Posavina Canton,2195
+2013,Number, 50-54,M,Posavina Canton,1868
+2013,Number, 55-59,M,Posavina Canton,1443
+2013,Number, 60-64,M,Posavina Canton,1178
+2013,Number, 65-69,M,Posavina Canton,965
+2013,Number, 70-74,M,Posavina Canton,832
+2013,Number, 75-79,M,Posavina Canton,535
+2013,Number, 80-84,M,Posavina Canton,250
+2013,Number,85+,M,Posavina Canton,58
+2013,Number,Total,M,Tuzla Canton,217388
+2013,Number,0-4,M,Tuzla Canton,11848
+2013,Number, 5-9,M,Tuzla Canton,11715
+2013,Number, 10-14,M,Tuzla Canton,12290
+2013,Number, 15-19,M,Tuzla Canton,16556
+2013,Number, 20-24,M,Tuzla Canton,16209
+2013,Number, 25-29,M,Tuzla Canton,16947
+2013,Number, 30-34,M,Tuzla Canton,15950
+2013,Number, 35-39,M,Tuzla Canton,15374
+2013,Number,40-44,M,Tuzla Canton,15535
+2013,Number, 45-49,M,Tuzla Canton,16715
+2013,Number, 50-54,M,Tuzla Canton,17905
+2013,Number, 55-59,M,Tuzla Canton,15310
+2013,Number, 60-64,M,Tuzla Canton,12416
+2013,Number, 65-69,M,Tuzla Canton,8194
+2013,Number, 70-74,M,Tuzla Canton,6519
+2013,Number, 75-79,M,Tuzla Canton,4763
+2013,Number, 80-84,M,Tuzla Canton,2345
+2013,Number,85+,M,Tuzla Canton,797
+2013,Number,Total,M,Zenica-Doboj Canton,180780
+2013,Number,0-4,M,Zenica-Doboj Canton,10265
+2013,Number, 5-9,M,Zenica-Doboj Canton,10010
+2013,Number, 10-14,M,Zenica-Doboj Canton,10668
+2013,Number, 15-19,M,Zenica-Doboj Canton,14352
+2013,Number, 20-24,M,Zenica-Doboj Canton,12872
+2013,Number, 25-29,M,Zenica-Doboj Canton,13981
+2013,Number, 30-34,M,Zenica-Doboj Canton,13592
+2013,Number, 35-39,M,Zenica-Doboj Canton,13134
+2013,Number,40-44,M,Zenica-Doboj Canton,12655
+2013,Number, 45-49,M,Zenica-Doboj Canton,13872
+2013,Number, 50-54,M,Zenica-Doboj Canton,14553
+2013,Number, 55-59,M,Zenica-Doboj Canton,12699
+2013,Number, 60-64,M,Zenica-Doboj Canton,10075
+2013,Number, 65-69,M,Zenica-Doboj Canton,6460
+2013,Number, 70-74,M,Zenica-Doboj Canton,5267
+2013,Number, 75-79,M,Zenica-Doboj Canton,3869
+2013,Number, 80-84,M,Zenica-Doboj Canton,1851
+2013,Number,85+,M,Zenica-Doboj Canton,605
+2013,Number,Total,M,Bosnian-Podrinje Canton,11617
+2013,Number,0-4,M,Bosnian-Podrinje Canton,581
+2013,Number, 5-9,M,Bosnian-Podrinje Canton,520
+2013,Number, 10-14,M,Bosnian-Podrinje Canton,635
+2013,Number, 15-19,M,Bosnian-Podrinje Canton,897
+2013,Number, 20-24,M,Bosnian-Podrinje Canton,749
+2013,Number, 25-29,M,Bosnian-Podrinje Canton,839
+2013,Number, 30-34,M,Bosnian-Podrinje Canton,843
+2013,Number, 35-39,M,Bosnian-Podrinje Canton,738
+2013,Number,40-44,M,Bosnian-Podrinje Canton,700
+2013,Number, 45-49,M,Bosnian-Podrinje Canton,838
+2013,Number, 50-54,M,Bosnian-Podrinje Canton,939
+2013,Number, 55-59,M,Bosnian-Podrinje Canton,969
+2013,Number, 60-64,M,Bosnian-Podrinje Canton,752
+2013,Number, 65-69,M,Bosnian-Podrinje Canton,446
+2013,Number, 70-74,M,Bosnian-Podrinje Canton,443
+2013,Number, 75-79,M,Bosnian-Podrinje Canton,429
+2013,Number, 80-84,M,Bosnian-Podrinje Canton,225
+2013,Number,85+,M,Bosnian-Podrinje Canton,74
+2013,Number,Total,M,Central Bosnia Canton,127266
+2013,Number,0-4,M,Central Bosnia Canton,6724
+2013,Number, 5-9,M,Central Bosnia Canton,7358
+2013,Number, 10-14,M,Central Bosnia Canton,8167
+2013,Number, 15-19,M,Central Bosnia Canton,10172
+2013,Number, 20-24,M,Central Bosnia Canton,9168
+2013,Number, 25-29,M,Central Bosnia Canton,10118
+2013,Number, 30-34,M,Central Bosnia Canton,9717
+2013,Number, 35-39,M,Central Bosnia Canton,9480
+2013,Number,40-44,M,Central Bosnia Canton,9424
+2013,Number, 45-49,M,Central Bosnia Canton,9761
+2013,Number, 50-54,M,Central Bosnia Canton,9778
+2013,Number, 55-59,M,Central Bosnia Canton,8565
+2013,Number, 60-64,M,Central Bosnia Canton,6485
+2013,Number, 65-69,M,Central Bosnia Canton,4104
+2013,Number, 70-74,M,Central Bosnia Canton,3712
+2013,Number, 75-79,M,Central Bosnia Canton,2809
+2013,Number, 80-84,M,Central Bosnia Canton,1300
+2013,Number,85+,M,Central Bosnia Canton,424
+2013,Number,Total,M,Herzegovina-Neretva Canton,109018
+2013,Number,0-4,M,Herzegovina-Neretva Canton,5448
+2013,Number, 5-9,M,Herzegovina-Neretva Canton,5571
+2013,Number, 10-14,M,Herzegovina-Neretva Canton,6370
+2013,Number, 15-19,M,Herzegovina-Neretva Canton,8565
+2013,Number, 20-24,M,Herzegovina-Neretva Canton,7456
+2013,Number, 25-29,M,Herzegovina-Neretva Canton,8141
+2013,Number, 30-34,M,Herzegovina-Neretva Canton,7856
+2013,Number, 35-39,M,Herzegovina-Neretva Canton,7391
+2013,Number,40-44,M,Herzegovina-Neretva Canton,7436
+2013,Number, 45-49,M,Herzegovina-Neretva Canton,8303
+2013,Number, 50-54,M,Herzegovina-Neretva Canton,8611
+2013,Number, 55-59,M,Herzegovina-Neretva Canton,7907
+2013,Number, 60-64,M,Herzegovina-Neretva Canton,5983
+2013,Number, 65-69,M,Herzegovina-Neretva Canton,3888
+2013,Number, 70-74,M,Herzegovina-Neretva Canton,4005
+2013,Number, 75-79,M,Herzegovina-Neretva Canton,3437
+2013,Number, 80-84,M,Herzegovina-Neretva Canton,1927
+2013,Number,85+,M,Herzegovina-Neretva Canton,723
+2013,Number,Total,M,West Herzegovina Canton,47311
+2013,Number,0-4,M,West Herzegovina Canton,2595
+2013,Number, 5-9,M,West Herzegovina Canton,2863
+2013,Number, 10-14,M,West Herzegovina Canton,3176
+2013,Number, 15-19,M,West Herzegovina Canton,3779
+2013,Number, 20-24,M,West Herzegovina Canton,3491
+2013,Number, 25-29,M,West Herzegovina Canton,3340
+2013,Number, 30-34,M,West Herzegovina Canton,2920
+2013,Number, 35-39,M,West Herzegovina Canton,2989
+2013,Number,40-44,M,West Herzegovina Canton,3316
+2013,Number, 45-49,M,West Herzegovina Canton,3775
+2013,Number, 50-54,M,West Herzegovina Canton,3761
+2013,Number, 55-59,M,West Herzegovina Canton,3123
+2013,Number, 60-64,M,West Herzegovina Canton,2197
+2013,Number, 65-69,M,West Herzegovina Canton,1681
+2013,Number, 70-74,M,West Herzegovina Canton,1761
+2013,Number, 75-79,M,West Herzegovina Canton,1356
+2013,Number, 80-84,M,West Herzegovina Canton,854
+2013,Number,85+,M,West Herzegovina Canton,334
+2013,Number,Total,M,Sarajevo Canton,195161
+2013,Number,0-4,M,Sarajevo Canton,11376
+2013,Number, 5-9,M,Sarajevo Canton,10480
+2013,Number, 10-14,M,Sarajevo Canton,10607
+2013,Number, 15-19,M,Sarajevo Canton,13496
+2013,Number, 20-24,M,Sarajevo Canton,12845
+2013,Number, 25-29,M,Sarajevo Canton,15536
+2013,Number, 30-34,M,Sarajevo Canton,16189
+2013,Number, 35-39,M,Sarajevo Canton,14472
+2013,Number,40-44,M,Sarajevo Canton,12745
+2013,Number, 45-49,M,Sarajevo Canton,13595
+2013,Number, 50-54,M,Sarajevo Canton,14485
+2013,Number, 55-59,M,Sarajevo Canton,14220
+2013,Number, 60-64,M,Sarajevo Canton,11885
+2013,Number, 65-69,M,Sarajevo Canton,7451
+2013,Number, 70-74,M,Sarajevo Canton,6327
+2013,Number, 75-79,M,Sarajevo Canton,5450
+2013,Number, 80-84,M,Sarajevo Canton,2806
+2013,Number,85+,M,Sarajevo Canton,1196
+2013,Number,Total,M,Canton 10,42343
+2013,Number,0-4,M,Canton 10,1749
+2013,Number, 5-9,M,Canton 10,2030
+2013,Number, 10-14,M,Canton 10,2355
+2013,Number, 15-19,M,Canton 10,2914
+2013,Number, 20-24,M,Canton 10,2774
+2013,Number, 25-29,M,Canton 10,2893
+2013,Number, 30-34,M,Canton 10,2820
+2013,Number, 35-39,M,Canton 10,2950
+2013,Number,40-44,M,Canton 10,3198
+2013,Number, 45-49,M,Canton 10,3279
+2013,Number, 50-54,M,Canton 10,3425
+2013,Number, 55-59,M,Canton 10,3091
+2013,Number, 60-64,M,Canton 10,2599
+2013,Number, 65-69,M,Canton 10,1898
+2013,Number, 70-74,M,Canton 10,1812
+2013,Number, 75-79,M,Canton 10,1443
+2013,Number, 80-84,M,Canton 10,809
+2013,Number,85+,M,Canton 10,304
+2013,Number,Total,F,Federation of Bosnia and Herzegovina,1131227
+2013,Number,0-4,F,Federation of Bosnia and Herzegovina,55826
+2013,Number, 5-9,F,Federation of Bosnia and Herzegovina,56419
+2013,Number, 10-14,F,Federation of Bosnia and Herzegovina,61560
+2013,Number, 15-19,F,Federation of Bosnia and Herzegovina,78583
+2013,Number, 20-24,F,Federation of Bosnia and Herzegovina,73799
+2013,Number, 25-29,F,Federation of Bosnia and Herzegovina,80084
+2013,Number, 30-34,F,Federation of Bosnia and Herzegovina,79056
+2013,Number, 35-39,F,Federation of Bosnia and Herzegovina,78776
+2013,Number,40-44,F,Federation of Bosnia and Herzegovina,77708
+2013,Number, 45-49,F,Federation of Bosnia and Herzegovina,84515
+2013,Number, 50-54,F,Federation of Bosnia and Herzegovina,88693
+2013,Number, 55-59,F,Federation of Bosnia and Herzegovina,80521
+2013,Number, 60-64,F,Federation of Bosnia and Herzegovina,68714
+2013,Number, 65-69,F,Federation of Bosnia and Herzegovina,48953
+2013,Number, 70-74,F,Federation of Bosnia and Herzegovina,46578
+2013,Number, 75-79,F,Federation of Bosnia and Herzegovina,38918
+2013,Number, 80-84,F,Federation of Bosnia and Herzegovina,21734
+2013,Number,85+,F,Federation of Bosnia and Herzegovina,10790
+2013,Number,Total,F,Una-Sana Canton,137957
+2013,Number,0-4,F,Una-Sana Canton,7176
+2013,Number, 5-9,F,Una-Sana Canton,7715
+2013,Number, 10-14,F,Una-Sana Canton,8548
+2013,Number, 15-19,F,Una-Sana Canton,10321
+2013,Number, 20-24,F,Una-Sana Canton,9511
+2013,Number, 25-29,F,Una-Sana Canton,10061
+2013,Number, 30-34,F,Una-Sana Canton,10000
+2013,Number, 35-39,F,Una-Sana Canton,10697
+2013,Number,40-44,F,Una-Sana Canton,10451
+2013,Number, 45-49,F,Una-Sana Canton,10440
+2013,Number, 50-54,F,Una-Sana Canton,10246
+2013,Number, 55-59,F,Una-Sana Canton,8748
+2013,Number, 60-64,F,Una-Sana Canton,7015
+2013,Number, 65-69,F,Una-Sana Canton,5275
+2013,Number, 70-74,F,Una-Sana Canton,5057
+2013,Number, 75-79,F,Una-Sana Canton,3923
+2013,Number, 80-84,F,Una-Sana Canton,1941
+2013,Number,85+,F,Una-Sana Canton,832
+2013,Number,Total,F,Posavina Canton,21648
+2013,Number,0-4,F,Posavina Canton,780
+2013,Number, 5-9,F,Posavina Canton,963
+2013,Number, 10-14,F,Posavina Canton,1143
+2013,Number, 15-19,F,Posavina Canton,1456
+2013,Number, 20-24,F,Posavina Canton,1332
+2013,Number, 25-29,F,Posavina Canton,1350
+2013,Number, 30-34,F,Posavina Canton,1311
+2013,Number, 35-39,F,Posavina Canton,1514
+2013,Number,40-44,F,Posavina Canton,1702
+2013,Number, 45-49,F,Posavina Canton,1877
+2013,Number, 50-54,F,Posavina Canton,1667
+2013,Number, 55-59,F,Posavina Canton,1354
+2013,Number, 60-64,F,Posavina Canton,1320
+2013,Number, 65-69,F,Posavina Canton,1173
+2013,Number, 70-74,F,Posavina Canton,1102
+2013,Number, 75-79,F,Posavina Canton,951
+2013,Number, 80-84,F,Posavina Canton,466
+2013,Number,85+,F,Posavina Canton,187
+2013,Number,Total,F,Tuzla Canton,227640
+2013,Number,0-4,F,Tuzla Canton,11199
+2013,Number, 5-9,F,Tuzla Canton,11015
+2013,Number, 10-14,F,Tuzla Canton,11737
+2013,Number, 15-19,F,Tuzla Canton,15707
+2013,Number, 20-24,F,Tuzla Canton,15411
+2013,Number, 25-29,F,Tuzla Canton,16099
+2013,Number, 30-34,F,Tuzla Canton,15530
+2013,Number, 35-39,F,Tuzla Canton,15821
+2013,Number,40-44,F,Tuzla Canton,15934
+2013,Number, 45-49,F,Tuzla Canton,17861
+2013,Number, 50-54,F,Tuzla Canton,19127
+2013,Number, 55-59,F,Tuzla Canton,16657
+2013,Number, 60-64,F,Tuzla Canton,14319
+2013,Number, 65-69,F,Tuzla Canton,10185
+2013,Number, 70-74,F,Tuzla Canton,8718
+2013,Number, 75-79,F,Tuzla Canton,6975
+2013,Number, 80-84,F,Tuzla Canton,3726
+2013,Number,85+,F,Tuzla Canton,1619
+2013,Number,Total,F,Zenica-Doboj Canton,183653
+2013,Number,0-4,F,Zenica-Doboj Canton,9641
+2013,Number, 5-9,F,Zenica-Doboj Canton,9600
+2013,Number, 10-14,F,Zenica-Doboj Canton,10259
+2013,Number, 15-19,F,Zenica-Doboj Canton,13322
+2013,Number, 20-24,F,Zenica-Doboj Canton,12468
+2013,Number, 25-29,F,Zenica-Doboj Canton,13111
+2013,Number, 30-34,F,Zenica-Doboj Canton,12458
+2013,Number, 35-39,F,Zenica-Doboj Canton,12632
+2013,Number,40-44,F,Zenica-Doboj Canton,12635
+2013,Number, 45-49,F,Zenica-Doboj Canton,14108
+2013,Number, 50-54,F,Zenica-Doboj Canton,14945
+2013,Number, 55-59,F,Zenica-Doboj Canton,13370
+2013,Number, 60-64,F,Zenica-Doboj Canton,11176
+2013,Number, 65-69,F,Zenica-Doboj Canton,7757
+2013,Number, 70-74,F,Zenica-Doboj Canton,6941
+2013,Number, 75-79,F,Zenica-Doboj Canton,5368
+2013,Number, 80-84,F,Zenica-Doboj Canton,2742
+2013,Number,85+,F,Zenica-Doboj Canton,1120
+2013,Number,Total,F,Bosnian-Podrinje Canton,12117
+2013,Number,0-4,F,Bosnian-Podrinje Canton,517
+2013,Number, 5-9,F,Bosnian-Podrinje Canton,438
+2013,Number, 10-14,F,Bosnian-Podrinje Canton,595
+2013,Number, 15-19,F,Bosnian-Podrinje Canton,841
+2013,Number, 20-24,F,Bosnian-Podrinje Canton,688
+2013,Number, 25-29,F,Bosnian-Podrinje Canton,763
+2013,Number, 30-34,F,Bosnian-Podrinje Canton,780
+2013,Number, 35-39,F,Bosnian-Podrinje Canton,717
+2013,Number,40-44,F,Bosnian-Podrinje Canton,703
+2013,Number, 45-49,F,Bosnian-Podrinje Canton,868
+2013,Number, 50-54,F,Bosnian-Podrinje Canton,975
+2013,Number, 55-59,F,Bosnian-Podrinje Canton,1059
+2013,Number, 60-64,F,Bosnian-Podrinje Canton,925
+2013,Number, 65-69,F,Bosnian-Podrinje Canton,625
+2013,Number, 70-74,F,Bosnian-Podrinje Canton,599
+2013,Number, 75-79,F,Bosnian-Podrinje Canton,592
+2013,Number, 80-84,F,Bosnian-Podrinje Canton,286
+2013,Number,85+,F,Bosnian-Podrinje Canton,146
+2013,Number,Total,F,Central Bosnia Canton,127420
+2013,Number,0-4,F,Central Bosnia Canton,6255
+2013,Number, 5-9,F,Central Bosnia Canton,6933
+2013,Number, 10-14,F,Central Bosnia Canton,7763
+2013,Number, 15-19,F,Central Bosnia Canton,9647
+2013,Number, 20-24,F,Central Bosnia Canton,8596
+2013,Number, 25-29,F,Central Bosnia Canton,8949
+2013,Number, 30-34,F,Central Bosnia Canton,8770
+2013,Number, 35-39,F,Central Bosnia Canton,8891
+2013,Number,40-44,F,Central Bosnia Canton,8861
+2013,Number, 45-49,F,Central Bosnia Canton,9669
+2013,Number, 50-54,F,Central Bosnia Canton,10076
+2013,Number, 55-59,F,Central Bosnia Canton,8970
+2013,Number, 60-64,F,Central Bosnia Canton,7303
+2013,Number, 65-69,F,Central Bosnia Canton,5047
+2013,Number, 70-74,F,Central Bosnia Canton,5135
+2013,Number, 75-79,F,Central Bosnia Canton,3752
+2013,Number, 80-84,F,Central Bosnia Canton,1964
+2013,Number,85+,F,Central Bosnia Canton,839
+2013,Number,Total,F,Herzegovina-Neretva Canton,112989
+2013,Number,0-4,F,Herzegovina-Neretva Canton,5269
+2013,Number, 5-9,F,Herzegovina-Neretva Canton,5295
+2013,Number, 10-14,F,Herzegovina-Neretva Canton,6206
+2013,Number, 15-19,F,Herzegovina-Neretva Canton,7932
+2013,Number, 20-24,F,Herzegovina-Neretva Canton,7170
+2013,Number, 25-29,F,Herzegovina-Neretva Canton,7611
+2013,Number, 30-34,F,Herzegovina-Neretva Canton,7332
+2013,Number, 35-39,F,Herzegovina-Neretva Canton,7160
+2013,Number,40-44,F,Herzegovina-Neretva Canton,7183
+2013,Number, 45-49,F,Herzegovina-Neretva Canton,8123
+2013,Number, 50-54,F,Herzegovina-Neretva Canton,8786
+2013,Number, 55-59,F,Herzegovina-Neretva Canton,7912
+2013,Number, 60-64,F,Herzegovina-Neretva Canton,6765
+2013,Number, 65-69,F,Herzegovina-Neretva Canton,4917
+2013,Number, 70-74,F,Herzegovina-Neretva Canton,5449
+2013,Number, 75-79,F,Herzegovina-Neretva Canton,4886
+2013,Number, 80-84,F,Herzegovina-Neretva Canton,3124
+2013,Number,85+,F,Herzegovina-Neretva Canton,1869
+2013,Number,Total,F,West Herzegovina Canton,47587
+2013,Number,0-4,F,West Herzegovina Canton,2422
+2013,Number, 5-9,F,West Herzegovina Canton,2656
+2013,Number, 10-14,F,West Herzegovina Canton,3140
+2013,Number, 15-19,F,West Herzegovina Canton,3600
+2013,Number, 20-24,F,West Herzegovina Canton,3395
+2013,Number, 25-29,F,West Herzegovina Canton,3235
+2013,Number, 30-34,F,West Herzegovina Canton,2875
+2013,Number, 35-39,F,West Herzegovina Canton,3024
+2013,Number,40-44,F,West Herzegovina Canton,3201
+2013,Number, 45-49,F,West Herzegovina Canton,3404
+2013,Number, 50-54,F,West Herzegovina Canton,3238
+2013,Number, 55-59,F,West Herzegovina Canton,2715
+2013,Number, 60-64,F,West Herzegovina Canton,2160
+2013,Number, 65-69,F,West Herzegovina Canton,1713
+2013,Number, 70-74,F,West Herzegovina Canton,2167
+2013,Number, 75-79,F,West Herzegovina Canton,2110
+2013,Number, 80-84,F,West Herzegovina Canton,1421
+2013,Number,85+,F,West Herzegovina Canton,1111
+2013,Number,Total,F,Sarajevo Canton,218432
+2013,Number,0-4,F,Sarajevo Canton,10904
+2013,Number, 5-9,F,Sarajevo Canton,9954
+2013,Number, 10-14,F,Sarajevo Canton,9939
+2013,Number, 15-19,F,Sarajevo Canton,12892
+2013,Number, 20-24,F,Sarajevo Canton,12639
+2013,Number, 25-29,F,Sarajevo Canton,16397
+2013,Number, 30-34,F,Sarajevo Canton,17439
+2013,Number, 35-39,F,Sarajevo Canton,15625
+2013,Number,40-44,F,Sarajevo Canton,14083
+2013,Number, 45-49,F,Sarajevo Canton,15181
+2013,Number, 50-54,F,Sarajevo Canton,16706
+2013,Number, 55-59,F,Sarajevo Canton,16895
+2013,Number, 60-64,F,Sarajevo Canton,15242
+2013,Number, 65-69,F,Sarajevo Canton,10211
+2013,Number, 70-74,F,Sarajevo Canton,9141
+2013,Number, 75-79,F,Sarajevo Canton,8267
+2013,Number, 80-84,F,Sarajevo Canton,4677
+2013,Number,85+,F,Sarajevo Canton,2240
+2013,Number,Total,F,Canton 10,41784
+2013,Number,0-4,F,Canton 10,1663
+2013,Number, 5-9,F,Canton 10,1850
+2013,Number, 10-14,F,Canton 10,2230
+2013,Number, 15-19,F,Canton 10,2865
+2013,Number, 20-24,F,Canton 10,2589
+2013,Number, 25-29,F,Canton 10,2508
+2013,Number, 30-34,F,Canton 10,2561
+2013,Number, 35-39,F,Canton 10,2695
+2013,Number,40-44,F,Canton 10,2955
+2013,Number, 45-49,F,Canton 10,2984
+2013,Number, 50-54,F,Canton 10,2927
+2013,Number, 55-59,F,Canton 10,2841
+2013,Number, 60-64,F,Canton 10,2489
+2013,Number, 65-69,F,Canton 10,2050
+2013,Number, 70-74,F,Canton 10,2269
+2013,Number, 75-79,F,Canton 10,2094
+2013,Number, 80-84,F,Canton 10,1387
+2013,Number,85+,F,Canton 10,827

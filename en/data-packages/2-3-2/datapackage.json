@@ -11,14 +11,77 @@
       "schema": {
         "fields": [
           {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bosnian-Podrinje Canton",
+                "Canton 10",
+                "Central Bosnia Canton",
+                "Federation of Bosnia and Herzegovina",
+                "Herzegovina-Neretva Canton",
+                "Posavina Canton",
+                "Sarajevo Canton",
+                "Tuzla Canton",
+                "Una-Sana Canton",
+                "West Herzegovina Canton",
+                "Zenica-Doboj Canton"
+              ]
+            },
+            "title": "Administrative Area"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT-MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number"
+              ]
+            },
+            "title": "UNIT-MEASURE"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "highest_attainment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Elementary education",
+                "Higher school and first degree of faculty",
+                "Incomplete elementary education",
+                "No education",
+                "Secondary education",
+                "Secondary specialisation",
+                "Faculty / academy / university"
+              ]
+            },
+            "title": "Highest educational attainment"
           }
         ]
       }

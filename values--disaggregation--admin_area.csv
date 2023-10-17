@@ -1,91 +1,93 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-banovici,Banovici,Banovići,Бановићи,Banovići,57,1
-bihac,Bihac,Bihać,Бихаћ,Bihać,57,1
-bosanska_krupa,Bosanska Krupa,Bosanska Krupa,Босанска Крупа,Bosanska Krupa,57,1
-bosanski_petrovac,Bosanski Petrovac,Bosanski Petrovac,Босански Петровац,Bosanski Petrovac,57,1
-bosansko_grahovo,Bosansko Grahovo,Bosansko Grahovo,Босанско Грахово,Bosansko Grahovo,57,1
-bosnian-podrinje_canton,Bosnian-Podrinje Canton,Bosansko-podrinjski kanton,Босанско-подрињски кантон,Bosansko-podrinjska županija,66,4
-breza,Breza,Breza,Бреза,Breza,57,1
-bugojno,Bugojno,Bugojno,Бугојно,Bugojno,57,1
-busovaca,Busovaca,Busovača,Бусовача,Busovača,57,1
-buzim,Buzim,Bužim,Бужим,Bužim,57,1
-canton_10,Canton 10,Kanton 10,Кантон 10,Županija 10,66,4
-capljina,Capljina,Čapljina,Чапљина,Čapljina,57,1
-cazin,Cazin,Cazin,Цазин,Cazin,57,1
-celic,Celic,Čelić,Челић,Čelić,57,1
-centar_sarajevo,Sarajevo-Centar,Sarajevo-Centar,Сарајево-Центар,Sarajevo-Centar,57,1
-central_bosnia_canton,Central Bosnia Canton,Srednjobosanski kanton,Средњобосански кантон,Srednjobosanska županija,66,4
-citluk,Citluk,Čitluk,Читлук,Čitluk,57,1
-doboj-istok,Doboj-Istok,Doboj-Istok,Добој-Исток,Doboj-Istok,57,1
-doboj-jug,Doboj-Jug,Doboj-Jug,Добој-Југ,Doboj-Jug,57,1
-dobretici,Dobretici,Dobretići,Добретићи,Dobretići,57,1
-domaljevac-samac,Domaljevac-Samac,Domaljevac-Šamac,Домаљевац-Шамац,Domaljevac-Šamac,57,1
-donji_vakuf,Donji Vakuf,Donji Vakuf,Доњи Вакуф,Donji Vakuf,57,1
-drvar,Drvar,Drvar,Дрвар,Drvar,57,1
-federation_of_bih,Federation of Bosnia and Herzegovina,Federacija Bosne i Hercegovine,Федерација Босне и Херцеговине,Federacija Bosne i Hercegovine,66,4
+banovici,Banovici,Banovići,Бановићи,Banovići,66,2
+bihac,Bihac,Bihać,Бихаћ,Bihać,66,2
+bosanska_krupa,Bosanska Krupa,Bosanska Krupa,Босанска Крупа,Bosanska Krupa,66,2
+bosanski_petrovac,Bosanski Petrovac,Bosanski Petrovac,Босански Петровац,Bosanski Petrovac,66,2
+bosansko_grahovo,Bosansko Grahovo,Bosansko Grahovo,Босанско Грахово,Bosansko Grahovo,66,2
+bosnian-podrinje_canton,Bosnian-Podrinje Canton,Bosansko-podrinjski kanton,Босанско-подрињски кантон,Bosansko-podrinjska županija,400,11
+breza,Breza,Breza,Бреза,Breza,66,2
+bugojno,Bugojno,Bugojno,Бугојно,Bugojno,66,2
+busovaca,Busovaca,Busovača,Бусовача,Busovača,66,2
+buzim,Buzim,Bužim,Бужим,Bužim,66,2
+canton_10,Canton 10,Kanton 10,Кантон 10,Županija 10,400,11
+capljina,Capljina,Čapljina,Чапљина,Čapljina,66,2
+cazin,Cazin,Cazin,Цазин,Cazin,66,2
+celic,Celic,Čelić,Челић,Čelić,66,2
+centar_sarajevo,Sarajevo-Centar,Sarajevo-Centar,Сарајево-Центар,Sarajevo-Centar,66,2
+central_bosnia_canton,Central Bosnia Canton,Srednjobosanski kanton,Средњобосански кантон,Srednjobosanska županija,400,11
+citluk,Citluk,Čitluk,Читлук,Čitluk,66,2
+doboj-istok,Doboj-Istok,Doboj-Istok,Добој-Исток,Doboj-Istok,66,2
+doboj-jug,Doboj-Jug,Doboj-Jug,Добој-Југ,Doboj-Jug,66,2
+dobretici,Dobretici,Dobretići,Добретићи,Dobretići,66,2
+domaljevac-samac,Domaljevac-Samac,Domaljevac-Šamac,Домаљевац-Шамац,Domaljevac-Šamac,66,2
+donji_vakuf,Donji Vakuf,Donji Vakuf,Доњи Вакуф,Donji Vakuf,66,2
+drvar,Drvar,Drvar,Дрвар,Drvar,66,2
+federation_of_bih,Federation of Bosnia and Herzegovina,Federacija Bosne i Hercegovine,Федерација Босне и Херцеговине,Federacija Bosne i Hercegovine,400,11
+foca-fbih,foca-fbih,Foča-FBiH,Фоча-ФБиХ,Foča-FBiH,9,1
 foca_fbih,Foca-FBiH,foca_fbih,foca_fbih,foca_fbih,57,1
-fojnica,Fojnica,Fojnica,Фојница,Fojnica,57,1
-glamoc,Glamoc,Glamoč,Гламоч,Glamoč,57,1
-gorazde,Gorazde,Goražde,Горажде,Goražde,57,1
-gornji_vakuf-uskoplje,Gornji Vakuf-Uskoplje,Gornji Vakuf-Uskoplje,Горњи Вакуф-Ускопље,Gornji Vakuf-Uskoplje,57,1
-gracanica,Gracanica,Gračanica,Грачаница,Gračanica,57,1
-gradacac,Gradacac,Gradačac,Градачац,Gradačac,57,1
-grude,Grude,Grude,Груде,Grude,57,1
-hadzici,Sarajevo-Hadzici,Sarajevo-Hadžići,Сарајево-Хаџићи,Sarajevo-Hadžići,57,1
-herzegovina-neretva_canton,Herzegovina-Neretva Canton,Hercegovačko-neretvanski kanton,Херцеговачко-неретвански кантон,Hercegovačko-neretvanska županija,66,4
-ilidza,Sarajevo-Ilidza,Sarajevo-Ilidža,Сарајево-Илиџа,Sarajevo-Ilidža,57,1
-ilijas,Sarajevo-Ilijas,Sarajevo-Ilijaš,Сарајево-Илијаш,Sarajevo-Ilijaš,57,1
-jablanica,Jablanica,Jablanica,Јабланица,Jablanica,57,1
-jajce,Jajce,Jajce,Јајце,Jajce,57,1
-kakanj,Kakanj,Kakanj,Какањ,Kakanj,57,1
-kalesija,Kalesija,Kalesija,Калесија,Kalesija,57,1
-kiseljak,Kiseljak,Kiseljak,Кисељак,Kiseljak,57,1
-kladanj,Kladanj,Kladanj,Кладањ,Kladanj,57,1
-kljuc,Kljuc,Ključ,Кључ,Ključ,57,1
-konjic,Konjic,Konjic,Коњиц,Konjic,57,1
-kresevo,Kresevo,Kreševo,Крешево,Kreševo,57,1
+fojnica,Fojnica,Fojnica,Фојница,Fojnica,66,2
+glamoc,Glamoc,Glamoč,Гламоч,Glamoč,66,2
+gorazde,Gorazde,Goražde,Горажде,Goražde,66,2
+gornji_vakuf-uskoplje,Gornji Vakuf-Uskoplje,Gornji Vakuf-Uskoplje,Горњи Вакуф-Ускопље,Gornji Vakuf-Uskoplje,66,2
+gracanica,Gracanica,Gračanica,Грачаница,Gračanica,66,2
+gradacac,Gradacac,Gradačac,Градачац,Gradačac,66,2
+grude,Grude,Grude,Груде,Grude,66,2
+hadzici,Sarajevo-Hadzici,Sarajevo-Hadžići,Сарајево-Хаџићи,Sarajevo-Hadžići,66,2
+herzegovina-neretva_canton,Herzegovina-Neretva Canton,Hercegovačko-neretvanski kanton,Херцеговачко-неретвански кантон,Hercegovačko-neretvanska županija,400,11
+ilidza,Sarajevo-Ilidza,Sarajevo-Ilidža,Сарајево-Илиџа,Sarajevo-Ilidža,66,2
+ilijas,Sarajevo-Ilijas,Sarajevo-Ilijaš,Сарајево-Илијаш,Sarajevo-Ilijaš,66,2
+jablanica,Jablanica,Jablanica,Јабланица,Jablanica,66,2
+jajce,Jajce,Jajce,Јајце,Jajce,66,2
+kakanj,Kakanj,Kakanj,Какањ,Kakanj,66,2
+kalesija,Kalesija,Kalesija,Калесија,Kalesija,66,2
+kiseljak,Kiseljak,Kiseljak,Кисељак,Kiseljak,66,2
+kladanj,Kladanj,Kladanj,Кладањ,Kladanj,66,2
+kljuc,Kljuc,Ključ,Кључ,Ključ,66,2
+konjic,Konjic,Konjic,Коњиц,Konjic,66,2
+kresevo,Kresevo,Kreševo,Крешево,Kreševo,66,2
 kupres-fbih,Kupres-FBiH,Kupres-FBiH,Купрес-ФБиХ,Kupres-FBiH,57,1
-livno,Livno,Livno,Ливно,Livno,57,1
-ljubuski,Ljubuski,Ljubuški,Љубушки,Ljubuški,57,1
-lukavac,Lukavac,Lukavac,Лукавац,Lukavac,57,1
-maglaj,Maglaj,Maglaj,Маглај,Maglaj,57,1
-mostar,Grad Mostar,Mostar,Мостар,Mostar,57,1
-neum,Neum,Neum,Неум,Neum,57,1
-novi_grad_sarajevo,Sarajevo-Novi Grad,Sarajevo-Novi Grad,Сарајево-Нови Град,Sarajevo-Novi Grad,57,1
-novi_travnik,Novi Travnik,Novi Travnik,Нови Травник,Novi Travnik,57,1
-novo_sarajevo,Sarajevo-Novo Sarajevo,Sarajevo-Novo Sarajevo,Сарајево-Ново Сарајево,Sarajevo-Novo Sarajevo,57,1
-odzak,Odzak,Odžak,Оџак,Odžak,57,1
-olovo,Olovo,Olovo,Олово,Olovo,57,1
-orasje,Orasje,Orašje,Орашје,Orašje,57,1
-pale-fbih,Pale-FBiH,Pale-FBiH,Пале-ФБиХ,Pale-FBiH,57,1
-posavina_canton,Posavina Canton,Posavski kanton,Посавски кантон,Posavska županija,66,4
-posusje,Posusje,Posušje,Посушје,Posušje,57,1
-prozor,Prozor,Prozor,Прозор,Prozor,57,1
-ravno,Ravno,Ravno,Равно,Ravno,57,1
-sanski_most,Sanski Most,Sanski Most,Сански Мост,Sanski Most,57,1
-sapna,Sapna,Sapna,Сапна,Sapna,57,1
-sarajevo_canton,Sarajevo Canton,Kanton Sarajevo,Кантон Сарајево,Sarajevska županija,66,4
-siroki_brijeg,Siroki Brijeg,Široki Brijeg,Широки Бријег,Široki Brijeg,57,1
-srebrenik,Srebrenik,Srebrenik,Сребреник,Srebrenik,57,1
-stari_grad_sarajevo,Sarajevo-Stari Grad,Sarajevo-Stari Grad,Сарајево-Стари Град,Sarajevo-Stari Grad,57,1
-stolac,Stolac,Stolac,Столац,Stolac,57,1
-teocak,Teocak,Teočak,Теочак,Teočak,57,1
-tesanj,Tesanj,Tešanj,Тешањ,Tešanj,57,1
-tomislavgrad,Tomislavgrad,Tomislavgrad,Томиславград,Tomislavgrad,57,1
-travnik,Travnik,Travnik,Травник,Travnik,57,1
-trnovo-fbih,Trnovo-FBiH,Trnovo-FBiH,Трново-ФБиХ,Trnovo-FBiH,57,1
-tuzla,Tuzla,Tuzla,Тузла,Tuzla,57,1
-tuzla_canton,Tuzla Canton,Tuzlanski kanton,Тузлански кантон,Tuzlanska županija,66,4
-una-sana_canton,Una-Sana Canton,Unsko-sanski kanton,Унско-сански кантон,Unsko-sanska županija,66,4
-usora,Usora,Usora,Усора,Usora,57,1
-vares,Vares,Vareš,Вареш,Vareš,57,1
-velika_kladusa,Velika Kladusa,Velika Kladuša,Велика Кладуша,Velika Kladuša,57,1
-visoko,Visoko,Visoko,Високо,Visoko,57,1
-vitez,Vitez,Vitez,Витез,Vitez,57,1
-vogosca,Sarajevo-Vogosca,Sarajevo-Vogošća,Сарајево-Вогошћа,Sarajevo-Vogošća,57,1
-west_herzegovina_canton,West Herzegovina Canton,Zapadno-hercegovački kanton,Западнохерцеговчки кантон,Zapadno-hercegovačka županija,66,4
-zavidovici,Zavidovici,Zavidovići,Завидовићи,Zavidovići,57,1
-zenica-doboj_canton,Zenica-Doboj Canton,Zeničko-dobojski kanton,Зеничко-добојски кантон,Zeničko-dobojska županija,66,4
-zenica,Zenica,Zenica,Зеница,Zenica,57,1
-zepce,Zepce,Žepče,Жепче,Žepče,57,1
-zivinice,Zivinice,Živinice,Живинице,Živinice,57,1
+kupres,kupres,kupres,kupres,kupres,9,1
+livno,Livno,Livno,Ливно,Livno,66,2
+ljubuski,Ljubuski,Ljubuški,Љубушки,Ljubuški,66,2
+lukavac,Lukavac,Lukavac,Лукавац,Lukavac,66,2
+maglaj,Maglaj,Maglaj,Маглај,Maglaj,66,2
+mostar,Grad Mostar,Mostar,Мостар,Mostar,66,2
+neum,Neum,Neum,Неум,Neum,66,2
+novi_grad_sarajevo,Sarajevo-Novi Grad,Sarajevo-Novi Grad,Сарајево-Нови Град,Sarajevo-Novi Grad,66,2
+novi_travnik,Novi Travnik,Novi Travnik,Нови Травник,Novi Travnik,66,2
+novo_sarajevo,Sarajevo-Novo Sarajevo,Sarajevo-Novo Sarajevo,Сарајево-Ново Сарајево,Sarajevo-Novo Sarajevo,66,2
+odzak,Odzak,Odžak,Оџак,Odžak,66,2
+olovo,Olovo,Olovo,Олово,Olovo,66,2
+orasje,Orasje,Orašje,Орашје,Orašje,66,2
+pale-fbih,Pale-FBiH,Pale-FBiH,Пале-ФБиХ,Pale-FBiH,66,2
+posavina_canton,Posavina Canton,Posavski kanton,Посавски кантон,Posavska županija,400,11
+posusje,Posusje,Posušje,Посушје,Posušje,66,2
+prozor,Prozor,Prozor,Прозор,Prozor,66,2
+ravno,Ravno,Ravno,Равно,Ravno,66,2
+sanski_most,Sanski Most,Sanski Most,Сански Мост,Sanski Most,66,2
+sapna,Sapna,Sapna,Сапна,Sapna,66,2
+sarajevo_canton,Sarajevo Canton,Kanton Sarajevo,Кантон Сарајево,Sarajevska županija,400,11
+siroki_brijeg,Siroki Brijeg,Široki Brijeg,Широки Бријег,Široki Brijeg,66,2
+srebrenik,Srebrenik,Srebrenik,Сребреник,Srebrenik,66,2
+stari_grad_sarajevo,Sarajevo-Stari Grad,Sarajevo-Stari Grad,Сарајево-Стари Град,Sarajevo-Stari Grad,66,2
+stolac,Stolac,Stolac,Столац,Stolac,66,2
+teocak,Teocak,Teočak,Теочак,Teočak,66,2
+tesanj,Tesanj,Tešanj,Тешањ,Tešanj,66,2
+tomislavgrad,Tomislavgrad,Tomislavgrad,Томиславград,Tomislavgrad,66,2
+travnik,Travnik,Travnik,Травник,Travnik,66,2
+trnovo-fbih,Trnovo-FBiH,Trnovo-FBiH,Трново-ФБиХ,Trnovo-FBiH,66,2
+tuzla,Tuzla,Tuzla,Тузла,Tuzla,66,2
+tuzla_canton,Tuzla Canton,Tuzlanski kanton,Тузлански кантон,Tuzlanska županija,400,11
+una-sana_canton,Una-Sana Canton,Unsko-sanski kanton,Унско-сански кантон,Unsko-sanska županija,400,11
+usora,Usora,Usora,Усора,Usora,66,2
+vares,Vares,Vareš,Вареш,Vareš,66,2
+velika_kladusa,Velika Kladusa,Velika Kladuša,Велика Кладуша,Velika Kladuša,66,2
+visoko,Visoko,Visoko,Високо,Visoko,66,2
+vitez,Vitez,Vitez,Витез,Vitez,66,2
+vogosca,Sarajevo-Vogosca,Sarajevo-Vogošća,Сарајево-Вогошћа,Sarajevo-Vogošća,66,2
+west_herzegovina_canton,West Herzegovina Canton,Zapadno-hercegovački kanton,Западнохерцеговчки кантон,Zapadno-hercegovačka županija,400,11
+zavidovici,Zavidovici,Zavidovići,Завидовићи,Zavidovići,66,2
+zenica-doboj_canton,Zenica-Doboj Canton,Zeničko-dobojski kanton,Зеничко-добојски кантон,Zeničko-dobojska županija,400,11
+zenica,Zenica,Zenica,Зеница,Zenica,66,2
+zepce,Zepce,Žepče,Жепче,Žepče,66,2
+zivinice,Zivinice,Živinice,Живинице,Živinice,66,2

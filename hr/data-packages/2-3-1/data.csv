@@ -1,1 +1,67 @@
-Year,Value
+Year,UNIT_MEASURE,Administrativna jedinica,Spol,Pismenost,Value
+2013,Broj,Federacija Bosne i Hercegovine,M,Pismeno stanovništvo,955131
+2013,Broj,Federacija Bosne i Hercegovine,M,iliterate,6823
+2013,Broj,Federacija Bosne i Hercegovine,M,Nepoznato,7389
+2013,Broj,Unsko-sanska županija,M,Pismeno stanovništvo,117388
+2013,Broj,Unsko-sanska županija,M,iliterate,1201
+2013,Broj,Unsko-sanska županija,M,Nepoznato,1024
+2013,Broj,Posavska županija,M,Pismeno stanovništvo,19569
+2013,Broj,Posavska županija,M,iliterate,168
+2013,Broj,Posavska županija,M,Nepoznato,242
+2013,Broj,Tuzlanska županija,M,Pismeno stanovništvo,190794
+2013,Broj,Tuzlanska županija,M,iliterate,1722
+2013,Broj,Tuzlanska županija,M,Nepoznato,1309
+2013,Broj,Zeničko-dobojska županija,M,Pismeno stanovništvo,158533
+2013,Broj,Zeničko-dobojska županija,M,iliterate,1077
+2013,Broj,Zeničko-dobojska županija,M,Nepoznato,895
+2013,Broj,Bosansko-podrinjska županija,M,Pismeno stanovništvo,10379
+2013,Broj,Bosansko-podrinjska županija,M,iliterate,89
+2013,Broj,Bosansko-podrinjska županija,M,Nepoznato,48
+2013,Broj,Srednjobosanska županija,M,Pismeno stanovništvo,110778
+2013,Broj,Srednjobosanska županija,M,iliterate,916
+2013,Broj,Srednjobosanska županija,M,Nepoznato,1490
+2013,Broj,Hercegovačko-neretvanska županija,M,Pismeno stanovništvo,96601
+2013,Broj,Hercegovačko-neretvanska županija,M,iliterate,466
+2013,Broj,Hercegovačko-neretvanska županija,M,Nepoznato,932
+2013,Broj,Zapadno-hercegovačka županija,M,Pismeno stanovništvo,41183
+2013,Broj,Zapadno-hercegovačka županija,M,iliterate,196
+2013,Broj,Zapadno-hercegovačka županija,M,Nepoznato,474
+2013,Broj,Sarajevska županija,M,Pismeno stanovništvo,171986
+2013,Broj,Sarajevska županija,M,iliterate,748
+2013,Broj,Sarajevska županija,M,Nepoznato,571
+2013,Broj,Županija 10,M,Pismeno stanovništvo,37920
+2013,Broj,Županija 10,M,iliterate,240
+2013,Broj,Županija 10,M,Nepoznato,404
+2013,Broj,Federacija Bosne i Hercegovine,Ž,Pismeno stanovništvo,960183
+2013,Broj,Federacija Bosne i Hercegovine,Ž,iliterate,45404
+2013,Broj,Federacija Bosne i Hercegovine,Ž,Nepoznato,13395
+2013,Broj,Unsko-sanska županija,Ž,Pismeno stanovništvo,114220
+2013,Broj,Unsko-sanska županija,Ž,iliterate,7083
+2013,Broj,Unsko-sanska županija,Ž,Nepoznato,1763
+2013,Broj,Posavska županija,Ž,Pismeno stanovništvo,18788
+2013,Broj,Posavska županija,Ž,iliterate,761
+2013,Broj,Posavska županija,Ž,Nepoznato,356
+2013,Broj,Tuzlanska županija,Ž,Pismeno stanovništvo,190980
+2013,Broj,Tuzlanska županija,Ž,iliterate,11989
+2013,Broj,Tuzlanska županija,Ž,Nepoznato,2457
+2013,Broj,Zeničko-dobojska županija,Ž,Pismeno stanovništvo,155085
+2013,Broj,Zeničko-dobojska županija,Ž,iliterate,7458
+2013,Broj,Zeničko-dobojska županija,Ž,Nepoznato,1869
+2013,Broj,Bosansko-podrinjska županija,Ž,Pismeno stanovništvo,10328
+2013,Broj,Bosansko-podrinjska županija,Ž,iliterate,721
+2013,Broj,Bosansko-podrinjska županija,Ž,Nepoznato,113
+2013,Broj,Srednjobosanska županija,Ž,Pismeno stanovništvo,105913
+2013,Broj,Srednjobosanska županija,Ž,iliterate,5831
+2013,Broj,Srednjobosanska županija,Ž,Nepoznato,2488
+2013,Broj,Hercegovačko-neretvanska županija,Ž,Pismeno stanovništvo,97557
+2013,Broj,Hercegovačko-neretvanska županija,Ž,iliterate,3238
+2013,Broj,Hercegovačko-neretvanska županija,Ž,Nepoznato,1630
+2013,Broj,Zapadno-hercegovačka županija,Ž,Pismeno stanovništvo,40544
+2013,Broj,Zapadno-hercegovačka županija,Ž,iliterate,1230
+2013,Broj,Zapadno-hercegovačka županija,Ž,Nepoznato,735
+2013,Broj,Sarajevska županija,Ž,Pismeno stanovništvo,190584
+2013,Broj,Sarajevska županija,Ž,iliterate,5558
+2013,Broj,Sarajevska županija,Ž,Nepoznato,1432
+2013,Broj,Županija 10,Ž,Pismeno stanovništvo,36184
+2013,Broj,Županija 10,Ž,iliterate,1535
+2013,Broj,Županija 10,Ž,Nepoznato,552

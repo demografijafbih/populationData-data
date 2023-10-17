@@ -33,3 +33,14 @@ Indicator,Disaggregations,Number of disaggregations
 #1-8-1,"UNIT_MEASURE, Sex, AGE",3
 #1-8-2,"UNIT_MEASURE, Sex, AGE",3
 #1-8-3,"UNIT_MEASURE, Sex, Admin_Area, AGE",4
+#2-1-1,"UNIT_MEASURE, Sex, Admin_Area, AGE",4
+#2-1-2,"UNIT_MEASURE, AGE, SEX",3
+#2-1-3,"UNIT_MEASURE, Sex, AGE, ADMIN_AREA",4
+#2-1-4,"UNIT_MEASURE, PYRAMID_SEX, PYRAMID_AGE",3
+#2-1-5,"UNIT_MEASURE, Admin_Area, No_of_births",3
+#2-1-6,"UNIT_MEASURE, TYPE_OF_DEPENDENCY_RATIO, SEX",3
+#2-2-1,"UNIT_MEASURE, Admin_Area, HH_size",3
+#2-2-2,"UNIT_MEASURE, Admin_Area, HH_agri",3
+#2-3-1,"UNIT_MEASURE, Sex, Admin_Area, LITERACY",4
+#2-3-2,"Sex, Admin_Area, UNIT-MEASURE, highest_attainment",4
+#2-4-1,"UNIT_MEASURE, Sex, Admin_Area, Disabilities",4

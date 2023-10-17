@@ -1,1 +1,265 @@
-Year,Value
+Year,UNIT_MEASURE,Administrative Area,Sex,Type of disability,Value
+2013,Number,Federation of Bosnia and Herzegovina,Both sexes,Total,181927
+2013,Number,Federation of Bosnia and Herzegovina,Both sexes,"Seeing, even with the use of seeing aids",74413
+2013,Number,Federation of Bosnia and Herzegovina,Both sexes,"Hearing, even with the use of hearing aids",42221
+2013,Number,Federation of Bosnia and Herzegovina,Both sexes,Walking or climbing the stairs,114822
+2013,Number,Federation of Bosnia and Herzegovina,Both sexes,Remembering or concentrating,35601
+2013,Number,Federation of Bosnia and Herzegovina,Both sexes,Dressing and personal hygiene,24345
+2013,Number,Federation of Bosnia and Herzegovina,Both sexes,Communication,20180
+2013,Number,Federation of Bosnia and Herzegovina,Both sexes,With multiple disabilities,68156
+2013,Number,Una-Sana Canton,Both sexes,Total,20706
+2013,Number,Una-Sana Canton,Both sexes,"Seeing, even with the use of seeing aids",8911
+2013,Number,Una-Sana Canton,Both sexes,"Hearing, even with the use of hearing aids",5139
+2013,Number,Una-Sana Canton,Both sexes,Walking or climbing the stairs,12299
+2013,Number,Una-Sana Canton,Both sexes,Remembering or concentrating,4220
+2013,Number,Una-Sana Canton,Both sexes,Dressing and personal hygiene,2751
+2013,Number,Una-Sana Canton,Both sexes,Communication,2467
+2013,Number,Una-Sana Canton,Both sexes,With multiple disabilities,7558
+2013,Number,Posavina Canton,Both sexes,Total,3387
+2013,Number,Posavina Canton,Both sexes,"Seeing, even with the use of seeing aids",1386
+2013,Number,Posavina Canton,Both sexes,"Hearing, even with the use of hearing aids",762
+2013,Number,Posavina Canton,Both sexes,Walking or climbing the stairs,2021
+2013,Number,Posavina Canton,Both sexes,Remembering or concentrating,615
+2013,Number,Posavina Canton,Both sexes,Dressing and personal hygiene,375
+2013,Number,Posavina Canton,Both sexes,Communication,337
+2013,Number,Posavina Canton,Both sexes,With multiple disabilities,1127
+2013,Number,Tuzla Canton,Both sexes,Total,43418
+2013,Number,Tuzla Canton,Both sexes,"Seeing, even with the use of seeing aids",18825
+2013,Number,Tuzla Canton,Both sexes,"Hearing, even with the use of hearing aids",9948
+2013,Number,Tuzla Canton,Both sexes,Walking or climbing the stairs,27830
+2013,Number,Tuzla Canton,Both sexes,Remembering or concentrating,9292
+2013,Number,Tuzla Canton,Both sexes,Dressing and personal hygiene,5630
+2013,Number,Tuzla Canton,Both sexes,Communication,4548
+2013,Number,Tuzla Canton,Both sexes,With multiple disabilities,17193
+2013,Number,Zenica-Doboj Canton,Both sexes,Total,30367
+2013,Number,Zenica-Doboj Canton,Both sexes,"Seeing, even with the use of seeing aids",12250
+2013,Number,Zenica-Doboj Canton,Both sexes,"Hearing, even with the use of hearing aids",6650
+2013,Number,Zenica-Doboj Canton,Both sexes,Walking or climbing the stairs,19061
+2013,Number,Zenica-Doboj Canton,Both sexes,Remembering or concentrating,5373
+2013,Number,Zenica-Doboj Canton,Both sexes,Dressing and personal hygiene,3950
+2013,Number,Zenica-Doboj Canton,Both sexes,Communication,3219
+2013,Number,Zenica-Doboj Canton,Both sexes,With multiple disabilities,10924
+2013,Number,Bosnian-Podrinje Canton,Both sexes,Total,2619
+2013,Number,Bosnian-Podrinje Canton,Both sexes,"Seeing, even with the use of seeing aids",1096
+2013,Number,Bosnian-Podrinje Canton,Both sexes,"Hearing, even with the use of hearing aids",682
+2013,Number,Bosnian-Podrinje Canton,Both sexes,Walking or climbing the stairs,1746
+2013,Number,Bosnian-Podrinje Canton,Both sexes,Remembering or concentrating,528
+2013,Number,Bosnian-Podrinje Canton,Both sexes,Dressing and personal hygiene,330
+2013,Number,Bosnian-Podrinje Canton,Both sexes,Communication,251
+2013,Number,Bosnian-Podrinje Canton,Both sexes,With multiple disabilities,1030
+2013,Number,Central Bosnia Canton,Both sexes,Total,20634
+2013,Number,Central Bosnia Canton,Both sexes,"Seeing, even with the use of seeing aids",8358
+2013,Number,Central Bosnia Canton,Both sexes,"Hearing, even with the use of hearing aids",4619
+2013,Number,Central Bosnia Canton,Both sexes,Walking or climbing the stairs,12193
+2013,Number,Central Bosnia Canton,Both sexes,Remembering or concentrating,4152
+2013,Number,Central Bosnia Canton,Both sexes,Dressing and personal hygiene,2700
+2013,Number,Central Bosnia Canton,Both sexes,Communication,2616
+2013,Number,Central Bosnia Canton,Both sexes,With multiple disabilities,7687
+2013,Number,Herzegovina-Neretva Canton,Both sexes,Total,14948
+2013,Number,Herzegovina-Neretva Canton,Both sexes,"Seeing, even with the use of seeing aids",5764
+2013,Number,Herzegovina-Neretva Canton,Both sexes,"Hearing, even with the use of hearing aids",3712
+2013,Number,Herzegovina-Neretva Canton,Both sexes,Walking or climbing the stairs,9576
+2013,Number,Herzegovina-Neretva Canton,Both sexes,Remembering or concentrating,2807
+2013,Number,Herzegovina-Neretva Canton,Both sexes,Dressing and personal hygiene,2087
+2013,Number,Herzegovina-Neretva Canton,Both sexes,Communication,1749
+2013,Number,Herzegovina-Neretva Canton,Both sexes,With multiple disabilities,5448
+2013,Number,West Herzegovina Canton,Both sexes,Total,5094
+2013,Number,West Herzegovina Canton,Both sexes,"Seeing, even with the use of seeing aids",1812
+2013,Number,West Herzegovina Canton,Both sexes,"Hearing, even with the use of hearing aids",1309
+2013,Number,West Herzegovina Canton,Both sexes,Walking or climbing the stairs,3363
+2013,Number,West Herzegovina Canton,Both sexes,Remembering or concentrating,1014
+2013,Number,West Herzegovina Canton,Both sexes,Dressing and personal hygiene,776
+2013,Number,West Herzegovina Canton,Both sexes,Communication,730
+2013,Number,West Herzegovina Canton,Both sexes,With multiple disabilities,1894
+2013,Number,Sarajevo Canton,Both sexes,Total,35729
+2013,Number,Sarajevo Canton,Both sexes,"Seeing, even with the use of seeing aids",13979
+2013,Number,Sarajevo Canton,Both sexes,"Hearing, even with the use of hearing aids",8067
+2013,Number,Sarajevo Canton,Both sexes,Walking or climbing the stairs,23636
+2013,Number,Sarajevo Canton,Both sexes,Remembering or concentrating,6712
+2013,Number,Sarajevo Canton,Both sexes,Dressing and personal hygiene,5009
+2013,Number,Sarajevo Canton,Both sexes,Communication,3637
+2013,Number,Sarajevo Canton,Both sexes,With multiple disabilities,13442
+2013,Number,Canton 10,Both sexes,Total,5025
+2013,Number,Canton 10,Both sexes,"Seeing, even with the use of seeing aids",2032
+2013,Number,Canton 10,Both sexes,"Hearing, even with the use of hearing aids",1333
+2013,Number,Canton 10,Both sexes,Walking or climbing the stairs,3097
+2013,Number,Canton 10,Both sexes,Remembering or concentrating,888
+2013,Number,Canton 10,Both sexes,Dressing and personal hygiene,737
+2013,Number,Canton 10,Both sexes,Communication,626
+2013,Number,Canton 10,Both sexes,With multiple disabilities,1853
+2013,Number,Federation of Bosnia and Herzegovina,M,Total,81695
+2013,Number,Federation of Bosnia and Herzegovina,M,"Seeing, even with the use of seeing aids",30746
+2013,Number,Federation of Bosnia and Herzegovina,M,"Hearing, even with the use of hearing aids",20243
+2013,Number,Federation of Bosnia and Herzegovina,M,Walking or climbing the stairs,47911
+2013,Number,Federation of Bosnia and Herzegovina,M,Remembering or concentrating,16020
+2013,Number,Federation of Bosnia and Herzegovina,M,Dressing and personal hygiene,10317
+2013,Number,Federation of Bosnia and Herzegovina,M,Communication,9846
+2013,Number,Federation of Bosnia and Herzegovina,M,With multiple disabilities,28473
+2013,Number,Una-Sana Canton,M,Total,10055
+2013,Number,Una-Sana Canton,M,"Seeing, even with the use of seeing aids",3905
+2013,Number,Una-Sana Canton,M,"Hearing, even with the use of hearing aids",2610
+2013,Number,Una-Sana Canton,M,Walking or climbing the stairs,5680
+2013,Number,Una-Sana Canton,M,Remembering or concentrating,2059
+2013,Number,Una-Sana Canton,M,Dressing and personal hygiene,1302
+2013,Number,Una-Sana Canton,M,Communication,1289
+2013,Number,Una-Sana Canton,M,With multiple disabilities,3444
+2013,Number,Posavina Canton,M,Total,1585
+2013,Number,Posavina Canton,M,"Seeing, even with the use of seeing aids",592
+2013,Number,Posavina Canton,M,"Hearing, even with the use of hearing aids",368
+2013,Number,Posavina Canton,M,Walking or climbing the stairs,866
+2013,Number,Posavina Canton,M,Remembering or concentrating,293
+2013,Number,Posavina Canton,M,Dressing and personal hygiene,159
+2013,Number,Posavina Canton,M,Communication,165
+2013,Number,Posavina Canton,M,With multiple disabilities,482
+2013,Number,Tuzla Canton,M,Total,18694
+2013,Number,Tuzla Canton,M,"Seeing, even with the use of seeing aids",7541
+2013,Number,Tuzla Canton,M,"Hearing, even with the use of hearing aids",4653
+2013,Number,Tuzla Canton,M,Walking or climbing the stairs,11110
+2013,Number,Tuzla Canton,M,Remembering or concentrating,3945
+2013,Number,Tuzla Canton,M,Dressing and personal hygiene,2353
+2013,Number,Tuzla Canton,M,Communication,2187
+2013,Number,Tuzla Canton,M,With multiple disabilities,6941
+2013,Number,Zenica-Doboj Canton,M,Total,13854
+2013,Number,Zenica-Doboj Canton,M,"Seeing, even with the use of seeing aids",5096
+2013,Number,Zenica-Doboj Canton,M,"Hearing, even with the use of hearing aids",3316
+2013,Number,Zenica-Doboj Canton,M,Walking or climbing the stairs,8003
+2013,Number,Zenica-Doboj Canton,M,Remembering or concentrating,2383
+2013,Number,Zenica-Doboj Canton,M,Dressing and personal hygiene,1686
+2013,Number,Zenica-Doboj Canton,M,Communication,1576
+2013,Number,Zenica-Doboj Canton,M,With multiple disabilities,4548
+2013,Number,Bosnian-Podrinje Canton,M,Total,1150
+2013,Number,Bosnian-Podrinje Canton,M,"Seeing, even with the use of seeing aids",485
+2013,Number,Bosnian-Podrinje Canton,M,"Hearing, even with the use of hearing aids",323
+2013,Number,Bosnian-Podrinje Canton,M,Walking or climbing the stairs,696
+2013,Number,Bosnian-Podrinje Canton,M,Remembering or concentrating,212
+2013,Number,Bosnian-Podrinje Canton,M,Dressing and personal hygiene,135
+2013,Number,Bosnian-Podrinje Canton,M,Communication,103
+2013,Number,Bosnian-Podrinje Canton,M,With multiple disabilities,423
+2013,Number,Central Bosnia Canton,M,Total,9786
+2013,Number,Central Bosnia Canton,M,"Seeing, even with the use of seeing aids",3644
+2013,Number,Central Bosnia Canton,M,"Hearing, even with the use of hearing aids",2274
+2013,Number,Central Bosnia Canton,M,Walking or climbing the stairs,5406
+2013,Number,Central Bosnia Canton,M,Remembering or concentrating,2005
+2013,Number,Central Bosnia Canton,M,Dressing and personal hygiene,1192
+2013,Number,Central Bosnia Canton,M,Communication,1330
+2013,Number,Central Bosnia Canton,M,With multiple disabilities,3441
+2013,Number,Herzegovina-Neretva Canton,M,Total,6877
+2013,Number,Herzegovina-Neretva Canton,M,"Seeing, even with the use of seeing aids",2457
+2013,Number,Herzegovina-Neretva Canton,M,"Hearing, even with the use of hearing aids",1772
+2013,Number,Herzegovina-Neretva Canton,M,Walking or climbing the stairs,4114
+2013,Number,Herzegovina-Neretva Canton,M,Remembering or concentrating,1317
+2013,Number,Herzegovina-Neretva Canton,M,Dressing and personal hygiene,868
+2013,Number,Herzegovina-Neretva Canton,M,Communication,838
+2013,Number,Herzegovina-Neretva Canton,M,With multiple disabilities,2310
+2013,Number,West Herzegovina Canton,M,Total,2373
+2013,Number,West Herzegovina Canton,M,"Seeing, even with the use of seeing aids",739
+2013,Number,West Herzegovina Canton,M,"Hearing, even with the use of hearing aids",627
+2013,Number,West Herzegovina Canton,M,Walking or climbing the stairs,1503
+2013,Number,West Herzegovina Canton,M,Remembering or concentrating,490
+2013,Number,West Herzegovina Canton,M,Dressing and personal hygiene,309
+2013,Number,West Herzegovina Canton,M,Communication,356
+2013,Number,West Herzegovina Canton,M,With multiple disabilities,832
+2013,Number,Sarajevo Canton,M,Total,15041
+2013,Number,Sarajevo Canton,M,"Seeing, even with the use of seeing aids",5441
+2013,Number,Sarajevo Canton,M,"Hearing, even with the use of hearing aids",3656
+2013,Number,Sarajevo Canton,M,Walking or climbing the stairs,9240
+2013,Number,Sarajevo Canton,M,Remembering or concentrating,2892
+2013,Number,Sarajevo Canton,M,Dressing and personal hygiene,2009
+2013,Number,Sarajevo Canton,M,Communication,1712
+2013,Number,Sarajevo Canton,M,With multiple disabilities,5278
+2013,Number,Canton 10,M,Total,2280
+2013,Number,Canton 10,M,"Seeing, even with the use of seeing aids",846
+2013,Number,Canton 10,M,"Hearing, even with the use of hearing aids",644
+2013,Number,Canton 10,M,Walking or climbing the stairs,1293
+2013,Number,Canton 10,M,Remembering or concentrating,424
+2013,Number,Canton 10,M,Dressing and personal hygiene,304
+2013,Number,Canton 10,M,Communication,290
+2013,Number,Canton 10,M,With multiple disabilities,774
+2013,Number,Federation of Bosnia and Herzegovina,F ,Total,100232
+2013,Number,Federation of Bosnia and Herzegovina,F ,"Seeing, even with the use of seeing aids",43667
+2013,Number,Federation of Bosnia and Herzegovina,F ,"Hearing, even with the use of hearing aids",21978
+2013,Number,Federation of Bosnia and Herzegovina,F ,Walking or climbing the stairs,66911
+2013,Number,Federation of Bosnia and Herzegovina,F ,Remembering or concentrating,19581
+2013,Number,Federation of Bosnia and Herzegovina,F ,Dressing and personal hygiene,14028
+2013,Number,Federation of Bosnia and Herzegovina,F ,Communication,10334
+2013,Number,Federation of Bosnia and Herzegovina,F ,With multiple disabilities,39683
+2013,Number,Una-Sana Canton,F ,Total,10651
+2013,Number,Una-Sana Canton,F ,"Seeing, even with the use of seeing aids",5006
+2013,Number,Una-Sana Canton,F ,"Hearing, even with the use of hearing aids",2529
+2013,Number,Una-Sana Canton,F ,Walking or climbing the stairs,6619
+2013,Number,Una-Sana Canton,F ,Remembering or concentrating,2161
+2013,Number,Una-Sana Canton,F ,Dressing and personal hygiene,1449
+2013,Number,Una-Sana Canton,F ,Communication,1178
+2013,Number,Una-Sana Canton,F ,With multiple disabilities,4114
+2013,Number,Posavina Canton,F ,Total,1802
+2013,Number,Posavina Canton,F ,"Seeing, even with the use of seeing aids",794
+2013,Number,Posavina Canton,F ,"Hearing, even with the use of hearing aids",394
+2013,Number,Posavina Canton,F ,Walking or climbing the stairs,1155
+2013,Number,Posavina Canton,F ,Remembering or concentrating,322
+2013,Number,Posavina Canton,F ,Dressing and personal hygiene,216
+2013,Number,Posavina Canton,F ,Communication,172
+2013,Number,Posavina Canton,F ,With multiple disabilities,645
+2013,Number,Tuzla Canton,F ,Total,24724
+2013,Number,Tuzla Canton,F ,"Seeing, even with the use of seeing aids",11284
+2013,Number,Tuzla Canton,F ,"Hearing, even with the use of hearing aids",5295
+2013,Number,Tuzla Canton,F ,Walking or climbing the stairs,16720
+2013,Number,Tuzla Canton,F ,Remembering or concentrating,5347
+2013,Number,Tuzla Canton,F ,Dressing and personal hygiene,3277
+2013,Number,Tuzla Canton,F ,Communication,2361
+2013,Number,Tuzla Canton,F ,With multiple disabilities,10252
+2013,Number,Zenica-Doboj Canton,F ,Total,16513
+2013,Number,Zenica-Doboj Canton,F ,"Seeing, even with the use of seeing aids",7154
+2013,Number,Zenica-Doboj Canton,F ,"Hearing, even with the use of hearing aids",3334
+2013,Number,Zenica-Doboj Canton,F ,Walking or climbing the stairs,11058
+2013,Number,Zenica-Doboj Canton,F ,Remembering or concentrating,2990
+2013,Number,Zenica-Doboj Canton,F ,Dressing and personal hygiene,2264
+2013,Number,Zenica-Doboj Canton,F ,Communication,1643
+2013,Number,Zenica-Doboj Canton,F ,With multiple disabilities,6376
+2013,Number,Bosnian-Podrinje Canton,F ,Total,1469
+2013,Number,Bosnian-Podrinje Canton,F ,"Seeing, even with the use of seeing aids",611
+2013,Number,Bosnian-Podrinje Canton,F ,"Hearing, even with the use of hearing aids",359
+2013,Number,Bosnian-Podrinje Canton,F ,Walking or climbing the stairs,1050
+2013,Number,Bosnian-Podrinje Canton,F ,Remembering or concentrating,316
+2013,Number,Bosnian-Podrinje Canton,F ,Dressing and personal hygiene,195
+2013,Number,Bosnian-Podrinje Canton,F ,Communication,148
+2013,Number,Bosnian-Podrinje Canton,F ,With multiple disabilities,607
+2013,Number,Central Bosnia Canton,F ,Total,10848
+2013,Number,Central Bosnia Canton,F ,"Seeing, even with the use of seeing aids",4714
+2013,Number,Central Bosnia Canton,F ,"Hearing, even with the use of hearing aids",2345
+2013,Number,Central Bosnia Canton,F ,Walking or climbing the stairs,6787
+2013,Number,Central Bosnia Canton,F ,Remembering or concentrating,2147
+2013,Number,Central Bosnia Canton,F ,Dressing and personal hygiene,1508
+2013,Number,Central Bosnia Canton,F ,Communication,1286
+2013,Number,Central Bosnia Canton,F ,With multiple disabilities,4246
+2013,Number,Herzegovina-Neretva Canton,F ,Total,8071
+2013,Number,Herzegovina-Neretva Canton,F ,"Seeing, even with the use of seeing aids",3307
+2013,Number,Herzegovina-Neretva Canton,F ,"Hearing, even with the use of hearing aids",1940
+2013,Number,Herzegovina-Neretva Canton,F ,Walking or climbing the stairs,5462
+2013,Number,Herzegovina-Neretva Canton,F ,Remembering or concentrating,1490
+2013,Number,Herzegovina-Neretva Canton,F ,Dressing and personal hygiene,1219
+2013,Number,Herzegovina-Neretva Canton,F ,Communication,911
+2013,Number,Herzegovina-Neretva Canton,F ,With multiple disabilities,3138
+2013,Number,West Herzegovina Canton,F ,Total,2721
+2013,Number,West Herzegovina Canton,F ,"Seeing, even with the use of seeing aids",1073
+2013,Number,West Herzegovina Canton,F ,"Hearing, even with the use of hearing aids",682
+2013,Number,West Herzegovina Canton,F ,Walking or climbing the stairs,1860
+2013,Number,West Herzegovina Canton,F ,Remembering or concentrating,524
+2013,Number,West Herzegovina Canton,F ,Dressing and personal hygiene,467
+2013,Number,West Herzegovina Canton,F ,Communication,374
+2013,Number,West Herzegovina Canton,F ,With multiple disabilities,1062
+2013,Number,Sarajevo Canton,F ,Total,20688
+2013,Number,Sarajevo Canton,F ,"Seeing, even with the use of seeing aids",8538
+2013,Number,Sarajevo Canton,F ,"Hearing, even with the use of hearing aids",4411
+2013,Number,Sarajevo Canton,F ,Walking or climbing the stairs,14396
+2013,Number,Sarajevo Canton,F ,Remembering or concentrating,3820
+2013,Number,Sarajevo Canton,F ,Dressing and personal hygiene,3000
+2013,Number,Sarajevo Canton,F ,Communication,1925
+2013,Number,Sarajevo Canton,F ,With multiple disabilities,8164
+2013,Number,Canton 10,F ,Total,2745
+2013,Number,Canton 10,F ,"Seeing, even with the use of seeing aids",1186
+2013,Number,Canton 10,F ,"Hearing, even with the use of hearing aids",689
+2013,Number,Canton 10,F ,Walking or climbing the stairs,1804
+2013,Number,Canton 10,F ,Remembering or concentrating,464
+2013,Number,Canton 10,F ,Dressing and personal hygiene,433
+2013,Number,Canton 10,F ,Communication,336
+2013,Number,Canton 10,F ,With multiple disabilities,1079

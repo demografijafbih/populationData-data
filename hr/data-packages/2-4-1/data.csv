@@ -1,1 +1,265 @@
-Year,Value
+Year,UNIT_MEASURE,Administrativna jedinica,Spol,Vrsta poteškoće,Value
+2013,Broj,Federacija Bosne i Hercegovine,Oba spola,Ukupno,181927
+2013,Broj,Federacija Bosne i Hercegovine,Oba spola,"Vid, iako nosi naočare",74413
+2013,Broj,Federacija Bosne i Hercegovine,Oba spola,"Sluh, iako koristi slušni aparat",42221
+2013,Broj,Federacija Bosne i Hercegovine,Oba spola,Hod ili penjanje uz stepenice,114822
+2013,Broj,Federacija Bosne i Hercegovine,Oba spola,Pamćenje ili koncentracija,35601
+2013,Broj,Federacija Bosne i Hercegovine,Oba spola,Odijevanje i održavanje osobne higijene,24345
+2013,Broj,Federacija Bosne i Hercegovine,Oba spola,Komunikacija,20180
+2013,Broj,Federacija Bosne i Hercegovine,Oba spola,Sa više poteškoća,68156
+2013,Broj,Unsko-sanska županija,Oba spola,Ukupno,20706
+2013,Broj,Unsko-sanska županija,Oba spola,"Vid, iako nosi naočare",8911
+2013,Broj,Unsko-sanska županija,Oba spola,"Sluh, iako koristi slušni aparat",5139
+2013,Broj,Unsko-sanska županija,Oba spola,Hod ili penjanje uz stepenice,12299
+2013,Broj,Unsko-sanska županija,Oba spola,Pamćenje ili koncentracija,4220
+2013,Broj,Unsko-sanska županija,Oba spola,Odijevanje i održavanje osobne higijene,2751
+2013,Broj,Unsko-sanska županija,Oba spola,Komunikacija,2467
+2013,Broj,Unsko-sanska županija,Oba spola,Sa više poteškoća,7558
+2013,Broj,Posavska županija,Oba spola,Ukupno,3387
+2013,Broj,Posavska županija,Oba spola,"Vid, iako nosi naočare",1386
+2013,Broj,Posavska županija,Oba spola,"Sluh, iako koristi slušni aparat",762
+2013,Broj,Posavska županija,Oba spola,Hod ili penjanje uz stepenice,2021
+2013,Broj,Posavska županija,Oba spola,Pamćenje ili koncentracija,615
+2013,Broj,Posavska županija,Oba spola,Odijevanje i održavanje osobne higijene,375
+2013,Broj,Posavska županija,Oba spola,Komunikacija,337
+2013,Broj,Posavska županija,Oba spola,Sa više poteškoća,1127
+2013,Broj,Tuzlanska županija,Oba spola,Ukupno,43418
+2013,Broj,Tuzlanska županija,Oba spola,"Vid, iako nosi naočare",18825
+2013,Broj,Tuzlanska županija,Oba spola,"Sluh, iako koristi slušni aparat",9948
+2013,Broj,Tuzlanska županija,Oba spola,Hod ili penjanje uz stepenice,27830
+2013,Broj,Tuzlanska županija,Oba spola,Pamćenje ili koncentracija,9292
+2013,Broj,Tuzlanska županija,Oba spola,Odijevanje i održavanje osobne higijene,5630
+2013,Broj,Tuzlanska županija,Oba spola,Komunikacija,4548
+2013,Broj,Tuzlanska županija,Oba spola,Sa više poteškoća,17193
+2013,Broj,Zeničko-dobojska županija,Oba spola,Ukupno,30367
+2013,Broj,Zeničko-dobojska županija,Oba spola,"Vid, iako nosi naočare",12250
+2013,Broj,Zeničko-dobojska županija,Oba spola,"Sluh, iako koristi slušni aparat",6650
+2013,Broj,Zeničko-dobojska županija,Oba spola,Hod ili penjanje uz stepenice,19061
+2013,Broj,Zeničko-dobojska županija,Oba spola,Pamćenje ili koncentracija,5373
+2013,Broj,Zeničko-dobojska županija,Oba spola,Odijevanje i održavanje osobne higijene,3950
+2013,Broj,Zeničko-dobojska županija,Oba spola,Komunikacija,3219
+2013,Broj,Zeničko-dobojska županija,Oba spola,Sa više poteškoća,10924
+2013,Broj,Bosansko-podrinjska županija,Oba spola,Ukupno,2619
+2013,Broj,Bosansko-podrinjska županija,Oba spola,"Vid, iako nosi naočare",1096
+2013,Broj,Bosansko-podrinjska županija,Oba spola,"Sluh, iako koristi slušni aparat",682
+2013,Broj,Bosansko-podrinjska županija,Oba spola,Hod ili penjanje uz stepenice,1746
+2013,Broj,Bosansko-podrinjska županija,Oba spola,Pamćenje ili koncentracija,528
+2013,Broj,Bosansko-podrinjska županija,Oba spola,Odijevanje i održavanje osobne higijene,330
+2013,Broj,Bosansko-podrinjska županija,Oba spola,Komunikacija,251
+2013,Broj,Bosansko-podrinjska županija,Oba spola,Sa više poteškoća,1030
+2013,Broj,Srednjobosanska županija,Oba spola,Ukupno,20634
+2013,Broj,Srednjobosanska županija,Oba spola,"Vid, iako nosi naočare",8358
+2013,Broj,Srednjobosanska županija,Oba spola,"Sluh, iako koristi slušni aparat",4619
+2013,Broj,Srednjobosanska županija,Oba spola,Hod ili penjanje uz stepenice,12193
+2013,Broj,Srednjobosanska županija,Oba spola,Pamćenje ili koncentracija,4152
+2013,Broj,Srednjobosanska županija,Oba spola,Odijevanje i održavanje osobne higijene,2700
+2013,Broj,Srednjobosanska županija,Oba spola,Komunikacija,2616
+2013,Broj,Srednjobosanska županija,Oba spola,Sa više poteškoća,7687
+2013,Broj,Hercegovačko-neretvanska županija,Oba spola,Ukupno,14948
+2013,Broj,Hercegovačko-neretvanska županija,Oba spola,"Vid, iako nosi naočare",5764
+2013,Broj,Hercegovačko-neretvanska županija,Oba spola,"Sluh, iako koristi slušni aparat",3712
+2013,Broj,Hercegovačko-neretvanska županija,Oba spola,Hod ili penjanje uz stepenice,9576
+2013,Broj,Hercegovačko-neretvanska županija,Oba spola,Pamćenje ili koncentracija,2807
+2013,Broj,Hercegovačko-neretvanska županija,Oba spola,Odijevanje i održavanje osobne higijene,2087
+2013,Broj,Hercegovačko-neretvanska županija,Oba spola,Komunikacija,1749
+2013,Broj,Hercegovačko-neretvanska županija,Oba spola,Sa više poteškoća,5448
+2013,Broj,Zapadno-hercegovačka županija,Oba spola,Ukupno,5094
+2013,Broj,Zapadno-hercegovačka županija,Oba spola,"Vid, iako nosi naočare",1812
+2013,Broj,Zapadno-hercegovačka županija,Oba spola,"Sluh, iako koristi slušni aparat",1309
+2013,Broj,Zapadno-hercegovačka županija,Oba spola,Hod ili penjanje uz stepenice,3363
+2013,Broj,Zapadno-hercegovačka županija,Oba spola,Pamćenje ili koncentracija,1014
+2013,Broj,Zapadno-hercegovačka županija,Oba spola,Odijevanje i održavanje osobne higijene,776
+2013,Broj,Zapadno-hercegovačka županija,Oba spola,Komunikacija,730
+2013,Broj,Zapadno-hercegovačka županija,Oba spola,Sa više poteškoća,1894
+2013,Broj,Sarajevska županija,Oba spola,Ukupno,35729
+2013,Broj,Sarajevska županija,Oba spola,"Vid, iako nosi naočare",13979
+2013,Broj,Sarajevska županija,Oba spola,"Sluh, iako koristi slušni aparat",8067
+2013,Broj,Sarajevska županija,Oba spola,Hod ili penjanje uz stepenice,23636
+2013,Broj,Sarajevska županija,Oba spola,Pamćenje ili koncentracija,6712
+2013,Broj,Sarajevska županija,Oba spola,Odijevanje i održavanje osobne higijene,5009
+2013,Broj,Sarajevska županija,Oba spola,Komunikacija,3637
+2013,Broj,Sarajevska županija,Oba spola,Sa više poteškoća,13442
+2013,Broj,Županija 10,Oba spola,Ukupno,5025
+2013,Broj,Županija 10,Oba spola,"Vid, iako nosi naočare",2032
+2013,Broj,Županija 10,Oba spola,"Sluh, iako koristi slušni aparat",1333
+2013,Broj,Županija 10,Oba spola,Hod ili penjanje uz stepenice,3097
+2013,Broj,Županija 10,Oba spola,Pamćenje ili koncentracija,888
+2013,Broj,Županija 10,Oba spola,Odijevanje i održavanje osobne higijene,737
+2013,Broj,Županija 10,Oba spola,Komunikacija,626
+2013,Broj,Županija 10,Oba spola,Sa više poteškoća,1853
+2013,Broj,Federacija Bosne i Hercegovine,M,Ukupno,81695
+2013,Broj,Federacija Bosne i Hercegovine,M,"Vid, iako nosi naočare",30746
+2013,Broj,Federacija Bosne i Hercegovine,M,"Sluh, iako koristi slušni aparat",20243
+2013,Broj,Federacija Bosne i Hercegovine,M,Hod ili penjanje uz stepenice,47911
+2013,Broj,Federacija Bosne i Hercegovine,M,Pamćenje ili koncentracija,16020
+2013,Broj,Federacija Bosne i Hercegovine,M,Odijevanje i održavanje osobne higijene,10317
+2013,Broj,Federacija Bosne i Hercegovine,M,Komunikacija,9846
+2013,Broj,Federacija Bosne i Hercegovine,M,Sa više poteškoća,28473
+2013,Broj,Unsko-sanska županija,M,Ukupno,10055
+2013,Broj,Unsko-sanska županija,M,"Vid, iako nosi naočare",3905
+2013,Broj,Unsko-sanska županija,M,"Sluh, iako koristi slušni aparat",2610
+2013,Broj,Unsko-sanska županija,M,Hod ili penjanje uz stepenice,5680
+2013,Broj,Unsko-sanska županija,M,Pamćenje ili koncentracija,2059
+2013,Broj,Unsko-sanska županija,M,Odijevanje i održavanje osobne higijene,1302
+2013,Broj,Unsko-sanska županija,M,Komunikacija,1289
+2013,Broj,Unsko-sanska županija,M,Sa više poteškoća,3444
+2013,Broj,Posavska županija,M,Ukupno,1585
+2013,Broj,Posavska županija,M,"Vid, iako nosi naočare",592
+2013,Broj,Posavska županija,M,"Sluh, iako koristi slušni aparat",368
+2013,Broj,Posavska županija,M,Hod ili penjanje uz stepenice,866
+2013,Broj,Posavska županija,M,Pamćenje ili koncentracija,293
+2013,Broj,Posavska županija,M,Odijevanje i održavanje osobne higijene,159
+2013,Broj,Posavska županija,M,Komunikacija,165
+2013,Broj,Posavska županija,M,Sa više poteškoća,482
+2013,Broj,Tuzlanska županija,M,Ukupno,18694
+2013,Broj,Tuzlanska županija,M,"Vid, iako nosi naočare",7541
+2013,Broj,Tuzlanska županija,M,"Sluh, iako koristi slušni aparat",4653
+2013,Broj,Tuzlanska županija,M,Hod ili penjanje uz stepenice,11110
+2013,Broj,Tuzlanska županija,M,Pamćenje ili koncentracija,3945
+2013,Broj,Tuzlanska županija,M,Odijevanje i održavanje osobne higijene,2353
+2013,Broj,Tuzlanska županija,M,Komunikacija,2187
+2013,Broj,Tuzlanska županija,M,Sa više poteškoća,6941
+2013,Broj,Zeničko-dobojska županija,M,Ukupno,13854
+2013,Broj,Zeničko-dobojska županija,M,"Vid, iako nosi naočare",5096
+2013,Broj,Zeničko-dobojska županija,M,"Sluh, iako koristi slušni aparat",3316
+2013,Broj,Zeničko-dobojska županija,M,Hod ili penjanje uz stepenice,8003
+2013,Broj,Zeničko-dobojska županija,M,Pamćenje ili koncentracija,2383
+2013,Broj,Zeničko-dobojska županija,M,Odijevanje i održavanje osobne higijene,1686
+2013,Broj,Zeničko-dobojska županija,M,Komunikacija,1576
+2013,Broj,Zeničko-dobojska županija,M,Sa više poteškoća,4548
+2013,Broj,Bosansko-podrinjska županija,M,Ukupno,1150
+2013,Broj,Bosansko-podrinjska županija,M,"Vid, iako nosi naočare",485
+2013,Broj,Bosansko-podrinjska županija,M,"Sluh, iako koristi slušni aparat",323
+2013,Broj,Bosansko-podrinjska županija,M,Hod ili penjanje uz stepenice,696
+2013,Broj,Bosansko-podrinjska županija,M,Pamćenje ili koncentracija,212
+2013,Broj,Bosansko-podrinjska županija,M,Odijevanje i održavanje osobne higijene,135
+2013,Broj,Bosansko-podrinjska županija,M,Komunikacija,103
+2013,Broj,Bosansko-podrinjska županija,M,Sa više poteškoća,423
+2013,Broj,Srednjobosanska županija,M,Ukupno,9786
+2013,Broj,Srednjobosanska županija,M,"Vid, iako nosi naočare",3644
+2013,Broj,Srednjobosanska županija,M,"Sluh, iako koristi slušni aparat",2274
+2013,Broj,Srednjobosanska županija,M,Hod ili penjanje uz stepenice,5406
+2013,Broj,Srednjobosanska županija,M,Pamćenje ili koncentracija,2005
+2013,Broj,Srednjobosanska županija,M,Odijevanje i održavanje osobne higijene,1192
+2013,Broj,Srednjobosanska županija,M,Komunikacija,1330
+2013,Broj,Srednjobosanska županija,M,Sa više poteškoća,3441
+2013,Broj,Hercegovačko-neretvanska županija,M,Ukupno,6877
+2013,Broj,Hercegovačko-neretvanska županija,M,"Vid, iako nosi naočare",2457
+2013,Broj,Hercegovačko-neretvanska županija,M,"Sluh, iako koristi slušni aparat",1772
+2013,Broj,Hercegovačko-neretvanska županija,M,Hod ili penjanje uz stepenice,4114
+2013,Broj,Hercegovačko-neretvanska županija,M,Pamćenje ili koncentracija,1317
+2013,Broj,Hercegovačko-neretvanska županija,M,Odijevanje i održavanje osobne higijene,868
+2013,Broj,Hercegovačko-neretvanska županija,M,Komunikacija,838
+2013,Broj,Hercegovačko-neretvanska županija,M,Sa više poteškoća,2310
+2013,Broj,Zapadno-hercegovačka županija,M,Ukupno,2373
+2013,Broj,Zapadno-hercegovačka županija,M,"Vid, iako nosi naočare",739
+2013,Broj,Zapadno-hercegovačka županija,M,"Sluh, iako koristi slušni aparat",627
+2013,Broj,Zapadno-hercegovačka županija,M,Hod ili penjanje uz stepenice,1503
+2013,Broj,Zapadno-hercegovačka županija,M,Pamćenje ili koncentracija,490
+2013,Broj,Zapadno-hercegovačka županija,M,Odijevanje i održavanje osobne higijene,309
+2013,Broj,Zapadno-hercegovačka županija,M,Komunikacija,356
+2013,Broj,Zapadno-hercegovačka županija,M,Sa više poteškoća,832
+2013,Broj,Sarajevska županija,M,Ukupno,15041
+2013,Broj,Sarajevska županija,M,"Vid, iako nosi naočare",5441
+2013,Broj,Sarajevska županija,M,"Sluh, iako koristi slušni aparat",3656
+2013,Broj,Sarajevska županija,M,Hod ili penjanje uz stepenice,9240
+2013,Broj,Sarajevska županija,M,Pamćenje ili koncentracija,2892
+2013,Broj,Sarajevska županija,M,Odijevanje i održavanje osobne higijene,2009
+2013,Broj,Sarajevska županija,M,Komunikacija,1712
+2013,Broj,Sarajevska županija,M,Sa više poteškoća,5278
+2013,Broj,Županija 10,M,Ukupno,2280
+2013,Broj,Županija 10,M,"Vid, iako nosi naočare",846
+2013,Broj,Županija 10,M,"Sluh, iako koristi slušni aparat",644
+2013,Broj,Županija 10,M,Hod ili penjanje uz stepenice,1293
+2013,Broj,Županija 10,M,Pamćenje ili koncentracija,424
+2013,Broj,Županija 10,M,Odijevanje i održavanje osobne higijene,304
+2013,Broj,Županija 10,M,Komunikacija,290
+2013,Broj,Županija 10,M,Sa više poteškoća,774
+2013,Broj,Federacija Bosne i Hercegovine,F ,Ukupno,100232
+2013,Broj,Federacija Bosne i Hercegovine,F ,"Vid, iako nosi naočare",43667
+2013,Broj,Federacija Bosne i Hercegovine,F ,"Sluh, iako koristi slušni aparat",21978
+2013,Broj,Federacija Bosne i Hercegovine,F ,Hod ili penjanje uz stepenice,66911
+2013,Broj,Federacija Bosne i Hercegovine,F ,Pamćenje ili koncentracija,19581
+2013,Broj,Federacija Bosne i Hercegovine,F ,Odijevanje i održavanje osobne higijene,14028
+2013,Broj,Federacija Bosne i Hercegovine,F ,Komunikacija,10334
+2013,Broj,Federacija Bosne i Hercegovine,F ,Sa više poteškoća,39683
+2013,Broj,Unsko-sanska županija,F ,Ukupno,10651
+2013,Broj,Unsko-sanska županija,F ,"Vid, iako nosi naočare",5006
+2013,Broj,Unsko-sanska županija,F ,"Sluh, iako koristi slušni aparat",2529
+2013,Broj,Unsko-sanska županija,F ,Hod ili penjanje uz stepenice,6619
+2013,Broj,Unsko-sanska županija,F ,Pamćenje ili koncentracija,2161
+2013,Broj,Unsko-sanska županija,F ,Odijevanje i održavanje osobne higijene,1449
+2013,Broj,Unsko-sanska županija,F ,Komunikacija,1178
+2013,Broj,Unsko-sanska županija,F ,Sa više poteškoća,4114
+2013,Broj,Posavska županija,F ,Ukupno,1802
+2013,Broj,Posavska županija,F ,"Vid, iako nosi naočare",794
+2013,Broj,Posavska županija,F ,"Sluh, iako koristi slušni aparat",394
+2013,Broj,Posavska županija,F ,Hod ili penjanje uz stepenice,1155
+2013,Broj,Posavska županija,F ,Pamćenje ili koncentracija,322
+2013,Broj,Posavska županija,F ,Odijevanje i održavanje osobne higijene,216
+2013,Broj,Posavska županija,F ,Komunikacija,172
+2013,Broj,Posavska županija,F ,Sa više poteškoća,645
+2013,Broj,Tuzlanska županija,F ,Ukupno,24724
+2013,Broj,Tuzlanska županija,F ,"Vid, iako nosi naočare",11284
+2013,Broj,Tuzlanska županija,F ,"Sluh, iako koristi slušni aparat",5295
+2013,Broj,Tuzlanska županija,F ,Hod ili penjanje uz stepenice,16720
+2013,Broj,Tuzlanska županija,F ,Pamćenje ili koncentracija,5347
+2013,Broj,Tuzlanska županija,F ,Odijevanje i održavanje osobne higijene,3277
+2013,Broj,Tuzlanska županija,F ,Komunikacija,2361
+2013,Broj,Tuzlanska županija,F ,Sa više poteškoća,10252
+2013,Broj,Zeničko-dobojska županija,F ,Ukupno,16513
+2013,Broj,Zeničko-dobojska županija,F ,"Vid, iako nosi naočare",7154
+2013,Broj,Zeničko-dobojska županija,F ,"Sluh, iako koristi slušni aparat",3334
+2013,Broj,Zeničko-dobojska županija,F ,Hod ili penjanje uz stepenice,11058
+2013,Broj,Zeničko-dobojska županija,F ,Pamćenje ili koncentracija,2990
+2013,Broj,Zeničko-dobojska županija,F ,Odijevanje i održavanje osobne higijene,2264
+2013,Broj,Zeničko-dobojska županija,F ,Komunikacija,1643
+2013,Broj,Zeničko-dobojska županija,F ,Sa više poteškoća,6376
+2013,Broj,Bosansko-podrinjska županija,F ,Ukupno,1469
+2013,Broj,Bosansko-podrinjska županija,F ,"Vid, iako nosi naočare",611
+2013,Broj,Bosansko-podrinjska županija,F ,"Sluh, iako koristi slušni aparat",359
+2013,Broj,Bosansko-podrinjska županija,F ,Hod ili penjanje uz stepenice,1050
+2013,Broj,Bosansko-podrinjska županija,F ,Pamćenje ili koncentracija,316
+2013,Broj,Bosansko-podrinjska županija,F ,Odijevanje i održavanje osobne higijene,195
+2013,Broj,Bosansko-podrinjska županija,F ,Komunikacija,148
+2013,Broj,Bosansko-podrinjska županija,F ,Sa više poteškoća,607
+2013,Broj,Srednjobosanska županija,F ,Ukupno,10848
+2013,Broj,Srednjobosanska županija,F ,"Vid, iako nosi naočare",4714
+2013,Broj,Srednjobosanska županija,F ,"Sluh, iako koristi slušni aparat",2345
+2013,Broj,Srednjobosanska županija,F ,Hod ili penjanje uz stepenice,6787
+2013,Broj,Srednjobosanska županija,F ,Pamćenje ili koncentracija,2147
+2013,Broj,Srednjobosanska županija,F ,Odijevanje i održavanje osobne higijene,1508
+2013,Broj,Srednjobosanska županija,F ,Komunikacija,1286
+2013,Broj,Srednjobosanska županija,F ,Sa više poteškoća,4246
+2013,Broj,Hercegovačko-neretvanska županija,F ,Ukupno,8071
+2013,Broj,Hercegovačko-neretvanska županija,F ,"Vid, iako nosi naočare",3307
+2013,Broj,Hercegovačko-neretvanska županija,F ,"Sluh, iako koristi slušni aparat",1940
+2013,Broj,Hercegovačko-neretvanska županija,F ,Hod ili penjanje uz stepenice,5462
+2013,Broj,Hercegovačko-neretvanska županija,F ,Pamćenje ili koncentracija,1490
+2013,Broj,Hercegovačko-neretvanska županija,F ,Odijevanje i održavanje osobne higijene,1219
+2013,Broj,Hercegovačko-neretvanska županija,F ,Komunikacija,911
+2013,Broj,Hercegovačko-neretvanska županija,F ,Sa više poteškoća,3138
+2013,Broj,Zapadno-hercegovačka županija,F ,Ukupno,2721
+2013,Broj,Zapadno-hercegovačka županija,F ,"Vid, iako nosi naočare",1073
+2013,Broj,Zapadno-hercegovačka županija,F ,"Sluh, iako koristi slušni aparat",682
+2013,Broj,Zapadno-hercegovačka županija,F ,Hod ili penjanje uz stepenice,1860
+2013,Broj,Zapadno-hercegovačka županija,F ,Pamćenje ili koncentracija,524
+2013,Broj,Zapadno-hercegovačka županija,F ,Odijevanje i održavanje osobne higijene,467
+2013,Broj,Zapadno-hercegovačka županija,F ,Komunikacija,374
+2013,Broj,Zapadno-hercegovačka županija,F ,Sa više poteškoća,1062
+2013,Broj,Sarajevska županija,F ,Ukupno,20688
+2013,Broj,Sarajevska županija,F ,"Vid, iako nosi naočare",8538
+2013,Broj,Sarajevska županija,F ,"Sluh, iako koristi slušni aparat",4411
+2013,Broj,Sarajevska županija,F ,Hod ili penjanje uz stepenice,14396
+2013,Broj,Sarajevska županija,F ,Pamćenje ili koncentracija,3820
+2013,Broj,Sarajevska županija,F ,Odijevanje i održavanje osobne higijene,3000
+2013,Broj,Sarajevska županija,F ,Komunikacija,1925
+2013,Broj,Sarajevska županija,F ,Sa više poteškoća,8164
+2013,Broj,Županija 10,F ,Ukupno,2745
+2013,Broj,Županija 10,F ,"Vid, iako nosi naočare",1186
+2013,Broj,Županija 10,F ,"Sluh, iako koristi slušni aparat",689
+2013,Broj,Županija 10,F ,Hod ili penjanje uz stepenice,1804
+2013,Broj,Županija 10,F ,Pamćenje ili koncentracija,464
+2013,Broj,Županija 10,F ,Odijevanje i održavanje osobne higijene,433
+2013,Broj,Županija 10,F ,Komunikacija,336
+2013,Broj,Županija 10,F ,Sa više poteškoća,1079

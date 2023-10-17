@@ -1,5 +1,6 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-%,%,%,%,%,10,2
+%,%,%,%,%,19,3
+2013,2013,2013,2013,2013,36,1
 2020,2020,2020,2020,2020,50,1
 2025,2025,2025,2025,2025,50,1
 2030,2030,2030,2030,2030,50,1
@@ -13,6 +14,6 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 2070,2070,2070,2070,2070,50,1
 AGE,Age,Starosna dob,Старосна доб,Starosna dob,5,3
 crude_death_rate_1000,Number per 1000 population,Broj na 1.000 stanovnika,Број на 1.000 становника,Broj na 1.000 stanovnika,1,1
-NUMBER,Number,Broj,Број,Broj,7392,17
+NUMBER,Number,Broj,Број,Broj,12194,25
 number_birth_rate,Birth Rate,Stopa nataliteta,Стопа наталитета,Stopa nataliteta,1,1
 permil,‰,‰,‰,‰,11,9

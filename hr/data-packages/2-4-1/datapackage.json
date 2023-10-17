@@ -12,12 +12,69 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Federacija Bosne i Hercegovine",
+                "Unsko-sanska županija",
+                "Posavska županija",
+                "Tuzlanska županija",
+                "Zeničko-dobojska županija",
+                "Bosansko-podrinjska županija",
+                "Srednjobosanska županija",
+                "Hercegovačko-neretvanska županija",
+                "Zapadno-hercegovačka županija",
+                "Sarajevska županija",
+                "Županija 10",
+                ""
+              ]
+            },
+            "title": "Administrativna jedinica"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "F ",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "Disabilities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupno",
+                "Vid, iako nosi naočare",
+                "Sluh, iako koristi slušni aparat",
+                "Hod ili penjanje uz stepenice",
+                "Pamćenje ili koncentracija",
+                "Odijevanje i održavanje osobne higijene",
+                "Komunikacija",
+                "Sa više poteškoća",
+                ""
+              ]
+            },
+            "title": "Vrsta poteškoće"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

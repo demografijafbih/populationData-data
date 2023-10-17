@@ -1,1 +1,67 @@
-Year,Value
+Year,UNIT_MEASURE,Administrativna jedinica,Spol,Pismenost,Value
+2013,Broj,Federacija Bosne i Hercegovine,M,Pismeno stanovništvo,955131
+2013,Broj,Federacija Bosne i Hercegovine,M,iliterate,6823
+2013,Broj,Federacija Bosne i Hercegovine,M,Nepoznato,7389
+2013,Broj,Unsko-sanski kanton,M,Pismeno stanovništvo,117388
+2013,Broj,Unsko-sanski kanton,M,iliterate,1201
+2013,Broj,Unsko-sanski kanton,M,Nepoznato,1024
+2013,Broj,Posavski kanton,M,Pismeno stanovništvo,19569
+2013,Broj,Posavski kanton,M,iliterate,168
+2013,Broj,Posavski kanton,M,Nepoznato,242
+2013,Broj,Tuzlanski kanton,M,Pismeno stanovništvo,190794
+2013,Broj,Tuzlanski kanton,M,iliterate,1722
+2013,Broj,Tuzlanski kanton,M,Nepoznato,1309
+2013,Broj,Zeničko-dobojski kanton,M,Pismeno stanovništvo,158533
+2013,Broj,Zeničko-dobojski kanton,M,iliterate,1077
+2013,Broj,Zeničko-dobojski kanton,M,Nepoznato,895
+2013,Broj,Bosansko-podrinjski kanton,M,Pismeno stanovništvo,10379
+2013,Broj,Bosansko-podrinjski kanton,M,iliterate,89
+2013,Broj,Bosansko-podrinjski kanton,M,Nepoznato,48
+2013,Broj,Srednjobosanski kanton,M,Pismeno stanovništvo,110778
+2013,Broj,Srednjobosanski kanton,M,iliterate,916
+2013,Broj,Srednjobosanski kanton,M,Nepoznato,1490
+2013,Broj,Hercegovačko-neretvanski kanton,M,Pismeno stanovništvo,96601
+2013,Broj,Hercegovačko-neretvanski kanton,M,iliterate,466
+2013,Broj,Hercegovačko-neretvanski kanton,M,Nepoznato,932
+2013,Broj,Zapadno-hercegovački kanton,M,Pismeno stanovništvo,41183
+2013,Broj,Zapadno-hercegovački kanton,M,iliterate,196
+2013,Broj,Zapadno-hercegovački kanton,M,Nepoznato,474
+2013,Broj,Kanton Sarajevo,M,Pismeno stanovništvo,171986
+2013,Broj,Kanton Sarajevo,M,iliterate,748
+2013,Broj,Kanton Sarajevo,M,Nepoznato,571
+2013,Broj,Kanton 10,M,Pismeno stanovništvo,37920
+2013,Broj,Kanton 10,M,iliterate,240
+2013,Broj,Kanton 10,M,Nepoznato,404
+2013,Broj,Federacija Bosne i Hercegovine,Ž,Pismeno stanovništvo,960183
+2013,Broj,Federacija Bosne i Hercegovine,Ž,iliterate,45404
+2013,Broj,Federacija Bosne i Hercegovine,Ž,Nepoznato,13395
+2013,Broj,Unsko-sanski kanton,Ž,Pismeno stanovništvo,114220
+2013,Broj,Unsko-sanski kanton,Ž,iliterate,7083
+2013,Broj,Unsko-sanski kanton,Ž,Nepoznato,1763
+2013,Broj,Posavski kanton,Ž,Pismeno stanovništvo,18788
+2013,Broj,Posavski kanton,Ž,iliterate,761
+2013,Broj,Posavski kanton,Ž,Nepoznato,356
+2013,Broj,Tuzlanski kanton,Ž,Pismeno stanovništvo,190980
+2013,Broj,Tuzlanski kanton,Ž,iliterate,11989
+2013,Broj,Tuzlanski kanton,Ž,Nepoznato,2457
+2013,Broj,Zeničko-dobojski kanton,Ž,Pismeno stanovništvo,155085
+2013,Broj,Zeničko-dobojski kanton,Ž,iliterate,7458
+2013,Broj,Zeničko-dobojski kanton,Ž,Nepoznato,1869
+2013,Broj,Bosansko-podrinjski kanton,Ž,Pismeno stanovništvo,10328
+2013,Broj,Bosansko-podrinjski kanton,Ž,iliterate,721
+2013,Broj,Bosansko-podrinjski kanton,Ž,Nepoznato,113
+2013,Broj,Srednjobosanski kanton,Ž,Pismeno stanovništvo,105913
+2013,Broj,Srednjobosanski kanton,Ž,iliterate,5831
+2013,Broj,Srednjobosanski kanton,Ž,Nepoznato,2488
+2013,Broj,Hercegovačko-neretvanski kanton,Ž,Pismeno stanovništvo,97557
+2013,Broj,Hercegovačko-neretvanski kanton,Ž,iliterate,3238
+2013,Broj,Hercegovačko-neretvanski kanton,Ž,Nepoznato,1630
+2013,Broj,Zapadno-hercegovački kanton,Ž,Pismeno stanovništvo,40544
+2013,Broj,Zapadno-hercegovački kanton,Ž,iliterate,1230
+2013,Broj,Zapadno-hercegovački kanton,Ž,Nepoznato,735
+2013,Broj,Kanton Sarajevo,Ž,Pismeno stanovništvo,190584
+2013,Broj,Kanton Sarajevo,Ž,iliterate,5558
+2013,Broj,Kanton Sarajevo,Ž,Nepoznato,1432
+2013,Broj,Kanton 10,Ž,Pismeno stanovništvo,36184
+2013,Broj,Kanton 10,Ž,iliterate,1535
+2013,Broj,Kanton 10,Ž,Nepoznato,552

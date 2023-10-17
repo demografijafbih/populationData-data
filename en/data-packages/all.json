@@ -518,6 +518,162 @@
       "title": "Stillbirth rate"
     },
     {
+      "path": "2-1-4/data.csv",
+      "name": "2-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "PYRAMID_AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                " 10-14",
+                " 5-9",
+                "0-4",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+"
+              ]
+            },
+            "title": "PYRAMID_AGE"
+          },
+          {
+            "name": "PYRAMID_SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "PYRAMID_SEX"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Population pyramid"
+    },
+    {
+      "path": "2-3-2/data.csv",
+      "name": "2-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bosnian-Podrinje Canton",
+                "Canton 10",
+                "Central Bosnia Canton",
+                "Federation of Bosnia and Herzegovina",
+                "Herzegovina-Neretva Canton",
+                "Posavina Canton",
+                "Sarajevo Canton",
+                "Tuzla Canton",
+                "Una-Sana Canton",
+                "West Herzegovina Canton",
+                "Zenica-Doboj Canton"
+              ]
+            },
+            "title": "Administrative Area"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT-MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number"
+              ]
+            },
+            "title": "UNIT-MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "highest_attainment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Elementary education",
+                "Higher school and first degree of faculty",
+                "Incomplete elementary education",
+                "No education",
+                "Secondary education",
+                "Secondary specialisation",
+                "Faculty / academy / university"
+              ]
+            },
+            "title": "Highest educational attainment"
+          }
+        ]
+      },
+      "title": "Population over 15 years of age by educational attainment and sex"
+    },
+    {
       "path": "1-7-3/data.csv",
       "name": "1-7-3",
       "profile": "tabular-data-resource",
@@ -1054,6 +1210,76 @@
       "title": "Marriages"
     },
     {
+      "path": "2-1-2/data.csv",
+      "name": "2-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                " 10-14",
+                " 5-9",
+                "0-4",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Population by age groups and sex"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -1130,6 +1356,153 @@
       "title": "Vital statistics by sex (live births, deaths, natural change)"
     },
     {
+      "path": "2-1-3/data.csv",
+      "name": "2-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bosnian-Podrinje Canton",
+                "Canton 10",
+                "Central Bosnia Canton",
+                "Federation of Bosnia and Herzegovina",
+                "Herzegovina-Neretva Canton",
+                "Posavina Canton",
+                "Sarajevo Canton",
+                "Tuzla Canton",
+                "Una-Sana Canton",
+                "West Herzegovina Canton",
+                "Zenica-Doboj Canton"
+              ]
+            },
+            "title": "Administrative area"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                " 10-14",
+                " 15-19",
+                " 20-24",
+                " 25-29",
+                " 30-34",
+                " 35-39",
+                " 45-49",
+                " 5-9",
+                " 50-54",
+                " 55-59",
+                " 60-64",
+                " 65-69",
+                " 70-74",
+                " 75-79",
+                " 80-84",
+                "0-4",
+                "40-44",
+                "85+",
+                "Total"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Population by municipality, age groups and sex"
+    },
+    {
+      "path": "2-1-6/data.csv",
+      "name": "2-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "(0-14+50+)/(15-49)",
+                "(0-14+60+)/(15-59)",
+                "(0-19+65+)/(20-64)"
+              ]
+            },
+            "title": "Type of dependency ratio"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Dependency ratios by sex"
+    },
+    {
       "path": "1-3-1/data.csv",
       "name": "1-3-1",
       "profile": "tabular-data-resource",
@@ -1199,6 +1572,217 @@
         ]
       },
       "title": "Infant (up to 12 months of age) mortality rate"
+    },
+    {
+      "path": "2-2-1/data.csv",
+      "name": "2-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Banovici",
+                "Bihac",
+                "Bosanska Krupa",
+                "Bosanski Petrovac",
+                "Bosansko Grahovo",
+                "Bosnian-Podrinje Canton",
+                "Breza",
+                "Bugojno",
+                "Busovaca",
+                "Buzim",
+                "Canton 10",
+                "Capljina",
+                "Cazin",
+                "Celic",
+                "Sarajevo-Centar",
+                "Central Bosnia Canton",
+                "Citluk",
+                "Doboj-Istok",
+                "Doboj-Jug",
+                "Dobretici",
+                "Domaljevac-Samac",
+                "Donji Vakuf",
+                "Drvar",
+                "Federation of Bosnia and Herzegovina",
+                "foca-fbih",
+                "Fojnica",
+                "Glamoc",
+                "Gorazde",
+                "Gornji Vakuf-Uskoplje",
+                "Gracanica",
+                "Gradacac",
+                "Grude",
+                "Sarajevo-Hadzici",
+                "Herzegovina-Neretva Canton",
+                "Sarajevo-Ilidza",
+                "Sarajevo-Ilijas",
+                "Jablanica",
+                "Jajce",
+                "Kakanj",
+                "Kalesija",
+                "Kiseljak",
+                "Kladanj",
+                "Kljuc",
+                "Konjic",
+                "Kresevo",
+                "kupres",
+                "Livno",
+                "Ljubuski",
+                "Lukavac",
+                "Maglaj",
+                "Grad Mostar",
+                "Neum",
+                "Sarajevo-Novi Grad",
+                "Novi Travnik",
+                "Sarajevo-Novo Sarajevo",
+                "Odzak",
+                "Olovo",
+                "Orasje",
+                "Pale-FBiH",
+                "Posavina Canton",
+                "Posusje",
+                "Prozor",
+                "Ravno",
+                "Sanski Most",
+                "Sapna",
+                "Sarajevo Canton",
+                "Siroki Brijeg",
+                "Srebrenik",
+                "Sarajevo-Stari Grad",
+                "Stolac",
+                "Teocak",
+                "Tesanj",
+                "Tomislavgrad",
+                "Travnik",
+                "Trnovo-FBiH",
+                "Tuzla",
+                "Tuzla Canton",
+                "Una-Sana Canton",
+                "Usora",
+                "Vares",
+                "Velika Kladusa",
+                "Visoko",
+                "Vitez",
+                "Sarajevo-Vogosca",
+                "West Herzegovina Canton",
+                "Zavidovici",
+                "Zenica",
+                "Zenica-Doboj Canton",
+                "Zepce",
+                "Zivinice"
+              ]
+            },
+            "title": "Administrative Area"
+          },
+          {
+            "name": "HH_size",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8+",
+                "Total"
+              ]
+            },
+            "title": "Household size"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Households by number of members"
+    },
+    {
+      "path": "2-2-2/data.csv",
+      "name": "2-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bosnian-Podrinje Canton",
+                "Canton 10",
+                "Central Bosnia Canton",
+                "Federation of Bosnia and Herzegovina",
+                "Herzegovina-Neretva Canton",
+                "Posavina Canton",
+                "Sarajevo Canton",
+                "Tuzla Canton",
+                "Una-Sana Canton",
+                "West Herzegovina Canton",
+                "Zenica-Doboj Canton"
+              ]
+            },
+            "title": "Administrative Area"
+          },
+          {
+            "name": "HH_agri",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Engaged in agricultural activities",
+                "Engaged in agricultural activities and sell their products in the market"
+              ]
+            },
+            "title": "Household agricultural activity"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Households by agricultural activity"
     },
     {
       "path": "1-8-2/data.csv",
@@ -1272,6 +1856,87 @@
       "title": "1-8-2"
     },
     {
+      "path": "2-4-1/data.csv",
+      "name": "2-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bosnian-Podrinje Canton",
+                "Canton 10",
+                "Central Bosnia Canton",
+                "Federation of Bosnia and Herzegovina",
+                "Herzegovina-Neretva Canton",
+                "Posavina Canton",
+                "Sarajevo Canton",
+                "Tuzla Canton",
+                "Una-Sana Canton",
+                "West Herzegovina Canton",
+                "Zenica-Doboj Canton"
+              ]
+            },
+            "title": "Administrative Area"
+          },
+          {
+            "name": "Disabilities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Communication",
+                "Dressing and personal hygiene",
+                "Seeing, even with the use of seeing aids",
+                "Hearing, even with the use of hearing aids",
+                "Remembering or concentrating",
+                "With multiple disabilities",
+                "Walking or climbing the stairs"
+              ]
+            },
+            "title": "Type of disability"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F ",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Population with disabilities by type of disability, age and sex"
+    },
+    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -1328,6 +1993,81 @@
         ]
       },
       "title": "Natural growth rate"
+    },
+    {
+      "path": "2-3-1/data.csv",
+      "name": "2-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bosnian-Podrinje Canton",
+                "Canton 10",
+                "Central Bosnia Canton",
+                "Federation of Bosnia and Herzegovina",
+                "Herzegovina-Neretva Canton",
+                "Posavina Canton",
+                "Sarajevo Canton",
+                "Tuzla Canton",
+                "Una-Sana Canton",
+                "West Herzegovina Canton",
+                "Zenica-Doboj Canton"
+              ]
+            },
+            "title": "Administrative Area"
+          },
+          {
+            "name": "LITERACY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "iliterate",
+                "Literate",
+                "Unknown"
+              ]
+            },
+            "title": "Literacy"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Population over 10 years of age by literacy and sex"
     },
     {
       "path": "1-4-2/data.csv",
@@ -1470,6 +2210,73 @@
       "title": "Marriage rate"
     },
     {
+      "path": "2-1-5/data.csv",
+      "name": "2-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bosnian-Podrinje Canton",
+                "Canton 10",
+                "Central Bosnia Canton",
+                "Federation of Bosnia and Herzegovina",
+                "Herzegovina-Neretva Canton",
+                "Posavina Canton",
+                "Sarajevo Canton",
+                "Tuzla Canton",
+                "Una-Sana Canton",
+                "West Herzegovina Canton",
+                "Zenica-Doboj Canton"
+              ]
+            },
+            "title": "Administrative Area"
+          },
+          {
+            "name": "No_of_births",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5+",
+                "Total",
+                "Did not give birth"
+              ]
+            },
+            "title": "Number of children"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Female population aged 15 years and over by number of live-born children"
+    },
+    {
       "path": "1-2-2/data.csv",
       "name": "1-2-2",
       "profile": "tabular-data-resource",
@@ -1575,6 +2382,167 @@
         ]
       },
       "title": "Projected population by age groups and sex"
+    },
+    {
+      "path": "2-1-1/data.csv",
+      "name": "2-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0",
+                "1",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "2",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24",
+                "25",
+                "26",
+                "27",
+                "28",
+                "29",
+                "3",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "38",
+                "39",
+                "4",
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45",
+                "46",
+                "47",
+                "48",
+                "49",
+                "5",
+                "50",
+                "51",
+                "52",
+                "53",
+                "54",
+                "55",
+                "56",
+                "57",
+                "58",
+                "59",
+                "6",
+                "60",
+                "61",
+                "62",
+                "63",
+                "64",
+                "65",
+                "66",
+                "67",
+                "68",
+                "69",
+                "7",
+                "70",
+                "71",
+                "72",
+                "73",
+                "74",
+                "75",
+                "76",
+                "77",
+                "78",
+                "79",
+                "8",
+                "80",
+                "81",
+                "82",
+                "83",
+                "84",
+                "85 i više",
+                "85+",
+                "9",
+                "Total"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bosnian-Podrinje Canton",
+                "Canton 10",
+                "Central Bosnia Canton",
+                "Federation of Bosnia and Herzegovina",
+                "Herzegovina-Neretva Canton",
+                "Posavina Canton",
+                "Sarajevo Canton",
+                "Tuzla Canton",
+                "Una-Sana Canton",
+                "West Herzegovina Canton",
+                "Zenica-Doboj Canton"
+              ]
+            },
+            "title": "Administrative Area"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Population by age and sex"
     },
     {
       "path": "1-6-3/data.csv",
@@ -1969,30 +2937,6 @@
         ]
       },
       "title": "Teachers in primary schools by sex"
-    },
-    {
-      "path": "2-3-2/data.csv",
-      "name": "2-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population over 15 years of age by educational attainment and sex"
     },
     {
       "path": "5-7-1/data.csv",
@@ -2571,30 +3515,6 @@
       "title": "Children at the beginning of school year by sex (primary school)"
     },
     {
-      "path": "2-2-2/data.csv",
-      "name": "2-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Households by agricultural activity"
-    },
-    {
       "path": "6-1-2/data.csv",
       "name": "6-1-2",
       "profile": "tabular-data-resource",
@@ -2617,30 +3537,6 @@
         ]
       },
       "title": "Gross Domestic Product (GDP) - Per capita"
-    },
-    {
-      "path": "2-1-4/data.csv",
-      "name": "2-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population pyramid"
     },
     {
       "path": "3-5-1/data.csv",
@@ -2763,30 +3659,6 @@
       "title": "Physicians employed in health care institutions by sex"
     },
     {
-      "path": "2-1-2/data.csv",
-      "name": "2-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population by age groups and sex"
-    },
-    {
       "path": "3-6-2/data.csv",
       "name": "3-6-2",
       "profile": "tabular-data-resource",
@@ -2835,30 +3707,6 @@
       "title": "Labour force participation rate - percentage of active population (labour force) in working age population by age group and sex"
     },
     {
-      "path": "2-1-5/data.csv",
-      "name": "2-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Female population aged 15 years and over by number of live-born children"
-    },
-    {
       "path": "5-4-2/data.csv",
       "name": "5-4-2",
       "profile": "tabular-data-resource",
@@ -2905,30 +3753,6 @@
         ]
       },
       "title": "Children in preschool institutions by sex"
-    },
-    {
-      "path": "2-1-1/data.csv",
-      "name": "2-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population by age and sex"
     },
     {
       "path": "5-3-3/data.csv",
@@ -3001,30 +3825,6 @@
         ]
       },
       "title": "Infant (up to 12 months of age) mortality rate"
-    },
-    {
-      "path": "2-3-1/data.csv",
-      "name": "2-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population over 10 years of age by literacy and sex"
     },
     {
       "path": "5-3-1/data.csv",
@@ -3291,30 +4091,6 @@
       "title": "Students graduated in master and special studies by type of education"
     },
     {
-      "path": "2-1-6/data.csv",
-      "name": "2-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Dependency ratios by sex"
-    },
-    {
       "path": "3-2-1/data.csv",
       "name": "3-2-1",
       "profile": "tabular-data-resource",
@@ -3507,30 +4283,6 @@
       "title": "Nurses employed in health care institutions"
     },
     {
-      "path": "2-4-1/data.csv",
-      "name": "2-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population with disabilities by type of disability, age and sex"
-    },
-    {
       "path": "7-1-3/data.csv",
       "name": "7-1-3",
       "profile": "tabular-data-resource",
@@ -3553,54 +4305,6 @@
         ]
       },
       "title": "Unemployment rate - percentage of unemployed population in active population (labour force) by age group and sex"
-    },
-    {
-      "path": "2-1-3/data.csv",
-      "name": "2-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Population by municipality, age groups and sex"
-    },
-    {
-      "path": "2-2-1/data.csv",
-      "name": "2-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Households by number of members"
     },
     {
       "path": "3-6-4/data.csv",

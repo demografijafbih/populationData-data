@@ -1,1 +1,628 @@
-Year,Value
+Year,UNIT_MEASURE,Starosna dob,Spol,Administrativna oblast,Value
+2013,Broj,Ukupno,Oba spola,Federacija Bosne i Hercegovine,2219220
+2013,Broj,0-4,Oba spola,Federacija Bosne i Hercegovine,114843
+2013,Broj, 5-9,Oba spola,Federacija Bosne i Hercegovine,116052
+2013,Broj, 10-14,Oba spola,Federacija Bosne i Hercegovine,126053
+2013,Broj, 15-19,Oba spola,Federacija Bosne i Hercegovine,161881
+2013,Broj, 20-24,Oba spola,Federacija Bosne i Hercegovine,150902
+2013,Broj, 25-29,Oba spola,Federacija Bosne i Hercegovine,164203
+2013,Broj, 30-34,Oba spola,Federacija Bosne i Hercegovine,160988
+2013,Broj, 35-39,Oba spola,Federacija Bosne i Hercegovine,157715
+2013,Broj,40-44,Oba spola,Federacija Bosne i Hercegovine,154830
+2013,Broj, 45-49,Oba spola,Federacija Bosne i Hercegovine,167109
+2013,Broj, 50-54,Oba spola,Federacija Bosne i Hercegovine,173996
+2013,Broj, 55-59,Oba spola,Federacija Bosne i Hercegovine,156089
+2013,Broj, 60-64,Oba spola,Federacija Bosne i Hercegovine,128613
+2013,Broj, 65-69,Oba spola,Federacija Bosne i Hercegovine,88391
+2013,Broj, 70-74,Oba spola,Federacija Bosne i Hercegovine,81023
+2013,Broj, 75-79,Oba spola,Federacija Bosne i Hercegovine,65613
+2013,Broj, 80-84,Oba spola,Federacija Bosne i Hercegovine,35227
+2013,Broj,85+,Oba spola,Federacija Bosne i Hercegovine,15692
+2013,Broj,Ukupno,Oba spola,Unsko-sanska županija,273261
+2013,Broj,0-4,Oba spola,Unsko-sanska županija,14805
+2013,Broj, 5-9,Oba spola,Unsko-sanska županija,15777
+2013,Broj, 10-14,Oba spola,Unsko-sanska županija,17450
+2013,Broj, 15-19,Oba spola,Unsko-sanska županija,21328
+2013,Broj, 20-24,Oba spola,Unsko-sanska županija,19541
+2013,Broj, 25-29,Oba spola,Unsko-sanska županija,20912
+2013,Broj, 30-34,Oba spola,Unsko-sanska županija,20676
+2013,Broj, 35-39,Oba spola,Unsko-sanska županija,21564
+2013,Broj,40-44,Oba spola,Unsko-sanska županija,20687
+2013,Broj, 45-49,Oba spola,Unsko-sanska županija,20701
+2013,Broj, 50-54,Oba spola,Unsko-sanska županija,20224
+2013,Broj, 55-59,Oba spola,Unsko-sanska županija,16989
+2013,Broj, 60-64,Oba spola,Unsko-sanska županija,13344
+2013,Broj, 65-69,Oba spola,Unsko-sanska županija,9626
+2013,Broj, 70-74,Oba spola,Unsko-sanska županija,8824
+2013,Broj, 75-79,Oba spola,Unsko-sanska županija,6527
+2013,Broj, 80-84,Oba spola,Unsko-sanska županija,3067
+2013,Broj,85+,Oba spola,Unsko-sanska županija,1219
+2013,Broj,Ukupno,Oba spola,Posavska županija,43453
+2013,Broj,0-4,Oba spola,Posavska županija,1582
+2013,Broj, 5-9,Oba spola,Posavska županija,1987
+2013,Broj, 10-14,Oba spola,Posavska županija,2466
+2013,Broj, 15-19,Oba spola,Posavska županija,3016
+2013,Broj, 20-24,Oba spola,Posavska županija,2841
+2013,Broj, 25-29,Oba spola,Posavska županija,2823
+2013,Broj, 30-34,Oba spola,Posavska županija,2680
+2013,Broj, 35-39,Oba spola,Posavska županija,3058
+2013,Broj,40-44,Oba spola,Posavska županija,3579
+2013,Broj, 45-49,Oba spola,Posavska županija,4072
+2013,Broj, 50-54,Oba spola,Posavska županija,3535
+2013,Broj, 55-59,Oba spola,Posavska županija,2797
+2013,Broj, 60-64,Oba spola,Posavska županija,2498
+2013,Broj, 65-69,Oba spola,Posavska županija,2138
+2013,Broj, 70-74,Oba spola,Posavska županija,1934
+2013,Broj, 75-79,Oba spola,Posavska županija,1486
+2013,Broj, 80-84,Oba spola,Posavska županija,716
+2013,Broj,85+,Oba spola,Posavska županija,245
+2013,Broj,Ukupno,Oba spola,Tuzlanska županija,445028
+2013,Broj,0-4,Oba spola,Tuzlanska županija,23047
+2013,Broj, 5-9,Oba spola,Tuzlanska županija,22730
+2013,Broj, 10-14,Oba spola,Tuzlanska županija,24027
+2013,Broj, 15-19,Oba spola,Tuzlanska županija,32263
+2013,Broj, 20-24,Oba spola,Tuzlanska županija,31620
+2013,Broj, 25-29,Oba spola,Tuzlanska županija,33046
+2013,Broj, 30-34,Oba spola,Tuzlanska županija,31480
+2013,Broj, 35-39,Oba spola,Tuzlanska županija,31195
+2013,Broj,40-44,Oba spola,Tuzlanska županija,31469
+2013,Broj, 45-49,Oba spola,Tuzlanska županija,34576
+2013,Broj, 50-54,Oba spola,Tuzlanska županija,37032
+2013,Broj, 55-59,Oba spola,Tuzlanska županija,31967
+2013,Broj, 60-64,Oba spola,Tuzlanska županija,26735
+2013,Broj, 65-69,Oba spola,Tuzlanska županija,18379
+2013,Broj, 70-74,Oba spola,Tuzlanska županija,15237
+2013,Broj, 75-79,Oba spola,Tuzlanska županija,11738
+2013,Broj, 80-84,Oba spola,Tuzlanska županija,6071
+2013,Broj,85+,Oba spola,Tuzlanska županija,2416
+2013,Broj,Ukupno,Oba spola,Zeničko-dobojska županija,364433
+2013,Broj,0-4,Oba spola,Zeničko-dobojska županija,19906
+2013,Broj, 5-9,Oba spola,Zeničko-dobojska županija,19610
+2013,Broj, 10-14,Oba spola,Zeničko-dobojska županija,20927
+2013,Broj, 15-19,Oba spola,Zeničko-dobojska županija,27674
+2013,Broj, 20-24,Oba spola,Zeničko-dobojska županija,25340
+2013,Broj, 25-29,Oba spola,Zeničko-dobojska županija,27092
+2013,Broj, 30-34,Oba spola,Zeničko-dobojska županija,26050
+2013,Broj, 35-39,Oba spola,Zeničko-dobojska županija,25766
+2013,Broj,40-44,Oba spola,Zeničko-dobojska županija,25290
+2013,Broj, 45-49,Oba spola,Zeničko-dobojska županija,27980
+2013,Broj, 50-54,Oba spola,Zeničko-dobojska županija,29498
+2013,Broj, 55-59,Oba spola,Zeničko-dobojska županija,26069
+2013,Broj, 60-64,Oba spola,Zeničko-dobojska županija,21251
+2013,Broj, 65-69,Oba spola,Zeničko-dobojska županija,14217
+2013,Broj, 70-74,Oba spola,Zeničko-dobojska županija,12208
+2013,Broj, 75-79,Oba spola,Zeničko-dobojska županija,9237
+2013,Broj, 80-84,Oba spola,Zeničko-dobojska županija,4593
+2013,Broj,85+,Oba spola,Zeničko-dobojska županija,1725
+2013,Broj,Ukupno,Oba spola,Bosansko-podrinjska županija,23734
+2013,Broj,0-4,Oba spola,Bosansko-podrinjska županija,1098
+2013,Broj, 5-9,Oba spola,Bosansko-podrinjska županija,958
+2013,Broj, 10-14,Oba spola,Bosansko-podrinjska županija,1230
+2013,Broj, 15-19,Oba spola,Bosansko-podrinjska županija,1738
+2013,Broj, 20-24,Oba spola,Bosansko-podrinjska županija,1437
+2013,Broj, 25-29,Oba spola,Bosansko-podrinjska županija,1602
+2013,Broj, 30-34,Oba spola,Bosansko-podrinjska županija,1623
+2013,Broj, 35-39,Oba spola,Bosansko-podrinjska županija,1455
+2013,Broj,40-44,Oba spola,Bosansko-podrinjska županija,1403
+2013,Broj, 45-49,Oba spola,Bosansko-podrinjska županija,1706
+2013,Broj, 50-54,Oba spola,Bosansko-podrinjska županija,1914
+2013,Broj, 55-59,Oba spola,Bosansko-podrinjska županija,2028
+2013,Broj, 60-64,Oba spola,Bosansko-podrinjska županija,1677
+2013,Broj, 65-69,Oba spola,Bosansko-podrinjska županija,1071
+2013,Broj, 70-74,Oba spola,Bosansko-podrinjska županija,1042
+2013,Broj, 75-79,Oba spola,Bosansko-podrinjska županija,1021
+2013,Broj, 80-84,Oba spola,Bosansko-podrinjska županija,511
+2013,Broj,85+,Oba spola,Bosansko-podrinjska županija,220
+2013,Broj,Ukupno,Oba spola,Srednjobosanska županija,254686
+2013,Broj,0-4,Oba spola,Srednjobosanska županija,12979
+2013,Broj, 5-9,Oba spola,Srednjobosanska županija,14291
+2013,Broj, 10-14,Oba spola,Srednjobosanska županija,15930
+2013,Broj, 15-19,Oba spola,Srednjobosanska županija,19819
+2013,Broj, 20-24,Oba spola,Srednjobosanska županija,17764
+2013,Broj, 25-29,Oba spola,Srednjobosanska županija,19067
+2013,Broj, 30-34,Oba spola,Srednjobosanska županija,18487
+2013,Broj, 35-39,Oba spola,Srednjobosanska županija,18371
+2013,Broj,40-44,Oba spola,Srednjobosanska županija,18285
+2013,Broj, 45-49,Oba spola,Srednjobosanska županija,19430
+2013,Broj, 50-54,Oba spola,Srednjobosanska županija,19854
+2013,Broj, 55-59,Oba spola,Srednjobosanska županija,17535
+2013,Broj, 60-64,Oba spola,Srednjobosanska županija,13788
+2013,Broj, 65-69,Oba spola,Srednjobosanska županija,9151
+2013,Broj, 70-74,Oba spola,Srednjobosanska županija,8847
+2013,Broj, 75-79,Oba spola,Srednjobosanska županija,6561
+2013,Broj, 80-84,Oba spola,Srednjobosanska županija,3264
+2013,Broj,85+,Oba spola,Srednjobosanska županija,1263
+2013,Broj,Ukupno,Oba spola,Hercegovačko-neretvanska županija,222007
+2013,Broj,0-4,Oba spola,Hercegovačko-neretvanska županija,10717
+2013,Broj, 5-9,Oba spola,Hercegovačko-neretvanska županija,10866
+2013,Broj, 10-14,Oba spola,Hercegovačko-neretvanska županija,12576
+2013,Broj, 15-19,Oba spola,Hercegovačko-neretvanska županija,16497
+2013,Broj, 20-24,Oba spola,Hercegovačko-neretvanska županija,14626
+2013,Broj, 25-29,Oba spola,Hercegovačko-neretvanska županija,15752
+2013,Broj, 30-34,Oba spola,Hercegovačko-neretvanska županija,15188
+2013,Broj, 35-39,Oba spola,Hercegovačko-neretvanska županija,14551
+2013,Broj,40-44,Oba spola,Hercegovačko-neretvanska županija,14619
+2013,Broj, 45-49,Oba spola,Hercegovačko-neretvanska županija,16426
+2013,Broj, 50-54,Oba spola,Hercegovačko-neretvanska županija,17397
+2013,Broj, 55-59,Oba spola,Hercegovačko-neretvanska županija,15819
+2013,Broj, 60-64,Oba spola,Hercegovačko-neretvanska županija,12748
+2013,Broj, 65-69,Oba spola,Hercegovačko-neretvanska županija,8805
+2013,Broj, 70-74,Oba spola,Hercegovačko-neretvanska županija,9454
+2013,Broj, 75-79,Oba spola,Hercegovačko-neretvanska županija,8323
+2013,Broj, 80-84,Oba spola,Hercegovačko-neretvanska županija,5051
+2013,Broj,85+,Oba spola,Hercegovačko-neretvanska županija,2592
+2013,Broj,Ukupno,Oba spola,Zapadno-hercegovačka županija,94898
+2013,Broj,0-4,Oba spola,Zapadno-hercegovačka županija,5017
+2013,Broj, 5-9,Oba spola,Zapadno-hercegovačka županija,5519
+2013,Broj, 10-14,Oba spola,Zapadno-hercegovačka županija,6316
+2013,Broj, 15-19,Oba spola,Zapadno-hercegovačka županija,7379
+2013,Broj, 20-24,Oba spola,Zapadno-hercegovačka županija,6886
+2013,Broj, 25-29,Oba spola,Zapadno-hercegovačka županija,6575
+2013,Broj, 30-34,Oba spola,Zapadno-hercegovačka županija,5795
+2013,Broj, 35-39,Oba spola,Zapadno-hercegovačka županija,6013
+2013,Broj,40-44,Oba spola,Zapadno-hercegovačka županija,6517
+2013,Broj, 45-49,Oba spola,Zapadno-hercegovačka županija,7179
+2013,Broj, 50-54,Oba spola,Zapadno-hercegovačka županija,6999
+2013,Broj, 55-59,Oba spola,Zapadno-hercegovačka županija,5838
+2013,Broj, 60-64,Oba spola,Zapadno-hercegovačka županija,4357
+2013,Broj, 65-69,Oba spola,Zapadno-hercegovačka županija,3394
+2013,Broj, 70-74,Oba spola,Zapadno-hercegovačka županija,3928
+2013,Broj, 75-79,Oba spola,Zapadno-hercegovačka županija,3466
+2013,Broj, 80-84,Oba spola,Zapadno-hercegovačka županija,2275
+2013,Broj,85+,Oba spola,Zapadno-hercegovačka županija,1445
+2013,Broj,Ukupno,Oba spola,Sarajevska županija,413593
+2013,Broj,0-4,Oba spola,Sarajevska županija,22280
+2013,Broj, 5-9,Oba spola,Sarajevska županija,20434
+2013,Broj, 10-14,Oba spola,Sarajevska županija,20546
+2013,Broj, 15-19,Oba spola,Sarajevska županija,26388
+2013,Broj, 20-24,Oba spola,Sarajevska županija,25484
+2013,Broj, 25-29,Oba spola,Sarajevska županija,31933
+2013,Broj, 30-34,Oba spola,Sarajevska županija,33628
+2013,Broj, 35-39,Oba spola,Sarajevska županija,30097
+2013,Broj,40-44,Oba spola,Sarajevska županija,26828
+2013,Broj, 45-49,Oba spola,Sarajevska županija,28776
+2013,Broj, 50-54,Oba spola,Sarajevska županija,31191
+2013,Broj, 55-59,Oba spola,Sarajevska županija,31115
+2013,Broj, 60-64,Oba spola,Sarajevska županija,27127
+2013,Broj, 65-69,Oba spola,Sarajevska županija,17662
+2013,Broj, 70-74,Oba spola,Sarajevska županija,15468
+2013,Broj, 75-79,Oba spola,Sarajevska županija,13717
+2013,Broj, 80-84,Oba spola,Sarajevska županija,7483
+2013,Broj,85+,Oba spola,Sarajevska županija,3436
+2013,Broj,Ukupno,Oba spola,Županija 10,84127
+2013,Broj,0-4,Oba spola,Županija 10,3412
+2013,Broj, 5-9,Oba spola,Županija 10,3880
+2013,Broj, 10-14,Oba spola,Županija 10,4585
+2013,Broj, 15-19,Oba spola,Županija 10,5779
+2013,Broj, 20-24,Oba spola,Županija 10,5363
+2013,Broj, 25-29,Oba spola,Županija 10,5401
+2013,Broj, 30-34,Oba spola,Županija 10,5381
+2013,Broj, 35-39,Oba spola,Županija 10,5645
+2013,Broj,40-44,Oba spola,Županija 10,6153
+2013,Broj, 45-49,Oba spola,Županija 10,6263
+2013,Broj, 50-54,Oba spola,Županija 10,6352
+2013,Broj, 55-59,Oba spola,Županija 10,5932
+2013,Broj, 60-64,Oba spola,Županija 10,5088
+2013,Broj, 65-69,Oba spola,Županija 10,3948
+2013,Broj, 70-74,Oba spola,Županija 10,4081
+2013,Broj, 75-79,Oba spola,Županija 10,3537
+2013,Broj, 80-84,Oba spola,Županija 10,2196
+2013,Broj,85+,Oba spola,Županija 10,1131
+2013,Broj,Ukupno,M,Federacija Bosne i Hercegovine,1087993
+2013,Broj,0-4,M,Federacija Bosne i Hercegovine,59017
+2013,Broj, 5-9,M,Federacija Bosne i Hercegovine,59633
+2013,Broj, 10-14,M,Federacija Bosne i Hercegovine,64493
+2013,Broj, 15-19,M,Federacija Bosne i Hercegovine,83298
+2013,Broj, 20-24,M,Federacija Bosne i Hercegovine,77103
+2013,Broj, 25-29,M,Federacija Bosne i Hercegovine,84119
+2013,Broj, 30-34,M,Federacija Bosne i Hercegovine,81932
+2013,Broj, 35-39,M,Federacija Bosne i Hercegovine,78939
+2013,Broj,40-44,M,Federacija Bosne i Hercegovine,77122
+2013,Broj, 45-49,M,Federacija Bosne i Hercegovine,82594
+2013,Broj, 50-54,M,Federacija Bosne i Hercegovine,85303
+2013,Broj, 55-59,M,Federacija Bosne i Hercegovine,75568
+2013,Broj, 60-64,M,Federacija Bosne i Hercegovine,59899
+2013,Broj, 65-69,M,Federacija Bosne i Hercegovine,39438
+2013,Broj, 70-74,M,Federacija Bosne i Hercegovine,34445
+2013,Broj, 75-79,M,Federacija Bosne i Hercegovine,26695
+2013,Broj, 80-84,M,Federacija Bosne i Hercegovine,13493
+2013,Broj,85+,M,Federacija Bosne i Hercegovine,4902
+2013,Broj,Ukupno,M,Unsko-sanska županija,135304
+2013,Broj,0-4,M,Unsko-sanska županija,7629
+2013,Broj, 5-9,M,Unsko-sanska županija,8062
+2013,Broj, 10-14,M,Unsko-sanska županija,8902
+2013,Broj, 15-19,M,Unsko-sanska županija,11007
+2013,Broj, 20-24,M,Unsko-sanska županija,10030
+2013,Broj, 25-29,M,Unsko-sanska županija,10851
+2013,Broj, 30-34,M,Unsko-sanska županija,10676
+2013,Broj, 35-39,M,Unsko-sanska županija,10867
+2013,Broj,40-44,M,Unsko-sanska županija,10236
+2013,Broj, 45-49,M,Unsko-sanska županija,10261
+2013,Broj, 50-54,M,Unsko-sanska županija,9978
+2013,Broj, 55-59,M,Unsko-sanska županija,8241
+2013,Broj, 60-64,M,Unsko-sanska županija,6329
+2013,Broj, 65-69,M,Unsko-sanska županija,4351
+2013,Broj, 70-74,M,Unsko-sanska županija,3767
+2013,Broj, 75-79,M,Unsko-sanska županija,2604
+2013,Broj, 80-84,M,Unsko-sanska županija,1126
+2013,Broj,85+,M,Unsko-sanska županija,387
+2013,Broj,Ukupno,M,Posavska županija,21805
+2013,Broj,0-4,M,Posavska županija,802
+2013,Broj, 5-9,M,Posavska županija,1024
+2013,Broj, 10-14,M,Posavska županija,1323
+2013,Broj, 15-19,M,Posavska županija,1560
+2013,Broj, 20-24,M,Posavska županija,1509
+2013,Broj, 25-29,M,Posavska županija,1473
+2013,Broj, 30-34,M,Posavska županija,1369
+2013,Broj, 35-39,M,Posavska županija,1544
+2013,Broj,40-44,M,Posavska županija,1877
+2013,Broj, 45-49,M,Posavska županija,2195
+2013,Broj, 50-54,M,Posavska županija,1868
+2013,Broj, 55-59,M,Posavska županija,1443
+2013,Broj, 60-64,M,Posavska županija,1178
+2013,Broj, 65-69,M,Posavska županija,965
+2013,Broj, 70-74,M,Posavska županija,832
+2013,Broj, 75-79,M,Posavska županija,535
+2013,Broj, 80-84,M,Posavska županija,250
+2013,Broj,85+,M,Posavska županija,58
+2013,Broj,Ukupno,M,Tuzlanska županija,217388
+2013,Broj,0-4,M,Tuzlanska županija,11848
+2013,Broj, 5-9,M,Tuzlanska županija,11715
+2013,Broj, 10-14,M,Tuzlanska županija,12290
+2013,Broj, 15-19,M,Tuzlanska županija,16556
+2013,Broj, 20-24,M,Tuzlanska županija,16209
+2013,Broj, 25-29,M,Tuzlanska županija,16947
+2013,Broj, 30-34,M,Tuzlanska županija,15950
+2013,Broj, 35-39,M,Tuzlanska županija,15374
+2013,Broj,40-44,M,Tuzlanska županija,15535
+2013,Broj, 45-49,M,Tuzlanska županija,16715
+2013,Broj, 50-54,M,Tuzlanska županija,17905
+2013,Broj, 55-59,M,Tuzlanska županija,15310
+2013,Broj, 60-64,M,Tuzlanska županija,12416
+2013,Broj, 65-69,M,Tuzlanska županija,8194
+2013,Broj, 70-74,M,Tuzlanska županija,6519
+2013,Broj, 75-79,M,Tuzlanska županija,4763
+2013,Broj, 80-84,M,Tuzlanska županija,2345
+2013,Broj,85+,M,Tuzlanska županija,797
+2013,Broj,Ukupno,M,Zeničko-dobojska županija,180780
+2013,Broj,0-4,M,Zeničko-dobojska županija,10265
+2013,Broj, 5-9,M,Zeničko-dobojska županija,10010
+2013,Broj, 10-14,M,Zeničko-dobojska županija,10668
+2013,Broj, 15-19,M,Zeničko-dobojska županija,14352
+2013,Broj, 20-24,M,Zeničko-dobojska županija,12872
+2013,Broj, 25-29,M,Zeničko-dobojska županija,13981
+2013,Broj, 30-34,M,Zeničko-dobojska županija,13592
+2013,Broj, 35-39,M,Zeničko-dobojska županija,13134
+2013,Broj,40-44,M,Zeničko-dobojska županija,12655
+2013,Broj, 45-49,M,Zeničko-dobojska županija,13872
+2013,Broj, 50-54,M,Zeničko-dobojska županija,14553
+2013,Broj, 55-59,M,Zeničko-dobojska županija,12699
+2013,Broj, 60-64,M,Zeničko-dobojska županija,10075
+2013,Broj, 65-69,M,Zeničko-dobojska županija,6460
+2013,Broj, 70-74,M,Zeničko-dobojska županija,5267
+2013,Broj, 75-79,M,Zeničko-dobojska županija,3869
+2013,Broj, 80-84,M,Zeničko-dobojska županija,1851
+2013,Broj,85+,M,Zeničko-dobojska županija,605
+2013,Broj,Ukupno,M,Bosansko-podrinjska županija,11617
+2013,Broj,0-4,M,Bosansko-podrinjska županija,581
+2013,Broj, 5-9,M,Bosansko-podrinjska županija,520
+2013,Broj, 10-14,M,Bosansko-podrinjska županija,635
+2013,Broj, 15-19,M,Bosansko-podrinjska županija,897
+2013,Broj, 20-24,M,Bosansko-podrinjska županija,749
+2013,Broj, 25-29,M,Bosansko-podrinjska županija,839
+2013,Broj, 30-34,M,Bosansko-podrinjska županija,843
+2013,Broj, 35-39,M,Bosansko-podrinjska županija,738
+2013,Broj,40-44,M,Bosansko-podrinjska županija,700
+2013,Broj, 45-49,M,Bosansko-podrinjska županija,838
+2013,Broj, 50-54,M,Bosansko-podrinjska županija,939
+2013,Broj, 55-59,M,Bosansko-podrinjska županija,969
+2013,Broj, 60-64,M,Bosansko-podrinjska županija,752
+2013,Broj, 65-69,M,Bosansko-podrinjska županija,446
+2013,Broj, 70-74,M,Bosansko-podrinjska županija,443
+2013,Broj, 75-79,M,Bosansko-podrinjska županija,429
+2013,Broj, 80-84,M,Bosansko-podrinjska županija,225
+2013,Broj,85+,M,Bosansko-podrinjska županija,74
+2013,Broj,Ukupno,M,Srednjobosanska županija,127266
+2013,Broj,0-4,M,Srednjobosanska županija,6724
+2013,Broj, 5-9,M,Srednjobosanska županija,7358
+2013,Broj, 10-14,M,Srednjobosanska županija,8167
+2013,Broj, 15-19,M,Srednjobosanska županija,10172
+2013,Broj, 20-24,M,Srednjobosanska županija,9168
+2013,Broj, 25-29,M,Srednjobosanska županija,10118
+2013,Broj, 30-34,M,Srednjobosanska županija,9717
+2013,Broj, 35-39,M,Srednjobosanska županija,9480
+2013,Broj,40-44,M,Srednjobosanska županija,9424
+2013,Broj, 45-49,M,Srednjobosanska županija,9761
+2013,Broj, 50-54,M,Srednjobosanska županija,9778
+2013,Broj, 55-59,M,Srednjobosanska županija,8565
+2013,Broj, 60-64,M,Srednjobosanska županija,6485
+2013,Broj, 65-69,M,Srednjobosanska županija,4104
+2013,Broj, 70-74,M,Srednjobosanska županija,3712
+2013,Broj, 75-79,M,Srednjobosanska županija,2809
+2013,Broj, 80-84,M,Srednjobosanska županija,1300
+2013,Broj,85+,M,Srednjobosanska županija,424
+2013,Broj,Ukupno,M,Hercegovačko-neretvanska županija,109018
+2013,Broj,0-4,M,Hercegovačko-neretvanska županija,5448
+2013,Broj, 5-9,M,Hercegovačko-neretvanska županija,5571
+2013,Broj, 10-14,M,Hercegovačko-neretvanska županija,6370
+2013,Broj, 15-19,M,Hercegovačko-neretvanska županija,8565
+2013,Broj, 20-24,M,Hercegovačko-neretvanska županija,7456
+2013,Broj, 25-29,M,Hercegovačko-neretvanska županija,8141
+2013,Broj, 30-34,M,Hercegovačko-neretvanska županija,7856
+2013,Broj, 35-39,M,Hercegovačko-neretvanska županija,7391
+2013,Broj,40-44,M,Hercegovačko-neretvanska županija,7436
+2013,Broj, 45-49,M,Hercegovačko-neretvanska županija,8303
+2013,Broj, 50-54,M,Hercegovačko-neretvanska županija,8611
+2013,Broj, 55-59,M,Hercegovačko-neretvanska županija,7907
+2013,Broj, 60-64,M,Hercegovačko-neretvanska županija,5983
+2013,Broj, 65-69,M,Hercegovačko-neretvanska županija,3888
+2013,Broj, 70-74,M,Hercegovačko-neretvanska županija,4005
+2013,Broj, 75-79,M,Hercegovačko-neretvanska županija,3437
+2013,Broj, 80-84,M,Hercegovačko-neretvanska županija,1927
+2013,Broj,85+,M,Hercegovačko-neretvanska županija,723
+2013,Broj,Ukupno,M,Zapadno-hercegovačka županija,47311
+2013,Broj,0-4,M,Zapadno-hercegovačka županija,2595
+2013,Broj, 5-9,M,Zapadno-hercegovačka županija,2863
+2013,Broj, 10-14,M,Zapadno-hercegovačka županija,3176
+2013,Broj, 15-19,M,Zapadno-hercegovačka županija,3779
+2013,Broj, 20-24,M,Zapadno-hercegovačka županija,3491
+2013,Broj, 25-29,M,Zapadno-hercegovačka županija,3340
+2013,Broj, 30-34,M,Zapadno-hercegovačka županija,2920
+2013,Broj, 35-39,M,Zapadno-hercegovačka županija,2989
+2013,Broj,40-44,M,Zapadno-hercegovačka županija,3316
+2013,Broj, 45-49,M,Zapadno-hercegovačka županija,3775
+2013,Broj, 50-54,M,Zapadno-hercegovačka županija,3761
+2013,Broj, 55-59,M,Zapadno-hercegovačka županija,3123
+2013,Broj, 60-64,M,Zapadno-hercegovačka županija,2197
+2013,Broj, 65-69,M,Zapadno-hercegovačka županija,1681
+2013,Broj, 70-74,M,Zapadno-hercegovačka županija,1761
+2013,Broj, 75-79,M,Zapadno-hercegovačka županija,1356
+2013,Broj, 80-84,M,Zapadno-hercegovačka županija,854
+2013,Broj,85+,M,Zapadno-hercegovačka županija,334
+2013,Broj,Ukupno,M,Sarajevska županija,195161
+2013,Broj,0-4,M,Sarajevska županija,11376
+2013,Broj, 5-9,M,Sarajevska županija,10480
+2013,Broj, 10-14,M,Sarajevska županija,10607
+2013,Broj, 15-19,M,Sarajevska županija,13496
+2013,Broj, 20-24,M,Sarajevska županija,12845
+2013,Broj, 25-29,M,Sarajevska županija,15536
+2013,Broj, 30-34,M,Sarajevska županija,16189
+2013,Broj, 35-39,M,Sarajevska županija,14472
+2013,Broj,40-44,M,Sarajevska županija,12745
+2013,Broj, 45-49,M,Sarajevska županija,13595
+2013,Broj, 50-54,M,Sarajevska županija,14485
+2013,Broj, 55-59,M,Sarajevska županija,14220
+2013,Broj, 60-64,M,Sarajevska županija,11885
+2013,Broj, 65-69,M,Sarajevska županija,7451
+2013,Broj, 70-74,M,Sarajevska županija,6327
+2013,Broj, 75-79,M,Sarajevska županija,5450
+2013,Broj, 80-84,M,Sarajevska županija,2806
+2013,Broj,85+,M,Sarajevska županija,1196
+2013,Broj,Ukupno,M,Županija 10,42343
+2013,Broj,0-4,M,Županija 10,1749
+2013,Broj, 5-9,M,Županija 10,2030
+2013,Broj, 10-14,M,Županija 10,2355
+2013,Broj, 15-19,M,Županija 10,2914
+2013,Broj, 20-24,M,Županija 10,2774
+2013,Broj, 25-29,M,Županija 10,2893
+2013,Broj, 30-34,M,Županija 10,2820
+2013,Broj, 35-39,M,Županija 10,2950
+2013,Broj,40-44,M,Županija 10,3198
+2013,Broj, 45-49,M,Županija 10,3279
+2013,Broj, 50-54,M,Županija 10,3425
+2013,Broj, 55-59,M,Županija 10,3091
+2013,Broj, 60-64,M,Županija 10,2599
+2013,Broj, 65-69,M,Županija 10,1898
+2013,Broj, 70-74,M,Županija 10,1812
+2013,Broj, 75-79,M,Županija 10,1443
+2013,Broj, 80-84,M,Županija 10,809
+2013,Broj,85+,M,Županija 10,304
+2013,Broj,Ukupno,Ž,Federacija Bosne i Hercegovine,1131227
+2013,Broj,0-4,Ž,Federacija Bosne i Hercegovine,55826
+2013,Broj, 5-9,Ž,Federacija Bosne i Hercegovine,56419
+2013,Broj, 10-14,Ž,Federacija Bosne i Hercegovine,61560
+2013,Broj, 15-19,Ž,Federacija Bosne i Hercegovine,78583
+2013,Broj, 20-24,Ž,Federacija Bosne i Hercegovine,73799
+2013,Broj, 25-29,Ž,Federacija Bosne i Hercegovine,80084
+2013,Broj, 30-34,Ž,Federacija Bosne i Hercegovine,79056
+2013,Broj, 35-39,Ž,Federacija Bosne i Hercegovine,78776
+2013,Broj,40-44,Ž,Federacija Bosne i Hercegovine,77708
+2013,Broj, 45-49,Ž,Federacija Bosne i Hercegovine,84515
+2013,Broj, 50-54,Ž,Federacija Bosne i Hercegovine,88693
+2013,Broj, 55-59,Ž,Federacija Bosne i Hercegovine,80521
+2013,Broj, 60-64,Ž,Federacija Bosne i Hercegovine,68714
+2013,Broj, 65-69,Ž,Federacija Bosne i Hercegovine,48953
+2013,Broj, 70-74,Ž,Federacija Bosne i Hercegovine,46578
+2013,Broj, 75-79,Ž,Federacija Bosne i Hercegovine,38918
+2013,Broj, 80-84,Ž,Federacija Bosne i Hercegovine,21734
+2013,Broj,85+,Ž,Federacija Bosne i Hercegovine,10790
+2013,Broj,Ukupno,Ž,Unsko-sanska županija,137957
+2013,Broj,0-4,Ž,Unsko-sanska županija,7176
+2013,Broj, 5-9,Ž,Unsko-sanska županija,7715
+2013,Broj, 10-14,Ž,Unsko-sanska županija,8548
+2013,Broj, 15-19,Ž,Unsko-sanska županija,10321
+2013,Broj, 20-24,Ž,Unsko-sanska županija,9511
+2013,Broj, 25-29,Ž,Unsko-sanska županija,10061
+2013,Broj, 30-34,Ž,Unsko-sanska županija,10000
+2013,Broj, 35-39,Ž,Unsko-sanska županija,10697
+2013,Broj,40-44,Ž,Unsko-sanska županija,10451
+2013,Broj, 45-49,Ž,Unsko-sanska županija,10440
+2013,Broj, 50-54,Ž,Unsko-sanska županija,10246
+2013,Broj, 55-59,Ž,Unsko-sanska županija,8748
+2013,Broj, 60-64,Ž,Unsko-sanska županija,7015
+2013,Broj, 65-69,Ž,Unsko-sanska županija,5275
+2013,Broj, 70-74,Ž,Unsko-sanska županija,5057
+2013,Broj, 75-79,Ž,Unsko-sanska županija,3923
+2013,Broj, 80-84,Ž,Unsko-sanska županija,1941
+2013,Broj,85+,Ž,Unsko-sanska županija,832
+2013,Broj,Ukupno,Ž,Posavska županija,21648
+2013,Broj,0-4,Ž,Posavska županija,780
+2013,Broj, 5-9,Ž,Posavska županija,963
+2013,Broj, 10-14,Ž,Posavska županija,1143
+2013,Broj, 15-19,Ž,Posavska županija,1456
+2013,Broj, 20-24,Ž,Posavska županija,1332
+2013,Broj, 25-29,Ž,Posavska županija,1350
+2013,Broj, 30-34,Ž,Posavska županija,1311
+2013,Broj, 35-39,Ž,Posavska županija,1514
+2013,Broj,40-44,Ž,Posavska županija,1702
+2013,Broj, 45-49,Ž,Posavska županija,1877
+2013,Broj, 50-54,Ž,Posavska županija,1667
+2013,Broj, 55-59,Ž,Posavska županija,1354
+2013,Broj, 60-64,Ž,Posavska županija,1320
+2013,Broj, 65-69,Ž,Posavska županija,1173
+2013,Broj, 70-74,Ž,Posavska županija,1102
+2013,Broj, 75-79,Ž,Posavska županija,951
+2013,Broj, 80-84,Ž,Posavska županija,466
+2013,Broj,85+,Ž,Posavska županija,187
+2013,Broj,Ukupno,Ž,Tuzlanska županija,227640
+2013,Broj,0-4,Ž,Tuzlanska županija,11199
+2013,Broj, 5-9,Ž,Tuzlanska županija,11015
+2013,Broj, 10-14,Ž,Tuzlanska županija,11737
+2013,Broj, 15-19,Ž,Tuzlanska županija,15707
+2013,Broj, 20-24,Ž,Tuzlanska županija,15411
+2013,Broj, 25-29,Ž,Tuzlanska županija,16099
+2013,Broj, 30-34,Ž,Tuzlanska županija,15530
+2013,Broj, 35-39,Ž,Tuzlanska županija,15821
+2013,Broj,40-44,Ž,Tuzlanska županija,15934
+2013,Broj, 45-49,Ž,Tuzlanska županija,17861
+2013,Broj, 50-54,Ž,Tuzlanska županija,19127
+2013,Broj, 55-59,Ž,Tuzlanska županija,16657
+2013,Broj, 60-64,Ž,Tuzlanska županija,14319
+2013,Broj, 65-69,Ž,Tuzlanska županija,10185
+2013,Broj, 70-74,Ž,Tuzlanska županija,8718
+2013,Broj, 75-79,Ž,Tuzlanska županija,6975
+2013,Broj, 80-84,Ž,Tuzlanska županija,3726
+2013,Broj,85+,Ž,Tuzlanska županija,1619
+2013,Broj,Ukupno,Ž,Zeničko-dobojska županija,183653
+2013,Broj,0-4,Ž,Zeničko-dobojska županija,9641
+2013,Broj, 5-9,Ž,Zeničko-dobojska županija,9600
+2013,Broj, 10-14,Ž,Zeničko-dobojska županija,10259
+2013,Broj, 15-19,Ž,Zeničko-dobojska županija,13322
+2013,Broj, 20-24,Ž,Zeničko-dobojska županija,12468
+2013,Broj, 25-29,Ž,Zeničko-dobojska županija,13111
+2013,Broj, 30-34,Ž,Zeničko-dobojska županija,12458
+2013,Broj, 35-39,Ž,Zeničko-dobojska županija,12632
+2013,Broj,40-44,Ž,Zeničko-dobojska županija,12635
+2013,Broj, 45-49,Ž,Zeničko-dobojska županija,14108
+2013,Broj, 50-54,Ž,Zeničko-dobojska županija,14945
+2013,Broj, 55-59,Ž,Zeničko-dobojska županija,13370
+2013,Broj, 60-64,Ž,Zeničko-dobojska županija,11176
+2013,Broj, 65-69,Ž,Zeničko-dobojska županija,7757
+2013,Broj, 70-74,Ž,Zeničko-dobojska županija,6941
+2013,Broj, 75-79,Ž,Zeničko-dobojska županija,5368
+2013,Broj, 80-84,Ž,Zeničko-dobojska županija,2742
+2013,Broj,85+,Ž,Zeničko-dobojska županija,1120
+2013,Broj,Ukupno,Ž,Bosansko-podrinjska županija,12117
+2013,Broj,0-4,Ž,Bosansko-podrinjska županija,517
+2013,Broj, 5-9,Ž,Bosansko-podrinjska županija,438
+2013,Broj, 10-14,Ž,Bosansko-podrinjska županija,595
+2013,Broj, 15-19,Ž,Bosansko-podrinjska županija,841
+2013,Broj, 20-24,Ž,Bosansko-podrinjska županija,688
+2013,Broj, 25-29,Ž,Bosansko-podrinjska županija,763
+2013,Broj, 30-34,Ž,Bosansko-podrinjska županija,780
+2013,Broj, 35-39,Ž,Bosansko-podrinjska županija,717
+2013,Broj,40-44,Ž,Bosansko-podrinjska županija,703
+2013,Broj, 45-49,Ž,Bosansko-podrinjska županija,868
+2013,Broj, 50-54,Ž,Bosansko-podrinjska županija,975
+2013,Broj, 55-59,Ž,Bosansko-podrinjska županija,1059
+2013,Broj, 60-64,Ž,Bosansko-podrinjska županija,925
+2013,Broj, 65-69,Ž,Bosansko-podrinjska županija,625
+2013,Broj, 70-74,Ž,Bosansko-podrinjska županija,599
+2013,Broj, 75-79,Ž,Bosansko-podrinjska županija,592
+2013,Broj, 80-84,Ž,Bosansko-podrinjska županija,286
+2013,Broj,85+,Ž,Bosansko-podrinjska županija,146
+2013,Broj,Ukupno,Ž,Srednjobosanska županija,127420
+2013,Broj,0-4,Ž,Srednjobosanska županija,6255
+2013,Broj, 5-9,Ž,Srednjobosanska županija,6933
+2013,Broj, 10-14,Ž,Srednjobosanska županija,7763
+2013,Broj, 15-19,Ž,Srednjobosanska županija,9647
+2013,Broj, 20-24,Ž,Srednjobosanska županija,8596
+2013,Broj, 25-29,Ž,Srednjobosanska županija,8949
+2013,Broj, 30-34,Ž,Srednjobosanska županija,8770
+2013,Broj, 35-39,Ž,Srednjobosanska županija,8891
+2013,Broj,40-44,Ž,Srednjobosanska županija,8861
+2013,Broj, 45-49,Ž,Srednjobosanska županija,9669
+2013,Broj, 50-54,Ž,Srednjobosanska županija,10076
+2013,Broj, 55-59,Ž,Srednjobosanska županija,8970
+2013,Broj, 60-64,Ž,Srednjobosanska županija,7303
+2013,Broj, 65-69,Ž,Srednjobosanska županija,5047
+2013,Broj, 70-74,Ž,Srednjobosanska županija,5135
+2013,Broj, 75-79,Ž,Srednjobosanska županija,3752
+2013,Broj, 80-84,Ž,Srednjobosanska županija,1964
+2013,Broj,85+,Ž,Srednjobosanska županija,839
+2013,Broj,Ukupno,Ž,Hercegovačko-neretvanska županija,112989
+2013,Broj,0-4,Ž,Hercegovačko-neretvanska županija,5269
+2013,Broj, 5-9,Ž,Hercegovačko-neretvanska županija,5295
+2013,Broj, 10-14,Ž,Hercegovačko-neretvanska županija,6206
+2013,Broj, 15-19,Ž,Hercegovačko-neretvanska županija,7932
+2013,Broj, 20-24,Ž,Hercegovačko-neretvanska županija,7170
+2013,Broj, 25-29,Ž,Hercegovačko-neretvanska županija,7611
+2013,Broj, 30-34,Ž,Hercegovačko-neretvanska županija,7332
+2013,Broj, 35-39,Ž,Hercegovačko-neretvanska županija,7160
+2013,Broj,40-44,Ž,Hercegovačko-neretvanska županija,7183
+2013,Broj, 45-49,Ž,Hercegovačko-neretvanska županija,8123
+2013,Broj, 50-54,Ž,Hercegovačko-neretvanska županija,8786
+2013,Broj, 55-59,Ž,Hercegovačko-neretvanska županija,7912
+2013,Broj, 60-64,Ž,Hercegovačko-neretvanska županija,6765
+2013,Broj, 65-69,Ž,Hercegovačko-neretvanska županija,4917
+2013,Broj, 70-74,Ž,Hercegovačko-neretvanska županija,5449
+2013,Broj, 75-79,Ž,Hercegovačko-neretvanska županija,4886
+2013,Broj, 80-84,Ž,Hercegovačko-neretvanska županija,3124
+2013,Broj,85+,Ž,Hercegovačko-neretvanska županija,1869
+2013,Broj,Ukupno,Ž,Zapadno-hercegovačka županija,47587
+2013,Broj,0-4,Ž,Zapadno-hercegovačka županija,2422
+2013,Broj, 5-9,Ž,Zapadno-hercegovačka županija,2656
+2013,Broj, 10-14,Ž,Zapadno-hercegovačka županija,3140
+2013,Broj, 15-19,Ž,Zapadno-hercegovačka županija,3600
+2013,Broj, 20-24,Ž,Zapadno-hercegovačka županija,3395
+2013,Broj, 25-29,Ž,Zapadno-hercegovačka županija,3235
+2013,Broj, 30-34,Ž,Zapadno-hercegovačka županija,2875
+2013,Broj, 35-39,Ž,Zapadno-hercegovačka županija,3024
+2013,Broj,40-44,Ž,Zapadno-hercegovačka županija,3201
+2013,Broj, 45-49,Ž,Zapadno-hercegovačka županija,3404
+2013,Broj, 50-54,Ž,Zapadno-hercegovačka županija,3238
+2013,Broj, 55-59,Ž,Zapadno-hercegovačka županija,2715
+2013,Broj, 60-64,Ž,Zapadno-hercegovačka županija,2160
+2013,Broj, 65-69,Ž,Zapadno-hercegovačka županija,1713
+2013,Broj, 70-74,Ž,Zapadno-hercegovačka županija,2167
+2013,Broj, 75-79,Ž,Zapadno-hercegovačka županija,2110
+2013,Broj, 80-84,Ž,Zapadno-hercegovačka županija,1421
+2013,Broj,85+,Ž,Zapadno-hercegovačka županija,1111
+2013,Broj,Ukupno,Ž,Sarajevska županija,218432
+2013,Broj,0-4,Ž,Sarajevska županija,10904
+2013,Broj, 5-9,Ž,Sarajevska županija,9954
+2013,Broj, 10-14,Ž,Sarajevska županija,9939
+2013,Broj, 15-19,Ž,Sarajevska županija,12892
+2013,Broj, 20-24,Ž,Sarajevska županija,12639
+2013,Broj, 25-29,Ž,Sarajevska županija,16397
+2013,Broj, 30-34,Ž,Sarajevska županija,17439
+2013,Broj, 35-39,Ž,Sarajevska županija,15625
+2013,Broj,40-44,Ž,Sarajevska županija,14083
+2013,Broj, 45-49,Ž,Sarajevska županija,15181
+2013,Broj, 50-54,Ž,Sarajevska županija,16706
+2013,Broj, 55-59,Ž,Sarajevska županija,16895
+2013,Broj, 60-64,Ž,Sarajevska županija,15242
+2013,Broj, 65-69,Ž,Sarajevska županija,10211
+2013,Broj, 70-74,Ž,Sarajevska županija,9141
+2013,Broj, 75-79,Ž,Sarajevska županija,8267
+2013,Broj, 80-84,Ž,Sarajevska županija,4677
+2013,Broj,85+,Ž,Sarajevska županija,2240
+2013,Broj,Ukupno,Ž,Županija 10,41784
+2013,Broj,0-4,Ž,Županija 10,1663
+2013,Broj, 5-9,Ž,Županija 10,1850
+2013,Broj, 10-14,Ž,Županija 10,2230
+2013,Broj, 15-19,Ž,Županija 10,2865
+2013,Broj, 20-24,Ž,Županija 10,2589
+2013,Broj, 25-29,Ž,Županija 10,2508
+2013,Broj, 30-34,Ž,Županija 10,2561
+2013,Broj, 35-39,Ž,Županija 10,2695
+2013,Broj,40-44,Ž,Županija 10,2955
+2013,Broj, 45-49,Ž,Županija 10,2984
+2013,Broj, 50-54,Ž,Županija 10,2927
+2013,Broj, 55-59,Ž,Županija 10,2841
+2013,Broj, 60-64,Ž,Županija 10,2489
+2013,Broj, 65-69,Ž,Županija 10,2050
+2013,Broj, 70-74,Ž,Županija 10,2269
+2013,Broj, 75-79,Ž,Županija 10,2094
+2013,Broj, 80-84,Ž,Županija 10,1387
+2013,Broj,85+,Ž,Županija 10,827

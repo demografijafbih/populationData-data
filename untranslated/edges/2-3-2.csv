@@ -1,1 +1,4 @@
 From,To
+UNIT-MEASURE,Admin_Area
+Admin_Area,Sex
+Sex,highest_attainment

@@ -12,12 +12,75 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
           },
           {
+            "name": "UNIT-MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Broj",
+                ""
+              ]
+            },
+            "title": "UNIT-MEASURE"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Federacija Bosne i Hercegovine",
+                "Unsko-sanski kanton",
+                "Posavski kanton",
+                "Tuzlanski kanton",
+                "Zeničko-dobojski kanton",
+                "Bosansko-podrinjski kanton",
+                "Srednjobosanski kanton",
+                "Hercegovačko-neretvanski kanton",
+                "Zapadno-hercegovački kanton",
+                "Kanton Sarajevo",
+                "Kanton 10",
+                ""
+              ]
+            },
+            "title": "Administrativna jedinica"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupno",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "highest_attainment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupno",
+                "Bez obrazovanja",
+                "Nepotpuno osnovno obrazovanje",
+                "Osnovna škola",
+                "Srednja škola",
+                "Specijalizacija poslije srednje škole",
+                "Viša škola i prvi stepen fakulteta",
+                "Visoka škola / fakultet / akademija / univerzitet",
+                ""
+              ]
+            },
+            "title": "Najviša završena škola"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

@@ -1,1 +1,265 @@
-Year,Value
+Year,UNIT-MEASURE,Administrativna jedinica,Spol,Najviša završena škola,Value
+2013,Broj,Federacija Bosne i Hercegovine,Ukupno,Ukupno,1862272
+2013,Broj,Federacija Bosne i Hercegovine,Ukupno,Bez obrazovanja,82724
+2013,Broj,Federacija Bosne i Hercegovine,Ukupno,Nepotpuno osnovno obrazovanje,167956
+2013,Broj,Federacija Bosne i Hercegovine,Ukupno,Osnovna škola,401188
+2013,Broj,Federacija Bosne i Hercegovine,Ukupno,Srednja škola,952320
+2013,Broj,Federacija Bosne i Hercegovine,Ukupno,Specijalizacija poslije srednje škole,13254
+2013,Broj,Federacija Bosne i Hercegovine,Ukupno,Viša škola i prvi stepen fakulteta,56720
+2013,Broj,Federacija Bosne i Hercegovine,Ukupno,Visoka škola / fakultet / akademija / univerzitet,188110
+2013,Broj,Unsko-sanski kanton,Ukupno,Ukupno,225229
+2013,Broj,Unsko-sanski kanton,Ukupno,Bez obrazovanja,13280
+2013,Broj,Unsko-sanski kanton,Ukupno,Nepotpuno osnovno obrazovanje,23698
+2013,Broj,Unsko-sanski kanton,Ukupno,Osnovna škola,65447
+2013,Broj,Unsko-sanski kanton,Ukupno,Srednja škola,101836
+2013,Broj,Unsko-sanski kanton,Ukupno,Specijalizacija poslije srednje škole,827
+2013,Broj,Unsko-sanski kanton,Ukupno,Viša škola i prvi stepen fakulteta,6495
+2013,Broj,Unsko-sanski kanton,Ukupno,Visoka škola / fakultet / akademija / univerzitet,13646
+2013,Broj,Posavski kanton,Ukupno,Ukupno,37418
+2013,Broj,Posavski kanton,Ukupno,Bez obrazovanja,1877
+2013,Broj,Posavski kanton,Ukupno,Nepotpuno osnovno obrazovanje,5411
+2013,Broj,Posavski kanton,Ukupno,Osnovna škola,8965
+2013,Broj,Posavski kanton,Ukupno,Srednja škola,17468
+2013,Broj,Posavski kanton,Ukupno,Specijalizacija poslije srednje škole,200
+2013,Broj,Posavski kanton,Ukupno,Viša škola i prvi stepen fakulteta,1001
+2013,Broj,Posavski kanton,Ukupno,Visoka škola / fakultet / akademija / univerzitet,2496
+2013,Broj,Tuzlanski kanton,Ukupno,Ukupno,375224
+2013,Broj,Tuzlanski kanton,Ukupno,Bez obrazovanja,19235
+2013,Broj,Tuzlanski kanton,Ukupno,Nepotpuno osnovno obrazovanje,40851
+2013,Broj,Tuzlanski kanton,Ukupno,Osnovna škola,86031
+2013,Broj,Tuzlanski kanton,Ukupno,Srednja škola,191001
+2013,Broj,Tuzlanski kanton,Ukupno,Specijalizacija poslije srednje škole,2692
+2013,Broj,Tuzlanski kanton,Ukupno,Viša škola i prvi stepen fakulteta,7370
+2013,Broj,Tuzlanski kanton,Ukupno,Visoka škola / fakultet / akademija / univerzitet,28044
+2013,Broj,Zeničko-dobojski kanton,Ukupno,Ukupno,303990
+2013,Broj,Zeničko-dobojski kanton,Ukupno,Bez obrazovanja,13040
+2013,Broj,Zeničko-dobojski kanton,Ukupno,Nepotpuno osnovno obrazovanje,31325
+2013,Broj,Zeničko-dobojski kanton,Ukupno,Osnovna škola,71548
+2013,Broj,Zeničko-dobojski kanton,Ukupno,Srednja škola,156591
+2013,Broj,Zeničko-dobojski kanton,Ukupno,Specijalizacija poslije srednje škole,3593
+2013,Broj,Zeničko-dobojski kanton,Ukupno,Viša škola i prvi stepen fakulteta,7050
+2013,Broj,Zeničko-dobojski kanton,Ukupno,Visoka škola / fakultet / akademija / univerzitet,20843
+2013,Broj,Bosansko-podrinjski kanton,Ukupno,Ukupno,20448
+2013,Broj,Bosansko-podrinjski kanton,Ukupno,Bez obrazovanja,1133
+2013,Broj,Bosansko-podrinjski kanton,Ukupno,Nepotpuno osnovno obrazovanje,1705
+2013,Broj,Bosansko-podrinjski kanton,Ukupno,Osnovna škola,4886
+2013,Broj,Bosansko-podrinjski kanton,Ukupno,Srednja škola,10173
+2013,Broj,Bosansko-podrinjski kanton,Ukupno,Specijalizacija poslije srednje škole,205
+2013,Broj,Bosansko-podrinjski kanton,Ukupno,Viša škola i prvi stepen fakulteta,518
+2013,Broj,Bosansko-podrinjski kanton,Ukupno,Visoka škola / fakultet / akademija / univerzitet,1828
+2013,Broj,Srednjobosanski kanton,Ukupno,Ukupno,211486
+2013,Broj,Srednjobosanski kanton,Ukupno,Bez obrazovanja,10958
+2013,Broj,Srednjobosanski kanton,Ukupno,Nepotpuno osnovno obrazovanje,23045
+2013,Broj,Srednjobosanski kanton,Ukupno,Osnovna škola,49690
+2013,Broj,Srednjobosanski kanton,Ukupno,Srednja škola,107657
+2013,Broj,Srednjobosanski kanton,Ukupno,Specijalizacija poslije srednje škole,1321
+2013,Broj,Srednjobosanski kanton,Ukupno,Viša škola i prvi stepen fakulteta,5219
+2013,Broj,Srednjobosanski kanton,Ukupno,Visoka škola / fakultet / akademija / univerzitet,13596
+2013,Broj,Hercegovačko-neretvanski kanton,Ukupno,Ukupno,187848
+2013,Broj,Hercegovačko-neretvanski kanton,Ukupno,Bez obrazovanja,6789
+2013,Broj,Hercegovačko-neretvanski kanton,Ukupno,Nepotpuno osnovno obrazovanje,13648
+2013,Broj,Hercegovačko-neretvanski kanton,Ukupno,Osnovna škola,33296
+2013,Broj,Hercegovačko-neretvanski kanton,Ukupno,Srednja škola,101352
+2013,Broj,Hercegovačko-neretvanski kanton,Ukupno,Specijalizacija poslije srednje škole,1347
+2013,Broj,Hercegovačko-neretvanski kanton,Ukupno,Viša škola i prvi stepen fakulteta,7772
+2013,Broj,Hercegovačko-neretvanski kanton,Ukupno,Visoka škola / fakultet / akademija / univerzitet,23644
+2013,Broj,Zapadno-hercegovački kanton,Ukupno,Ukupno,78046
+2013,Broj,Zapadno-hercegovački kanton,Ukupno,Bez obrazovanja,2960
+2013,Broj,Zapadno-hercegovački kanton,Ukupno,Nepotpuno osnovno obrazovanje,6267
+2013,Broj,Zapadno-hercegovački kanton,Ukupno,Osnovna škola,12575
+2013,Broj,Zapadno-hercegovački kanton,Ukupno,Srednja škola,42986
+2013,Broj,Zapadno-hercegovački kanton,Ukupno,Specijalizacija poslije srednje škole,387
+2013,Broj,Zapadno-hercegovački kanton,Ukupno,Viša škola i prvi stepen fakulteta,3427
+2013,Broj,Zapadno-hercegovački kanton,Ukupno,Visoka škola / fakultet / akademija / univerzitet,9444
+2013,Broj,Kanton Sarajevo,Ukupno,Ukupno,350333
+2013,Broj,Kanton Sarajevo,Ukupno,Bez obrazovanja,9766
+2013,Broj,Kanton Sarajevo,Ukupno,Nepotpuno osnovno obrazovanje,14669
+2013,Broj,Kanton Sarajevo,Ukupno,Osnovna škola,54955
+2013,Broj,Kanton Sarajevo,Ukupno,Srednja škola,186928
+2013,Broj,Kanton Sarajevo,Ukupno,Specijalizacija poslije srednje škole,2385
+2013,Broj,Kanton Sarajevo,Ukupno,Viša škola i prvi stepen fakulteta,14716
+2013,Broj,Kanton Sarajevo,Ukupno,Visoka škola / fakultet / akademija / univerzitet,66914
+2013,Broj,Kanton 10,Ukupno,Ukupno,72250
+2013,Broj,Kanton 10,Ukupno,Bez obrazovanja,3686
+2013,Broj,Kanton 10,Ukupno,Nepotpuno osnovno obrazovanje,7337
+2013,Broj,Kanton 10,Ukupno,Osnovna škola,13795
+2013,Broj,Kanton 10,Ukupno,Srednja škola,36328
+2013,Broj,Kanton 10,Ukupno,Specijalizacija poslije srednje škole,297
+2013,Broj,Kanton 10,Ukupno,Viša škola i prvi stepen fakulteta,3152
+2013,Broj,Kanton 10,Ukupno,Visoka škola / fakultet / akademija / univerzitet,7655
+2013,Broj,Federacija Bosne i Hercegovine,M,Ukupno,904850
+2013,Broj,Federacija Bosne i Hercegovine,M,Bez obrazovanja,13635
+2013,Broj,Federacija Bosne i Hercegovine,M,Nepotpuno osnovno obrazovanje,46470
+2013,Broj,Federacija Bosne i Hercegovine,M,Osnovna škola,166078
+2013,Broj,Federacija Bosne i Hercegovine,M,Srednja škola,547281
+2013,Broj,Federacija Bosne i Hercegovine,M,Specijalizacija poslije srednje škole,11005
+2013,Broj,Federacija Bosne i Hercegovine,M,Viša škola i prvi stepen fakulteta,30520
+2013,Broj,Federacija Bosne i Hercegovine,M,Visoka škola / fakultet / akademija / univerzitet,89861
+2013,Broj,Unsko-sanski kanton,M,Ukupno,110711
+2013,Broj,Unsko-sanski kanton,M,Bez obrazovanja,2609
+2013,Broj,Unsko-sanski kanton,M,Nepotpuno osnovno obrazovanje,8511
+2013,Broj,Unsko-sanski kanton,M,Osnovna škola,29553
+2013,Broj,Unsko-sanski kanton,M,Srednja škola,59686
+2013,Broj,Unsko-sanski kanton,M,Specijalizacija poslije srednje škole,583
+2013,Broj,Unsko-sanski kanton,M,Viša škola i prvi stepen fakulteta,3294
+2013,Broj,Unsko-sanski kanton,M,Visoka škola / fakultet / akademija / univerzitet,6475
+2013,Broj,Posavski kanton,M,Ukupno,18656
+2013,Broj,Posavski kanton,M,Bez obrazovanja,367
+2013,Broj,Posavski kanton,M,Nepotpuno osnovno obrazovanje,2125
+2013,Broj,Posavski kanton,M,Osnovna škola,4316
+2013,Broj,Posavski kanton,M,Srednja škola,9831
+2013,Broj,Posavski kanton,M,Specijalizacija poslije srednje škole,146
+2013,Broj,Posavski kanton,M,Viša škola i prvi stepen fakulteta,572
+2013,Broj,Posavski kanton,M,Visoka škola / fakultet / akademija / univerzitet,1299
+2013,Broj,Tuzlanski kanton,M,Ukupno,181535
+2013,Broj,Tuzlanski kanton,M,Bez obrazovanja,3089
+2013,Broj,Tuzlanski kanton,M,Nepotpuno osnovno obrazovanje,10230
+2013,Broj,Tuzlanski kanton,M,Osnovna škola,34890
+2013,Broj,Tuzlanski kanton,M,Srednja škola,112695
+2013,Broj,Tuzlanski kanton,M,Specijalizacija poslije srednje škole,2325
+2013,Broj,Tuzlanski kanton,M,Viša škola i prvi stepen fakulteta,4293
+2013,Broj,Tuzlanski kanton,M,Visoka škola / fakultet / akademija / univerzitet,14013
+2013,Broj,Zeničko-dobojski kanton,M,Ukupno,149837
+2013,Broj,Zeničko-dobojski kanton,M,Bez obrazovanja,1936
+2013,Broj,Zeničko-dobojski kanton,M,Nepotpuno osnovno obrazovanje,7908
+2013,Broj,Zeničko-dobojski kanton,M,Osnovna škola,28285
+2013,Broj,Zeničko-dobojski kanton,M,Srednja škola,94181
+2013,Broj,Zeničko-dobojski kanton,M,Specijalizacija poslije srednje škole,3153
+2013,Broj,Zeničko-dobojski kanton,M,Viša škola i prvi stepen fakulteta,3909
+2013,Broj,Zeničko-dobojski kanton,M,Visoka škola / fakultet / akademija / univerzitet,10465
+2013,Broj,Bosansko-podrinjski kanton,M,Ukupno,9881
+2013,Broj,Bosansko-podrinjski kanton,M,Bez obrazovanja,159
+2013,Broj,Bosansko-podrinjski kanton,M,Nepotpuno osnovno obrazovanje,405
+2013,Broj,Bosansko-podrinjski kanton,M,Osnovna škola,1839
+2013,Broj,Bosansko-podrinjski kanton,M,Srednja škola,5960
+2013,Broj,Bosansko-podrinjski kanton,M,Specijalizacija poslije srednje škole,175
+2013,Broj,Bosansko-podrinjski kanton,M,Viša škola i prvi stepen fakulteta,352
+2013,Broj,Bosansko-podrinjski kanton,M,Visoka škola / fakultet / akademija / univerzitet,991
+2013,Broj,Srednjobosanski kanton,M,Ukupno,105017
+2013,Broj,Srednjobosanski kanton,M,Bez obrazovanja,1981
+2013,Broj,Srednjobosanski kanton,M,Nepotpuno osnovno obrazovanje,6423
+2013,Broj,Srednjobosanski kanton,M,Osnovna škola,21391
+2013,Broj,Srednjobosanski kanton,M,Srednja škola,64191
+2013,Broj,Srednjobosanski kanton,M,Specijalizacija poslije srednje škole,1132
+2013,Broj,Srednjobosanski kanton,M,Viša škola i prvi stepen fakulteta,2919
+2013,Broj,Srednjobosanski kanton,M,Visoka škola / fakultet / akademija / univerzitet,6980
+2013,Broj,Hercegovačko-neretvanski kanton,M,Ukupno,91629
+2013,Broj,Hercegovačko-neretvanski kanton,M,Bez obrazovanja,1047
+2013,Broj,Hercegovačko-neretvanski kanton,M,Nepotpuno osnovno obrazovanje,3657
+2013,Broj,Hercegovačko-neretvanski kanton,M,Osnovna škola,13686
+2013,Broj,Hercegovačko-neretvanski kanton,M,Srednja škola,57185
+2013,Broj,Hercegovačko-neretvanski kanton,M,Specijalizacija poslije srednje škole,1098
+2013,Broj,Hercegovačko-neretvanski kanton,M,Viša škola i prvi stepen fakulteta,3975
+2013,Broj,Hercegovačko-neretvanski kanton,M,Visoka škola / fakultet / akademija / univerzitet,10981
+2013,Broj,Zapadno-hercegovački kanton,M,Ukupno,38677
+2013,Broj,Zapadno-hercegovački kanton,M,Bez obrazovanja,450
+2013,Broj,Zapadno-hercegovački kanton,M,Nepotpuno osnovno obrazovanje,2072
+2013,Broj,Zapadno-hercegovački kanton,M,Osnovna škola,6057
+2013,Broj,Zapadno-hercegovački kanton,M,Srednja škola,23646
+2013,Broj,Zapadno-hercegovački kanton,M,Specijalizacija poslije srednje škole,257
+2013,Broj,Zapadno-hercegovački kanton,M,Viša škola i prvi stepen fakulteta,1629
+2013,Broj,Zapadno-hercegovački kanton,M,Visoka škola / fakultet / akademija / univerzitet,4566
+2013,Broj,Kanton Sarajevo,M,Ukupno,162698
+2013,Broj,Kanton Sarajevo,M,Bez obrazovanja,1417
+2013,Broj,Kanton Sarajevo,M,Nepotpuno osnovno obrazovanje,2568
+2013,Broj,Kanton Sarajevo,M,Osnovna škola,19427
+2013,Broj,Kanton Sarajevo,M,Srednja škola,99295
+2013,Broj,Kanton Sarajevo,M,Specijalizacija poslije srednje škole,1938
+2013,Broj,Kanton Sarajevo,M,Viša škola i prvi stepen fakulteta,7875
+2013,Broj,Kanton Sarajevo,M,Visoka škola / fakultet / akademija / univerzitet,30178
+2013,Broj,Kanton 10,M,Ukupno,36209
+2013,Broj,Kanton 10,M,Bez obrazovanja,580
+2013,Broj,Kanton 10,M,Nepotpuno osnovno obrazovanje,2571
+2013,Broj,Kanton 10,M,Osnovna škola,6634
+2013,Broj,Kanton 10,M,Srednja škola,20611
+2013,Broj,Kanton 10,M,Specijalizacija poslije srednje škole,198
+2013,Broj,Kanton 10,M,Viša škola i prvi stepen fakulteta,1702
+2013,Broj,Kanton 10,M,Visoka škola / fakultet / akademija / univerzitet,3913
+2013,Broj,Federacija Bosne i Hercegovine,Ž,Ukupno,957422
+2013,Broj,Federacija Bosne i Hercegovine,Ž,Bez obrazovanja,69089
+2013,Broj,Federacija Bosne i Hercegovine,Ž,Nepotpuno osnovno obrazovanje,121486
+2013,Broj,Federacija Bosne i Hercegovine,Ž,Osnovna škola,235110
+2013,Broj,Federacija Bosne i Hercegovine,Ž,Srednja škola,405039
+2013,Broj,Federacija Bosne i Hercegovine,Ž,Specijalizacija poslije srednje škole,2249
+2013,Broj,Federacija Bosne i Hercegovine,Ž,Viša škola i prvi stepen fakulteta,26200
+2013,Broj,Federacija Bosne i Hercegovine,Ž,Visoka škola / fakultet / akademija / univerzitet,98249
+2013,Broj,Unsko-sanski kanton,Ž,Ukupno,114518
+2013,Broj,Unsko-sanski kanton,Ž,Bez obrazovanja,10671
+2013,Broj,Unsko-sanski kanton,Ž,Nepotpuno osnovno obrazovanje,15187
+2013,Broj,Unsko-sanski kanton,Ž,Osnovna škola,35894
+2013,Broj,Unsko-sanski kanton,Ž,Srednja škola,42150
+2013,Broj,Unsko-sanski kanton,Ž,Specijalizacija poslije srednje škole,244
+2013,Broj,Unsko-sanski kanton,Ž,Viša škola i prvi stepen fakulteta,3201
+2013,Broj,Unsko-sanski kanton,Ž,Visoka škola / fakultet / akademija / univerzitet,7171
+2013,Broj,Posavski kanton,Ž,Ukupno,18762
+2013,Broj,Posavski kanton,Ž,Bez obrazovanja,1510
+2013,Broj,Posavski kanton,Ž,Nepotpuno osnovno obrazovanje,3286
+2013,Broj,Posavski kanton,Ž,Osnovna škola,4649
+2013,Broj,Posavski kanton,Ž,Srednja škola,7637
+2013,Broj,Posavski kanton,Ž,Specijalizacija poslije srednje škole,54
+2013,Broj,Posavski kanton,Ž,Viša škola i prvi stepen fakulteta,429
+2013,Broj,Posavski kanton,Ž,Visoka škola / fakultet / akademija / univerzitet,1197
+2013,Broj,Tuzlanski kanton,Ž,Ukupno,193689
+2013,Broj,Tuzlanski kanton,Ž,Bez obrazovanja,16146
+2013,Broj,Tuzlanski kanton,Ž,Nepotpuno osnovno obrazovanje,30621
+2013,Broj,Tuzlanski kanton,Ž,Osnovna škola,51141
+2013,Broj,Tuzlanski kanton,Ž,Srednja škola,78306
+2013,Broj,Tuzlanski kanton,Ž,Specijalizacija poslije srednje škole,367
+2013,Broj,Tuzlanski kanton,Ž,Viša škola i prvi stepen fakulteta,3077
+2013,Broj,Tuzlanski kanton,Ž,Visoka škola / fakultet / akademija / univerzitet,14031
+2013,Broj,Zeničko-dobojski kanton,Ž,Ukupno,154153
+2013,Broj,Zeničko-dobojski kanton,Ž,Bez obrazovanja,11104
+2013,Broj,Zeničko-dobojski kanton,Ž,Nepotpuno osnovno obrazovanje,23417
+2013,Broj,Zeničko-dobojski kanton,Ž,Osnovna škola,43263
+2013,Broj,Zeničko-dobojski kanton,Ž,Srednja škola,62410
+2013,Broj,Zeničko-dobojski kanton,Ž,Specijalizacija poslije srednje škole,440
+2013,Broj,Zeničko-dobojski kanton,Ž,Viša škola i prvi stepen fakulteta,3141
+2013,Broj,Zeničko-dobojski kanton,Ž,Visoka škola / fakultet / akademija / univerzitet,10378
+2013,Broj,Bosansko-podrinjski kanton,Ž,Ukupno,10567
+2013,Broj,Bosansko-podrinjski kanton,Ž,Bez obrazovanja,974
+2013,Broj,Bosansko-podrinjski kanton,Ž,Nepotpuno osnovno obrazovanje,1300
+2013,Broj,Bosansko-podrinjski kanton,Ž,Osnovna škola,3047
+2013,Broj,Bosansko-podrinjski kanton,Ž,Srednja škola,4213
+2013,Broj,Bosansko-podrinjski kanton,Ž,Specijalizacija poslije srednje škole,30
+2013,Broj,Bosansko-podrinjski kanton,Ž,Viša škola i prvi stepen fakulteta,166
+2013,Broj,Bosansko-podrinjski kanton,Ž,Visoka škola / fakultet / akademija / univerzitet,837
+2013,Broj,Srednjobosanski kanton,Ž,Ukupno,106469
+2013,Broj,Srednjobosanski kanton,Ž,Bez obrazovanja,8977
+2013,Broj,Srednjobosanski kanton,Ž,Nepotpuno osnovno obrazovanje,16622
+2013,Broj,Srednjobosanski kanton,Ž,Osnovna škola,28299
+2013,Broj,Srednjobosanski kanton,Ž,Srednja škola,43466
+2013,Broj,Srednjobosanski kanton,Ž,Specijalizacija poslije srednje škole,189
+2013,Broj,Srednjobosanski kanton,Ž,Viša škola i prvi stepen fakulteta,2300
+2013,Broj,Srednjobosanski kanton,Ž,Visoka škola / fakultet / akademija / univerzitet,6616
+2013,Broj,Hercegovačko-neretvanski kanton,Ž,Ukupno,96219
+2013,Broj,Hercegovačko-neretvanski kanton,Ž,Bez obrazovanja,5742
+2013,Broj,Hercegovačko-neretvanski kanton,Ž,Nepotpuno osnovno obrazovanje,9991
+2013,Broj,Hercegovačko-neretvanski kanton,Ž,Osnovna škola,19610
+2013,Broj,Hercegovačko-neretvanski kanton,Ž,Srednja škola,44167
+2013,Broj,Hercegovačko-neretvanski kanton,Ž,Specijalizacija poslije srednje škole,249
+2013,Broj,Hercegovačko-neretvanski kanton,Ž,Viša škola i prvi stepen fakulteta,3797
+2013,Broj,Hercegovačko-neretvanski kanton,Ž,Visoka škola / fakultet / akademija / univerzitet,12663
+2013,Broj,Zapadno-hercegovački kanton,Ž,Ukupno,39369
+2013,Broj,Zapadno-hercegovački kanton,Ž,Bez obrazovanja,2510
+2013,Broj,Zapadno-hercegovački kanton,Ž,Nepotpuno osnovno obrazovanje,4195
+2013,Broj,Zapadno-hercegovački kanton,Ž,Osnovna škola,6518
+2013,Broj,Zapadno-hercegovački kanton,Ž,Srednja škola,19340
+2013,Broj,Zapadno-hercegovački kanton,Ž,Specijalizacija poslije srednje škole,130
+2013,Broj,Zapadno-hercegovački kanton,Ž,Viša škola i prvi stepen fakulteta,1798
+2013,Broj,Zapadno-hercegovački kanton,Ž,Visoka škola / fakultet / akademija / univerzitet,4878
+2013,Broj,Kanton Sarajevo,Ž,Ukupno,187635
+2013,Broj,Kanton Sarajevo,Ž,Bez obrazovanja,8349
+2013,Broj,Kanton Sarajevo,Ž,Nepotpuno osnovno obrazovanje,12101
+2013,Broj,Kanton Sarajevo,Ž,Osnovna škola,35528
+2013,Broj,Kanton Sarajevo,Ž,Srednja škola,87633
+2013,Broj,Kanton Sarajevo,Ž,Specijalizacija poslije srednje škole,447
+2013,Broj,Kanton Sarajevo,Ž,Viša škola i prvi stepen fakulteta,6841
+2013,Broj,Kanton Sarajevo,Ž,Visoka škola / fakultet / akademija / univerzitet,36736
+2013,Broj,Kanton 10,Ž,Ukupno,36041
+2013,Broj,Kanton 10,Ž,Bez obrazovanja,3106
+2013,Broj,Kanton 10,Ž,Nepotpuno osnovno obrazovanje,4766
+2013,Broj,Kanton 10,Ž,Osnovna škola,7161
+2013,Broj,Kanton 10,Ž,Srednja škola,15717
+2013,Broj,Kanton 10,Ž,Specijalizacija poslije srednje škole,99
+2013,Broj,Kanton 10,Ž,Viša škola i prvi stepen fakulteta,1450
+2013,Broj,Kanton 10,Ž,Visoka škola / fakultet / akademija / univerzitet,3742
