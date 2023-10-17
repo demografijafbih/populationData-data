@@ -1,1 +1,2081 @@
-Year,Value
+Year,UNIT_MEASURE,Sex,Administrative Area,Births,Value
+1996,Number,Total,Federation of Bosnia and Herzegovina,Live births,32614
+1996,Number,Total,Una-Sana Canton,Live births,4646
+1996,Number,Total,Posavina Canton,Live births,43
+1996,Number,Total,Tuzla Canton,Live births,6825
+1996,Number,Total,Zenica-Doboj Canton,Live births,7375
+1996,Number,Total,Bosnian-Podrinje Canton,Live births,495
+1996,Number,Total,Central Bosnia Canton,Live births,4350
+1996,Number,Total,Herzegovina-Neretva Canton,Live births,2913
+1996,Number,Total,West Herzegovina Canton,Live births,950
+1996,Number,Total,Sarajevo Canton,Live births,4154
+1996,Number,Total,Canton 10,Live births,863
+1996,Number,M,Federation of Bosnia and Herzegovina,Live births,17120
+1996,Number,M,Una-Sana Canton,Live births,2518
+1996,Number,M,Posavina Canton,Live births,23
+1996,Number,M,Tuzla Canton,Live births,3515
+1996,Number,M,Zenica-Doboj Canton,Live births,3937
+1996,Number,M,Bosnian-Podrinje Canton,Live births,249
+1996,Number,M,Central Bosnia Canton,Live births,2285
+1996,Number,M,Herzegovina-Neretva Canton,Live births,1506
+1996,Number,M,West Herzegovina Canton,Live births,506
+1996,Number,M,Sarajevo Canton,Live births,2133
+1996,Number,M,Canton 10,Live births,448
+1996,Number,F,Federation of Bosnia and Herzegovina,Live births,15494
+1996,Number,F,Una-Sana Canton,Live births,2128
+1996,Number,F,Posavina Canton,Live births,20
+1996,Number,F,Tuzla Canton,Live births,3310
+1996,Number,F,Zenica-Doboj Canton,Live births,3438
+1996,Number,F,Bosnian-Podrinje Canton,Live births,246
+1996,Number,F,Central Bosnia Canton,Live births,2065
+1996,Number,F,Herzegovina-Neretva Canton,Live births,1407
+1996,Number,F,West Herzegovina Canton,Live births,444
+1996,Number,F,Sarajevo Canton,Live births,2021
+1996,Number,F,Canton 10,Live births,415
+1997,Number,Total,Federation of Bosnia and Herzegovina,Live births,33003
+1997,Number,Total,Una-Sana Canton,Live births,5682
+1997,Number,Total,Posavina Canton,Live births,22
+1997,Number,Total,Tuzla Canton,Live births,5901
+1997,Number,Total,Zenica-Doboj Canton,Live births,6764
+1997,Number,Total,Bosnian-Podrinje Canton,Live births,482
+1997,Number,Total,Central Bosnia Canton,Live births,4134
+1997,Number,Total,Herzegovina-Neretva Canton,Live births,2745
+1997,Number,Total,West Herzegovina Canton,Live births,1082
+1997,Number,Total,Sarajevo Canton,Live births,5245
+1997,Number,Total,Canton 10,Live births,946
+1997,Number,M,Federation of Bosnia and Herzegovina,Live births,17251
+1997,Number,M,Una-Sana Canton,Live births,2930
+1997,Number,M,Posavina Canton,Live births,13
+1997,Number,M,Tuzla Canton,Live births,3097
+1997,Number,M,Zenica-Doboj Canton,Live births,3486
+1997,Number,M,Bosnian-Podrinje Canton,Live births,255
+1997,Number,M,Central Bosnia Canton,Live births,2200
+1997,Number,M,Herzegovina-Neretva Canton,Live births,1482
+1997,Number,M,West Herzegovina Canton,Live births,584
+1997,Number,M,Sarajevo Canton,Live births,2734
+1997,Number,M,Canton 10,Live births,470
+1997,Number,F,Federation of Bosnia and Herzegovina,Live births,15752
+1997,Number,F,Una-Sana Canton,Live births,2752
+1997,Number,F,Posavina Canton,Live births,9
+1997,Number,F,Tuzla Canton,Live births,2804
+1997,Number,F,Zenica-Doboj Canton,Live births,3278
+1997,Number,F,Bosnian-Podrinje Canton,Live births,227
+1997,Number,F,Central Bosnia Canton,Live births,1934
+1997,Number,F,Herzegovina-Neretva Canton,Live births,1263
+1997,Number,F,West Herzegovina Canton,Live births,498
+1997,Number,F,Sarajevo Canton,Live births,2511
+1997,Number,F,Canton 10,Live births,476
+1998,Number,Total,Federation of Bosnia and Herzegovina,Live births,30427
+1998,Number,Total,Una-Sana Canton,Live births,5158
+1998,Number,Total,Posavina Canton,Live births,30
+1998,Number,Total,Tuzla Canton,Live births,5858
+1998,Number,Total,Zenica-Doboj Canton,Live births,6068
+1998,Number,Total,Bosnian-Podrinje Canton,Live births,406
+1998,Number,Total,Central Bosnia Canton,Live births,3765
+1998,Number,Total,Herzegovina-Neretva Canton,Live births,2526
+1998,Number,Total,West Herzegovina Canton,Live births,913
+1998,Number,Total,Sarajevo Canton,Live births,4890
+1998,Number,Total,Canton 10,Live births,813
+1998,Number,M,Federation of Bosnia and Herzegovina,Live births,15811
+1998,Number,M,Una-Sana Canton,Live births,442
+1998,Number,M,Posavina Canton,Live births,14
+1998,Number,M,Tuzla Canton,Live births,3032
+1998,Number,M,Zenica-Doboj Canton,Live births,3169
+1998,Number,M,Bosnian-Podrinje Canton,Live births,216
+1998,Number,M,Central Bosnia Canton,Live births,1904
+1998,Number,M,Herzegovina-Neretva Canton,Live births,1272
+1998,Number,M,West Herzegovina Canton,Live births,470
+1998,Number,M,Sarajevo Canton,Live births,2558
+1998,Number,M,Canton 10,Live births,442
+1998,Number,F,Federation of Bosnia and Herzegovina,Live births,14616
+1998,Number,F,Una-Sana Canton,Live births,371
+1998,Number,F,Posavina Canton,Live births,16
+1998,Number,F,Tuzla Canton,Live births,2826
+1998,Number,F,Zenica-Doboj Canton,Live births,2899
+1998,Number,F,Bosnian-Podrinje Canton,Live births,190
+1998,Number,F,Central Bosnia Canton,Live births,1861
+1998,Number,F,Herzegovina-Neretva Canton,Live births,1254
+1998,Number,F,West Herzegovina Canton,Live births,443
+1998,Number,F,Sarajevo Canton,Live births,2332
+1998,Number,F,Canton 10,Live births,371
+1999,Number,Total,Federation of Bosnia and Herzegovina,Live births,27614
+1999,Number,Total,Una-Sana Canton,Live births,4675
+1999,Number,Total,Posavina Canton,Live births,302
+1999,Number,Total,Tuzla Canton,Live births,5627
+1999,Number,Total,Zenica-Doboj Canton,Live births,5124
+1999,Number,Total,Bosnian-Podrinje Canton,Live births,360
+1999,Number,Total,Central Bosnia Canton,Live births,3439
+1999,Number,Total,Herzegovina-Neretva Canton,Live births,2012
+1999,Number,Total,West Herzegovina Canton,Live births,654
+1999,Number,Total,Sarajevo Canton,Live births,4621
+1999,Number,Total,Canton 10,Live births,800
+1999,Number,M,Federation of Bosnia and Herzegovina,Live births,14046
+1999,Number,M,Una-Sana Canton,Live births,2366
+1999,Number,M,Posavina Canton,Live births,159
+1999,Number,M,Tuzla Canton,Live births,2885
+1999,Number,M,Zenica-Doboj Canton,Live births,2648
+1999,Number,M,Bosnian-Podrinje Canton,Live births,183
+1999,Number,M,Central Bosnia Canton,Live births,1747
+1999,Number,M,Herzegovina-Neretva Canton,Live births,1013
+1999,Number,M,West Herzegovina Canton,Live births,1013
+1999,Number,M,Sarajevo Canton,Live births,2338
+1999,Number,M,Canton 10,Live births,394
+1999,Number,F,Federation of Bosnia and Herzegovina,Live births,13568
+1999,Number,F,Una-Sana Canton,Live births,2309
+1999,Number,F,Posavina Canton,Live births,143
+1999,Number,F,Tuzla Canton,Live births,2742
+1999,Number,F,Zenica-Doboj Canton,Live births,2476
+1999,Number,F,Bosnian-Podrinje Canton,Live births,177
+1999,Number,F,Central Bosnia Canton,Live births,1692
+1999,Number,F,Herzegovina-Neretva Canton,Live births,999
+1999,Number,F,West Herzegovina Canton,Live births,999
+1999,Number,F,Sarajevo Canton,Live births,2283
+1999,Number,F,Canton 10,Live births,406
+2000,Number,Total,Federation of Bosnia and Herzegovina,Live births,25255
+2000,Number,Total,Una-Sana Canton,Live births,3722
+2000,Number,Total,Posavina Canton,Live births,344
+2000,Number,Total,Tuzla Canton,Live births,5373
+2000,Number,Total,Zenica-Doboj Canton,Live births,4708
+2000,Number,Total,Bosnian-Podrinje Canton,Live births,306
+2000,Number,Total,Central Bosnia Canton,Live births,3119
+2000,Number,Total,Herzegovina-Neretva Canton,Live births,2118
+2000,Number,Total,West Herzegovina Canton,Live births,572
+2000,Number,Total,Sarajevo Canton,Live births,4268
+2000,Number,Total,Canton 10,Live births,725
+2000,Number,M,Federation of Bosnia and Herzegovina,Live births,13026
+2000,Number,M,Una-Sana Canton,Live births,1901
+2000,Number,M,Posavina Canton,Live births,195
+2000,Number,M,Tuzla Canton,Live births,2739
+2000,Number,M,Zenica-Doboj Canton,Live births,2408
+2000,Number,M,Bosnian-Podrinje Canton,Live births,152
+2000,Number,M,Central Bosnia Canton,Live births,1628
+2000,Number,M,Herzegovina-Neretva Canton,Live births,1130
+2000,Number,M,West Herzegovina Canton,Live births,287
+2000,Number,M,Sarajevo Canton,Live births,2206
+2000,Number,M,Canton 10,Live births,380
+2000,Number,F,Federation of Bosnia and Herzegovina,Live births,12229
+2000,Number,F,Una-Sana Canton,Live births,1821
+2000,Number,F,Posavina Canton,Live births,149
+2000,Number,F,Tuzla Canton,Live births,2634
+2000,Number,F,Zenica-Doboj Canton,Live births,2300
+2000,Number,F,Bosnian-Podrinje Canton,Live births,154
+2000,Number,F,Central Bosnia Canton,Live births,1491
+2000,Number,F,Herzegovina-Neretva Canton,Live births,988
+2000,Number,F,West Herzegovina Canton,Live births,285
+2000,Number,F,Sarajevo Canton,Live births,2062
+2000,Number,F,Canton 10,Live births,345
+2001,Number,Total,Federation of Bosnia and Herzegovina,Live births,23881
+2001,Number,Total,Una-Sana Canton,Live births,3497
+2001,Number,Total,Posavina Canton,Live births,338
+2001,Number,Total,Tuzla Canton,Live births,5162
+2001,Number,Total,Zenica-Doboj Canton,Live births,4481
+2001,Number,Total,Bosnian-Podrinje Canton,Live births,296
+2001,Number,Total,Central Bosnia Canton,Live births,2979
+2001,Number,Total,Herzegovina-Neretva Canton,Live births,2043
+2001,Number,Total,West Herzegovina Canton,Live births,569
+2001,Number,Total,Sarajevo Canton,Live births,3878
+2001,Number,Total,Canton 10,Live births,638
+2001,Number,M,Federation of Bosnia and Herzegovina,Live births,12278
+2001,Number,M,Una-Sana Canton,Live births,1802
+2001,Number,M,Posavina Canton,Live births,181
+2001,Number,M,Tuzla Canton,Live births,2678
+2001,Number,M,Zenica-Doboj Canton,Live births,2292
+2001,Number,M,Bosnian-Podrinje Canton,Live births,140
+2001,Number,M,Central Bosnia Canton,Live births,1561
+2001,Number,M,Herzegovina-Neretva Canton,Live births,1008
+2001,Number,M,West Herzegovina Canton,Live births,300
+2001,Number,M,Sarajevo Canton,Live births,1999
+2001,Number,M,Canton 10,Live births,317
+2001,Number,F,Federation of Bosnia and Herzegovina,Live births,11603
+2001,Number,F,Una-Sana Canton,Live births,1695
+2001,Number,F,Posavina Canton,Live births,157
+2001,Number,F,Tuzla Canton,Live births,2484
+2001,Number,F,Zenica-Doboj Canton,Live births,2189
+2001,Number,F,Bosnian-Podrinje Canton,Live births,156
+2001,Number,F,Central Bosnia Canton,Live births,1418
+2001,Number,F,Herzegovina-Neretva Canton,Live births,1035
+2001,Number,F,West Herzegovina Canton,Live births,269
+2001,Number,F,Sarajevo Canton,Live births,1879
+2001,Number,F,Canton 10,Live births,321
+2002,Number,Total,Federation of Bosnia and Herzegovina,Live births,23058
+2002,Number,Total,Una-Sana Canton,Live births,3208
+2002,Number,Total,Posavina Canton,Live births,363
+2002,Number,Total,Tuzla Canton,Live births,5079
+2002,Number,Total,Zenica-Doboj Canton,Live births,4195
+2002,Number,Total,Bosnian-Podrinje Canton,Live births,230
+2002,Number,Total,Central Bosnia Canton,Live births,2873
+2002,Number,Total,Herzegovina-Neretva Canton,Live births,2130
+2002,Number,Total,West Herzegovina Canton,Live births,569
+2002,Number,Total,Sarajevo Canton,Live births,3840
+2002,Number,Total,Canton 10,Live births,571
+2002,Number,M,Federation of Bosnia and Herzegovina,Live births,11829
+2002,Number,M,Una-Sana Canton,Live births,1650
+2002,Number,M,Posavina Canton,Live births,184
+2002,Number,M,Tuzla Canton,Live births,2575
+2002,Number,M,Zenica-Doboj Canton,Live births,2140
+2002,Number,M,Bosnian-Podrinje Canton,Live births,126
+2002,Number,M,Central Bosnia Canton,Live births,1491
+2002,Number,M,Herzegovina-Neretva Canton,Live births,1092
+2002,Number,M,West Herzegovina Canton,Live births,273
+2002,Number,M,Sarajevo Canton,Live births,2009
+2002,Number,M,Canton 10,Live births,289
+2002,Number,F,Federation of Bosnia and Herzegovina,Live births,11229
+2002,Number,F,Una-Sana Canton,Live births,1558
+2002,Number,F,Posavina Canton,Live births,179
+2002,Number,F,Tuzla Canton,Live births,2504
+2002,Number,F,Zenica-Doboj Canton,Live births,2055
+2002,Number,F,Bosnian-Podrinje Canton,Live births,104
+2002,Number,F,Central Bosnia Canton,Live births,1382
+2002,Number,F,Herzegovina-Neretva Canton,Live births,1038
+2002,Number,F,West Herzegovina Canton,Live births,296
+2002,Number,F,Sarajevo Canton,Live births,1831
+2002,Number,F,Canton 10,Live births,282
+2003,Number,Total,Federation of Bosnia and Herzegovina,Live births,22953
+2003,Number,Total,Una-Sana Canton,Live births,3156
+2003,Number,Total,Posavina Canton,Live births,313
+2003,Number,Total,Tuzla Canton,Live births,4931
+2003,Number,Total,Zenica-Doboj Canton,Live births,4106
+2003,Number,Total,Bosnian-Podrinje Canton,Live births,206
+2003,Number,Total,Central Bosnia Canton,Live births,2871
+2003,Number,Total,Herzegovina-Neretva Canton,Live births,2131
+2003,Number,Total,West Herzegovina Canton,Live births,795
+2003,Number,Total,Sarajevo Canton,Live births,3881
+2003,Number,Total,Canton 10,Live births,563
+2003,Number,M,Federation of Bosnia and Herzegovina,Live births,11961
+2003,Number,M,Una-Sana Canton,Live births,1631
+2003,Number,M,Posavina Canton,Live births,157
+2003,Number,M,Tuzla Canton,Live births,2527
+2003,Number,M,Zenica-Doboj Canton,Live births,2124
+2003,Number,M,Bosnian-Podrinje Canton,Live births,106
+2003,Number,M,Central Bosnia Canton,Live births,1505
+2003,Number,M,Herzegovina-Neretva Canton,Live births,1122
+2003,Number,M,West Herzegovina Canton,Live births,427
+2003,Number,M,Sarajevo Canton,Live births,2083
+2003,Number,M,Canton 10,Live births,279
+2003,Number,F,Federation of Bosnia and Herzegovina,Live births,10992
+2003,Number,F,Una-Sana Canton,Live births,1525
+2003,Number,F,Posavina Canton,Live births,156
+2003,Number,F,Tuzla Canton,Live births,2404
+2003,Number,F,Zenica-Doboj Canton,Live births,1982
+2003,Number,F,Bosnian-Podrinje Canton,Live births,100
+2003,Number,F,Central Bosnia Canton,Live births,1366
+2003,Number,F,Herzegovina-Neretva Canton,Live births,1009
+2003,Number,F,West Herzegovina Canton,Live births,368
+2003,Number,F,Sarajevo Canton,Live births,1798
+2003,Number,F,Canton 10,Live births,284
+2004,Number,Total,Federation of Bosnia and Herzegovina,Live births,22098
+2004,Number,Total,Una-Sana Canton,Live births,2954
+2004,Number,Total,Posavina Canton,Live births,308
+2004,Number,Total,Tuzla Canton,Live births,4683
+2004,Number,Total,Zenica-Doboj Canton,Live births,3984
+2004,Number,Total,Bosnian-Podrinje Canton,Live births,204
+2004,Number,Total,Central Bosnia Canton,Live births,2750
+2004,Number,Total,Herzegovina-Neretva Canton,Live births,1983
+2004,Number,Total,West Herzegovina Canton,Live births,772
+2004,Number,Total,Sarajevo Canton,Live births,3863
+2004,Number,Total,Canton 10,Live births,597
+2004,Number,M,Federation of Bosnia and Herzegovina,Live births,11476
+2004,Number,M,Una-Sana Canton,Live births,1550
+2004,Number,M,Posavina Canton,Live births,142
+2004,Number,M,Tuzla Canton,Live births,2371
+2004,Number,M,Zenica-Doboj Canton,Live births,2030
+2004,Number,M,Bosnian-Podrinje Canton,Live births,109
+2004,Number,M,Central Bosnia Canton,Live births,1452
+2004,Number,M,Herzegovina-Neretva Canton,Live births,969
+2004,Number,M,West Herzegovina Canton,Live births,416
+2004,Number,M,Sarajevo Canton,Live births,2035
+2004,Number,M,Canton 10,Live births,318
+2004,Number,F,Federation of Bosnia and Herzegovina,Live births,10774
+2004,Number,F,Una-Sana Canton,Live births,1404
+2004,Number,F,Posavina Canton,Live births,166
+2004,Number,F,Tuzla Canton,Live births,2312
+2004,Number,F,Zenica-Doboj Canton,Live births,1954
+2004,Number,F,Bosnian-Podrinje Canton,Live births,95
+2004,Number,F,Central Bosnia Canton,Live births,1298
+2004,Number,F,Herzegovina-Neretva Canton,Live births,1014
+2004,Number,F,West Herzegovina Canton,Live births,356
+2004,Number,F,Sarajevo Canton,Live births,1828
+2004,Number,F,Canton 10,Live births,279
+2005,Number,Total,Federation of Bosnia and Herzegovina,Live births,21795
+2005,Number,Total,Una-Sana Canton,Live births,2891
+2005,Number,Total,Posavina Canton,Live births,284
+2005,Number,Total,Tuzla Canton,Live births,4674
+2005,Number,Total,Zenica-Doboj Canton,Live births,3912
+2005,Number,Total,Bosnian-Podrinje Canton,Live births,205
+2005,Number,Total,Central Bosnia Canton,Live births,2668
+2005,Number,Total,Herzegovina-Neretva Canton,Live births,1929
+2005,Number,Total,West Herzegovina Canton,Live births,667
+2005,Number,Total,Sarajevo Canton,Live births,4004
+2005,Number,Total,Canton 10,Live births,561
+2005,Number,M,Federation of Bosnia and Herzegovina,Live births,11213
+2005,Number,M,Una-Sana Canton,Live births,1447
+2005,Number,M,Posavina Canton,Live births,142
+2005,Number,M,Tuzla Canton,Live births,2462
+2005,Number,M,Zenica-Doboj Canton,Live births,1984
+2005,Number,M,Bosnian-Podrinje Canton,Live births,105
+2005,Number,M,Central Bosnia Canton,Live births,1357
+2005,Number,M,Herzegovina-Neretva Canton,Live births,993
+2005,Number,M,West Herzegovina Canton,Live births,360
+2005,Number,M,Sarajevo Canton,Live births,2066
+2005,Number,M,Canton 10,Live births,297
+2005,Number,F,Federation of Bosnia and Herzegovina,Live births,10582
+2005,Number,F,Una-Sana Canton,Live births,1444
+2005,Number,F,Posavina Canton,Live births,142
+2005,Number,F,Tuzla Canton,Live births,2212
+2005,Number,F,Zenica-Doboj Canton,Live births,1928
+2005,Number,F,Bosnian-Podrinje Canton,Live births,100
+2005,Number,F,Central Bosnia Canton,Live births,1311
+2005,Number,F,Herzegovina-Neretva Canton,Live births,936
+2005,Number,F,West Herzegovina Canton,Live births,307
+2005,Number,F,Sarajevo Canton,Live births,1938
+2005,Number,F,Canton 10,Live births,264
+2006,Number,Total,Federation of Bosnia and Herzegovina,Live births,21503
+2006,Number,Total,Una-Sana Canton,Live births,2790
+2006,Number,Total,Posavina Canton,Live births,265
+2006,Number,Total,Tuzla Canton,Live births,4652
+2006,Number,Total,Zenica-Doboj Canton,Live births,3842
+2006,Number,Total,Bosnian-Podrinje Canton,Live births,175
+2006,Number,Total,Central Bosnia Canton,Live births,2616
+2006,Number,Total,Herzegovina-Neretva Canton,Live births,1826
+2006,Number,Total,West Herzegovina Canton,Live births,656
+2006,Number,Total,Sarajevo Canton,Live births,4131
+2006,Number,Total,Canton 10,Live births,550
+2006,Number,M,Federation of Bosnia and Herzegovina,Live births,11150
+2006,Number,M,Una-Sana Canton,Live births,1469
+2006,Number,M,Posavina Canton,Live births,140
+2006,Number,M,Tuzla Canton,Live births,2414
+2006,Number,M,Zenica-Doboj Canton,Live births,1976
+2006,Number,M,Bosnian-Podrinje Canton,Live births,97
+2006,Number,M,Central Bosnia Canton,Live births,1351
+2006,Number,M,Herzegovina-Neretva Canton,Live births,951
+2006,Number,M,West Herzegovina Canton,Live births,327
+2006,Number,M,Sarajevo Canton,Live births,2130
+2006,Number,M,Canton 10,Live births,295
+2006,Number,F,Federation of Bosnia and Herzegovina,Live births,10353
+2006,Number,F,Una-Sana Canton,Live births,1321
+2006,Number,F,Posavina Canton,Live births,125
+2006,Number,F,Tuzla Canton,Live births,2238
+2006,Number,F,Zenica-Doboj Canton,Live births,1866
+2006,Number,F,Bosnian-Podrinje Canton,Live births,78
+2006,Number,F,Central Bosnia Canton,Live births,1265
+2006,Number,F,Herzegovina-Neretva Canton,Live births,875
+2006,Number,F,West Herzegovina Canton,Live births,329
+2006,Number,F,Sarajevo Canton,Live births,2001
+2006,Number,F,Canton 10,Live births,255
+2007,Number,Total,Federation of Bosnia and Herzegovina,Live births,21628
+2007,Number,Total,Una-Sana Canton,Live births,2841
+2007,Number,Total,Posavina Canton,Live births,278
+2007,Number,Total,Tuzla Canton,Live births,4616
+2007,Number,Total,Zenica-Doboj Canton,Live births,3881
+2007,Number,Total,Bosnian-Podrinje Canton,Live births,173
+2007,Number,Total,Central Bosnia Canton,Live births,2605
+2007,Number,Total,Herzegovina-Neretva Canton,Live births,1767
+2007,Number,Total,West Herzegovina Canton,Live births,691
+2007,Number,Total,Sarajevo Canton,Live births,4283
+2007,Number,Total,Canton 10,Live births,493
+2007,Number,M,Federation of Bosnia and Herzegovina,Live births,11249
+2007,Number,M,Una-Sana Canton,Live births,1519
+2007,Number,M,Posavina Canton,Live births,154
+2007,Number,M,Tuzla Canton,Live births,2360
+2007,Number,M,Zenica-Doboj Canton,Live births,2023
+2007,Number,M,Bosnian-Podrinje Canton,Live births,77
+2007,Number,M,Central Bosnia Canton,Live births,1369
+2007,Number,M,Herzegovina-Neretva Canton,Live births,925
+2007,Number,M,West Herzegovina Canton,Live births,355
+2007,Number,M,Sarajevo Canton,Live births,2200
+2007,Number,M,Canton 10,Live births,267
+2007,Number,F,Federation of Bosnia and Herzegovina,Live births,10379
+2007,Number,F,Una-Sana Canton,Live births,1322
+2007,Number,F,Posavina Canton,Live births,124
+2007,Number,F,Tuzla Canton,Live births,2256
+2007,Number,F,Zenica-Doboj Canton,Live births,1858
+2007,Number,F,Bosnian-Podrinje Canton,Live births,96
+2007,Number,F,Central Bosnia Canton,Live births,1236
+2007,Number,F,Herzegovina-Neretva Canton,Live births,842
+2007,Number,F,West Herzegovina Canton,Live births,336
+2007,Number,F,Sarajevo Canton,Live births,2083
+2007,Number,F,Canton 10,Live births,226
+2008,Number,Total,Federation of Bosnia and Herzegovina,Live births,22819
+2008,Number,Total,Una-Sana Canton,Live births,2990
+2008,Number,Total,Posavina Canton,Live births,251
+2008,Number,Total,Tuzla Canton,Live births,4801
+2008,Number,Total,Zenica-Doboj Canton,Live births,4253
+2008,Number,Total,Bosnian-Podrinje Canton,Live births,210
+2008,Number,Total,Central Bosnia Canton,Live births,2564
+2008,Number,Total,Herzegovina-Neretva Canton,Live births,1916
+2008,Number,Total,West Herzegovina Canton,Live births,751
+2008,Number,Total,Sarajevo Canton,Live births,4621
+2008,Number,Total,Canton 10,Live births,462
+2008,Number,M,Federation of Bosnia and Herzegovina,Live births,11682
+2008,Number,M,Una-Sana Canton,Live births,1481
+2008,Number,M,Posavina Canton,Live births,127
+2008,Number,M,Tuzla Canton,Live births,2440
+2008,Number,M,Zenica-Doboj Canton,Live births,2187
+2008,Number,M,Bosnian-Podrinje Canton,Live births,119
+2008,Number,M,Central Bosnia Canton,Live births,1322
+2008,Number,M,Herzegovina-Neretva Canton,Live births,1015
+2008,Number,M,West Herzegovina Canton,Live births,381
+2008,Number,M,Sarajevo Canton,Live births,2373
+2008,Number,M,Canton 10,Live births,237
+2008,Number,F,Federation of Bosnia and Herzegovina,Live births,11137
+2008,Number,F,Una-Sana Canton,Live births,1509
+2008,Number,F,Posavina Canton,Live births,124
+2008,Number,F,Tuzla Canton,Live births,2361
+2008,Number,F,Zenica-Doboj Canton,Live births,2066
+2008,Number,F,Bosnian-Podrinje Canton,Live births,91
+2008,Number,F,Central Bosnia Canton,Live births,1242
+2008,Number,F,Herzegovina-Neretva Canton,Live births,901
+2008,Number,F,West Herzegovina Canton,Live births,370
+2008,Number,F,Sarajevo Canton,Live births,2248
+2008,Number,F,Canton 10,Live births,225
+2009,Number,Total,Federation of Bosnia and Herzegovina,Live births,22807
+2009,Number,Total,Una-Sana Canton,Live births,2842
+2009,Number,Total,Posavina Canton,Live births,255
+2009,Number,Total,Tuzla Canton,Live births,4898
+2009,Number,Total,Zenica-Doboj Canton,Live births,4186
+2009,Number,Total,Bosnian-Podrinje Canton,Live births,236
+2009,Number,Total,Central Bosnia Canton,Live births,2462
+2009,Number,Total,Herzegovina-Neretva Canton,Live births,1870
+2009,Number,Total,West Herzegovina Canton,Live births,722
+2009,Number,Total,Sarajevo Canton,Live births,4898
+2009,Number,Total,Canton 10,Live births,438
+2009,Number,M,Federation of Bosnia and Herzegovina,Live births,11823
+2009,Number,M,Una-Sana Canton,Live births,1468
+2009,Number,M,Posavina Canton,Live births,135
+2009,Number,M,Tuzla Canton,Live births,2552
+2009,Number,M,Zenica-Doboj Canton,Live births,2192
+2009,Number,M,Bosnian-Podrinje Canton,Live births,125
+2009,Number,M,Central Bosnia Canton,Live births,1280
+2009,Number,M,Herzegovina-Neretva Canton,Live births,931
+2009,Number,M,West Herzegovina Canton,Live births,368
+2009,Number,M,Sarajevo Canton,Live births,2548
+2009,Number,M,Canton 10,Live births,224
+2009,Number,F,Federation of Bosnia and Herzegovina,Live births,10984
+2009,Number,F,Una-Sana Canton,Live births,1374
+2009,Number,F,Posavina Canton,Live births,120
+2009,Number,F,Tuzla Canton,Live births,2346
+2009,Number,F,Zenica-Doboj Canton,Live births,1994
+2009,Number,F,Bosnian-Podrinje Canton,Live births,111
+2009,Number,F,Central Bosnia Canton,Live births,1182
+2009,Number,F,Herzegovina-Neretva Canton,Live births,939
+2009,Number,F,West Herzegovina Canton,Live births,354
+2009,Number,F,Sarajevo Canton,Live births,2350
+2009,Number,F,Canton 10,Live births,214
+2010,Number,Total,Federation of Bosnia and Herzegovina,Live births,22305
+2010,Number,Total,Una-Sana Canton,Live births,2673
+2010,Number,Total,Posavina Canton,Live births,241
+2010,Number,Total,Tuzla Canton,Live births,4826
+2010,Number,Total,Zenica-Doboj Canton,Live births,3980
+2010,Number,Total,Bosnian-Podrinje Canton,Live births,231
+2010,Number,Total,Central Bosnia Canton,Live births,2444
+2010,Number,Total,Herzegovina-Neretva Canton,Live births,1903
+2010,Number,Total,West Herzegovina Canton,Live births,789
+2010,Number,Total,Sarajevo Canton,Live births,4704
+2010,Number,Total,Canton 10,Live births,514
+2010,Number,M,Federation of Bosnia and Herzegovina,Live births,11520
+2010,Number,M,Una-Sana Canton,Live births,1361
+2010,Number,M,Posavina Canton,Live births,132
+2010,Number,M,Tuzla Canton,Live births,2512
+2010,Number,M,Zenica-Doboj Canton,Live births,2008
+2010,Number,M,Bosnian-Podrinje Canton,Live births,113
+2010,Number,M,Central Bosnia Canton,Live births,1282
+2010,Number,M,Herzegovina-Neretva Canton,Live births,1018
+2010,Number,M,West Herzegovina Canton,Live births,398
+2010,Number,M,Sarajevo Canton,Live births,2423
+2010,Number,M,Canton 10,Live births,273
+2010,Number,F,Federation of Bosnia and Herzegovina,Live births,10785
+2010,Number,F,Una-Sana Canton,Live births,1312
+2010,Number,F,Posavina Canton,Live births,109
+2010,Number,F,Tuzla Canton,Live births,2314
+2010,Number,F,Zenica-Doboj Canton,Live births,1972
+2010,Number,F,Bosnian-Podrinje Canton,Live births,118
+2010,Number,F,Central Bosnia Canton,Live births,1162
+2010,Number,F,Herzegovina-Neretva Canton,Live births,885
+2010,Number,F,West Herzegovina Canton,Live births,391
+2010,Number,F,Sarajevo Canton,Live births,2281
+2010,Number,F,Canton 10,Live births,241
+2011,Number,Total,Federation of Bosnia and Herzegovina,Live births,21161
+2011,Number,Total,Una-Sana Canton,Live births,2496
+2011,Number,Total,Posavina Canton,Live births,228
+2011,Number,Total,Tuzla Canton,Live births,4417
+2011,Number,Total,Zenica-Doboj Canton,Live births,3760
+2011,Number,Total,Bosnian-Podrinje Canton,Live births,191
+2011,Number,Total,Central Bosnia Canton,Live births,2300
+2011,Number,Total,Herzegovina-Neretva Canton,Live births,1817
+2011,Number,Total,West Herzegovina Canton,Live births,772
+2011,Number,Total,Sarajevo Canton,Live births,4722
+2011,Number,Total,Canton 10,Live births,458
+2011,Number,M,Federation of Bosnia and Herzegovina,Live births,10981
+2011,Number,M,Una-Sana Canton,Live births,1312
+2011,Number,M,Posavina Canton,Live births,112
+2011,Number,M,Tuzla Canton,Live births,2305
+2011,Number,M,Zenica-Doboj Canton,Live births,1945
+2011,Number,M,Bosnian-Podrinje Canton,Live births,99
+2011,Number,M,Central Bosnia Canton,Live births,1219
+2011,Number,M,Herzegovina-Neretva Canton,Live births,946
+2011,Number,M,West Herzegovina Canton,Live births,401
+2011,Number,M,Sarajevo Canton,Live births,2411
+2011,Number,M,Canton 10,Live births,231
+2011,Number,F,Federation of Bosnia and Herzegovina,Live births,10180
+2011,Number,F,Una-Sana Canton,Live births,1184
+2011,Number,F,Posavina Canton,Live births,116
+2011,Number,F,Tuzla Canton,Live births,2112
+2011,Number,F,Zenica-Doboj Canton,Live births,1815
+2011,Number,F,Bosnian-Podrinje Canton,Live births,92
+2011,Number,F,Central Bosnia Canton,Live births,1081
+2011,Number,F,Herzegovina-Neretva Canton,Live births,871
+2011,Number,F,West Herzegovina Canton,Live births,371
+2011,Number,F,Sarajevo Canton,Live births,2311
+2011,Number,F,Canton 10,Live births,227
+2012,Number,Total,Federation of Bosnia and Herzegovina,Live births,21389
+2012,Number,Total,Una-Sana Canton,Live births,2351
+2012,Number,Total,Posavina Canton,Live births,220
+2012,Number,Total,Tuzla Canton,Live births,4587
+2012,Number,Total,Zenica-Doboj Canton,Live births,3807
+2012,Number,Total,Bosnian-Podrinje Canton,Live births,216
+2012,Number,Total,Central Bosnia Canton,Live births,2361
+2012,Number,Total,Herzegovina-Neretva Canton,Live births,1901
+2012,Number,Total,West Herzegovina Canton,Live births,798
+2012,Number,Total,Sarajevo Canton,Live births,4682
+2012,Number,Total,Canton 10,Live births,466
+2012,Number,M,Federation of Bosnia and Herzegovina,Live births,11110
+2012,Number,M,Una-Sana Canton,Live births,1227
+2012,Number,M,Posavina Canton,Live births,125
+2012,Number,M,Tuzla Canton,Live births,2351
+2012,Number,M,Zenica-Doboj Canton,Live births,1995
+2012,Number,M,Bosnian-Podrinje Canton,Live births,121
+2012,Number,M,Central Bosnia Canton,Live births,1207
+2012,Number,M,Herzegovina-Neretva Canton,Live births,985
+2012,Number,M,West Herzegovina Canton,Live births,397
+2012,Number,M,Sarajevo Canton,Live births,2465
+2012,Number,M,Canton 10,Live births,237
+2012,Number,F,Federation of Bosnia and Herzegovina,Live births,10279
+2012,Number,F,Una-Sana Canton,Live births,1124
+2012,Number,F,Posavina Canton,Live births,95
+2012,Number,F,Tuzla Canton,Live births,2236
+2012,Number,F,Zenica-Doboj Canton,Live births,1812
+2012,Number,F,Bosnian-Podrinje Canton,Live births,95
+2012,Number,F,Central Bosnia Canton,Live births,1154
+2012,Number,F,Herzegovina-Neretva Canton,Live births,916
+2012,Number,F,West Herzegovina Canton,Live births,401
+2012,Number,F,Sarajevo Canton,Live births,2217
+2012,Number,F,Canton 10,Live births,229
+2013,Number,Total,Federation of Bosnia and Herzegovina,Live births,20083
+2013,Number,Total,Una-Sana Canton,Live births,2174
+2013,Number,Total,Posavina Canton,Live births,167
+2013,Number,Total,Tuzla Canton,Live births,4323
+2013,Number,Total,Zenica-Doboj Canton,Live births,3416
+2013,Number,Total,Bosnian-Podrinje Canton,Live births,236
+2013,Number,Total,Central Bosnia Canton,Live births,2184
+2013,Number,Total,Herzegovina-Neretva Canton,Live births,1831
+2013,Number,Total,West Herzegovina Canton,Live births,773
+2013,Number,Total,Sarajevo Canton,Live births,4550
+2013,Number,Total,Canton 10,Live births,429
+2013,Number,M,Federation of Bosnia and Herzegovina,Live births,10358
+2013,Number,M,Una-Sana Canton,Live births,1108
+2013,Number,M,Posavina Canton,Live births,85
+2013,Number,M,Tuzla Canton,Live births,2243
+2013,Number,M,Zenica-Doboj Canton,Live births,1799
+2013,Number,M,Bosnian-Podrinje Canton,Live births,132
+2013,Number,M,Central Bosnia Canton,Live births,1126
+2013,Number,M,Herzegovina-Neretva Canton,Live births,939
+2013,Number,M,West Herzegovina Canton,Live births,399
+2013,Number,M,Sarajevo Canton,Live births,2305
+2013,Number,M,Canton 10,Live births,222
+2013,Number,F,Federation of Bosnia and Herzegovina,Live births,9725
+2013,Number,F,Una-Sana Canton,Live births,1066
+2013,Number,F,Posavina Canton,Live births,82
+2013,Number,F,Tuzla Canton,Live births,2080
+2013,Number,F,Zenica-Doboj Canton,Live births,1617
+2013,Number,F,Bosnian-Podrinje Canton,Live births,104
+2013,Number,F,Central Bosnia Canton,Live births,1058
+2013,Number,F,Herzegovina-Neretva Canton,Live births,892
+2013,Number,F,West Herzegovina Canton,Live births,374
+2013,Number,F,Sarajevo Canton,Live births,2245
+2013,Number,F,Canton 10,Live births,207
+2014,Number,Total,Federation of Bosnia and Herzegovina,Live births,19823
+2014,Number,Total,Una-Sana Canton,Live births,2154
+2014,Number,Total,Posavina Canton,Live births,212
+2014,Number,Total,Tuzla Canton,Live births,4069
+2014,Number,Total,Zenica-Doboj Canton,Live births,3391
+2014,Number,Total,Bosnian-Podrinje Canton,Live births,268
+2014,Number,Total,Central Bosnia Canton,Live births,2090
+2014,Number,Total,Herzegovina-Neretva Canton,Live births,1824
+2014,Number,Total,West Herzegovina Canton,Live births,816
+2014,Number,Total,Sarajevo Canton,Live births,4566
+2014,Number,Total,Canton 10,Live births,433
+2014,Number,M,Federation of Bosnia and Herzegovina,Live births,10156
+2014,Number,M,Una-Sana Canton,Live births,1112
+2014,Number,M,Posavina Canton,Live births,107
+2014,Number,M,Tuzla Canton,Live births,2091
+2014,Number,M,Zenica-Doboj Canton,Live births,1724
+2014,Number,M,Bosnian-Podrinje Canton,Live births,134
+2014,Number,M,Central Bosnia Canton,Live births,1088
+2014,Number,M,Herzegovina-Neretva Canton,Live births,921
+2014,Number,M,West Herzegovina Canton,Live births,403
+2014,Number,M,Sarajevo Canton,Live births,2355
+2014,Number,M,Canton 10,Live births,221
+2014,Number,F,Federation of Bosnia and Herzegovina,Live births,9667
+2014,Number,F,Una-Sana Canton,Live births,1042
+2014,Number,F,Posavina Canton,Live births,105
+2014,Number,F,Tuzla Canton,Live births,1978
+2014,Number,F,Zenica-Doboj Canton,Live births,1667
+2014,Number,F,Bosnian-Podrinje Canton,Live births,134
+2014,Number,F,Central Bosnia Canton,Live births,1002
+2014,Number,F,Herzegovina-Neretva Canton,Live births,903
+2014,Number,F,West Herzegovina Canton,Live births,413
+2014,Number,F,Sarajevo Canton,Live births,2211
+2014,Number,F,Canton 10,Live births,212
+2015,Number,Total,Federation of Bosnia and Herzegovina,Live births,19317
+2015,Number,Total,Una-Sana Canton,Live births,2096
+2015,Number,Total,Posavina Canton,Live births,193
+2015,Number,Total,Tuzla Canton,Live births,3888
+2015,Number,Total,Zenica-Doboj Canton,Live births,3438
+2015,Number,Total,Bosnian-Podrinje Canton,Live births,214
+2015,Number,Total,Central Bosnia Canton,Live births,1965
+2015,Number,Total,Herzegovina-Neretva Canton,Live births,1762
+2015,Number,Total,West Herzegovina Canton,Live births,734
+2015,Number,Total,Sarajevo Canton,Live births,4619
+2015,Number,Total,Canton 10,Live births,408
+2015,Number,M,Federation of Bosnia and Herzegovina,Live births,9868
+2015,Number,M,Una-Sana Canton,Live births,1098
+2015,Number,M,Posavina Canton,Live births,108
+2015,Number,M,Tuzla Canton,Live births,1919
+2015,Number,M,Zenica-Doboj Canton,Live births,1782
+2015,Number,M,Bosnian-Podrinje Canton,Live births,114
+2015,Number,M,Central Bosnia Canton,Live births,1047
+2015,Number,M,Herzegovina-Neretva Canton,Live births,913
+2015,Number,M,West Herzegovina Canton,Live births,390
+2015,Number,M,Sarajevo Canton,Live births,2304
+2015,Number,M,Canton 10,Live births,193
+2015,Number,F,Federation of Bosnia and Herzegovina,Live births,9449
+2015,Number,F,Una-Sana Canton,Live births,998
+2015,Number,F,Posavina Canton,Live births,85
+2015,Number,F,Tuzla Canton,Live births,1969
+2015,Number,F,Zenica-Doboj Canton,Live births,1656
+2015,Number,F,Bosnian-Podrinje Canton,Live births,100
+2015,Number,F,Central Bosnia Canton,Live births,918
+2015,Number,F,Herzegovina-Neretva Canton,Live births,849
+2015,Number,F,West Herzegovina Canton,Live births,344
+2015,Number,F,Sarajevo Canton,Live births,2315
+2015,Number,F,Canton 10,Live births,215
+2016,Number,Total,Federation of Bosnia and Herzegovina,Live births,19655
+2016,Number,Total,Una-Sana Canton,Live births,2105
+2016,Number,Total,Posavina Canton,Live births,144
+2016,Number,Total,Tuzla Canton,Live births,3903
+2016,Number,Total,Zenica-Doboj Canton,Live births,3452
+2016,Number,Total,Bosnian-Podrinje Canton,Live births,234
+2016,Number,Total,Central Bosnia Canton,Live births,2135
+2016,Number,Total,Herzegovina-Neretva Canton,Live births,1833
+2016,Number,Total,West Herzegovina Canton,Live births,709
+2016,Number,Total,Sarajevo Canton,Live births,4774
+2016,Number,Total,Canton 10,Live births,366
+2016,Number,M,Federation of Bosnia and Herzegovina,Live births,10214
+2016,Number,M,Una-Sana Canton,Live births,1090
+2016,Number,M,Posavina Canton,Live births,75
+2016,Number,M,Tuzla Canton,Live births,1995
+2016,Number,M,Zenica-Doboj Canton,Live births,1816
+2016,Number,M,Bosnian-Podrinje Canton,Live births,131
+2016,Number,M,Central Bosnia Canton,Live births,1106
+2016,Number,M,Herzegovina-Neretva Canton,Live births,915
+2016,Number,M,West Herzegovina Canton,Live births,371
+2016,Number,M,Sarajevo Canton,Live births,2516
+2016,Number,M,Canton 10,Live births,199
+2016,Number,F,Federation of Bosnia and Herzegovina,Live births,9441
+2016,Number,F,Una-Sana Canton,Live births,1015
+2016,Number,F,Posavina Canton,Live births,69
+2016,Number,F,Tuzla Canton,Live births,1908
+2016,Number,F,Zenica-Doboj Canton,Live births,1636
+2016,Number,F,Bosnian-Podrinje Canton,Live births,103
+2016,Number,F,Central Bosnia Canton,Live births,1029
+2016,Number,F,Herzegovina-Neretva Canton,Live births,918
+2016,Number,F,West Herzegovina Canton,Live births,338
+2016,Number,F,Sarajevo Canton,Live births,2258
+2016,Number,F,Canton 10,Live births,167
+2017,Number,Total,Federation of Bosnia and Herzegovina,Live births,19824
+2017,Number,Total,Una-Sana Canton,Live births,2057
+2017,Number,Total,Posavina Canton,Live births,154
+2017,Number,Total,Tuzla Canton,Live births,3966
+2017,Number,Total,Zenica-Doboj Canton,Live births,3585
+2017,Number,Total,Bosnian-Podrinje Canton,Live births,241
+2017,Number,Total,Central Bosnia Canton,Live births,2167
+2017,Number,Total,Herzegovina-Neretva Canton,Live births,1712
+2017,Number,Total,West Herzegovina Canton,Live births,709
+2017,Number,Total,Sarajevo Canton,Live births,4856
+2017,Number,Total,Canton 10,Live births,377
+2017,Number,M,Federation of Bosnia and Herzegovina,Live births,10247
+2017,Number,M,Una-Sana Canton,Live births,1051
+2017,Number,M,Posavina Canton,Live births,75
+2017,Number,M,Tuzla Canton,Live births,2036
+2017,Number,M,Zenica-Doboj Canton,Live births,1827
+2017,Number,M,Bosnian-Podrinje Canton,Live births,133
+2017,Number,M,Central Bosnia Canton,Live births,1189
+2017,Number,M,Herzegovina-Neretva Canton,Live births,919
+2017,Number,M,West Herzegovina Canton,Live births,364
+2017,Number,M,Sarajevo Canton,Live births,2459
+2017,Number,M,Canton 10,Live births,194
+2017,Number,F,Federation of Bosnia and Herzegovina,Live births,9577
+2017,Number,F,Una-Sana Canton,Live births,1006
+2017,Number,F,Posavina Canton,Live births,79
+2017,Number,F,Tuzla Canton,Live births,1930
+2017,Number,F,Zenica-Doboj Canton,Live births,1758
+2017,Number,F,Bosnian-Podrinje Canton,Live births,108
+2017,Number,F,Central Bosnia Canton,Live births,978
+2017,Number,F,Herzegovina-Neretva Canton,Live births,793
+2017,Number,F,West Herzegovina Canton,Live births,345
+2017,Number,F,Sarajevo Canton,Live births,2397
+2017,Number,F,Canton 10,Live births,183
+2018,Number,Total,Federation of Bosnia and Herzegovina,Live births,18899
+2018,Number,Total,Una-Sana Canton,Live births,1804
+2018,Number,Total,Posavina Canton,Live births,151
+2018,Number,Total,Tuzla Canton,Live births,3723
+2018,Number,Total,Zenica-Doboj Canton,Live births,3488
+2018,Number,Total,Bosnian-Podrinje Canton,Live births,240
+2018,Number,Total,Central Bosnia Canton,Live births,2040
+2018,Number,Total,Herzegovina-Neretva Canton,Live births,1790
+2018,Number,Total,West Herzegovina Canton,Live births,760
+2018,Number,Total,Sarajevo Canton,Live births,4530
+2018,Number,Total,Canton 10,Live births,373
+2018,Number,M,Federation of Bosnia and Herzegovina,Live births,9742
+2018,Number,M,Una-Sana Canton,Live births,975
+2018,Number,M,Posavina Canton,Live births,68
+2018,Number,M,Tuzla Canton,Live births,1895
+2018,Number,M,Zenica-Doboj Canton,Live births,1760
+2018,Number,M,Bosnian-Podrinje Canton,Live births,125
+2018,Number,M,Central Bosnia Canton,Live births,1059
+2018,Number,M,Herzegovina-Neretva Canton,Live births,914
+2018,Number,M,West Herzegovina Canton,Live births,397
+2018,Number,M,Sarajevo Canton,Live births,2340
+2018,Number,M,Canton 10,Live births,209
+2019,Number,M,Federation of Bosnia and Herzegovina,Live births,9342
+2018,Number,F,Federation of Bosnia and Herzegovina,Live births,9157
+2018,Number,F,Una-Sana Canton,Live births,829
+2018,Number,F,Posavina Canton,Live births,83
+2018,Number,F,Tuzla Canton,Live births,1828
+2018,Number,F,Zenica-Doboj Canton,Live births,1728
+2018,Number,F,Bosnian-Podrinje Canton,Live births,115
+2018,Number,F,Central Bosnia Canton,Live births,981
+2018,Number,F,Herzegovina-Neretva Canton,Live births,876
+2018,Number,F,West Herzegovina Canton,Live births,363
+2018,Number,F,Sarajevo Canton,Live births,2190
+2018,Number,F,Canton 10,Live births,164
+2019,Number,Total,Federation of Bosnia and Herzegovina,Live births,18019
+2019,Number,Total,Una-Sana Canton,Live births,1735
+2019,Number,Total,Posavina Canton,Live births,124
+2019,Number,Total,Tuzla Canton,Live births,3636
+2019,Number,Total,Zenica-Doboj Canton,Live births,3337
+2019,Number,Total,Bosnian-Podrinje Canton,Live births,200
+2019,Number,Total,Central Bosnia Canton,Live births,1929
+2019,Number,Total,Herzegovina-Neretva Canton,Live births,1632
+2019,Number,Total,West Herzegovina Canton,Live births,729
+2019,Number,Total,Sarajevo Canton,Live births,4339
+2019,Number,Total,Canton 10,Live births,358
+2019,Number,M,Federation of Bosnia and Herzegovina,Live births,9342
+2019,Number,M,Una-Sana Canton,Live births,876
+2019,Number,M,Posavina Canton,Live births,68
+2019,Number,M,Tuzla Canton,Live births,1887
+2019,Number,M,Zenica-Doboj Canton,Live births,1733
+2019,Number,M,Bosnian-Podrinje Canton,Live births,100
+2019,Number,M,Central Bosnia Canton,Live births,1041
+2019,Number,M,Herzegovina-Neretva Canton,Live births,823
+2019,Number,M,West Herzegovina Canton,Live births,381
+2019,Number,M,Sarajevo Canton,Live births,2249
+2019,Number,M,Canton 10,Live births,184
+2019,Number,F,Federation of Bosnia and Herzegovina,Live births,8677
+2019,Number,F,Una-Sana Canton,Live births,859
+2019,Number,F,Posavina Canton,Live births,56
+2019,Number,F,Tuzla Canton,Live births,1749
+2019,Number,F,Zenica-Doboj Canton,Live births,1604
+2019,Number,F,Bosnian-Podrinje Canton,Live births,100
+2019,Number,F,Central Bosnia Canton,Live births,888
+2019,Number,F,Herzegovina-Neretva Canton,Live births,809
+2019,Number,F,West Herzegovina Canton,Live births,348
+2019,Number,F,Sarajevo Canton,Live births,2090
+2019,Number,F,Canton 10,Live births,174
+2020,Number,Total,Federation of Bosnia and Herzegovina,Live births,17211
+2020,Number,Total,Una-Sana Canton,Live births,1552
+2020,Number,Total,Posavina Canton,Live births,128
+2020,Number,Total,Tuzla Canton,Live births,3425
+2020,Number,Total,Zenica-Doboj Canton,Live births,3259
+2020,Number,Total,Bosnian-Podrinje Canton,Live births,173
+2020,Number,Total,Central Bosnia Canton,Live births,1854
+2020,Number,Total,Herzegovina-Neretva Canton,Live births,1532
+2020,Number,Total,West Herzegovina Canton,Live births,756
+2020,Number,Total,Sarajevo Canton,Live births,4206
+2020,Number,Total,Canton 10,Live births,326
+2020,Number,M,Federation of Bosnia and Herzegovina,Live births,8901
+2020,Number,M,Una-Sana Canton,Live births,808
+2020,Number,M,Posavina Canton,Live births,69
+2020,Number,M,Tuzla Canton,Live births,1775
+2020,Number,M,Zenica-Doboj Canton,Live births,1683
+2020,Number,M,Bosnian-Podrinje Canton,Live births,88
+2020,Number,M,Central Bosnia Canton,Live births,978
+2020,Number,M,Herzegovina-Neretva Canton,Live births,805
+2020,Number,M,West Herzegovina Canton,Live births,373
+2020,Number,M,Sarajevo Canton,Live births,2164
+2020,Number,M,Canton 10,Live births,158
+2020,Number,F,Federation of Bosnia and Herzegovina,Live births,8310
+2020,Number,F,Una-Sana Canton,Live births,744
+2020,Number,F,Posavina Canton,Live births,59
+2020,Number,F,Tuzla Canton,Live births,1650
+2020,Number,F,Zenica-Doboj Canton,Live births,1576
+2020,Number,F,Bosnian-Podrinje Canton,Live births,85
+2020,Number,F,Central Bosnia Canton,Live births,876
+2020,Number,F,Herzegovina-Neretva Canton,Live births,727
+2020,Number,F,West Herzegovina Canton,Live births,383
+2020,Number,F,Sarajevo Canton,Live births,2042
+2020,Number,F,Canton 10,Live births,168
+2021,Number,Total,Federation of Bosnia and Herzegovina,Live births,16873
+2021,Number,Total,Una-Sana Canton,Live births,1397
+2021,Number,Total,Posavina Canton,Live births,139
+2021,Number,Total,Tuzla Canton,Live births,3354
+2021,Number,Total,Zenica-Doboj Canton,Live births,3172
+2021,Number,Total,Bosnian-Podrinje Canton,Live births,150
+2021,Number,Total,Central Bosnia Canton,Live births,1825
+2021,Number,Total,Herzegovina-Neretva Canton,Live births,1593
+2021,Number,Total,West Herzegovina Canton,Live births,815
+2021,Number,Total,Sarajevo Canton,Live births,4093
+2021,Number,Total,Canton 10,Live births,335
+2021,Number,M,Federation of Bosnia and Herzegovina,Live births,8621
+2021,Number,M,Una-Sana Canton,Live births,720
+2021,Number,M,Posavina Canton,Live births,71
+2021,Number,M,Tuzla Canton,Live births,1714
+2021,Number,M,Zenica-Doboj Canton,Live births,1637
+2021,Number,M,Bosnian-Podrinje Canton,Live births,78
+2021,Number,M,Central Bosnia Canton,Live births,904
+2021,Number,M,Herzegovina-Neretva Canton,Live births,802
+2021,Number,M,West Herzegovina Canton,Live births,427
+2021,Number,M,Sarajevo Canton,Live births,2080
+2021,Number,M,Canton 10,Live births,188
+2021,Number,F,Federation of Bosnia and Herzegovina,Live births,8252
+2021,Number,F,Una-Sana Canton,Live births,677
+2021,Number,F,Posavina Canton,Live births,68
+2021,Number,F,Tuzla Canton,Live births,1640
+2021,Number,F,Zenica-Doboj Canton,Live births,1535
+2021,Number,F,Bosnian-Podrinje Canton,Live births,72
+2021,Number,F,Central Bosnia Canton,Live births,921
+2021,Number,F,Herzegovina-Neretva Canton,Live births,791
+2021,Number,F,West Herzegovina Canton,Live births,388
+2021,Number,F,Sarajevo Canton,Live births,2013
+2021,Number,F,Canton 10,Live births,147
+2022,Number,Total,Federation of Bosnia and Herzegovina,Live births,16538
+2022,Number,Total,Una-Sana Canton,Live births,1426
+2022,Number,Total,Posavina Canton,Live births,124
+2022,Number,Total,Tuzla Canton,Live births,3266
+2022,Number,Total,Zenica-Doboj Canton,Live births,3038
+2022,Number,Total,Bosnian-Podrinje Canton,Live births,152
+2022,Number,Total,Central Bosnia Canton,Live births,1701
+2022,Number,Total,Herzegovina-Neretva Canton,Live births,1500
+2022,Number,Total,West Herzegovina Canton,Live births,849
+2022,Number,Total,Sarajevo Canton,Live births,4146
+2022,Number,Total,Canton 10,Live births,336
+2022,Number,M,Federation of Bosnia and Herzegovina,Live births,8525
+2022,Number,M,Una-Sana Canton,Live births,723
+2022,Number,M,Posavina Canton,Live births,66
+2022,Number,M,Tuzla Canton,Live births,1669
+2022,Number,M,Zenica-Doboj Canton,Live births,1558
+2022,Number,M,Bosnian-Podrinje Canton,Live births,85
+2022,Number,M,Central Bosnia Canton,Live births,931
+2022,Number,M,Herzegovina-Neretva Canton,Live births,793
+2022,Number,M,West Herzegovina Canton,Live births,432
+2022,Number,M,Sarajevo Canton,Live births,2094
+2022,Number,M,Canton 10,Live births,174
+2022,Number,F,Federation of Bosnia and Herzegovina,Live births,8013
+2022,Number,F,Una-Sana Canton,Live births,703
+2022,Number,F,Posavina Canton,Live births,58
+2022,Number,F,Tuzla Canton,Live births,1597
+2022,Number,F,Zenica-Doboj Canton,Live births,1480
+2022,Number,F,Bosnian-Podrinje Canton,Live births,67
+2022,Number,F,Central Bosnia Canton,Live births,770
+2022,Number,F,Herzegovina-Neretva Canton,Live births,707
+2022,Number,F,West Herzegovina Canton,Live births,417
+2022,Number,F,Sarajevo Canton,Live births,2052
+2022,Number,F,Canton 10,Live births,162
+1996,Number,Total,Federation of Bosnia and Herzegovina,Deaths,13753
+1996,Number,Total,Una-Sana Canton,Deaths,1663
+1996,Number,Total,Posavina Canton,Deaths,130
+1996,Number,Total,Tuzla Canton,Deaths,2351
+1996,Number,Total,Zenica-Doboj Canton,Deaths,2625
+1996,Number,Total,Bosnian-Podrinje Canton,Deaths,210
+1996,Number,Total,Central Bosnia Canton,Deaths,1604
+1996,Number,Total,Herzegovina-Neretva Canton,Deaths,1426
+1996,Number,Total,West Herzegovina Canton,Deaths,674
+1996,Number,Total,Sarajevo Canton,Deaths,2538
+1996,Number,Total,Canton 10,Deaths,532
+1996,Number,M,Federation of Bosnia and Herzegovina,Deaths,7645
+1996,Number,M,Una-Sana Canton,Deaths,980
+1996,Number,M,Posavina Canton,Deaths,73
+1996,Number,M,Tuzla Canton,Deaths,1330
+1996,Number,M,Zenica-Doboj Canton,Deaths,1439
+1996,Number,M,Bosnian-Podrinje Canton,Deaths,112
+1996,Number,M,Central Bosnia Canton,Deaths,919
+1996,Number,M,Herzegovina-Neretva Canton,Deaths,760
+1996,Number,M,West Herzegovina Canton,Deaths,323
+1996,Number,M,Sarajevo Canton,Deaths,1424
+1996,Number,M,Canton 10,Deaths,285
+1996,Number,F,Una-Sana Canton,Deaths,683
+1996,Number,F,Federation of Bosnia and Herzegovina,Deaths,6108
+1996,Number,F,Posavina Canton,Deaths,57
+1996,Number,F,Tuzla Canton,Deaths,1021
+1996,Number,F,Zenica-Doboj Canton,Deaths,1186
+1996,Number,F,Bosnian-Podrinje Canton,Deaths,98
+1996,Number,F,Central Bosnia Canton,Deaths,685
+1996,Number,F,Herzegovina-Neretva Canton,Deaths,666
+1996,Number,F,West Herzegovina Canton,Deaths,351
+1996,Number,F,Sarajevo Canton,Deaths,1114
+1996,Number,F,Canton 10,Deaths,247
+1997,Number,Total,Federation of Bosnia and Herzegovina,Deaths,15609
+1997,Number,Total,Una-Sana Canton,Deaths,1914
+1997,Number,Total,Posavina Canton,Deaths,148
+1997,Number,Total,Tuzla Canton,Deaths,2562
+1997,Number,Total,Zenica-Doboj Canton,Deaths,2562
+1997,Number,Total,Bosnian-Podrinje Canton,Deaths,232
+1997,Number,Total,Central Bosnia Canton,Deaths,1786
+1997,Number,Total,Herzegovina-Neretva Canton,Deaths,1700
+1997,Number,Total,West Herzegovina Canton,Deaths,728
+1997,Number,Total,Sarajevo Canton,Deaths,2945
+1997,Number,Total,Canton 10,Deaths,570
+1997,Number,M,Federation of Bosnia and Herzegovina,Deaths,8387
+1997,Number,M,Una-Sana Canton,Deaths,1015
+1997,Number,M,Posavina Canton,Deaths,81
+1997,Number,M,Tuzla Canton,Deaths,1427
+1997,Number,M,Zenica-Doboj Canton,Deaths,1675
+1997,Number,M,Bosnian-Podrinje Canton,Deaths,120
+1997,Number,M,Central Bosnia Canton,Deaths,966
+1997,Number,M,Herzegovina-Neretva Canton,Deaths,881
+1997,Number,M,West Herzegovina Canton,Deaths,336
+1997,Number,M,Sarajevo Canton,Deaths,1581
+1997,Number,M,Canton 10,Deaths,305
+1997,Number,F,Federation of Bosnia and Herzegovina,Deaths,7222
+1997,Number,F,Una-Sana Canton,Deaths,899
+1997,Number,F,Posavina Canton,Deaths,67
+1997,Number,F,Tuzla Canton,Deaths,1135
+1997,Number,F,Zenica-Doboj Canton,Deaths,1349
+1997,Number,F,Bosnian-Podrinje Canton,Deaths,112
+1997,Number,F,Central Bosnia Canton,Deaths,820
+1997,Number,F,Herzegovina-Neretva Canton,Deaths,819
+1997,Number,F,West Herzegovina Canton,Deaths,392
+1997,Number,F,Sarajevo Canton,Deaths,1364
+1997,Number,F,Canton 10,Deaths,265
+1998,Number,Total,Federation of Bosnia and Herzegovina,Deaths,15564
+1998,Number,Total,Una-Sana Canton,Deaths,1997
+1998,Number,Total,Posavina Canton,Deaths,127
+1998,Number,Total,Tuzla Canton,Deaths,2547
+1998,Number,Total,Zenica-Doboj Canton,Deaths,3038
+1998,Number,Total,Bosnian-Podrinje Canton,Deaths,251
+1998,Number,Total,Central Bosnia Canton,Deaths,1816
+1998,Number,Total,Herzegovina-Neretva Canton,Deaths,1649
+1998,Number,Total,West Herzegovina Canton,Deaths,663
+1998,Number,Total,Sarajevo Canton,Deaths,2885
+1998,Number,Total,Canton 10,Deaths,591
+1998,Number,M,Federation of Bosnia and Herzegovina,Deaths,8353
+1998,Number,M,Una-Sana Canton,Deaths,1051
+1998,Number,M,Posavina Canton,Deaths,66
+1998,Number,M,Tuzla Canton,Deaths,1442
+1998,Number,M,Zenica-Doboj Canton,Deaths,1614
+1998,Number,M,Bosnian-Podrinje Canton,Deaths,145
+1998,Number,M,Central Bosnia Canton,Deaths,1005
+1998,Number,M,Herzegovina-Neretva Canton,Deaths,865
+1998,Number,M,West Herzegovina Canton,Deaths,319
+1998,Number,M,Sarajevo Canton,Deaths,1535
+1998,Number,M,Canton 10,Deaths,309
+1998,Number,F,Federation of Bosnia and Herzegovina,Deaths,7211
+1998,Number,F,Una-Sana Canton,Deaths,946
+1998,Number,F,Posavina Canton,Deaths,61
+1998,Number,F,Tuzla Canton,Deaths,1105
+1998,Number,F,Zenica-Doboj Canton,Deaths,1422
+1998,Number,F,Bosnian-Podrinje Canton,Deaths,106
+1998,Number,F,Central Bosnia Canton,Deaths,811
+1998,Number,F,Herzegovina-Neretva Canton,Deaths,784
+1998,Number,F,West Herzegovina Canton,Deaths,344
+1998,Number,F,Sarajevo Canton,Deaths,1350
+1998,Number,F,Canton 10,Deaths,282
+1999,Number,Total,Federation of Bosnia and Herzegovina,Deaths,15586
+1999,Number,Total,Una-Sana Canton,Deaths,1949
+1999,Number,Total,Posavina Canton,Deaths,231
+1999,Number,Total,Tuzla Canton,Deaths,2612
+1999,Number,Total,Zenica-Doboj Canton,Deaths,3087
+1999,Number,Total,Bosnian-Podrinje Canton,Deaths,241
+1999,Number,Total,Central Bosnia Canton,Deaths,1797
+1999,Number,Total,Herzegovina-Neretva Canton,Deaths,1579
+1999,Number,Total,West Herzegovina Canton,Deaths,604
+1999,Number,Total,Sarajevo Canton,Deaths,2929
+1999,Number,Total,Canton 10,Deaths,557
+1999,Number,M,Federation of Bosnia and Herzegovina,Deaths,8235
+1999,Number,M,Una-Sana Canton,Deaths,1013
+1999,Number,M,Posavina Canton,Deaths,129
+1999,Number,M,Tuzla Canton,Deaths,1417
+1999,Number,M,Zenica-Doboj Canton,Deaths,1628
+1999,Number,M,Bosnian-Podrinje Canton,Deaths,133
+1999,Number,M,Central Bosnia Canton,Deaths,957
+1999,Number,M,Herzegovina-Neretva Canton,Deaths,816
+1999,Number,M,West Herzegovina Canton,Deaths,285
+1999,Number,M,Sarajevo Canton,Deaths,1557
+1999,Number,M,Canton 10,Deaths,300
+1999,Number,F,Federation of Bosnia and Herzegovina,Deaths,7351
+1999,Number,F,Una-Sana Canton,Deaths,936
+1999,Number,F,Posavina Canton,Deaths,102
+1999,Number,F,Tuzla Canton,Deaths,1195
+1999,Number,F,Zenica-Doboj Canton,Deaths,1459
+1999,Number,F,Bosnian-Podrinje Canton,Deaths,108
+1999,Number,F,Central Bosnia Canton,Deaths,840
+1999,Number,F,Herzegovina-Neretva Canton,Deaths,763
+1999,Number,F,West Herzegovina Canton,Deaths,319
+1999,Number,F,Sarajevo Canton,Deaths,1372
+1999,Number,F,Canton 10,Deaths,257
+2000,Number,Total,Federation of Bosnia and Herzegovina,Deaths,16985
+2000,Number,Total,Una-Sana Canton,Deaths,2005
+2000,Number,Total,Posavina Canton,Deaths,315
+2000,Number,Total,Tuzla Canton,Deaths,2884
+2000,Number,Total,Zenica-Doboj Canton,Deaths,3308
+2000,Number,Total,Bosnian-Podrinje Canton,Deaths,270
+2000,Number,Total,Central Bosnia Canton,Deaths,1847
+2000,Number,Total,Herzegovina-Neretva Canton,Deaths,1697
+2000,Number,Total,West Herzegovina Canton,Deaths,576
+2000,Number,Total,Sarajevo Canton,Deaths,3436
+2000,Number,Total,Canton 10,Deaths,647
+2000,Number,M,Federation of Bosnia and Herzegovina,Deaths,8917
+2000,Number,M,Una-Sana Canton,Deaths,1062
+2000,Number,M,Posavina Canton,Deaths,176
+2000,Number,M,Tuzla Canton,Deaths,1534
+2000,Number,M,Zenica-Doboj Canton,Deaths,1738
+2000,Number,M,Bosnian-Podrinje Canton,Deaths,138
+2000,Number,M,Central Bosnia Canton,Deaths,958
+2000,Number,M,Herzegovina-Neretva Canton,Deaths,900
+2000,Number,M,West Herzegovina Canton,Deaths,303
+2000,Number,M,Sarajevo Canton,Deaths,1777
+2000,Number,M,Canton 10,Deaths,331
+2000,Number,F,Federation of Bosnia and Herzegovina,Deaths,8068
+2000,Number,F,Una-Sana Canton,Deaths,943
+2000,Number,F,Posavina Canton,Deaths,139
+2000,Number,F,Tuzla Canton,Deaths,1350
+2000,Number,F,Zenica-Doboj Canton,Deaths,1570
+2000,Number,F,Bosnian-Podrinje Canton,Deaths,132
+2000,Number,F,Central Bosnia Canton,Deaths,889
+2000,Number,F,Herzegovina-Neretva Canton,Deaths,797
+2000,Number,F,West Herzegovina Canton,Deaths,273
+2000,Number,F,Sarajevo Canton,Deaths,1659
+2000,Number,F,Canton 10,Deaths,316
+2001,Number,Total,Federation of Bosnia and Herzegovina,Deaths,16756
+2001,Number,Total,Una-Sana Canton,Deaths,1941
+2001,Number,Total,Posavina Canton,Deaths,362
+2001,Number,Total,Tuzla Canton,Deaths,2850
+2001,Number,Total,Zenica-Doboj Canton,Deaths,3076
+2001,Number,Total,Bosnian-Podrinje Canton,Deaths,232
+2001,Number,Total,Central Bosnia Canton,Deaths,1900
+2001,Number,Total,Herzegovina-Neretva Canton,Deaths,1700
+2001,Number,Total,West Herzegovina Canton,Deaths,593
+2001,Number,Total,Sarajevo Canton,Deaths,3440
+2001,Number,Total,Canton 10,Deaths,662
+2001,Number,M,Federation of Bosnia and Herzegovina,Deaths,8830
+2001,Number,M,Una-Sana Canton,Deaths,1029
+2001,Number,M,Posavina Canton,Deaths,204
+2001,Number,M,Tuzla Canton,Deaths,1506
+2001,Number,M,Zenica-Doboj Canton,Deaths,1629
+2001,Number,M,Bosnian-Podrinje Canton,Deaths,112
+2001,Number,M,Central Bosnia Canton,Deaths,975
+2001,Number,M,Herzegovina-Neretva Canton,Deaths,900
+2001,Number,M,West Herzegovina Canton,Deaths,291
+2001,Number,M,Sarajevo Canton,Deaths,1843
+2001,Number,M,Canton 10,Deaths,341
+2001,Number,F,Federation of Bosnia and Herzegovina,Deaths,7926
+2001,Number,F,Una-Sana Canton,Deaths,912
+2001,Number,F,Posavina Canton,Deaths,158
+2001,Number,F,Tuzla Canton,Deaths,1344
+2001,Number,F,Zenica-Doboj Canton,Deaths,1447
+2001,Number,F,Bosnian-Podrinje Canton,Deaths,120
+2001,Number,F,Central Bosnia Canton,Deaths,925
+2001,Number,F,Herzegovina-Neretva Canton,Deaths,800
+2001,Number,F,West Herzegovina Canton,Deaths,302
+2001,Number,F,Sarajevo Canton,Deaths,1597
+2001,Number,F,Canton 10,Deaths,321
+2002,Number,Total,Federation of Bosnia and Herzegovina,Deaths,16988
+2002,Number,Total,Una-Sana Canton,Deaths,2009
+2002,Number,Total,Posavina Canton,Deaths,416
+2002,Number,Total,Tuzla Canton,Deaths,3062
+2002,Number,Total,Zenica-Doboj Canton,Deaths,3005
+2002,Number,Total,Bosnian-Podrinje Canton,Deaths,236
+2002,Number,Total,Central Bosnia Canton,Deaths,1967
+2002,Number,Total,Herzegovina-Neretva Canton,Deaths,1653
+2002,Number,Total,West Herzegovina Canton,Deaths,553
+2002,Number,Total,Sarajevo Canton,Deaths,3391
+2002,Number,Total,Canton 10,Deaths,696
+2002,Number,M,Federation of Bosnia and Herzegovina,Deaths,8757
+2002,Number,M,Una-Sana Canton,Deaths,1016
+2002,Number,M,Posavina Canton,Deaths,221
+2002,Number,M,Tuzla Canton,Deaths,1566
+2002,Number,M,Zenica-Doboj Canton,Deaths,1577
+2002,Number,M,Bosnian-Podrinje Canton,Deaths,136
+2002,Number,M,Central Bosnia Canton,Deaths,1027
+2002,Number,M,West Herzegovina Canton,Deaths,273
+2002,Number,M,Herzegovina-Neretva Canton,Deaths,849
+2002,Number,M,Sarajevo Canton,Deaths,1731
+2002,Number,M,Canton 10,Deaths,361
+2002,Number,F,Federation of Bosnia and Herzegovina,Deaths,8231
+2002,Number,F,Una-Sana Canton,Deaths,993
+2002,Number,F,Posavina Canton,Deaths,195
+2002,Number,F,Tuzla Canton,Deaths,1496
+2002,Number,F,Zenica-Doboj Canton,Deaths,1428
+2002,Number,F,Bosnian-Podrinje Canton,Deaths,100
+2002,Number,F,Central Bosnia Canton,Deaths,940
+2002,Number,F,Herzegovina-Neretva Canton,Deaths,804
+2002,Number,F,West Herzegovina Canton,Deaths,280
+2002,Number,F,Sarajevo Canton,Deaths,1660
+2002,Number,F,Canton 10,Deaths,335
+2003,Number,Total,Federation of Bosnia and Herzegovina,Deaths,18049
+2003,Number,Total,Una-Sana Canton,Deaths,2092
+2003,Number,Total,Posavina Canton,Deaths,405
+2003,Number,Total,Tuzla Canton,Deaths,3320
+2003,Number,Total,Zenica-Doboj Canton,Deaths,3046
+2003,Number,Total,Bosnian-Podrinje Canton,Deaths,254
+2003,Number,Total,Central Bosnia Canton,Deaths,2092
+2003,Number,Total,Herzegovina-Neretva Canton,Deaths,1844
+2003,Number,Total,West Herzegovina Canton,Deaths,722
+2003,Number,Total,Sarajevo Canton,Deaths,3528
+2003,Number,Total,Canton 10,Deaths,746
+2003,Number,M,Federation of Bosnia and Herzegovina,Deaths,9344
+2003,Number,M,Una-Sana Canton,Deaths,1089
+2003,Number,M,Posavina Canton,Deaths,232
+2003,Number,M,Tuzla Canton,Deaths,1714
+2003,Number,M,Zenica-Doboj Canton,Deaths,1582
+2003,Number,M,Bosnian-Podrinje Canton,Deaths,127
+2003,Number,M,Central Bosnia Canton,Deaths,1087
+2003,Number,M,Herzegovina-Neretva Canton,Deaths,968
+2003,Number,M,West Herzegovina Canton,Deaths,354
+2003,Number,M,Sarajevo Canton,Deaths,1820
+2003,Number,M,Canton 10,Deaths,371
+2003,Number,F,Federation of Bosnia and Herzegovina,Deaths,8705
+2003,Number,F,Una-Sana Canton,Deaths,1003
+2003,Number,F,Posavina Canton,Deaths,173
+2003,Number,F,Tuzla Canton,Deaths,1606
+2003,Number,F,Zenica-Doboj Canton,Deaths,1464
+2003,Number,F,Bosnian-Podrinje Canton,Deaths,127
+2003,Number,F,Central Bosnia Canton,Deaths,1005
+2003,Number,F,Herzegovina-Neretva Canton,Deaths,876
+2003,Number,F,West Herzegovina Canton,Deaths,368
+2003,Number,F,Sarajevo Canton,Deaths,1708
+2003,Number,F,Canton 10,Deaths,375
+2004,Number,Total,Federation of Bosnia and Herzegovina,Deaths,18122
+2004,Number,Total,Una-Sana Canton,Deaths,2160
+2004,Number,Total,Posavina Canton,Deaths,403
+2004,Number,Total,Tuzla Canton,Deaths,3374
+2004,Number,Total,Zenica-Doboj Canton,Deaths,3068
+2004,Number,Total,Bosnian-Podrinje Canton,Deaths,259
+2004,Number,Total,Central Bosnia Canton,Deaths,2141
+2004,Number,Total,Herzegovina-Neretva Canton,Deaths,1740
+2004,Number,Total,West Herzegovina Canton,Deaths,703
+2004,Number,Total,Sarajevo Canton,Deaths,3563
+2004,Number,Total,Canton 10,Deaths,711
+2004,Number,M,Federation of Bosnia and Herzegovina,Deaths,9258
+2004,Number,M,Una-Sana Canton,Deaths,1077
+2004,Number,M,Posavina Canton,Deaths,207
+2004,Number,M,Tuzla Canton,Deaths,1790
+2004,Number,M,Zenica-Doboj Canton,Deaths,1575
+2004,Number,M,Bosnian-Podrinje Canton,Deaths,127
+2004,Number,M,Central Bosnia Canton,Deaths,1080
+2004,Number,M,Herzegovina-Neretva Canton,Deaths,873
+2004,Number,M,West Herzegovina Canton,Deaths,336
+2004,Number,M,Sarajevo Canton,Deaths,1827
+2004,Number,M,Canton 10,Deaths,366
+2004,Number,F,Federation of Bosnia and Herzegovina,Deaths,8864
+2004,Number,F,Una-Sana Canton,Deaths,1083
+2004,Number,F,Posavina Canton,Deaths,196
+2004,Number,F,Tuzla Canton,Deaths,1584
+2004,Number,F,Zenica-Doboj Canton,Deaths,1493
+2004,Number,F,Bosnian-Podrinje Canton,Deaths,132
+2004,Number,F,Central Bosnia Canton,Deaths,1061
+2004,Number,F,Herzegovina-Neretva Canton,Deaths,867
+2004,Number,F,West Herzegovina Canton,Deaths,367
+2004,Number,F,Sarajevo Canton,Deaths,1736
+2004,Number,F,Canton 10,Deaths,345
+2005,Number,Total,Federation of Bosnia and Herzegovina,Deaths,19099
+2005,Number,Total,Una-Sana Canton,Deaths,2222
+2005,Number,Total,Posavina Canton,Deaths,462
+2005,Number,Total,Tuzla Canton,Deaths,3519
+2005,Number,Total,Zenica-Doboj Canton,Deaths,3204
+2005,Number,Total,Bosnian-Podrinje Canton,Deaths,240
+2005,Number,Total,Central Bosnia Canton,Deaths,2197
+2005,Number,Total,Herzegovina-Neretva Canton,Deaths,2030
+2005,Number,Total,West Herzegovina Canton,Deaths,732
+2005,Number,Total,Sarajevo Canton,Deaths,3751
+2005,Number,Total,Canton 10,Deaths,742
+2005,Number,M,Federation of Bosnia and Herzegovina,Deaths,9934
+2005,Number,M,Una-Sana Canton,Deaths,1123
+2005,Number,M,Posavina Canton,Deaths,268
+2005,Number,M,Tuzla Canton,Deaths,1886
+2005,Number,M,Zenica-Doboj Canton,Deaths,1673
+2005,Number,M,Bosnian-Podrinje Canton,Deaths,127
+2005,Number,M,Central Bosnia Canton,Deaths,1130
+2005,Number,M,Herzegovina-Neretva Canton,Deaths,1110
+2005,Number,M,West Herzegovina Canton,Deaths,342
+2005,Number,M,Sarajevo Canton,Deaths,1912
+2005,Number,M,Canton 10,Deaths,363
+2005,Number,F,Federation of Bosnia and Herzegovina,Deaths,9165
+2005,Number,F,Una-Sana Canton,Deaths,1099
+2005,Number,F,Posavina Canton,Deaths,194
+2005,Number,F,Tuzla Canton,Deaths,1633
+2005,Number,F,Zenica-Doboj Canton,Deaths,1531
+2005,Number,F,Bosnian-Podrinje Canton,Deaths,113
+2005,Number,F,Central Bosnia Canton,Deaths,1067
+2005,Number,F,Herzegovina-Neretva Canton,Deaths,920
+2005,Number,F,West Herzegovina Canton,Deaths,390
+2005,Number,F,Sarajevo Canton,Deaths,1839
+2005,Number,F,Canton 10,Deaths,379
+2006,Number,Total,Federation of Bosnia and Herzegovina,Deaths,18497
+2006,Number,Total,Una-Sana Canton,Deaths,2099
+2006,Number,Total,Posavina Canton,Deaths,410
+2006,Number,Total,Tuzla Canton,Deaths,3341
+2006,Number,Total,Zenica-Doboj Canton,Deaths,3173
+2006,Number,Total,Bosnian-Podrinje Canton,Deaths,274
+2006,Number,Total,Central Bosnia Canton,Deaths,2140
+2006,Number,Total,Herzegovina-Neretva Canton,Deaths,1889
+2006,Number,Total,West Herzegovina Canton,Deaths,698
+2006,Number,Total,Sarajevo Canton,Deaths,3705
+2006,Number,Total,Canton 10,Deaths,768
+2006,Number,M,Federation of Bosnia and Herzegovina,Deaths,9538
+2006,Number,M,Una-Sana Canton,Deaths,1050
+2006,Number,M,Posavina Canton,Deaths,214
+2006,Number,M,Tuzla Canton,Deaths,1823
+2006,Number,M,Zenica-Doboj Canton,Deaths,1649
+2006,Number,M,Bosnian-Podrinje Canton,Deaths,131
+2006,Number,M,Central Bosnia Canton,Deaths,1133
+2006,Number,M,Herzegovina-Neretva Canton,Deaths,964
+2006,Number,M,West Herzegovina Canton,Deaths,321
+2006,Number,M,Sarajevo Canton,Deaths,1873
+2006,Number,M,Canton 10,Deaths,380
+2006,Number,F,Federation of Bosnia and Herzegovina,Deaths,8959
+2006,Number,F,Una-Sana Canton,Deaths,1049
+2006,Number,F,Posavina Canton,Deaths,196
+2006,Number,F,Tuzla Canton,Deaths,1518
+2006,Number,F,Zenica-Doboj Canton,Deaths,1524
+2006,Number,F,Bosnian-Podrinje Canton,Deaths,143
+2006,Number,F,Central Bosnia Canton,Deaths,1007
+2006,Number,F,Herzegovina-Neretva Canton,Deaths,925
+2006,Number,F,West Herzegovina Canton,Deaths,377
+2006,Number,F,Sarajevo Canton,Deaths,1832
+2006,Number,F,Canton 10,Deaths,388
+2007,Number,Total,Federation of Bosnia and Herzegovina,Deaths,19280
+2007,Number,Total,Una-Sana Canton,Deaths,2156
+2007,Number,Total,Posavina Canton,Deaths,496
+2007,Number,Total,Tuzla Canton,Deaths,3584
+2007,Number,Total,Zenica-Doboj Canton,Deaths,3289
+2007,Number,Total,Bosnian-Podrinje Canton,Deaths,285
+2007,Number,Total,Central Bosnia Canton,Deaths,2166
+2007,Number,Total,Herzegovina-Neretva Canton,Deaths,2036
+2007,Number,Total,West Herzegovina Canton,Deaths,706
+2007,Number,Total,Sarajevo Canton,Deaths,3825
+2007,Number,Total,Canton 10,Deaths,737
+2007,Number,M,Federation of Bosnia and Herzegovina,Deaths,9921
+2007,Number,M,Una-Sana Canton,Deaths,1112
+2007,Number,M,Posavina Canton,Deaths,246
+2007,Number,M,Tuzla Canton,Deaths,1849
+2007,Number,M,Zenica-Doboj Canton,Deaths,1767
+2007,Number,M,Bosnian-Podrinje Canton,Deaths,154
+2007,Number,M,Central Bosnia Canton,Deaths,1112
+2007,Number,M,Herzegovina-Neretva Canton,Deaths,1058
+2007,Number,M,West Herzegovina Canton,Deaths,336
+2007,Number,M,Sarajevo Canton,Deaths,1922
+2007,Number,M,Canton 10,Deaths,365
+2007,Number,F,Federation of Bosnia and Herzegovina,Deaths,9359
+2007,Number,F,Una-Sana Canton,Deaths,1044
+2007,Number,F,Posavina Canton,Deaths,250
+2007,Number,F,Tuzla Canton,Deaths,1735
+2007,Number,F,Zenica-Doboj Canton,Deaths,1522
+2007,Number,F,Bosnian-Podrinje Canton,Deaths,131
+2007,Number,F,Central Bosnia Canton,Deaths,1054
+2007,Number,F,Herzegovina-Neretva Canton,Deaths,978
+2007,Number,F,West Herzegovina Canton,Deaths,370
+2007,Number,F,Sarajevo Canton,Deaths,1903
+2007,Number,F,Canton 10,Deaths,372
+2008,Number,Total,Federation of Bosnia and Herzegovina,Deaths,19306
+2008,Number,Total,Una-Sana Canton,Deaths,2105
+2008,Number,Total,Posavina Canton,Deaths,447
+2008,Number,Total,Tuzla Canton,Deaths,3693
+2008,Number,Total,Zenica-Doboj Canton,Deaths,3194
+2008,Number,Total,Bosnian-Podrinje Canton,Deaths,248
+2008,Number,Total,Central Bosnia Canton,Deaths,2199
+2008,Number,Total,Herzegovina-Neretva Canton,Deaths,2100
+2008,Number,Total,West Herzegovina Canton,Deaths,733
+2008,Number,Total,Sarajevo Canton,Deaths,3839
+2008,Number,Total,Canton 10,Deaths,748
+2008,Number,M,Federation of Bosnia and Herzegovina,Deaths,9982
+2008,Number,M,Una-Sana Canton,Deaths,1079
+2008,Number,M,Posavina Canton,Deaths,248
+2008,Number,M,Tuzla Canton,Deaths,1887
+2008,Number,M,Zenica-Doboj Canton,Deaths,1673
+2008,Number,M,Bosnian-Podrinje Canton,Deaths,128
+2008,Number,M,Central Bosnia Canton,Deaths,1140
+2008,Number,M,Herzegovina-Neretva Canton,Deaths,1097
+2008,Number,M,West Herzegovina Canton,Deaths,386
+2008,Number,M,Sarajevo Canton,Deaths,1964
+2008,Number,M,Canton 10,Deaths,380
+2008,Number,F,Federation of Bosnia and Herzegovina,Deaths,9324
+2008,Number,F,Una-Sana Canton,Deaths,1026
+2008,Number,F,Posavina Canton,Deaths,199
+2008,Number,F,Tuzla Canton,Deaths,1806
+2008,Number,F,Zenica-Doboj Canton,Deaths,1521
+2008,Number,F,Bosnian-Podrinje Canton,Deaths,120
+2008,Number,F,Central Bosnia Canton,Deaths,1059
+2008,Number,F,Herzegovina-Neretva Canton,Deaths,1003
+2008,Number,F,West Herzegovina Canton,Deaths,347
+2008,Number,F,Sarajevo Canton,Deaths,1875
+2008,Number,F,Canton 10,Deaths,368
+2009,Number,Total,Federation of Bosnia and Herzegovina,Deaths,19829
+2009,Number,Total,Una-Sana Canton,Deaths,2157
+2009,Number,Total,Posavina Canton,Deaths,491
+2009,Number,Total,Tuzla Canton,Deaths,3885
+2009,Number,Total,Zenica-Doboj Canton,Deaths,3189
+2009,Number,Total,Bosnian-Podrinje Canton,Deaths,290
+2009,Number,Total,Central Bosnia Canton,Deaths,2162
+2009,Number,Total,Herzegovina-Neretva Canton,Deaths,2111
+2009,Number,Total,West Herzegovina Canton,Deaths,772
+2009,Number,Total,Sarajevo Canton,Deaths,4013
+2009,Number,Total,Canton 10,Deaths,759
+2009,Number,M,Federation of Bosnia and Herzegovina,Deaths,10077
+2009,Number,M,Una-Sana Canton,Deaths,1042
+2009,Number,M,Posavina Canton,Deaths,241
+2009,Number,M,Tuzla Canton,Deaths,2012
+2009,Number,M,Zenica-Doboj Canton,Deaths,1673
+2009,Number,M,Bosnian-Podrinje Canton,Deaths,152
+2009,Number,M,Central Bosnia Canton,Deaths,1142
+2009,Number,M,Herzegovina-Neretva Canton,Deaths,1119
+2009,Number,M,West Herzegovina Canton,Deaths,357
+2009,Number,M,Sarajevo Canton,Deaths,1964
+2009,Number,M,Canton 10,Deaths,375
+2009,Number,F,Federation of Bosnia and Herzegovina,Deaths,9752
+2009,Number,F,Una-Sana Canton,Deaths,1115
+2009,Number,F,Posavina Canton,Deaths,250
+2009,Number,F,Tuzla Canton,Deaths,1873
+2009,Number,F,Zenica-Doboj Canton,Deaths,1516
+2009,Number,F,Bosnian-Podrinje Canton,Deaths,138
+2009,Number,F,Central Bosnia Canton,Deaths,1020
+2009,Number,F,Herzegovina-Neretva Canton,Deaths,992
+2009,Number,F,West Herzegovina Canton,Deaths,415
+2009,Number,F,Sarajevo Canton,Deaths,2049
+2009,Number,F,Canton 10,Deaths,384
+2010,Number,Total,Federation of Bosnia and Herzegovina,Deaths,20256
+2010,Number,Total,Una-Sana Canton,Deaths,2129
+2010,Number,Total,Posavina Canton,Deaths,482
+2010,Number,Total,Tuzla Canton,Deaths,3930
+2010,Number,Total,Zenica-Doboj Canton,Deaths,3334
+2010,Number,Total,Bosnian-Podrinje Canton,Deaths,265
+2010,Number,Total,Central Bosnia Canton,Deaths,2273
+2010,Number,Total,Herzegovina-Neretva Canton,Deaths,2190
+2010,Number,Total,West Herzegovina Canton,Deaths,770
+2010,Number,Total,Sarajevo Canton,Deaths,4137
+2010,Number,Total,Canton 10,Deaths,746
+2010,Number,M,Federation of Bosnia and Herzegovina,Deaths,10220
+2010,Number,M,Una-Sana Canton,Deaths,1043
+2010,Number,M,Posavina Canton,Deaths,245
+2010,Number,M,Tuzla Canton,Deaths,2012
+2010,Number,M,Zenica-Doboj Canton,Deaths,1692
+2010,Number,M,Bosnian-Podrinje Canton,Deaths,134
+2010,Number,M,Central Bosnia Canton,Deaths,1150
+2010,Number,M,Herzegovina-Neretva Canton,Deaths,1135
+2010,Number,M,West Herzegovina Canton,Deaths,367
+2010,Number,M,Sarajevo Canton,Deaths,2073
+2010,Number,M,Canton 10,Deaths,369
+2010,Number,F,Federation of Bosnia and Herzegovina,Deaths,10036
+2010,Number,F,Una-Sana Canton,Deaths,1086
+2010,Number,F,Posavina Canton,Deaths,237
+2010,Number,F,Tuzla Canton,Deaths,1918
+2010,Number,F,Zenica-Doboj Canton,Deaths,1642
+2010,Number,F,Bosnian-Podrinje Canton,Deaths,131
+2010,Number,F,Central Bosnia Canton,Deaths,1123
+2010,Number,F,Herzegovina-Neretva Canton,Deaths,1055
+2010,Number,F,West Herzegovina Canton,Deaths,403
+2010,Number,F,Sarajevo Canton,Deaths,2064
+2010,Number,F,Canton 10,Deaths,377
+2011,Number,Total,Federation of Bosnia and Herzegovina,Deaths,19979
+2011,Number,Total,Una-Sana Canton,Deaths,2140
+2011,Number,Total,Posavina Canton,Deaths,479
+2011,Number,Total,Tuzla Canton,Deaths,3813
+2011,Number,Total,Zenica-Doboj Canton,Deaths,3280
+2011,Number,Total,Bosnian-Podrinje Canton,Deaths,269
+2011,Number,Total,Central Bosnia Canton,Deaths,2232
+2011,Number,Total,Herzegovina-Neretva Canton,Deaths,2075
+2011,Number,Total,West Herzegovina Canton,Deaths,765
+2011,Number,Total,Sarajevo Canton,Deaths,4119
+2011,Number,Total,Canton 10,Deaths,807
+2011,Number,M,Federation of Bosnia and Herzegovina,Deaths,10234
+2011,Number,M,Una-Sana Canton,Deaths,1066
+2011,Number,M,Posavina Canton,Deaths,243
+2011,Number,M,Tuzla Canton,Deaths,2013
+2011,Number,M,Zenica-Doboj Canton,Deaths,1713
+2011,Number,M,Bosnian-Podrinje Canton,Deaths,134
+2011,Number,M,Central Bosnia Canton,Deaths,1162
+2011,Number,M,Herzegovina-Neretva Canton,Deaths,1060
+2011,Number,M,West Herzegovina Canton,Deaths,351
+2011,Number,M,Sarajevo Canton,Deaths,2086
+2011,Number,M,Canton 10,Deaths,406
+2011,Number,F,Federation of Bosnia and Herzegovina,Deaths,9745
+2011,Number,F,Una-Sana Canton,Deaths,1074
+2011,Number,F,Posavina Canton,Deaths,236
+2011,Number,F,Tuzla Canton,Deaths,1800
+2011,Number,F,Zenica-Doboj Canton,Deaths,1567
+2011,Number,F,Bosnian-Podrinje Canton,Deaths,135
+2011,Number,F,Central Bosnia Canton,Deaths,1070
+2011,Number,F,Herzegovina-Neretva Canton,Deaths,1015
+2011,Number,F,West Herzegovina Canton,Deaths,414
+2011,Number,F,Sarajevo Canton,Deaths,2033
+2011,Number,F,Canton 10,Deaths,401
+2012,Number,Total,Federation of Bosnia and Herzegovina,Deaths,20621
+2012,Number,Total,Una-Sana Canton,Deaths,2209
+2012,Number,Total,Posavina Canton,Deaths,477
+2012,Number,Total,Tuzla Canton,Deaths,3906
+2012,Number,Total,Zenica-Doboj Canton,Deaths,3373
+2012,Number,Total,Bosnian-Podrinje Canton,Deaths,262
+2012,Number,Total,Central Bosnia Canton,Deaths,2296
+2012,Number,Total,Herzegovina-Neretva Canton,Deaths,2189
+2012,Number,Total,West Herzegovina Canton,Deaths,845
+2012,Number,Total,Sarajevo Canton,Deaths,4267
+2012,Number,Total,Canton 10,Deaths,797
+2012,Number,M,Federation of Bosnia and Herzegovina,Deaths,10599
+2012,Number,M,Una-Sana Canton,Deaths,1104
+2012,Number,M,Posavina Canton,Deaths,240
+2012,Number,M,Tuzla Canton,Deaths,2068
+2012,Number,M,Zenica-Doboj Canton,Deaths,1738
+2012,Number,M,Bosnian-Podrinje Canton,Deaths,127
+2012,Number,M,Central Bosnia Canton,Deaths,1273
+2012,Number,M,Herzegovina-Neretva Canton,Deaths,1126
+2012,Number,M,West Herzegovina Canton,Deaths,424
+2012,Number,M,Sarajevo Canton,Deaths,2101
+2012,Number,M,Canton 10,Deaths,398
+2012,Number,F,Federation of Bosnia and Herzegovina,Deaths,10022
+2012,Number,F,Una-Sana Canton,Deaths,1105
+2012,Number,F,Posavina Canton,Deaths,237
+2012,Number,F,Tuzla Canton,Deaths,1838
+2012,Number,F,Zenica-Doboj Canton,Deaths,1635
+2012,Number,F,Bosnian-Podrinje Canton,Deaths,135
+2012,Number,F,Central Bosnia Canton,Deaths,1023
+2012,Number,F,Herzegovina-Neretva Canton,Deaths,1063
+2012,Number,F,West Herzegovina Canton,Deaths,421
+2012,Number,F,Sarajevo Canton,Deaths,2166
+2012,Number,F,Canton 10,Deaths,399
+2013,Number,Total,Federation of Bosnia and Herzegovina,Deaths,20269
+2013,Number,Total,Una-Sana Canton,Deaths,2265
+2013,Number,Total,Posavina Canton,Deaths,469
+2013,Number,Total,Tuzla Canton,Deaths,3761
+2013,Number,Total,Zenica-Doboj Canton,Deaths,3348
+2013,Number,Total,Bosnian-Podrinje Canton,Deaths,282
+2013,Number,Total,Central Bosnia Canton,Deaths,2213
+2013,Number,Total,Herzegovina-Neretva Canton,Deaths,2166
+2013,Number,Total,West Herzegovina Canton,Deaths,883
+2013,Number,Total,Sarajevo Canton,Deaths,4031
+2013,Number,Total,Canton 10,Deaths,851
+2013,Number,M,Federation of Bosnia and Herzegovina,Deaths,10250
+2013,Number,M,Una-Sana Canton,Deaths,1143
+2013,Number,M,Posavina Canton,Deaths,254
+2013,Number,M,Tuzla Canton,Deaths,1920
+2013,Number,M,Zenica-Doboj Canton,Deaths,1758
+2013,Number,M,Bosnian-Podrinje Canton,Deaths,124
+2013,Number,M,Central Bosnia Canton,Deaths,1134
+2013,Number,M,Herzegovina-Neretva Canton,Deaths,1075
+2013,Number,M,West Herzegovina Canton,Deaths,459
+2013,Number,M,Sarajevo Canton,Deaths,1976
+2013,Number,M,Canton 10,Deaths,407
+2013,Number,F,Federation of Bosnia and Herzegovina,Deaths,10019
+2013,Number,F,Una-Sana Canton,Deaths,1122
+2013,Number,F,Posavina Canton,Deaths,215
+2013,Number,F,Tuzla Canton,Deaths,1841
+2013,Number,F,Zenica-Doboj Canton,Deaths,1590
+2013,Number,F,Bosnian-Podrinje Canton,Deaths,158
+2013,Number,F,Central Bosnia Canton,Deaths,1079
+2013,Number,F,Herzegovina-Neretva Canton,Deaths,1091
+2013,Number,F,West Herzegovina Canton,Deaths,424
+2013,Number,F,Sarajevo Canton,Deaths,2055
+2013,Number,F,Canton 10,Deaths,444
+2014,Number,Total,Federation of Bosnia and Herzegovina,Deaths,20030
+2014,Number,Total,Una-Sana Canton,Deaths,2103
+2014,Number,Total,Posavina Canton,Deaths,505
+2014,Number,Total,Tuzla Canton,Deaths,3503
+2014,Number,Total,Zenica-Doboj Canton,Deaths,3356
+2014,Number,Total,Bosnian-Podrinje Canton,Deaths,322
+2014,Number,Total,Central Bosnia Canton,Deaths,2198
+2014,Number,Total,Herzegovina-Neretva Canton,Deaths,2164
+2014,Number,Total,West Herzegovina Canton,Deaths,863
+2014,Number,Total,Sarajevo Canton,Deaths,4215
+2014,Number,Total,Canton 10,Deaths,801
+2014,Number,M,Federation of Bosnia and Herzegovina,Deaths,10184
+2014,Number,M,Una-Sana Canton,Deaths,1040
+2014,Number,M,Posavina Canton,Deaths,245
+2014,Number,M,Tuzla Canton,Deaths,1834
+2014,Number,M,Zenica-Doboj Canton,Deaths,1727
+2014,Number,M,Bosnian-Podrinje Canton,Deaths,164
+2014,Number,M,Central Bosnia Canton,Deaths,1138
+2014,Number,M,Herzegovina-Neretva Canton,Deaths,1108
+2014,Number,M,West Herzegovina Canton,Deaths,404
+2014,Number,M,Sarajevo Canton,Deaths,2110
+2014,Number,M,Canton 10,Deaths,414
+2014,Number,F,Federation of Bosnia and Herzegovina,Deaths,9846
+2014,Number,F,Una-Sana Canton,Deaths,1063
+2014,Number,F,Posavina Canton,Deaths,260
+2014,Number,F,Tuzla Canton,Deaths,1669
+2014,Number,F,Zenica-Doboj Canton,Deaths,1629
+2014,Number,F,Bosnian-Podrinje Canton,Deaths,158
+2014,Number,F,Central Bosnia Canton,Deaths,1060
+2014,Number,F,Herzegovina-Neretva Canton,Deaths,1056
+2014,Number,F,West Herzegovina Canton,Deaths,459
+2014,Number,F,Sarajevo Canton,Deaths,2105
+2014,Number,F,Canton 10,Deaths,387
+2015,Number,Total,Federation of Bosnia and Herzegovina,Deaths,21474
+2015,Number,Total,Una-Sana Canton,Deaths,2197
+2015,Number,Total,Posavina Canton,Deaths,465
+2015,Number,Total,Tuzla Canton,Deaths,4093
+2015,Number,Total,Zenica-Doboj Canton,Deaths,3525
+2015,Number,Total,Bosnian-Podrinje Canton,Deaths,313
+2015,Number,Total,Central Bosnia Canton,Deaths,2280
+2015,Number,Total,Herzegovina-Neretva Canton,Deaths,2368
+2015,Number,Total,West Herzegovina Canton,Deaths,895
+2015,Number,Total,Sarajevo Canton,Deaths,4469
+2015,Number,Total,Canton 10,Deaths,869
+2015,Number,M,Federation of Bosnia and Herzegovina,Deaths,10722
+2015,Number,M,Una-Sana Canton,Deaths,1075
+2015,Number,M,Posavina Canton,Deaths,230
+2015,Number,M,Tuzla Canton,Deaths,2044
+2015,Number,M,Zenica-Doboj Canton,Deaths,1815
+2015,Number,M,Bosnian-Podrinje Canton,Deaths,150
+2015,Number,M,Central Bosnia Canton,Deaths,1173
+2015,Number,M,Herzegovina-Neretva Canton,Deaths,1194
+2015,Number,M,West Herzegovina Canton,Deaths,448
+2015,Number,M,Sarajevo Canton,Deaths,2197
+2015,Number,M,Canton 10,Deaths,396
+2015,Number,F,Federation of Bosnia and Herzegovina,Deaths,10752
+2015,Number,F,Una-Sana Canton,Deaths,1122
+2015,Number,F,Posavina Canton,Deaths,235
+2015,Number,F,Tuzla Canton,Deaths,2049
+2015,Number,F,Zenica-Doboj Canton,Deaths,1710
+2015,Number,F,Bosnian-Podrinje Canton,Deaths,163
+2015,Number,F,Central Bosnia Canton,Deaths,1107
+2015,Number,F,Herzegovina-Neretva Canton,Deaths,1174
+2015,Number,F,West Herzegovina Canton,Deaths,447
+2015,Number,F,Sarajevo Canton,Deaths,2272
+2015,Number,F,Canton 10,Deaths,473
+2016,Number,Total,Federation of Bosnia and Herzegovina,Deaths,21105
+2016,Number,Total,Una-Sana Canton,Deaths,2190
+2016,Number,Total,Posavina Canton,Deaths,502
+2016,Number,Total,Tuzla Canton,Deaths,4053
+2016,Number,Total,Zenica-Doboj Canton,Deaths,3444
+2016,Number,Total,Bosnian-Podrinje Canton,Deaths,318
+2016,Number,Total,Central Bosnia Canton,Deaths,2342
+2016,Number,Total,Herzegovina-Neretva Canton,Deaths,2222
+2016,Number,Total,West Herzegovina Canton,Deaths,887
+2016,Number,Total,Sarajevo Canton,Deaths,4295
+2016,Number,Total,Canton 10,Deaths,852
+2016,Number,M,Federation of Bosnia and Herzegovina,Deaths,10538
+2016,Number,M,Una-Sana Canton,Deaths,1074
+2016,Number,M,Posavina Canton,Deaths,261
+2016,Number,M,Tuzla Canton,Deaths,2029
+2016,Number,M,Zenica-Doboj Canton,Deaths,1807
+2016,Number,M,Bosnian-Podrinje Canton,Deaths,171
+2016,Number,M,Central Bosnia Canton,Deaths,1223
+2016,Number,M,Herzegovina-Neretva Canton,Deaths,1069
+2016,Number,M,West Herzegovina Canton,Deaths,433
+2016,Number,M,Sarajevo Canton,Deaths,2042
+2016,Number,M,Canton 10,Deaths,429
+2016,Number,F,Federation of Bosnia and Herzegovina,Deaths,10567
+2016,Number,F,Una-Sana Canton,Deaths,1116
+2016,Number,F,Posavina Canton,Deaths,241
+2016,Number,F,Tuzla Canton,Deaths,2024
+2016,Number,F,Zenica-Doboj Canton,Deaths,1637
+2016,Number,F,Bosnian-Podrinje Canton,Deaths,147
+2016,Number,F,Central Bosnia Canton,Deaths,1119
+2016,Number,F,Herzegovina-Neretva Canton,Deaths,1153
+2016,Number,F,West Herzegovina Canton,Deaths,454
+2016,Number,F,Sarajevo Canton,Deaths,2253
+2016,Number,F,Canton 10,Deaths,423
+2017,Number,Total,Federation of Bosnia and Herzegovina,Deaths,21689
+2017,Number,Total,Una-Sana Canton,Deaths,2205
+2017,Number,Total,Posavina Canton,Deaths,434
+2017,Number,Total,Tuzla Canton,Deaths,4350
+2017,Number,Total,Zenica-Doboj Canton,Deaths,3537
+2017,Number,Total,Bosnian-Podrinje Canton,Deaths,282
+2017,Number,Total,Central Bosnia Canton,Deaths,2406
+2017,Number,Total,Herzegovina-Neretva Canton,Deaths,2339
+2017,Number,Total,West Herzegovina Canton,Deaths,892
+2017,Number,Total,Sarajevo Canton,Deaths,4400
+2017,Number,Total,Canton 10,Deaths,844
+2017,Number,M,Federation of Bosnia and Herzegovina,Deaths,10979
+2017,Number,M,Una-Sana Canton,Deaths,1060
+2017,Number,M,Posavina Canton,Deaths,223
+2017,Number,M,Tuzla Canton,Deaths,2256
+2017,Number,M,Zenica-Doboj Canton,Deaths,1812
+2017,Number,M,Bosnian-Podrinje Canton,Deaths,145
+2017,Number,M,Central Bosnia Canton,Deaths,1252
+2017,Number,M,Herzegovina-Neretva Canton,Deaths,1214
+2017,Number,M,West Herzegovina Canton,Deaths,433
+2017,Number,M,Sarajevo Canton,Deaths,2161
+2017,Number,M,Canton 10,Deaths,423
+2017,Number,F,Federation of Bosnia and Herzegovina,Deaths,10710
+2017,Number,F,Una-Sana Canton,Deaths,1145
+2017,Number,F,Posavina Canton,Deaths,211
+2017,Number,F,Tuzla Canton,Deaths,2094
+2017,Number,F,Zenica-Doboj Canton,Deaths,1725
+2017,Number,F,Bosnian-Podrinje Canton,Deaths,137
+2017,Number,F,Central Bosnia Canton,Deaths,1154
+2017,Number,F,Herzegovina-Neretva Canton,Deaths,1125
+2017,Number,F,West Herzegovina Canton,Deaths,459
+2017,Number,F,Sarajevo Canton,Deaths,2239
+2017,Number,F,Canton 10,Deaths,421
+2018,Number,Total,Federation of Bosnia and Herzegovina,Deaths,21442
+2018,Number,Total,Una-Sana Canton,Deaths,2260
+2018,Number,Total,Posavina Canton,Deaths,496
+2018,Number,Total,Tuzla Canton,Deaths,4233
+2018,Number,Total,Zenica-Doboj Canton,Deaths,3421
+2018,Number,Total,Bosnian-Podrinje Canton,Deaths,276
+2018,Number,Total,Central Bosnia Canton,Deaths,2416
+2018,Number,Total,Herzegovina-Neretva Canton,Deaths,2234
+2018,Number,Total,West Herzegovina Canton,Deaths,857
+2018,Number,Total,Sarajevo Canton,Deaths,4437
+2018,Number,Total,Canton 10,Deaths,812
+2018,Number,M,Federation of Bosnia and Herzegovina,Deaths,10756
+2018,Number,M,Una-Sana Canton,Deaths,1162
+2018,Number,M,Posavina Canton,Deaths,265
+2018,Number,M,Tuzla Canton,Deaths,2150
+2018,Number,M,Zenica-Doboj Canton,Deaths,1730
+2018,Number,M,Bosnian-Podrinje Canton,Deaths,130
+2018,Number,M,Central Bosnia Canton,Deaths,1207
+2018,Number,M,Herzegovina-Neretva Canton,Deaths,1112
+2018,Number,M,West Herzegovina Canton,Deaths,391
+2018,Number,M,Sarajevo Canton,Deaths,2184
+2018,Number,M,Canton 10,Deaths,425
+2018,Number,F,Federation of Bosnia and Herzegovina,Deaths,10686
+2018,Number,F,Una-Sana Canton,Deaths,1098
+2018,Number,F,Posavina Canton,Deaths,231
+2018,Number,F,Tuzla Canton,Deaths,2083
+2018,Number,F,Zenica-Doboj Canton,Deaths,1691
+2018,Number,F,Bosnian-Podrinje Canton,Deaths,146
+2018,Number,F,Central Bosnia Canton,Deaths,1209
+2018,Number,F,Herzegovina-Neretva Canton,Deaths,1122
+2018,Number,F,West Herzegovina Canton,Deaths,466
+2018,Number,F,Sarajevo Canton,Deaths,2253
+2018,Number,F,Canton 10,Deaths,387
+2019,Number,Total,Federation of Bosnia and Herzegovina,Deaths,22024
+2019,Number,Total,Una-Sana Canton,Deaths,2328
+2019,Number,Total,Posavina Canton,Deaths,485
+2019,Number,Total,Tuzla Canton,Deaths,4339
+2019,Number,Total,Zenica-Doboj Canton,Deaths,3640
+2019,Number,Total,Bosnian-Podrinje Canton,Deaths,322
+2019,Number,Total,Central Bosnia Canton,Deaths,2470
+2019,Number,Total,Herzegovina-Neretva Canton,Deaths,2276
+2019,Number,Total,West Herzegovina Canton,Deaths,875
+2019,Number,Total,Sarajevo Canton,Deaths,4425
+2019,Number,Total,Canton 10,Deaths,864
+2019,Number,M,Federation of Bosnia and Herzegovina,Deaths,11140
+2019,Number,M,Una-Sana Canton,Deaths,1190
+2019,Number,M,Posavina Canton,Deaths,253
+2019,Number,M,Tuzla Canton,Deaths,2209
+2019,Number,M,Zenica-Doboj Canton,Deaths,1877
+2019,Number,M,Bosnian-Podrinje Canton,Deaths,157
+2019,Number,M,Central Bosnia Canton,Deaths,1217
+2019,Number,M,Herzegovina-Neretva Canton,Deaths,1136
+2019,Number,M,West Herzegovina Canton,Deaths,439
+2019,Number,M,Sarajevo Canton,Deaths,2232
+2019,Number,M,Canton 10,Deaths,430
+2019,Number,F,Federation of Bosnia and Herzegovina,Deaths,10884
+2019,Number,F,Una-Sana Canton,Deaths,1138
+2019,Number,F,Posavina Canton,Deaths,232
+2019,Number,F,Tuzla Canton,Deaths,2130
+2019,Number,F,Zenica-Doboj Canton,Deaths,1763
+2019,Number,F,Bosnian-Podrinje Canton,Deaths,165
+2019,Number,F,Central Bosnia Canton,Deaths,1253
+2019,Number,F,Herzegovina-Neretva Canton,Deaths,1140
+2019,Number,F,West Herzegovina Canton,Deaths,436
+2019,Number,F,Sarajevo Canton,Deaths,2193
+2019,Number,F,Canton 10,Deaths,434
+2020,Number,Total,Federation of Bosnia and Herzegovina,Deaths,26026
+2020,Number,Total,Una-Sana Canton,Deaths,2677
+2020,Number,Total,Posavina Canton,Deaths,572
+2020,Number,Total,Tuzla Canton,Deaths,5259
+2020,Number,Total,Zenica-Doboj Canton,Deaths,4571
+2020,Number,Total,Bosnian-Podrinje Canton,Deaths,357
+2020,Number,Total,Central Bosnia Canton,Deaths,2868
+2020,Number,Total,Herzegovina-Neretva Canton,Deaths,2471
+2020,Number,Total,West Herzegovina Canton,Deaths,1064
+2020,Number,Total,Sarajevo Canton,Deaths,5254
+2020,Number,Total,Canton 10,Deaths,933
+2020,Number,M,Federation of Bosnia and Herzegovina,Deaths,13525
+2020,Number,M,Una-Sana Canton,Deaths,1382
+2020,Number,M,Posavina Canton,Deaths,284
+2020,Number,M,Tuzla Canton,Deaths,2691
+2020,Number,M,Zenica-Doboj Canton,Deaths,2431
+2020,Number,M,Bosnian-Podrinje Canton,Deaths,196
+2020,Number,M,Central Bosnia Canton,Deaths,1539
+2020,Number,M,Herzegovina-Neretva Canton,Deaths,1271
+2020,Number,M,West Herzegovina Canton,Deaths,552
+2020,Number,M,Sarajevo Canton,Deaths,2704
+2020,Number,M,Canton 10,Deaths,475
+2020,Number,F,Federation of Bosnia and Herzegovina,Deaths,12501
+2020,Number,F,Una-Sana Canton,Deaths,1295
+2020,Number,F,Posavina Canton,Deaths,288
+2020,Number,F,Tuzla Canton,Deaths,2568
+2020,Number,F,Zenica-Doboj Canton,Deaths,2140
+2020,Number,F,Bosnian-Podrinje Canton,Deaths,161
+2020,Number,F,Central Bosnia Canton,Deaths,1329
+2020,Number,F,Herzegovina-Neretva Canton,Deaths,1200
+2020,Number,F,West Herzegovina Canton,Deaths,512
+2020,Number,F,Sarajevo Canton,Deaths,2550
+2020,Number,F,Canton 10,Deaths,458
+2021,Number,Total,Federation of Bosnia and Herzegovina,Deaths,29086
+2021,Number,Total,Una-Sana Canton,Deaths,2806
+2021,Number,Total,Posavina Canton,Deaths,587
+2021,Number,Total,Tuzla Canton,Deaths,5769
+2021,Number,Total,Zenica-Doboj Canton,Deaths,4986
+2021,Number,Total,Bosnian-Podrinje Canton,Deaths,388
+2021,Number,Total,Central Bosnia Canton,Deaths,3048
+2021,Number,Total,Herzegovina-Neretva Canton,Deaths,2995
+2021,Number,Total,West Herzegovina Canton,Deaths,1208
+2021,Number,Total,Sarajevo Canton,Deaths,6241
+2021,Number,Total,Canton 10,Deaths,1058
+2021,Number,M,Federation of Bosnia and Herzegovina,Deaths,14853
+2021,Number,M,Una-Sana Canton,Deaths,1393
+2021,Number,M,Posavina Canton,Deaths,290
+2021,Number,M,Tuzla Canton,Deaths,2921
+2021,Number,M,Zenica-Doboj Canton,Deaths,2625
+2021,Number,M,Bosnian-Podrinje Canton,Deaths,191
+2021,Number,M,Central Bosnia Canton,Deaths,1594
+2021,Number,M,Herzegovina-Neretva Canton,Deaths,1553
+2021,Number,M,West Herzegovina Canton,Deaths,623
+2021,Number,M,Sarajevo Canton,Deaths,3122
+2021,Number,M,Canton 10,Deaths,541
+2021,Number,F,Federation of Bosnia and Herzegovina,Deaths,14233
+2021,Number,F,Una-Sana Canton,Deaths,1413
+2021,Number,F,Posavina Canton,Deaths,297
+2021,Number,F,Tuzla Canton,Deaths,2848
+2021,Number,F,Zenica-Doboj Canton,Deaths,2361
+2021,Number,F,Bosnian-Podrinje Canton,Deaths,197
+2021,Number,F,Central Bosnia Canton,Deaths,1454
+2021,Number,F,Herzegovina-Neretva Canton,Deaths,1442
+2021,Number,F,West Herzegovina Canton,Deaths,585
+2021,Number,F,Sarajevo Canton,Deaths,3119
+2021,Number,F,Canton 10,Deaths,517
+2022,Number,Total,Federation of Bosnia and Herzegovina,Deaths,23187
+2022,Number,Total,Una-Sana Canton,Deaths,2270
+2022,Number,Total,Posavina Canton,Deaths,464
+2022,Number,Total,Tuzla Canton,Deaths,4657
+2022,Number,Total,Zenica-Doboj Canton,Deaths,3729
+2022,Number,Total,Bosnian-Podrinje Canton,Deaths,339
+2022,Number,Total,Central Bosnia Canton,Deaths,2604
+2022,Number,Total,Herzegovina-Neretva Canton,Deaths,2409
+2022,Number,Total,West Herzegovina Canton,Deaths,1033
+2022,Number,Total,Sarajevo Canton,Deaths,4839
+2022,Number,Total,Canton 10,Deaths,843
+2022,Number,M,Federation of Bosnia and Herzegovina,Deaths,11711
+2022,Number,M,Una-Sana Canton,Deaths,1089
+2022,Number,M,Posavina Canton,Deaths,231
+2022,Number,M,Tuzla Canton,Deaths,2390
+2022,Number,M,Zenica-Doboj Canton,Deaths,1885
+2022,Number,M,Bosnian-Podrinje Canton,Deaths,170
+2022,Number,M,Central Bosnia Canton,Deaths,1352
+2022,Number,M,Herzegovina-Neretva Canton,Deaths,1216
+2022,Number,M,West Herzegovina Canton,Deaths,536
+2022,Number,M,Sarajevo Canton,Deaths,2411
+2022,Number,M,Canton 10,Deaths,431
+2022,Number,F,Federation of Bosnia and Herzegovina,Deaths,11476
+2022,Number,F,Una-Sana Canton,Deaths,1181
+2022,Number,F,Posavina Canton,Deaths,233
+2022,Number,F,Tuzla Canton,Deaths,2267
+2022,Number,F,Zenica-Doboj Canton,Deaths,1844
+2022,Number,F,Bosnian-Podrinje Canton,Deaths,169
+2022,Number,F,Central Bosnia Canton,Deaths,1252
+2022,Number,F,Herzegovina-Neretva Canton,Deaths,1193
+2022,Number,F,West Herzegovina Canton,Deaths,497
+2022,Number,F,Sarajevo Canton,Deaths,2428
+2022,Number,F,Canton 10,Deaths,412
+1996,Number,Total,Federation of Bosnia and Herzegovina,natural_change,18861
+1996,Number,Total,Una-Sana Canton,natural_change,2983
+1996,Number,Total,Posavina Canton,natural_change,-87
+1996,Number,Total,Tuzla Canton,natural_change,4474
+1996,Number,Total,Zenica-Doboj Canton,natural_change,4750
+1996,Number,Total,Bosnian-Podrinje Canton,natural_change,285
+1996,Number,Total,Central Bosnia Canton,natural_change,2746
+1996,Number,Total,Herzegovina-Neretva Canton,natural_change,1487
+1996,Number,Total,West Herzegovina Canton,natural_change,276
+1996,Number,Total,Sarajevo Canton,natural_change,1616
+1996,Number,Total,Canton 10,natural_change,331
+1997,Number,Total,Federation of Bosnia and Herzegovina,natural_change,17394
+1997,Number,Total,Una-Sana Canton,natural_change,3768
+1997,Number,Total,Posavina Canton,natural_change,-126
+1997,Number,Total,Tuzla Canton,natural_change,3339
+1997,Number,Total,Zenica-Doboj Canton,natural_change,3740
+1997,Number,Total,Bosnian-Podrinje Canton,natural_change,250
+1997,Number,Total,Central Bosnia Canton,natural_change,2348
+1997,Number,Total,Herzegovina-Neretva Canton,natural_change,1045
+1997,Number,Total,West Herzegovina Canton,natural_change,354
+1997,Number,Total,Sarajevo Canton,natural_change,2300
+1997,Number,Total,Canton 10,natural_change,376
+1998,Number,Total,Federation of Bosnia and Herzegovina,natural_change,14863
+1998,Number,Total,Una-Sana Canton,natural_change,3161
+1998,Number,Total,Posavina Canton,natural_change,-97
+1998,Number,Total,Tuzla Canton,natural_change,3311
+1998,Number,Total,Zenica-Doboj Canton,natural_change,3030
+1998,Number,Total,Bosnian-Podrinje Canton,natural_change,155
+1998,Number,Total,Central Bosnia Canton,natural_change,1949
+1998,Number,Total,Herzegovina-Neretva Canton,natural_change,877
+1998,Number,Total,West Herzegovina Canton,natural_change,250
+1998,Number,Total,Sarajevo Canton,natural_change,2005
+1998,Number,Total,Canton 10,natural_change,222
+1999,Number,Total,Federation of Bosnia and Herzegovina,natural_change,12028
+1999,Number,Total,Una-Sana Canton,natural_change,2726
+1999,Number,Total,Posavina Canton,natural_change,71
+1999,Number,Total,Tuzla Canton,natural_change,3015
+1999,Number,Total,Zenica-Doboj Canton,natural_change,2037
+1999,Number,Total,Bosnian-Podrinje Canton,natural_change,119
+1999,Number,Total,Central Bosnia Canton,natural_change,1642
+1999,Number,Total,Herzegovina-Neretva Canton,natural_change,433
+1999,Number,Total,West Herzegovina Canton,natural_change,50
+1999,Number,Total,Sarajevo Canton,natural_change,1692
+1999,Number,Total,Canton 10,natural_change,243
+2000,Number,Total,Federation of Bosnia and Herzegovina,natural_change,8270
+2000,Number,Total,Una-Sana Canton,natural_change,1717
+2000,Number,Total,Posavina Canton,natural_change,29
+2000,Number,Total,Tuzla Canton,natural_change,2489
+2000,Number,Total,Zenica-Doboj Canton,natural_change,1400
+2000,Number,Total,Bosnian-Podrinje Canton,natural_change,36
+2000,Number,Total,Central Bosnia Canton,natural_change,1272
+2000,Number,Total,Herzegovina-Neretva Canton,natural_change,421
+2000,Number,Total,West Herzegovina Canton,natural_change,-4
+2000,Number,Total,Sarajevo Canton,natural_change,832
+2000,Number,Total,Canton 10,natural_change,78
+2001,Number,Total,Federation of Bosnia and Herzegovina,natural_change,7125
+2001,Number,Total,Una-Sana Canton,natural_change,1556
+2001,Number,Total,Posavina Canton,natural_change,-24
+2001,Number,Total,Tuzla Canton,natural_change,2312
+2001,Number,Total,Zenica-Doboj Canton,natural_change,1405
+2001,Number,Total,Bosnian-Podrinje Canton,natural_change,64
+2001,Number,Total,Central Bosnia Canton,natural_change,1079
+2001,Number,Total,Herzegovina-Neretva Canton,natural_change,343
+2001,Number,Total,West Herzegovina Canton,natural_change,-24
+2001,Number,Total,Sarajevo Canton,natural_change,438
+2001,Number,Total,Canton 10,natural_change,-24
+2002,Number,Total,Federation of Bosnia and Herzegovina,natural_change,6070
+2002,Number,Total,Una-Sana Canton,natural_change,1199
+2002,Number,Total,Posavina Canton,natural_change,-53
+2002,Number,Total,Tuzla Canton,natural_change,2017
+2002,Number,Total,Zenica-Doboj Canton,natural_change,1190
+2002,Number,Total,Bosnian-Podrinje Canton,natural_change,-6
+2002,Number,Total,Central Bosnia Canton,natural_change,906
+2002,Number,Total,Herzegovina-Neretva Canton,natural_change,477
+2002,Number,Total,West Herzegovina Canton,natural_change,16
+2002,Number,Total,Sarajevo Canton,natural_change,449
+2002,Number,Total,Canton 10,natural_change,-125
+2003,Number,Total,Federation of Bosnia and Herzegovina,natural_change,4904
+2003,Number,Total,Una-Sana Canton,natural_change,1064
+2003,Number,Total,Posavina Canton,natural_change,-92
+2003,Number,Total,Tuzla Canton,natural_change,1611
+2003,Number,Total,Zenica-Doboj Canton,natural_change,1060
+2003,Number,Total,Bosnian-Podrinje Canton,natural_change,-48
+2003,Number,Total,Central Bosnia Canton,natural_change,779
+2003,Number,Total,Herzegovina-Neretva Canton,natural_change,287
+2003,Number,Total,West Herzegovina Canton,natural_change,73
+2003,Number,Total,Sarajevo Canton,natural_change,353
+2003,Number,Total,Canton 10,natural_change,-183
+2004,Number,Total,Federation of Bosnia and Herzegovina,natural_change,3976
+2004,Number,Total,Una-Sana Canton,natural_change,794
+2004,Number,Total,Posavina Canton,natural_change,-95
+2004,Number,Total,Tuzla Canton,natural_change,1309
+2004,Number,Total,Zenica-Doboj Canton,natural_change,916
+2004,Number,Total,Bosnian-Podrinje Canton,natural_change,-55
+2004,Number,Total,Central Bosnia Canton,natural_change,609
+2004,Number,Total,Herzegovina-Neretva Canton,natural_change,243
+2004,Number,Total,West Herzegovina Canton,natural_change,69
+2004,Number,Total,Sarajevo Canton,natural_change,300
+2004,Number,Total,Canton 10,natural_change,-114
+2005,Number,Total,Federation of Bosnia and Herzegovina,natural_change,2696
+2005,Number,Total,Una-Sana Canton,natural_change,669
+2005,Number,Total,Posavina Canton,natural_change,-178
+2005,Number,Total,Tuzla Canton,natural_change,1155
+2005,Number,Total,Zenica-Doboj Canton,natural_change,708
+2005,Number,Total,Bosnian-Podrinje Canton,natural_change,-35
+2005,Number,Total,Central Bosnia Canton,natural_change,471
+2005,Number,Total,Herzegovina-Neretva Canton,natural_change,-101
+2005,Number,Total,West Herzegovina Canton,natural_change,-65
+2005,Number,Total,Sarajevo Canton,natural_change,253
+2005,Number,Total,Canton 10,natural_change,-181
+2006,Number,Total,Federation of Bosnia and Herzegovina,natural_change,3006
+2006,Number,Total,Una-Sana Canton,natural_change,691
+2006,Number,Total,Posavina Canton,natural_change,-145
+2006,Number,Total,Tuzla Canton,natural_change,1311
+2006,Number,Total,Zenica-Doboj Canton,natural_change,669
+2006,Number,Total,Bosnian-Podrinje Canton,natural_change,-99
+2006,Number,Total,Central Bosnia Canton,natural_change,476
+2006,Number,Total,Herzegovina-Neretva Canton,natural_change,-63
+2006,Number,Total,West Herzegovina Canton,natural_change,-42
+2006,Number,Total,Sarajevo Canton,natural_change,426
+2006,Number,Total,Canton 10,natural_change,-218
+2007,Number,Total,Federation of Bosnia and Herzegovina,natural_change,2348
+2007,Number,Total,Una-Sana Canton,natural_change,685
+2007,Number,Total,Posavina Canton,natural_change,-218
+2007,Number,Total,Tuzla Canton,natural_change,1032
+2007,Number,Total,Zenica-Doboj Canton,natural_change,592
+2007,Number,Total,Bosnian-Podrinje Canton,natural_change,-112
+2007,Number,Total,Central Bosnia Canton,natural_change,439
+2007,Number,Total,Herzegovina-Neretva Canton,natural_change,-269
+2007,Number,Total,West Herzegovina Canton,natural_change,-15
+2007,Number,Total,Sarajevo Canton,natural_change,458
+2007,Number,Total,Canton 10,natural_change,-244
+2008,Number,Total,Federation of Bosnia and Herzegovina,natural_change,3513
+2008,Number,Total,Una-Sana Canton,natural_change,885
+2008,Number,Total,Posavina Canton,natural_change,-196
+2008,Number,Total,Tuzla Canton,natural_change,1108
+2008,Number,Total,Zenica-Doboj Canton,natural_change,1059
+2008,Number,Total,Bosnian-Podrinje Canton,natural_change,-38
+2008,Number,Total,Central Bosnia Canton,natural_change,365
+2008,Number,Total,Herzegovina-Neretva Canton,natural_change,-184
+2008,Number,Total,West Herzegovina Canton,natural_change,18
+2008,Number,Total,Sarajevo Canton,natural_change,782
+2008,Number,Total,Canton 10,natural_change,-286
+2009,Number,Total,Federation of Bosnia and Herzegovina,natural_change,2978
+2009,Number,Total,Una-Sana Canton,natural_change,685
+2009,Number,Total,Posavina Canton,natural_change,-236
+2009,Number,Total,Tuzla Canton,natural_change,1013
+2009,Number,Total,Zenica-Doboj Canton,natural_change,997
+2009,Number,Total,Bosnian-Podrinje Canton,natural_change,-54
+2009,Number,Total,Central Bosnia Canton,natural_change,300
+2009,Number,Total,Herzegovina-Neretva Canton,natural_change,-241
+2009,Number,Total,West Herzegovina Canton,natural_change,-50
+2009,Number,Total,Sarajevo Canton,natural_change,885
+2009,Number,Total,Canton 10,natural_change,-321
+2010,Number,Total,Federation of Bosnia and Herzegovina,natural_change,2049
+2010,Number,Total,Una-Sana Canton,natural_change,544
+2010,Number,Total,Posavina Canton,natural_change,-241
+2010,Number,Total,Tuzla Canton,natural_change,896
+2010,Number,Total,Zenica-Doboj Canton,natural_change,646
+2010,Number,Total,Bosnian-Podrinje Canton,natural_change,-34
+2010,Number,Total,Central Bosnia Canton,natural_change,171
+2010,Number,Total,Herzegovina-Neretva Canton,natural_change,-287
+2010,Number,Total,West Herzegovina Canton,natural_change,19
+2010,Number,Total,Sarajevo Canton,natural_change,567
+2010,Number,Total,Canton 10,natural_change,-232
+2011,Number,Total,Federation of Bosnia and Herzegovina,natural_change,1182
+2011,Number,Total,Una-Sana Canton,natural_change,356
+2011,Number,Total,Posavina Canton,natural_change,-251
+2011,Number,Total,Tuzla Canton,natural_change,604
+2011,Number,Total,Zenica-Doboj Canton,natural_change,480
+2011,Number,Total,Bosnian-Podrinje Canton,natural_change,-78
+2011,Number,Total,Central Bosnia Canton,natural_change,68
+2011,Number,Total,Herzegovina-Neretva Canton,natural_change,-258
+2011,Number,Total,West Herzegovina Canton,natural_change,7
+2011,Number,Total,Sarajevo Canton,natural_change,603
+2011,Number,Total,Canton 10,natural_change,-349
+2012,Number,Total,Federation of Bosnia and Herzegovina,natural_change,768
+2012,Number,Total,Una-Sana Canton,natural_change,142
+2012,Number,Total,Posavina Canton,natural_change,-257
+2012,Number,Total,Tuzla Canton,natural_change,681
+2012,Number,Total,Zenica-Doboj Canton,natural_change,434
+2012,Number,Total,Bosnian-Podrinje Canton,natural_change,-46
+2012,Number,Total,Central Bosnia Canton,natural_change,65
+2012,Number,Total,Herzegovina-Neretva Canton,natural_change,-288
+2012,Number,Total,West Herzegovina Canton,natural_change,-47
+2012,Number,Total,Sarajevo Canton,natural_change,415
+2012,Number,Total,Canton 10,natural_change,-331
+2013,Number,Total,Federation of Bosnia and Herzegovina,natural_change,-186
+2013,Number,Total,Una-Sana Canton,natural_change,-91
+2013,Number,Total,Posavina Canton,natural_change,-302
+2013,Number,Total,Tuzla Canton,natural_change,562
+2013,Number,Total,Zenica-Doboj Canton,natural_change,68
+2013,Number,Total,Bosnian-Podrinje Canton,natural_change,-46
+2013,Number,Total,Central Bosnia Canton,natural_change,-29
+2013,Number,Total,Herzegovina-Neretva Canton,natural_change,-335
+2013,Number,Total,West Herzegovina Canton,natural_change,-110
+2013,Number,Total,Sarajevo Canton,natural_change,519
+2013,Number,Total,Canton 10,natural_change,-422
+2014,Number,Total,Federation of Bosnia and Herzegovina,natural_change,-207
+2014,Number,Total,Una-Sana Canton,natural_change,51
+2014,Number,Total,Posavina Canton,natural_change,-293
+2014,Number,Total,Tuzla Canton,natural_change,566
+2014,Number,Total,Zenica-Doboj Canton,natural_change,35
+2014,Number,Total,Bosnian-Podrinje Canton,natural_change,-54
+2014,Number,Total,Central Bosnia Canton,natural_change,-108
+2014,Number,Total,Herzegovina-Neretva Canton,natural_change,-340
+2014,Number,Total,West Herzegovina Canton,natural_change,-47
+2014,Number,Total,Sarajevo Canton,natural_change,351
+2014,Number,Total,Canton 10,natural_change,-368
+2015,Number,Total,Federation of Bosnia and Herzegovina,natural_change,-2157
+2015,Number,Total,Una-Sana Canton,natural_change,-101
+2015,Number,Total,Posavina Canton,natural_change,-272
+2015,Number,Total,Tuzla Canton,natural_change,-205
+2015,Number,Total,Zenica-Doboj Canton,natural_change,-87
+2015,Number,Total,Bosnian-Podrinje Canton,natural_change,-99
+2015,Number,Total,Central Bosnia Canton,natural_change,-315
+2015,Number,Total,Herzegovina-Neretva Canton,natural_change,-606
+2015,Number,Total,West Herzegovina Canton,natural_change,-161
+2015,Number,Total,Sarajevo Canton,natural_change,150
+2015,Number,Total,Canton 10,natural_change,-461
+2016,Number,Total,Federation of Bosnia and Herzegovina,natural_change,-1450
+2016,Number,Total,Una-Sana Canton,natural_change,-85
+2016,Number,Total,Posavina Canton,natural_change,-358
+2016,Number,Total,Tuzla Canton,natural_change,-150
+2016,Number,Total,Zenica-Doboj Canton,natural_change,8
+2016,Number,Total,Bosnian-Podrinje Canton,natural_change,-84
+2016,Number,Total,Central Bosnia Canton,natural_change,-207
+2016,Number,Total,Herzegovina-Neretva Canton,natural_change,-389
+2016,Number,Total,West Herzegovina Canton,natural_change,-178
+2016,Number,Total,Sarajevo Canton,natural_change,479
+2016,Number,Total,Canton 10,natural_change,-486
+2017,Number,Total,Federation of Bosnia and Herzegovina,natural_change,-1865
+2017,Number,Total,Una-Sana Canton,natural_change,-148
+2017,Number,Total,Posavina Canton,natural_change,-280
+2017,Number,Total,Tuzla Canton,natural_change,-384
+2017,Number,Total,Zenica-Doboj Canton,natural_change,48
+2017,Number,Total,Bosnian-Podrinje Canton,natural_change,-41
+2017,Number,Total,Central Bosnia Canton,natural_change,-239
+2017,Number,Total,Herzegovina-Neretva Canton,natural_change,-627
+2017,Number,Total,West Herzegovina Canton,natural_change,-183
+2017,Number,Total,Sarajevo Canton,natural_change,456
+2017,Number,Total,Canton 10,natural_change,-467
+2018,Number,Total,Federation of Bosnia and Herzegovina,natural_change,-2543
+2018,Number,Total,Una-Sana Canton,natural_change,-456
+2018,Number,Total,Posavina Canton,natural_change,-345
+2018,Number,Total,Tuzla Canton,natural_change,-510
+2018,Number,Total,Zenica-Doboj Canton,natural_change,67
+2018,Number,Total,Bosnian-Podrinje Canton,natural_change,-36
+2018,Number,Total,Central Bosnia Canton,natural_change,-376
+2018,Number,Total,Herzegovina-Neretva Canton,natural_change,-444
+2018,Number,Total,West Herzegovina Canton,natural_change,-97
+2018,Number,Total,Sarajevo Canton,natural_change,93
+2018,Number,Total,Canton 10,natural_change,-439
+2019,Number,Total,Federation of Bosnia and Herzegovina,natural_change,-4005
+2019,Number,Total,Una-Sana Canton,natural_change,-593
+2019,Number,Total,Posavina Canton,natural_change,-361
+2019,Number,Total,Tuzla Canton,natural_change,-703
+2019,Number,Total,Zenica-Doboj Canton,natural_change,-303
+2019,Number,Total,Bosnian-Podrinje Canton,natural_change,-122
+2019,Number,Total,Central Bosnia Canton,natural_change,-541
+2019,Number,Total,Herzegovina-Neretva Canton,natural_change,-644
+2019,Number,Total,West Herzegovina Canton,natural_change,-146
+2019,Number,Total,Sarajevo Canton,natural_change,-86
+2019,Number,Total,Canton 10,natural_change,-506
+2020,Number,Total,Federation of Bosnia and Herzegovina,natural_change,-8815
+2020,Number,Total,Una-Sana Canton,natural_change,-1125
+2020,Number,Total,Posavina Canton,natural_change,-444
+2020,Number,Total,Tuzla Canton,natural_change,-1834
+2020,Number,Total,Zenica-Doboj Canton,natural_change,-1312
+2020,Number,Total,Bosnian-Podrinje Canton,natural_change,-184
+2020,Number,Total,Central Bosnia Canton,natural_change,-1014
+2020,Number,Total,Herzegovina-Neretva Canton,natural_change,-939
+2020,Number,Total,West Herzegovina Canton,natural_change,-308
+2020,Number,Total,Sarajevo Canton,natural_change,-1048
+2020,Number,Total,Canton 10,natural_change,-607
+2021,Number,Total,Federation of Bosnia and Herzegovina,natural_change,-12213
+2021,Number,Total,Una-Sana Canton,natural_change,-1409
+2021,Number,Total,Posavina Canton,natural_change,-448
+2021,Number,Total,Tuzla Canton,natural_change,-2415
+2021,Number,Total,Zenica-Doboj Canton,natural_change,-1814
+2021,Number,Total,Bosnian-Podrinje Canton,natural_change,-238
+2021,Number,Total,Central Bosnia Canton,natural_change,-1223
+2021,Number,Total,Herzegovina-Neretva Canton,natural_change,-1402
+2021,Number,Total,West Herzegovina Canton,natural_change,-393
+2021,Number,Total,Sarajevo Canton,natural_change,-2148
+2021,Number,Total,Canton 10,natural_change,-723
+2022,Number,Total,Federation of Bosnia and Herzegovina,natural_change,-6649
+2022,Number,Total,Una-Sana Canton,natural_change,-844
+2022,Number,Total,Posavina Canton,natural_change,-340
+2022,Number,Total,Tuzla Canton,natural_change,-1391
+2022,Number,Total,Zenica-Doboj Canton,natural_change,-691
+2022,Number,Total,Bosnian-Podrinje Canton,natural_change,-187
+2022,Number,Total,Central Bosnia Canton,natural_change,-903
+2022,Number,Total,Herzegovina-Neretva Canton,natural_change,-909
+2022,Number,Total,West Herzegovina Canton,natural_change,-184
+2022,Number,Total,Sarajevo Canton,natural_change,-693
+2022,Number,Total,Canton 10,natural_change,-507

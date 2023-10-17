@@ -3,6 +3,152 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "1-2-5/data.csv",
+      "name": "1-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "13-14",
+                "15-19"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Births by teenage mothers by age group"
+    },
+    {
+      "path": "1-1-1/data.csv",
+      "name": "1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bosnian-Podrinje Canton",
+                "Canton 10",
+                "Central Bosnia Canton",
+                "Federation of Bosnia and Herzegovina",
+                "Herzegovina-Neretva Canton",
+                "Posavina Canton",
+                "Sarajevo Canton",
+                "Tuzla Canton",
+                "Una-Sana Canton",
+                "West Herzegovina Canton",
+                "Zenica-Doboj Canton"
+              ]
+            },
+            "title": "Administrative Area"
+          },
+          {
+            "name": "Births",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Deaths",
+                "Live births",
+                "natural_change"
+              ]
+            },
+            "title": "Births"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Vital statistics by sex (live births, deaths, natural change)"
+    },
+    {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Crude birth rate"
+    },
+    {
       "path": "1-1-2/data.csv",
       "name": "1-1-2",
       "profile": "tabular-data-resource",
@@ -30,6 +176,93 @@
         ]
       },
       "title": "Natural growth rate"
+    },
+    {
+      "path": "1-2-4/data.csv",
+      "name": "1-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Sex ratio at birth"
+    },
+    {
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Total fertility rate"
+    },
+    {
+      "path": "1-2-3/data.csv",
+      "name": "1-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Age-specific fertility rate"
     },
     {
       "path": "5-3-5/data.csv",
@@ -366,30 +599,6 @@
         ]
       },
       "title": "Stillbirths by sex"
-    },
-    {
-      "path": "1-2-5/data.csv",
-      "name": "1-2-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Births by teenage mothers by age group"
     },
     {
       "path": "7-1-2/data.csv",
@@ -894,30 +1103,6 @@
         ]
       },
       "title": "Children at the beginning of school year by sex (primary school)"
-    },
-    {
-      "path": "1-2-3/data.csv",
-      "name": "1-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Age-specific fertility rate"
     },
     {
       "path": "2-2-2/data.csv",
@@ -1760,30 +1945,6 @@
       "title": "Satisfied demand for family planning"
     },
     {
-      "path": "1-2-4/data.csv",
-      "name": "1-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Sex ratio at birth"
-    },
-    {
       "path": "5-7-2/data.csv",
       "name": "5-7-2",
       "profile": "tabular-data-resource",
@@ -1998,30 +2159,6 @@
         ]
       },
       "title": "Students graduated in master and special studies by type of education"
-    },
-    {
-      "path": "1-2-2/data.csv",
-      "name": "1-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Total fertility rate"
     },
     {
       "path": "2-1-6/data.csv",
@@ -2384,30 +2521,6 @@
       "title": "Households by number of members"
     },
     {
-      "path": "1-1-1/data.csv",
-      "name": "1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Vital statistics by sex (live births, deaths, natural change)"
-    },
-    {
       "path": "3-6-4/data.csv",
       "name": "3-6-4",
       "profile": "tabular-data-resource",
@@ -2478,30 +2591,6 @@
         ]
       },
       "title": "Enrolled in master and specialist studies by sex"
-    },
-    {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Crude birth rate"
     },
     {
       "path": "7-1-4/data.csv",
