@@ -1,0 +1,628 @@
+Year,UNIT_MEASURE,AGE,Sex,ADMIN_AREA,Value
+2013,NUMBER,T,_T,federation_of_bih,2219220
+2013,NUMBER,0-4,_T,federation_of_bih,114843
+2013,NUMBER, 5-9,_T,federation_of_bih,116052
+2013,NUMBER, 10-14,_T,federation_of_bih,126053
+2013,NUMBER, 15-19,_T,federation_of_bih,161881
+2013,NUMBER, 20-24,_T,federation_of_bih,150902
+2013,NUMBER, 25-29,_T,federation_of_bih,164203
+2013,NUMBER, 30-34,_T,federation_of_bih,160988
+2013,NUMBER, 35-39,_T,federation_of_bih,157715
+2013,NUMBER,40-44,_T,federation_of_bih,154830
+2013,NUMBER, 45-49,_T,federation_of_bih,167109
+2013,NUMBER, 50-54,_T,federation_of_bih,173996
+2013,NUMBER, 55-59,_T,federation_of_bih,156089
+2013,NUMBER, 60-64,_T,federation_of_bih,128613
+2013,NUMBER, 65-69,_T,federation_of_bih,88391
+2013,NUMBER, 70-74,_T,federation_of_bih,81023
+2013,NUMBER, 75-79,_T,federation_of_bih,65613
+2013,NUMBER, 80-84,_T,federation_of_bih,35227
+2013,NUMBER,85+,_T,federation_of_bih,15692
+2013,NUMBER,T,_T,una-sana_canton,273261
+2013,NUMBER,0-4,_T,una-sana_canton,14805
+2013,NUMBER, 5-9,_T,una-sana_canton,15777
+2013,NUMBER, 10-14,_T,una-sana_canton,17450
+2013,NUMBER, 15-19,_T,una-sana_canton,21328
+2013,NUMBER, 20-24,_T,una-sana_canton,19541
+2013,NUMBER, 25-29,_T,una-sana_canton,20912
+2013,NUMBER, 30-34,_T,una-sana_canton,20676
+2013,NUMBER, 35-39,_T,una-sana_canton,21564
+2013,NUMBER,40-44,_T,una-sana_canton,20687
+2013,NUMBER, 45-49,_T,una-sana_canton,20701
+2013,NUMBER, 50-54,_T,una-sana_canton,20224
+2013,NUMBER, 55-59,_T,una-sana_canton,16989
+2013,NUMBER, 60-64,_T,una-sana_canton,13344
+2013,NUMBER, 65-69,_T,una-sana_canton,9626
+2013,NUMBER, 70-74,_T,una-sana_canton,8824
+2013,NUMBER, 75-79,_T,una-sana_canton,6527
+2013,NUMBER, 80-84,_T,una-sana_canton,3067
+2013,NUMBER,85+,_T,una-sana_canton,1219
+2013,NUMBER,T,_T,posavina_canton,43453
+2013,NUMBER,0-4,_T,posavina_canton,1582
+2013,NUMBER, 5-9,_T,posavina_canton,1987
+2013,NUMBER, 10-14,_T,posavina_canton,2466
+2013,NUMBER, 15-19,_T,posavina_canton,3016
+2013,NUMBER, 20-24,_T,posavina_canton,2841
+2013,NUMBER, 25-29,_T,posavina_canton,2823
+2013,NUMBER, 30-34,_T,posavina_canton,2680
+2013,NUMBER, 35-39,_T,posavina_canton,3058
+2013,NUMBER,40-44,_T,posavina_canton,3579
+2013,NUMBER, 45-49,_T,posavina_canton,4072
+2013,NUMBER, 50-54,_T,posavina_canton,3535
+2013,NUMBER, 55-59,_T,posavina_canton,2797
+2013,NUMBER, 60-64,_T,posavina_canton,2498
+2013,NUMBER, 65-69,_T,posavina_canton,2138
+2013,NUMBER, 70-74,_T,posavina_canton,1934
+2013,NUMBER, 75-79,_T,posavina_canton,1486
+2013,NUMBER, 80-84,_T,posavina_canton,716
+2013,NUMBER,85+,_T,posavina_canton,245
+2013,NUMBER,T,_T,tuzla_canton,445028
+2013,NUMBER,0-4,_T,tuzla_canton,23047
+2013,NUMBER, 5-9,_T,tuzla_canton,22730
+2013,NUMBER, 10-14,_T,tuzla_canton,24027
+2013,NUMBER, 15-19,_T,tuzla_canton,32263
+2013,NUMBER, 20-24,_T,tuzla_canton,31620
+2013,NUMBER, 25-29,_T,tuzla_canton,33046
+2013,NUMBER, 30-34,_T,tuzla_canton,31480
+2013,NUMBER, 35-39,_T,tuzla_canton,31195
+2013,NUMBER,40-44,_T,tuzla_canton,31469
+2013,NUMBER, 45-49,_T,tuzla_canton,34576
+2013,NUMBER, 50-54,_T,tuzla_canton,37032
+2013,NUMBER, 55-59,_T,tuzla_canton,31967
+2013,NUMBER, 60-64,_T,tuzla_canton,26735
+2013,NUMBER, 65-69,_T,tuzla_canton,18379
+2013,NUMBER, 70-74,_T,tuzla_canton,15237
+2013,NUMBER, 75-79,_T,tuzla_canton,11738
+2013,NUMBER, 80-84,_T,tuzla_canton,6071
+2013,NUMBER,85+,_T,tuzla_canton,2416
+2013,NUMBER,T,_T,zenica-doboj_canton,364433
+2013,NUMBER,0-4,_T,zenica-doboj_canton,19906
+2013,NUMBER, 5-9,_T,zenica-doboj_canton,19610
+2013,NUMBER, 10-14,_T,zenica-doboj_canton,20927
+2013,NUMBER, 15-19,_T,zenica-doboj_canton,27674
+2013,NUMBER, 20-24,_T,zenica-doboj_canton,25340
+2013,NUMBER, 25-29,_T,zenica-doboj_canton,27092
+2013,NUMBER, 30-34,_T,zenica-doboj_canton,26050
+2013,NUMBER, 35-39,_T,zenica-doboj_canton,25766
+2013,NUMBER,40-44,_T,zenica-doboj_canton,25290
+2013,NUMBER, 45-49,_T,zenica-doboj_canton,27980
+2013,NUMBER, 50-54,_T,zenica-doboj_canton,29498
+2013,NUMBER, 55-59,_T,zenica-doboj_canton,26069
+2013,NUMBER, 60-64,_T,zenica-doboj_canton,21251
+2013,NUMBER, 65-69,_T,zenica-doboj_canton,14217
+2013,NUMBER, 70-74,_T,zenica-doboj_canton,12208
+2013,NUMBER, 75-79,_T,zenica-doboj_canton,9237
+2013,NUMBER, 80-84,_T,zenica-doboj_canton,4593
+2013,NUMBER,85+,_T,zenica-doboj_canton,1725
+2013,NUMBER,T,_T,bosnian-podrinje_canton,23734
+2013,NUMBER,0-4,_T,bosnian-podrinje_canton,1098
+2013,NUMBER, 5-9,_T,bosnian-podrinje_canton,958
+2013,NUMBER, 10-14,_T,bosnian-podrinje_canton,1230
+2013,NUMBER, 15-19,_T,bosnian-podrinje_canton,1738
+2013,NUMBER, 20-24,_T,bosnian-podrinje_canton,1437
+2013,NUMBER, 25-29,_T,bosnian-podrinje_canton,1602
+2013,NUMBER, 30-34,_T,bosnian-podrinje_canton,1623
+2013,NUMBER, 35-39,_T,bosnian-podrinje_canton,1455
+2013,NUMBER,40-44,_T,bosnian-podrinje_canton,1403
+2013,NUMBER, 45-49,_T,bosnian-podrinje_canton,1706
+2013,NUMBER, 50-54,_T,bosnian-podrinje_canton,1914
+2013,NUMBER, 55-59,_T,bosnian-podrinje_canton,2028
+2013,NUMBER, 60-64,_T,bosnian-podrinje_canton,1677
+2013,NUMBER, 65-69,_T,bosnian-podrinje_canton,1071
+2013,NUMBER, 70-74,_T,bosnian-podrinje_canton,1042
+2013,NUMBER, 75-79,_T,bosnian-podrinje_canton,1021
+2013,NUMBER, 80-84,_T,bosnian-podrinje_canton,511
+2013,NUMBER,85+,_T,bosnian-podrinje_canton,220
+2013,NUMBER,T,_T,central_bosnia_canton,254686
+2013,NUMBER,0-4,_T,central_bosnia_canton,12979
+2013,NUMBER, 5-9,_T,central_bosnia_canton,14291
+2013,NUMBER, 10-14,_T,central_bosnia_canton,15930
+2013,NUMBER, 15-19,_T,central_bosnia_canton,19819
+2013,NUMBER, 20-24,_T,central_bosnia_canton,17764
+2013,NUMBER, 25-29,_T,central_bosnia_canton,19067
+2013,NUMBER, 30-34,_T,central_bosnia_canton,18487
+2013,NUMBER, 35-39,_T,central_bosnia_canton,18371
+2013,NUMBER,40-44,_T,central_bosnia_canton,18285
+2013,NUMBER, 45-49,_T,central_bosnia_canton,19430
+2013,NUMBER, 50-54,_T,central_bosnia_canton,19854
+2013,NUMBER, 55-59,_T,central_bosnia_canton,17535
+2013,NUMBER, 60-64,_T,central_bosnia_canton,13788
+2013,NUMBER, 65-69,_T,central_bosnia_canton,9151
+2013,NUMBER, 70-74,_T,central_bosnia_canton,8847
+2013,NUMBER, 75-79,_T,central_bosnia_canton,6561
+2013,NUMBER, 80-84,_T,central_bosnia_canton,3264
+2013,NUMBER,85+,_T,central_bosnia_canton,1263
+2013,NUMBER,T,_T,herzegovina-neretva_canton,222007
+2013,NUMBER,0-4,_T,herzegovina-neretva_canton,10717
+2013,NUMBER, 5-9,_T,herzegovina-neretva_canton,10866
+2013,NUMBER, 10-14,_T,herzegovina-neretva_canton,12576
+2013,NUMBER, 15-19,_T,herzegovina-neretva_canton,16497
+2013,NUMBER, 20-24,_T,herzegovina-neretva_canton,14626
+2013,NUMBER, 25-29,_T,herzegovina-neretva_canton,15752
+2013,NUMBER, 30-34,_T,herzegovina-neretva_canton,15188
+2013,NUMBER, 35-39,_T,herzegovina-neretva_canton,14551
+2013,NUMBER,40-44,_T,herzegovina-neretva_canton,14619
+2013,NUMBER, 45-49,_T,herzegovina-neretva_canton,16426
+2013,NUMBER, 50-54,_T,herzegovina-neretva_canton,17397
+2013,NUMBER, 55-59,_T,herzegovina-neretva_canton,15819
+2013,NUMBER, 60-64,_T,herzegovina-neretva_canton,12748
+2013,NUMBER, 65-69,_T,herzegovina-neretva_canton,8805
+2013,NUMBER, 70-74,_T,herzegovina-neretva_canton,9454
+2013,NUMBER, 75-79,_T,herzegovina-neretva_canton,8323
+2013,NUMBER, 80-84,_T,herzegovina-neretva_canton,5051
+2013,NUMBER,85+,_T,herzegovina-neretva_canton,2592
+2013,NUMBER,T,_T,west_herzegovina_canton,94898
+2013,NUMBER,0-4,_T,west_herzegovina_canton,5017
+2013,NUMBER, 5-9,_T,west_herzegovina_canton,5519
+2013,NUMBER, 10-14,_T,west_herzegovina_canton,6316
+2013,NUMBER, 15-19,_T,west_herzegovina_canton,7379
+2013,NUMBER, 20-24,_T,west_herzegovina_canton,6886
+2013,NUMBER, 25-29,_T,west_herzegovina_canton,6575
+2013,NUMBER, 30-34,_T,west_herzegovina_canton,5795
+2013,NUMBER, 35-39,_T,west_herzegovina_canton,6013
+2013,NUMBER,40-44,_T,west_herzegovina_canton,6517
+2013,NUMBER, 45-49,_T,west_herzegovina_canton,7179
+2013,NUMBER, 50-54,_T,west_herzegovina_canton,6999
+2013,NUMBER, 55-59,_T,west_herzegovina_canton,5838
+2013,NUMBER, 60-64,_T,west_herzegovina_canton,4357
+2013,NUMBER, 65-69,_T,west_herzegovina_canton,3394
+2013,NUMBER, 70-74,_T,west_herzegovina_canton,3928
+2013,NUMBER, 75-79,_T,west_herzegovina_canton,3466
+2013,NUMBER, 80-84,_T,west_herzegovina_canton,2275
+2013,NUMBER,85+,_T,west_herzegovina_canton,1445
+2013,NUMBER,T,_T,sarajevo_canton,413593
+2013,NUMBER,0-4,_T,sarajevo_canton,22280
+2013,NUMBER, 5-9,_T,sarajevo_canton,20434
+2013,NUMBER, 10-14,_T,sarajevo_canton,20546
+2013,NUMBER, 15-19,_T,sarajevo_canton,26388
+2013,NUMBER, 20-24,_T,sarajevo_canton,25484
+2013,NUMBER, 25-29,_T,sarajevo_canton,31933
+2013,NUMBER, 30-34,_T,sarajevo_canton,33628
+2013,NUMBER, 35-39,_T,sarajevo_canton,30097
+2013,NUMBER,40-44,_T,sarajevo_canton,26828
+2013,NUMBER, 45-49,_T,sarajevo_canton,28776
+2013,NUMBER, 50-54,_T,sarajevo_canton,31191
+2013,NUMBER, 55-59,_T,sarajevo_canton,31115
+2013,NUMBER, 60-64,_T,sarajevo_canton,27127
+2013,NUMBER, 65-69,_T,sarajevo_canton,17662
+2013,NUMBER, 70-74,_T,sarajevo_canton,15468
+2013,NUMBER, 75-79,_T,sarajevo_canton,13717
+2013,NUMBER, 80-84,_T,sarajevo_canton,7483
+2013,NUMBER,85+,_T,sarajevo_canton,3436
+2013,NUMBER,T,_T,canton_10,84127
+2013,NUMBER,0-4,_T,canton_10,3412
+2013,NUMBER, 5-9,_T,canton_10,3880
+2013,NUMBER, 10-14,_T,canton_10,4585
+2013,NUMBER, 15-19,_T,canton_10,5779
+2013,NUMBER, 20-24,_T,canton_10,5363
+2013,NUMBER, 25-29,_T,canton_10,5401
+2013,NUMBER, 30-34,_T,canton_10,5381
+2013,NUMBER, 35-39,_T,canton_10,5645
+2013,NUMBER,40-44,_T,canton_10,6153
+2013,NUMBER, 45-49,_T,canton_10,6263
+2013,NUMBER, 50-54,_T,canton_10,6352
+2013,NUMBER, 55-59,_T,canton_10,5932
+2013,NUMBER, 60-64,_T,canton_10,5088
+2013,NUMBER, 65-69,_T,canton_10,3948
+2013,NUMBER, 70-74,_T,canton_10,4081
+2013,NUMBER, 75-79,_T,canton_10,3537
+2013,NUMBER, 80-84,_T,canton_10,2196
+2013,NUMBER,85+,_T,canton_10,1131
+2013,NUMBER,T,M,federation_of_bih,1087993
+2013,NUMBER,0-4,M,federation_of_bih,59017
+2013,NUMBER, 5-9,M,federation_of_bih,59633
+2013,NUMBER, 10-14,M,federation_of_bih,64493
+2013,NUMBER, 15-19,M,federation_of_bih,83298
+2013,NUMBER, 20-24,M,federation_of_bih,77103
+2013,NUMBER, 25-29,M,federation_of_bih,84119
+2013,NUMBER, 30-34,M,federation_of_bih,81932
+2013,NUMBER, 35-39,M,federation_of_bih,78939
+2013,NUMBER,40-44,M,federation_of_bih,77122
+2013,NUMBER, 45-49,M,federation_of_bih,82594
+2013,NUMBER, 50-54,M,federation_of_bih,85303
+2013,NUMBER, 55-59,M,federation_of_bih,75568
+2013,NUMBER, 60-64,M,federation_of_bih,59899
+2013,NUMBER, 65-69,M,federation_of_bih,39438
+2013,NUMBER, 70-74,M,federation_of_bih,34445
+2013,NUMBER, 75-79,M,federation_of_bih,26695
+2013,NUMBER, 80-84,M,federation_of_bih,13493
+2013,NUMBER,85+,M,federation_of_bih,4902
+2013,NUMBER,T,M,una-sana_canton,135304
+2013,NUMBER,0-4,M,una-sana_canton,7629
+2013,NUMBER, 5-9,M,una-sana_canton,8062
+2013,NUMBER, 10-14,M,una-sana_canton,8902
+2013,NUMBER, 15-19,M,una-sana_canton,11007
+2013,NUMBER, 20-24,M,una-sana_canton,10030
+2013,NUMBER, 25-29,M,una-sana_canton,10851
+2013,NUMBER, 30-34,M,una-sana_canton,10676
+2013,NUMBER, 35-39,M,una-sana_canton,10867
+2013,NUMBER,40-44,M,una-sana_canton,10236
+2013,NUMBER, 45-49,M,una-sana_canton,10261
+2013,NUMBER, 50-54,M,una-sana_canton,9978
+2013,NUMBER, 55-59,M,una-sana_canton,8241
+2013,NUMBER, 60-64,M,una-sana_canton,6329
+2013,NUMBER, 65-69,M,una-sana_canton,4351
+2013,NUMBER, 70-74,M,una-sana_canton,3767
+2013,NUMBER, 75-79,M,una-sana_canton,2604
+2013,NUMBER, 80-84,M,una-sana_canton,1126
+2013,NUMBER,85+,M,una-sana_canton,387
+2013,NUMBER,T,M,posavina_canton,21805
+2013,NUMBER,0-4,M,posavina_canton,802
+2013,NUMBER, 5-9,M,posavina_canton,1024
+2013,NUMBER, 10-14,M,posavina_canton,1323
+2013,NUMBER, 15-19,M,posavina_canton,1560
+2013,NUMBER, 20-24,M,posavina_canton,1509
+2013,NUMBER, 25-29,M,posavina_canton,1473
+2013,NUMBER, 30-34,M,posavina_canton,1369
+2013,NUMBER, 35-39,M,posavina_canton,1544
+2013,NUMBER,40-44,M,posavina_canton,1877
+2013,NUMBER, 45-49,M,posavina_canton,2195
+2013,NUMBER, 50-54,M,posavina_canton,1868
+2013,NUMBER, 55-59,M,posavina_canton,1443
+2013,NUMBER, 60-64,M,posavina_canton,1178
+2013,NUMBER, 65-69,M,posavina_canton,965
+2013,NUMBER, 70-74,M,posavina_canton,832
+2013,NUMBER, 75-79,M,posavina_canton,535
+2013,NUMBER, 80-84,M,posavina_canton,250
+2013,NUMBER,85+,M,posavina_canton,58
+2013,NUMBER,T,M,tuzla_canton,217388
+2013,NUMBER,0-4,M,tuzla_canton,11848
+2013,NUMBER, 5-9,M,tuzla_canton,11715
+2013,NUMBER, 10-14,M,tuzla_canton,12290
+2013,NUMBER, 15-19,M,tuzla_canton,16556
+2013,NUMBER, 20-24,M,tuzla_canton,16209
+2013,NUMBER, 25-29,M,tuzla_canton,16947
+2013,NUMBER, 30-34,M,tuzla_canton,15950
+2013,NUMBER, 35-39,M,tuzla_canton,15374
+2013,NUMBER,40-44,M,tuzla_canton,15535
+2013,NUMBER, 45-49,M,tuzla_canton,16715
+2013,NUMBER, 50-54,M,tuzla_canton,17905
+2013,NUMBER, 55-59,M,tuzla_canton,15310
+2013,NUMBER, 60-64,M,tuzla_canton,12416
+2013,NUMBER, 65-69,M,tuzla_canton,8194
+2013,NUMBER, 70-74,M,tuzla_canton,6519
+2013,NUMBER, 75-79,M,tuzla_canton,4763
+2013,NUMBER, 80-84,M,tuzla_canton,2345
+2013,NUMBER,85+,M,tuzla_canton,797
+2013,NUMBER,T,M,zenica-doboj_canton,180780
+2013,NUMBER,0-4,M,zenica-doboj_canton,10265
+2013,NUMBER, 5-9,M,zenica-doboj_canton,10010
+2013,NUMBER, 10-14,M,zenica-doboj_canton,10668
+2013,NUMBER, 15-19,M,zenica-doboj_canton,14352
+2013,NUMBER, 20-24,M,zenica-doboj_canton,12872
+2013,NUMBER, 25-29,M,zenica-doboj_canton,13981
+2013,NUMBER, 30-34,M,zenica-doboj_canton,13592
+2013,NUMBER, 35-39,M,zenica-doboj_canton,13134
+2013,NUMBER,40-44,M,zenica-doboj_canton,12655
+2013,NUMBER, 45-49,M,zenica-doboj_canton,13872
+2013,NUMBER, 50-54,M,zenica-doboj_canton,14553
+2013,NUMBER, 55-59,M,zenica-doboj_canton,12699
+2013,NUMBER, 60-64,M,zenica-doboj_canton,10075
+2013,NUMBER, 65-69,M,zenica-doboj_canton,6460
+2013,NUMBER, 70-74,M,zenica-doboj_canton,5267
+2013,NUMBER, 75-79,M,zenica-doboj_canton,3869
+2013,NUMBER, 80-84,M,zenica-doboj_canton,1851
+2013,NUMBER,85+,M,zenica-doboj_canton,605
+2013,NUMBER,T,M,bosnian-podrinje_canton,11617
+2013,NUMBER,0-4,M,bosnian-podrinje_canton,581
+2013,NUMBER, 5-9,M,bosnian-podrinje_canton,520
+2013,NUMBER, 10-14,M,bosnian-podrinje_canton,635
+2013,NUMBER, 15-19,M,bosnian-podrinje_canton,897
+2013,NUMBER, 20-24,M,bosnian-podrinje_canton,749
+2013,NUMBER, 25-29,M,bosnian-podrinje_canton,839
+2013,NUMBER, 30-34,M,bosnian-podrinje_canton,843
+2013,NUMBER, 35-39,M,bosnian-podrinje_canton,738
+2013,NUMBER,40-44,M,bosnian-podrinje_canton,700
+2013,NUMBER, 45-49,M,bosnian-podrinje_canton,838
+2013,NUMBER, 50-54,M,bosnian-podrinje_canton,939
+2013,NUMBER, 55-59,M,bosnian-podrinje_canton,969
+2013,NUMBER, 60-64,M,bosnian-podrinje_canton,752
+2013,NUMBER, 65-69,M,bosnian-podrinje_canton,446
+2013,NUMBER, 70-74,M,bosnian-podrinje_canton,443
+2013,NUMBER, 75-79,M,bosnian-podrinje_canton,429
+2013,NUMBER, 80-84,M,bosnian-podrinje_canton,225
+2013,NUMBER,85+,M,bosnian-podrinje_canton,74
+2013,NUMBER,T,M,central_bosnia_canton,127266
+2013,NUMBER,0-4,M,central_bosnia_canton,6724
+2013,NUMBER, 5-9,M,central_bosnia_canton,7358
+2013,NUMBER, 10-14,M,central_bosnia_canton,8167
+2013,NUMBER, 15-19,M,central_bosnia_canton,10172
+2013,NUMBER, 20-24,M,central_bosnia_canton,9168
+2013,NUMBER, 25-29,M,central_bosnia_canton,10118
+2013,NUMBER, 30-34,M,central_bosnia_canton,9717
+2013,NUMBER, 35-39,M,central_bosnia_canton,9480
+2013,NUMBER,40-44,M,central_bosnia_canton,9424
+2013,NUMBER, 45-49,M,central_bosnia_canton,9761
+2013,NUMBER, 50-54,M,central_bosnia_canton,9778
+2013,NUMBER, 55-59,M,central_bosnia_canton,8565
+2013,NUMBER, 60-64,M,central_bosnia_canton,6485
+2013,NUMBER, 65-69,M,central_bosnia_canton,4104
+2013,NUMBER, 70-74,M,central_bosnia_canton,3712
+2013,NUMBER, 75-79,M,central_bosnia_canton,2809
+2013,NUMBER, 80-84,M,central_bosnia_canton,1300
+2013,NUMBER,85+,M,central_bosnia_canton,424
+2013,NUMBER,T,M,herzegovina-neretva_canton,109018
+2013,NUMBER,0-4,M,herzegovina-neretva_canton,5448
+2013,NUMBER, 5-9,M,herzegovina-neretva_canton,5571
+2013,NUMBER, 10-14,M,herzegovina-neretva_canton,6370
+2013,NUMBER, 15-19,M,herzegovina-neretva_canton,8565
+2013,NUMBER, 20-24,M,herzegovina-neretva_canton,7456
+2013,NUMBER, 25-29,M,herzegovina-neretva_canton,8141
+2013,NUMBER, 30-34,M,herzegovina-neretva_canton,7856
+2013,NUMBER, 35-39,M,herzegovina-neretva_canton,7391
+2013,NUMBER,40-44,M,herzegovina-neretva_canton,7436
+2013,NUMBER, 45-49,M,herzegovina-neretva_canton,8303
+2013,NUMBER, 50-54,M,herzegovina-neretva_canton,8611
+2013,NUMBER, 55-59,M,herzegovina-neretva_canton,7907
+2013,NUMBER, 60-64,M,herzegovina-neretva_canton,5983
+2013,NUMBER, 65-69,M,herzegovina-neretva_canton,3888
+2013,NUMBER, 70-74,M,herzegovina-neretva_canton,4005
+2013,NUMBER, 75-79,M,herzegovina-neretva_canton,3437
+2013,NUMBER, 80-84,M,herzegovina-neretva_canton,1927
+2013,NUMBER,85+,M,herzegovina-neretva_canton,723
+2013,NUMBER,T,M,west_herzegovina_canton,47311
+2013,NUMBER,0-4,M,west_herzegovina_canton,2595
+2013,NUMBER, 5-9,M,west_herzegovina_canton,2863
+2013,NUMBER, 10-14,M,west_herzegovina_canton,3176
+2013,NUMBER, 15-19,M,west_herzegovina_canton,3779
+2013,NUMBER, 20-24,M,west_herzegovina_canton,3491
+2013,NUMBER, 25-29,M,west_herzegovina_canton,3340
+2013,NUMBER, 30-34,M,west_herzegovina_canton,2920
+2013,NUMBER, 35-39,M,west_herzegovina_canton,2989
+2013,NUMBER,40-44,M,west_herzegovina_canton,3316
+2013,NUMBER, 45-49,M,west_herzegovina_canton,3775
+2013,NUMBER, 50-54,M,west_herzegovina_canton,3761
+2013,NUMBER, 55-59,M,west_herzegovina_canton,3123
+2013,NUMBER, 60-64,M,west_herzegovina_canton,2197
+2013,NUMBER, 65-69,M,west_herzegovina_canton,1681
+2013,NUMBER, 70-74,M,west_herzegovina_canton,1761
+2013,NUMBER, 75-79,M,west_herzegovina_canton,1356
+2013,NUMBER, 80-84,M,west_herzegovina_canton,854
+2013,NUMBER,85+,M,west_herzegovina_canton,334
+2013,NUMBER,T,M,sarajevo_canton,195161
+2013,NUMBER,0-4,M,sarajevo_canton,11376
+2013,NUMBER, 5-9,M,sarajevo_canton,10480
+2013,NUMBER, 10-14,M,sarajevo_canton,10607
+2013,NUMBER, 15-19,M,sarajevo_canton,13496
+2013,NUMBER, 20-24,M,sarajevo_canton,12845
+2013,NUMBER, 25-29,M,sarajevo_canton,15536
+2013,NUMBER, 30-34,M,sarajevo_canton,16189
+2013,NUMBER, 35-39,M,sarajevo_canton,14472
+2013,NUMBER,40-44,M,sarajevo_canton,12745
+2013,NUMBER, 45-49,M,sarajevo_canton,13595
+2013,NUMBER, 50-54,M,sarajevo_canton,14485
+2013,NUMBER, 55-59,M,sarajevo_canton,14220
+2013,NUMBER, 60-64,M,sarajevo_canton,11885
+2013,NUMBER, 65-69,M,sarajevo_canton,7451
+2013,NUMBER, 70-74,M,sarajevo_canton,6327
+2013,NUMBER, 75-79,M,sarajevo_canton,5450
+2013,NUMBER, 80-84,M,sarajevo_canton,2806
+2013,NUMBER,85+,M,sarajevo_canton,1196
+2013,NUMBER,T,M,canton_10,42343
+2013,NUMBER,0-4,M,canton_10,1749
+2013,NUMBER, 5-9,M,canton_10,2030
+2013,NUMBER, 10-14,M,canton_10,2355
+2013,NUMBER, 15-19,M,canton_10,2914
+2013,NUMBER, 20-24,M,canton_10,2774
+2013,NUMBER, 25-29,M,canton_10,2893
+2013,NUMBER, 30-34,M,canton_10,2820
+2013,NUMBER, 35-39,M,canton_10,2950
+2013,NUMBER,40-44,M,canton_10,3198
+2013,NUMBER, 45-49,M,canton_10,3279
+2013,NUMBER, 50-54,M,canton_10,3425
+2013,NUMBER, 55-59,M,canton_10,3091
+2013,NUMBER, 60-64,M,canton_10,2599
+2013,NUMBER, 65-69,M,canton_10,1898
+2013,NUMBER, 70-74,M,canton_10,1812
+2013,NUMBER, 75-79,M,canton_10,1443
+2013,NUMBER, 80-84,M,canton_10,809
+2013,NUMBER,85+,M,canton_10,304
+2013,NUMBER,T,F,federation_of_bih,1131227
+2013,NUMBER,0-4,F,federation_of_bih,55826
+2013,NUMBER, 5-9,F,federation_of_bih,56419
+2013,NUMBER, 10-14,F,federation_of_bih,61560
+2013,NUMBER, 15-19,F,federation_of_bih,78583
+2013,NUMBER, 20-24,F,federation_of_bih,73799
+2013,NUMBER, 25-29,F,federation_of_bih,80084
+2013,NUMBER, 30-34,F,federation_of_bih,79056
+2013,NUMBER, 35-39,F,federation_of_bih,78776
+2013,NUMBER,40-44,F,federation_of_bih,77708
+2013,NUMBER, 45-49,F,federation_of_bih,84515
+2013,NUMBER, 50-54,F,federation_of_bih,88693
+2013,NUMBER, 55-59,F,federation_of_bih,80521
+2013,NUMBER, 60-64,F,federation_of_bih,68714
+2013,NUMBER, 65-69,F,federation_of_bih,48953
+2013,NUMBER, 70-74,F,federation_of_bih,46578
+2013,NUMBER, 75-79,F,federation_of_bih,38918
+2013,NUMBER, 80-84,F,federation_of_bih,21734
+2013,NUMBER,85+,F,federation_of_bih,10790
+2013,NUMBER,T,F,una-sana_canton,137957
+2013,NUMBER,0-4,F,una-sana_canton,7176
+2013,NUMBER, 5-9,F,una-sana_canton,7715
+2013,NUMBER, 10-14,F,una-sana_canton,8548
+2013,NUMBER, 15-19,F,una-sana_canton,10321
+2013,NUMBER, 20-24,F,una-sana_canton,9511
+2013,NUMBER, 25-29,F,una-sana_canton,10061
+2013,NUMBER, 30-34,F,una-sana_canton,10000
+2013,NUMBER, 35-39,F,una-sana_canton,10697
+2013,NUMBER,40-44,F,una-sana_canton,10451
+2013,NUMBER, 45-49,F,una-sana_canton,10440
+2013,NUMBER, 50-54,F,una-sana_canton,10246
+2013,NUMBER, 55-59,F,una-sana_canton,8748
+2013,NUMBER, 60-64,F,una-sana_canton,7015
+2013,NUMBER, 65-69,F,una-sana_canton,5275
+2013,NUMBER, 70-74,F,una-sana_canton,5057
+2013,NUMBER, 75-79,F,una-sana_canton,3923
+2013,NUMBER, 80-84,F,una-sana_canton,1941
+2013,NUMBER,85+,F,una-sana_canton,832
+2013,NUMBER,T,F,posavina_canton,21648
+2013,NUMBER,0-4,F,posavina_canton,780
+2013,NUMBER, 5-9,F,posavina_canton,963
+2013,NUMBER, 10-14,F,posavina_canton,1143
+2013,NUMBER, 15-19,F,posavina_canton,1456
+2013,NUMBER, 20-24,F,posavina_canton,1332
+2013,NUMBER, 25-29,F,posavina_canton,1350
+2013,NUMBER, 30-34,F,posavina_canton,1311
+2013,NUMBER, 35-39,F,posavina_canton,1514
+2013,NUMBER,40-44,F,posavina_canton,1702
+2013,NUMBER, 45-49,F,posavina_canton,1877
+2013,NUMBER, 50-54,F,posavina_canton,1667
+2013,NUMBER, 55-59,F,posavina_canton,1354
+2013,NUMBER, 60-64,F,posavina_canton,1320
+2013,NUMBER, 65-69,F,posavina_canton,1173
+2013,NUMBER, 70-74,F,posavina_canton,1102
+2013,NUMBER, 75-79,F,posavina_canton,951
+2013,NUMBER, 80-84,F,posavina_canton,466
+2013,NUMBER,85+,F,posavina_canton,187
+2013,NUMBER,T,F,tuzla_canton,227640
+2013,NUMBER,0-4,F,tuzla_canton,11199
+2013,NUMBER, 5-9,F,tuzla_canton,11015
+2013,NUMBER, 10-14,F,tuzla_canton,11737
+2013,NUMBER, 15-19,F,tuzla_canton,15707
+2013,NUMBER, 20-24,F,tuzla_canton,15411
+2013,NUMBER, 25-29,F,tuzla_canton,16099
+2013,NUMBER, 30-34,F,tuzla_canton,15530
+2013,NUMBER, 35-39,F,tuzla_canton,15821
+2013,NUMBER,40-44,F,tuzla_canton,15934
+2013,NUMBER, 45-49,F,tuzla_canton,17861
+2013,NUMBER, 50-54,F,tuzla_canton,19127
+2013,NUMBER, 55-59,F,tuzla_canton,16657
+2013,NUMBER, 60-64,F,tuzla_canton,14319
+2013,NUMBER, 65-69,F,tuzla_canton,10185
+2013,NUMBER, 70-74,F,tuzla_canton,8718
+2013,NUMBER, 75-79,F,tuzla_canton,6975
+2013,NUMBER, 80-84,F,tuzla_canton,3726
+2013,NUMBER,85+,F,tuzla_canton,1619
+2013,NUMBER,T,F,zenica-doboj_canton,183653
+2013,NUMBER,0-4,F,zenica-doboj_canton,9641
+2013,NUMBER, 5-9,F,zenica-doboj_canton,9600
+2013,NUMBER, 10-14,F,zenica-doboj_canton,10259
+2013,NUMBER, 15-19,F,zenica-doboj_canton,13322
+2013,NUMBER, 20-24,F,zenica-doboj_canton,12468
+2013,NUMBER, 25-29,F,zenica-doboj_canton,13111
+2013,NUMBER, 30-34,F,zenica-doboj_canton,12458
+2013,NUMBER, 35-39,F,zenica-doboj_canton,12632
+2013,NUMBER,40-44,F,zenica-doboj_canton,12635
+2013,NUMBER, 45-49,F,zenica-doboj_canton,14108
+2013,NUMBER, 50-54,F,zenica-doboj_canton,14945
+2013,NUMBER, 55-59,F,zenica-doboj_canton,13370
+2013,NUMBER, 60-64,F,zenica-doboj_canton,11176
+2013,NUMBER, 65-69,F,zenica-doboj_canton,7757
+2013,NUMBER, 70-74,F,zenica-doboj_canton,6941
+2013,NUMBER, 75-79,F,zenica-doboj_canton,5368
+2013,NUMBER, 80-84,F,zenica-doboj_canton,2742
+2013,NUMBER,85+,F,zenica-doboj_canton,1120
+2013,NUMBER,T,F,bosnian-podrinje_canton,12117
+2013,NUMBER,0-4,F,bosnian-podrinje_canton,517
+2013,NUMBER, 5-9,F,bosnian-podrinje_canton,438
+2013,NUMBER, 10-14,F,bosnian-podrinje_canton,595
+2013,NUMBER, 15-19,F,bosnian-podrinje_canton,841
+2013,NUMBER, 20-24,F,bosnian-podrinje_canton,688
+2013,NUMBER, 25-29,F,bosnian-podrinje_canton,763
+2013,NUMBER, 30-34,F,bosnian-podrinje_canton,780
+2013,NUMBER, 35-39,F,bosnian-podrinje_canton,717
+2013,NUMBER,40-44,F,bosnian-podrinje_canton,703
+2013,NUMBER, 45-49,F,bosnian-podrinje_canton,868
+2013,NUMBER, 50-54,F,bosnian-podrinje_canton,975
+2013,NUMBER, 55-59,F,bosnian-podrinje_canton,1059
+2013,NUMBER, 60-64,F,bosnian-podrinje_canton,925
+2013,NUMBER, 65-69,F,bosnian-podrinje_canton,625
+2013,NUMBER, 70-74,F,bosnian-podrinje_canton,599
+2013,NUMBER, 75-79,F,bosnian-podrinje_canton,592
+2013,NUMBER, 80-84,F,bosnian-podrinje_canton,286
+2013,NUMBER,85+,F,bosnian-podrinje_canton,146
+2013,NUMBER,T,F,central_bosnia_canton,127420
+2013,NUMBER,0-4,F,central_bosnia_canton,6255
+2013,NUMBER, 5-9,F,central_bosnia_canton,6933
+2013,NUMBER, 10-14,F,central_bosnia_canton,7763
+2013,NUMBER, 15-19,F,central_bosnia_canton,9647
+2013,NUMBER, 20-24,F,central_bosnia_canton,8596
+2013,NUMBER, 25-29,F,central_bosnia_canton,8949
+2013,NUMBER, 30-34,F,central_bosnia_canton,8770
+2013,NUMBER, 35-39,F,central_bosnia_canton,8891
+2013,NUMBER,40-44,F,central_bosnia_canton,8861
+2013,NUMBER, 45-49,F,central_bosnia_canton,9669
+2013,NUMBER, 50-54,F,central_bosnia_canton,10076
+2013,NUMBER, 55-59,F,central_bosnia_canton,8970
+2013,NUMBER, 60-64,F,central_bosnia_canton,7303
+2013,NUMBER, 65-69,F,central_bosnia_canton,5047
+2013,NUMBER, 70-74,F,central_bosnia_canton,5135
+2013,NUMBER, 75-79,F,central_bosnia_canton,3752
+2013,NUMBER, 80-84,F,central_bosnia_canton,1964
+2013,NUMBER,85+,F,central_bosnia_canton,839
+2013,NUMBER,T,F,herzegovina-neretva_canton,112989
+2013,NUMBER,0-4,F,herzegovina-neretva_canton,5269
+2013,NUMBER, 5-9,F,herzegovina-neretva_canton,5295
+2013,NUMBER, 10-14,F,herzegovina-neretva_canton,6206
+2013,NUMBER, 15-19,F,herzegovina-neretva_canton,7932
+2013,NUMBER, 20-24,F,herzegovina-neretva_canton,7170
+2013,NUMBER, 25-29,F,herzegovina-neretva_canton,7611
+2013,NUMBER, 30-34,F,herzegovina-neretva_canton,7332
+2013,NUMBER, 35-39,F,herzegovina-neretva_canton,7160
+2013,NUMBER,40-44,F,herzegovina-neretva_canton,7183
+2013,NUMBER, 45-49,F,herzegovina-neretva_canton,8123
+2013,NUMBER, 50-54,F,herzegovina-neretva_canton,8786
+2013,NUMBER, 55-59,F,herzegovina-neretva_canton,7912
+2013,NUMBER, 60-64,F,herzegovina-neretva_canton,6765
+2013,NUMBER, 65-69,F,herzegovina-neretva_canton,4917
+2013,NUMBER, 70-74,F,herzegovina-neretva_canton,5449
+2013,NUMBER, 75-79,F,herzegovina-neretva_canton,4886
+2013,NUMBER, 80-84,F,herzegovina-neretva_canton,3124
+2013,NUMBER,85+,F,herzegovina-neretva_canton,1869
+2013,NUMBER,T,F,west_herzegovina_canton,47587
+2013,NUMBER,0-4,F,west_herzegovina_canton,2422
+2013,NUMBER, 5-9,F,west_herzegovina_canton,2656
+2013,NUMBER, 10-14,F,west_herzegovina_canton,3140
+2013,NUMBER, 15-19,F,west_herzegovina_canton,3600
+2013,NUMBER, 20-24,F,west_herzegovina_canton,3395
+2013,NUMBER, 25-29,F,west_herzegovina_canton,3235
+2013,NUMBER, 30-34,F,west_herzegovina_canton,2875
+2013,NUMBER, 35-39,F,west_herzegovina_canton,3024
+2013,NUMBER,40-44,F,west_herzegovina_canton,3201
+2013,NUMBER, 45-49,F,west_herzegovina_canton,3404
+2013,NUMBER, 50-54,F,west_herzegovina_canton,3238
+2013,NUMBER, 55-59,F,west_herzegovina_canton,2715
+2013,NUMBER, 60-64,F,west_herzegovina_canton,2160
+2013,NUMBER, 65-69,F,west_herzegovina_canton,1713
+2013,NUMBER, 70-74,F,west_herzegovina_canton,2167
+2013,NUMBER, 75-79,F,west_herzegovina_canton,2110
+2013,NUMBER, 80-84,F,west_herzegovina_canton,1421
+2013,NUMBER,85+,F,west_herzegovina_canton,1111
+2013,NUMBER,T,F,sarajevo_canton,218432
+2013,NUMBER,0-4,F,sarajevo_canton,10904
+2013,NUMBER, 5-9,F,sarajevo_canton,9954
+2013,NUMBER, 10-14,F,sarajevo_canton,9939
+2013,NUMBER, 15-19,F,sarajevo_canton,12892
+2013,NUMBER, 20-24,F,sarajevo_canton,12639
+2013,NUMBER, 25-29,F,sarajevo_canton,16397
+2013,NUMBER, 30-34,F,sarajevo_canton,17439
+2013,NUMBER, 35-39,F,sarajevo_canton,15625
+2013,NUMBER,40-44,F,sarajevo_canton,14083
+2013,NUMBER, 45-49,F,sarajevo_canton,15181
+2013,NUMBER, 50-54,F,sarajevo_canton,16706
+2013,NUMBER, 55-59,F,sarajevo_canton,16895
+2013,NUMBER, 60-64,F,sarajevo_canton,15242
+2013,NUMBER, 65-69,F,sarajevo_canton,10211
+2013,NUMBER, 70-74,F,sarajevo_canton,9141
+2013,NUMBER, 75-79,F,sarajevo_canton,8267
+2013,NUMBER, 80-84,F,sarajevo_canton,4677
+2013,NUMBER,85+,F,sarajevo_canton,2240
+2013,NUMBER,T,F,canton_10,41784
+2013,NUMBER,0-4,F,canton_10,1663
+2013,NUMBER, 5-9,F,canton_10,1850
+2013,NUMBER, 10-14,F,canton_10,2230
+2013,NUMBER, 15-19,F,canton_10,2865
+2013,NUMBER, 20-24,F,canton_10,2589
+2013,NUMBER, 25-29,F,canton_10,2508
+2013,NUMBER, 30-34,F,canton_10,2561
+2013,NUMBER, 35-39,F,canton_10,2695
+2013,NUMBER,40-44,F,canton_10,2955
+2013,NUMBER, 45-49,F,canton_10,2984
+2013,NUMBER, 50-54,F,canton_10,2927
+2013,NUMBER, 55-59,F,canton_10,2841
+2013,NUMBER, 60-64,F,canton_10,2489
+2013,NUMBER, 65-69,F,canton_10,2050
+2013,NUMBER, 70-74,F,canton_10,2269
+2013,NUMBER, 75-79,F,canton_10,2094
+2013,NUMBER, 80-84,F,canton_10,1387
+2013,NUMBER,85+,F,canton_10,827
