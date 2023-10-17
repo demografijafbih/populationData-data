@@ -1,0 +1,177 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                " 0-4",
+                " 10-14",
+                " 5-9",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
+                "Total"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Banovici",
+                "Bihac",
+                "Bosanska Krupa",
+                "Bosanski Petrovac",
+                "Bosansko Grahovo",
+                "Bosnian-Podrinje Canton",
+                "Breza",
+                "Bugojno",
+                "Busovaca",
+                "Buzim",
+                "Canton 10",
+                "Capljina",
+                "Cazin",
+                "Celic",
+                "Sarajevo-Centar",
+                "Central Bosnia Canton",
+                "Citluk",
+                "Doboj-Istok",
+                "Doboj-Jug",
+                "Dobretici",
+                "Domaljevac-Samac",
+                "Donji Vakuf",
+                "Drvar",
+                "Federation of Bosnia and Herzegovina",
+                "Foca-FBiH",
+                "Fojnica",
+                "Glamoc",
+                "Gorazde",
+                "Gornji Vakuf-Uskoplje",
+                "Gracanica",
+                "Gradacac",
+                "Grude",
+                "Sarajevo-Hadzici",
+                "Herzegovina-Neretva Canton",
+                "Sarajevo-Ilidza",
+                "Sarajevo-Ilijas",
+                "Jablanica",
+                "Jajce",
+                "Kakanj",
+                "Kalesija",
+                "Kiseljak",
+                "Kladanj",
+                "Kljuc",
+                "Konjic",
+                "Kresevo",
+                "Kupres-FBiH",
+                "Livno",
+                "Ljubuski",
+                "Lukavac",
+                "Maglaj",
+                "Grad Mostar",
+                "Neum",
+                "Sarajevo-Novi Grad",
+                "Novi Travnik",
+                "Sarajevo-Novo Sarajevo",
+                "Odzak",
+                "Olovo",
+                "Orasje",
+                "Pale-FBiH",
+                "Posavina Canton",
+                "Posusje",
+                "Prozor",
+                "Ravno",
+                "Sanski Most",
+                "Sapna",
+                "Sarajevo Canton",
+                "Siroki Brijeg",
+                "Srebrenik",
+                "Sarajevo-Stari Grad",
+                "Stolac",
+                "Teocak",
+                "Tesanj",
+                "Tomislavgrad",
+                "Travnik",
+                "Trnovo-FBiH",
+                "Tuzla",
+                "Tuzla Canton",
+                "Una-Sana Canton",
+                "Usora",
+                "Vares",
+                "Velika Kladusa",
+                "Visoko",
+                "Vitez",
+                "Sarajevo-Vogosca",
+                "West Herzegovina Canton",
+                "Zavidovici",
+                "Zenica",
+                "Zenica-Doboj Canton",
+                "Zepce",
+                "Zivinice"
+              ]
+            },
+            "title": "Administrative Area"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-8-3",
+  "title": "1-8-3"
+}

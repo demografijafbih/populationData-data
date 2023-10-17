@@ -1,0 +1,177 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Federacija Bosne i Hercegovine",
+                "Unsko-sanska županija",
+                "Bihać",
+                "Bosanska Krupa",
+                "Bosanski Petrovac",
+                "Bužim",
+                "Cazin",
+                "Ključ",
+                "Sanski Most",
+                "Velika Kladuša",
+                "Posavska županija",
+                "Domaljevac-Šamac",
+                "Odžak",
+                "Orašje",
+                "Tuzlanska županija",
+                "Banovići",
+                "Čelić",
+                "Doboj-Istok",
+                "Gračanica",
+                "Gradačac",
+                "Kalesija",
+                "Kladanj",
+                "Lukavac",
+                "Sapna",
+                "Srebrenik",
+                "Teočak",
+                "Tuzla",
+                "Živinice",
+                "Zeničko-dobojska županija",
+                "Breza",
+                "Doboj-Jug",
+                "Kakanj",
+                "Maglaj",
+                "Olovo",
+                "Tešanj",
+                "Usora",
+                "Vareš",
+                "Visoko",
+                "Zavidovići",
+                "Zenica",
+                "Žepče",
+                "Bosansko-podrinjska županija",
+                "foca_fbih",
+                "Goražde",
+                "Pale-FBiH",
+                "Srednjobosanska županija",
+                "Bugojno",
+                "Busovača",
+                "Dobretići",
+                "Donji Vakuf",
+                "Fojnica",
+                "Gornji Vakuf-Uskoplje",
+                "Jajce",
+                "Kiseljak",
+                "Kreševo",
+                "Novi Travnik",
+                "Travnik",
+                "Vitez",
+                "Hercegovačko-neretvanska županija",
+                "Čapljina",
+                "Čitluk",
+                "Mostar",
+                "Jablanica",
+                "Konjic",
+                "Neum",
+                "Prozor",
+                "Ravno",
+                "Stolac",
+                "Zapadno-hercegovačka županija",
+                "Grude",
+                "Ljubuški",
+                "Posušje",
+                "Široki Brijeg",
+                "Sarajevska županija",
+                "Sarajevo-Centar",
+                "Sarajevo-Hadžići",
+                "Sarajevo-Ilidža",
+                "Sarajevo-Ilijaš",
+                "Sarajevo-Novi Grad",
+                "Sarajevo-Novo Sarajevo",
+                "Sarajevo-Stari Grad",
+                "Trnovo-FBiH",
+                "Sarajevo-Vogošća",
+                "Županija 10",
+                "Bosansko Grahovo",
+                "Drvar",
+                "Glamoč",
+                "Kupres-FBiH",
+                "Livno",
+                "Tomislavgrad",
+                ""
+              ]
+            },
+            "title": "Administrativna jedinica"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupno",
+                " 0-4",
+                " 5-9",
+                " 10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
+                ""
+              ]
+            },
+            "title": "Starosna dob"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-8-3",
+  "title": "1-8-3"
+}

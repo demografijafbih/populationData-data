@@ -1,0 +1,171 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "bihac",
+                "bosanska_krupa",
+                "bosanski_petrovac",
+                "buzim",
+                "cazin",
+                "kljuc",
+                "sanski_most",
+                "velika_kladusa",
+                "posavina_canton",
+                "domaljevac-samac",
+                "odzak",
+                "orasje",
+                "tuzla_canton",
+                "banovici",
+                "celic",
+                "doboj-istok",
+                "gracanica",
+                "gradacac",
+                "kalesija",
+                "kladanj",
+                "lukavac",
+                "sapna",
+                "srebrenik",
+                "teocak",
+                "tuzla",
+                "zivinice",
+                "zenica-doboj_canton",
+                "breza",
+                "doboj-jug",
+                "kakanj",
+                "maglaj",
+                "olovo",
+                "tesanj",
+                "usora",
+                "vares",
+                "visoko",
+                "zavidovici",
+                "zenica",
+                "zepce",
+                "bosnian-podrinje_canton",
+                "foca_fbih",
+                "gorazde",
+                "pale-fbih",
+                "central_bosnia_canton",
+                "bugojno",
+                "busovaca",
+                "dobretici",
+                "donji_vakuf",
+                "fojnica",
+                "gornji_vakuf-uskoplje",
+                "jajce",
+                "kiseljak",
+                "kresevo",
+                "novi_travnik",
+                "travnik",
+                "vitez",
+                "herzegovina-neretva_canton",
+                "capljina",
+                "citluk",
+                "mostar",
+                "jablanica",
+                "konjic",
+                "neum",
+                "prozor",
+                "ravno",
+                "stolac",
+                "west_herzegovina_canton",
+                "grude",
+                "ljubuski",
+                "posusje",
+                "siroki_brijeg",
+                "sarajevo_canton",
+                "centar_sarajevo",
+                "hadzici",
+                "ilidza",
+                "ilijas",
+                "novi_grad_sarajevo",
+                "novo_sarajevo",
+                "stari_grad_sarajevo",
+                "trnovo-fbih",
+                "vogosca",
+                "canton_10",
+                "bosansko_grahovo",
+                "drvar",
+                "glamoc",
+                "kupres-fbih",
+                "livno",
+                "tomislavgrad",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T",
+                " 0-4",
+                " 5-9",
+                " 10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-8-3",
+  "title": "1-8-3"
+}

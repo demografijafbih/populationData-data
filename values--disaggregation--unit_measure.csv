@@ -1,5 +1,18 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 %,%,%,%,%,10,2
+2020,2020,2020,2020,2020,50,1
+2025,2025,2025,2025,2025,50,1
+2030,2030,2030,2030,2030,50,1
+2035,2035,2035,2035,2035,50,1
+2040,2040,2040,2040,2040,50,1
+2045,2045,2045,2045,2045,50,1
+2050,2050,2050,2050,2050,50,1
+2055,2055,2055,2055,2055,50,1
+2060,2060,2060,2060,2060,50,1
+2065,2065,2065,2065,2065,50,1
+2070,2070,2070,2070,2070,50,1
 AGE,Age,Starosna dob,Старосна доб,Starosna dob,5,3
-NUMBER,Number,Broj,Број,Broj,1937,12
+crude_death_rate_1000,Number per 1000 population,Broj na 1.000 stanovnika,Број на 1.000 становника,Broj na 1.000 stanovnika,1,1
+NUMBER,Number,Broj,Број,Broj,7392,17
+number_birth_rate,Birth Rate,Stopa nataliteta,Стопа наталитета,Stopa nataliteta,1,1
 permil,‰,‰,‰,‰,11,9

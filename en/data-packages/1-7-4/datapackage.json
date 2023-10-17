@@ -11,13 +11,43 @@
       "schema": {
         "fields": [
           {
+            "name": "BIRTH",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Deaths",
+                "Live births"
+              ]
+            },
+            "title": "Birth"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Both sexes"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

@@ -1,0 +1,1597 @@
+Year,UNIT_MEASURE,Sex,Age,Value
+1996,Number,Both sexes,Total,2141341
+1996,Number,Both sexes,0-4,153195
+1996,Number,Both sexes, 5-9,165916
+1996,Number,Both sexes, 10-14,168460
+1996,Number,Both sexes, 15-19,164069
+1996,Number,Both sexes,20-24,161959
+1996,Number,Both sexes,25-29,163395
+1996,Number,Both sexes,30-34,180071
+1996,Number,Both sexes,35-39,179869
+1996,Number,Both sexes,40-44,166729
+1996,Number,Both sexes,45-49,136173
+1996,Number,Both sexes,50-54,103164
+1996,Number,Both sexes,55-59,125739
+1996,Number,Both sexes,60-64,111760
+1996,Number,Both sexes,65-69,81445
+1996,Number,Both sexes,70-74,44617
+1996,Number,Both sexes,75-79,18205
+1996,Number,Both sexes,80-84,10765
+1996,Number,Both sexes,85+,5810
+1996,Number,M,Total,1047552
+1996,Number,M,0-4,78553
+1996,Number,M, 5-9,85278
+1996,Number,M, 10-14,86144
+1996,Number,M, 15-19,83177
+1996,Number,M,20-24,80946
+1996,Number,M,25-29,81826
+1996,Number,M,30-34,89597
+1996,Number,M,35-39,89379
+1996,Number,M,40-44,82674
+1996,Number,M,45-49,65403
+1996,Number,M,50-54,49106
+1996,Number,M,55-59,59148
+1996,Number,M,60-64,52079
+1996,Number,M,65-69,36331
+1996,Number,M,70-74,15933
+1996,Number,M,75-79,6152
+1996,Number,M,80-84,3756
+1996,Number,M,85+,2070
+1996,Number,F,Total,1093789
+1996,Number,F,0-4,74642
+1996,Number,F, 5-9,80638
+1996,Number,F, 10-14,82316
+1996,Number,F, 15-19,80892
+1996,Number,F,20-24,81013
+1996,Number,F,25-29,81569
+1996,Number,F,30-34,90474
+1996,Number,F,35-39,90490
+1996,Number,F,40-44,84055
+1996,Number,F,45-49,70770
+1996,Number,F,50-54,54058
+1996,Number,F,55-59,66591
+1996,Number,F,60-64,59681
+1996,Number,F,65-69,45114
+1996,Number,F,70-74,28684
+1996,Number,F,75-79,12053
+1996,Number,F,80-84,7009
+1996,Number,F,85+,3740
+1997,Number,Both sexes,Total,2161442
+1997,Number,Both sexes,0-4,158155
+1997,Number,Both sexes, 5-9,162541
+1997,Number,Both sexes, 10-14,168728
+1997,Number,Both sexes, 15-19,164823
+1997,Number,Both sexes,20-24,161492
+1997,Number,Both sexes,25-29,161729
+1997,Number,Both sexes,30-34,176756
+1997,Number,Both sexes,35-39,183333
+1997,Number,Both sexes,40-44,169633
+1997,Number,Both sexes,45-49,139816
+1997,Number,Both sexes,50-54,105754
+1997,Number,Both sexes,55-59,122947
+1997,Number,Both sexes,60-64,114166
+1997,Number,Both sexes,65-69,86359
+1997,Number,Both sexes,70-74,48280
+1997,Number,Both sexes,75-79,20970
+1997,Number,Both sexes,80-84,10029
+1997,Number,Both sexes,85+,5931
+1997,Number,M,Total,1057745
+1997,Number,M,0-4,81585
+1997,Number,M, 5-9,83036
+1997,Number,M, 10-14,86474
+1997,Number,M, 15-19,83872
+1997,Number,M,20-24,80721
+1997,Number,M,25-29,81025
+1997,Number,M,30-34,88111
+1997,Number,M,35-39,90829
+1997,Number,M,40-44,84418
+1997,Number,M,45-49,67391
+1997,Number,M,50-54,50178
+1997,Number,M,55-59,57819
+1997,Number,M,60-64,53077
+1997,Number,M,65-69,39063
+1997,Number,M,70-74,17755
+1997,Number,M,75-79,6870
+1997,Number,M,80-84,3411
+1997,Number,M,85+,2110
+1997,Number,F,Total,1103697
+1997,Number,F,0-4,76570
+1997,Number,F, 5-9,79505
+1997,Number,F, 10-14,82254
+1997,Number,F, 15-19,80951
+1997,Number,F,20-24,80771
+1997,Number,F,25-29,80704
+1997,Number,F,30-34,88645
+1997,Number,F,35-39,92504
+1997,Number,F,40-44,85215
+1997,Number,F,45-49,72425
+1997,Number,F,50-54,55576
+1997,Number,F,55-59,65128
+1997,Number,F,60-64,61089
+1997,Number,F,65-69,47296
+1997,Number,F,70-74,30525
+1997,Number,F,75-79,14100
+1997,Number,F,80-84,6618
+1997,Number,F,85+,3821
+1998,Number,Both sexes,Total,2176885
+1998,Number,Both sexes,0-4,162881
+1998,Number,Both sexes, 5-9,154441
+1998,Number,Both sexes, 10-14,169181
+1998,Number,Both sexes, 15-19,165629
+1998,Number,Both sexes,20-24,162310
+1998,Number,Both sexes,25-29,159924
+1998,Number,Both sexes,30-34,173782
+1998,Number,Both sexes,35-39,183960
+1998,Number,Both sexes,40-44,171060
+1998,Number,Both sexes,45-49,147753
+1998,Number,Both sexes,50-54,109976
+1998,Number,Both sexes,55-59,117136
+1998,Number,Both sexes,60-64,116572
+1998,Number,Both sexes,65-69,90001
+1998,Number,Both sexes,70-74,52470
+1998,Number,Both sexes,75-79,24430
+1998,Number,Both sexes,80-84,9174
+1998,Number,Both sexes,85+,6205
+1998,Number,M,Total,1065347
+1998,Number,M,0-4,83858
+1998,Number,M, 5-9,79014
+1998,Number,M, 10-14,86807
+1998,Number,M, 15-19,84376
+1998,Number,M,20-24,81454
+1998,Number,M,25-29,79930
+1998,Number,M,30-34,86677
+1998,Number,M,35-39,91349
+1998,Number,M,40-44,85055
+1998,Number,M,45-49,71598
+1998,Number,M,50-54,52243
+1998,Number,M,55-59,54973
+1998,Number,M,60-64,53986
+1998,Number,M,65-69,40857
+1998,Number,M,70-74,20083
+1998,Number,M,75-79,7900
+1998,Number,M,80-84,3064
+1998,Number,M,85+,2123
+1998,Number,F,Total,1111538
+1998,Number,F,0-4,79023
+1998,Number,F, 5-9,75427
+1998,Number,F, 10-14,82374
+1998,Number,F, 15-19,81253
+1998,Number,F,20-24,80856
+1998,Number,F,25-29,79994
+1998,Number,F,30-34,87105
+1998,Number,F,35-39,92611
+1998,Number,F,40-44,86005
+1998,Number,F,45-49,76155
+1998,Number,F,50-54,57733
+1998,Number,F,55-59,62163
+1998,Number,F,60-64,62586
+1998,Number,F,65-69,49144
+1998,Number,F,70-74,32387
+1998,Number,F,75-79,16530
+1998,Number,F,80-84,6110
+1998,Number,F,85+,4082
+1999,Number,Both sexes,Total,2189576
+1999,Number,Both sexes,0-4,162824
+1999,Number,Both sexes, 5-9,149070
+1999,Number,Both sexes, 10-14,167288
+1999,Number,Both sexes, 15-19,167724
+1999,Number,Both sexes,20-24,162772
+1999,Number,Both sexes,25-29,158890
+1999,Number,Both sexes,30-34,170876
+1999,Number,Both sexes,35-39,182462
+1999,Number,Both sexes,40-44,174283
+1999,Number,Both sexes,45-49,153258
+1999,Number,Both sexes,50-54,117404
+1999,Number,Both sexes,55-59,110852
+1999,Number,Both sexes,60-64,117374
+1999,Number,Both sexes,65-69,93551
+1999,Number,Both sexes,70-74,57750
+1999,Number,Both sexes,75-79,27826
+1999,Number,Both sexes,80-84,8692
+1999,Number,Both sexes,85+,6680
+1999,Number,M,Total,1071355
+1999,Number,M,0-4,83524
+1999,Number,M, 5-9,76462
+1999,Number,M, 10-14,85922
+1999,Number,M, 15-19,85398
+1999,Number,M,20-24,82001
+1999,Number,M,25-29,79244
+1999,Number,M,30-34,85271
+1999,Number,M,35-39,90535
+1999,Number,M,40-44,86593
+1999,Number,M,45-49,74989
+1999,Number,M,50-54,55640
+1999,Number,M,55-59,52024
+1999,Number,M,60-64,54261
+1999,Number,M,65-69,42387
+1999,Number,M,70-74,23038
+1999,Number,M,75-79,9013
+1999,Number,M,80-84,2837
+1999,Number,M,85+,2216
+1999,Number,F,Total,1118221
+1999,Number,F,0-4,79300
+1999,Number,F, 5-9,72608
+1999,Number,F, 10-14,81366
+1999,Number,F, 15-19,82326
+1999,Number,F,20-24,80771
+1999,Number,F,25-29,79646
+1999,Number,F,30-34,85605
+1999,Number,F,35-39,91927
+1999,Number,F,40-44,87690
+1999,Number,F,45-49,78269
+1999,Number,F,50-54,61764
+1999,Number,F,55-59,58828
+1999,Number,F,60-64,63113
+1999,Number,F,65-69,51164
+1999,Number,F,70-74,34712
+1999,Number,F,75-79,18813
+1999,Number,F,80-84,5855
+1999,Number,F,85+,4464
+2000,Number,Both sexes,Total,2199128
+2000,Number,Both sexes,0-4,154489
+2000,Number,Both sexes, 5-9,150298
+2000,Number,Both sexes, 10-14,166547
+2000,Number,Both sexes, 15-19,168416
+2000,Number,Both sexes,20-24,163303
+2000,Number,Both sexes,25-29,160269
+2000,Number,Both sexes,30-34,165910
+2000,Number,Both sexes,35-39,181099
+2000,Number,Both sexes,40-44,175944
+2000,Number,Both sexes,45-49,158808
+2000,Number,Both sexes,50-54,125857
+2000,Number,Both sexes,55-59,103627
+2000,Number,Both sexes,60-64,118411
+2000,Number,Both sexes,65-69,96742
+2000,Number,Both sexes,70-74,62780
+2000,Number,Both sexes,75-79,30265
+2000,Number,Both sexes,80-84,9230
+2000,Number,Both sexes,85+,7133
+2000,Number,M,Total,1075968
+2000,Number,M,0-4,79229
+2000,Number,M, 5-9,76936
+2000,Number,M, 10-14,85587
+2000,Number,M, 15-19,85940
+2000,Number,M,20-24,82474
+2000,Number,M,25-29,79926
+2000,Number,M,30-34,82954
+2000,Number,M,35-39,89933
+2000,Number,M,40-44,87320
+2000,Number,M,45-49,77920
+2000,Number,M,50-54,59887
+2000,Number,M,55-59,48571
+2000,Number,M,60-64,54714
+2000,Number,M,65-69,43610
+2000,Number,M,70-74,25957
+2000,Number,M,75-79,9828
+2000,Number,M,80-84,2872
+2000,Number,M,85+,2310
+2000,Number,F,Total,1123160
+2000,Number,F,0-4,75260
+2000,Number,F, 5-9,73362
+2000,Number,F, 10-14,80960
+2000,Number,F, 15-19,82476
+2000,Number,F,20-24,80829
+2000,Number,F,25-29,80343
+2000,Number,F,30-34,82956
+2000,Number,F,35-39,91166
+2000,Number,F,40-44,88624
+2000,Number,F,45-49,80888
+2000,Number,F,50-54,65970
+2000,Number,F,55-59,55056
+2000,Number,F,60-64,63697
+2000,Number,F,65-69,53132
+2000,Number,F,70-74,36823
+2000,Number,F,75-79,20437
+2000,Number,F,80-84,6358
+2000,Number,F,85+,4823
+2001,Number,Both sexes,Total,2208263
+2001,Number,Both sexes,0-4,144067
+2001,Number,Both sexes, 5-9,152999
+2001,Number,Both sexes, 10-14,165750
+2001,Number,Both sexes, 15-19,168203
+2001,Number,Both sexes,20-24,163637
+2001,Number,Both sexes,25-29,161363
+2001,Number,Both sexes,30-34,162745
+2001,Number,Both sexes,35-39,179094
+2001,Number,Both sexes,40-44,178326
+2001,Number,Both sexes,45-49,164312
+2001,Number,Both sexes,50-54,132951
+2001,Number,Both sexes,55-59,99084
+2001,Number,Both sexes,60-64,117615
+2001,Number,Both sexes,65-69,99704
+2001,Number,Both sexes,70-74,67393
+2001,Number,Both sexes,75-79,32741
+2001,Number,Both sexes,80-84,11153
+2001,Number,Both sexes,85+,7126
+2001,Number,M,Total,1080395
+2001,Number,M,0-4,73721
+2001,Number,M, 5-9,78416
+2001,Number,M, 10-14,85172
+2001,Number,M, 15-19,85967
+2001,Number,M,20-24,82855
+2001,Number,M,25-29,80519
+2001,Number,M,30-34,81412
+2001,Number,M,35-39,88972
+2001,Number,M,40-44,88308
+2001,Number,M,45-49,81035
+2001,Number,M,50-54,63365
+2001,Number,M,55-59,46522
+2001,Number,M,60-64,54133
+2001,Number,M,65-69,44785
+2001,Number,M,70-74,28736
+2001,Number,M,75-79,10868
+2001,Number,M,80-84,3392
+2001,Number,M,85+,2217
+2001,Number,F,Total,1127868
+2001,Number,F,0-4,70346
+2001,Number,F, 5-9,74583
+2001,Number,F, 10-14,80578
+2001,Number,F, 15-19,82236
+2001,Number,F,20-24,80782
+2001,Number,F,25-29,80844
+2001,Number,F,30-34,81333
+2001,Number,F,35-39,90122
+2001,Number,F,40-44,90018
+2001,Number,F,45-49,83277
+2001,Number,F,50-54,69586
+2001,Number,F,55-59,52562
+2001,Number,F,60-64,63482
+2001,Number,F,65-69,54919
+2001,Number,F,70-74,38657
+2001,Number,F,75-79,21873
+2001,Number,F,80-84,7761
+2001,Number,F,85+,4909
+2002,Number,Both sexes,Total,2215548
+2002,Number,Both sexes,0-4,132954
+2002,Number,Both sexes, 5-9,157962
+2002,Number,Both sexes, 10-14,162383
+2002,Number,Both sexes, 15-19,168493
+2002,Number,Both sexes,20-24,164380
+2002,Number,Both sexes,25-29,160943
+2002,Number,Both sexes,30-34,161122
+2002,Number,Both sexes,35-39,175850
+2002,Number,Both sexes,40-44,181758
+2002,Number,Both sexes,45-49,167206
+2002,Number,Both sexes,50-54,136522
+2002,Number,Both sexes,55-59,101747
+2002,Number,Both sexes,60-64,114928
+2002,Number,Both sexes,65-69,101905
+2002,Number,Both sexes,70-74,71751
+2002,Number,Both sexes,75-79,35820
+2002,Number,Both sexes,80-84,13183
+2002,Number,Both sexes,85+,6641
+2002,Number,M,Total,1084043
+2002,Number,M,0-4,67884
+2002,Number,M, 5-9,81455
+2002,Number,M, 10-14,82937
+2002,Number,M, 15-19,86312
+2002,Number,M,20-24,83549
+2002,Number,M,25-29,80340
+2002,Number,M,30-34,80634
+2002,Number,M,35-39,87525
+2002,Number,M,40-44,89785
+2002,Number,M,45-49,82773
+2002,Number,M,50-54,65286
+2002,Number,M,55-59,47647
+2002,Number,M,60-64,52851
+2002,Number,M,65-69,45709
+2002,Number,M,70-74,31015
+2002,Number,M,75-79,12359
+2002,Number,M,80-84,3939
+2002,Number,M,85+,2043
+2002,Number,F,Total,1131505
+2002,Number,F,0-4,65070
+2002,Number,F, 5-9,76507
+2002,Number,F, 10-14,79446
+2002,Number,F, 15-19,82181
+2002,Number,F,20-24,80831
+2002,Number,F,25-29,80603
+2002,Number,F,30-34,80488
+2002,Number,F,35-39,88325
+2002,Number,F,40-44,91973
+2002,Number,F,45-49,84433
+2002,Number,F,50-54,71236
+2002,Number,F,55-59,54100
+2002,Number,F,60-64,62077
+2002,Number,F,65-69,56196
+2002,Number,F,70-74,40736
+2002,Number,F,75-79,23461
+2002,Number,F,80-84,9244
+2002,Number,F,85+,4598
+2003,Number,Both sexes,Total,2222079
+2003,Number,Both sexes,0-4,126323
+2003,Number,Both sexes, 5-9,162718
+2003,Number,Both sexes, 10-14,154298
+2003,Number,Both sexes, 15-19,168935
+2003,Number,Both sexes,20-24,165197
+2003,Number,Both sexes,25-29,161796
+2003,Number,Both sexes,30-34,159353
+2003,Number,Both sexes,35-39,172958
+2003,Number,Both sexes,40-44,182498
+2003,Number,Both sexes,45-49,168652
+2003,Number,Both sexes,50-54,144309
+2003,Number,Both sexes,55-59,105908
+2003,Number,Both sexes,60-64,109317
+2003,Number,Both sexes,65-69,104314
+2003,Number,Both sexes,70-74,74684
+2003,Number,Both sexes,75-79,39182
+2003,Number,Both sexes,80-84,15362
+2003,Number,Both sexes,85+,6275
+2003,Number,M,Total,1087505
+2003,Number,M,0-4,64631
+2003,Number,M, 5-9,83750
+2003,Number,M, 10-14,78932
+2003,Number,M, 15-19,86640
+2003,Number,M,20-24,84059
+2003,Number,M,25-29,81088
+2003,Number,M,30-34,79554
+2003,Number,M,35-39,86145
+2003,Number,M,40-44,90395
+2003,Number,M,45-49,83466
+2003,Number,M,50-54,69354
+2003,Number,M,55-59,49671
+2003,Number,M,60-64,50114
+2003,Number,M,65-69,46705
+2003,Number,M,70-74,32372
+2003,Number,M,75-79,14192
+2003,Number,M,80-84,4561
+2003,Number,M,85+,1876
+2003,Number,F,Total,1134574
+2003,Number,F,0-4,61692
+2003,Number,F, 5-9,78968
+2003,Number,F, 10-14,75366
+2003,Number,F, 15-19,82295
+2003,Number,F,20-24,81138
+2003,Number,F,25-29,80708
+2003,Number,F,30-34,79799
+2003,Number,F,35-39,86813
+2003,Number,F,40-44,92103
+2003,Number,F,45-49,85186
+2003,Number,F,50-54,74955
+2003,Number,F,55-59,56237
+2003,Number,F,60-64,59203
+2003,Number,F,65-69,57609
+2003,Number,F,70-74,42312
+2003,Number,F,75-79,24990
+2003,Number,F,80-84,10801
+2003,Number,F,85+,4399
+2004,Number,Both sexes,Total,2227181
+2004,Number,Both sexes,0-4,122069
+2004,Number,Both sexes, 5-9,162671
+2004,Number,Both sexes, 10-14,148946
+2004,Number,Both sexes, 15-19,167026
+2004,Number,Both sexes,20-24,167300
+2004,Number,Both sexes,25-29,162287
+2004,Number,Both sexes,30-34,158307
+2004,Number,Both sexes,35-39,170096
+2004,Number,Both sexes,40-44,181023
+2004,Number,Both sexes,45-49,171895
+2004,Number,Both sexes,50-54,149724
+2004,Number,Both sexes,55-59,113147
+2004,Number,Both sexes,60-64,103543
+2004,Number,Both sexes,65-69,105139
+2004,Number,Both sexes,70-74,77781
+2004,Number,Both sexes,75-79,42840
+2004,Number,Both sexes,80-84,17327
+2004,Number,Both sexes,85+,6060
+2004,Number,M,Total,1090109
+2004,Number,M,0-4,62696
+2004,Number,M, 5-9,83426
+2004,Number,M, 10-14,76384
+2004,Number,M, 15-19,85743
+2004,Number,M,20-24,85101
+2004,Number,M,25-29,81638
+2004,Number,M,30-34,78862
+2004,Number,M,35-39,84770
+2004,Number,M,40-44,89588
+2004,Number,M,45-49,85006
+2004,Number,M,50-54,72672
+2004,Number,M,55-59,52931
+2004,Number,M,60-64,47498
+2004,Number,M,65-69,47093
+2004,Number,M,70-74,33562
+2004,Number,M,75-79,16192
+2004,Number,M,80-84,5159
+2004,Number,M,85+,1788
+2004,Number,F,Total,1137072
+2004,Number,F,0-4,59373
+2004,Number,F, 5-9,79245
+2004,Number,F, 10-14,72562
+2004,Number,F, 15-19,81283
+2004,Number,F,20-24,82199
+2004,Number,F,25-29,80649
+2004,Number,F,30-34,79445
+2004,Number,F,35-39,85326
+2004,Number,F,40-44,91435
+2004,Number,F,45-49,86889
+2004,Number,F,50-54,77052
+2004,Number,F,55-59,60216
+2004,Number,F,60-64,56045
+2004,Number,F,65-69,58046
+2004,Number,F,70-74,44219
+2004,Number,F,75-79,26648
+2004,Number,F,80-84,12168
+2004,Number,F,85+,4272
+2005,Number,Both sexes,Total,2231764
+2005,Number,Both sexes,0-4,119365
+2005,Number,Both sexes, 5-9,154335
+2005,Number,Both sexes, 10-14,150182
+2005,Number,Both sexes, 15-19,166306
+2005,Number,Both sexes,20-24,167982
+2005,Number,Both sexes,25-29,162831
+2005,Number,Both sexes,30-34,159713
+2005,Number,Both sexes,35-39,165177
+2005,Number,Both sexes,40-44,179757
+2005,Number,Both sexes,45-49,173582
+2005,Number,Both sexes,50-54,155250
+2005,Number,Both sexes,55-59,121433
+2005,Number,Both sexes,60-64,96910
+2005,Number,Both sexes,65-69,106265
+2005,Number,Both sexes,70-74,80558
+2005,Number,Both sexes,75-79,46732
+2005,Number,Both sexes,80-84,18737
+2005,Number,Both sexes,85+,6649
+2005,Number,M,Total,1092376
+2005,Number,M,0-4,61384
+2005,Number,M, 5-9,79134
+2005,Number,M, 10-14,76865
+2005,Number,M, 15-19,85424
+2005,Number,M,20-24,85645
+2005,Number,M,25-29,82114
+2005,Number,M,30-34,79543
+2005,Number,M,35-39,82475
+2005,Number,M,40-44,89037
+2005,Number,M,45-49,85791
+2005,Number,M,50-54,75576
+2005,Number,M,55-59,57050
+2005,Number,M,60-64,44431
+2005,Number,M,65-69,47528
+2005,Number,M,70-74,34627
+2005,Number,M,75-79,18258
+2005,Number,M,80-84,5587
+2005,Number,M,85+,1907
+2005,Number,F,Total,1139388
+2005,Number,F,0-4,57981
+2005,Number,F, 5-9,75201
+2005,Number,F, 10-14,73317
+2005,Number,F, 15-19,80882
+2005,Number,F,20-24,82337
+2005,Number,F,25-29,80717
+2005,Number,F,30-34,80170
+2005,Number,F,35-39,82702
+2005,Number,F,40-44,90720
+2005,Number,F,45-49,87791
+2005,Number,F,50-54,79674
+2005,Number,F,55-59,64383
+2005,Number,F,60-64,52479
+2005,Number,F,65-69,58737
+2005,Number,F,70-74,45931
+2005,Number,F,75-79,28474
+2005,Number,F,80-84,13150
+2005,Number,F,85+,4742
+2006,Number,Both sexes,Total,2230967
+2006,Number,Both sexes,0-4,117298
+2006,Number,Both sexes, 5-9,143937
+2006,Number,Both sexes, 10-14,152884
+2006,Number,Both sexes, 15-19,165095
+2006,Number,Both sexes,20-24,167241
+2006,Number,Both sexes,25-29,162636
+2006,Number,Both sexes,30-34,160291
+2006,Number,Both sexes,35-39,161514
+2006,Number,Both sexes,40-44,177249
+2006,Number,Both sexes,45-49,175486
+2006,Number,Both sexes,50-54,160144
+2006,Number,Both sexes,55-59,127753
+2006,Number,Both sexes,60-64,92369
+2006,Number,Both sexes,65-69,105481
+2006,Number,Both sexes,70-74,83375
+2006,Number,Both sexes,75-79,50196
+2006,Number,Both sexes,80-84,20460
+2006,Number,Both sexes,85+,7558
+2006,Number,M,Total,1092011
+2006,Number,M,0-4,60337
+2006,Number,M, 5-9,73642
+2006,Number,M, 10-14,78346
+2006,Number,M, 15-19,84811
+2006,Number,M,20-24,85343
+2006,Number,M,25-29,82296
+2006,Number,M,30-34,79832
+2006,Number,M,35-39,80757
+2006,Number,M,40-44,87776
+2006,Number,M,45-49,86626
+2006,Number,M,50-54,78301
+2006,Number,M,55-59,60105
+2006,Number,M,60-64,42414
+2006,Number,M,65-69,46924
+2006,Number,M,70-74,35845
+2006,Number,M,75-79,20270
+2006,Number,M,80-84,6262
+2006,Number,M,85+,2124
+2006,Number,F,Total,1138956
+2006,Number,F,0-4,56961
+2006,Number,F, 5-9,70295
+2006,Number,F, 10-14,74538
+2006,Number,F, 15-19,80284
+2006,Number,F,20-24,81898
+2006,Number,F,25-29,80340
+2006,Number,F,30-34,80459
+2006,Number,F,35-39,80757
+2006,Number,F,40-44,89473
+2006,Number,F,45-49,88860
+2006,Number,F,50-54,81843
+2006,Number,F,55-59,67648
+2006,Number,F,60-64,49955
+2006,Number,F,65-69,58557
+2006,Number,F,70-74,47530
+2006,Number,F,75-79,29926
+2006,Number,F,80-84,14198
+2006,Number,F,85+,5434
+2007,Number,Both sexes,Total,2231548
+2007,Number,Both sexes,0-4,116136
+2007,Number,Both sexes, 5-9,132806
+2007,Number,Both sexes, 10-14,157848
+2007,Number,Both sexes, 15-19,161583
+2007,Number,Both sexes,20-24,167107
+2007,Number,Both sexes,25-29,163013
+2007,Number,Both sexes,30-34,159596
+2007,Number,Both sexes,35-39,159623
+2007,Number,Both sexes,40-44,173742
+2007,Number,Both sexes,45-49,178797
+2007,Number,Both sexes,50-54,162612
+2007,Number,Both sexes,55-59,130910
+2007,Number,Both sexes,60-64,95114
+2007,Number,Both sexes,65-69,102836
+2007,Number,Both sexes,70-74,85411
+2007,Number,Both sexes,75-79,53639
+2007,Number,Both sexes,80-84,22430
+2007,Number,Both sexes,85+,8345
+2007,Number,M,Total,1092456
+2007,Number,M,0-4,59794
+2007,Number,M, 5-9,67800
+2007,Number,M, 10-14,81386
+2007,Number,M, 15-19,82460
+2007,Number,M,20-24,85561
+2007,Number,M,25-29,82758
+2007,Number,M,30-34,79615
+2007,Number,M,35-39,79757
+2007,Number,M,40-44,86280
+2007,Number,M,45-49,88004
+2007,Number,M,50-54,79910
+2007,Number,M,55-59,61696
+2007,Number,M,60-64,43715
+2007,Number,M,65-69,45717
+2007,Number,M,70-74,36626
+2007,Number,M,75-79,21934
+2007,Number,M,80-84,7192
+2007,Number,M,85+,2251
+2007,Number,F,Total,1139092
+2007,Number,F,0-4,56342
+2007,Number,F, 5-9,65006
+2007,Number,F, 10-14,76462
+2007,Number,F, 15-19,79123
+2007,Number,F,20-24,81546
+2007,Number,F,25-29,80255
+2007,Number,F,30-34,79981
+2007,Number,F,35-39,79866
+2007,Number,F,40-44,87462
+2007,Number,F,45-49,90793
+2007,Number,F,50-54,82702
+2007,Number,F,55-59,69214
+2007,Number,F,60-64,51399
+2007,Number,F,65-69,57119
+2007,Number,F,70-74,48785
+2007,Number,F,75-79,31705
+2007,Number,F,80-84,15238
+2007,Number,F,85+,6094
+2008,Number,Both sexes,Total,2229787
+2008,Number,Both sexes,0-4,116097
+2008,Number,Both sexes, 5-9,126151
+2008,Number,Both sexes, 10-14,162562
+2008,Number,Both sexes, 15-19,153347
+2008,Number,Both sexes,20-24,166868
+2008,Number,Both sexes,25-29,163263
+2008,Number,Both sexes,30-34,160007
+2008,Number,Both sexes,35-39,157461
+2008,Number,Both sexes,40-44,170528
+2008,Number,Both sexes,45-49,179029
+2008,Number,Both sexes,50-54,163569
+2008,Number,Both sexes,55-59,137987
+2008,Number,Both sexes,60-64,98745
+2008,Number,Both sexes,65-69,97172
+2008,Number,Both sexes,70-74,87288
+2008,Number,Both sexes,75-79,55644
+2008,Number,Both sexes,80-84,24786
+2008,Number,Both sexes,85+,9283
+2008,Number,M,Total,1091648
+2008,Number,M,0-4,59670
+2008,Number,M, 5-9,64540
+2008,Number,M, 10-14,83658
+2008,Number,M, 15-19,78396
+2008,Number,M,20-24,85427
+2008,Number,M,25-29,83110
+2008,Number,M,30-34,80081
+2008,Number,M,35-39,78564
+2008,Number,M,40-44,84654
+2008,Number,M,45-49,88408
+2008,Number,M,50-54,80251
+2008,Number,M,55-59,65468
+2008,Number,M,60-64,45379
+2008,Number,M,65-69,43080
+2008,Number,M,70-74,37412
+2008,Number,M,75-79,22702
+2008,Number,M,80-84,8349
+2008,Number,M,85+,2499
+2008,Number,F,Total,1138139
+2008,Number,F,0-4,56427
+2008,Number,F, 5-9,61611
+2008,Number,F, 10-14,78904
+2008,Number,F, 15-19,74951
+2008,Number,F,20-24,81441
+2008,Number,F,25-29,80153
+2008,Number,F,30-34,79926
+2008,Number,F,35-39,78897
+2008,Number,F,40-44,85874
+2008,Number,F,45-49,90621
+2008,Number,F,50-54,83318
+2008,Number,F,55-59,72519
+2008,Number,F,60-64,53366
+2008,Number,F,65-69,54092
+2008,Number,F,70-74,49876
+2008,Number,F,75-79,32942
+2008,Number,F,80-84,16437
+2008,Number,F,85+,6784
+2009,Number,Both sexes,Total,2229072
+2009,Number,Both sexes,0-4,116940
+2009,Number,Both sexes, 5-9,121841
+2009,Number,Both sexes, 10-14,162439
+2009,Number,Both sexes, 15-19,147915
+2009,Number,Both sexes,20-24,164288
+2009,Number,Both sexes,25-29,164788
+2009,Number,Both sexes,30-34,160018
+2009,Number,Both sexes,35-39,155983
+2009,Number,Both sexes,40-44,167392
+2009,Number,Both sexes,45-49,177317
+2009,Number,Both sexes,50-54,166511
+2009,Number,Both sexes,55-59,142820
+2009,Number,Both sexes,60-64,105493
+2009,Number,Both sexes,65-69,91576
+2009,Number,Both sexes,70-74,88006
+2009,Number,Both sexes,75-79,58270
+2009,Number,Both sexes,80-84,27244
+2009,Number,Both sexes,85+,10231
+2009,Number,M,Total,1091683
+2009,Number,M,0-4,60054
+2009,Number,M, 5-9,62562
+2009,Number,M, 10-14,83291
+2009,Number,M, 15-19,75749
+2009,Number,M,20-24,84277
+2009,Number,M,25-29,83842
+2009,Number,M,30-34,80499
+2009,Number,M,35-39,77579
+2009,Number,M,40-44,83285
+2009,Number,M,45-49,87396
+2009,Number,M,50-54,81755
+2009,Number,M,55-59,68338
+2009,Number,M,60-64,48455
+2009,Number,M,65-69,40600
+2009,Number,M,70-74,37764
+2009,Number,M,75-79,23775
+2009,Number,M,80-84,9680
+2009,Number,M,85+,2782
+2009,Number,F,Total,1137389
+2009,Number,F,0-4,56886
+2009,Number,F, 5-9,59279
+2009,Number,F, 10-14,79148
+2009,Number,F, 15-19,72166
+2009,Number,F,20-24,80011
+2009,Number,F,25-29,80946
+2009,Number,F,30-34,79519
+2009,Number,F,35-39,78404
+2009,Number,F,40-44,84107
+2009,Number,F,45-49,89921
+2009,Number,F,50-54,84756
+2009,Number,F,55-59,74482
+2009,Number,F,60-64,57038
+2009,Number,F,65-69,50976
+2009,Number,F,70-74,50242
+2009,Number,F,75-79,34495
+2009,Number,F,80-84,17564
+2009,Number,F,85+,7449
+2010,Number,Both sexes,Total,2228027
+2010,Number,Both sexes,0-4,117424
+2010,Number,Both sexes, 5-9,119115
+2010,Number,Both sexes, 10-14,154022
+2010,Number,Both sexes, 15-19,149281
+2010,Number,Both sexes,20-24,163100
+2010,Number,Both sexes,25-29,164890
+2010,Number,Both sexes,30-34,160049
+2010,Number,Both sexes,35-39,156963
+2010,Number,Both sexes,40-44,162076
+2010,Number,Both sexes,45-49,175854
+2010,Number,Both sexes,50-54,167974
+2010,Number,Both sexes,55-59,147762
+2010,Number,Both sexes,60-64,112999
+2010,Number,Both sexes,65-69,85392
+2010,Number,Both sexes,70-74,89196
+2010,Number,Both sexes,75-79,60591
+2010,Number,Both sexes,80-84,29904
+2010,Number,Both sexes,85+,11435
+2010,Number,M,Total,1091413
+2010,Number,M,0-4,60359
+2010,Number,M, 5-9,61252
+2010,Number,M, 10-14,78958
+2010,Number,M, 15-19,76320
+2010,Number,M,20-24,83702
+2010,Number,M,25-29,84184
+2010,Number,M,30-34,80692
+2010,Number,M,35-39,78116
+2010,Number,M,40-44,80732
+2010,Number,M,45-49,86790
+2010,Number,M,50-54,82347
+2010,Number,M,55-59,70928
+2010,Number,M,60-64,52048
+2010,Number,M,65-69,37898
+2010,Number,M,70-74,38260
+2010,Number,M,75-79,24640
+2010,Number,M,80-84,11056
+2010,Number,M,85+,3131
+2010,Number,F,Total,1136614
+2010,Number,F,0-4,57065
+2010,Number,F, 5-9,57863
+2010,Number,F, 10-14,75064
+2010,Number,F, 15-19,72961
+2010,Number,F,20-24,79398
+2010,Number,F,25-29,80706
+2010,Number,F,30-34,79357
+2010,Number,F,35-39,78847
+2010,Number,F,40-44,81344
+2010,Number,F,45-49,89064
+2010,Number,F,50-54,85627
+2010,Number,F,55-59,76834
+2010,Number,F,60-64,60951
+2010,Number,F,65-69,47494
+2010,Number,F,70-74,50936
+2010,Number,F,75-79,35951
+2010,Number,F,80-84,18848
+2010,Number,F,85+,8304
+2011,Number,Both sexes,Total,2226011
+2011,Number,Both sexes,0-4,117054
+2011,Number,Both sexes, 5-9,117003
+2011,Number,Both sexes, 10-14,143561
+2011,Number,Both sexes, 15-19,151915
+2011,Number,Both sexes,20-24,162101
+2011,Number,Both sexes,25-29,164113
+2011,Number,Both sexes,30-34,159983
+2011,Number,Both sexes,35-39,157692
+2011,Number,Both sexes,40-44,158623
+2011,Number,Both sexes,45-49,173561
+2011,Number,Both sexes,50-54,170235
+2011,Number,Both sexes,55-59,152725
+2011,Number,Both sexes,60-64,119045
+2011,Number,Both sexes,65-69,82001
+2011,Number,Both sexes,70-74,88393
+2011,Number,Both sexes,75-79,63062
+2011,Number,Both sexes,80-84,32063
+2011,Number,Both sexes,85+,12881
+2011,Number,M,Total,1090782
+2011,Number,M,0-4,60185
+2011,Number,M, 5-9,60165
+2011,Number,M, 10-14,73452
+2011,Number,M, 15-19,77805
+2011,Number,M,20-24,83230
+2011,Number,M,25-29,83849
+2011,Number,M,30-34,80928
+2011,Number,M,35-39,78540
+2011,Number,M,40-44,79123
+2011,Number,M,45-49,85602
+2011,Number,M,50-54,83408
+2011,Number,M,55-59,73671
+2011,Number,M,60-64,54949
+2011,Number,M,65-69,36480
+2011,Number,M,70-74,37820
+2011,Number,M,75-79,25682
+2011,Number,M,80-84,12254
+2011,Number,M,85+,3639
+2011,Number,F,Total,1135229
+2011,Number,F,0-4,56869
+2011,Number,F, 5-9,56838
+2011,Number,F, 10-14,70109
+2011,Number,F, 15-19,74110
+2011,Number,F,20-24,78871
+2011,Number,F,25-29,80264
+2011,Number,F,30-34,79055
+2011,Number,F,35-39,79152
+2011,Number,F,40-44,79500
+2011,Number,F,45-49,87959
+2011,Number,F,50-54,86827
+2011,Number,F,55-59,79054
+2011,Number,F,60-64,64096
+2011,Number,F,65-69,45521
+2011,Number,F,70-74,50573
+2011,Number,F,75-79,37380
+2011,Number,F,80-84,19809
+2011,Number,F,85+,9242
+2012,Number,Both sexes,Total,2222587
+2012,Number,Both sexes,0-4,116793
+2012,Number,Both sexes, 5-9,115789
+2012,Number,Both sexes, 10-14,132407
+2012,Number,Both sexes, 15-19,156857
+2012,Number,Both sexes,20-24,158676
+2012,Number,Both sexes,25-29,163827
+2012,Number,Both sexes,30-34,160284
+2012,Number,Both sexes,35-39,156849
+2012,Number,Both sexes,40-44,156614
+2012,Number,Both sexes,45-49,170085
+2012,Number,Both sexes,50-54,173434
+2012,Number,Both sexes,55-59,154906
+2012,Number,Both sexes,60-64,121858
+2012,Number,Both sexes,65-69,84935
+2012,Number,Both sexes,70-74,86012
+2012,Number,Both sexes,75-79,64460
+2012,Number,Both sexes,80-84,34544
+2012,Number,Both sexes,85+,14257
+2012,Number,M,Total,1089379
+2012,Number,M,0-4,60012
+2012,Number,M, 5-9,59590
+2012,Number,M, 10-14,67591
+2012,Number,M, 15-19,80836
+2012,Number,M,20-24,80934
+2012,Number,M,25-29,83925
+2012,Number,M,30-34,81421
+2012,Number,M,35-39,78229
+2012,Number,M,40-44,78041
+2012,Number,M,45-49,84128
+2012,Number,M,50-54,84744
+2012,Number,M,55-59,75118
+2012,Number,M,60-64,56318
+2012,Number,M,65-69,37976
+2012,Number,M,70-74,36665
+2012,Number,M,75-79,26283
+2012,Number,M,80-84,13337
+2012,Number,M,85+,4231
+2012,Number,F,Total,1133208
+2012,Number,F,0-4,56781
+2012,Number,F, 5-9,56199
+2012,Number,F, 10-14,64816
+2012,Number,F, 15-19,76021
+2012,Number,F,20-24,77742
+2012,Number,F,25-29,79902
+2012,Number,F,30-34,78863
+2012,Number,F,35-39,78620
+2012,Number,F,40-44,78573
+2012,Number,F,45-49,85957
+2012,Number,F,50-54,88690
+2012,Number,F,55-59,79788
+2012,Number,F,60-64,65540
+2012,Number,F,65-69,46959
+2012,Number,F,70-74,49347
+2012,Number,F,75-79,38177
+2012,Number,F,80-84,21207
+2012,Number,F,85+,10026
+2013,Number,Both sexes,Total,2219131
+2013,Number,Both sexes,0-4,114879
+2013,Number,Both sexes, 5-9,115755
+2013,Number,Both sexes, 10-14,125750
+2013,Number,Both sexes, 15-19,161488
+2013,Number,Both sexes,20-24,150507
+2013,Number,Both sexes,25-29,163812
+2013,Number,Both sexes,30-34,160592
+2013,Number,Both sexes,35-39,157328
+2013,Number,Both sexes,40-44,154514
+2013,Number,Both sexes,45-49,166817
+2013,Number,Both sexes,50-54,173765
+2013,Number,Both sexes,55-59,156071
+2013,Number,Both sexes,60-64,128708
+2013,Number,Both sexes,65-69,88704
+2013,Number,Both sexes,70-74,81568
+2013,Number,Both sexes,75-79,66507
+2013,Number,Both sexes,80-84,36064
+2013,Number,Both sexes,85+,16302
+2013,Number,M,Total,1087882
+2013,Number,M,0-4,59007
+2013,Number,M, 5-9,59476
+2013,Number,M, 10-14,64326
+2013,Number,M, 15-19,83076
+2013,Number,M,20-24,76904
+2013,Number,M,25-29,83909
+2013,Number,M,30-34,81734
+2013,Number,M,35-39,78750
+2013,Number,M,40-44,76966
+2013,Number,M,45-49,82468
+2013,Number,M,50-54,85215
+2013,Number,M,55-59,75630
+2013,Number,M,60-64,59983
+2013,Number,M,65-69,39630
+2013,Number,M,70-74,34732
+2013,Number,M,75-79,27122
+2013,Number,M,80-84,13858
+2013,Number,M,85+,5096
+2013,Number,F,Total,1131249
+2013,Number,F,0-4,55872
+2013,Number,F, 5-9,56279
+2013,Number,F, 10-14,61424
+2013,Number,F, 15-19,78412
+2013,Number,F,20-24,73603
+2013,Number,F,25-29,79903
+2013,Number,F,30-34,78858
+2013,Number,F,35-39,78578
+2013,Number,F,40-44,77548
+2013,Number,F,45-49,84349
+2013,Number,F,50-54,88550
+2013,Number,F,55-59,80441
+2013,Number,F,60-64,68725
+2013,Number,F,65-69,49074
+2013,Number,F,70-74,46836
+2013,Number,F,75-79,39385
+2013,Number,F,80-84,22206
+2013,Number,F,85+,11206
+2014,Number,Both sexes,Total,2215997
+2014,Number,Both sexes,0-4,110538
+2014,Number,Both sexes, 5-9,116644
+2014,Number,Both sexes, 10-14,121454
+2014,Number,Both sexes, 15-19,161480
+2014,Number,Both sexes,20-24,145424
+2014,Number,Both sexes,25-29,161571
+2014,Number,Both sexes,30-34,162303
+2014,Number,Both sexes,35-39,157531
+2014,Number,Both sexes,40-44,153220
+2014,Number,Both sexes,45-49,163885
+2014,Number,Both sexes,50-54,172235
+2014,Number,Both sexes,55-59,159335
+2014,Number,Both sexes,60-64,133602
+2014,Number,Both sexes,65-69,95450
+2014,Number,Both sexes,70-74,77139
+2014,Number,Both sexes,75-79,67532
+2014,Number,Both sexes,80-84,38345
+2014,Number,Both sexes,85+,18309
+2014,Number,M,Total,1086617
+2014,Number,M,0-4,56831
+2014,Number,M, 5-9,59893
+2014,Number,M, 10-14,62350
+2014,Number,M, 15-19,82776
+2014,Number,M,20-24,74456
+2014,Number,M,25-29,82880
+2014,Number,M,30-34,82576
+2014,Number,M,35-39,79172
+2014,Number,M,40-44,76077
+2014,Number,M,45-49,81153
+2014,Number,M,50-54,84369
+2014,Number,M,55-59,77268
+2014,Number,M,60-64,62815
+2014,Number,M,65-69,42725
+2014,Number,M,70-74,32924
+2014,Number,M,75-79,27530
+2014,Number,M,80-84,14793
+2014,Number,M,85+,6029
+2014,Number,F,Total,1129380
+2014,Number,F,0-4,53707
+2014,Number,F, 5-9,56751
+2014,Number,F, 10-14,59104
+2014,Number,F, 15-19,78704
+2014,Number,F,20-24,70968
+2014,Number,F,25-29,78691
+2014,Number,F,30-34,79727
+2014,Number,F,35-39,78359
+2014,Number,F,40-44,77143
+2014,Number,F,45-49,82732
+2014,Number,F,50-54,87866
+2014,Number,F,55-59,82067
+2014,Number,F,60-64,70787
+2014,Number,F,65-69,52725
+2014,Number,F,70-74,44215
+2014,Number,F,75-79,40002
+2014,Number,F,80-84,23552
+2014,Number,F,85+,12280
+2015,Number,Both sexes,Total,2210994
+2015,Number,Both sexes,0-4,106407
+2015,Number,Both sexes, 5-9,117109
+2015,Number,Both sexes, 10-14,118752
+2015,Number,Both sexes, 15-19,153121
+2015,Number,Both sexes,20-24,147089
+2015,Number,Both sexes,25-29,160471
+2015,Number,Both sexes,30-34,162514
+2015,Number,Both sexes,35-39,157774
+2015,Number,Both sexes,40-44,154441
+2015,Number,Both sexes,45-49,158880
+2015,Number,Both sexes,50-54,170920
+2015,Number,Both sexes,55-59,160955
+2015,Number,Both sexes,60-64,138568
+2015,Number,Both sexes,65-69,102608
+2015,Number,Both sexes,70-74,72062
+2015,Number,Both sexes,75-79,68944
+2015,Number,Both sexes,80-84,39993
+2015,Number,Both sexes,85+,20386
+2015,Number,M,Total,1084267
+2015,Number,M,0-4,54562
+2015,Number,M, 5-9,60201
+2015,Number,M, 10-14,61038
+2015,Number,M, 15-19,78496
+2015,Number,M,20-24,75167
+2015,Number,M,25-29,82361
+2015,Number,M,30-34,82924
+2015,Number,M,35-39,79452
+2015,Number,M,40-44,76756
+2015,Number,M,45-49,78780
+2015,Number,M,50-54,83828
+2015,Number,M,55-59,78021
+2015,Number,M,60-64,65356
+2015,Number,M,65-69,46062
+2015,Number,M,70-74,30727
+2015,Number,M,75-79,28163
+2015,Number,M,80-84,15462
+2015,Number,M,85+,6911
+2015,Number,F,Total,1126727
+2015,Number,F,0-4,51845
+2015,Number,F, 5-9,56908
+2015,Number,F, 10-14,57714
+2015,Number,F, 15-19,74625
+2015,Number,F,20-24,71922
+2015,Number,F,25-29,78110
+2015,Number,F,30-34,79590
+2015,Number,F,35-39,78322
+2015,Number,F,40-44,77685
+2015,Number,F,45-49,80100
+2015,Number,F,50-54,87092
+2015,Number,F,55-59,82934
+2015,Number,F,60-64,73212
+2015,Number,F,65-69,56546
+2015,Number,F,70-74,41335
+2015,Number,F,75-79,40781
+2015,Number,F,80-84,24531
+2015,Number,F,85+,13475
+2016,Number,Both sexes,Total,2206231
+2016,Number,Both sexes,0-4,102398
+2016,Number,Both sexes, 5-9,116765
+2016,Number,Both sexes, 10-14,116710
+2016,Number,Both sexes, 15-19,142772
+2016,Number,Both sexes,20-24,149829
+2016,Number,Both sexes,25-29,159817
+2016,Number,Both sexes,30-34,161799
+2016,Number,Both sexes,35-39,157744
+2016,Number,Both sexes,40-44,155337
+2016,Number,Both sexes,45-49,155604
+2016,Number,Both sexes,50-54,169061
+2016,Number,Both sexes,55-59,163508
+2016,Number,Both sexes,60-64,143664
+2016,Number,Both sexes,65-69,108177
+2016,Number,Both sexes,70-74,69924
+2016,Number,Both sexes,75-79,68347
+2016,Number,Both sexes,80-84,42285
+2016,Number,Both sexes,85+,22490
+2016,Number,M,Total,1082238
+2016,Number,M,0-4,52494
+2016,Number,M, 5-9,60046
+2016,Number,M, 10-14,60009
+2016,Number,M, 15-19,73048
+2016,Number,M,20-24,76694
+2016,Number,M,25-29,82039
+2016,Number,M,30-34,82625
+2016,Number,M,35-39,79723
+2016,Number,M,40-44,77235
+2016,Number,M,45-49,77270
+2016,Number,M,50-54,82923
+2016,Number,M,55-59,79218
+2016,Number,M,60-64,68122
+2016,Number,M,65-69,48671
+2016,Number,M,70-74,30004
+2016,Number,M,75-79,27837
+2016,Number,M,80-84,16425
+2016,Number,M,85+,7855
+2016,Number,F,Total,1123993
+2016,Number,F,0-4,49904
+2016,Number,F, 5-9,56719
+2016,Number,F, 10-14,56701
+2016,Number,F, 15-19,69724
+2016,Number,F,20-24,73135
+2016,Number,F,25-29,77778
+2016,Number,F,30-34,79174
+2016,Number,F,35-39,78021
+2016,Number,F,40-44,78102
+2016,Number,F,45-49,78334
+2016,Number,F,50-54,86138
+2016,Number,F,55-59,84290
+2016,Number,F,60-64,75542
+2016,Number,F,65-69,59506
+2016,Number,F,70-74,39920
+2016,Number,F,75-79,40510
+2016,Number,F,80-84,25860
+2016,Number,F,85+,14635
+2017,Number,Both sexes,Total,2201193
+2017,Number,Both sexes,0-4,98697
+2017,Number,Both sexes, 5-9,116467
+2017,Number,Both sexes, 10-14,115503
+2017,Number,Both sexes, 15-19,131670
+2017,Number,Both sexes,20-24,154962
+2017,Number,Both sexes,25-29,156456
+2017,Number,Both sexes,30-34,161607
+2017,Number,Both sexes,35-39,158073
+2017,Number,Both sexes,40-44,154634
+2017,Number,Both sexes,45-49,153863
+2017,Number,Both sexes,50-54,165913
+2017,Number,Both sexes,55-59,166994
+2017,Number,Both sexes,60-64,145958
+2017,Number,Both sexes,65-69,111195
+2017,Number,Both sexes,70-74,73706
+2017,Number,Both sexes,75-79,66875
+2017,Number,Both sexes,80-84,43476
+2017,Number,Both sexes,85+,25144
+2017,Number,M,Total,1080156
+2017,Number,M,0-4,50682
+2017,Number,M, 5-9,59863
+2017,Number,M, 10-14,59437
+2017,Number,M, 15-19,67233
+2017,Number,M,20-24,79802
+2017,Number,M,25-29,79846
+2017,Number,M,30-34,82700
+2017,Number,M,35-39,80213
+2017,Number,M,40-44,76980
+2017,Number,M,45-49,76395
+2017,Number,M,50-54,81606
+2017,Number,M,55-59,80743
+2017,Number,M,60-64,69552
+2017,Number,M,65-69,50110
+2017,Number,M,70-74,31853
+2017,Number,M,75-79,27139
+2017,Number,M,80-84,17020
+2017,Number,M,85+,8982
+2017,Number,F,Total,1121037
+2017,Number,F,0-4,48015
+2017,Number,F, 5-9,56604
+2017,Number,F, 10-14,56066
+2017,Number,F, 15-19,64437
+2017,Number,F,20-24,75160
+2017,Number,F,25-29,76610
+2017,Number,F,30-34,78907
+2017,Number,F,35-39,77860
+2017,Number,F,40-44,77654
+2017,Number,F,45-49,77468
+2017,Number,F,50-54,84307
+2017,Number,F,55-59,86251
+2017,Number,F,60-64,76406
+2017,Number,F,65-69,61085
+2017,Number,F,70-74,41853
+2017,Number,F,75-79,39736
+2017,Number,F,80-84,26456
+2017,Number,F,85+,16162
+2018,Number,Both sexes,Total,2196233
+2018,Number,Both sexes,0-4,95427
+2018,Number,Both sexes, 5-9,114506
+2018,Number,Both sexes, 10-14,115467
+2018,Number,Both sexes, 15-19,125034
+2018,Number,Both sexes,20-24,159766
+2018,Number,Both sexes,25-29,148643
+2018,Number,Both sexes,30-34,161669
+2018,Number,Both sexes,35-39,158386
+2018,Number,Both sexes,40-44,155109
+2018,Number,Both sexes,45-49,151988
+2018,Number,Both sexes,50-54,163072
+2018,Number,Both sexes,55-59,167782
+2018,Number,Both sexes,60-64,147365
+2018,Number,Both sexes,65-69,118176
+2018,Number,Both sexes,70-74,77582
+2018,Number,Both sexes,75-79,63593
+2018,Number,Both sexes,80-84,45260
+2018,Number,Both sexes,85+,27408
+2018,Number,M,Total,1077981
+2018,Number,M,0-4,49074
+2018,Number,M, 5-9,58820
+2018,Number,M, 10-14,59329
+2018,Number,M, 15-19,63968
+2018,Number,M,20-24,82186
+2018,Number,M,25-29,75996
+2018,Number,M,30-34,82760
+2018,Number,M,35-39,80498
+2018,Number,M,40-44,77507
+2018,Number,M,45-49,75438
+2018,Number,M,50-54,80161
+2018,Number,M,55-59,81453
+2018,Number,M,60-64,70164
+2018,Number,M,65-69,53757
+2018,Number,M,70-74,33538
+2018,Number,M,75-79,25892
+2018,Number,M,80-84,17649
+2018,Number,M,85+,9791
+2018,Number,F,Total,1118252
+2018,Number,F,0-4,46353
+2018,Number,F, 5-9,55686
+2018,Number,F, 10-14,56138
+2018,Number,F, 15-19,61066
+2018,Number,F,20-24,77580
+2018,Number,F,25-29,72647
+2018,Number,F,30-34,78909
+2018,Number,F,35-39,77888
+2018,Number,F,40-44,77602
+2018,Number,F,45-49,76550
+2018,Number,F,50-54,82911
+2018,Number,F,55-59,86329
+2018,Number,F,60-64,77201
+2018,Number,F,65-69,64419
+2018,Number,F,70-74,44044
+2018,Number,F,75-79,37701
+2018,Number,F,80-84,27611
+2018,Number,F,85+,17617
+2019,Number,Both sexes,Total,2190098
+2019,Number,Both sexes,0-4,93672
+2019,Number,Both sexes, 5-9,110200
+2019,Number,Both sexes, 10-14,116312
+2019,Number,Both sexes, 15-19,120759
+2019,Number,Both sexes,20-24,159654
+2019,Number,Both sexes,25-29,143744
+2019,Number,Both sexes,30-34,159356
+2019,Number,Both sexes,35-39,159956
+2019,Number,Both sexes,40-44,155216
+2019,Number,Both sexes,45-49,150719
+2019,Number,Both sexes,50-54,160360
+2019,Number,Both sexes,55-59,166555
+2019,Number,Both sexes,60-64,150575
+2019,Number,Both sexes,65-69,122496
+2019,Number,Both sexes,70-74,84070
+2019,Number,Both sexes,75-79,60179
+2019,Number,Both sexes,80-84,45981
+2019,Number,Both sexes,85+,30294
+2019,Number,M,Total,1075017
+2019,Number,M,0-4,48151
+2019,Number,M, 5-9,56652
+2019,Number,M, 10-14,59725
+2019,Number,M, 15-19,61983
+2019,Number,M,20-24,81853
+2019,Number,M,25-29,73655
+2019,Number,M,30-34,81656
+2019,Number,M,35-39,81203
+2019,Number,M,40-44,77882
+2019,Number,M,45-49,74577
+2019,Number,M,50-54,78985
+2019,Number,M,55-59,80794
+2019,Number,M,60-64,71777
+2019,Number,M,65-69,56095
+2019,Number,M,70-74,36468
+2019,Number,M,75-79,24573
+2019,Number,M,80-84,17935
+2019,Number,M,85+,11053
+2019,Number,F,Total,1115081
+2019,Number,F,0-4,45521
+2019,Number,F, 5-9,53548
+2019,Number,F, 10-14,56587
+2019,Number,F, 15-19,58776
+2019,Number,F,20-24,77801
+2019,Number,F,25-29,70089
+2019,Number,F,30-34,77700
+2019,Number,F,35-39,78753
+2019,Number,F,40-44,77334
+2019,Number,F,45-49,76142
+2019,Number,F,50-54,81375
+2019,Number,F,55-59,85761
+2019,Number,F,60-64,78798
+2019,Number,F,65-69,66401
+2019,Number,F,70-74,47602
+2019,Number,F,75-79,35606
+2019,Number,F,80-84,28046
+2019,Number,F,85+,19241
+2020,Number,Both sexes,Total,2184680
+2020,Number,Both sexes,0-4,91389
+2020,Number,Both sexes, 5-9,106084
+2020,Number,Both sexes, 10-14,116793
+2020,Number,Both sexes, 15-19,118137
+2020,Number,Both sexes,20-24,151330
+2020,Number,Both sexes,25-29,145494
+2020,Number,Both sexes,30-34,158370
+2020,Number,Both sexes,35-39,160103
+2020,Number,Both sexes,40-44,155449
+2020,Number,Both sexes,45-49,151913
+2020,Number,Both sexes,50-54,155166
+2020,Number,Both sexes,55-59,165174
+2020,Number,Both sexes,60-64,152361
+2020,Number,Both sexes,65-69,127364
+2020,Number,Both sexes,70-74,90123
+2020,Number,Both sexes,75-79,56283
+2020,Number,Both sexes,80-84,48412
+2020,Number,Both sexes,85+,34735
+2020,Number,M,Total,1072549
+2020,Number,M,0-4,47199
+2020,Number,M, 5-9,54398
+2020,Number,M, 10-14,60034
+2020,Number,M, 15-19,60717
+2020,Number,M,20-24,77586
+2020,Number,M,25-29,74375
+2020,Number,M,30-34,81217
+2020,Number,M,35-39,81502
+2020,Number,M,40-44,78115
+2020,Number,M,45-49,75231
+2020,Number,M,50-54,76476
+2020,Number,M,55-59,80164
+2020,Number,M,60-64,72620
+2020,Number,M,65-69,58656
+2020,Number,M,70-74,39259
+2020,Number,M,75-79,23129
+2020,Number,M,80-84,19109
+2020,Number,M,85+,12762
+2020,Number,F,Total,1112131
+2020,Number,F,0-4,44190
+2020,Number,F, 5-9,51686
+2020,Number,F, 10-14,56759
+2020,Number,F, 15-19,57420
+2020,Number,F,20-24,73744
+2020,Number,F,25-29,71119
+2020,Number,F,30-34,77153
+2020,Number,F,35-39,78601
+2020,Number,F,40-44,77334
+2020,Number,F,45-49,76682
+2020,Number,F,50-54,78690
+2020,Number,F,55-59,85010
+2020,Number,F,60-64,79741
+2020,Number,F,65-69,68708
+2020,Number,F,70-74,50864
+2020,Number,F,75-79,33154
+2020,Number,F,80-84,29303
+2020,Number,F,85+,21973
+2021,Number,Both sexes,Total,2168602
+2021,Number,Both sexes,0-4,89236
+2021,Number,Both sexes, 5-9,102040
+2021,Number,Both sexes, 10-14,116451
+2021,Number,Both sexes, 15-19,116137
+2021,Number,Both sexes,20-24,141134
+2021,Number,Both sexes,25-29,148254
+2021,Number,Both sexes,30-34,157693
+2021,Number,Both sexes,35-39,159296
+2021,Number,Both sexes,40-44,155334
+2021,Number,Both sexes,45-49,152636
+2021,Number,Both sexes,50-54,151826
+2021,Number,Both sexes,55-59,162987
+2021,Number,Both sexes,60-64,154198
+2021,Number,Both sexes,65-69,131006
+2021,Number,Both sexes,70-74,93597
+2021,Number,Both sexes,75-79,53719
+2021,Number,Both sexes,80-84,46382
+2021,Number,Both sexes,85+,36676
+2021,Number,M,Total,1063923
+2021,Number,M,0-4,46071
+2021,Number,M, 5-9,52309
+2021,Number,M, 10-14,59876
+2021,Number,M, 15-19,59685
+2021,Number,M,20-24,72191
+2021,Number,M,25-29,75899
+2021,Number,M,30-34,80885
+2021,Number,M,35-39,81147
+2021,Number,M,40-44,78281
+2021,Number,M,45-49,75636
+2021,Number,M,50-54,74907
+2021,Number,M,55-59,79021
+2021,Number,M,60-64,73319
+2021,Number,M,65-69,60460
+2021,Number,M,70-74,40609
+2021,Number,M,75-79,22026
+2021,Number,M,80-84,17994
+2021,Number,M,85+,13607
+2021,Number,F,Total,1104679
+2021,Number,F,0-4,43165
+2021,Number,F, 5-9,49731
+2021,Number,F, 10-14,56575
+2021,Number,F, 15-19,56452
+2021,Number,F,20-24,68943
+2021,Number,F,25-29,72355
+2021,Number,F,30-34,76808
+2021,Number,F,35-39,78149
+2021,Number,F,40-44,77053
+2021,Number,F,45-49,77000
+2021,Number,F,50-54,76919
+2021,Number,F,55-59,83966
+2021,Number,F,60-64,80879
+2021,Number,F,65-69,70546
+2021,Number,F,70-74,52988
+2021,Number,F,75-79,31693
+2021,Number,F,80-84,28388
+2021,Number,F,85+,23069
+2022,Number,Both sexes,Total,2156846
+2022,Number,Both sexes,0-4,86353
+2022,Number,Both sexes, 5-9,98356
+2022,Number,Both sexes, 10-14,116128
+2022,Number,Both sexes, 15-19,115020
+2022,Number,Both sexes,20-24,130119
+2022,Number,Both sexes,25-29,153526
+2022,Number,Both sexes,30-34,154510
+2022,Number,Both sexes,35-39,159033
+2022,Number,Both sexes,40-44,155616
+2022,Number,Both sexes,45-49,151908
+2022,Number,Both sexes,50-54,150044
+2022,Number,Both sexes,55-59,159692
+2022,Number,Both sexes,60-64,157365
+2022,Number,Both sexes,65-69,132301
+2022,Number,Both sexes,70-74,95813
+2022,Number,Both sexes,75-79,56846
+2022,Number,Both sexes,80-84,44594
+2022,Number,Both sexes,85+,39622
+2022,Number,M,Total,1058241
+2022,Number,M,0-4,44475
+2022,Number,M, 5-9,50488
+2022,Number,M, 10-14,59684
+2022,Number,M, 15-19,59149
+2022,Number,M,20-24,66395
+2022,Number,M,25-29,79097
+2022,Number,M,30-34,78789
+2022,Number,M,35-39,81176
+2022,Number,M,40-44,78718
+2022,Number,M,45-49,75390
+2022,Number,M,50-54,73992
+2022,Number,M,55-59,77658
+2022,Number,M,60-64,74602
+2022,Number,M,65-69,61276
+2022,Number,M,70-74,41689
+2022,Number,M,75-79,23571
+2022,Number,M,80-84,17307
+2022,Number,M,85+,14785
+2022,Number,F,Total,1098605
+2022,Number,F,0-4,41878
+2022,Number,F, 5-9,47868
+2022,Number,F, 10-14,56444
+2022,Number,F, 15-19,55871
+2022,Number,F,20-24,63724
+2022,Number,F,25-29,74429
+2022,Number,F,30-34,75721
+2022,Number,F,35-39,77857
+2022,Number,F,40-44,76898
+2022,Number,F,45-49,76518
+2022,Number,F,50-54,76052
+2022,Number,F,55-59,82034
+2022,Number,F,60-64,82763
+2022,Number,F,65-69,71025
+2022,Number,F,70-74,54124
+2022,Number,F,75-79,33275
+2022,Number,F,80-84,27287
+2022,Number,F,85+,24837
+2023,Number,Both sexes,Total,2150054
+2023,Number,Both sexes,0-4,83225
+2023,Number,Both sexes, 5-9,95112
+2023,Number,Both sexes, 10-14,114236
+2023,Number,Both sexes, 15-19,114999
+2023,Number,Both sexes,20-24,123667
+2023,Number,Both sexes,25-29,158293
+2023,Number,Both sexes,30-34,146897
+2023,Number,Both sexes,35-39,159230
+2023,Number,Both sexes,40-44,156043
+2023,Number,Both sexes,45-49,152563
+2023,Number,Both sexes,50-54,148416
+2023,Number,Both sexes,55-59,157151
+2023,Number,Both sexes,60-64,158337
+2023,Number,Both sexes,65-69,133888
+2023,Number,Both sexes,70-74,102314
+2023,Number,Both sexes,75-79,60967
+2023,Number,Both sexes,80-84,41834
+2023,Number,Both sexes,85+,42882
+2023,Number,M,Total,1055271
+2023,Number,M,0-4,42990
+2023,Number,M, 5-9,48891
+2023,Number,M, 10-14,58656
+2023,Number,M, 15-19,59058
+2023,Number,M,20-24,63240
+2023,Number,M,25-29,81419
+2023,Number,M,30-34,75074
+2023,Number,M,35-39,81338
+2023,Number,M,40-44,79065
+2023,Number,M,45-49,75953
+2023,Number,M,50-54,73203
+2023,Number,M,55-59,76437
+2023,Number,M,60-64,75403
+2023,Number,M,65-69,61950
+2023,Number,M,70-74,44952
+2023,Number,M,75-79,25355
+2023,Number,M,80-84,16260
+2023,Number,M,85+,16027
+2023,Number,F,Total,1094783
+2023,Number,F,0-4,40235
+2023,Number,F, 5-9,46221
+2023,Number,F, 10-14,55580
+2023,Number,F, 15-19,55941
+2023,Number,F,20-24,60427
+2023,Number,F,25-29,76874
+2023,Number,F,30-34,71823
+2023,Number,F,35-39,77892
+2023,Number,F,40-44,76978
+2023,Number,F,45-49,76610
+2023,Number,F,50-54,75213
+2023,Number,F,55-59,80714
+2023,Number,F,60-64,82934
+2023,Number,F,65-69,71938
+2023,Number,F,70-74,57362
+2023,Number,F,75-79,35612
+2023,Number,F,80-84,25574
+2023,Number,F,85+,26855

@@ -1,1 +1,67 @@
-Year,Value
+Year,UNIT_MEASURE,Sex,Birth,Value
+2020,Number,Both sexes,Live births,19253
+2025,Number,Both sexes,Live births,17269
+2030,Number,Both sexes,Live births,15153
+2035,Number,Both sexes,Live births,13262
+2040,Number,Both sexes,Live births,11914
+2045,Number,Both sexes,Live births,10783
+2050,Number,Both sexes,Live births,9784
+2055,Number,Both sexes,Live births,8880
+2060,Number,Both sexes,Live births,8008
+2065,Number,Both sexes,Live births,7181
+2070,Number,Both sexes,Live births,6473
+2020,Number,Both sexes,Deaths,21672
+2025,Number,Both sexes,Deaths,22703
+2030,Number,Both sexes,Deaths,23900
+2035,Number,Both sexes,Deaths,25261
+2040,Number,Both sexes,Deaths,26552
+2045,Number,Both sexes,Deaths,27387
+2050,Number,Both sexes,Deaths,27496
+2055,Number,Both sexes,Deaths,26977
+2060,Number,Both sexes,Deaths,25937
+2065,Number,Both sexes,Deaths,24580
+2070,Number,Both sexes,Deaths,23072
+2020,Number,M,Live births,9915
+2025,Number,M,Live births,8894
+2030,Number,M,Live births,7804
+2035,Number,M,Live births,6830
+2040,Number,M,Live births,6136
+2045,Number,M,Live births,5553
+2050,Number,M,Live births,5039
+2055,Number,M,Live births,4573
+2060,Number,M,Live births,4124
+2065,Number,M,Live births,3698
+2070,Number,M,Live births,3334
+2020,Number,M,Deaths,10894
+2025,Number,M,Deaths,11432
+2030,Number,M,Deaths,12015
+2035,Number,M,Deaths,12659
+2040,Number,M,Deaths,13212
+2045,Number,M,Deaths,13489
+2050,Number,M,Deaths,13406
+2055,Number,M,Deaths,13037
+2060,Number,M,Deaths,12439
+2065,Number,M,Deaths,11649
+2070,Number,M,Deaths,10783
+2020,Number,F,Live births,9338
+2025,Number,F,Live births,8375
+2030,Number,F,Live births,7349
+2035,Number,F,Live births,6432
+2040,Number,F,Live births,5778
+2045,Number,F,Live births,5230
+2050,Number,F,Live births,4745
+2055,Number,F,Live births,4307
+2060,Number,F,Live births,3884
+2065,Number,F,Live births,3483
+2070,Number,F,Live births,3139
+2020,Number,F,Deaths,10778
+2025,Number,F,Deaths,11271
+2030,Number,F,Deaths,11886
+2035,Number,F,Deaths,12602
+2040,Number,F,Deaths,13341
+2045,Number,F,Deaths,13899
+2050,Number,F,Deaths,14091
+2055,Number,F,Deaths,13940
+2060,Number,F,Deaths,13498
+2065,Number,F,Deaths,12931
+2070,Number,F,Deaths,12289

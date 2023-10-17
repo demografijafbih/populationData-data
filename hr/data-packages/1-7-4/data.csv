@@ -1,1 +1,67 @@
-Year,Value
+Year,UNIT_MEASURE,Spol,Vitalna statistika,Value
+2020,Broj,Oba spola,Živorođeni,19253
+2025,Broj,Oba spola,Živorođeni,17269
+2030,Broj,Oba spola,Živorođeni,15153
+2035,Broj,Oba spola,Živorođeni,13262
+2040,Broj,Oba spola,Živorođeni,11914
+2045,Broj,Oba spola,Živorođeni,10783
+2050,Broj,Oba spola,Živorođeni,9784
+2055,Broj,Oba spola,Živorođeni,8880
+2060,Broj,Oba spola,Živorođeni,8008
+2065,Broj,Oba spola,Živorođeni,7181
+2070,Broj,Oba spola,Živorođeni,6473
+2020,Broj,Oba spola,Umrli,21672
+2025,Broj,Oba spola,Umrli,22703
+2030,Broj,Oba spola,Umrli,23900
+2035,Broj,Oba spola,Umrli,25261
+2040,Broj,Oba spola,Umrli,26552
+2045,Broj,Oba spola,Umrli,27387
+2050,Broj,Oba spola,Umrli,27496
+2055,Broj,Oba spola,Umrli,26977
+2060,Broj,Oba spola,Umrli,25937
+2065,Broj,Oba spola,Umrli,24580
+2070,Broj,Oba spola,Umrli,23072
+2020,Broj,M,Živorođeni,9915
+2025,Broj,M,Živorođeni,8894
+2030,Broj,M,Živorođeni,7804
+2035,Broj,M,Živorođeni,6830
+2040,Broj,M,Živorođeni,6136
+2045,Broj,M,Živorođeni,5553
+2050,Broj,M,Živorođeni,5039
+2055,Broj,M,Živorođeni,4573
+2060,Broj,M,Živorođeni,4124
+2065,Broj,M,Živorođeni,3698
+2070,Broj,M,Živorođeni,3334
+2020,Broj,M,Umrli,10894
+2025,Broj,M,Umrli,11432
+2030,Broj,M,Umrli,12015
+2035,Broj,M,Umrli,12659
+2040,Broj,M,Umrli,13212
+2045,Broj,M,Umrli,13489
+2050,Broj,M,Umrli,13406
+2055,Broj,M,Umrli,13037
+2060,Broj,M,Umrli,12439
+2065,Broj,M,Umrli,11649
+2070,Broj,M,Umrli,10783
+2020,Broj,Ž,Živorođeni,9338
+2025,Broj,Ž,Živorođeni,8375
+2030,Broj,Ž,Živorođeni,7349
+2035,Broj,Ž,Živorođeni,6432
+2040,Broj,Ž,Živorođeni,5778
+2045,Broj,Ž,Živorođeni,5230
+2050,Broj,Ž,Živorođeni,4745
+2055,Broj,Ž,Živorođeni,4307
+2060,Broj,Ž,Živorođeni,3884
+2065,Broj,Ž,Živorođeni,3483
+2070,Broj,Ž,Živorođeni,3139
+2020,Broj,Ž,Umrli,10778
+2025,Broj,Ž,Umrli,11271
+2030,Broj,Ž,Umrli,11886
+2035,Broj,Ž,Umrli,12602
+2040,Broj,Ž,Umrli,13341
+2045,Broj,Ž,Umrli,13899
+2050,Broj,Ž,Umrli,14091
+2055,Broj,Ž,Umrli,13940
+2060,Broj,Ž,Umrli,13498
+2065,Broj,Ž,Umrli,12931
+2070,Broj,Ž,Umrli,12289
