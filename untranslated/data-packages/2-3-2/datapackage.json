@@ -15,14 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "UNIT-MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NUMBER",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Admin_Area",

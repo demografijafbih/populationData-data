@@ -22,5 +22,4 @@ status_in_employment,Status in employment,Radni status,Радни статус,R
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,3
 type_of_institution,Type of institution,Vrsta ustanove,Врста установе,Vrsta ustanove,2,8
 type_of_school,Type of school,Vrsta škole,Врста школе,Vrsta škole,2,6
-UNIT-MEASURE,UNIT-MEASURE,UNIT-MEASURE,UNIT-MEASURE,UNIT-MEASURE,1,1
-UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,100,23
+UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,101,23

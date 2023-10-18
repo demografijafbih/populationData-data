@@ -1297,15 +1297,9 @@
             "title": "Godina"
           },
           {
-            "name": "UNIT-MEASURE",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Broj",
-                ""
-              ]
-            },
-            "title": "UNIT-MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Admin_Area",

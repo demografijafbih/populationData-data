@@ -1297,15 +1297,9 @@
             "title": "Година"
           },
           {
-            "name": "UNIT-MEASURE",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Број",
-                ""
-              ]
-            },
-            "title": "UNIT-MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "Admin_Area",

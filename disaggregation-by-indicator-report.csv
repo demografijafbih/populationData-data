@@ -42,7 +42,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-2-1,"UNIT_MEASURE, Admin_Area, HH_size",3
 #2-2-2,"UNIT_MEASURE, Admin_Area, HH_agri",3
 #2-3-1,"UNIT_MEASURE, Sex, Admin_Area, LITERACY",4
-#2-3-2,"Sex, Admin_Area, UNIT-MEASURE, highest_attainment",4
+#2-3-2,"UNIT_MEASURE, Sex, Admin_Area, highest_attainment",4
 #2-4-1,"UNIT_MEASURE, Sex, Admin_Area, Disabilities",4
 #3-1-1,"UNIT_MEASURE, SEX, CAUSE_OF_DEATH",3
 #3-1-2,"UNIT_MEASURE, CAUSE_OF_DEATH",2
