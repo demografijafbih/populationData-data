@@ -1,2 +1,8 @@
-indicator_number: "Number"
-indicator_definitions_1_1_1: "A live-born child (live birth) is every child who breathes and exhibits other signs of life at birth, such as beating of the heart, pulsation of the umbilical cord or definite movement of voluntary muscles. If a child dies soon after the birth, it is first registered as a live-born and then as an infant death.Death is the permanent disappearance of all evidence od life at any time after livebirth has taken place (postnatal cessation of vital functions with no possibility of resuscitation). This definition excludes foetal deaths, which are defined separately. Natural increase or fall is the difference (surplus or deficit) between the number of livebirths and the number of dead persons in the reference year."
+number: "Number"
+definitions_1_1_1: "A live-born child (live birth) is every child who breathes and exhibits other signs of life at birth, such as beating of the heart, pulsation of the umbilical cord or definite movement of voluntary muscles. If a child dies soon after the birth, it is first registered as a live-born and then as an infant death.Death is the permanent disappearance of all evidence od life at any time after livebirth has taken place (postnatal cessation of vital functions with no possibility of resuscitation). This definition excludes foetal deaths, which are defined separately. Natural increase or fall is the difference (surplus or deficit) between the number of livebirths and the number of dead persons in the reference year."
+geographical_coverage_fbih_cantons: "Federation of Bosnia and Herzegovina, cantons."
+comments_and_limitations_1_1_1: "Data for the Federation of Bosnia and Herzegovina are the sum of data for cantons."
+calculations_1_1_1: "J=N-M
+J- Natural increase
+N- Number of live births
+M- Number of deaths"
