@@ -1,7 +1,7 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
 Admin_Area,Administrative Area,Administrativna jedinica,Административна јединица,Administrativna jedinica,29,92
 ADMIN_AREA,Administrative area,Administrativna oblast,Административно подручје,Administrativna oblast,1,11
-AGE,Age,Starosna dob,Старосна доб,Starosna dob,15,184
+AGE,Age,Starosna dob,Старосна доб,Starosna dob,16,185
 BIRTH,Birth,Vitalna statistika,Рађање,Vitalna statistika,1,2
 Births,Births,Births,Births,Births,1,3
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),Узрок смрти (према шифрама болести по МКБ-10),Uzrok smrti (prema šiframa bolesti po MKB-10),2,22

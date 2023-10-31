@@ -21,6 +21,24 @@
             "title": "Mjerna jedinica"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ispod 15",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                ""
+              ]
+            },
+            "title": "Starosna dob"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
