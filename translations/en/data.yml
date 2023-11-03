@@ -19,7 +19,7 @@ all: All
 BIRTHS: Vital statistics
 LIVE_BIRTH: Live births
 DEATHS: Deaths
-NATURAL_CHANGE: Natural change
+natural_change: Natural change
 total_support_ratio: Total support ratio
 young_age_support_ratio: Young-age support ratio
 old_age_support_ratio: Old-age support ratio
