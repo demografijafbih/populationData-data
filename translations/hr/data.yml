@@ -19,7 +19,7 @@ _%: '% od ukupno'
 Type: Vrsta
 Age: Starosna dob
 all: Svi
-BIRTHS: Vitalna statistika
+Births: Vitalna statistika
 LIVE_BIRTH: Živorođeni
 DEATHS: Umrli
 natural_change: Prirodni priraštaj
