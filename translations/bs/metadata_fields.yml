@@ -82,7 +82,7 @@ comments_limitations: Komentari i ograničenja
 rationale_interpretation: Racionalno i tumačenje
 copyright: Autorska prava
 unit_of_measurement_number: "Broj"
-definitions_1_1_1: "Živorođenim djetetom smatra se svako dijete koje pri rođenju diše i pokazuje druge znakove života kao što su kucanje srca, pulsiranje pupčane vrpce i jasni pokreti voljnih mišića. Ako dijete ubrzo nakon poroda umre, prvo se registruje kao živorođeno, a zatim kao umrlo dojenče. Smrt je stalni prestanak svih znakova života u bilo koje vrijeme nakon što se desilo rođenje (prestanak vitalnih funkcija bez mogućnosti oživljavanja). Ova definicija isključuje mrtvorođenja koja se posebno definiraju. Prirodni priraštaj/prirast, odnosno prirodni pad stanovništva je razlika između broja živorođene djece i broja umrlih osoba u godini posmatranja."
+definitions_1_1_1: "Živorođenim djetetom smatra se svako dijete koje pri rođenju diše i pokazuje druge znakove života kao što su kucanje srca, pulsiranje pupčane vrpce i jasni pokreti voljnih mišića. \n Ako dijete ubrzo nakon poroda umre, prvo se registruje kao živorođeno, a zatim kao umrlo dojenče. Smrt je stalni prestanak svih znakova života u bilo koje vrijeme nakon što se desilo rođenje (prestanak vitalnih funkcija bez mogućnosti oživljavanja). Ova definicija isključuje mrtvorođenja koja se posebno definiraju. \n Prirodni priraštaj/prirast, odnosno prirodni pad stanovništva je razlika između broja živorođene djece i broja umrlih osoba u godini posmatranja."
 geographical_coverage_fbih_cantons: "Federacija BiH, kantoni."
 comments_and_limitations_1_1_1: "Podaci za FBiH su zbir podataka za deset kantona."
 calculations_1_1_1: "J=N-M
