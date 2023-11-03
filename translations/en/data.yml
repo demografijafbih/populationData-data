@@ -16,7 +16,7 @@ _%: '% of total'
 Type: Type
 Age: Age
 all: All
-BIRTHS: Vital statistics
+Births: Vital statistics
 LIVE_BIRTH: Live births
 DEATHS: Deaths
 natural_change: Natural change
