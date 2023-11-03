@@ -61,7 +61,7 @@
               "enum": [
                 "Živorođeni",
                 "Umrli",
-                "Prirodni priraštaj",
+                "natural_change",
                 ""
               ]
             },
