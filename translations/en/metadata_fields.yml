@@ -9,4 +9,4 @@ calculations_1_1_2: "J=N-M \n J- Natural increase \n N- Number of live births \n
 unit_of_measurement_permil: "Permil"
 definitions_1_2_1: "Opća stopa nataliteta predstavlja odnos između broja živorođenih i procijenjenog broja stanovnika, na 1000 stanovnika sredinom godine."
 comments_and_limitations_1_2_1: "Stope nataliteta na 1000 stanovnika  za period  1996-2004 izračunate su na bazi procjena prisutnog stanovništva, a za period 2005-2022 izračunate su u odnosu na procijenjeni  broj stanovnika urađen na bazi podataka Popisa 2013. godine. "
-calculations_1_2_1: ""n=(N/P)*1000 \n n - crude birth rate \n N - number of live births \n P - estimated midyear population"
+calculations_1_2_1: "n=(N/P)*1000 \n n - crude birth rate \n N - number of live births \n P - estimated midyear population"
