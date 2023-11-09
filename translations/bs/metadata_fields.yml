@@ -108,3 +108,5 @@ comments_and_limitations_1_2_5: "Ovaj indikator uključuje starosne grupe ispod 
 definitions_1_3_1: "Opća stopa mortaliteta predstavlja odnos između broja umrlih i procijenjenog broja stanovnika (na 1000 stanovnika) sredinom godine. "
 calculations_1_3_1: "Opća stopa mortaliteta= broj umrlih/ procijenjeni broj stanovnika x 1000"
 definitions_1_3_2: "Umrlim dojenčetom smatra se dijete koje je umrlo prije navršene prve godine života."
+definitions_1_3_3: "Stopa smrtnosti dojenčadi predstavlja broj umrle dojenčadi na 1000 živorođenih u godini posmatranja"
+calculations_1_3_3: "Stopa smrtnosti dojenčadi =  broj umrle dojenčadi/broj živorođenih x1000"
