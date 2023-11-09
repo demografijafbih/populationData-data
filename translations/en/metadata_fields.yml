@@ -25,3 +25,5 @@ comments_and_limitations_1_2_5: "This indicator includes age groups under 15 and
 definitions_1_3_1: "Crude death rate is the ratio between the number of deaths and the estimated number of inhabitants (per 1000 inhabitants) in the middle of year."
 calculations_1_3_1: "The general mortality rate = number of deaths / estimated number of inhabitants * 1000"
 definitions_1_3_2: "Infant death is considered as child who died before reaching one year of age."
+definitions_1_3_3: "Infant mortality rate is defined as the number of infant deaths per 1000 livebirths in the reference year"
+calculations_1_3_3: "Infant mortality rate =number of infant deaths/number of livebirths x 1000"
