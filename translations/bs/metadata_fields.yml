@@ -123,3 +123,5 @@ comments_and_limitations_1_6_2: "Stope nupcijaliteta na 1000 stanovnika  za peri
 calculations_1_6_2: "Stopa nupcijaliteta = broj zaključenih brakova /procijenjeni broj stanovnika x 1000"
 definitions_1_6_3: "Razvod braka je krajnji zakonski raspad braka tj. ono odvajanje muža i žene koje stranama daje pravo da ponovo stupe u brak po građanskim, vjerskim i/ili drugim odredbama, sukladno sa zakonima svake zemlje. "
 comments_and_limitations_1_6_3: "Podaci za FBiH su zbir podataka za deset kantona. "
+definitions_1_6_4: "Stopa razvedenih brakova na 1000 zaključenih brakova predstavlja odnos broja razvedenih i broja zaključenih brakova (na 1000 zaključenih brakova)."
+calculations_1_6_4: "Stopa razvedenih brakova na 1000 zaključenih brakova  = broj razvedenih brakova/broj zaključenih brakova x 1000 ."
