@@ -121,3 +121,5 @@ comments_and_limitations_1_6_1: "Podaci za FBiH su zbir podataka za deset kanton
 definitions_1_6_2: "Stopa nupcijaliteta predstavlja odnos broja zaključenih brakova i procijenjenog broja stanovnika (na 1000 stanovnika) u godini posmatranja"
 comments_and_limitations_1_6_2: "Stope nupcijaliteta na 1000 stanovnika  za period  1996-2004 izračunate su na bazi procjena prisutnog stanovništva, a za period 2005-2022 izračunate su u odnosu na procijenjeni  broj stanovnika urađen na bazi podataka Popisa 2013. godine. "
 calculations_1_6_2: "Stopa nupcijaliteta = broj zaključenih brakova /procijenjeni broj stanovnika x 1000"
+definitions_1_6_3: "Razvod braka je krajnji zakonski raspad braka tj. ono odvajanje muža i žene koje stranama daje pravo da ponovo stupe u brak po građanskim, vjerskim i/ili drugim odredbama, sukladno sa zakonima svake zemlje. "
+comments_and_limitations_1_6_3: "Podaci za FBiH su zbir podataka za deset kantona. "
