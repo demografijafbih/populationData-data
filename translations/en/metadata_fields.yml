@@ -38,3 +38,5 @@ comments_and_limitations_1_6_1: "Data for the Federation of Bosnia and Herzegovi
 definitions_1_6_2: "Nuptiality rate represents the ratio between number of marriages and estimated number of inhabitants (per 1000 inhabitants) in a reference year."
 comments_and_limitations_1_6_2: "Marriage rates per 1,000 inhabitants for the period 1996-2004 were calculated based on estimates of the present population, and for the period 2005-2022 they were calculated in relation to the estimated number of inhabitants based on the 2013 Census database."
 calculations_1_6_2: "Nuptiality rate = number of marriages / estimated number of inhabitants x 1000."
+definitions_1_6_3: "Divorce is a final legal dissolution of a marriage, that is, the separation of husband and wife which confers the parties the right to remarriage under civil, religious and/or other provisions, according to the laws of each country "
+comments_and_limitations_1_6_3: "Data for the Federation of Bosnia and Herzegovina are the sum of data for cantons."
