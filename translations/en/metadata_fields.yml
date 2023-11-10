@@ -40,3 +40,5 @@ comments_and_limitations_1_6_2: "Marriage rates per 1,000 inhabitants for the pe
 calculations_1_6_2: "Nuptiality rate = number of marriages / estimated number of inhabitants x 1000."
 definitions_1_6_3: "Divorce is a final legal dissolution of a marriage, that is, the separation of husband and wife which confers the parties the right to remarriage under civil, religious and/or other provisions, according to the laws of each country "
 comments_and_limitations_1_6_3: "Data for the Federation of Bosnia and Herzegovina are the sum of data for cantons."
+definitions_1_6_4: "Divorce rate per 1000 marriages represents the ratio between number of divorces and the number of marriages (per 1000 marriages)."
+calculations_1_6_4: "Divorce rate per 1000 marriages = number of divorces /number of marriages x 1000."
