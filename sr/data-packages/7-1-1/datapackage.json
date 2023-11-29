@@ -21,20 +21,6 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Quarter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "I квартал",
-                "II квартал",
-                "III квартал",
-                "IV квартал",
-                ""
-              ]
-            },
-            "title": "Квартал"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
