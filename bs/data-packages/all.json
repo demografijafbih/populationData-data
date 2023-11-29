@@ -1587,20 +1587,6 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Quarter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                ""
-              ]
-            },
-            "title": "Kvartal"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {

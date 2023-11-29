@@ -1595,20 +1595,6 @@
             "title": "Age"
           },
           {
-            "name": "Quarter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4"
-              ]
-            },
-            "title": "Quarter"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
