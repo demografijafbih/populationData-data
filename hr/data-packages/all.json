@@ -1638,7 +1638,7 @@
           }
         ]
       },
-      "title": "Stopa nezaposlenosti - postotak nezaposlenog stanovništva u aktivnom stanovništvu (radnoj snazi) prema dobnoj skupini i spolu"
+      "title": "Stopa nezaposlenosti prema dobnim skupinama i spolu"
     },
     {
       "path": "3-1-1/data.csv",
@@ -2131,7 +2131,7 @@
           }
         ]
       },
-      "title": "Kućanstva koja žive u relativnom siromaštvu"
+      "title": "Stopa aktivnosti prema dobnim skupinama i spolu (kvartalno)"
     },
     {
       "path": "5-4-2/data.csv",
@@ -2385,7 +2385,7 @@
           }
         ]
       },
-      "title": "Stopa učešća radne snage - postotak aktivnog stanovništva (radne snage) u radno sposobnom stanovništvu prema dobnoj skupini i spolu"
+      "title": "Stopa aktivnosti prema dobnim skupinama i spolu"
     },
     {
       "path": "3-3-2/data.csv",
@@ -3911,7 +3911,7 @@
           }
         ]
       },
-      "title": "Stanovništvo koje živi u relativnom siromaštvu prema spolu"
+      "title": "Stopa zaposlenosti prema dobnim skupinama i spolu (kvartalno)"
     },
     {
       "path": "2-1-6/data.csv",
@@ -4482,7 +4482,7 @@
           }
         ]
       },
-      "title": "Omjer zaposlenosti i broja stanovnika - postotak zaposlenog stanovništva u radno sposobnom stanovništvu prema dobnoj skupini i spolu"
+      "title": "Stopa zaposlenosti prema dobnim skupinama i spolu"
     },
     {
       "path": "5-3-4/data.csv",
