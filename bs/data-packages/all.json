@@ -2430,7 +2430,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
           },
           {
@@ -2444,8 +2444,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "M",
-                "Ž",
+                "_M",
+                "_F",
                 ""
               ]
             },

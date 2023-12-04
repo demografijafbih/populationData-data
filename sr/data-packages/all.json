@@ -2430,7 +2430,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Година"
           },
           {
@@ -2444,8 +2444,8 @@
             "constraints": {
               "enum": [
                 "Оба пола",
-                "M",
-                "Ж",
+                "_M",
+                "_F",
                 ""
               ]
             },

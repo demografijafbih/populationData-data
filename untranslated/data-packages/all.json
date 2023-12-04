@@ -2249,7 +2249,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2261,8 +2261,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "M",
-                "F",
+                "_M",
+                "_F",
                 ""
               ]
             }
