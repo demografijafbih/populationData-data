@@ -2249,7 +2249,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2273,10 +2273,6 @@
             "constraints": {
               "enum": [
                 "15",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "15 - 64",
                 "15-24",
                 "25-49",
                 "50-64",
@@ -2287,7 +2283,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },

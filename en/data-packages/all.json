@@ -2435,13 +2435,9 @@
               "enum": [
                 "",
                 "15",
-                "15 - 24",
-                "15 - 64",
                 "15-24",
                 "15-64",
-                "25 - 49",
                 "25-49",
-                "50 - 64",
                 "50-64"
               ]
             },
@@ -2467,12 +2463,12 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
