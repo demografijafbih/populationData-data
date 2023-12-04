@@ -4136,7 +4136,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "_F",
+                "_M",
+                "Both sexes"
               ]
             },
             "title": "Sex"
@@ -4148,12 +4151,12 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

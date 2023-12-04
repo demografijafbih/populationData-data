@@ -4133,7 +4133,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Година"
           },
           {
@@ -4146,6 +4146,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Оба пола",
+                "_M",
+                "_F",
                 ""
               ]
             },
@@ -4153,7 +4156,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Вриједност"
           }
         ]
