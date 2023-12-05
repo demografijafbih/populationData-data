@@ -11,13 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "_F",
-                "_M",
+                "F",
+                "M",
                 "Both sexes"
               ]
             },
@@ -35,7 +35,7 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

@@ -396,8 +396,8 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
+                "_F",
+                "_M",
                 "Both sexes"
               ]
             },
@@ -415,7 +415,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
@@ -1582,14 +1582,11 @@
             "constraints": {
               "enum": [
                 "",
-                "15 - 24",
-                "15 - 64",
-                "15 - 74",
-                "15 - 89",
-                "20 - 64",
-                "25 - 34",
-                "25 - 49",
-                "50 - 64"
+                "15",
+                "15-24",
+                "15-64",
+                "25-49",
+                "50-64"
               ]
             },
             "title": "Age"
@@ -1600,8 +1597,8 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
+                "_F",
+                "_M",
                 "Both sexes"
               ]
             },
@@ -1619,7 +1616,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]
@@ -2449,8 +2446,8 @@
             "constraints": {
               "enum": [
                 "",
-                "_F",
-                "_M",
+                "F",
+                "M",
                 "Both sexes"
               ]
             },
@@ -4128,13 +4125,13 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "_F",
-                "_M",
+                "F",
+                "M",
                 "Both sexes"
               ]
             },
@@ -4152,7 +4149,7 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -4655,7 +4652,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]

@@ -12,20 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "_T",
-                "_M",
-                "_F",
+                "M",
+                "F",
                 ""
               ]
             }

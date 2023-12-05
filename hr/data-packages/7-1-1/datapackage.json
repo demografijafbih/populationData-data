@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "_M",
-                "_F",
+                "M",
+                "Ž",
                 ""
               ]
             },

@@ -392,7 +392,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Година"
           },
           {
@@ -419,8 +419,8 @@
             "constraints": {
               "enum": [
                 "Оба пола",
-                "M",
-                "Ж",
+                "_M",
+                "_F",
                 ""
               ]
             },
@@ -1578,7 +1578,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Година"
           },
           {
@@ -1592,8 +1592,8 @@
             "constraints": {
               "enum": [
                 "Оба пола",
-                "M",
-                "Ж",
+                "_M",
+                "_F",
                 ""
               ]
             },
@@ -1604,14 +1604,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15 - 89",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "15 - 64",
-                "20 - 64",
-                "25 - 34",
-                "15 - 74",
+                "15",
+                "15-24",
+                "25-49",
+                "50-64",
+                "15-64",
                 ""
               ]
             },
@@ -2444,8 +2441,8 @@
             "constraints": {
               "enum": [
                 "Оба пола",
-                "_M",
-                "_F",
+                "M",
+                "Ж",
                 ""
               ]
             },
@@ -4129,7 +4126,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Година"
           },
           {
@@ -4138,13 +4135,13 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "Оба пола",
-                "_M",
-                "_F",
+                "M",
+                "Ж",
                 ""
               ]
             },
@@ -4616,7 +4613,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Година"
           },
           {

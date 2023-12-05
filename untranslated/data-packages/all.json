@@ -363,7 +363,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "UNIT_MEASURE",
@@ -387,8 +387,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "M",
-                "F",
+                "_M",
+                "_F",
                 ""
               ]
             }
@@ -1462,7 +1462,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1474,8 +1474,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "M",
-                "F",
+                "_M",
+                "_F",
                 ""
               ]
             }
@@ -1485,14 +1485,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15 - 89",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "15 - 64",
-                "20 - 64",
-                "25 - 34",
-                "15 - 74",
+                "15",
+                "15-24",
+                "25-49",
+                "50-64",
+                "15-64",
                 ""
               ]
             }
@@ -2261,8 +2258,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "_M",
-                "_F",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -3800,20 +3797,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "_T",
-                "_M",
-                "_F",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -4247,7 +4244,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "UNIT_MEASURE",

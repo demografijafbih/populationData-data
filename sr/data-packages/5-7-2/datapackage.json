@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Година"
           },
           {
@@ -21,13 +21,13 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "Оба пола",
-                "_M",
-                "_F",
+                "M",
+                "Ж",
                 ""
               ]
             },
