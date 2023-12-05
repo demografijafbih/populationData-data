@@ -4633,8 +4633,8 @@
             "constraints": {
               "enum": [
                 "",
-                "_F",
-                "_M",
+                "F",
+                "M",
                 "Both sexes"
               ]
             },
@@ -4652,7 +4652,7 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
