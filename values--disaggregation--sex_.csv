@@ -1,8 +1,4 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_F,_F,_F,_F,_F,1,1
-_M,_M,_M,_M,_M,1,1
-_T,Both sexes,Oba spola,Оба пола,Oba spola,3828,35
-F ,F ,F ,F ,F ,88,1
-F,F,Ž,Ж,Ž,3886,41
-M,M,M,M,M,3974,42
-T,Total,Ukupno,Укупно,Ukupno,121,2
+_T,Both sexes,Oba spola,Оба пола,Oba spola,254,14
+F,F,Ž,Ж,Ž,252,12
+M,M,M,M,M,251,12
