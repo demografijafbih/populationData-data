@@ -117,3 +117,4 @@ definitions_4_1_2: "Institutions for children and adolescent provide temporary o
 definitions_6_1_1: "Gross domestic product by the production approach is equal to the value of all goods and services produced in the economy (gross output) minus the value of all goods and services consumed in the production process (intermediate consumption). Starting from the gross value added at basic prices, by adding all taxes on products and subtracting subsidies on products, GDP at market prices is calculated."
 definitions_6_1_2: "GDP per capita is the sum of gross value added by all resident producers in the economy plus any product taxes (less subsidies) not included in the valuation of output, divided by mid-year population."
 definitions_6_1_3: "The annual real growth rate of gross domestic product represents the percentage change in real GDP between two consecutive years."
+unit_of_measurement_currency: "Currency"
