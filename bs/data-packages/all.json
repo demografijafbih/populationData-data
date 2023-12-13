@@ -1885,7 +1885,7 @@
           }
         ]
       },
-      "title": "Bruto domaci proizvod (BDP) po stanovniku"
+      "title": "Bruto domaći proizvod (BDP) po stanovniku"
     },
     {
       "path": "5-5-3/data.csv",
@@ -2656,7 +2656,7 @@
           }
         ]
       },
-      "title": "Bruto domaci proizvod (BDP) – ukupni (u milionima)"
+      "title": "Bruto domaći proizvod (BDP) – ukupni (u milionima)"
     },
     {
       "path": "1-2-4/data.csv",
