@@ -22,8 +22,8 @@ Indicator,Disaggregations,Number of disaggregations
 #1-6-2,UNIT_MEASURE,1
 #1-6-3,"UNIT_MEASURE, Admin_Area",2
 #1-6-4,UNIT_MEASURE,1
-#1-7-1,"UNIT_MEASURE, SEX, AGE",3
-#1-7-2,"UNIT_MEASURE, SEX, AGE",3
+#1-7-1,"UNIT_MEASURE, AGE, SEX",3
+#1-7-2,"UNIT_MEASURE, AGE, SEX",3
 #1-7-3,"UNIT_MEASURE, Sex, TYPE_OF_DEPENDENCY_RATIO",3
 #1-7-4,"UNIT_MEASURE, Sex, BIRTH",3
 #1-7-5,UNIT_MEASURE,1
@@ -32,9 +32,9 @@ Indicator,Disaggregations,Number of disaggregations
 #1-7-8,"UNIT_MEASURE, PYRAMID_SEX, PYRAMID_AGE",3
 #1-8-1,"UNIT_MEASURE, AGE, Sex",3
 #1-8-2,"UNIT_MEASURE, AGE, Sex",3
-#1-8-3,"UNIT_MEASURE, Admin_Area, AGE, Sex",4
-#2-1-1,"UNIT_MEASURE, Admin_Area, AGE, Sex",4
-#2-1-2,"UNIT_MEASURE, SEX, AGE",3
+#1-8-3,"UNIT_MEASURE, AGE, Admin_Area, Sex",4
+#2-1-1,"UNIT_MEASURE, AGE, Admin_Area, Sex",4
+#2-1-2,"UNIT_MEASURE, AGE, SEX",3
 #2-1-3,"UNIT_MEASURE, AGE, Sex, ADMIN_AREA",4
 #2-1-4,"UNIT_MEASURE, PYRAMID_SEX, PYRAMID_AGE",3
 #2-1-5,"UNIT_MEASURE, Admin_Area, No_of_births",3
@@ -68,7 +68,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-6-2,UNIT_MEASURE,1
 #3-6-3,UNIT_MEASURE,1
 #3-6-4,UNIT_MEASURE,1
-#3-7-1,"UNIT_MEASURE, SEX, AGE",3
+#3-7-1,"UNIT_MEASURE, AGE, SEX",3
 #4-1-1,"UNIT_MEASURE, Admin_Area, SEX",3
 #4-1-2,"UNIT_MEASURE, SEX, type_of_institution",3
 #5-1-1,"UNIT_MEASURE, type_of_institution",2
