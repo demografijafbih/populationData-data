@@ -777,7 +777,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(H00-H93) Bolesti oka, uha i adneksa",
+                "(H00-H59) Bolesti oka",
                 "(O00-O99) Trudnoća, porođaj i postporođajni period",
                 "(A00-B99) Zarazne i parazitarne bolesti",
                 "(C00-C97,D00-D48) Neoplazme",
@@ -797,7 +797,7 @@
                 "Nepoznato",
                 "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
                 "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom",
-                "() Bolesti uha",
+                "(H60–H95) Bolesti uha i adneksa",
                 null,
                 ""
               ]
@@ -2455,7 +2455,7 @@
                 "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
                 "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
                 "(G00-G99) Bolesti nervnog sistema",
-                "(H00-H93) Bolesti oka, uha i adneksa",
+                "(H00-H59) Bolesti oka",
                 "(L00-L99) Bolesti kože i potkožnog tkiva",
                 "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
                 "(N00-N99) Bolesti genitalno-urinarnog sistema",
@@ -4715,7 +4715,7 @@
                 "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
                 "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
                 "(G00-G99) Bolesti nervnog sistema",
-                "(H00-H93) Bolesti oka, uha i adneksa",
+                "(H00-H59) Bolesti oka",
                 "(L00-L99) Bolesti kože i potkožnog tkiva",
                 "(N00-N99) Bolesti genitalno-urinarnog sistema",
                 "(P00-P96) Određena stanja nastala u perinatalnom periodu",
