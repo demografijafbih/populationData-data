@@ -44,7 +44,7 @@
                 ""
               ]
             },
-            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "UNIT_MEASURE",
