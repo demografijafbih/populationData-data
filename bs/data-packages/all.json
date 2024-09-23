@@ -797,8 +797,8 @@
                 "Nepoznato",
                 "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
                 "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom",
-                "diseases_of_the_ear",
-                "special_purpose_codes",
+                "() Bolesti uha",
+                null,
                 ""
               ]
             },
