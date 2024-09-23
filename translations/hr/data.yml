@@ -63,7 +63,7 @@ advanced_schools_faculty_academy_university: Napredne škole /fakultet /akademij
 unknown: Nepoznato
 total_illiterate: Ukupno nepismeni
 of_total_for_age_group: "% od ukupno za dobnu skupinu"
-CAUSE_OF_DEATH: Uzrok smrti (prema šiframa bolesti po MKB-10)
+Cause_of_death: Uzrok smrti
 infectious_and_parasitic: "(A00-B99) Zarazne i parazitarne bolesti"
 neoplasms: "(C00-C97,D00-D48) Neoplazme"
 diseases_of_the_blood: "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava"
