@@ -21,6 +21,19 @@
             "title": "Mjerna jedinica"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba spola",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {
@@ -50,19 +63,6 @@
               ]
             },
             "title": "Starosna dob"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
           },
           {
             "name": "Cause_of_death",
