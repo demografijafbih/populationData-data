@@ -802,7 +802,7 @@
                 ""
               ]
             },
-            "title": "Cause_of_death"
+            "title": "Узрок смрти"
           },
           {
             "name": "Value",
@@ -2468,7 +2468,7 @@
                 ""
               ]
             },
-            "title": "Узрок смрти (према шифрама болести по МКБ-10)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4728,7 +4728,7 @@
                 ""
               ]
             },
-            "title": "Узрок смрти (према шифрама болести по МКБ-10)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "UNIT_MEASURE",

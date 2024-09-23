@@ -58,7 +58,7 @@
                 ""
               ]
             },
-            "title": "Узрок смрти (према шифрама болести по МКБ-10)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "UNIT_MEASURE",
