@@ -802,7 +802,7 @@
                 ""
               ]
             },
-            "title": "Cause_of_death"
+            "title": "Uzrok smrti"
           },
           {
             "name": "Value",
@@ -2468,7 +2468,7 @@
                 ""
               ]
             },
-            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4728,7 +4728,7 @@
                 ""
               ]
             },
-            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "UNIT_MEASURE",

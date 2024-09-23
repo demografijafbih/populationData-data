@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Starosna dob,Spol,Cause_of_death,Value
+Year,UNIT_MEASURE,Starosna dob,Spol,Uzrok smrti,Value
 2008,Broj,Ukupno,Oba spola,"(H00-H93) Bolesti oka, uha i adneksa",1
 2008,Broj,Ukupno,Oba spola,"(O00-O99) Trudnoća, porođaj i postporođajni period",3
 2008,Broj,Ukupno,Oba spola,(A00-B99) Zarazne i parazitarne bolesti,154

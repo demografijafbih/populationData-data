@@ -1,4 +1,4 @@
-Year,Uzrok smrti (prema šiframa bolesti po MKB-10),UNIT_MEASURE,Value
+Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 1999,"(C00-C97,D00-D48) Neoplazme",Broj,123.0
 1999,(I00-I99) Bolesti cirkulacijskog sistema,Broj,427.0
 1999,(J00-J99) Bolesti respiratornog sistema,Broj,23.25
