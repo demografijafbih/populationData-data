@@ -85,7 +85,6 @@ symptoms_signs_and_abnormal: "(R00-R99) Simptomi, znakovi i abnormalni klinički
 injuries_poisoning_and_consequences: "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom"
 external_causes_of_mortality: "(V01-Y98) Vanjski uzroci smrtnosti"
 factors_influencing_health_status: "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom"
-special_purpose_codes: 
 total: Ukupno
 EDUCATION: Nivo obrazovanja
 women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever): Žene koje su doživjele bilo koji oblik nasilja u dobi od 15 godina (bilo kada)
