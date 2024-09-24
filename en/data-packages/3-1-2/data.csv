@@ -1,4 +1,4 @@
-Year,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
+Year,CAUSE_OF_DEATH,UNIT_MEASURE,Value
 1999,"(C00-C97,D00-D48) Neoplasms",Number,123.0
 1999,(I00-I99) Diseases of the circulatory system,Number,427.0
 1999,(J00-J99) Diseases of the respiratory system,Number,23.25

@@ -779,7 +779,7 @@
                 "Unknown"
               ]
             },
-            "title": "Cause_of_death"
+            "title": "Cause of death"
           },
           {
             "name": "Sex",
@@ -2450,7 +2450,7 @@
                 "Unknown"
               ]
             },
-            "title": "Cause of death (as per ICD-10 codes)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "SEX",
@@ -4723,7 +4723,7 @@
                 "Unknown"
               ]
             },
-            "title": "Cause of death (as per ICD-10 codes)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "UNIT_MEASURE",
