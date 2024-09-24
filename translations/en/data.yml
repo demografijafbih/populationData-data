@@ -60,7 +60,7 @@ advanced_schools_faculty_academy_university: Advanced schools / faculty / academ
 unknown: Unknown
 total_illiterate: Total illiterate
 of_total_for_age_group: '% of total for age group'
-CAUSE_OF_DEATH: Cause of death (as per ICD-10 codes)
+Cause_of_death: Cause of death
 infectious_and_parasitic: "(A00-B99) Infectious and parasitic diseases"
 neoplasms: "(C00-C97,D00-D48) Neoplasms"
 diseases_of_the_blood: "(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism"
