@@ -13726,7 +13726,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,Ukupno,(P00-P96) Određena stanja nastala u perinatalnom periodu,78
 2020,Broj,Oba spola,Ukupno,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",28
 2020,Broj,Oba spola,Ukupno,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",1194
-2020,Broj,Oba spola,Ukupno,,2690
+2020,Broj,Oba spola,Ukupno,(U00-U99) Šifre za posebne namjene,2690
 2020,Broj,Oba spola,Ukupno,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,11
 2020,Broj,Oba spola,Ukupno,Nepoznato,565
 2020,Broj,Oba spola,Ukupno,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",443
@@ -13746,7 +13746,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,Ukupno,(P00-P96) Određena stanja nastala u perinatalnom periodu,45
 2020,Broj,M,Ukupno,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",19
 2020,Broj,M,Ukupno,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",611
-2020,Broj,M,Ukupno,,1711
+2020,Broj,M,Ukupno,(U00-U99) Šifre za posebne namjene,1711
 2020,Broj,M,Ukupno,Nepoznato,300
 2020,Broj,M,Ukupno,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,7
 2020,Broj,M,Ukupno,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,6
@@ -13770,7 +13770,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,Ukupno,(P00-P96) Određena stanja nastala u perinatalnom periodu,33
 2020,Broj,Ž,Ukupno,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",583
 2020,Broj,Ž,Ukupno,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",106
-2020,Broj,Ž,Ukupno,,979
+2020,Broj,Ž,Ukupno,(U00-U99) Šifre za posebne namjene,979
 2020,Broj,Ž,Ukupno,Nepoznato,265
 2020,Broj,Oba spola,0,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2020,Broj,Oba spola,0,(H00-H59) Bolesti oka,0
@@ -13782,7 +13782,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,0,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",0
 2020,Broj,Oba spola,0,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2020,Broj,Oba spola,0,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2020,Broj,Oba spola,0,,0
+2020,Broj,Oba spola,0,(U00-U99) Šifre za posebne namjene,0
 2020,Broj,Oba spola,0,"(C00-C97,D00-D48) Neoplazme",1
 2020,Broj,Oba spola,0,(G00-G99) Bolesti nervnog sistema,1
 2020,Broj,Oba spola,0,(K00-K93) Bolesti digestivnog sistema,1
@@ -13797,7 +13797,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,0,(G00-G99) Bolesti nervnog sistema,0
 2020,Broj,M,0,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2020,Broj,M,0,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2020,Broj,M,0,,0
+2020,Broj,M,0,(U00-U99) Šifre za posebne namjene,0
 2020,Broj,M,0,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2020,Broj,M,0,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2020,Broj,M,0,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -13825,7 +13825,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,0,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2020,Broj,Ž,0,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2020,Broj,Ž,0,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2020,Broj,Ž,0,,0
+2020,Broj,Ž,0,(U00-U99) Šifre za posebne namjene,0
 2020,Broj,Ž,0,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2020,Broj,Ž,0,(G00-G99) Bolesti nervnog sistema,1
 2020,Broj,Ž,0,(I00-I99) Bolesti cirkulacijskog sistema,1
@@ -13846,7 +13846,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola, 1-4,(K00-K93) Bolesti digestivnog sistema,0
 2020,Broj,Oba spola, 1-4,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2020,Broj,Oba spola, 1-4,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2020,Broj,Oba spola, 1-4,,0
+2020,Broj,Oba spola, 1-4,(U00-U99) Šifre za posebne namjene,0
 2020,Broj,Oba spola, 1-4,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",1
 2020,Broj,Oba spola, 1-4,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",1
 2020,Broj,Oba spola, 1-4,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",1
@@ -13861,7 +13861,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M, 1-4,(K00-K93) Bolesti digestivnog sistema,0
 2020,Broj,M, 1-4,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2020,Broj,M, 1-4,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2020,Broj,M, 1-4,,0
+2020,Broj,M, 1-4,(U00-U99) Šifre za posebne namjene,0
 2020,Broj,M, 1-4,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2020,Broj,M, 1-4,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2020,Broj,M, 1-4,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -13891,7 +13891,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž, 1-4,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2020,Broj,Ž, 1-4,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",0
 2020,Broj,Ž, 1-4,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2020,Broj,Ž, 1-4,,0
+2020,Broj,Ž, 1-4,(U00-U99) Šifre za posebne namjene,0
 2020,Broj,Ž, 1-4,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2020,Broj,Ž, 1-4,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",1
 2020,Broj,Ž, 1-4,(I00-I99) Bolesti cirkulacijskog sistema,1
@@ -13912,7 +13912,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola, 5-9,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2020,Broj,Oba spola, 5-9,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2020,Broj,Oba spola, 5-9,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",0
-2020,Broj,Oba spola, 5-9,,0
+2020,Broj,Oba spola, 5-9,(U00-U99) Šifre za posebne namjene,0
 2020,Broj,Oba spola, 5-9,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2020,Broj,Oba spola, 5-9,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",1
 2020,Broj,Oba spola, 5-9,Nepoznato,2
@@ -13926,7 +13926,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M, 5-9,(K00-K93) Bolesti digestivnog sistema,0
 2020,Broj,M, 5-9,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2020,Broj,M, 5-9,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",0
-2020,Broj,M, 5-9,,0
+2020,Broj,M, 5-9,(U00-U99) Šifre za posebne namjene,0
 2020,Broj,M, 5-9,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2020,Broj,M, 5-9,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2020,Broj,M, 5-9,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -13955,7 +13955,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž, 5-9,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2020,Broj,Ž, 5-9,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2020,Broj,Ž, 5-9,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",0
-2020,Broj,Ž, 5-9,,0
+2020,Broj,Ž, 5-9,(U00-U99) Šifre za posebne namjene,0
 2020,Broj,Ž, 5-9,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2020,Broj,Ž, 5-9,Nepoznato,1
 2020,Broj,Ž, 5-9,(G00-G99) Bolesti nervnog sistema,2
@@ -13972,7 +13972,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola, 10-14,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2020,Broj,Oba spola, 10-14,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2020,Broj,Oba spola, 10-14,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
-2020,Broj,Oba spola, 10-14,,0
+2020,Broj,Oba spola, 10-14,(U00-U99) Šifre za posebne namjene,0
 2020,Broj,Oba spola, 10-14,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2020,Broj,Oba spola, 10-14,Nepoznato,0
 2020,Broj,Oba spola, 10-14,(J00-J99) Bolesti respiratornog sistema,1
@@ -13987,7 +13987,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M, 10-14,(G00-G99) Bolesti nervnog sistema,0
 2020,Broj,M, 10-14,(K00-K93) Bolesti digestivnog sistema,0
 2020,Broj,M, 10-14,(N00-N99) Bolesti genitalno-urinarnog sistema,0
-2020,Broj,M, 10-14,,0
+2020,Broj,M, 10-14,(U00-U99) Šifre za posebne namjene,0
 2020,Broj,M, 10-14,Nepoznato,0
 2020,Broj,M, 10-14,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2020,Broj,M, 10-14,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
@@ -14015,7 +14015,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž, 10-14,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2020,Broj,Ž, 10-14,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2020,Broj,Ž, 10-14,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
-2020,Broj,Ž, 10-14,,0
+2020,Broj,Ž, 10-14,(U00-U99) Šifre za posebne namjene,0
 2020,Broj,Ž, 10-14,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2020,Broj,Ž, 10-14,Nepoznato,0
 2020,Broj,Ž, 10-14,(I00-I99) Bolesti cirkulacijskog sistema,1
@@ -14041,7 +14041,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,15-19,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",1
 2020,Broj,Oba spola,15-19,(A00-B99) Zarazne i parazitarne bolesti,2
 2020,Broj,Oba spola,15-19,(I00-I99) Bolesti cirkulacijskog sistema,2
-2020,Broj,Oba spola,15-19,,2
+2020,Broj,Oba spola,15-19,(U00-U99) Šifre za posebne namjene,2
 2020,Broj,Oba spola,15-19,(J00-J99) Bolesti respiratornog sistema,4
 2020,Broj,Oba spola,15-19,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",10
 2020,Broj,Oba spola,15-19,(G00-G99) Bolesti nervnog sistema,6
@@ -14061,7 +14061,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,15-19,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2020,Broj,M,15-19,(N00-N99) Bolesti genitalno-urinarnog sistema,1
 2020,Broj,M,15-19,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",1
-2020,Broj,M,15-19,,1
+2020,Broj,M,15-19,(U00-U99) Šifre za posebne namjene,1
 2020,Broj,M,15-19,(I00-I99) Bolesti cirkulacijskog sistema,2
 2020,Broj,M,15-19,(G00-G99) Bolesti nervnog sistema,3
 2020,Broj,M,15-19,(J00-J99) Bolesti respiratornog sistema,4
@@ -14083,7 +14083,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,15-19,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",0
 2020,Broj,Ž,15-19,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2020,Broj,Ž,15-19,Nepoznato,0
-2020,Broj,Ž,15-19,,1
+2020,Broj,Ž,15-19,(U00-U99) Šifre za posebne namjene,1
 2020,Broj,Ž,15-19,(A00-B99) Zarazne i parazitarne bolesti,2
 2020,Broj,Ž,15-19,(G00-G99) Bolesti nervnog sistema,3
 2020,Broj,Ž,15-19,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",4
@@ -14104,7 +14104,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,20-24,(G00-G99) Bolesti nervnog sistema,3
 2020,Broj,Oba spola,20-24,(J00-J99) Bolesti respiratornog sistema,3
 2020,Broj,Oba spola,20-24,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",3
-2020,Broj,Oba spola,20-24,,4
+2020,Broj,Oba spola,20-24,(U00-U99) Šifre za posebne namjene,4
 2020,Broj,Oba spola,20-24,(I00-I99) Bolesti cirkulacijskog sistema,10
 2020,Broj,Oba spola,20-24,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",25
 2020,Broj,Oba spola,20-24,"(C00-C97,D00-D48) Neoplazme",7
@@ -14121,7 +14121,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,20-24,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2020,Broj,M,20-24,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2020,Broj,M,20-24,(K00-K93) Bolesti digestivnog sistema,1
-2020,Broj,M,20-24,,1
+2020,Broj,M,20-24,(U00-U99) Šifre za posebne namjene,1
 2020,Broj,M,20-24,Nepoznato,1
 2020,Broj,M,20-24,(G00-G99) Bolesti nervnog sistema,2
 2020,Broj,M,20-24,(J00-J99) Bolesti respiratornog sistema,2
@@ -14148,7 +14148,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,20-24,Nepoznato,1
 2020,Broj,Ž,20-24,"(C00-C97,D00-D48) Neoplazme",2
 2020,Broj,Ž,20-24,(I00-I99) Bolesti cirkulacijskog sistema,3
-2020,Broj,Ž,20-24,,3
+2020,Broj,Ž,20-24,(U00-U99) Šifre za posebne namjene,3
 2020,Broj,Ž,20-24,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",4
 2020,Broj,Oba spola,25-29,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2020,Broj,Oba spola,25-29,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -14170,7 +14170,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,25-29,(I00-I99) Bolesti cirkulacijskog sistema,12
 2020,Broj,Oba spola,25-29,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",26
 2020,Broj,Oba spola,25-29,(J00-J99) Bolesti respiratornog sistema,6
-2020,Broj,Oba spola,25-29,,5
+2020,Broj,Oba spola,25-29,(U00-U99) Šifre za posebne namjene,5
 2020,Broj,M,25-29,(A00-B99) Zarazne i parazitarne bolesti,0
 2020,Broj,M,25-29,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",0
 2020,Broj,M,25-29,(G00-G99) Bolesti nervnog sistema,0
@@ -14185,7 +14185,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,25-29,(K00-K93) Bolesti digestivnog sistema,1
 2020,Broj,M,25-29,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",1
 2020,Broj,M,25-29,(N00-N99) Bolesti genitalno-urinarnog sistema,2
-2020,Broj,M,25-29,,3
+2020,Broj,M,25-29,(U00-U99) Šifre za posebne namjene,3
 2020,Broj,M,25-29,Nepoznato,3
 2020,Broj,M,25-29,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",22
 2020,Broj,M,25-29,(I00-I99) Bolesti cirkulacijskog sistema,9
@@ -14209,7 +14209,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,25-29,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",1
 2020,Broj,Ž,25-29,Nepoznato,1
 2020,Broj,Ž,25-29,(K00-K93) Bolesti digestivnog sistema,2
-2020,Broj,Ž,25-29,,2
+2020,Broj,Ž,25-29,(U00-U99) Šifre za posebne namjene,2
 2020,Broj,Ž,25-29,(I00-I99) Bolesti cirkulacijskog sistema,3
 2020,Broj,Ž,25-29,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",4
 2020,Broj,Ž,25-29,"(C00-C97,D00-D48) Neoplazme",7
@@ -14233,7 +14233,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,30-34,"(C00-C97,D00-D48) Neoplazme",17
 2020,Broj,Oba spola,30-34,(I00-I99) Bolesti cirkulacijskog sistema,14
 2020,Broj,Oba spola,30-34,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",17
-2020,Broj,Oba spola,30-34,,5
+2020,Broj,Oba spola,30-34,(U00-U99) Šifre za posebne namjene,5
 2020,Broj,M,30-34,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2020,Broj,M,30-34,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2020,Broj,M,30-34,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -14250,7 +14250,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,30-34,Nepoznato,2
 2020,Broj,M,30-34,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",3
 2020,Broj,M,30-34,(J00-J99) Bolesti respiratornog sistema,3
-2020,Broj,M,30-34,,3
+2020,Broj,M,30-34,(U00-U99) Šifre za posebne namjene,3
 2020,Broj,M,30-34,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",16
 2020,Broj,M,30-34,(I00-I99) Bolesti cirkulacijskog sistema,9
 2020,Broj,M,30-34,"(C00-C97,D00-D48) Neoplazme",8
@@ -14273,7 +14273,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,30-34,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",1
 2020,Broj,Ž,30-34,Nepoznato,1
 2020,Broj,Ž,30-34,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",2
-2020,Broj,Ž,30-34,,2
+2020,Broj,Ž,30-34,(U00-U99) Šifre za posebne namjene,2
 2020,Broj,Ž,30-34,(I00-I99) Bolesti cirkulacijskog sistema,5
 2020,Broj,Ž,30-34,"(C00-C97,D00-D48) Neoplazme",9
 2020,Broj,Oba spola,35-39,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -14291,7 +14291,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,35-39,Nepoznato,2
 2020,Broj,Oba spola,35-39,(J00-J99) Bolesti respiratornog sistema,4
 2020,Broj,Oba spola,35-39,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",10
-2020,Broj,Oba spola,35-39,,20
+2020,Broj,Oba spola,35-39,(U00-U99) Šifre za posebne namjene,20
 2020,Broj,Oba spola,35-39,"(C00-C97,D00-D48) Neoplazme",32
 2020,Broj,Oba spola,35-39,(I00-I99) Bolesti cirkulacijskog sistema,31
 2020,Broj,Oba spola,35-39,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",18
@@ -14315,7 +14315,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,35-39,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",14
 2020,Broj,M,35-39,(I00-I99) Bolesti cirkulacijskog sistema,22
 2020,Broj,M,35-39,"(C00-C97,D00-D48) Neoplazme",11
-2020,Broj,M,35-39,,14
+2020,Broj,M,35-39,(U00-U99) Šifre za posebne namjene,14
 2020,Broj,M,35-39,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",8
 2020,Broj,M,35-39,(K00-K93) Bolesti digestivnog sistema,6
 2020,Broj,Ž,35-39,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -14336,7 +14336,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,35-39,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",2
 2020,Broj,Ž,35-39,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",4
 2020,Broj,Ž,35-39,(G00-G99) Bolesti nervnog sistema,5
-2020,Broj,Ž,35-39,,6
+2020,Broj,Ž,35-39,(U00-U99) Šifre za posebne namjene,6
 2020,Broj,Ž,35-39,(I00-I99) Bolesti cirkulacijskog sistema,9
 2020,Broj,Ž,35-39,"(C00-C97,D00-D48) Neoplazme",21
 2020,Broj,Oba spola,40-44,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -14352,7 +14352,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,40-44,(N00-N99) Bolesti genitalno-urinarnog sistema,4
 2020,Broj,Oba spola,40-44,(J00-J99) Bolesti respiratornog sistema,10
 2020,Broj,Oba spola,40-44,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",10
-2020,Broj,Oba spola,40-44,,23
+2020,Broj,Oba spola,40-44,(U00-U99) Šifre za posebne namjene,23
 2020,Broj,Oba spola,40-44,"(C00-C97,D00-D48) Neoplazme",49
 2020,Broj,Oba spola,40-44,(I00-I99) Bolesti cirkulacijskog sistema,56
 2020,Broj,Oba spola,40-44,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",27
@@ -14377,7 +14377,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,40-44,(I00-I99) Bolesti cirkulacijskog sistema,43
 2020,Broj,M,40-44,"(C00-C97,D00-D48) Neoplazme",24
 2020,Broj,M,40-44,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",9
-2020,Broj,M,40-44,,21
+2020,Broj,M,40-44,(U00-U99) Šifre za posebne namjene,21
 2020,Broj,M,40-44,(J00-J99) Bolesti respiratornog sistema,5
 2020,Broj,M,40-44,(K00-K93) Bolesti digestivnog sistema,5
 2020,Broj,M,40-44,Nepoznato,5
@@ -14398,7 +14398,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,40-44,Nepoznato,1
 2020,Broj,Ž,40-44,(A00-B99) Zarazne i parazitarne bolesti,2
 2020,Broj,Ž,40-44,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",2
-2020,Broj,Ž,40-44,,2
+2020,Broj,Ž,40-44,(U00-U99) Šifre za posebne namjene,2
 2020,Broj,Ž,40-44,(J00-J99) Bolesti respiratornog sistema,5
 2020,Broj,Ž,40-44,(I00-I99) Bolesti cirkulacijskog sistema,13
 2020,Broj,Ž,40-44,"(C00-C97,D00-D48) Neoplazme",25
@@ -14412,7 +14412,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,45-49,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2020,Broj,Oba spola,45-49,(F00-F99) Duševni poremećaji i poremećaji ponašanja,2
 2020,Broj,Oba spola,45-49,(G00-G99) Bolesti nervnog sistema,10
-2020,Broj,Oba spola,45-49,,52
+2020,Broj,Oba spola,45-49,(U00-U99) Šifre za posebne namjene,52
 2020,Broj,Oba spola,45-49,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",11
 2020,Broj,Oba spola,45-49,(J00-J99) Bolesti respiratornog sistema,17
 2020,Broj,Oba spola,45-49,Nepoznato,12
@@ -14440,7 +14440,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,45-49,(K00-K93) Bolesti digestivnog sistema,12
 2020,Broj,M,45-49,(J00-J99) Bolesti respiratornog sistema,11
 2020,Broj,M,45-49,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",9
-2020,Broj,M,45-49,,41
+2020,Broj,M,45-49,(U00-U99) Šifre za posebne namjene,41
 2020,Broj,M,45-49,(G00-G99) Bolesti nervnog sistema,8
 2020,Broj,M,45-49,Nepoznato,8
 2020,Broj,M,45-49,(A00-B99) Zarazne i parazitarne bolesti,6
@@ -14463,7 +14463,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,45-49,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",9
 2020,Broj,Ž,45-49,(I00-I99) Bolesti cirkulacijskog sistema,33
 2020,Broj,Ž,45-49,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",8
-2020,Broj,Ž,45-49,,11
+2020,Broj,Ž,45-49,(U00-U99) Šifre za posebne namjene,11
 2020,Broj,Ž,45-49,"(C00-C97,D00-D48) Neoplazme",65
 2020,Broj,Oba spola,50-54,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2020,Broj,Oba spola,50-54,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -14473,7 +14473,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,50-54,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,1
 2020,Broj,Oba spola,50-54,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",1
 2020,Broj,Oba spola,50-54,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",2
-2020,Broj,Oba spola,50-54,,94
+2020,Broj,Oba spola,50-54,(U00-U99) Šifre za posebne namjene,94
 2020,Broj,Oba spola,50-54,(G00-G99) Bolesti nervnog sistema,12
 2020,Broj,Oba spola,50-54,(N00-N99) Bolesti genitalno-urinarnog sistema,17
 2020,Broj,Oba spola,50-54,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",20
@@ -14504,7 +14504,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,50-54,(J00-J99) Bolesti respiratornog sistema,17
 2020,Broj,M,50-54,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",15
 2020,Broj,M,50-54,(N00-N99) Bolesti genitalno-urinarnog sistema,10
-2020,Broj,M,50-54,,70
+2020,Broj,M,50-54,(U00-U99) Šifre za posebne namjene,70
 2020,Broj,M,50-54,(A00-B99) Zarazne i parazitarne bolesti,5
 2020,Broj,M,50-54,(F00-F99) Duševni poremećaji i poremećaji ponašanja,5
 2020,Broj,Ž,50-54,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -14526,7 +14526,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,50-54,(J00-J99) Bolesti respiratornog sistema,8
 2020,Broj,Ž,50-54,(K00-K93) Bolesti digestivnog sistema,12
 2020,Broj,Ž,50-54,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",12
-2020,Broj,Ž,50-54,,24
+2020,Broj,Ž,50-54,(U00-U99) Šifre za posebne namjene,24
 2020,Broj,Ž,50-54,"(C00-C97,D00-D48) Neoplazme",128
 2020,Broj,Oba spola,55-59,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2020,Broj,Oba spola,55-59,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -14537,7 +14537,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,55-59,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,2
 2020,Broj,Oba spola,55-59,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",3
 2020,Broj,Oba spola,55-59,(F00-F99) Duševni poremećaji i poremećaji ponašanja,8
-2020,Broj,Oba spola,55-59,,177
+2020,Broj,Oba spola,55-59,(U00-U99) Šifre za posebne namjene,177
 2020,Broj,Oba spola,55-59,(G00-G99) Bolesti nervnog sistema,24
 2020,Broj,Oba spola,55-59,(A00-B99) Zarazne i parazitarne bolesti,13
 2020,Broj,Oba spola,55-59,(N00-N99) Bolesti genitalno-urinarnog sistema,26
@@ -14568,7 +14568,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,55-59,(N00-N99) Bolesti genitalno-urinarnog sistema,18
 2020,Broj,M,55-59,(A00-B99) Zarazne i parazitarne bolesti,9
 2020,Broj,M,55-59,(G00-G99) Bolesti nervnog sistema,10
-2020,Broj,M,55-59,,132
+2020,Broj,M,55-59,(U00-U99) Šifre za posebne namjene,132
 2020,Broj,M,55-59,(F00-F99) Duševni poremećaji i poremećaji ponašanja,6
 2020,Broj,Ž,55-59,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2020,Broj,Ž,55-59,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -14589,7 +14589,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,55-59,(K00-K93) Bolesti digestivnog sistema,11
 2020,Broj,Ž,55-59,(N00-N99) Bolesti genitalno-urinarnog sistema,8
 2020,Broj,Ž,55-59,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",21
-2020,Broj,Ž,55-59,,45
+2020,Broj,Ž,55-59,(U00-U99) Šifre za posebne namjene,45
 2020,Broj,Ž,55-59,"(C00-C97,D00-D48) Neoplazme",210
 2020,Broj,Oba spola,60-64,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2020,Broj,Oba spola,60-64,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",0
@@ -14599,7 +14599,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,60-64,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,1
 2020,Broj,Oba spola,60-64,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,2
 2020,Broj,Oba spola,60-64,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",3
-2020,Broj,Oba spola,60-64,,261
+2020,Broj,Oba spola,60-64,(U00-U99) Šifre za posebne namjene,261
 2020,Broj,Oba spola,60-64,(G00-G99) Bolesti nervnog sistema,19
 2020,Broj,Oba spola,60-64,(A00-B99) Zarazne i parazitarne bolesti,20
 2020,Broj,Oba spola,60-64,(N00-N99) Bolesti genitalno-urinarnog sistema,19
@@ -14630,7 +14630,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,60-64,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",44
 2020,Broj,M,60-64,(A00-B99) Zarazne i parazitarne bolesti,16
 2020,Broj,M,60-64,(G00-G99) Bolesti nervnog sistema,9
-2020,Broj,M,60-64,,190
+2020,Broj,M,60-64,(U00-U99) Šifre za posebne namjene,190
 2020,Broj,M,60-64,(N00-N99) Bolesti genitalno-urinarnog sistema,6
 2020,Broj,M,60-64,(F00-F99) Duševni poremećaji i poremećaji ponašanja,5
 2020,Broj,Ž,60-64,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -14651,7 +14651,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,60-64,(N00-N99) Bolesti genitalno-urinarnog sistema,13
 2020,Broj,Ž,60-64,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",33
 2020,Broj,Ž,60-64,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",8
-2020,Broj,Ž,60-64,,71
+2020,Broj,Ž,60-64,(U00-U99) Šifre za posebne namjene,71
 2020,Broj,Ž,60-64,Nepoznato,16
 2020,Broj,Ž,60-64,"(C00-C97,D00-D48) Neoplazme",260
 2020,Broj,Oba spola,65-69,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -14662,7 +14662,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,65-69,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",1
 2020,Broj,Oba spola,65-69,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,3
 2020,Broj,Oba spola,65-69,(F00-F99) Duševni poremećaji i poremećaji ponašanja,20
-2020,Broj,Oba spola,65-69,,415
+2020,Broj,Oba spola,65-69,(U00-U99) Šifre za posebne namjene,415
 2020,Broj,Oba spola,65-69,(G00-G99) Bolesti nervnog sistema,23
 2020,Broj,Oba spola,65-69,(A00-B99) Zarazne i parazitarne bolesti,33
 2020,Broj,Oba spola,65-69,(N00-N99) Bolesti genitalno-urinarnog sistema,37
@@ -14693,7 +14693,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,65-69,(N00-N99) Bolesti genitalno-urinarnog sistema,23
 2020,Broj,M,65-69,(A00-B99) Zarazne i parazitarne bolesti,19
 2020,Broj,M,65-69,(G00-G99) Bolesti nervnog sistema,10
-2020,Broj,M,65-69,,280
+2020,Broj,M,65-69,(U00-U99) Šifre za posebne namjene,280
 2020,Broj,M,65-69,(F00-F99) Duševni poremećaji i poremećaji ponašanja,8
 2020,Broj,M,65-69,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",5
 2020,Broj,Ž,65-69,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -14714,7 +14714,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,65-69,(N00-N99) Bolesti genitalno-urinarnog sistema,14
 2020,Broj,Ž,65-69,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",31
 2020,Broj,Ž,65-69,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",13
-2020,Broj,Ž,65-69,,135
+2020,Broj,Ž,65-69,(U00-U99) Šifre za posebne namjene,135
 2020,Broj,Ž,65-69,Nepoznato,27
 2020,Broj,Ž,65-69,"(C00-C97,D00-D48) Neoplazme",297
 2020,Broj,Oba spola,70-74,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -14726,7 +14726,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,70-74,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,4
 2020,Broj,Oba spola,70-74,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",11
 2020,Broj,Oba spola,70-74,(F00-F99) Duševni poremećaji i poremećaji ponašanja,13
-2020,Broj,Oba spola,70-74,,470
+2020,Broj,Oba spola,70-74,(U00-U99) Šifre za posebne namjene,470
 2020,Broj,Oba spola,70-74,(G00-G99) Bolesti nervnog sistema,29
 2020,Broj,Oba spola,70-74,(A00-B99) Zarazne i parazitarne bolesti,32
 2020,Broj,Oba spola,70-74,(N00-N99) Bolesti genitalno-urinarnog sistema,54
@@ -14756,7 +14756,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,70-74,(N00-N99) Bolesti genitalno-urinarnog sistema,26
 2020,Broj,M,70-74,(A00-B99) Zarazne i parazitarne bolesti,15
 2020,Broj,M,70-74,(G00-G99) Bolesti nervnog sistema,18
-2020,Broj,M,70-74,,297
+2020,Broj,M,70-74,(U00-U99) Šifre za posebne namjene,297
 2020,Broj,M,70-74,(F00-F99) Duševni poremećaji i poremećaji ponašanja,7
 2020,Broj,M,70-74,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",5
 2020,Broj,Ž,70-74,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -14777,7 +14777,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,70-74,(N00-N99) Bolesti genitalno-urinarnog sistema,28
 2020,Broj,Ž,70-74,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",48
 2020,Broj,Ž,70-74,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",8
-2020,Broj,Ž,70-74,,173
+2020,Broj,Ž,70-74,(U00-U99) Šifre za posebne namjene,173
 2020,Broj,Ž,70-74,Nepoznato,27
 2020,Broj,Ž,70-74,"(C00-C97,D00-D48) Neoplazme",333
 2020,Broj,Oba spola,75-79,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -14789,7 +14789,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,75-79,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",10
 2020,Broj,Oba spola,75-79,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,8
 2020,Broj,Oba spola,75-79,(F00-F99) Duševni poremećaji i poremećaji ponašanja,11
-2020,Broj,Oba spola,75-79,,412
+2020,Broj,Oba spola,75-79,(U00-U99) Šifre za posebne namjene,412
 2020,Broj,Oba spola,75-79,(G00-G99) Bolesti nervnog sistema,33
 2020,Broj,Oba spola,75-79,(A00-B99) Zarazne i parazitarne bolesti,32
 2020,Broj,Oba spola,75-79,(N00-N99) Bolesti genitalno-urinarnog sistema,70
@@ -14821,7 +14821,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,75-79,(N00-N99) Bolesti genitalno-urinarnog sistema,34
 2020,Broj,M,75-79,(A00-B99) Zarazne i parazitarne bolesti,9
 2020,Broj,M,75-79,(G00-G99) Bolesti nervnog sistema,16
-2020,Broj,M,75-79,,239
+2020,Broj,M,75-79,(U00-U99) Šifre za posebne namjene,239
 2020,Broj,Ž,75-79,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2020,Broj,Ž,75-79,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",0
 2020,Broj,Ž,75-79,(H00-H59) Bolesti oka,0
@@ -14840,7 +14840,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,75-79,(N00-N99) Bolesti genitalno-urinarnog sistema,36
 2020,Broj,Ž,75-79,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",78
 2020,Broj,Ž,75-79,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",14
-2020,Broj,Ž,75-79,,173
+2020,Broj,Ž,75-79,(U00-U99) Šifre za posebne namjene,173
 2020,Broj,Ž,75-79,Nepoznato,31
 2020,Broj,Ž,75-79,"(C00-C97,D00-D48) Neoplazme",297
 2020,Broj,Oba spola,80-84,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -14852,7 +14852,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,80-84,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,3
 2020,Broj,Oba spola,80-84,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",12
 2020,Broj,Oba spola,80-84,(F00-F99) Duševni poremećaji i poremećaji ponašanja,43
-2020,Broj,Oba spola,80-84,,423
+2020,Broj,Oba spola,80-84,(U00-U99) Šifre za posebne namjene,423
 2020,Broj,Oba spola,80-84,(G00-G99) Bolesti nervnog sistema,35
 2020,Broj,Oba spola,80-84,(A00-B99) Zarazne i parazitarne bolesti,39
 2020,Broj,Oba spola,80-84,(N00-N99) Bolesti genitalno-urinarnog sistema,68
@@ -14884,7 +14884,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,80-84,(A00-B99) Zarazne i parazitarne bolesti,22
 2020,Broj,M,80-84,(F00-F99) Duševni poremećaji i poremećaji ponašanja,16
 2020,Broj,M,80-84,(G00-G99) Bolesti nervnog sistema,17
-2020,Broj,M,80-84,,240
+2020,Broj,M,80-84,(U00-U99) Šifre za posebne namjene,240
 2020,Broj,Ž,80-84,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2020,Broj,Ž,80-84,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",0
 2020,Broj,Ž,80-84,(H00-H59) Bolesti oka,0
@@ -14903,7 +14903,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,80-84,(N00-N99) Bolesti genitalno-urinarnog sistema,30
 2020,Broj,Ž,80-84,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",112
 2020,Broj,Ž,80-84,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",8
-2020,Broj,Ž,80-84,,183
+2020,Broj,Ž,80-84,(U00-U99) Šifre za posebne namjene,183
 2020,Broj,Ž,80-84,Nepoznato,56
 2020,Broj,Ž,80-84,"(C00-C97,D00-D48) Neoplazme",287
 2020,Broj,Oba spola,85+,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -14915,7 +14915,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Oba spola,85+,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,3
 2020,Broj,Oba spola,85+,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",11
 2020,Broj,Oba spola,85+,(F00-F99) Duševni poremećaji i poremećaji ponašanja,63
-2020,Broj,Oba spola,85+,,327
+2020,Broj,Oba spola,85+,(U00-U99) Šifre za posebne namjene,327
 2020,Broj,Oba spola,85+,(G00-G99) Bolesti nervnog sistema,37
 2020,Broj,Oba spola,85+,(A00-B99) Zarazne i parazitarne bolesti,29
 2020,Broj,Oba spola,85+,(N00-N99) Bolesti genitalno-urinarnog sistema,56
@@ -14947,7 +14947,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,M,85+,(A00-B99) Zarazne i parazitarne bolesti,13
 2020,Broj,M,85+,(F00-F99) Duševni poremećaji i poremećaji ponašanja,19
 2020,Broj,M,85+,(G00-G99) Bolesti nervnog sistema,17
-2020,Broj,M,85+,,179
+2020,Broj,M,85+,(U00-U99) Šifre za posebne namjene,179
 2020,Broj,Ž,85+,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2020,Broj,Ž,85+,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",0
 2020,Broj,Ž,85+,(H00-H59) Bolesti oka,0
@@ -14966,7 +14966,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2020,Broj,Ž,85+,(N00-N99) Bolesti genitalno-urinarnog sistema,29
 2020,Broj,Ž,85+,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",229
 2020,Broj,Ž,85+,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",14
-2020,Broj,Ž,85+,,148
+2020,Broj,Ž,85+,(U00-U99) Šifre za posebne namjene,148
 2020,Broj,Ž,85+,Nepoznato,84
 2020,Broj,Ž,85+,"(C00-C97,D00-D48) Neoplazme",179
 2021,Broj,Oba spola,Ukupno,(H00-H59) Bolesti oka,1
@@ -14987,7 +14987,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,Ukupno,(P00-P96) Određena stanja nastala u perinatalnom periodu,70
 2021,Broj,Oba spola,Ukupno,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",24
 2021,Broj,Oba spola,Ukupno,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",1439
-2021,Broj,Oba spola,Ukupno,,5928
+2021,Broj,Oba spola,Ukupno,(U00-U99) Šifre za posebne namjene,5928
 2021,Broj,Oba spola,Ukupno,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,9
 2021,Broj,Oba spola,Ukupno,Nepoznato,795
 2021,Broj,Oba spola,Ukupno,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",465
@@ -15010,7 +15010,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,Ukupno,(P00-P96) Određena stanja nastala u perinatalnom periodu,43
 2021,Broj,M,Ukupno,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",13
 2021,Broj,M,Ukupno,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",711
-2021,Broj,M,Ukupno,,3277
+2021,Broj,M,Ukupno,(U00-U99) Šifre za posebne namjene,3277
 2021,Broj,M,Ukupno,Nepoznato,409
 2021,Broj,M,Ukupno,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,7
 2021,Broj,Ž,Ukupno,(H00-H59) Bolesti oka,0
@@ -15033,7 +15033,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,Ukupno,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",11
 2021,Broj,Ž,Ukupno,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",728
 2021,Broj,Ž,Ukupno,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",100
-2021,Broj,Ž,Ukupno,,2651
+2021,Broj,Ž,Ukupno,(U00-U99) Šifre za posebne namjene,2651
 2021,Broj,Ž,Ukupno,Nepoznato,386
 2021,Broj,Oba spola,0,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2021,Broj,Oba spola,0,(H00-H59) Bolesti oka,0
@@ -15048,7 +15048,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,0,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2021,Broj,Oba spola,0,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2021,Broj,Oba spola,0,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2021,Broj,Oba spola,0,,0
+2021,Broj,Oba spola,0,(U00-U99) Šifre za posebne namjene,0
 2021,Broj,Oba spola,0,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",1
 2021,Broj,Oba spola,0,(I00-I99) Bolesti cirkulacijskog sistema,1
 2021,Broj,Oba spola,0,(J00-J99) Bolesti respiratornog sistema,1
@@ -15067,7 +15067,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,0,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2021,Broj,M,0,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2021,Broj,M,0,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2021,Broj,M,0,,0
+2021,Broj,M,0,(U00-U99) Šifre za posebne namjene,0
 2021,Broj,M,0,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2021,Broj,M,0,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2021,Broj,M,0,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -15092,7 +15092,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,0,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2021,Broj,Ž,0,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2021,Broj,Ž,0,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2021,Broj,Ž,0,,0
+2021,Broj,Ž,0,(U00-U99) Šifre za posebne namjene,0
 2021,Broj,Ž,0,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2021,Broj,Ž,0,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",1
 2021,Broj,Ž,0,(I00-I99) Bolesti cirkulacijskog sistema,1
@@ -15113,7 +15113,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola, 1-4,(K00-K93) Bolesti digestivnog sistema,0
 2021,Broj,Oba spola, 1-4,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2021,Broj,Oba spola, 1-4,(N00-N99) Bolesti genitalno-urinarnog sistema,0
-2021,Broj,Oba spola, 1-4,,0
+2021,Broj,Oba spola, 1-4,(U00-U99) Šifre za posebne namjene,0
 2021,Broj,Oba spola, 1-4,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",1
 2021,Broj,Oba spola, 1-4,(G00-G99) Bolesti nervnog sistema,1
 2021,Broj,Oba spola, 1-4,(I00-I99) Bolesti cirkulacijskog sistema,1
@@ -15129,7 +15129,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M, 1-4,(K00-K93) Bolesti digestivnog sistema,0
 2021,Broj,M, 1-4,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2021,Broj,M, 1-4,(N00-N99) Bolesti genitalno-urinarnog sistema,0
-2021,Broj,M, 1-4,,0
+2021,Broj,M, 1-4,(U00-U99) Šifre za posebne namjene,0
 2021,Broj,M, 1-4,Nepoznato,0
 2021,Broj,M, 1-4,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2021,Broj,M, 1-4,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
@@ -15161,7 +15161,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž, 1-4,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2021,Broj,Ž, 1-4,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2021,Broj,Ž, 1-4,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2021,Broj,Ž, 1-4,,0
+2021,Broj,Ž, 1-4,(U00-U99) Šifre za posebne namjene,0
 2021,Broj,Ž, 1-4,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2021,Broj,Ž, 1-4,(I00-I99) Bolesti cirkulacijskog sistema,1
 2021,Broj,Ž, 1-4,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",1
@@ -15183,7 +15183,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola, 5-9,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2021,Broj,Oba spola, 5-9,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2021,Broj,Oba spola, 5-9,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",0
-2021,Broj,Oba spola, 5-9,,0
+2021,Broj,Oba spola, 5-9,(U00-U99) Šifre za posebne namjene,0
 2021,Broj,Oba spola, 5-9,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2021,Broj,Oba spola, 5-9,Nepoznato,0
 2021,Broj,Oba spola, 5-9,(G00-G99) Bolesti nervnog sistema,1
@@ -15199,7 +15199,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M, 5-9,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2021,Broj,M, 5-9,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2021,Broj,M, 5-9,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",0
-2021,Broj,M, 5-9,,0
+2021,Broj,M, 5-9,(U00-U99) Šifre za posebne namjene,0
 2021,Broj,M, 5-9,Nepoznato,0
 2021,Broj,M, 5-9,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2021,Broj,M, 5-9,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
@@ -15228,7 +15228,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž, 5-9,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2021,Broj,Ž, 5-9,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",0
 2021,Broj,Ž, 5-9,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2021,Broj,Ž, 5-9,,0
+2021,Broj,Ž, 5-9,(U00-U99) Šifre za posebne namjene,0
 2021,Broj,Ž, 5-9,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2021,Broj,Ž, 5-9,Nepoznato,0
 2021,Broj,Ž, 5-9,(G00-G99) Bolesti nervnog sistema,1
@@ -15246,7 +15246,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola, 10-14,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2021,Broj,Oba spola, 10-14,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2021,Broj,Oba spola, 10-14,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
-2021,Broj,Oba spola, 10-14,,0
+2021,Broj,Oba spola, 10-14,(U00-U99) Šifre za posebne namjene,0
 2021,Broj,Oba spola, 10-14,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2021,Broj,Oba spola, 10-14,Nepoznato,0
 2021,Broj,Oba spola, 10-14,(G00-G99) Bolesti nervnog sistema,1
@@ -15263,7 +15263,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M, 10-14,(K00-K93) Bolesti digestivnog sistema,0
 2021,Broj,M, 10-14,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2021,Broj,M, 10-14,(N00-N99) Bolesti genitalno-urinarnog sistema,0
-2021,Broj,M, 10-14,,0
+2021,Broj,M, 10-14,(U00-U99) Šifre za posebne namjene,0
 2021,Broj,M, 10-14,Nepoznato,0
 2021,Broj,M, 10-14,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2021,Broj,M, 10-14,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
@@ -15293,7 +15293,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž, 10-14,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2021,Broj,Ž, 10-14,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2021,Broj,Ž, 10-14,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
-2021,Broj,Ž, 10-14,,0
+2021,Broj,Ž, 10-14,(U00-U99) Šifre za posebne namjene,0
 2021,Broj,Ž, 10-14,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2021,Broj,Ž, 10-14,Nepoznato,0
 2021,Broj,Ž, 10-14,(I00-I99) Bolesti cirkulacijskog sistema,1
@@ -15313,7 +15313,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,15-19,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2021,Broj,Oba spola,15-19,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2021,Broj,Oba spola,15-19,(F00-F99) Duševni poremećaji i poremećaji ponašanja,1
-2021,Broj,Oba spola,15-19,,1
+2021,Broj,Oba spola,15-19,(U00-U99) Šifre za posebne namjene,1
 2021,Broj,Oba spola,15-19,Nepoznato,1
 2021,Broj,Oba spola,15-19,"(C00-C97,D00-D48) Neoplazme",2
 2021,Broj,Oba spola,15-19,(K00-K93) Bolesti digestivnog sistema,2
@@ -15327,7 +15327,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,15-19,(J00-J99) Bolesti respiratornog sistema,0
 2021,Broj,M,15-19,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2021,Broj,M,15-19,(N00-N99) Bolesti genitalno-urinarnog sistema,0
-2021,Broj,M,15-19,,0
+2021,Broj,M,15-19,(U00-U99) Šifre za posebne namjene,0
 2021,Broj,M,15-19,Nepoznato,0
 2021,Broj,M,15-19,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2021,Broj,M,15-19,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
@@ -15361,7 +15361,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,15-19,(G00-G99) Bolesti nervnog sistema,1
 2021,Broj,Ž,15-19,(K00-K93) Bolesti digestivnog sistema,1
 2021,Broj,Ž,15-19,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",1
-2021,Broj,Ž,15-19,,1
+2021,Broj,Ž,15-19,(U00-U99) Šifre za posebne namjene,1
 2021,Broj,Ž,15-19,Nepoznato,1
 2021,Broj,Ž,15-19,(I00-I99) Bolesti cirkulacijskog sistema,2
 2021,Broj,Ž,15-19,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",6
@@ -15383,7 +15383,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,20-24,(N00-N99) Bolesti genitalno-urinarnog sistema,2
 2021,Broj,Oba spola,20-24,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",3
 2021,Broj,Oba spola,20-24,Nepoznato,4
-2021,Broj,Oba spola,20-24,,10
+2021,Broj,Oba spola,20-24,(U00-U99) Šifre za posebne namjene,10
 2021,Broj,Oba spola,20-24,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",25
 2021,Broj,Oba spola,20-24,"(C00-C97,D00-D48) Neoplazme",6
 2021,Broj,Oba spola,20-24,(I00-I99) Bolesti cirkulacijskog sistema,6
@@ -15405,7 +15405,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,20-24,Nepoznato,1
 2021,Broj,M,20-24,(J00-J99) Bolesti respiratornog sistema,2
 2021,Broj,M,20-24,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",2
-2021,Broj,M,20-24,,4
+2021,Broj,M,20-24,(U00-U99) Šifre za posebne namjene,4
 2021,Broj,M,20-24,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",21
 2021,Broj,M,20-24,"(C00-C97,D00-D48) Neoplazme",5
 2021,Broj,M,20-24,(I00-I99) Bolesti cirkulacijskog sistema,5
@@ -15430,7 +15430,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,20-24,(K00-K93) Bolesti digestivnog sistema,2
 2021,Broj,Ž,20-24,Nepoznato,3
 2021,Broj,Ž,20-24,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",4
-2021,Broj,Ž,20-24,,6
+2021,Broj,Ž,20-24,(U00-U99) Šifre za posebne namjene,6
 2021,Broj,Oba spola,25-29,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2021,Broj,Oba spola,25-29,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2021,Broj,Oba spola,25-29,(H00-H59) Bolesti oka,0
@@ -15448,7 +15448,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,25-29,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",2
 2021,Broj,Oba spola,25-29,(K00-K93) Bolesti digestivnog sistema,4
 2021,Broj,Oba spola,25-29,(I00-I99) Bolesti cirkulacijskog sistema,8
-2021,Broj,Oba spola,25-29,,9
+2021,Broj,Oba spola,25-29,(U00-U99) Šifre za posebne namjene,9
 2021,Broj,Oba spola,25-29,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",20
 2021,Broj,Oba spola,25-29,"(C00-C97,D00-D48) Neoplazme",7
 2021,Broj,Oba spola,25-29,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",6
@@ -15472,7 +15472,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,25-29,(K00-K93) Bolesti digestivnog sistema,4
 2021,Broj,M,25-29,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",4
 2021,Broj,M,25-29,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",18
-2021,Broj,M,25-29,,7
+2021,Broj,M,25-29,(U00-U99) Šifre za posebne namjene,7
 2021,Broj,M,25-29,(I00-I99) Bolesti cirkulacijskog sistema,5
 2021,Broj,M,25-29,Nepoznato,5
 2021,Broj,Ž,25-29,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -15494,7 +15494,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,25-29,Nepoznato,1
 2021,Broj,Ž,25-29,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",2
 2021,Broj,Ž,25-29,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",2
-2021,Broj,Ž,25-29,,2
+2021,Broj,Ž,25-29,(U00-U99) Šifre za posebne namjene,2
 2021,Broj,Ž,25-29,"(C00-C97,D00-D48) Neoplazme",3
 2021,Broj,Ž,25-29,(I00-I99) Bolesti cirkulacijskog sistema,3
 2021,Broj,Oba spola,30-34,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -15515,7 +15515,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,30-34,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",8
 2021,Broj,Oba spola,30-34,Nepoznato,8
 2021,Broj,Oba spola,30-34,(I00-I99) Bolesti cirkulacijskog sistema,11
-2021,Broj,Oba spola,30-34,,14
+2021,Broj,Oba spola,30-34,(U00-U99) Šifre za posebne namjene,14
 2021,Broj,Oba spola,30-34,"(C00-C97,D00-D48) Neoplazme",12
 2021,Broj,Oba spola,30-34,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",24
 2021,Broj,Oba spola,30-34,(J00-J99) Bolesti respiratornog sistema,5
@@ -15538,7 +15538,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,30-34,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",4
 2021,Broj,M,30-34,(G00-G99) Bolesti nervnog sistema,4
 2021,Broj,M,30-34,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",19
-2021,Broj,M,30-34,,8
+2021,Broj,M,30-34,(U00-U99) Šifre za posebne namjene,8
 2021,Broj,M,30-34,(I00-I99) Bolesti cirkulacijskog sistema,7
 2021,Broj,M,30-34,Nepoznato,6
 2021,Broj,Ž,30-34,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -15561,7 +15561,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,30-34,(I00-I99) Bolesti cirkulacijskog sistema,4
 2021,Broj,Ž,30-34,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",4
 2021,Broj,Ž,30-34,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",5
-2021,Broj,Ž,30-34,,6
+2021,Broj,Ž,30-34,(U00-U99) Šifre za posebne namjene,6
 2021,Broj,Ž,30-34,"(C00-C97,D00-D48) Neoplazme",8
 2021,Broj,Oba spola,35-39,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2021,Broj,Oba spola,35-39,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -15579,7 +15579,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,35-39,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",3
 2021,Broj,Oba spola,35-39,(J00-J99) Bolesti respiratornog sistema,8
 2021,Broj,Oba spola,35-39,(I00-I99) Bolesti cirkulacijskog sistema,37
-2021,Broj,Oba spola,35-39,,35
+2021,Broj,Oba spola,35-39,(U00-U99) Šifre za posebne namjene,35
 2021,Broj,Oba spola,35-39,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",9
 2021,Broj,Oba spola,35-39,"(C00-C97,D00-D48) Neoplazme",32
 2021,Broj,Oba spola,35-39,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",31
@@ -15604,7 +15604,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,35-39,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",27
 2021,Broj,M,35-39,"(C00-C97,D00-D48) Neoplazme",15
 2021,Broj,M,35-39,(I00-I99) Bolesti cirkulacijskog sistema,23
-2021,Broj,M,35-39,,20
+2021,Broj,M,35-39,(U00-U99) Šifre za posebne namjene,20
 2021,Broj,M,35-39,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",8
 2021,Broj,M,35-39,(J00-J99) Bolesti respiratornog sistema,6
 2021,Broj,Ž,35-39,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -15627,7 +15627,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,35-39,Nepoznato,2
 2021,Broj,Ž,35-39,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",4
 2021,Broj,Ž,35-39,(I00-I99) Bolesti cirkulacijskog sistema,14
-2021,Broj,Ž,35-39,,15
+2021,Broj,Ž,35-39,(U00-U99) Šifre za posebne namjene,15
 2021,Broj,Ž,35-39,"(C00-C97,D00-D48) Neoplazme",17
 2021,Broj,Oba spola,40-44,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2021,Broj,Oba spola,40-44,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -15645,7 +15645,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,40-44,(G00-G99) Bolesti nervnog sistema,8
 2021,Broj,Oba spola,40-44,Nepoznato,8
 2021,Broj,Oba spola,40-44,(I00-I99) Bolesti cirkulacijskog sistema,67
-2021,Broj,Oba spola,40-44,,53
+2021,Broj,Oba spola,40-44,(U00-U99) Šifre za posebne namjene,53
 2021,Broj,Oba spola,40-44,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",19
 2021,Broj,Oba spola,40-44,"(C00-C97,D00-D48) Neoplazme",67
 2021,Broj,Oba spola,40-44,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",21
@@ -15670,7 +15670,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,40-44,"(C00-C97,D00-D48) Neoplazme",34
 2021,Broj,M,40-44,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",15
 2021,Broj,M,40-44,(I00-I99) Bolesti cirkulacijskog sistema,49
-2021,Broj,M,40-44,,33
+2021,Broj,M,40-44,(U00-U99) Šifre za posebne namjene,33
 2021,Broj,M,40-44,(K00-K93) Bolesti digestivnog sistema,5
 2021,Broj,M,40-44,Nepoznato,5
 2021,Broj,Ž,40-44,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -15693,7 +15693,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,40-44,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",4
 2021,Broj,Ž,40-44,(G00-G99) Bolesti nervnog sistema,4
 2021,Broj,Ž,40-44,(I00-I99) Bolesti cirkulacijskog sistema,18
-2021,Broj,Ž,40-44,,20
+2021,Broj,Ž,40-44,(U00-U99) Šifre za posebne namjene,20
 2021,Broj,Ž,40-44,"(C00-C97,D00-D48) Neoplazme",33
 2021,Broj,Oba spola,45-49,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2021,Broj,Oba spola,45-49,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -15708,7 +15708,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,45-49,(A00-B99) Zarazne i parazitarne bolesti,4
 2021,Broj,Oba spola,45-49,(N00-N99) Bolesti genitalno-urinarnog sistema,4
 2021,Broj,Oba spola,45-49,(I00-I99) Bolesti cirkulacijskog sistema,115
-2021,Broj,Oba spola,45-49,,89
+2021,Broj,Oba spola,45-49,(U00-U99) Šifre za posebne namjene,89
 2021,Broj,Oba spola,45-49,(G00-G99) Bolesti nervnog sistema,9
 2021,Broj,Oba spola,45-49,(J00-J99) Bolesti respiratornog sistema,15
 2021,Broj,Oba spola,45-49,Nepoznato,16
@@ -15737,7 +15737,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,45-49,Nepoznato,11
 2021,Broj,M,45-49,(J00-J99) Bolesti respiratornog sistema,12
 2021,Broj,M,45-49,(I00-I99) Bolesti cirkulacijskog sistema,80
-2021,Broj,M,45-49,,56
+2021,Broj,M,45-49,(U00-U99) Šifre za posebne namjene,56
 2021,Broj,M,45-49,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",5
 2021,Broj,Ž,45-49,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2021,Broj,Ž,45-49,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -15759,7 +15759,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,45-49,Nepoznato,5
 2021,Broj,Ž,45-49,(I00-I99) Bolesti cirkulacijskog sistema,35
 2021,Broj,Ž,45-49,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",10
-2021,Broj,Ž,45-49,,33
+2021,Broj,Ž,45-49,(U00-U99) Šifre za posebne namjene,33
 2021,Broj,Ž,45-49,"(C00-C97,D00-D48) Neoplazme",68
 2021,Broj,Oba spola,50-54,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2021,Broj,Oba spola,50-54,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",0
@@ -15772,7 +15772,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,50-54,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,1
 2021,Broj,Oba spola,50-54,(F00-F99) Duševni poremećaji i poremećaji ponašanja,4
 2021,Broj,Oba spola,50-54,(I00-I99) Bolesti cirkulacijskog sistema,195
-2021,Broj,Oba spola,50-54,,160
+2021,Broj,Oba spola,50-54,(U00-U99) Šifre za posebne namjene,160
 2021,Broj,Oba spola,50-54,(G00-G99) Bolesti nervnog sistema,9
 2021,Broj,Oba spola,50-54,(A00-B99) Zarazne i parazitarne bolesti,9
 2021,Broj,Oba spola,50-54,(N00-N99) Bolesti genitalno-urinarnog sistema,11
@@ -15801,7 +15801,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,50-54,(J00-J99) Bolesti respiratornog sistema,13
 2021,Broj,M,50-54,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",14
 2021,Broj,M,50-54,(I00-I99) Bolesti cirkulacijskog sistema,144
-2021,Broj,M,50-54,,91
+2021,Broj,M,50-54,(U00-U99) Šifre za posebne namjene,91
 2021,Broj,M,50-54,(N00-N99) Bolesti genitalno-urinarnog sistema,7
 2021,Broj,M,50-54,(A00-B99) Zarazne i parazitarne bolesti,6
 2021,Broj,M,50-54,(G00-G99) Bolesti nervnog sistema,6
@@ -15825,7 +15825,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,50-54,(I00-I99) Bolesti cirkulacijskog sistema,51
 2021,Broj,Ž,50-54,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",19
 2021,Broj,Ž,50-54,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",15
-2021,Broj,Ž,50-54,,69
+2021,Broj,Ž,50-54,(U00-U99) Šifre za posebne namjene,69
 2021,Broj,Ž,50-54,"(C00-C97,D00-D48) Neoplazme",102
 2021,Broj,Oba spola,55-59,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2021,Broj,Oba spola,55-59,(H00-H59) Bolesti oka,0
@@ -15839,7 +15839,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,55-59,(A00-B99) Zarazne i parazitarne bolesti,10
 2021,Broj,Oba spola,55-59,(F00-F99) Duševni poremećaji i poremećaji ponašanja,10
 2021,Broj,Oba spola,55-59,(I00-I99) Bolesti cirkulacijskog sistema,416
-2021,Broj,Oba spola,55-59,,316
+2021,Broj,Oba spola,55-59,(U00-U99) Šifre za posebne namjene,316
 2021,Broj,Oba spola,55-59,(G00-G99) Bolesti nervnog sistema,15
 2021,Broj,Oba spola,55-59,(N00-N99) Bolesti genitalno-urinarnog sistema,21
 2021,Broj,Oba spola,55-59,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",37
@@ -15868,7 +15868,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,55-59,(N00-N99) Bolesti genitalno-urinarnog sistema,10
 2021,Broj,M,55-59,(G00-G99) Bolesti nervnog sistema,9
 2021,Broj,M,55-59,(I00-I99) Bolesti cirkulacijskog sistema,305
-2021,Broj,M,55-59,,206
+2021,Broj,M,55-59,(U00-U99) Šifre za posebne namjene,206
 2021,Broj,M,55-59,(F00-F99) Duševni poremećaji i poremećaji ponašanja,7
 2021,Broj,M,55-59,(A00-B99) Zarazne i parazitarne bolesti,6
 2021,Broj,Ž,55-59,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -15890,7 +15890,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,55-59,(K00-K93) Bolesti digestivnog sistema,10
 2021,Broj,Ž,55-59,(N00-N99) Bolesti genitalno-urinarnog sistema,11
 2021,Broj,Ž,55-59,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",19
-2021,Broj,Ž,55-59,,110
+2021,Broj,Ž,55-59,(U00-U99) Šifre za posebne namjene,110
 2021,Broj,Ž,55-59,Nepoznato,12
 2021,Broj,Ž,55-59,"(C00-C97,D00-D48) Neoplazme",177
 2021,Broj,Oba spola,60-64,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -15903,7 +15903,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,60-64,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,2
 2021,Broj,Oba spola,60-64,(F00-F99) Duševni poremećaji i poremećaji ponašanja,9
 2021,Broj,Oba spola,60-64,(I00-I99) Bolesti cirkulacijskog sistema,686
-2021,Broj,Oba spola,60-64,,572
+2021,Broj,Oba spola,60-64,(U00-U99) Šifre za posebne namjene,572
 2021,Broj,Oba spola,60-64,(G00-G99) Bolesti nervnog sistema,16
 2021,Broj,Oba spola,60-64,(A00-B99) Zarazne i parazitarne bolesti,28
 2021,Broj,Oba spola,60-64,(N00-N99) Bolesti genitalno-urinarnog sistema,31
@@ -15935,7 +15935,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,60-64,(A00-B99) Zarazne i parazitarne bolesti,17
 2021,Broj,M,60-64,(G00-G99) Bolesti nervnog sistema,11
 2021,Broj,M,60-64,(I00-I99) Bolesti cirkulacijskog sistema,443
-2021,Broj,M,60-64,,357
+2021,Broj,M,60-64,(U00-U99) Šifre za posebne namjene,357
 2021,Broj,M,60-64,(F00-F99) Duševni poremećaji i poremećaji ponašanja,6
 2021,Broj,Ž,60-64,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2021,Broj,Ž,60-64,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -15956,7 +15956,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,60-64,(K00-K93) Bolesti digestivnog sistema,21
 2021,Broj,Ž,60-64,(N00-N99) Bolesti genitalno-urinarnog sistema,13
 2021,Broj,Ž,60-64,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",34
-2021,Broj,Ž,60-64,,215
+2021,Broj,Ž,60-64,(U00-U99) Šifre za posebne namjene,215
 2021,Broj,Ž,60-64,Nepoznato,14
 2021,Broj,Ž,60-64,"(C00-C97,D00-D48) Neoplazme",279
 2021,Broj,Oba spola,65-69,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -15969,7 +15969,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,65-69,(L00-L99) Bolesti kože i potkožnog tkiva,3
 2021,Broj,Oba spola,65-69,(F00-F99) Duševni poremećaji i poremećaji ponašanja,12
 2021,Broj,Oba spola,65-69,(I00-I99) Bolesti cirkulacijskog sistema,1030
-2021,Broj,Oba spola,65-69,,857
+2021,Broj,Oba spola,65-69,(U00-U99) Šifre za posebne namjene,857
 2021,Broj,Oba spola,65-69,(G00-G99) Bolesti nervnog sistema,18
 2021,Broj,Oba spola,65-69,(A00-B99) Zarazne i parazitarne bolesti,31
 2021,Broj,Oba spola,65-69,(N00-N99) Bolesti genitalno-urinarnog sistema,42
@@ -16001,7 +16001,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,65-69,(A00-B99) Zarazne i parazitarne bolesti,24
 2021,Broj,M,65-69,(F00-F99) Duševni poremećaji i poremećaji ponašanja,11
 2021,Broj,M,65-69,(I00-I99) Bolesti cirkulacijskog sistema,634
-2021,Broj,M,65-69,,501
+2021,Broj,M,65-69,(U00-U99) Šifre za posebne namjene,501
 2021,Broj,M,65-69,(G00-G99) Bolesti nervnog sistema,8
 2021,Broj,Ž,65-69,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2021,Broj,Ž,65-69,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",0
@@ -16022,7 +16022,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,65-69,(K00-K93) Bolesti digestivnog sistema,28
 2021,Broj,Ž,65-69,(N00-N99) Bolesti genitalno-urinarnog sistema,20
 2021,Broj,Ž,65-69,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",55
-2021,Broj,Ž,65-69,,356
+2021,Broj,Ž,65-69,(U00-U99) Šifre za posebne namjene,356
 2021,Broj,Ž,65-69,Nepoznato,35
 2021,Broj,Ž,65-69,"(C00-C97,D00-D48) Neoplazme",318
 2021,Broj,Oba spola,70-74,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -16036,7 +16036,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,70-74,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",3
 2021,Broj,Oba spola,70-74,(F00-F99) Duševni poremećaji i poremećaji ponašanja,13
 2021,Broj,Oba spola,70-74,(I00-I99) Bolesti cirkulacijskog sistema,1474
-2021,Broj,Oba spola,70-74,,1079
+2021,Broj,Oba spola,70-74,(U00-U99) Šifre za posebne namjene,1079
 2021,Broj,Oba spola,70-74,(G00-G99) Bolesti nervnog sistema,23
 2021,Broj,Oba spola,70-74,(A00-B99) Zarazne i parazitarne bolesti,29
 2021,Broj,Oba spola,70-74,(N00-N99) Bolesti genitalno-urinarnog sistema,47
@@ -16068,7 +16068,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,70-74,(A00-B99) Zarazne i parazitarne bolesti,12
 2021,Broj,M,70-74,(G00-G99) Bolesti nervnog sistema,11
 2021,Broj,M,70-74,(I00-I99) Bolesti cirkulacijskog sistema,757
-2021,Broj,M,70-74,,604
+2021,Broj,M,70-74,(U00-U99) Šifre za posebne namjene,604
 2021,Broj,Ž,70-74,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2021,Broj,Ž,70-74,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2021,Broj,Ž,70-74,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",0
@@ -16088,7 +16088,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,70-74,(K00-K93) Bolesti digestivnog sistema,18
 2021,Broj,Ž,70-74,(N00-N99) Bolesti genitalno-urinarnog sistema,21
 2021,Broj,Ž,70-74,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",68
-2021,Broj,Ž,70-74,,475
+2021,Broj,Ž,70-74,(U00-U99) Šifre za posebne namjene,475
 2021,Broj,Ž,70-74,Nepoznato,39
 2021,Broj,Ž,70-74,"(C00-C97,D00-D48) Neoplazme",310
 2021,Broj,Oba spola,75-79,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -16101,7 +16101,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,75-79,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,4
 2021,Broj,Oba spola,75-79,(F00-F99) Duševni poremećaji i poremećaji ponašanja,22
 2021,Broj,Oba spola,75-79,(I00-I99) Bolesti cirkulacijskog sistema,1641
-2021,Broj,Oba spola,75-79,,918
+2021,Broj,Oba spola,75-79,(U00-U99) Šifre za posebne namjene,918
 2021,Broj,Oba spola,75-79,(G00-G99) Bolesti nervnog sistema,24
 2021,Broj,Oba spola,75-79,(A00-B99) Zarazne i parazitarne bolesti,29
 2021,Broj,Oba spola,75-79,(N00-N99) Bolesti genitalno-urinarnog sistema,54
@@ -16133,7 +16133,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,75-79,(F00-F99) Duševni poremećaji i poremećaji ponašanja,9
 2021,Broj,M,75-79,(G00-G99) Bolesti nervnog sistema,15
 2021,Broj,M,75-79,(I00-I99) Bolesti cirkulacijskog sistema,717
-2021,Broj,M,75-79,,481
+2021,Broj,M,75-79,(U00-U99) Šifre za posebne namjene,481
 2021,Broj,M,75-79,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",5
 2021,Broj,Ž,75-79,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2021,Broj,Ž,75-79,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",0
@@ -16154,7 +16154,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,75-79,(K00-K93) Bolesti digestivnog sistema,25
 2021,Broj,Ž,75-79,(N00-N99) Bolesti genitalno-urinarnog sistema,25
 2021,Broj,Ž,75-79,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",85
-2021,Broj,Ž,75-79,,437
+2021,Broj,Ž,75-79,(U00-U99) Šifre za posebne namjene,437
 2021,Broj,Ž,75-79,Nepoznato,43
 2021,Broj,Ž,75-79,"(C00-C97,D00-D48) Neoplazme",272
 2021,Broj,Oba spola,80-84,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -16167,7 +16167,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,80-84,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",10
 2021,Broj,Oba spola,80-84,(F00-F99) Duševni poremećaji i poremećaji ponašanja,37
 2021,Broj,Oba spola,80-84,(I00-I99) Bolesti cirkulacijskog sistema,2576
-2021,Broj,Oba spola,80-84,,1042
+2021,Broj,Oba spola,80-84,(U00-U99) Šifre za posebne namjene,1042
 2021,Broj,Oba spola,80-84,(G00-G99) Bolesti nervnog sistema,41
 2021,Broj,Oba spola,80-84,(A00-B99) Zarazne i parazitarne bolesti,36
 2021,Broj,Oba spola,80-84,(N00-N99) Bolesti genitalno-urinarnog sistema,68
@@ -16199,7 +16199,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,80-84,(F00-F99) Duševni poremećaji i poremećaji ponašanja,19
 2021,Broj,M,80-84,(G00-G99) Bolesti nervnog sistema,18
 2021,Broj,M,80-84,(I00-I99) Bolesti cirkulacijskog sistema,1039
-2021,Broj,M,80-84,,517
+2021,Broj,M,80-84,(U00-U99) Šifre za posebne namjene,517
 2021,Broj,M,80-84,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,5
 2021,Broj,Ž,80-84,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2021,Broj,Ž,80-84,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",0
@@ -16220,7 +16220,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,80-84,(K00-K93) Bolesti digestivnog sistema,42
 2021,Broj,Ž,80-84,(N00-N99) Bolesti genitalno-urinarnog sistema,33
 2021,Broj,Ž,80-84,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",145
-2021,Broj,Ž,80-84,,525
+2021,Broj,Ž,80-84,(U00-U99) Šifre za posebne namjene,525
 2021,Broj,Ž,80-84,Nepoznato,103
 2021,Broj,Ž,80-84,"(C00-C97,D00-D48) Neoplazme",279
 2021,Broj,Oba spola,85+,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -16234,7 +16234,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Oba spola,85+,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",9
 2021,Broj,Oba spola,85+,(F00-F99) Duševni poremećaji i poremećaji ponašanja,49
 2021,Broj,Oba spola,85+,(I00-I99) Bolesti cirkulacijskog sistema,3050
-2021,Broj,Oba spola,85+,,773
+2021,Broj,Oba spola,85+,(U00-U99) Šifre za posebne namjene,773
 2021,Broj,Oba spola,85+,(G00-G99) Bolesti nervnog sistema,23
 2021,Broj,Oba spola,85+,(A00-B99) Zarazne i parazitarne bolesti,33
 2021,Broj,Oba spola,85+,(N00-N99) Bolesti genitalno-urinarnog sistema,68
@@ -16266,7 +16266,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,M,85+,(F00-F99) Duševni poremećaji i poremećaji ponašanja,20
 2021,Broj,M,85+,(G00-G99) Bolesti nervnog sistema,10
 2021,Broj,M,85+,(I00-I99) Bolesti cirkulacijskog sistema,1019
-2021,Broj,M,85+,,392
+2021,Broj,M,85+,(U00-U99) Šifre za posebne namjene,392
 2021,Broj,Ž,85+,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2021,Broj,Ž,85+,(H00-H59) Bolesti oka,0
 2021,Broj,Ž,85+,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -16286,7 +16286,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2021,Broj,Ž,85+,(N00-N99) Bolesti genitalno-urinarnog sistema,39
 2021,Broj,Ž,85+,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",280
 2021,Broj,Ž,85+,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",11
-2021,Broj,Ž,85+,,381
+2021,Broj,Ž,85+,(U00-U99) Šifre za posebne namjene,381
 2021,Broj,Ž,85+,Nepoznato,113
 2021,Broj,Ž,85+,"(C00-C97,D00-D48) Neoplazme",181
 2022,Broj,Oba spola,Ukupno,(A00-B99) Zarazne i parazitarne bolesti,266
@@ -16306,7 +16306,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,Ukupno,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",21
 2022,Broj,Oba spola,Ukupno,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",1245
 2022,Broj,Oba spola,Ukupno,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",372
-2022,Broj,Oba spola,Ukupno,,1937
+2022,Broj,Oba spola,Ukupno,(U00-U99) Šifre za posebne namjene,1937
 2022,Broj,Oba spola,Ukupno,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,5
 2022,Broj,Oba spola,Ukupno,Nepoznato,556
 2022,Broj,M,Ukupno,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -16326,7 +16326,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,Ukupno,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",6
 2022,Broj,M,Ukupno,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",634
 2022,Broj,M,Ukupno,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",287
-2022,Broj,M,Ukupno,,1032
+2022,Broj,M,Ukupno,(U00-U99) Šifre za posebne namjene,1032
 2022,Broj,M,Ukupno,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,3
 2022,Broj,M,Ukupno,Nepoznato,313
 2022,Broj,Ž,Ukupno,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,2
@@ -16347,7 +16347,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,Ukupno,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",15
 2022,Broj,Ž,Ukupno,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",611
 2022,Broj,Ž,Ukupno,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",85
-2022,Broj,Ž,Ukupno,,905
+2022,Broj,Ž,Ukupno,(U00-U99) Šifre za posebne namjene,905
 2022,Broj,Ž,Ukupno,Nepoznato,243
 2022,Broj,Oba spola,0,"(C00-C97,D00-D48) Neoplazme",0
 2022,Broj,Oba spola,0,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
@@ -16359,7 +16359,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,0,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,Oba spola,0,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2022,Broj,Oba spola,0,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
-2022,Broj,Oba spola,0,,0
+2022,Broj,Oba spola,0,(U00-U99) Šifre za posebne namjene,0
 2022,Broj,Oba spola,0,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2022,Broj,Oba spola,0,(A00-B99) Zarazne i parazitarne bolesti,1
 2022,Broj,Oba spola,0,(N00-N99) Bolesti genitalno-urinarnog sistema,1
@@ -16379,7 +16379,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,0,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,M,0,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2022,Broj,M,0,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
-2022,Broj,M,0,,0
+2022,Broj,M,0,(U00-U99) Šifre za posebne namjene,0
 2022,Broj,M,0,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2022,Broj,M,0,(A00-B99) Zarazne i parazitarne bolesti,1
 2022,Broj,M,0,(N00-N99) Bolesti genitalno-urinarnog sistema,1
@@ -16402,7 +16402,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,0,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2022,Broj,Ž,0,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2022,Broj,Ž,0,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2022,Broj,Ž,0,,0
+2022,Broj,Ž,0,(U00-U99) Šifre za posebne namjene,0
 2022,Broj,Ž,0,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2022,Broj,Ž,0,(I00-I99) Bolesti cirkulacijskog sistema,2
 2022,Broj,Ž,0,Nepoznato,2
@@ -16426,7 +16426,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola, 1-4,(G00-G99) Bolesti nervnog sistema,1
 2022,Broj,Oba spola, 1-4,(J00-J99) Bolesti respiratornog sistema,1
 2022,Broj,Oba spola, 1-4,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",1
-2022,Broj,Oba spola, 1-4,,1
+2022,Broj,Oba spola, 1-4,(U00-U99) Šifre za posebne namjene,1
 2022,Broj,Oba spola, 1-4,Nepoznato,1
 2022,Broj,Oba spola, 1-4,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",3
 2022,Broj,M, 1-4,(A00-B99) Zarazne i parazitarne bolesti,0
@@ -16443,7 +16443,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M, 1-4,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2022,Broj,M, 1-4,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2022,Broj,M, 1-4,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",0
-2022,Broj,M, 1-4,,0
+2022,Broj,M, 1-4,(U00-U99) Šifre za posebne namjene,0
 2022,Broj,M, 1-4,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2022,Broj,M, 1-4,Nepoznato,0
 2022,Broj,M, 1-4,"(C00-C97,D00-D48) Neoplazme",1
@@ -16467,7 +16467,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž, 1-4,(G00-G99) Bolesti nervnog sistema,1
 2022,Broj,Ž, 1-4,(J00-J99) Bolesti respiratornog sistema,1
 2022,Broj,Ž, 1-4,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",1
-2022,Broj,Ž, 1-4,,1
+2022,Broj,Ž, 1-4,(U00-U99) Šifre za posebne namjene,1
 2022,Broj,Ž, 1-4,Nepoznato,1
 2022,Broj,Oba spola, 5-9,(A00-B99) Zarazne i parazitarne bolesti,0
 2022,Broj,Oba spola, 5-9,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
@@ -16479,7 +16479,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola, 5-9,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2022,Broj,Oba spola, 5-9,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2022,Broj,Oba spola, 5-9,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2022,Broj,Oba spola, 5-9,,0
+2022,Broj,Oba spola, 5-9,(U00-U99) Šifre za posebne namjene,0
 2022,Broj,Oba spola, 5-9,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2022,Broj,Oba spola, 5-9,Nepoznato,0
 2022,Broj,Oba spola, 5-9,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",1
@@ -16500,7 +16500,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M, 5-9,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2022,Broj,M, 5-9,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",0
 2022,Broj,M, 5-9,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2022,Broj,M, 5-9,,0
+2022,Broj,M, 5-9,(U00-U99) Šifre za posebne namjene,0
 2022,Broj,M, 5-9,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2022,Broj,M, 5-9,Nepoznato,0
 2022,Broj,M, 5-9,"(C00-C97,D00-D48) Neoplazme",1
@@ -16522,7 +16522,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž, 5-9,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2022,Broj,Ž, 5-9,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",0
 2022,Broj,Ž, 5-9,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",0
-2022,Broj,Ž, 5-9,,0
+2022,Broj,Ž, 5-9,(U00-U99) Šifre za posebne namjene,0
 2022,Broj,Ž, 5-9,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2022,Broj,Ž, 5-9,Nepoznato,0
 2022,Broj,Ž, 5-9,"(C00-C97,D00-D48) Neoplazme",1
@@ -16542,7 +16542,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola, 10-14,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2022,Broj,Oba spola, 10-14,(I00-I99) Bolesti cirkulacijskog sistema,1
 2022,Broj,Oba spola, 10-14,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",1
-2022,Broj,Oba spola, 10-14,,1
+2022,Broj,Oba spola, 10-14,(U00-U99) Šifre za posebne namjene,1
 2022,Broj,Oba spola, 10-14,Nepoznato,1
 2022,Broj,Oba spola, 10-14,(G00-G99) Bolesti nervnog sistema,2
 2022,Broj,Oba spola, 10-14,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",2
@@ -16568,7 +16568,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M, 10-14,(J00-J99) Bolesti respiratornog sistema,1
 2022,Broj,M, 10-14,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",1
 2022,Broj,M, 10-14,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",1
-2022,Broj,M, 10-14,,1
+2022,Broj,M, 10-14,(U00-U99) Šifre za posebne namjene,1
 2022,Broj,Ž, 10-14,(A00-B99) Zarazne i parazitarne bolesti,0
 2022,Broj,Ž, 10-14,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
 2022,Broj,Ž, 10-14,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",0
@@ -16579,7 +16579,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž, 10-14,(N00-N99) Bolesti genitalno-urinarnog sistema,0
 2022,Broj,Ž, 10-14,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2022,Broj,Ž, 10-14,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
-2022,Broj,Ž, 10-14,,0
+2022,Broj,Ž, 10-14,(U00-U99) Šifre za posebne namjene,0
 2022,Broj,Ž, 10-14,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2022,Broj,Ž, 10-14,(I00-I99) Bolesti cirkulacijskog sistema,1
 2022,Broj,Ž, 10-14,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",1
@@ -16603,7 +16603,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,15-19,(K00-K93) Bolesti digestivnog sistema,1
 2022,Broj,Oba spola,15-19,(J00-J99) Bolesti respiratornog sistema,2
 2022,Broj,Oba spola,15-19,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",2
-2022,Broj,Oba spola,15-19,,2
+2022,Broj,Oba spola,15-19,(U00-U99) Šifre za posebne namjene,2
 2022,Broj,Oba spola,15-19,"(C00-C97,D00-D48) Neoplazme",5
 2022,Broj,Oba spola,15-19,(G00-G99) Bolesti nervnog sistema,7
 2022,Broj,Oba spola,15-19,(I00-I99) Bolesti cirkulacijskog sistema,3
@@ -16625,7 +16625,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,15-19,(J00-J99) Bolesti respiratornog sistema,1
 2022,Broj,M,15-19,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",1
 2022,Broj,M,15-19,"(C00-C97,D00-D48) Neoplazme",2
-2022,Broj,M,15-19,,2
+2022,Broj,M,15-19,(U00-U99) Šifre za posebne namjene,2
 2022,Broj,M,15-19,(G00-G99) Bolesti nervnog sistema,6
 2022,Broj,M,15-19,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",3
 2022,Broj,M,15-19,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",11
@@ -16639,7 +16639,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,15-19,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2022,Broj,Ž,15-19,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
 2022,Broj,Ž,15-19,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",0
-2022,Broj,Ž,15-19,,0
+2022,Broj,Ž,15-19,(U00-U99) Šifre za posebne namjene,0
 2022,Broj,Ž,15-19,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2022,Broj,Ž,15-19,Nepoznato,0
 2022,Broj,Ž,15-19,(G00-G99) Bolesti nervnog sistema,1
@@ -16667,7 +16667,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,20-24,(J00-J99) Bolesti respiratornog sistema,3
 2022,Broj,Oba spola,20-24,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",3
 2022,Broj,Oba spola,20-24,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",17
-2022,Broj,Oba spola,20-24,,4
+2022,Broj,Oba spola,20-24,(U00-U99) Šifre za posebne namjene,4
 2022,Broj,Oba spola,20-24,Nepoznato,3
 2022,Broj,M,20-24,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
 2022,Broj,M,20-24,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
@@ -16684,7 +16684,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,20-24,(K00-K93) Bolesti digestivnog sistema,1
 2022,Broj,M,20-24,"(C00-C97,D00-D48) Neoplazme",2
 2022,Broj,M,20-24,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",2
-2022,Broj,M,20-24,,2
+2022,Broj,M,20-24,(U00-U99) Šifre za posebne namjene,2
 2022,Broj,M,20-24,(G00-G99) Bolesti nervnog sistema,5
 2022,Broj,M,20-24,(I00-I99) Bolesti cirkulacijskog sistema,7
 2022,Broj,M,20-24,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",17
@@ -16708,7 +16708,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,20-24,(G00-G99) Bolesti nervnog sistema,1
 2022,Broj,Ž,20-24,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",1
 2022,Broj,Ž,20-24,(J00-J99) Bolesti respiratornog sistema,2
-2022,Broj,Ž,20-24,,2
+2022,Broj,Ž,20-24,(U00-U99) Šifre za posebne namjene,2
 2022,Broj,Oba spola,25-29,(A00-B99) Zarazne i parazitarne bolesti,0
 2022,Broj,Oba spola,25-29,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2022,Broj,Oba spola,25-29,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -16728,7 +16728,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,25-29,"(O00-O99) Trudnoća, porođaj i postporođajni period",3
 2022,Broj,Oba spola,25-29,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",6
 2022,Broj,Oba spola,25-29,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",19
-2022,Broj,Oba spola,25-29,,7
+2022,Broj,Oba spola,25-29,(U00-U99) Šifre za posebne namjene,7
 2022,Broj,M,25-29,(A00-B99) Zarazne i parazitarne bolesti,0
 2022,Broj,M,25-29,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
 2022,Broj,M,25-29,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
@@ -16742,7 +16742,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,25-29,(N00-N99) Bolesti genitalno-urinarnog sistema,1
 2022,Broj,M,25-29,Nepoznato,1
 2022,Broj,M,25-29,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",2
-2022,Broj,M,25-29,,2
+2022,Broj,M,25-29,(U00-U99) Šifre za posebne namjene,2
 2022,Broj,M,25-29,"(C00-C97,D00-D48) Neoplazme",5
 2022,Broj,M,25-29,(I00-I99) Bolesti cirkulacijskog sistema,9
 2022,Broj,M,25-29,(J00-J99) Bolesti respiratornog sistema,3
@@ -16768,7 +16768,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,25-29,(I00-I99) Bolesti cirkulacijskog sistema,5
 2022,Broj,Ž,25-29,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,3
 2022,Broj,Ž,25-29,"(O00-O99) Trudnoća, porođaj i postporođajni period",3
-2022,Broj,Ž,25-29,,5
+2022,Broj,Ž,25-29,(U00-U99) Šifre za posebne namjene,5
 2022,Broj,Oba spola,30-34,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
 2022,Broj,Oba spola,30-34,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2022,Broj,Oba spola,30-34,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -16780,7 +16780,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,30-34,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2022,Broj,Oba spola,30-34,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",1
 2022,Broj,Oba spola,30-34,(J00-J99) Bolesti respiratornog sistema,2
-2022,Broj,Oba spola,30-34,,2
+2022,Broj,Oba spola,30-34,(U00-U99) Šifre za posebne namjene,2
 2022,Broj,Oba spola,30-34,(A00-B99) Zarazne i parazitarne bolesti,3
 2022,Broj,Oba spola,30-34,"(C00-C97,D00-D48) Neoplazme",18
 2022,Broj,Oba spola,30-34,(G00-G99) Bolesti nervnog sistema,4
@@ -16799,7 +16799,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,30-34,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",0
 2022,Broj,M,30-34,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,0
 2022,Broj,M,30-34,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",1
-2022,Broj,M,30-34,,1
+2022,Broj,M,30-34,(U00-U99) Šifre za posebne namjene,1
 2022,Broj,M,30-34,(A00-B99) Zarazne i parazitarne bolesti,2
 2022,Broj,M,30-34,(J00-J99) Bolesti respiratornog sistema,2
 2022,Broj,M,30-34,(K00-K93) Bolesti digestivnog sistema,2
@@ -16825,7 +16825,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,30-34,(A00-B99) Zarazne i parazitarne bolesti,1
 2022,Broj,Ž,30-34,(G00-G99) Bolesti nervnog sistema,1
 2022,Broj,Ž,30-34,(K00-K93) Bolesti digestivnog sistema,1
-2022,Broj,Ž,30-34,,1
+2022,Broj,Ž,30-34,(U00-U99) Šifre za posebne namjene,1
 2022,Broj,Ž,30-34,"(C00-C97,D00-D48) Neoplazme",9
 2022,Broj,Ž,30-34,(I00-I99) Bolesti cirkulacijskog sistema,5
 2022,Broj,Ž,30-34,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",3
@@ -16847,7 +16847,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,35-39,(K00-K93) Bolesti digestivnog sistema,6
 2022,Broj,Oba spola,35-39,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",9
 2022,Broj,Oba spola,35-39,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",21
-2022,Broj,Oba spola,35-39,,5
+2022,Broj,Oba spola,35-39,(U00-U99) Šifre za posebne namjene,5
 2022,Broj,Oba spola,35-39,Nepoznato,6
 2022,Broj,M,35-39,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
 2022,Broj,M,35-39,(G00-G99) Bolesti nervnog sistema,0
@@ -16867,7 +16867,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,35-39,(K00-K93) Bolesti digestivnog sistema,6
 2022,Broj,M,35-39,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",7
 2022,Broj,M,35-39,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",17
-2022,Broj,M,35-39,,3
+2022,Broj,M,35-39,(U00-U99) Šifre za posebne namjene,3
 2022,Broj,M,35-39,Nepoznato,4
 2022,Broj,Ž,35-39,(A00-B99) Zarazne i parazitarne bolesti,0
 2022,Broj,Ž,35-39,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
@@ -16884,7 +16884,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,35-39,(N00-N99) Bolesti genitalno-urinarnog sistema,1
 2022,Broj,Ž,35-39,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
 2022,Broj,Ž,35-39,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",2
-2022,Broj,Ž,35-39,,2
+2022,Broj,Ž,35-39,(U00-U99) Šifre za posebne namjene,2
 2022,Broj,Ž,35-39,Nepoznato,2
 2022,Broj,Ž,35-39,"(C00-C97,D00-D48) Neoplazme",10
 2022,Broj,Ž,35-39,(I00-I99) Bolesti cirkulacijskog sistema,9
@@ -16907,7 +16907,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,40-44,(K00-K93) Bolesti digestivnog sistema,9
 2022,Broj,Oba spola,40-44,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",14
 2022,Broj,Oba spola,40-44,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",13
-2022,Broj,Oba spola,40-44,,14
+2022,Broj,Oba spola,40-44,(U00-U99) Šifre za posebne namjene,14
 2022,Broj,Oba spola,40-44,Nepoznato,8
 2022,Broj,M,40-44,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
 2022,Broj,M,40-44,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -16927,7 +16927,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,40-44,(K00-K93) Bolesti digestivnog sistema,8
 2022,Broj,M,40-44,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",10
 2022,Broj,M,40-44,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",9
-2022,Broj,M,40-44,,7
+2022,Broj,M,40-44,(U00-U99) Šifre za posebne namjene,7
 2022,Broj,M,40-44,Nepoznato,5
 2022,Broj,Ž,40-44,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2022,Broj,Ž,40-44,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -16947,7 +16947,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,40-44,(I00-I99) Bolesti cirkulacijskog sistema,9
 2022,Broj,Ž,40-44,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",4
 2022,Broj,Ž,40-44,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",4
-2022,Broj,Ž,40-44,,7
+2022,Broj,Ž,40-44,(U00-U99) Šifre za posebne namjene,7
 2022,Broj,Ž,40-44,Nepoznato,3
 2022,Broj,Oba spola,45-49,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,Oba spola,45-49,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -16967,7 +16967,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,45-49,(N00-N99) Bolesti genitalno-urinarnog sistema,6
 2022,Broj,Oba spola,45-49,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",22
 2022,Broj,Oba spola,45-49,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",22
-2022,Broj,Oba spola,45-49,,20
+2022,Broj,Oba spola,45-49,(U00-U99) Šifre za posebne namjene,20
 2022,Broj,Oba spola,45-49,Nepoznato,15
 2022,Broj,M,45-49,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,M,45-49,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -16987,7 +16987,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,45-49,(N00-N99) Bolesti genitalno-urinarnog sistema,5
 2022,Broj,M,45-49,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",19
 2022,Broj,M,45-49,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",20
-2022,Broj,M,45-49,,15
+2022,Broj,M,45-49,(U00-U99) Šifre za posebne namjene,15
 2022,Broj,M,45-49,Nepoznato,11
 2022,Broj,Ž,45-49,(F00-F99) Duševni poremećaji i poremećaji ponašanja,0
 2022,Broj,Ž,45-49,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -17007,7 +17007,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,45-49,(I00-I99) Bolesti cirkulacijskog sistema,30
 2022,Broj,Ž,45-49,(K00-K93) Bolesti digestivnog sistema,3
 2022,Broj,Ž,45-49,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",3
-2022,Broj,Ž,45-49,,5
+2022,Broj,Ž,45-49,(U00-U99) Šifre za posebne namjene,5
 2022,Broj,Ž,45-49,Nepoznato,4
 2022,Broj,Oba spola,50-54,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
 2022,Broj,Oba spola,50-54,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -17027,7 +17027,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,50-54,(N00-N99) Bolesti genitalno-urinarnog sistema,6
 2022,Broj,Oba spola,50-54,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",40
 2022,Broj,Oba spola,50-54,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",21
-2022,Broj,Oba spola,50-54,,28
+2022,Broj,Oba spola,50-54,(U00-U99) Šifre za posebne namjene,28
 2022,Broj,Oba spola,50-54,Nepoznato,23
 2022,Broj,M,50-54,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
 2022,Broj,M,50-54,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -17047,7 +17047,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,50-54,(N00-N99) Bolesti genitalno-urinarnog sistema,5
 2022,Broj,M,50-54,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",26
 2022,Broj,M,50-54,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",15
-2022,Broj,M,50-54,,18
+2022,Broj,M,50-54,(U00-U99) Šifre za posebne namjene,18
 2022,Broj,M,50-54,Nepoznato,15
 2022,Broj,Ž,50-54,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
 2022,Broj,Ž,50-54,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -17067,7 +17067,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,50-54,(K00-K93) Bolesti digestivnog sistema,3
 2022,Broj,Ž,50-54,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",14
 2022,Broj,Ž,50-54,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",6
-2022,Broj,Ž,50-54,,10
+2022,Broj,Ž,50-54,(U00-U99) Šifre za posebne namjene,10
 2022,Broj,Ž,50-54,Nepoznato,8
 2022,Broj,Oba spola,55-59,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,Oba spola,55-59,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -17087,7 +17087,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,55-59,(N00-N99) Bolesti genitalno-urinarnog sistema,18
 2022,Broj,Oba spola,55-59,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",73
 2022,Broj,Oba spola,55-59,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",38
-2022,Broj,Oba spola,55-59,,57
+2022,Broj,Oba spola,55-59,(U00-U99) Šifre za posebne namjene,57
 2022,Broj,Oba spola,55-59,Nepoznato,31
 2022,Broj,M,55-59,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,M,55-59,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -17107,7 +17107,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,55-59,(N00-N99) Bolesti genitalno-urinarnog sistema,9
 2022,Broj,M,55-59,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",56
 2022,Broj,M,55-59,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",29
-2022,Broj,M,55-59,,39
+2022,Broj,M,55-59,(U00-U99) Šifre za posebne namjene,39
 2022,Broj,M,55-59,Nepoznato,23
 2022,Broj,Ž,55-59,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
 2022,Broj,Ž,55-59,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -17127,7 +17127,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,55-59,(N00-N99) Bolesti genitalno-urinarnog sistema,9
 2022,Broj,Ž,55-59,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",17
 2022,Broj,Ž,55-59,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",9
-2022,Broj,Ž,55-59,,18
+2022,Broj,Ž,55-59,(U00-U99) Šifre za posebne namjene,18
 2022,Broj,Ž,55-59,Nepoznato,8
 2022,Broj,Oba spola,60-64,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,Oba spola,60-64,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -17147,7 +17147,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,60-64,(N00-N99) Bolesti genitalno-urinarnog sistema,26
 2022,Broj,Oba spola,60-64,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",111
 2022,Broj,Oba spola,60-64,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",41
-2022,Broj,Oba spola,60-64,,131
+2022,Broj,Oba spola,60-64,(U00-U99) Šifre za posebne namjene,131
 2022,Broj,Oba spola,60-64,Nepoznato,40
 2022,Broj,M,60-64,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,M,60-64,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -17167,7 +17167,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,60-64,(N00-N99) Bolesti genitalno-urinarnog sistema,12
 2022,Broj,M,60-64,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",77
 2022,Broj,M,60-64,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",29
-2022,Broj,M,60-64,,65
+2022,Broj,M,60-64,(U00-U99) Šifre za posebne namjene,65
 2022,Broj,M,60-64,Nepoznato,31
 2022,Broj,Ž,60-64,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,Ž,60-64,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
@@ -17187,7 +17187,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,60-64,(N00-N99) Bolesti genitalno-urinarnog sistema,14
 2022,Broj,Ž,60-64,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",34
 2022,Broj,Ž,60-64,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",12
-2022,Broj,Ž,60-64,,66
+2022,Broj,Ž,60-64,(U00-U99) Šifre za posebne namjene,66
 2022,Broj,Ž,60-64,Nepoznato,9
 2022,Broj,Oba spola,65-69,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2022,Broj,Oba spola,65-69,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -17207,7 +17207,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,65-69,(N00-N99) Bolesti genitalno-urinarnog sistema,43
 2022,Broj,Oba spola,65-69,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",119
 2022,Broj,Oba spola,65-69,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",30
-2022,Broj,Oba spola,65-69,,212
+2022,Broj,Oba spola,65-69,(U00-U99) Šifre za posebne namjene,212
 2022,Broj,Oba spola,65-69,Nepoznato,65
 2022,Broj,M,65-69,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
 2022,Broj,M,65-69,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -17227,7 +17227,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,65-69,(N00-N99) Bolesti genitalno-urinarnog sistema,25
 2022,Broj,M,65-69,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",78
 2022,Broj,M,65-69,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",21
-2022,Broj,M,65-69,,135
+2022,Broj,M,65-69,(U00-U99) Šifre za posebne namjene,135
 2022,Broj,M,65-69,Nepoznato,42
 2022,Broj,Ž,65-69,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,Ž,65-69,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -17247,7 +17247,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,65-69,(N00-N99) Bolesti genitalno-urinarnog sistema,18
 2022,Broj,Ž,65-69,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",41
 2022,Broj,Ž,65-69,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",9
-2022,Broj,Ž,65-69,,77
+2022,Broj,Ž,65-69,(U00-U99) Šifre za posebne namjene,77
 2022,Broj,Ž,65-69,Nepoznato,23
 2022,Broj,Oba spola,70-74,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,Oba spola,70-74,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -17267,7 +17267,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,70-74,(N00-N99) Bolesti genitalno-urinarnog sistema,50
 2022,Broj,Oba spola,70-74,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",136
 2022,Broj,Oba spola,70-74,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",38
-2022,Broj,Oba spola,70-74,,282
+2022,Broj,Oba spola,70-74,(U00-U99) Šifre za posebne namjene,282
 2022,Broj,Oba spola,70-74,Nepoznato,59
 2022,Broj,M,70-74,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",0
 2022,Broj,M,70-74,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -17287,7 +17287,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,70-74,(N00-N99) Bolesti genitalno-urinarnog sistema,30
 2022,Broj,M,70-74,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",78
 2022,Broj,M,70-74,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",29
-2022,Broj,M,70-74,,166
+2022,Broj,M,70-74,(U00-U99) Šifre za posebne namjene,166
 2022,Broj,M,70-74,Nepoznato,30
 2022,Broj,Ž,70-74,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,Ž,70-74,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -17307,7 +17307,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,70-74,(N00-N99) Bolesti genitalno-urinarnog sistema,20
 2022,Broj,Ž,70-74,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",58
 2022,Broj,Ž,70-74,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",9
-2022,Broj,Ž,70-74,,116
+2022,Broj,Ž,70-74,(U00-U99) Šifre za posebne namjene,116
 2022,Broj,Ž,70-74,Nepoznato,29
 2022,Broj,Oba spola,75-79,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2022,Broj,Oba spola,75-79,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -17326,7 +17326,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,75-79,(N00-N99) Bolesti genitalno-urinarnog sistema,56
 2022,Broj,Oba spola,75-79,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",138
 2022,Broj,Oba spola,75-79,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",19
-2022,Broj,Oba spola,75-79,,341
+2022,Broj,Oba spola,75-79,(U00-U99) Šifre za posebne namjene,341
 2022,Broj,Oba spola,75-79,(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom,3
 2022,Broj,Oba spola,75-79,Nepoznato,71
 2022,Broj,M,75-79,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -17347,7 +17347,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,75-79,(N00-N99) Bolesti genitalno-urinarnog sistema,17
 2022,Broj,M,75-79,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",67
 2022,Broj,M,75-79,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",15
-2022,Broj,M,75-79,,169
+2022,Broj,M,75-79,(U00-U99) Šifre za posebne namjene,169
 2022,Broj,M,75-79,Nepoznato,48
 2022,Broj,Ž,75-79,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2022,Broj,Ž,75-79,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -17367,7 +17367,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,75-79,(N00-N99) Bolesti genitalno-urinarnog sistema,39
 2022,Broj,Ž,75-79,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",71
 2022,Broj,Ž,75-79,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",4
-2022,Broj,Ž,75-79,,172
+2022,Broj,Ž,75-79,(U00-U99) Šifre za posebne namjene,172
 2022,Broj,Ž,75-79,Nepoznato,23
 2022,Broj,Oba spola,80-84,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2022,Broj,Oba spola,80-84,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -17387,7 +17387,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,80-84,(N00-N99) Bolesti genitalno-urinarnog sistema,95
 2022,Broj,Oba spola,80-84,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",200
 2022,Broj,Oba spola,80-84,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",27
-2022,Broj,Oba spola,80-84,,428
+2022,Broj,Oba spola,80-84,(U00-U99) Šifre za posebne namjene,428
 2022,Broj,Oba spola,80-84,Nepoznato,93
 2022,Broj,M,80-84,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
 2022,Broj,M,80-84,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -17407,7 +17407,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,80-84,(N00-N99) Bolesti genitalno-urinarnog sistema,38
 2022,Broj,M,80-84,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",83
 2022,Broj,M,80-84,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",21
-2022,Broj,M,80-84,,195
+2022,Broj,M,80-84,(U00-U99) Šifre za posebne namjene,195
 2022,Broj,M,80-84,Nepoznato,43
 2022,Broj,Ž,80-84,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,Ž,80-84,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
@@ -17427,7 +17427,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,80-84,(N00-N99) Bolesti genitalno-urinarnog sistema,57
 2022,Broj,Ž,80-84,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",117
 2022,Broj,Ž,80-84,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",6
-2022,Broj,Ž,80-84,,233
+2022,Broj,Ž,80-84,(U00-U99) Šifre za posebne namjene,233
 2022,Broj,Ž,80-84,Nepoznato,50
 2022,Broj,Oba spola,85+,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2022,Broj,Oba spola,85+,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -17447,7 +17447,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Oba spola,85+,(N00-N99) Bolesti genitalno-urinarnog sistema,68
 2022,Broj,Oba spola,85+,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",354
 2022,Broj,Oba spola,85+,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",22
-2022,Broj,Oba spola,85+,,402
+2022,Broj,Oba spola,85+,(U00-U99) Šifre za posebne namjene,402
 2022,Broj,Oba spola,85+,Nepoznato,129
 2022,Broj,M,85+,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2022,Broj,M,85+,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,0
@@ -17467,7 +17467,7 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,M,85+,(N00-N99) Bolesti genitalno-urinarnog sistema,35
 2022,Broj,M,85+,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",112
 2022,Broj,M,85+,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",18
-2022,Broj,M,85+,,212
+2022,Broj,M,85+,(U00-U99) Šifre za posebne namjene,212
 2022,Broj,M,85+,Nepoznato,50
 2022,Broj,Ž,85+,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
 2022,Broj,Ž,85+,(P00-P96) Određena stanja nastala u perinatalnom periodu,0
@@ -17487,5 +17487,5 @@ Year,UNIT_MEASURE,Spol,Starosna dob,Uzrok smrti,Value
 2022,Broj,Ž,85+,(N00-N99) Bolesti genitalno-urinarnog sistema,33
 2022,Broj,Ž,85+,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",242
 2022,Broj,Ž,85+,"(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",4
-2022,Broj,Ž,85+,,190
+2022,Broj,Ž,85+,(U00-U99) Šifre za posebne namjene,190
 2022,Broj,Ž,85+,Nepoznato,79

@@ -18,6 +18,6 @@ injuries_poisoning_and_consequences,"(S00-T98) Injuries, poisoning and consequen
 mental_and_behavioural_disorders,(F00-F99) Mental and behavioural disorders,(F00-F99) Duševni poremećaji i poremećaji ponašanja,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,(F00-F99) Duševni poremećaji i poremećaji ponašanja,63,1
 neoplasms,"(C00-C97,D00-D48) Neoplasms","(C00-C97,D00-D48) Neoplazme","(Ц00-Ц97,Д00-Д48) Неоплазме","(C00-C97,D00-D48) Neoplazme",63,1
 pregnancy_childbirth_and_the,"(O00-O99) Pregnancy, childbirth and the puerperium","(O00-O99) Trudnoća, porođaj i postporođajni period","(О00-О99) Трудноћа, порођај и постпорођајни период","(O00-O99) Trudnoća, porođaj i postporođajni period",63,1
-special_purpose_codes,(U00-U99) Special purpose codes,,(У00-У99) Шифре за посебне намјене,(U00-U99) Šifre za posebne namjene,60,1
+special_purpose_codes,(U00-U99) Special purpose codes,(U00-U99) Šifre za posebne namjene,(У00-У99) Шифре за посебне намјене,(U00-U99) Šifre za posebne namjene,60,1
 symptoms_signs_and_abnormal,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani","(Р00-Р99) Симптоми, знакови и абнормални клинички и лабораторијски налази који нису другдје класифицирани","(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo",63,1
 unknown,Unknown,Nepoznato,Непознато,Nepoznato,63,1

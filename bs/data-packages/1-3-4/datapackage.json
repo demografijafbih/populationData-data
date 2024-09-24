@@ -90,7 +90,7 @@
                 "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
                 "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom",
                 "(H60–H95) Bolesti uha i adneksa",
-                null,
+                "(U00-U99) Šifre za posebne namjene",
                 ""
               ]
             },
