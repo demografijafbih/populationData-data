@@ -24,6 +24,9 @@ Year,UNIT_MEASURE,Sex,Value
 2018,Number,M,28.5
 2019,Number,M,28.3
 2020,Number,M,28.4
+2021,Number,M,28.5
+2022,Number,M,28.6
+2023,Number,M,28.7
 1996,Number,F,24.4
 1997,Number,F,23.8
 1998,Number,F,24.4
@@ -49,3 +52,6 @@ Year,UNIT_MEASURE,Sex,Value
 2018,Number,F,25.8
 2019,Number,F,25.7
 2020,Number,F,25.7
+2021,Number,F,26.0
+2022,Number,F,26.0
+2023,Number,F,26.1
