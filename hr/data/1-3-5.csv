@@ -26,6 +26,7 @@ Year,UNIT_MEASURE,Spol,Value
 2020,Broj,Oba spola,53
 2021,Broj,Oba spola,66
 2022,Broj,Oba spola,69
+2023,Broj,Oba spola,53
 1996,Broj,M,107
 1997,Broj,M,98
 1998,Broj,M,76
@@ -53,6 +54,7 @@ Year,UNIT_MEASURE,Spol,Value
 2020,Broj,M,28
 2021,Broj,M,28
 2022,Broj,M,36
+2023,Broj,M,21
 1996,Broj,Ž,103
 1997,Broj,Ž,69
 1998,Broj,Ž,70
@@ -80,3 +82,4 @@ Year,UNIT_MEASURE,Spol,Value
 2020,Broj,Ž,25
 2021,Broj,Ž,38
 2022,Broj,Ž,35
+2023,Broj,Ž,32
