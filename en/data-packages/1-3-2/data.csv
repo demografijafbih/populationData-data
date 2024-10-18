@@ -26,6 +26,7 @@ Year,UNIT_MEASURE,Sex,Value
 2020,Number,Both sexes,119
 2021,Number,Both sexes,99
 2022,Number,Both sexes,108
+2023,Number,Both sexes,109
 1996,Number,M,261
 1997,Number,M,276
 1998,Number,M,235
@@ -53,6 +54,7 @@ Year,UNIT_MEASURE,Sex,Value
 2020,Number,M,71
 2021,Number,M,56
 2022,Number,M,59
+2023,Number,M,62
 1996,Number,F,213
 1997,Number,F,169
 1998,Number,F,147
@@ -80,3 +82,4 @@ Year,UNIT_MEASURE,Sex,Value
 2020,Number,F,48
 2021,Number,F,43
 2022,Number,F,49
+2023,Number,F,47
