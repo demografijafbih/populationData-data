@@ -26,6 +26,7 @@ Year,UNIT_MEASURE,AGE,Value
 2020,permil,under_15,0.0
 2021,permil,under_15,0.0
 2022,permil,under_15,0.0
+2023,permil,under_15,0.0
 1996,permil,15-19,36.4
 1997,permil,15-19,38.6
 1998,permil,15-19,29.5
@@ -53,6 +54,7 @@ Year,UNIT_MEASURE,AGE,Value
 2020,permil,15-19,9.2
 2021,permil,15-19,9.1
 2022,permil,15-19,8.2
+2023,permil,15-19,6.6
 1996,permil,20-24,119.0
 1997,permil,20-24,134.5
 1998,permil,20-24,125.4
@@ -80,6 +82,7 @@ Year,UNIT_MEASURE,AGE,Value
 2020,permil,20-24,47.9
 2021,permil,20-24,46.8
 2022,permil,20-24,45.2
+2023,permil,20-24,43.6
 1996,permil,25-29,124.4
 1997,permil,25-29,115.8
 1998,permil,25-29,111.6
@@ -107,6 +110,7 @@ Year,UNIT_MEASURE,AGE,Value
 2020,permil,25-29,75.3
 2021,permil,25-29,71.5
 2022,permil,25-29,72.7
+2023,permil,25-29,72.5
 1996,permil,30-34,76.4
 1997,permil,30-34,69.4
 1998,permil,30-34,63.6
@@ -134,6 +138,7 @@ Year,UNIT_MEASURE,AGE,Value
 2020,permil,30-34,62.8
 2021,permil,30-34,66.0
 2022,permil,30-34,64.0
+2023,permil,30-34,63.9
 1996,permil,35-39,37.5
 1997,permil,35-39,28.0
 1998,permil,35-39,27.4
@@ -161,6 +166,7 @@ Year,UNIT_MEASURE,AGE,Value
 2020,permil,35-39,30.7
 2021,permil,35-39,30.2
 2022,permil,35-39,30.5
+2023,permil,35-39,30.4
 1996,permil,40-44,6.2
 1997,permil,40-44,6.1
 1998,permil,40-44,5.9
@@ -188,6 +194,7 @@ Year,UNIT_MEASURE,AGE,Value
 2020,permil,40-44,5.7
 2021,permil,40-44,5.8
 2022,permil,40-44,6.0
+2023,permil,40-44,6.8
 1996,permil,45-49,0.4
 1997,permil,45-49,0.5
 1998,permil,45-49,0.5
@@ -215,3 +222,4 @@ Year,UNIT_MEASURE,AGE,Value
 2020,permil,45-49,0.5
 2021,permil,45-49,0.3
 2022,permil,45-49,0.2
+2023,permil,45-49,0.3
