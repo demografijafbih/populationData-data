@@ -8,6 +8,8 @@ Year,UNIT_MEASURE,Sex,Value
 2019,Number,M,74.9
 2020,Number,M,73.1
 2021,Number,M,72.4
+2022,Number,M,75.2
+2023,Number,M,77.0
 2013,Number,F,78.5
 2014,Number,F,78.9
 2015,Number,F,78.3
@@ -17,3 +19,5 @@ Year,UNIT_MEASURE,Sex,Value
 2019,Number,F,79.2
 2020,Number,F,78.3
 2021,Number,F,77.2
+2022,Number,F,79.6
+2023,Number,F,81.2
