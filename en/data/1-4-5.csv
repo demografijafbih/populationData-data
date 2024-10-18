@@ -16,6 +16,7 @@ Year,UNIT_MEASURE,Sex,Value
 2020,Number,M,40.6
 2021,Number,M,40.5
 2022,Number,M,41.4
+2023,Number,M,41.1
 2006,Number,F,35.7
 2007,Number,F,35.5
 2008,Number,F,35.4
@@ -33,3 +34,4 @@ Year,UNIT_MEASURE,Sex,Value
 2020,Number,F,36.6
 2021,Number,F,36.7
 2022,Number,F,37.8
+2023,Number,F,37.6
