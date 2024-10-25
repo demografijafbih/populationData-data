@@ -17489,3 +17489,1203 @@ Year,UNIT_MEASURE,Sex,AGE,Cause_of_death,Value
 2022,NUMBER,F,85+,injuries_poisoning_and_consequences,4
 2022,NUMBER,F,85+,special_purpose_codes,190
 2022,NUMBER,F,85+,unknown,79
+2023,NUMBER,_T,T,Total,20.361
+2023,NUMBER,_T,0,Total,109
+2023,NUMBER,_T, 1-4,Total,9
+2023,NUMBER,_T, 5-9,Total,6
+2023,NUMBER,_T, 10-14,Total,19
+2023,NUMBER,_T,15-19,Total,25
+2023,NUMBER,_T,20-24,Total,49
+2023,NUMBER,_T,25-29,Total,62
+2023,NUMBER,_T,30-34,Total,77
+2023,NUMBER,_T,35-39,Total,118
+2023,NUMBER,_T,40-44,Total,198
+2023,NUMBER,_T,45-49,Total,314
+2023,NUMBER,_T,50-54,Total,491
+2023,NUMBER,_T,55-59,Total,999
+2023,NUMBER,_T,60-64,Total,1.785
+2023,NUMBER,_T,65-69,Total,2.407
+2023,NUMBER,_T,70-74,Total,2.895
+2023,NUMBER,_T,75-79,Total,2.867
+2023,NUMBER,_T,80-84,Total,3.496
+2023,NUMBER,_T,85+,Total,4.435
+2023,NUMBER,M,T,Total,10.246
+2023,NUMBER,M,0,Total,62
+2023,NUMBER,M, 1-4,Total,3
+2023,NUMBER,M, 5-9,Total,4
+2023,NUMBER,M, 10-14,Total,10
+2023,NUMBER,M,15-19,Total,17
+2023,NUMBER,M,20-24,Total,39
+2023,NUMBER,M,25-29,Total,47
+2023,NUMBER,M,30-34,Total,58
+2023,NUMBER,M,35-39,Total,74
+2023,NUMBER,M,40-44,Total,123
+2023,NUMBER,M,45-49,Total,211
+2023,NUMBER,M,50-54,Total,307
+2023,NUMBER,M,55-59,Total,653
+2023,NUMBER,M,60-64,Total,1.144
+2023,NUMBER,M,65-69,Total,1.486
+2023,NUMBER,M,70-74,Total,1.634
+2023,NUMBER,M,75-79,Total,1.367
+2023,NUMBER,M,80-84,Total,1.455
+2023,NUMBER,M,85+,Total,1.552
+2023,NUMBER,F,T,Total,10.115
+2023,NUMBER,F,0,Total,47
+2023,NUMBER,F, 1-4,Total,6
+2023,NUMBER,F, 5-9,Total,2
+2023,NUMBER,F, 10-14,Total,9
+2023,NUMBER,F,15-19,Total,8
+2023,NUMBER,F,20-24,Total,10
+2023,NUMBER,F,25-29,Total,15
+2023,NUMBER,F,30-34,Total,19
+2023,NUMBER,F,35-39,Total,44
+2023,NUMBER,F,40-44,Total,75
+2023,NUMBER,F,45-49,Total,103
+2023,NUMBER,F,50-54,Total,184
+2023,NUMBER,F,55-59,Total,346
+2023,NUMBER,F,60-64,Total,641
+2023,NUMBER,F,65-69,Total,921
+2023,NUMBER,F,70-74,Total,1.261
+2023,NUMBER,F,75-79,Total,1.500
+2023,NUMBER,F,80-84,Total,2.041
+2023,NUMBER,F,85+,Total,2.883
+2023,NUMBER,_T,T,infectious_and_parasitic,243
+2023,NUMBER,_T,0,infectious_and_parasitic,1
+2023,NUMBER,_T, 1-4,infectious_and_parasitic,0
+2023,NUMBER,_T, 5-9,infectious_and_parasitic,0
+2023,NUMBER,_T, 10-14,infectious_and_parasitic,1
+2023,NUMBER,_T,15-19,infectious_and_parasitic,1
+2023,NUMBER,_T,20-24,infectious_and_parasitic,2
+2023,NUMBER,_T,25-29,infectious_and_parasitic,1
+2023,NUMBER,_T,30-34,infectious_and_parasitic,1
+2023,NUMBER,_T,35-39,infectious_and_parasitic,1
+2023,NUMBER,_T,40-44,infectious_and_parasitic,5
+2023,NUMBER,_T,45-49,infectious_and_parasitic,7
+2023,NUMBER,_T,50-54,infectious_and_parasitic,6
+2023,NUMBER,_T,55-59,infectious_and_parasitic,11
+2023,NUMBER,_T,60-64,infectious_and_parasitic,19
+2023,NUMBER,_T,65-69,infectious_and_parasitic,32
+2023,NUMBER,_T,70-74,infectious_and_parasitic,39
+2023,NUMBER,_T,75-79,infectious_and_parasitic,42
+2023,NUMBER,_T,80-84,infectious_and_parasitic,38
+2023,NUMBER,_T,85+,infectious_and_parasitic,36
+2023,NUMBER,M,T,infectious_and_parasitic,127
+2023,NUMBER,M,0,infectious_and_parasitic,1
+2023,NUMBER,M, 1-4,infectious_and_parasitic,0
+2023,NUMBER,M, 5-9,infectious_and_parasitic,0
+2023,NUMBER,M, 10-14,infectious_and_parasitic,0
+2023,NUMBER,M,15-19,infectious_and_parasitic,1
+2023,NUMBER,M,20-24,infectious_and_parasitic,2
+2023,NUMBER,M,25-29,infectious_and_parasitic,0
+2023,NUMBER,M,30-34,infectious_and_parasitic,1
+2023,NUMBER,M,35-39,infectious_and_parasitic,1
+2023,NUMBER,M,40-44,infectious_and_parasitic,3
+2023,NUMBER,M,45-49,infectious_and_parasitic,6
+2023,NUMBER,M,50-54,infectious_and_parasitic,5
+2023,NUMBER,M,55-59,infectious_and_parasitic,7
+2023,NUMBER,M,60-64,infectious_and_parasitic,13
+2023,NUMBER,M,65-69,infectious_and_parasitic,17
+2023,NUMBER,M,70-74,infectious_and_parasitic,24
+2023,NUMBER,M,75-79,infectious_and_parasitic,16
+2023,NUMBER,M,80-84,infectious_and_parasitic,17
+2023,NUMBER,M,85+,infectious_and_parasitic,13
+2023,NUMBER,F,T,infectious_and_parasitic,116
+2023,NUMBER,F,0,infectious_and_parasitic,0
+2023,NUMBER,F, 1-4,infectious_and_parasitic,0
+2023,NUMBER,F, 5-9,infectious_and_parasitic,0
+2023,NUMBER,F, 10-14,infectious_and_parasitic,1
+2023,NUMBER,F,15-19,infectious_and_parasitic,0
+2023,NUMBER,F,20-24,infectious_and_parasitic,0
+2023,NUMBER,F,25-29,infectious_and_parasitic,1
+2023,NUMBER,F,30-34,infectious_and_parasitic,0
+2023,NUMBER,F,35-39,infectious_and_parasitic,0
+2023,NUMBER,F,40-44,infectious_and_parasitic,2
+2023,NUMBER,F,45-49,infectious_and_parasitic,1
+2023,NUMBER,F,50-54,infectious_and_parasitic,1
+2023,NUMBER,F,55-59,infectious_and_parasitic,4
+2023,NUMBER,F,60-64,infectious_and_parasitic,6
+2023,NUMBER,F,65-69,infectious_and_parasitic,15
+2023,NUMBER,F,70-74,infectious_and_parasitic,15
+2023,NUMBER,F,75-79,infectious_and_parasitic,26
+2023,NUMBER,F,80-84,infectious_and_parasitic,21
+2023,NUMBER,F,85+,infectious_and_parasitic,23
+2023,NUMBER,_T,T,neoplasms,4.580
+2023,NUMBER,_T,0,neoplasms,1
+2023,NUMBER,_T, 1-4,neoplasms,0
+2023,NUMBER,_T, 5-9,neoplasms,1
+2023,NUMBER,_T, 10-14,neoplasms,1
+2023,NUMBER,_T,15-19,neoplasms,2
+2023,NUMBER,_T,20-24,neoplasms,6
+2023,NUMBER,_T,25-29,neoplasms,8
+2023,NUMBER,_T,30-34,neoplasms,15
+2023,NUMBER,_T,35-39,neoplasms,29
+2023,NUMBER,_T,40-44,neoplasms,55
+2023,NUMBER,_T,45-49,neoplasms,90
+2023,NUMBER,_T,50-54,neoplasms,177
+2023,NUMBER,_T,55-59,neoplasms,331
+2023,NUMBER,_T,60-64,neoplasms,629
+2023,NUMBER,_T,65-69,neoplasms,836
+2023,NUMBER,_T,70-74,neoplasms,858
+2023,NUMBER,_T,75-79,neoplasms,634
+2023,NUMBER,_T,80-84,neoplasms,517
+2023,NUMBER,_T,85+,neoplasms,390
+2023,NUMBER,M,T,neoplasms,2.532
+2023,NUMBER,M,0,neoplasms,0
+2023,NUMBER,M, 1-4,neoplasms,0
+2023,NUMBER,M, 5-9,neoplasms,1
+2023,NUMBER,M, 10-14,neoplasms,0
+2023,NUMBER,M,15-19,neoplasms,1
+2023,NUMBER,M,20-24,neoplasms,2
+2023,NUMBER,M,25-29,neoplasms,6
+2023,NUMBER,M,30-34,neoplasms,10
+2023,NUMBER,M,35-39,neoplasms,8
+2023,NUMBER,M,40-44,neoplasms,21
+2023,NUMBER,M,45-49,neoplasms,42
+2023,NUMBER,M,50-54,neoplasms,78
+2023,NUMBER,M,55-59,neoplasms,167
+2023,NUMBER,M,60-64,neoplasms,362
+2023,NUMBER,M,65-69,neoplasms,499
+2023,NUMBER,M,70-74,neoplasms,514
+2023,NUMBER,M,75-79,neoplasms,349
+2023,NUMBER,M,80-84,neoplasms,283
+2023,NUMBER,M,85+,neoplasms,189
+2023,NUMBER,F,T,neoplasms,2.048
+2023,NUMBER,F,0,neoplasms,1
+2023,NUMBER,F, 1-4,neoplasms,0
+2023,NUMBER,F, 5-9,neoplasms,0
+2023,NUMBER,F, 10-14,neoplasms,1
+2023,NUMBER,F,15-19,neoplasms,1
+2023,NUMBER,F,20-24,neoplasms,4
+2023,NUMBER,F,25-29,neoplasms,2
+2023,NUMBER,F,30-34,neoplasms,5
+2023,NUMBER,F,35-39,neoplasms,21
+2023,NUMBER,F,40-44,neoplasms,34
+2023,NUMBER,F,45-49,neoplasms,48
+2023,NUMBER,F,50-54,neoplasms,99
+2023,NUMBER,F,55-59,neoplasms,164
+2023,NUMBER,F,60-64,neoplasms,267
+2023,NUMBER,F,65-69,neoplasms,337
+2023,NUMBER,F,70-74,neoplasms,344
+2023,NUMBER,F,75-79,neoplasms,285
+2023,NUMBER,F,80-84,neoplasms,234
+2023,NUMBER,F,85+,neoplasms,201
+2023,NUMBER,_T,T,diseases_of_the_blood,51
+2023,NUMBER,_T,0,diseases_of_the_blood,0
+2023,NUMBER,_T, 1-4,diseases_of_the_blood,1
+2023,NUMBER,_T, 5-9,diseases_of_the_blood,0
+2023,NUMBER,_T, 10-14,diseases_of_the_blood,0
+2023,NUMBER,_T,15-19,diseases_of_the_blood,0
+2023,NUMBER,_T,20-24,diseases_of_the_blood,0
+2023,NUMBER,_T,25-29,diseases_of_the_blood,0
+2023,NUMBER,_T,30-34,diseases_of_the_blood,0
+2023,NUMBER,_T,35-39,diseases_of_the_blood,1
+2023,NUMBER,_T,40-44,diseases_of_the_blood,2
+2023,NUMBER,_T,45-49,diseases_of_the_blood,3
+2023,NUMBER,_T,50-54,diseases_of_the_blood,0
+2023,NUMBER,_T,55-59,diseases_of_the_blood,2
+2023,NUMBER,_T,60-64,diseases_of_the_blood,3
+2023,NUMBER,_T,65-69,diseases_of_the_blood,8
+2023,NUMBER,_T,70-74,diseases_of_the_blood,7
+2023,NUMBER,_T,75-79,diseases_of_the_blood,5
+2023,NUMBER,_T,80-84,diseases_of_the_blood,11
+2023,NUMBER,_T,85+,diseases_of_the_blood,8
+2023,NUMBER,M,T,diseases_of_the_blood,20
+2023,NUMBER,M,0,diseases_of_the_blood,0
+2023,NUMBER,M, 1-4,diseases_of_the_blood,0
+2023,NUMBER,M, 5-9,diseases_of_the_blood,0
+2023,NUMBER,M, 10-14,diseases_of_the_blood,0
+2023,NUMBER,M,15-19,diseases_of_the_blood,0
+2023,NUMBER,M,20-24,diseases_of_the_blood,0
+2023,NUMBER,M,25-29,diseases_of_the_blood,0
+2023,NUMBER,M,30-34,diseases_of_the_blood,0
+2023,NUMBER,M,35-39,diseases_of_the_blood,0
+2023,NUMBER,M,40-44,diseases_of_the_blood,1
+2023,NUMBER,M,45-49,diseases_of_the_blood,2
+2023,NUMBER,M,50-54,diseases_of_the_blood,0
+2023,NUMBER,M,55-59,diseases_of_the_blood,1
+2023,NUMBER,M,60-64,diseases_of_the_blood,0
+2023,NUMBER,M,65-69,diseases_of_the_blood,4
+2023,NUMBER,M,70-74,diseases_of_the_blood,1
+2023,NUMBER,M,75-79,diseases_of_the_blood,2
+2023,NUMBER,M,80-84,diseases_of_the_blood,5
+2023,NUMBER,M,85+,diseases_of_the_blood,4
+2023,NUMBER,F,T,diseases_of_the_blood,31
+2023,NUMBER,F,0,diseases_of_the_blood,0
+2023,NUMBER,F, 1-4,diseases_of_the_blood,1
+2023,NUMBER,F, 5-9,diseases_of_the_blood,0
+2023,NUMBER,F, 10-14,diseases_of_the_blood,0
+2023,NUMBER,F,15-19,diseases_of_the_blood,0
+2023,NUMBER,F,20-24,diseases_of_the_blood,0
+2023,NUMBER,F,25-29,diseases_of_the_blood,0
+2023,NUMBER,F,30-34,diseases_of_the_blood,0
+2023,NUMBER,F,35-39,diseases_of_the_blood,1
+2023,NUMBER,F,40-44,diseases_of_the_blood,1
+2023,NUMBER,F,45-49,diseases_of_the_blood,1
+2023,NUMBER,F,50-54,diseases_of_the_blood,0
+2023,NUMBER,F,55-59,diseases_of_the_blood,1
+2023,NUMBER,F,60-64,diseases_of_the_blood,3
+2023,NUMBER,F,65-69,diseases_of_the_blood,4
+2023,NUMBER,F,70-74,diseases_of_the_blood,6
+2023,NUMBER,F,75-79,diseases_of_the_blood,3
+2023,NUMBER,F,80-84,diseases_of_the_blood,6
+2023,NUMBER,F,85+,diseases_of_the_blood,4
+2023,NUMBER,_T,T,endocrine_metabolic_and_nutritional,1.215
+2023,NUMBER,_T,0,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,_T, 1-4,endocrine_metabolic_and_nutritional,1
+2023,NUMBER,_T, 5-9,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,_T, 10-14,endocrine_metabolic_and_nutritional,2
+2023,NUMBER,_T,15-19,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,_T,20-24,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,_T,25-29,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,_T,30-34,endocrine_metabolic_and_nutritional,3
+2023,NUMBER,_T,35-39,endocrine_metabolic_and_nutritional,5
+2023,NUMBER,_T,40-44,endocrine_metabolic_and_nutritional,7
+2023,NUMBER,_T,45-49,endocrine_metabolic_and_nutritional,10
+2023,NUMBER,_T,50-54,endocrine_metabolic_and_nutritional,13
+2023,NUMBER,_T,55-59,endocrine_metabolic_and_nutritional,36
+2023,NUMBER,_T,60-64,endocrine_metabolic_and_nutritional,69
+2023,NUMBER,_T,65-69,endocrine_metabolic_and_nutritional,128
+2023,NUMBER,_T,70-74,endocrine_metabolic_and_nutritional,194
+2023,NUMBER,_T,75-79,endocrine_metabolic_and_nutritional,207
+2023,NUMBER,_T,80-84,endocrine_metabolic_and_nutritional,282
+2023,NUMBER,_T,85+,endocrine_metabolic_and_nutritional,258
+2023,NUMBER,M,T,endocrine_metabolic_and_nutritional,462
+2023,NUMBER,M,0,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,M, 1-4,endocrine_metabolic_and_nutritional,1
+2023,NUMBER,M, 5-9,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,M, 10-14,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,M,15-19,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,M,20-24,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,M,25-29,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,M,30-34,endocrine_metabolic_and_nutritional,2
+2023,NUMBER,M,35-39,endocrine_metabolic_and_nutritional,4
+2023,NUMBER,M,40-44,endocrine_metabolic_and_nutritional,5
+2023,NUMBER,M,45-49,endocrine_metabolic_and_nutritional,5
+2023,NUMBER,M,50-54,endocrine_metabolic_and_nutritional,9
+2023,NUMBER,M,55-59,endocrine_metabolic_and_nutritional,21
+2023,NUMBER,M,60-64,endocrine_metabolic_and_nutritional,41
+2023,NUMBER,M,65-69,endocrine_metabolic_and_nutritional,68
+2023,NUMBER,M,70-74,endocrine_metabolic_and_nutritional,84
+2023,NUMBER,M,75-79,endocrine_metabolic_and_nutritional,74
+2023,NUMBER,M,80-84,endocrine_metabolic_and_nutritional,86
+2023,NUMBER,M,85+,endocrine_metabolic_and_nutritional,62
+2023,NUMBER,F,T,endocrine_metabolic_and_nutritional,753
+2023,NUMBER,F,0,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,F, 1-4,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,F, 5-9,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,F, 10-14,endocrine_metabolic_and_nutritional,2
+2023,NUMBER,F,15-19,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,F,20-24,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,F,25-29,endocrine_metabolic_and_nutritional,0
+2023,NUMBER,F,30-34,endocrine_metabolic_and_nutritional,1
+2023,NUMBER,F,35-39,endocrine_metabolic_and_nutritional,1
+2023,NUMBER,F,40-44,endocrine_metabolic_and_nutritional,2
+2023,NUMBER,F,45-49,endocrine_metabolic_and_nutritional,5
+2023,NUMBER,F,50-54,endocrine_metabolic_and_nutritional,4
+2023,NUMBER,F,55-59,endocrine_metabolic_and_nutritional,15
+2023,NUMBER,F,60-64,endocrine_metabolic_and_nutritional,28
+2023,NUMBER,F,65-69,endocrine_metabolic_and_nutritional,60
+2023,NUMBER,F,70-74,endocrine_metabolic_and_nutritional,110
+2023,NUMBER,F,75-79,endocrine_metabolic_and_nutritional,133
+2023,NUMBER,F,80-84,endocrine_metabolic_and_nutritional,196
+2023,NUMBER,F,85+,endocrine_metabolic_and_nutritional,196
+2023,NUMBER,_T,T,mental_and_behavioural_disorders,235
+2023,NUMBER,_T,0,mental_and_behavioural_disorders,0
+2023,NUMBER,_T, 1-4,mental_and_behavioural_disorders,0
+2023,NUMBER,_T, 5-9,mental_and_behavioural_disorders,0
+2023,NUMBER,_T, 10-14,mental_and_behavioural_disorders,0
+2023,NUMBER,_T,15-19,mental_and_behavioural_disorders,0
+2023,NUMBER,_T,20-24,mental_and_behavioural_disorders,1
+2023,NUMBER,_T,25-29,mental_and_behavioural_disorders,1
+2023,NUMBER,_T,30-34,mental_and_behavioural_disorders,1
+2023,NUMBER,_T,35-39,mental_and_behavioural_disorders,0
+2023,NUMBER,_T,40-44,mental_and_behavioural_disorders,0
+2023,NUMBER,_T,45-49,mental_and_behavioural_disorders,2
+2023,NUMBER,_T,50-54,mental_and_behavioural_disorders,3
+2023,NUMBER,_T,55-59,mental_and_behavioural_disorders,7
+2023,NUMBER,_T,60-64,mental_and_behavioural_disorders,14
+2023,NUMBER,_T,65-69,mental_and_behavioural_disorders,11
+2023,NUMBER,_T,70-74,mental_and_behavioural_disorders,20
+2023,NUMBER,_T,75-79,mental_and_behavioural_disorders,25
+2023,NUMBER,_T,80-84,mental_and_behavioural_disorders,57
+2023,NUMBER,_T,85+,mental_and_behavioural_disorders,93
+2023,NUMBER,M,T,mental_and_behavioural_disorders,91
+2023,NUMBER,M,0,mental_and_behavioural_disorders,0
+2023,NUMBER,M, 1-4,mental_and_behavioural_disorders,0
+2023,NUMBER,M, 5-9,mental_and_behavioural_disorders,0
+2023,NUMBER,M, 10-14,mental_and_behavioural_disorders,0
+2023,NUMBER,M,15-19,mental_and_behavioural_disorders,0
+2023,NUMBER,M,20-24,mental_and_behavioural_disorders,0
+2023,NUMBER,M,25-29,mental_and_behavioural_disorders,0
+2023,NUMBER,M,30-34,mental_and_behavioural_disorders,1
+2023,NUMBER,M,35-39,mental_and_behavioural_disorders,0
+2023,NUMBER,M,40-44,mental_and_behavioural_disorders,0
+2023,NUMBER,M,45-49,mental_and_behavioural_disorders,2
+2023,NUMBER,M,50-54,mental_and_behavioural_disorders,2
+2023,NUMBER,M,55-59,mental_and_behavioural_disorders,5
+2023,NUMBER,M,60-64,mental_and_behavioural_disorders,10
+2023,NUMBER,M,65-69,mental_and_behavioural_disorders,4
+2023,NUMBER,M,70-74,mental_and_behavioural_disorders,7
+2023,NUMBER,M,75-79,mental_and_behavioural_disorders,12
+2023,NUMBER,M,80-84,mental_and_behavioural_disorders,16
+2023,NUMBER,M,85+,mental_and_behavioural_disorders,32
+2023,NUMBER,F,T,mental_and_behavioural_disorders,144
+2023,NUMBER,F,0,mental_and_behavioural_disorders,0
+2023,NUMBER,F, 1-4,mental_and_behavioural_disorders,0
+2023,NUMBER,F, 5-9,mental_and_behavioural_disorders,0
+2023,NUMBER,F, 10-14,mental_and_behavioural_disorders,0
+2023,NUMBER,F,15-19,mental_and_behavioural_disorders,0
+2023,NUMBER,F,20-24,mental_and_behavioural_disorders,1
+2023,NUMBER,F,25-29,mental_and_behavioural_disorders,1
+2023,NUMBER,F,30-34,mental_and_behavioural_disorders,0
+2023,NUMBER,F,35-39,mental_and_behavioural_disorders,0
+2023,NUMBER,F,40-44,mental_and_behavioural_disorders,0
+2023,NUMBER,F,45-49,mental_and_behavioural_disorders,0
+2023,NUMBER,F,50-54,mental_and_behavioural_disorders,1
+2023,NUMBER,F,55-59,mental_and_behavioural_disorders,2
+2023,NUMBER,F,60-64,mental_and_behavioural_disorders,4
+2023,NUMBER,F,65-69,mental_and_behavioural_disorders,7
+2023,NUMBER,F,70-74,mental_and_behavioural_disorders,13
+2023,NUMBER,F,75-79,mental_and_behavioural_disorders,13
+2023,NUMBER,F,80-84,mental_and_behavioural_disorders,41
+2023,NUMBER,F,85+,mental_and_behavioural_disorders,61
+2023,NUMBER,_T,T,diseases_of_the_nervous,215
+2023,NUMBER,_T,0,diseases_of_the_nervous,2
+2023,NUMBER,_T, 1-4,diseases_of_the_nervous,3
+2023,NUMBER,_T, 5-9,diseases_of_the_nervous,3
+2023,NUMBER,_T, 10-14,diseases_of_the_nervous,3
+2023,NUMBER,_T,15-19,diseases_of_the_nervous,4
+2023,NUMBER,_T,20-24,diseases_of_the_nervous,1
+2023,NUMBER,_T,25-29,diseases_of_the_nervous,2
+2023,NUMBER,_T,30-34,diseases_of_the_nervous,0
+2023,NUMBER,_T,35-39,diseases_of_the_nervous,4
+2023,NUMBER,_T,40-44,diseases_of_the_nervous,7
+2023,NUMBER,_T,45-49,diseases_of_the_nervous,3
+2023,NUMBER,_T,50-54,diseases_of_the_nervous,8
+2023,NUMBER,_T,55-59,diseases_of_the_nervous,18
+2023,NUMBER,_T,60-64,diseases_of_the_nervous,18
+2023,NUMBER,_T,65-69,diseases_of_the_nervous,19
+2023,NUMBER,_T,70-74,diseases_of_the_nervous,26
+2023,NUMBER,_T,75-79,diseases_of_the_nervous,28
+2023,NUMBER,_T,80-84,diseases_of_the_nervous,34
+2023,NUMBER,_T,85+,diseases_of_the_nervous,32
+2023,NUMBER,M,T,diseases_of_the_nervous,99
+2023,NUMBER,M,0,diseases_of_the_nervous,0
+2023,NUMBER,M, 1-4,diseases_of_the_nervous,1
+2023,NUMBER,M, 5-9,diseases_of_the_nervous,2
+2023,NUMBER,M, 10-14,diseases_of_the_nervous,3
+2023,NUMBER,M,15-19,diseases_of_the_nervous,1
+2023,NUMBER,M,20-24,diseases_of_the_nervous,0
+2023,NUMBER,M,25-29,diseases_of_the_nervous,1
+2023,NUMBER,M,30-34,diseases_of_the_nervous,0
+2023,NUMBER,M,35-39,diseases_of_the_nervous,1
+2023,NUMBER,M,40-44,diseases_of_the_nervous,4
+2023,NUMBER,M,45-49,diseases_of_the_nervous,2
+2023,NUMBER,M,50-54,diseases_of_the_nervous,1
+2023,NUMBER,M,55-59,diseases_of_the_nervous,11
+2023,NUMBER,M,60-64,diseases_of_the_nervous,12
+2023,NUMBER,M,65-69,diseases_of_the_nervous,11
+2023,NUMBER,M,70-74,diseases_of_the_nervous,9
+2023,NUMBER,M,75-79,diseases_of_the_nervous,15
+2023,NUMBER,M,80-84,diseases_of_the_nervous,15
+2023,NUMBER,M,85+,diseases_of_the_nervous,10
+2023,NUMBER,F,T,diseases_of_the_nervous,116
+2023,NUMBER,F,0,diseases_of_the_nervous,2
+2023,NUMBER,F, 1-4,diseases_of_the_nervous,2
+2023,NUMBER,F, 5-9,diseases_of_the_nervous,1
+2023,NUMBER,F, 10-14,diseases_of_the_nervous,0
+2023,NUMBER,F,15-19,diseases_of_the_nervous,3
+2023,NUMBER,F,20-24,diseases_of_the_nervous,1
+2023,NUMBER,F,25-29,diseases_of_the_nervous,1
+2023,NUMBER,F,30-34,diseases_of_the_nervous,0
+2023,NUMBER,F,35-39,diseases_of_the_nervous,3
+2023,NUMBER,F,40-44,diseases_of_the_nervous,3
+2023,NUMBER,F,45-49,diseases_of_the_nervous,1
+2023,NUMBER,F,50-54,diseases_of_the_nervous,7
+2023,NUMBER,F,55-59,diseases_of_the_nervous,7
+2023,NUMBER,F,60-64,diseases_of_the_nervous,6
+2023,NUMBER,F,65-69,diseases_of_the_nervous,8
+2023,NUMBER,F,70-74,diseases_of_the_nervous,17
+2023,NUMBER,F,75-79,diseases_of_the_nervous,13
+2023,NUMBER,F,80-84,diseases_of_the_nervous,19
+2023,NUMBER,F,85+,diseases_of_the_nervous,22
+2023,NUMBER,_T,T,diseases_of_the_circulatory,9.415
+2023,NUMBER,_T,0,diseases_of_the_circulatory,5
+2023,NUMBER,_T, 1-4,diseases_of_the_circulatory,1
+2023,NUMBER,_T, 5-9,diseases_of_the_circulatory,0
+2023,NUMBER,_T, 10-14,diseases_of_the_circulatory,3
+2023,NUMBER,_T,15-19,diseases_of_the_circulatory,1
+2023,NUMBER,_T,20-24,diseases_of_the_circulatory,4
+2023,NUMBER,_T,25-29,diseases_of_the_circulatory,15
+2023,NUMBER,_T,30-34,diseases_of_the_circulatory,19
+2023,NUMBER,_T,35-39,diseases_of_the_circulatory,27
+2023,NUMBER,_T,40-44,diseases_of_the_circulatory,54
+2023,NUMBER,_T,45-49,diseases_of_the_circulatory,105
+2023,NUMBER,_T,50-54,diseases_of_the_circulatory,162
+2023,NUMBER,_T,55-59,diseases_of_the_circulatory,343
+2023,NUMBER,_T,60-64,diseases_of_the_circulatory,665
+2023,NUMBER,_T,65-69,diseases_of_the_circulatory,889
+2023,NUMBER,_T,70-74,diseases_of_the_circulatory,1.185
+2023,NUMBER,_T,75-79,diseases_of_the_circulatory,1.355
+2023,NUMBER,_T,80-84,diseases_of_the_circulatory,1.900
+2023,NUMBER,_T,85+,diseases_of_the_circulatory,2.682
+2023,NUMBER,M,T,diseases_of_the_circulatory,4.448
+2023,NUMBER,M,0,diseases_of_the_circulatory,2
+2023,NUMBER,M, 1-4,diseases_of_the_circulatory,0
+2023,NUMBER,M, 5-9,diseases_of_the_circulatory,0
+2023,NUMBER,M, 10-14,diseases_of_the_circulatory,1
+2023,NUMBER,M,15-19,diseases_of_the_circulatory,0
+2023,NUMBER,M,20-24,diseases_of_the_circulatory,3
+2023,NUMBER,M,25-29,diseases_of_the_circulatory,11
+2023,NUMBER,M,30-34,diseases_of_the_circulatory,16
+2023,NUMBER,M,35-39,diseases_of_the_circulatory,18
+2023,NUMBER,M,40-44,diseases_of_the_circulatory,38
+2023,NUMBER,M,45-49,diseases_of_the_circulatory,81
+2023,NUMBER,M,50-54,diseases_of_the_circulatory,124
+2023,NUMBER,M,55-59,diseases_of_the_circulatory,260
+2023,NUMBER,M,60-64,diseases_of_the_circulatory,462
+2023,NUMBER,M,65-69,diseases_of_the_circulatory,572
+2023,NUMBER,M,70-74,diseases_of_the_circulatory,661
+2023,NUMBER,M,75-79,diseases_of_the_circulatory,619
+2023,NUMBER,M,80-84,diseases_of_the_circulatory,721
+2023,NUMBER,M,85+,diseases_of_the_circulatory,859
+2023,NUMBER,F,T,diseases_of_the_circulatory,4.967
+2023,NUMBER,F,0,diseases_of_the_circulatory,3
+2023,NUMBER,F, 1-4,diseases_of_the_circulatory,1
+2023,NUMBER,F, 5-9,diseases_of_the_circulatory,0
+2023,NUMBER,F, 10-14,diseases_of_the_circulatory,2
+2023,NUMBER,F,15-19,diseases_of_the_circulatory,1
+2023,NUMBER,F,20-24,diseases_of_the_circulatory,1
+2023,NUMBER,F,25-29,diseases_of_the_circulatory,4
+2023,NUMBER,F,30-34,diseases_of_the_circulatory,3
+2023,NUMBER,F,35-39,diseases_of_the_circulatory,9
+2023,NUMBER,F,40-44,diseases_of_the_circulatory,16
+2023,NUMBER,F,45-49,diseases_of_the_circulatory,24
+2023,NUMBER,F,50-54,diseases_of_the_circulatory,38
+2023,NUMBER,F,55-59,diseases_of_the_circulatory,83
+2023,NUMBER,F,60-64,diseases_of_the_circulatory,203
+2023,NUMBER,F,65-69,diseases_of_the_circulatory,317
+2023,NUMBER,F,70-74,diseases_of_the_circulatory,524
+2023,NUMBER,F,75-79,diseases_of_the_circulatory,736
+2023,NUMBER,F,80-84,diseases_of_the_circulatory,1.179
+2023,NUMBER,F,85+,diseases_of_the_circulatory,1.823
+2023,NUMBER,_T,T,diseases_of_the_respiratory,1.209
+2023,NUMBER,_T,0,diseases_of_the_respiratory,2
+2023,NUMBER,_T, 1-4,diseases_of_the_respiratory,0
+2023,NUMBER,_T, 5-9,diseases_of_the_respiratory,0
+2023,NUMBER,_T, 10-14,diseases_of_the_respiratory,4
+2023,NUMBER,_T,15-19,diseases_of_the_respiratory,2
+2023,NUMBER,_T,20-24,diseases_of_the_respiratory,4
+2023,NUMBER,_T,25-29,diseases_of_the_respiratory,3
+2023,NUMBER,_T,30-34,diseases_of_the_respiratory,2
+2023,NUMBER,_T,35-39,diseases_of_the_respiratory,6
+2023,NUMBER,_T,40-44,diseases_of_the_respiratory,10
+2023,NUMBER,_T,45-49,diseases_of_the_respiratory,12
+2023,NUMBER,_T,50-54,diseases_of_the_respiratory,14
+2023,NUMBER,_T,55-59,diseases_of_the_respiratory,60
+2023,NUMBER,_T,60-64,diseases_of_the_respiratory,92
+2023,NUMBER,_T,65-69,diseases_of_the_respiratory,143
+2023,NUMBER,_T,70-74,diseases_of_the_respiratory,168
+2023,NUMBER,_T,75-79,diseases_of_the_respiratory,180
+2023,NUMBER,_T,80-84,diseases_of_the_respiratory,238
+2023,NUMBER,_T,85+,diseases_of_the_respiratory,269
+2023,NUMBER,M,T,diseases_of_the_respiratory,679
+2023,NUMBER,M,0,diseases_of_the_respiratory,2
+2023,NUMBER,M, 1-4,diseases_of_the_respiratory,0
+2023,NUMBER,M, 5-9,diseases_of_the_respiratory,0
+2023,NUMBER,M, 10-14,diseases_of_the_respiratory,2
+2023,NUMBER,M,15-19,diseases_of_the_respiratory,0
+2023,NUMBER,M,20-24,diseases_of_the_respiratory,4
+2023,NUMBER,M,25-29,diseases_of_the_respiratory,1
+2023,NUMBER,M,30-34,diseases_of_the_respiratory,2
+2023,NUMBER,M,35-39,diseases_of_the_respiratory,3
+2023,NUMBER,M,40-44,diseases_of_the_respiratory,6
+2023,NUMBER,M,45-49,diseases_of_the_respiratory,8
+2023,NUMBER,M,50-54,diseases_of_the_respiratory,10
+2023,NUMBER,M,55-59,diseases_of_the_respiratory,40
+2023,NUMBER,M,60-64,diseases_of_the_respiratory,61
+2023,NUMBER,M,65-69,diseases_of_the_respiratory,94
+2023,NUMBER,M,70-74,diseases_of_the_respiratory,109
+2023,NUMBER,M,75-79,diseases_of_the_respiratory,90
+2023,NUMBER,M,80-84,diseases_of_the_respiratory,121
+2023,NUMBER,M,85+,diseases_of_the_respiratory,126
+2023,NUMBER,F,T,diseases_of_the_respiratory,530
+2023,NUMBER,F,0,diseases_of_the_respiratory,0
+2023,NUMBER,F, 1-4,diseases_of_the_respiratory,0
+2023,NUMBER,F, 5-9,diseases_of_the_respiratory,0
+2023,NUMBER,F, 10-14,diseases_of_the_respiratory,2
+2023,NUMBER,F,15-19,diseases_of_the_respiratory,2
+2023,NUMBER,F,20-24,diseases_of_the_respiratory,0
+2023,NUMBER,F,25-29,diseases_of_the_respiratory,2
+2023,NUMBER,F,30-34,diseases_of_the_respiratory,0
+2023,NUMBER,F,35-39,diseases_of_the_respiratory,3
+2023,NUMBER,F,40-44,diseases_of_the_respiratory,4
+2023,NUMBER,F,45-49,diseases_of_the_respiratory,4
+2023,NUMBER,F,50-54,diseases_of_the_respiratory,4
+2023,NUMBER,F,55-59,diseases_of_the_respiratory,20
+2023,NUMBER,F,60-64,diseases_of_the_respiratory,31
+2023,NUMBER,F,65-69,diseases_of_the_respiratory,49
+2023,NUMBER,F,70-74,diseases_of_the_respiratory,59
+2023,NUMBER,F,75-79,diseases_of_the_respiratory,90
+2023,NUMBER,F,80-84,diseases_of_the_respiratory,117
+2023,NUMBER,F,85+,diseases_of_the_respiratory,143
+2023,NUMBER,_T,T,diseases_of_the_digestive,480
+2023,NUMBER,_T,0,diseases_of_the_digestive,1
+2023,NUMBER,_T, 1-4,diseases_of_the_digestive,0
+2023,NUMBER,_T, 5-9,diseases_of_the_digestive,0
+2023,NUMBER,_T, 10-14,diseases_of_the_digestive,0
+2023,NUMBER,_T,15-19,diseases_of_the_digestive,0
+2023,NUMBER,_T,20-24,diseases_of_the_digestive,0
+2023,NUMBER,_T,25-29,diseases_of_the_digestive,2
+2023,NUMBER,_T,30-34,diseases_of_the_digestive,0
+2023,NUMBER,_T,35-39,diseases_of_the_digestive,3
+2023,NUMBER,_T,40-44,diseases_of_the_digestive,5
+2023,NUMBER,_T,45-49,diseases_of_the_digestive,18
+2023,NUMBER,_T,50-54,diseases_of_the_digestive,24
+2023,NUMBER,_T,55-59,diseases_of_the_digestive,43
+2023,NUMBER,_T,60-64,diseases_of_the_digestive,53
+2023,NUMBER,_T,65-69,diseases_of_the_digestive,65
+2023,NUMBER,_T,70-74,diseases_of_the_digestive,67
+2023,NUMBER,_T,75-79,diseases_of_the_digestive,81
+2023,NUMBER,_T,80-84,diseases_of_the_digestive,61
+2023,NUMBER,_T,85+,diseases_of_the_digestive,57
+2023,NUMBER,M,T,diseases_of_the_digestive,289
+2023,NUMBER,M,0,diseases_of_the_digestive,0
+2023,NUMBER,M, 1-4,diseases_of_the_digestive,0
+2023,NUMBER,M, 5-9,diseases_of_the_digestive,0
+2023,NUMBER,M, 10-14,diseases_of_the_digestive,0
+2023,NUMBER,M,15-19,diseases_of_the_digestive,0
+2023,NUMBER,M,20-24,diseases_of_the_digestive,0
+2023,NUMBER,M,25-29,diseases_of_the_digestive,1
+2023,NUMBER,M,30-34,diseases_of_the_digestive,0
+2023,NUMBER,M,35-39,diseases_of_the_digestive,3
+2023,NUMBER,M,40-44,diseases_of_the_digestive,4
+2023,NUMBER,M,45-49,diseases_of_the_digestive,15
+2023,NUMBER,M,50-54,diseases_of_the_digestive,21
+2023,NUMBER,M,55-59,diseases_of_the_digestive,36
+2023,NUMBER,M,60-64,diseases_of_the_digestive,33
+2023,NUMBER,M,65-69,diseases_of_the_digestive,49
+2023,NUMBER,M,70-74,diseases_of_the_digestive,38
+2023,NUMBER,M,75-79,diseases_of_the_digestive,32
+2023,NUMBER,M,80-84,diseases_of_the_digestive,30
+2023,NUMBER,M,85+,diseases_of_the_digestive,27
+2023,NUMBER,F,T,diseases_of_the_digestive,191
+2023,NUMBER,F,0,diseases_of_the_digestive,1
+2023,NUMBER,F, 1-4,diseases_of_the_digestive,0
+2023,NUMBER,F, 5-9,diseases_of_the_digestive,0
+2023,NUMBER,F, 10-14,diseases_of_the_digestive,0
+2023,NUMBER,F,15-19,diseases_of_the_digestive,0
+2023,NUMBER,F,20-24,diseases_of_the_digestive,0
+2023,NUMBER,F,25-29,diseases_of_the_digestive,1
+2023,NUMBER,F,30-34,diseases_of_the_digestive,0
+2023,NUMBER,F,35-39,diseases_of_the_digestive,0
+2023,NUMBER,F,40-44,diseases_of_the_digestive,1
+2023,NUMBER,F,45-49,diseases_of_the_digestive,3
+2023,NUMBER,F,50-54,diseases_of_the_digestive,3
+2023,NUMBER,F,55-59,diseases_of_the_digestive,7
+2023,NUMBER,F,60-64,diseases_of_the_digestive,20
+2023,NUMBER,F,65-69,diseases_of_the_digestive,16
+2023,NUMBER,F,70-74,diseases_of_the_digestive,29
+2023,NUMBER,F,75-79,diseases_of_the_digestive,49
+2023,NUMBER,F,80-84,diseases_of_the_digestive,31
+2023,NUMBER,F,85+,diseases_of_the_digestive,30
+2023,NUMBER,_T,T,diseases_of_the_skin,11
+2023,NUMBER,_T,0,diseases_of_the_skin,0
+2023,NUMBER,_T, 1-4,diseases_of_the_skin,0
+2023,NUMBER,_T, 5-9,diseases_of_the_skin,0
+2023,NUMBER,_T, 10-14,diseases_of_the_skin,0
+2023,NUMBER,_T,15-19,diseases_of_the_skin,0
+2023,NUMBER,_T,20-24,diseases_of_the_skin,0
+2023,NUMBER,_T,25-29,diseases_of_the_skin,0
+2023,NUMBER,_T,30-34,diseases_of_the_skin,0
+2023,NUMBER,_T,35-39,diseases_of_the_skin,0
+2023,NUMBER,_T,40-44,diseases_of_the_skin,1
+2023,NUMBER,_T,45-49,diseases_of_the_skin,0
+2023,NUMBER,_T,50-54,diseases_of_the_skin,0
+2023,NUMBER,_T,55-59,diseases_of_the_skin,0
+2023,NUMBER,_T,60-64,diseases_of_the_skin,1
+2023,NUMBER,_T,65-69,diseases_of_the_skin,3
+2023,NUMBER,_T,70-74,diseases_of_the_skin,0
+2023,NUMBER,_T,75-79,diseases_of_the_skin,1
+2023,NUMBER,_T,80-84,diseases_of_the_skin,2
+2023,NUMBER,_T,85+,diseases_of_the_skin,3
+2023,NUMBER,M,T,diseases_of_the_skin,5
+2023,NUMBER,M,0,diseases_of_the_skin,0
+2023,NUMBER,M, 1-4,diseases_of_the_skin,0
+2023,NUMBER,M, 5-9,diseases_of_the_skin,0
+2023,NUMBER,M, 10-14,diseases_of_the_skin,0
+2023,NUMBER,M,15-19,diseases_of_the_skin,0
+2023,NUMBER,M,20-24,diseases_of_the_skin,0
+2023,NUMBER,M,25-29,diseases_of_the_skin,0
+2023,NUMBER,M,30-34,diseases_of_the_skin,0
+2023,NUMBER,M,35-39,diseases_of_the_skin,0
+2023,NUMBER,M,40-44,diseases_of_the_skin,0
+2023,NUMBER,M,45-49,diseases_of_the_skin,0
+2023,NUMBER,M,50-54,diseases_of_the_skin,0
+2023,NUMBER,M,55-59,diseases_of_the_skin,0
+2023,NUMBER,M,60-64,diseases_of_the_skin,0
+2023,NUMBER,M,65-69,diseases_of_the_skin,3
+2023,NUMBER,M,70-74,diseases_of_the_skin,0
+2023,NUMBER,M,75-79,diseases_of_the_skin,1
+2023,NUMBER,M,80-84,diseases_of_the_skin,0
+2023,NUMBER,M,85+,diseases_of_the_skin,1
+2023,NUMBER,F,T,diseases_of_the_skin,6
+2023,NUMBER,F,0,diseases_of_the_skin,0
+2023,NUMBER,F, 1-4,diseases_of_the_skin,0
+2023,NUMBER,F, 5-9,diseases_of_the_skin,0
+2023,NUMBER,F, 10-14,diseases_of_the_skin,0
+2023,NUMBER,F,15-19,diseases_of_the_skin,0
+2023,NUMBER,F,20-24,diseases_of_the_skin,0
+2023,NUMBER,F,25-29,diseases_of_the_skin,0
+2023,NUMBER,F,30-34,diseases_of_the_skin,0
+2023,NUMBER,F,35-39,diseases_of_the_skin,0
+2023,NUMBER,F,40-44,diseases_of_the_skin,1
+2023,NUMBER,F,45-49,diseases_of_the_skin,0
+2023,NUMBER,F,50-54,diseases_of_the_skin,0
+2023,NUMBER,F,55-59,diseases_of_the_skin,0
+2023,NUMBER,F,60-64,diseases_of_the_skin,1
+2023,NUMBER,F,65-69,diseases_of_the_skin,0
+2023,NUMBER,F,70-74,diseases_of_the_skin,0
+2023,NUMBER,F,75-79,diseases_of_the_skin,0
+2023,NUMBER,F,80-84,diseases_of_the_skin,2
+2023,NUMBER,F,85+,diseases_of_the_skin,2
+2023,NUMBER,_T,T,diseases_of_the_musculoskeletal,33
+2023,NUMBER,_T,0,diseases_of_the_musculoskeletal,1
+2023,NUMBER,_T, 1-4,diseases_of_the_musculoskeletal,0
+2023,NUMBER,_T, 5-9,diseases_of_the_musculoskeletal,0
+2023,NUMBER,_T, 10-14,diseases_of_the_musculoskeletal,0
+2023,NUMBER,_T,15-19,diseases_of_the_musculoskeletal,0
+2023,NUMBER,_T,20-24,diseases_of_the_musculoskeletal,0
+2023,NUMBER,_T,25-29,diseases_of_the_musculoskeletal,1
+2023,NUMBER,_T,30-34,diseases_of_the_musculoskeletal,0
+2023,NUMBER,_T,35-39,diseases_of_the_musculoskeletal,0
+2023,NUMBER,_T,40-44,diseases_of_the_musculoskeletal,1
+2023,NUMBER,_T,45-49,diseases_of_the_musculoskeletal,1
+2023,NUMBER,_T,50-54,diseases_of_the_musculoskeletal,1
+2023,NUMBER,_T,55-59,diseases_of_the_musculoskeletal,1
+2023,NUMBER,_T,60-64,diseases_of_the_musculoskeletal,1
+2023,NUMBER,_T,65-69,diseases_of_the_musculoskeletal,7
+2023,NUMBER,_T,70-74,diseases_of_the_musculoskeletal,4
+2023,NUMBER,_T,75-79,diseases_of_the_musculoskeletal,7
+2023,NUMBER,_T,80-84,diseases_of_the_musculoskeletal,3
+2023,NUMBER,_T,85+,diseases_of_the_musculoskeletal,5
+2023,NUMBER,M,T,diseases_of_the_musculoskeletal,9
+2023,NUMBER,M,0,diseases_of_the_musculoskeletal,0
+2023,NUMBER,M, 1-4,diseases_of_the_musculoskeletal,0
+2023,NUMBER,M, 5-9,diseases_of_the_musculoskeletal,0
+2023,NUMBER,M, 10-14,diseases_of_the_musculoskeletal,0
+2023,NUMBER,M,15-19,diseases_of_the_musculoskeletal,0
+2023,NUMBER,M,20-24,diseases_of_the_musculoskeletal,0
+2023,NUMBER,M,25-29,diseases_of_the_musculoskeletal,1
+2023,NUMBER,M,30-34,diseases_of_the_musculoskeletal,0
+2023,NUMBER,M,35-39,diseases_of_the_musculoskeletal,0
+2023,NUMBER,M,40-44,diseases_of_the_musculoskeletal,0
+2023,NUMBER,M,45-49,diseases_of_the_musculoskeletal,1
+2023,NUMBER,M,50-54,diseases_of_the_musculoskeletal,0
+2023,NUMBER,M,55-59,diseases_of_the_musculoskeletal,0
+2023,NUMBER,M,60-64,diseases_of_the_musculoskeletal,0
+2023,NUMBER,M,65-69,diseases_of_the_musculoskeletal,1
+2023,NUMBER,M,70-74,diseases_of_the_musculoskeletal,0
+2023,NUMBER,M,75-79,diseases_of_the_musculoskeletal,2
+2023,NUMBER,M,80-84,diseases_of_the_musculoskeletal,1
+2023,NUMBER,M,85+,diseases_of_the_musculoskeletal,3
+2023,NUMBER,F,T,diseases_of_the_musculoskeletal,24
+2023,NUMBER,F,0,diseases_of_the_musculoskeletal,1
+2023,NUMBER,F, 1-4,diseases_of_the_musculoskeletal,0
+2023,NUMBER,F, 5-9,diseases_of_the_musculoskeletal,0
+2023,NUMBER,F, 10-14,diseases_of_the_musculoskeletal,0
+2023,NUMBER,F,15-19,diseases_of_the_musculoskeletal,0
+2023,NUMBER,F,20-24,diseases_of_the_musculoskeletal,0
+2023,NUMBER,F,25-29,diseases_of_the_musculoskeletal,0
+2023,NUMBER,F,30-34,diseases_of_the_musculoskeletal,0
+2023,NUMBER,F,35-39,diseases_of_the_musculoskeletal,0
+2023,NUMBER,F,40-44,diseases_of_the_musculoskeletal,1
+2023,NUMBER,F,45-49,diseases_of_the_musculoskeletal,0
+2023,NUMBER,F,50-54,diseases_of_the_musculoskeletal,1
+2023,NUMBER,F,55-59,diseases_of_the_musculoskeletal,1
+2023,NUMBER,F,60-64,diseases_of_the_musculoskeletal,1
+2023,NUMBER,F,65-69,diseases_of_the_musculoskeletal,6
+2023,NUMBER,F,70-74,diseases_of_the_musculoskeletal,4
+2023,NUMBER,F,75-79,diseases_of_the_musculoskeletal,5
+2023,NUMBER,F,80-84,diseases_of_the_musculoskeletal,2
+2023,NUMBER,F,85+,diseases_of_the_musculoskeletal,2
+2023,NUMBER,_T,T,diseases_of_the_genitourinary,392
+2023,NUMBER,_T,0,diseases_of_the_genitourinary,1
+2023,NUMBER,_T, 1-4,diseases_of_the_genitourinary,0
+2023,NUMBER,_T, 5-9,diseases_of_the_genitourinary,0
+2023,NUMBER,_T, 10-14,diseases_of_the_genitourinary,0
+2023,NUMBER,_T,15-19,diseases_of_the_genitourinary,0
+2023,NUMBER,_T,20-24,diseases_of_the_genitourinary,1
+2023,NUMBER,_T,25-29,diseases_of_the_genitourinary,2
+2023,NUMBER,_T,30-34,diseases_of_the_genitourinary,0
+2023,NUMBER,_T,35-39,diseases_of_the_genitourinary,2
+2023,NUMBER,_T,40-44,diseases_of_the_genitourinary,5
+2023,NUMBER,_T,45-49,diseases_of_the_genitourinary,1
+2023,NUMBER,_T,50-54,diseases_of_the_genitourinary,6
+2023,NUMBER,_T,55-59,diseases_of_the_genitourinary,18
+2023,NUMBER,_T,60-64,diseases_of_the_genitourinary,28
+2023,NUMBER,_T,65-69,diseases_of_the_genitourinary,42
+2023,NUMBER,_T,70-74,diseases_of_the_genitourinary,62
+2023,NUMBER,_T,75-79,diseases_of_the_genitourinary,62
+2023,NUMBER,_T,80-84,diseases_of_the_genitourinary,66
+2023,NUMBER,_T,85+,diseases_of_the_genitourinary,96
+2023,NUMBER,M,T,diseases_of_the_genitourinary,191
+2023,NUMBER,M,0,diseases_of_the_genitourinary,1
+2023,NUMBER,M, 1-4,diseases_of_the_genitourinary,0
+2023,NUMBER,M, 5-9,diseases_of_the_genitourinary,0
+2023,NUMBER,M, 10-14,diseases_of_the_genitourinary,0
+2023,NUMBER,M,15-19,diseases_of_the_genitourinary,0
+2023,NUMBER,M,20-24,diseases_of_the_genitourinary,1
+2023,NUMBER,M,25-29,diseases_of_the_genitourinary,2
+2023,NUMBER,M,30-34,diseases_of_the_genitourinary,0
+2023,NUMBER,M,35-39,diseases_of_the_genitourinary,1
+2023,NUMBER,M,40-44,diseases_of_the_genitourinary,4
+2023,NUMBER,M,45-49,diseases_of_the_genitourinary,1
+2023,NUMBER,M,50-54,diseases_of_the_genitourinary,2
+2023,NUMBER,M,55-59,diseases_of_the_genitourinary,8
+2023,NUMBER,M,60-64,diseases_of_the_genitourinary,20
+2023,NUMBER,M,65-69,diseases_of_the_genitourinary,18
+2023,NUMBER,M,70-74,diseases_of_the_genitourinary,33
+2023,NUMBER,M,75-79,diseases_of_the_genitourinary,32
+2023,NUMBER,M,80-84,diseases_of_the_genitourinary,23
+2023,NUMBER,M,85+,diseases_of_the_genitourinary,45
+2023,NUMBER,F,T,diseases_of_the_genitourinary,201
+2023,NUMBER,F,0,diseases_of_the_genitourinary,0
+2023,NUMBER,F, 1-4,diseases_of_the_genitourinary,0
+2023,NUMBER,F, 5-9,diseases_of_the_genitourinary,0
+2023,NUMBER,F, 10-14,diseases_of_the_genitourinary,0
+2023,NUMBER,F,15-19,diseases_of_the_genitourinary,0
+2023,NUMBER,F,20-24,diseases_of_the_genitourinary,0
+2023,NUMBER,F,25-29,diseases_of_the_genitourinary,0
+2023,NUMBER,F,30-34,diseases_of_the_genitourinary,0
+2023,NUMBER,F,35-39,diseases_of_the_genitourinary,1
+2023,NUMBER,F,40-44,diseases_of_the_genitourinary,1
+2023,NUMBER,F,45-49,diseases_of_the_genitourinary,0
+2023,NUMBER,F,50-54,diseases_of_the_genitourinary,4
+2023,NUMBER,F,55-59,diseases_of_the_genitourinary,10
+2023,NUMBER,F,60-64,diseases_of_the_genitourinary,8
+2023,NUMBER,F,65-69,diseases_of_the_genitourinary,24
+2023,NUMBER,F,70-74,diseases_of_the_genitourinary,29
+2023,NUMBER,F,75-79,diseases_of_the_genitourinary,30
+2023,NUMBER,F,80-84,diseases_of_the_genitourinary,43
+2023,NUMBER,F,85+,diseases_of_the_genitourinary,51
+2023,NUMBER,_T,T,pregnancy_childbirth_and_the,70
+2023,NUMBER,_T,0,pregnancy_childbirth_and_the,70
+2023,NUMBER,_T, 1-4,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T, 5-9,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T, 10-14,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,15-19,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,20-24,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,25-29,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,30-34,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,35-39,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,40-44,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,45-49,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,50-54,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,55-59,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,60-64,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,65-69,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,70-74,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,75-79,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,80-84,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,85+,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,T,pregnancy_childbirth_and_the,40
+2023,NUMBER,M,0,pregnancy_childbirth_and_the,40
+2023,NUMBER,M, 1-4,pregnancy_childbirth_and_the,0
+2023,NUMBER,M, 5-9,pregnancy_childbirth_and_the,0
+2023,NUMBER,M, 10-14,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,15-19,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,20-24,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,25-29,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,30-34,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,35-39,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,40-44,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,45-49,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,50-54,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,55-59,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,60-64,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,65-69,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,70-74,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,75-79,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,80-84,pregnancy_childbirth_and_the,0
+2023,NUMBER,M,85+,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,T,pregnancy_childbirth_and_the,30
+2023,NUMBER,F,0,pregnancy_childbirth_and_the,30
+2023,NUMBER,F, 1-4,pregnancy_childbirth_and_the,0
+2023,NUMBER,F, 5-9,pregnancy_childbirth_and_the,0
+2023,NUMBER,F, 10-14,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,15-19,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,20-24,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,25-29,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,30-34,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,35-39,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,40-44,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,45-49,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,50-54,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,55-59,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,60-64,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,65-69,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,70-74,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,75-79,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,80-84,pregnancy_childbirth_and_the,0
+2023,NUMBER,F,85+,pregnancy_childbirth_and_the,0
+2023,NUMBER,_T,T,congenital_malformations_deformations,18
+2023,NUMBER,_T,0,congenital_malformations_deformations,10
+2023,NUMBER,_T, 1-4,congenital_malformations_deformations,1
+2023,NUMBER,_T, 5-9,congenital_malformations_deformations,0
+2023,NUMBER,_T, 10-14,congenital_malformations_deformations,1
+2023,NUMBER,_T,15-19,congenital_malformations_deformations,1
+2023,NUMBER,_T,20-24,congenital_malformations_deformations,0
+2023,NUMBER,_T,25-29,congenital_malformations_deformations,0
+2023,NUMBER,_T,30-34,congenital_malformations_deformations,0
+2023,NUMBER,_T,35-39,congenital_malformations_deformations,0
+2023,NUMBER,_T,40-44,congenital_malformations_deformations,0
+2023,NUMBER,_T,45-49,congenital_malformations_deformations,1
+2023,NUMBER,_T,50-54,congenital_malformations_deformations,2
+2023,NUMBER,_T,55-59,congenital_malformations_deformations,1
+2023,NUMBER,_T,60-64,congenital_malformations_deformations,0
+2023,NUMBER,_T,65-69,congenital_malformations_deformations,1
+2023,NUMBER,_T,70-74,congenital_malformations_deformations,0
+2023,NUMBER,_T,75-79,congenital_malformations_deformations,0
+2023,NUMBER,_T,80-84,congenital_malformations_deformations,0
+2023,NUMBER,_T,85+,congenital_malformations_deformations,0
+2023,NUMBER,M,T,congenital_malformations_deformations,14
+2023,NUMBER,M,0,congenital_malformations_deformations,6
+2023,NUMBER,M, 1-4,congenital_malformations_deformations,1
+2023,NUMBER,M, 5-9,congenital_malformations_deformations,0
+2023,NUMBER,M, 10-14,congenital_malformations_deformations,1
+2023,NUMBER,M,15-19,congenital_malformations_deformations,1
+2023,NUMBER,M,20-24,congenital_malformations_deformations,0
+2023,NUMBER,M,25-29,congenital_malformations_deformations,0
+2023,NUMBER,M,30-34,congenital_malformations_deformations,0
+2023,NUMBER,M,35-39,congenital_malformations_deformations,0
+2023,NUMBER,M,40-44,congenital_malformations_deformations,0
+2023,NUMBER,M,45-49,congenital_malformations_deformations,1
+2023,NUMBER,M,50-54,congenital_malformations_deformations,2
+2023,NUMBER,M,55-59,congenital_malformations_deformations,1
+2023,NUMBER,M,60-64,congenital_malformations_deformations,0
+2023,NUMBER,M,65-69,congenital_malformations_deformations,1
+2023,NUMBER,M,70-74,congenital_malformations_deformations,0
+2023,NUMBER,M,75-79,congenital_malformations_deformations,0
+2023,NUMBER,M,80-84,congenital_malformations_deformations,0
+2023,NUMBER,M,85+,congenital_malformations_deformations,0
+2023,NUMBER,F,T,congenital_malformations_deformations,4
+2023,NUMBER,F,0,congenital_malformations_deformations,4
+2023,NUMBER,F, 1-4,congenital_malformations_deformations,0
+2023,NUMBER,F, 5-9,congenital_malformations_deformations,0
+2023,NUMBER,F, 10-14,congenital_malformations_deformations,0
+2023,NUMBER,F,15-19,congenital_malformations_deformations,0
+2023,NUMBER,F,20-24,congenital_malformations_deformations,0
+2023,NUMBER,F,25-29,congenital_malformations_deformations,0
+2023,NUMBER,F,30-34,congenital_malformations_deformations,0
+2023,NUMBER,F,35-39,congenital_malformations_deformations,0
+2023,NUMBER,F,40-44,congenital_malformations_deformations,0
+2023,NUMBER,F,45-49,congenital_malformations_deformations,0
+2023,NUMBER,F,50-54,congenital_malformations_deformations,0
+2023,NUMBER,F,55-59,congenital_malformations_deformations,0
+2023,NUMBER,F,60-64,congenital_malformations_deformations,0
+2023,NUMBER,F,65-69,congenital_malformations_deformations,0
+2023,NUMBER,F,70-74,congenital_malformations_deformations,0
+2023,NUMBER,F,75-79,congenital_malformations_deformations,0
+2023,NUMBER,F,80-84,congenital_malformations_deformations,0
+2023,NUMBER,F,85+,congenital_malformations_deformations,0
+2023,NUMBER,_T,T,symptoms_signs_and_abnormal,1.171
+2023,NUMBER,_T,0,symptoms_signs_and_abnormal,9
+2023,NUMBER,_T, 1-4,symptoms_signs_and_abnormal,1
+2023,NUMBER,_T, 5-9,symptoms_signs_and_abnormal,1
+2023,NUMBER,_T, 10-14,symptoms_signs_and_abnormal,0
+2023,NUMBER,_T,15-19,symptoms_signs_and_abnormal,1
+2023,NUMBER,_T,20-24,symptoms_signs_and_abnormal,8
+2023,NUMBER,_T,25-29,symptoms_signs_and_abnormal,8
+2023,NUMBER,_T,30-34,symptoms_signs_and_abnormal,6
+2023,NUMBER,_T,35-39,symptoms_signs_and_abnormal,8
+2023,NUMBER,_T,40-44,symptoms_signs_and_abnormal,11
+2023,NUMBER,_T,45-49,symptoms_signs_and_abnormal,18
+2023,NUMBER,_T,50-54,symptoms_signs_and_abnormal,28
+2023,NUMBER,_T,55-59,symptoms_signs_and_abnormal,59
+2023,NUMBER,_T,60-64,symptoms_signs_and_abnormal,95
+2023,NUMBER,_T,65-69,symptoms_signs_and_abnormal,126
+2023,NUMBER,_T,70-74,symptoms_signs_and_abnormal,142
+2023,NUMBER,_T,75-79,symptoms_signs_and_abnormal,135
+2023,NUMBER,_T,80-84,symptoms_signs_and_abnormal,173
+2023,NUMBER,_T,85+,symptoms_signs_and_abnormal,342
+2023,NUMBER,M,T,symptoms_signs_and_abnormal,605
+2023,NUMBER,M,0,symptoms_signs_and_abnormal,6
+2023,NUMBER,M, 1-4,symptoms_signs_and_abnormal,0
+2023,NUMBER,M, 5-9,symptoms_signs_and_abnormal,0
+2023,NUMBER,M, 10-14,symptoms_signs_and_abnormal,0
+2023,NUMBER,M,15-19,symptoms_signs_and_abnormal,0
+2023,NUMBER,M,20-24,symptoms_signs_and_abnormal,7
+2023,NUMBER,M,25-29,symptoms_signs_and_abnormal,6
+2023,NUMBER,M,30-34,symptoms_signs_and_abnormal,6
+2023,NUMBER,M,35-39,symptoms_signs_and_abnormal,6
+2023,NUMBER,M,40-44,symptoms_signs_and_abnormal,9
+2023,NUMBER,M,45-49,symptoms_signs_and_abnormal,16
+2023,NUMBER,M,50-54,symptoms_signs_and_abnormal,23
+2023,NUMBER,M,55-59,symptoms_signs_and_abnormal,42
+2023,NUMBER,M,60-64,symptoms_signs_and_abnormal,61
+2023,NUMBER,M,65-69,symptoms_signs_and_abnormal,79
+2023,NUMBER,M,70-74,symptoms_signs_and_abnormal,85
+2023,NUMBER,M,75-79,symptoms_signs_and_abnormal,60
+2023,NUMBER,M,80-84,symptoms_signs_and_abnormal,86
+2023,NUMBER,M,85+,symptoms_signs_and_abnormal,113
+2023,NUMBER,F,T,symptoms_signs_and_abnormal,566
+2023,NUMBER,F,0,symptoms_signs_and_abnormal,3
+2023,NUMBER,F, 1-4,symptoms_signs_and_abnormal,1
+2023,NUMBER,F, 5-9,symptoms_signs_and_abnormal,1
+2023,NUMBER,F, 10-14,symptoms_signs_and_abnormal,0
+2023,NUMBER,F,15-19,symptoms_signs_and_abnormal,1
+2023,NUMBER,F,20-24,symptoms_signs_and_abnormal,1
+2023,NUMBER,F,25-29,symptoms_signs_and_abnormal,2
+2023,NUMBER,F,30-34,symptoms_signs_and_abnormal,0
+2023,NUMBER,F,35-39,symptoms_signs_and_abnormal,2
+2023,NUMBER,F,40-44,symptoms_signs_and_abnormal,2
+2023,NUMBER,F,45-49,symptoms_signs_and_abnormal,2
+2023,NUMBER,F,50-54,symptoms_signs_and_abnormal,5
+2023,NUMBER,F,55-59,symptoms_signs_and_abnormal,17
+2023,NUMBER,F,60-64,symptoms_signs_and_abnormal,34
+2023,NUMBER,F,65-69,symptoms_signs_and_abnormal,47
+2023,NUMBER,F,70-74,symptoms_signs_and_abnormal,57
+2023,NUMBER,F,75-79,symptoms_signs_and_abnormal,75
+2023,NUMBER,F,80-84,symptoms_signs_and_abnormal,87
+2023,NUMBER,F,85+,symptoms_signs_and_abnormal,229
+2023,NUMBER,_T,T,injuries_poisoning_and_consequences,389
+2023,NUMBER,_T,0,injuries_poisoning_and_consequences,1
+2023,NUMBER,_T, 1-4,injuries_poisoning_and_consequences,0
+2023,NUMBER,_T, 5-9,injuries_poisoning_and_consequences,1
+2023,NUMBER,_T, 10-14,injuries_poisoning_and_consequences,4
+2023,NUMBER,_T,15-19,injuries_poisoning_and_consequences,12
+2023,NUMBER,_T,20-24,injuries_poisoning_and_consequences,19
+2023,NUMBER,_T,25-29,injuries_poisoning_and_consequences,14
+2023,NUMBER,_T,30-34,injuries_poisoning_and_consequences,26
+2023,NUMBER,_T,35-39,injuries_poisoning_and_consequences,25
+2023,NUMBER,_T,40-44,injuries_poisoning_and_consequences,26
+2023,NUMBER,_T,45-49,injuries_poisoning_and_consequences,28
+2023,NUMBER,_T,50-54,injuries_poisoning_and_consequences,23
+2023,NUMBER,_T,55-59,injuries_poisoning_and_consequences,39
+2023,NUMBER,_T,60-64,injuries_poisoning_and_consequences,40
+2023,NUMBER,_T,65-69,injuries_poisoning_and_consequences,32
+2023,NUMBER,_T,70-74,injuries_poisoning_and_consequences,31
+2023,NUMBER,_T,75-79,injuries_poisoning_and_consequences,23
+2023,NUMBER,_T,80-84,injuries_poisoning_and_consequences,21
+2023,NUMBER,_T,85+,injuries_poisoning_and_consequences,24
+2023,NUMBER,M,T,injuries_poisoning_and_consequences,302
+2023,NUMBER,M,0,injuries_poisoning_and_consequences,1
+2023,NUMBER,M, 1-4,injuries_poisoning_and_consequences,0
+2023,NUMBER,M, 5-9,injuries_poisoning_and_consequences,1
+2023,NUMBER,M, 10-14,injuries_poisoning_and_consequences,3
+2023,NUMBER,M,15-19,injuries_poisoning_and_consequences,12
+2023,NUMBER,M,20-24,injuries_poisoning_and_consequences,18
+2023,NUMBER,M,25-29,injuries_poisoning_and_consequences,13
+2023,NUMBER,M,30-34,injuries_poisoning_and_consequences,18
+2023,NUMBER,M,35-39,injuries_poisoning_and_consequences,23
+2023,NUMBER,M,40-44,injuries_poisoning_and_consequences,20
+2023,NUMBER,M,45-49,injuries_poisoning_and_consequences,20
+2023,NUMBER,M,50-54,injuries_poisoning_and_consequences,16
+2023,NUMBER,M,55-59,injuries_poisoning_and_consequences,33
+2023,NUMBER,M,60-64,injuries_poisoning_and_consequences,33
+2023,NUMBER,M,65-69,injuries_poisoning_and_consequences,21
+2023,NUMBER,M,70-74,injuries_poisoning_and_consequences,21
+2023,NUMBER,M,75-79,injuries_poisoning_and_consequences,18
+2023,NUMBER,M,80-84,injuries_poisoning_and_consequences,14
+2023,NUMBER,M,85+,injuries_poisoning_and_consequences,17
+2023,NUMBER,F,T,injuries_poisoning_and_consequences,87
+2023,NUMBER,F,0,injuries_poisoning_and_consequences,0
+2023,NUMBER,F, 1-4,injuries_poisoning_and_consequences,0
+2023,NUMBER,F, 5-9,injuries_poisoning_and_consequences,0
+2023,NUMBER,F, 10-14,injuries_poisoning_and_consequences,1
+2023,NUMBER,F,15-19,injuries_poisoning_and_consequences,0
+2023,NUMBER,F,20-24,injuries_poisoning_and_consequences,1
+2023,NUMBER,F,25-29,injuries_poisoning_and_consequences,1
+2023,NUMBER,F,30-34,injuries_poisoning_and_consequences,8
+2023,NUMBER,F,35-39,injuries_poisoning_and_consequences,2
+2023,NUMBER,F,40-44,injuries_poisoning_and_consequences,6
+2023,NUMBER,F,45-49,injuries_poisoning_and_consequences,8
+2023,NUMBER,F,50-54,injuries_poisoning_and_consequences,7
+2023,NUMBER,F,55-59,injuries_poisoning_and_consequences,6
+2023,NUMBER,F,60-64,injuries_poisoning_and_consequences,7
+2023,NUMBER,F,65-69,injuries_poisoning_and_consequences,11
+2023,NUMBER,F,70-74,injuries_poisoning_and_consequences,10
+2023,NUMBER,F,75-79,injuries_poisoning_and_consequences,5
+2023,NUMBER,F,80-84,injuries_poisoning_and_consequences,7
+2023,NUMBER,F,85+,injuries_poisoning_and_consequences,7
+2023,NUMBER,_T,T,special_purpose_codes,122
+2023,NUMBER,_T,0,special_purpose_codes,0
+2023,NUMBER,_T, 1-4,special_purpose_codes,0
+2023,NUMBER,_T, 5-9,special_purpose_codes,0
+2023,NUMBER,_T, 10-14,special_purpose_codes,0
+2023,NUMBER,_T,15-19,special_purpose_codes,1
+2023,NUMBER,_T,20-24,special_purpose_codes,0
+2023,NUMBER,_T,25-29,special_purpose_codes,0
+2023,NUMBER,_T,30-34,special_purpose_codes,0
+2023,NUMBER,_T,35-39,special_purpose_codes,0
+2023,NUMBER,_T,40-44,special_purpose_codes,0
+2023,NUMBER,_T,45-49,special_purpose_codes,0
+2023,NUMBER,_T,50-54,special_purpose_codes,3
+2023,NUMBER,_T,55-59,special_purpose_codes,3
+2023,NUMBER,_T,60-64,special_purpose_codes,5
+2023,NUMBER,_T,65-69,special_purpose_codes,14
+2023,NUMBER,_T,70-74,special_purpose_codes,13
+2023,NUMBER,_T,75-79,special_purpose_codes,24
+2023,NUMBER,_T,80-84,special_purpose_codes,23
+2023,NUMBER,_T,85+,special_purpose_codes,36
+2023,NUMBER,M,T,special_purpose_codes,49
+2023,NUMBER,M,0,special_purpose_codes,0
+2023,NUMBER,M, 1-4,special_purpose_codes,0
+2023,NUMBER,M, 5-9,special_purpose_codes,0
+2023,NUMBER,M, 10-14,special_purpose_codes,0
+2023,NUMBER,M,15-19,special_purpose_codes,1
+2023,NUMBER,M,20-24,special_purpose_codes,0
+2023,NUMBER,M,25-29,special_purpose_codes,0
+2023,NUMBER,M,30-34,special_purpose_codes,0
+2023,NUMBER,M,35-39,special_purpose_codes,0
+2023,NUMBER,M,40-44,special_purpose_codes,0
+2023,NUMBER,M,45-49,special_purpose_codes,0
+2023,NUMBER,M,50-54,special_purpose_codes,1
+2023,NUMBER,M,55-59,special_purpose_codes,0
+2023,NUMBER,M,60-64,special_purpose_codes,1
+2023,NUMBER,M,65-69,special_purpose_codes,10
+2023,NUMBER,M,70-74,special_purpose_codes,5
+2023,NUMBER,M,75-79,special_purpose_codes,10
+2023,NUMBER,M,80-84,special_purpose_codes,5
+2023,NUMBER,M,85+,special_purpose_codes,16
+2023,NUMBER,F,T,special_purpose_codes,73
+2023,NUMBER,F,0,special_purpose_codes,0
+2023,NUMBER,F, 1-4,special_purpose_codes,0
+2023,NUMBER,F, 5-9,special_purpose_codes,0
+2023,NUMBER,F, 10-14,special_purpose_codes,0
+2023,NUMBER,F,15-19,special_purpose_codes,0
+2023,NUMBER,F,20-24,special_purpose_codes,0
+2023,NUMBER,F,25-29,special_purpose_codes,0
+2023,NUMBER,F,30-34,special_purpose_codes,0
+2023,NUMBER,F,35-39,special_purpose_codes,0
+2023,NUMBER,F,40-44,special_purpose_codes,0
+2023,NUMBER,F,45-49,special_purpose_codes,0
+2023,NUMBER,F,50-54,special_purpose_codes,2
+2023,NUMBER,F,55-59,special_purpose_codes,3
+2023,NUMBER,F,60-64,special_purpose_codes,4
+2023,NUMBER,F,65-69,special_purpose_codes,4
+2023,NUMBER,F,70-74,special_purpose_codes,8
+2023,NUMBER,F,75-79,special_purpose_codes,14
+2023,NUMBER,F,80-84,special_purpose_codes,18
+2023,NUMBER,F,85+,special_purpose_codes,20
+2023,NUMBER,_T,T,factors_influencing_health_status,6
+2023,NUMBER,_T,0,factors_influencing_health_status,0
+2023,NUMBER,_T, 1-4,factors_influencing_health_status,0
+2023,NUMBER,_T, 5-9,factors_influencing_health_status,0
+2023,NUMBER,_T, 10-14,factors_influencing_health_status,0
+2023,NUMBER,_T,15-19,factors_influencing_health_status,0
+2023,NUMBER,_T,20-24,factors_influencing_health_status,0
+2023,NUMBER,_T,25-29,factors_influencing_health_status,0
+2023,NUMBER,_T,30-34,factors_influencing_health_status,0
+2023,NUMBER,_T,35-39,factors_influencing_health_status,1
+2023,NUMBER,_T,40-44,factors_influencing_health_status,1
+2023,NUMBER,_T,45-49,factors_influencing_health_status,0
+2023,NUMBER,_T,50-54,factors_influencing_health_status,1
+2023,NUMBER,_T,55-59,factors_influencing_health_status,0
+2023,NUMBER,_T,60-64,factors_influencing_health_status,1
+2023,NUMBER,_T,65-69,factors_influencing_health_status,0
+2023,NUMBER,_T,70-74,factors_influencing_health_status,1
+2023,NUMBER,_T,75-79,factors_influencing_health_status,0
+2023,NUMBER,_T,80-84,factors_influencing_health_status,0
+2023,NUMBER,_T,85+,factors_influencing_health_status,1
+2023,NUMBER,M,T,factors_influencing_health_status,4
+2023,NUMBER,M,0,factors_influencing_health_status,0
+2023,NUMBER,M, 1-4,factors_influencing_health_status,0
+2023,NUMBER,M, 5-9,factors_influencing_health_status,0
+2023,NUMBER,M, 10-14,factors_influencing_health_status,0
+2023,NUMBER,M,15-19,factors_influencing_health_status,0
+2023,NUMBER,M,20-24,factors_influencing_health_status,0
+2023,NUMBER,M,25-29,factors_influencing_health_status,0
+2023,NUMBER,M,30-34,factors_influencing_health_status,0
+2023,NUMBER,M,35-39,factors_influencing_health_status,1
+2023,NUMBER,M,40-44,factors_influencing_health_status,1
+2023,NUMBER,M,45-49,factors_influencing_health_status,0
+2023,NUMBER,M,50-54,factors_influencing_health_status,0
+2023,NUMBER,M,55-59,factors_influencing_health_status,0
+2023,NUMBER,M,60-64,factors_influencing_health_status,0
+2023,NUMBER,M,65-69,factors_influencing_health_status,0
+2023,NUMBER,M,70-74,factors_influencing_health_status,1
+2023,NUMBER,M,75-79,factors_influencing_health_status,0
+2023,NUMBER,M,80-84,factors_influencing_health_status,0
+2023,NUMBER,M,85+,factors_influencing_health_status,1
+2023,NUMBER,F,T,factors_influencing_health_status,2
+2023,NUMBER,F,0,factors_influencing_health_status,0
+2023,NUMBER,F, 1-4,factors_influencing_health_status,0
+2023,NUMBER,F, 5-9,factors_influencing_health_status,0
+2023,NUMBER,F, 10-14,factors_influencing_health_status,0
+2023,NUMBER,F,15-19,factors_influencing_health_status,0
+2023,NUMBER,F,20-24,factors_influencing_health_status,0
+2023,NUMBER,F,25-29,factors_influencing_health_status,0
+2023,NUMBER,F,30-34,factors_influencing_health_status,0
+2023,NUMBER,F,35-39,factors_influencing_health_status,0
+2023,NUMBER,F,40-44,factors_influencing_health_status,0
+2023,NUMBER,F,45-49,factors_influencing_health_status,0
+2023,NUMBER,F,50-54,factors_influencing_health_status,1
+2023,NUMBER,F,55-59,factors_influencing_health_status,0
+2023,NUMBER,F,60-64,factors_influencing_health_status,1
+2023,NUMBER,F,65-69,factors_influencing_health_status,0
+2023,NUMBER,F,70-74,factors_influencing_health_status,0
+2023,NUMBER,F,75-79,factors_influencing_health_status,0
+2023,NUMBER,F,80-84,factors_influencing_health_status,0
+2023,NUMBER,F,85+,factors_influencing_health_status,0
+2023,NUMBER,_T,T,unknown,506
+2023,NUMBER,_T,0,unknown,5
+2023,NUMBER,_T, 1-4,unknown,1
+2023,NUMBER,_T, 5-9,unknown,0
+2023,NUMBER,_T, 10-14,unknown,0
+2023,NUMBER,_T,15-19,unknown,0
+2023,NUMBER,_T,20-24,unknown,3
+2023,NUMBER,_T,25-29,unknown,5
+2023,NUMBER,_T,30-34,unknown,4
+2023,NUMBER,_T,35-39,unknown,6
+2023,NUMBER,_T,40-44,unknown,8
+2023,NUMBER,_T,45-49,unknown,15
+2023,NUMBER,_T,50-54,unknown,20
+2023,NUMBER,_T,55-59,unknown,27
+2023,NUMBER,_T,60-64,unknown,52
+2023,NUMBER,_T,65-69,unknown,51
+2023,NUMBER,_T,70-74,unknown,78
+2023,NUMBER,_T,75-79,unknown,58
+2023,NUMBER,_T,80-84,unknown,70
+2023,NUMBER,_T,85+,unknown,103
+2023,NUMBER,M,T,unknown,280
+2023,NUMBER,M,0,unknown,3
+2023,NUMBER,M, 1-4,unknown,0
+2023,NUMBER,M, 5-9,unknown,0
+2023,NUMBER,M, 10-14,unknown,0
+2023,NUMBER,M,15-19,unknown,0
+2023,NUMBER,M,20-24,unknown,2
+2023,NUMBER,M,25-29,unknown,5
+2023,NUMBER,M,30-34,unknown,2
+2023,NUMBER,M,35-39,unknown,5
+2023,NUMBER,M,40-44,unknown,7
+2023,NUMBER,M,45-49,unknown,9
+2023,NUMBER,M,50-54,unknown,13
+2023,NUMBER,M,55-59,unknown,21
+2023,NUMBER,M,60-64,unknown,35
+2023,NUMBER,M,65-69,unknown,35
+2023,NUMBER,M,70-74,unknown,42
+2023,NUMBER,M,75-79,unknown,35
+2023,NUMBER,M,80-84,unknown,32
+2023,NUMBER,M,85+,unknown,34
+2023,NUMBER,F,T,unknown,226
+2023,NUMBER,F,0,unknown,2
+2023,NUMBER,F, 1-4,unknown,1
+2023,NUMBER,F, 5-9,unknown,0
+2023,NUMBER,F, 10-14,unknown,0
+2023,NUMBER,F,15-19,unknown,0
+2023,NUMBER,F,20-24,unknown,1
+2023,NUMBER,F,25-29,unknown,0
+2023,NUMBER,F,30-34,unknown,2
+2023,NUMBER,F,35-39,unknown,1
+2023,NUMBER,F,40-44,unknown,1
+2023,NUMBER,F,45-49,unknown,6
+2023,NUMBER,F,50-54,unknown,7
+2023,NUMBER,F,55-59,unknown,6
+2023,NUMBER,F,60-64,unknown,17
+2023,NUMBER,F,65-69,unknown,16
+2023,NUMBER,F,70-74,unknown,36
+2023,NUMBER,F,75-79,unknown,23
+2023,NUMBER,F,80-84,unknown,38
+2023,NUMBER,F,85+,unknown,69
