@@ -91,6 +91,7 @@
                 "(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom",
                 "(H60–H95) Bolesti uha i adneksa",
                 "(U00-U99) Šifre za posebne namjene",
+                "Total",
                 ""
               ]
             },
@@ -98,7 +99,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

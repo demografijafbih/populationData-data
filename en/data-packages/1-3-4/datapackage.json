@@ -47,6 +47,7 @@
             "constraints": {
               "enum": [
                 "",
+                "Total",
                 "(P00-P96) Certain conditions originating in the perinatal period",
                 "(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",
                 "(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",
@@ -93,7 +94,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {

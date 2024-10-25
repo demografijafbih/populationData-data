@@ -87,13 +87,14 @@
                 "factors_influencing_health_status",
                 "diseases_of_the_ear",
                 "special_purpose_codes",
+                "Total",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
