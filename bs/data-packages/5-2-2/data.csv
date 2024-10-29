@@ -12,6 +12,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Federacija Bosne i Hercegovine,Oba spola,19934
 2021,Broj,Federacija Bosne i Hercegovine,Oba spola,19416
 2022,Broj,Federacija Bosne i Hercegovine,Oba spola,18992
+2023,Broj,Federacija Bosne i Hercegovine,Oba spola,19758
 2010,Broj,Federacija Bosne i Hercegovine,M,16593
 2011,Broj,Federacija Bosne i Hercegovine,M,18197
 2012,Broj,Federacija Bosne i Hercegovine,M,14815
@@ -25,6 +26,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Federacija Bosne i Hercegovine,M,10216
 2021,Broj,Federacija Bosne i Hercegovine,M,9933
 2022,Broj,Federacija Bosne i Hercegovine,M,9880
+2023,Broj,Federacija Bosne i Hercegovine,M,10185
 2010,Broj,Federacija Bosne i Hercegovine,Ž,15976
 2011,Broj,Federacija Bosne i Hercegovine,Ž,17156
 2012,Broj,Federacija Bosne i Hercegovine,Ž,13758
@@ -38,6 +40,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Federacija Bosne i Hercegovine,Ž,9718
 2021,Broj,Federacija Bosne i Hercegovine,Ž,9483
 2022,Broj,Federacija Bosne i Hercegovine,Ž,9112
+2023,Broj,Federacija Bosne i Hercegovine,Ž,9573
 2010,Broj,Unsko-sanski kanton,Oba spola,3170
 2011,Broj,Unsko-sanski kanton,Oba spola,4752
 2012,Broj,Unsko-sanski kanton,Oba spola,3840
@@ -51,6 +54,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Unsko-sanski kanton,Oba spola,2241
 2021,Broj,Unsko-sanski kanton,Oba spola,2021
 2022,Broj,Unsko-sanski kanton,Oba spola,1957
+2023,Broj,Unsko-sanski kanton,Oba spola,2107
 2010,Broj,Unsko-sanski kanton,M,1679
 2011,Broj,Unsko-sanski kanton,M,2453
 2012,Broj,Unsko-sanski kanton,M,1999
@@ -64,6 +68,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Unsko-sanski kanton,M,1119
 2021,Broj,Unsko-sanski kanton,M,1036
 2022,Broj,Unsko-sanski kanton,M,1022
+2023,Broj,Unsko-sanski kanton,M,1016
 2010,Broj,Unsko-sanski kanton,Ž,1491
 2011,Broj,Unsko-sanski kanton,Ž,2299
 2012,Broj,Unsko-sanski kanton,Ž,1841
@@ -77,6 +82,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Unsko-sanski kanton,Ž,1122
 2021,Broj,Unsko-sanski kanton,Ž,985
 2022,Broj,Unsko-sanski kanton,Ž,935
+2023,Broj,Unsko-sanski kanton,Ž,1091
 2010,Broj,Posavski kanton,Oba spola,482
 2011,Broj,Posavski kanton,Oba spola,459
 2012,Broj,Posavski kanton,Oba spola,499
@@ -90,6 +96,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Posavski kanton,Oba spola,236
 2021,Broj,Posavski kanton,Oba spola,231
 2022,Broj,Posavski kanton,Oba spola,229
+2023,Broj,Posavski kanton,Oba spola,201
 2010,Broj,Posavski kanton,M,262
 2011,Broj,Posavski kanton,M,225
 2012,Broj,Posavski kanton,M,255
@@ -103,6 +110,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Posavski kanton,M,119
 2021,Broj,Posavski kanton,M,123
 2022,Broj,Posavski kanton,M,125
+2023,Broj,Posavski kanton,M,105
 2010,Broj,Posavski kanton,Ž,220
 2011,Broj,Posavski kanton,Ž,234
 2012,Broj,Posavski kanton,Ž,244
@@ -116,6 +124,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Posavski kanton,Ž,117
 2021,Broj,Posavski kanton,Ž,108
 2022,Broj,Posavski kanton,Ž,104
+2023,Broj,Posavski kanton,Ž,96
 2010,Broj,Tuzlanski kanton,Oba spola,7384
 2011,Broj,Tuzlanski kanton,Oba spola,7674
 2012,Broj,Tuzlanski kanton,Oba spola,6070
@@ -129,6 +138,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Tuzlanski kanton,Oba spola,4243
 2021,Broj,Tuzlanski kanton,Oba spola,3869
 2022,Broj,Tuzlanski kanton,Oba spola,3859
+2023,Broj,Tuzlanski kanton,Oba spola,4013
 2010,Broj,Tuzlanski kanton,M,3717
 2011,Broj,Tuzlanski kanton,M,3947
 2012,Broj,Tuzlanski kanton,M,3147
@@ -142,6 +152,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Tuzlanski kanton,M,2190
 2021,Broj,Tuzlanski kanton,M,2011
 2022,Broj,Tuzlanski kanton,M,2011
+2023,Broj,Tuzlanski kanton,M,2108
 2010,Broj,Tuzlanski kanton,Ž,3667
 2011,Broj,Tuzlanski kanton,Ž,3727
 2012,Broj,Tuzlanski kanton,Ž,2923
@@ -155,6 +166,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Tuzlanski kanton,Ž,2053
 2021,Broj,Tuzlanski kanton,Ž,1858
 2022,Broj,Tuzlanski kanton,Ž,1848
+2023,Broj,Tuzlanski kanton,Ž,1905
 2010,Broj,Zeničko-dobojski kanton,Oba spola,6300
 2011,Broj,Zeničko-dobojski kanton,Oba spola,6643
 2012,Broj,Zeničko-dobojski kanton,Oba spola,4205
@@ -168,6 +180,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Zeničko-dobojski kanton,Oba spola,3468
 2021,Broj,Zeničko-dobojski kanton,Oba spola,3536
 2022,Broj,Zeničko-dobojski kanton,Oba spola,3486
+2023,Broj,Zeničko-dobojski kanton,Oba spola,3718
 2010,Broj,Zeničko-dobojski kanton,M,3192
 2011,Broj,Zeničko-dobojski kanton,M,3448
 2012,Broj,Zeničko-dobojski kanton,M,2144
@@ -181,6 +194,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Zeničko-dobojski kanton,M,1764
 2021,Broj,Zeničko-dobojski kanton,M,1793
 2022,Broj,Zeničko-dobojski kanton,M,1797
+2023,Broj,Zeničko-dobojski kanton,M,1910
 2010,Broj,Zeničko-dobojski kanton,Ž,3108
 2011,Broj,Zeničko-dobojski kanton,Ž,3195
 2012,Broj,Zeničko-dobojski kanton,Ž,2061
@@ -194,6 +208,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Zeničko-dobojski kanton,Ž,1704
 2021,Broj,Zeničko-dobojski kanton,Ž,1743
 2022,Broj,Zeničko-dobojski kanton,Ž,1689
+2023,Broj,Zeničko-dobojski kanton,Ž,1808
 2010,Broj,Bosansko-podrinjski kanton,Oba spola,360
 2011,Broj,Bosansko-podrinjski kanton,Oba spola,476
 2012,Broj,Bosansko-podrinjski kanton,Oba spola,374
@@ -207,6 +222,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Bosansko-podrinjski kanton,Oba spola,209
 2021,Broj,Bosansko-podrinjski kanton,Oba spola,188
 2022,Broj,Bosansko-podrinjski kanton,Oba spola,174
+2023,Broj,Bosansko-podrinjski kanton,Oba spola,202
 2010,Broj,Bosansko-podrinjski kanton,M,200
 2011,Broj,Bosansko-podrinjski kanton,M,261
 2012,Broj,Bosansko-podrinjski kanton,M,198
@@ -220,6 +236,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Bosansko-podrinjski kanton,M,113
 2021,Broj,Bosansko-podrinjski kanton,M,96
 2022,Broj,Bosansko-podrinjski kanton,M,83
+2023,Broj,Bosansko-podrinjski kanton,M,106
 2010,Broj,Bosansko-podrinjski kanton,Ž,160
 2011,Broj,Bosansko-podrinjski kanton,Ž,215
 2012,Broj,Bosansko-podrinjski kanton,Ž,176
@@ -233,6 +250,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Bosansko-podrinjski kanton,Ž,96
 2021,Broj,Bosansko-podrinjski kanton,Ž,92
 2022,Broj,Bosansko-podrinjski kanton,Ž,91
+2023,Broj,Bosansko-podrinjski kanton,Ž,96
 2010,Broj,Srednjobosanski kanton,Oba spola,4168
 2011,Broj,Srednjobosanski kanton,Oba spola,4223
 2012,Broj,Srednjobosanski kanton,Oba spola,3697
@@ -246,6 +264,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Srednjobosanski kanton,Oba spola,2506
 2021,Broj,Srednjobosanski kanton,Oba spola,2404
 2022,Broj,Srednjobosanski kanton,Oba spola,2295
+2023,Broj,Srednjobosanski kanton,Oba spola,2295
 2010,Broj,Srednjobosanski kanton,M,2092
 2011,Broj,Srednjobosanski kanton,M,2184
 2012,Broj,Srednjobosanski kanton,M,1953
@@ -259,6 +278,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Srednjobosanski kanton,M,1279
 2021,Broj,Srednjobosanski kanton,M,1218
 2022,Broj,Srednjobosanski kanton,M,1199
+2023,Broj,Srednjobosanski kanton,M,1187
 2010,Broj,Srednjobosanski kanton,Ž,2076
 2011,Broj,Srednjobosanski kanton,Ž,2039
 2012,Broj,Srednjobosanski kanton,Ž,1744
@@ -272,6 +292,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Srednjobosanski kanton,Ž,1227
 2021,Broj,Srednjobosanski kanton,Ž,1186
 2022,Broj,Srednjobosanski kanton,Ž,1096
+2023,Broj,Srednjobosanski kanton,Ž,1111
 2010,Broj,Hercegovačko-neretvanski kanton,Oba spola,3256
 2011,Broj,Hercegovačko-neretvanski kanton,Oba spola,3141
 2012,Broj,Hercegovačko-neretvanski kanton,Oba spola,2959
@@ -285,6 +306,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Hercegovačko-neretvanski kanton,Oba spola,1906
 2021,Broj,Hercegovačko-neretvanski kanton,Oba spola,1813
 2022,Broj,Hercegovačko-neretvanski kanton,Oba spola,1765
+2023,Broj,Hercegovačko-neretvanski kanton,Oba spola,1809
 2010,Broj,Hercegovačko-neretvanski kanton,M,1617
 2011,Broj,Hercegovačko-neretvanski kanton,M,1638
 2012,Broj,Hercegovačko-neretvanski kanton,M,1597
@@ -298,6 +320,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Hercegovačko-neretvanski kanton,M,959
 2021,Broj,Hercegovačko-neretvanski kanton,M,941
 2022,Broj,Hercegovačko-neretvanski kanton,M,961
+2023,Broj,Hercegovačko-neretvanski kanton,M,935
 2010,Broj,Hercegovačko-neretvanski kanton,Ž,1639
 2011,Broj,Hercegovačko-neretvanski kanton,Ž,1503
 2012,Broj,Hercegovačko-neretvanski kanton,Ž,1362
@@ -311,6 +334,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Hercegovačko-neretvanski kanton,Ž,947
 2021,Broj,Hercegovačko-neretvanski kanton,Ž,872
 2022,Broj,Hercegovačko-neretvanski kanton,Ž,804
+2023,Broj,Hercegovačko-neretvanski kanton,Ž,874
 2010,Broj,Zapadno-hercegovački kanton,Oba spola,1280
 2011,Broj,Zapadno-hercegovački kanton,Oba spola,1226
 2012,Broj,Zapadno-hercegovački kanton,Oba spola,1346
@@ -324,6 +348,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Zapadno-hercegovački kanton,Oba spola,916
 2021,Broj,Zapadno-hercegovački kanton,Oba spola,957
 2022,Broj,Zapadno-hercegovački kanton,Oba spola,831
+2023,Broj,Zapadno-hercegovački kanton,Oba spola,878
 2010,Broj,Zapadno-hercegovački kanton,M,670
 2011,Broj,Zapadno-hercegovački kanton,M,632
 2012,Broj,Zapadno-hercegovački kanton,M,676
@@ -337,6 +362,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Zapadno-hercegovački kanton,M,475
 2021,Broj,Zapadno-hercegovački kanton,M,469
 2022,Broj,Zapadno-hercegovački kanton,M,471
+2023,Broj,Zapadno-hercegovački kanton,M,467
 2010,Broj,Zapadno-hercegovački kanton,Ž,610
 2011,Broj,Zapadno-hercegovački kanton,Ž,594
 2012,Broj,Zapadno-hercegovački kanton,Ž,670
@@ -350,6 +376,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Zapadno-hercegovački kanton,Ž,441
 2021,Broj,Zapadno-hercegovački kanton,Ž,488
 2022,Broj,Zapadno-hercegovački kanton,Ž,360
+2023,Broj,Zapadno-hercegovački kanton,Ž,411
 2010,Broj,Kanton Sarajevo,Oba spola,5433
 2011,Broj,Kanton Sarajevo,Oba spola,5900
 2012,Broj,Kanton Sarajevo,Oba spola,4730
@@ -363,6 +390,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Kanton Sarajevo,Oba spola,3704
 2021,Broj,Kanton Sarajevo,Oba spola,3890
 2022,Broj,Kanton Sarajevo,Oba spola,3957
+2023,Broj,Kanton Sarajevo,Oba spola,4064
 2010,Broj,Kanton Sarajevo,M,2777
 2011,Broj,Kanton Sarajevo,M,2990
 2012,Broj,Kanton Sarajevo,M,2453
@@ -376,6 +404,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Kanton Sarajevo,M,1917
 2021,Broj,Kanton Sarajevo,M,1993
 2022,Broj,Kanton Sarajevo,M,1990
+2023,Broj,Kanton Sarajevo,M,2105
 2010,Broj,Kanton Sarajevo,Ž,2656
 2011,Broj,Kanton Sarajevo,Ž,2910
 2012,Broj,Kanton Sarajevo,Ž,2277
@@ -389,6 +418,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Kanton Sarajevo,Ž,1787
 2021,Broj,Kanton Sarajevo,Ž,1897
 2022,Broj,Kanton Sarajevo,Ž,1967
+2023,Broj,Kanton Sarajevo,Ž,1959
 2010,Broj,Kanton 10,Oba spola,736
 2011,Broj,Kanton 10,Oba spola,859
 2012,Broj,Kanton 10,Oba spola,853
@@ -402,6 +432,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Kanton 10,Oba spola,505
 2021,Broj,Kanton 10,Oba spola,507
 2022,Broj,Kanton 10,Oba spola,439
+2023,Broj,Kanton 10,Oba spola,468
 2010,Broj,Kanton 10,M,387
 2011,Broj,Kanton 10,M,419
 2012,Broj,Kanton 10,M,393
@@ -415,6 +446,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Kanton 10,M,281
 2021,Broj,Kanton 10,M,253
 2022,Broj,Kanton 10,M,221
+2023,Broj,Kanton 10,M,246
 2010,Broj,Kanton 10,Ž,349
 2011,Broj,Kanton 10,Ž,440
 2012,Broj,Kanton 10,Ž,460
@@ -428,3 +460,4 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Kanton 10,Ž,224
 2021,Broj,Kanton 10,Ž,254
 2022,Broj,Kanton 10,Ž,218
+2023,Broj,Kanton 10,Ž,222
