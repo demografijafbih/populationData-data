@@ -12,6 +12,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,federation_of_bih,_T,71328
 2021,NUMBER,federation_of_bih,_T,70024
 2022,NUMBER,federation_of_bih,_T,70325
+2023,NUMBER,federation_of_bih,_T,70356
 2010,NUMBER,federation_of_bih,M,50211
 2011,NUMBER,federation_of_bih,M,55366
 2012,NUMBER,federation_of_bih,M,57539
@@ -25,6 +26,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,federation_of_bih,M,35711
 2021,NUMBER,federation_of_bih,M,35018
 2022,NUMBER,federation_of_bih,M,35016
+2023,NUMBER,federation_of_bih,M,35053
 2010,NUMBER,federation_of_bih,F,49017
 2011,NUMBER,federation_of_bih,F,53591
 2012,NUMBER,federation_of_bih,F,55675
@@ -38,6 +40,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,federation_of_bih,F,35617
 2021,NUMBER,federation_of_bih,F,35006
 2022,NUMBER,federation_of_bih,F,35309
+2023,NUMBER,federation_of_bih,F,35303
 2010,NUMBER,una-sana_canton,_T,10302
 2011,NUMBER,una-sana_canton,_T,11913
 2012,NUMBER,una-sana_canton,_T,12734
@@ -51,6 +54,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,una-sana_canton,_T,7501
 2021,NUMBER,una-sana_canton,_T,7107
 2022,NUMBER,una-sana_canton,_T,6792
+2023,NUMBER,una-sana_canton,_T,6733
 2010,NUMBER,una-sana_canton,M,5247
 2011,NUMBER,una-sana_canton,M,6049
 2012,NUMBER,una-sana_canton,M,6505
@@ -64,6 +68,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,una-sana_canton,M,3676
 2021,NUMBER,una-sana_canton,M,3470
 2022,NUMBER,una-sana_canton,M,3341
+2023,NUMBER,una-sana_canton,M,3278
 2010,NUMBER,una-sana_canton,F,5055
 2011,NUMBER,una-sana_canton,F,5864
 2012,NUMBER,una-sana_canton,F,6229
@@ -77,6 +82,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,una-sana_canton,F,3825
 2021,NUMBER,una-sana_canton,F,3637
 2022,NUMBER,una-sana_canton,F,3451
+2023,NUMBER,una-sana_canton,F,3455
 2010,NUMBER,posavina_canton,_T,1516
 2011,NUMBER,posavina_canton,_T,1591
 2012,NUMBER,posavina_canton,_T,1673
@@ -90,6 +96,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,posavina_canton,_T,896
 2021,NUMBER,posavina_canton,_T,865
 2022,NUMBER,posavina_canton,_T,805
+2023,NUMBER,posavina_canton,_T,759
 2010,NUMBER,posavina_canton,M,738
 2011,NUMBER,posavina_canton,M,779
 2012,NUMBER,posavina_canton,M,807
@@ -103,6 +110,8 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,posavina_canton,M,437
 2021,NUMBER,posavina_canton,M,430
 2022,NUMBER,posavina_canton,M,403
+2023,NUMBER,posavina_canton,M,379
+2023,NUMBER,posavina_canton,M,379
 2010,NUMBER,posavina_canton,F,778
 2011,NUMBER,posavina_canton,F,812
 2012,NUMBER,posavina_canton,F,866
@@ -116,6 +125,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,posavina_canton,F,459
 2021,NUMBER,posavina_canton,F,435
 2022,NUMBER,posavina_canton,F,402
+2023,NUMBER,posavina_canton,F,380
 2010,NUMBER,tuzla_canton,_T,22329
 2011,NUMBER,tuzla_canton,_T,24166
 2012,NUMBER,tuzla_canton,_T,24680
@@ -129,6 +139,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,tuzla_canton,_T,14923
 2021,NUMBER,tuzla_canton,_T,14384
 2022,NUMBER,tuzla_canton,_T,14128
+2023,NUMBER,tuzla_canton,_T,14117
 2010,NUMBER,tuzla_canton,M,11405
 2011,NUMBER,tuzla_canton,M,12336
 2012,NUMBER,tuzla_canton,M,12559
@@ -142,6 +153,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,tuzla_canton,M,7496
 2021,NUMBER,tuzla_canton,M,7197
 2022,NUMBER,tuzla_canton,M,7048
+2023,NUMBER,tuzla_canton,M,6997
 2010,NUMBER,tuzla_canton,F,10924
 2011,NUMBER,tuzla_canton,F,11830
 2012,NUMBER,tuzla_canton,F,12121
@@ -155,6 +167,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,tuzla_canton,F,7427
 2021,NUMBER,tuzla_canton,F,7187
 2022,NUMBER,tuzla_canton,F,7080
+2023,NUMBER,tuzla_canton,F,7120
 2010,NUMBER,zenica-doboj_canton,_T,17124
 2011,NUMBER,zenica-doboj_canton,_T,19199
 2012,NUMBER,zenica-doboj_canton,_T,19271
@@ -168,6 +181,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,zenica-doboj_canton,_T,12365
 2021,NUMBER,zenica-doboj_canton,_T,11908
 2022,NUMBER,zenica-doboj_canton,_T,11875
+2023,NUMBER,zenica-doboj_canton,_T,11998
 2010,NUMBER,zenica-doboj_canton,M,8791
 2011,NUMBER,zenica-doboj_canton,M,9949
 2012,NUMBER,zenica-doboj_canton,M,9976
@@ -181,6 +195,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,zenica-doboj_canton,M,6217
 2021,NUMBER,zenica-doboj_canton,M,5904
 2022,NUMBER,zenica-doboj_canton,M,5943
+2023,NUMBER,zenica-doboj_canton,M,6118
 2010,NUMBER,zenica-doboj_canton,F,8333
 2011,NUMBER,zenica-doboj_canton,F,9250
 2012,NUMBER,zenica-doboj_canton,F,9295
@@ -194,6 +209,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,zenica-doboj_canton,F,6148
 2021,NUMBER,zenica-doboj_canton,F,6004
 2022,NUMBER,zenica-doboj_canton,F,5932
+2023,NUMBER,zenica-doboj_canton,F,5880
 2010,NUMBER,bosnian-podrinje_canton,_T,1136
 2011,NUMBER,bosnian-podrinje_canton,_T,1247
 2012,NUMBER,bosnian-podrinje_canton,_T,1389
@@ -207,6 +223,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,bosnian-podrinje_canton,_T,788
 2021,NUMBER,bosnian-podrinje_canton,_T,748
 2022,NUMBER,bosnian-podrinje_canton,_T,706
+2023,NUMBER,bosnian-podrinje_canton,_T,685
 2010,NUMBER,bosnian-podrinje_canton,M,591
 2011,NUMBER,bosnian-podrinje_canton,M,659
 2012,NUMBER,bosnian-podrinje_canton,M,717
@@ -220,6 +237,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,bosnian-podrinje_canton,M,423
 2021,NUMBER,bosnian-podrinje_canton,M,388
 2022,NUMBER,bosnian-podrinje_canton,M,368
+2023,NUMBER,bosnian-podrinje_canton,M,352
 2010,NUMBER,bosnian-podrinje_canton,F,545
 2011,NUMBER,bosnian-podrinje_canton,F,588
 2012,NUMBER,bosnian-podrinje_canton,F,672
@@ -233,6 +251,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,bosnian-podrinje_canton,F,365
 2021,NUMBER,bosnian-podrinje_canton,F,360
 2022,NUMBER,bosnian-podrinje_canton,F,338
+2023,NUMBER,bosnian-podrinje_canton,F,333
 2010,NUMBER,central_bosnia_canton,_T,11531
 2011,NUMBER,central_bosnia_canton,_T,12712
 2012,NUMBER,central_bosnia_canton,_T,13583
@@ -246,6 +265,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,central_bosnia_canton,_T,7869
 2021,NUMBER,central_bosnia_canton,_T,8097
 2022,NUMBER,central_bosnia_canton,_T,8867
+2023,NUMBER,central_bosnia_canton,_T,8749
 2010,NUMBER,central_bosnia_canton,M,5829
 2011,NUMBER,central_bosnia_canton,M,6467
 2012,NUMBER,central_bosnia_canton,M,6915
@@ -259,6 +279,8 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,central_bosnia_canton,M,3922
 2021,NUMBER,central_bosnia_canton,M,4135
 2022,NUMBER,central_bosnia_canton,M,4418
+2023,NUMBER,central_bosnia_canton,M,4362
+2023,NUMBER,central_bosnia_canton,M,4362
 2010,NUMBER,central_bosnia_canton,F,5702
 2011,NUMBER,central_bosnia_canton,F,6245
 2012,NUMBER,central_bosnia_canton,F,6668
@@ -272,6 +294,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,central_bosnia_canton,F,3947
 2021,NUMBER,central_bosnia_canton,F,3962
 2022,NUMBER,central_bosnia_canton,F,4449
+2023,NUMBER,central_bosnia_canton,F,4387
 2010,NUMBER,herzegovina-neretva_canton,_T,9924
 2011,NUMBER,herzegovina-neretva_canton,_T,10847
 2012,NUMBER,herzegovina-neretva_canton,_T,11385
@@ -285,6 +308,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,herzegovina-neretva_canton,_T,7055
 2021,NUMBER,herzegovina-neretva_canton,_T,7121
 2022,NUMBER,herzegovina-neretva_canton,_T,7284
+2023,NUMBER,herzegovina-neretva_canton,_T,7178
 2010,NUMBER,herzegovina-neretva_canton,M,4940
 2011,NUMBER,herzegovina-neretva_canton,M,5391
 2012,NUMBER,herzegovina-neretva_canton,M,5789
@@ -298,6 +322,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,herzegovina-neretva_canton,M,3489
 2021,NUMBER,herzegovina-neretva_canton,M,3534
 2022,NUMBER,herzegovina-neretva_canton,M,3633
+2023,NUMBER,herzegovina-neretva_canton,M,3626
 2010,NUMBER,herzegovina-neretva_canton,F,4984
 2011,NUMBER,herzegovina-neretva_canton,F,5456
 2012,NUMBER,herzegovina-neretva_canton,F,5596
@@ -311,6 +336,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,herzegovina-neretva_canton,F,3566
 2021,NUMBER,herzegovina-neretva_canton,F,3587
 2022,NUMBER,herzegovina-neretva_canton,F,3651
+2023,NUMBER,herzegovina-neretva_canton,F,3623
 2010,NUMBER,west_herzegovina_canton,_T,4115
 2011,NUMBER,west_herzegovina_canton,_T,4250
 2012,NUMBER,west_herzegovina_canton,_T,4406
@@ -324,6 +350,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,west_herzegovina_canton,_T,3138
 2021,NUMBER,west_herzegovina_canton,_T,3168
 2022,NUMBER,west_herzegovina_canton,_T,3281
+2023,NUMBER,west_herzegovina_canton,_T,3367
 2010,NUMBER,west_herzegovina_canton,M,1989
 2011,NUMBER,west_herzegovina_canton,M,2075
 2012,NUMBER,west_herzegovina_canton,M,2174
@@ -337,6 +364,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,west_herzegovina_canton,M,1589
 2021,NUMBER,west_herzegovina_canton,M,1600
 2022,NUMBER,west_herzegovina_canton,M,1621
+2023,NUMBER,west_herzegovina_canton,M,1667
 2010,NUMBER,west_herzegovina_canton,F,2126
 2011,NUMBER,west_herzegovina_canton,F,2175
 2012,NUMBER,west_herzegovina_canton,F,2232
@@ -350,6 +378,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,west_herzegovina_canton,F,1549
 2021,NUMBER,west_herzegovina_canton,F,1568
 2022,NUMBER,west_herzegovina_canton,F,1660
+2023,NUMBER,west_herzegovina_canton,F,1700
 2010,NUMBER,sarajevo_canton,_T,18625
 2011,NUMBER,sarajevo_canton,_T,20301
 2012,NUMBER,sarajevo_canton,_T,21229
@@ -363,6 +392,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,sarajevo_canton,_T,14750
 2021,NUMBER,sarajevo_canton,_T,14679
 2022,NUMBER,sarajevo_canton,_T,14770
+2023,NUMBER,sarajevo_canton,_T,15008
 2010,NUMBER,sarajevo_canton,M,9360
 2011,NUMBER,sarajevo_canton,M,10307
 2012,NUMBER,sarajevo_canton,M,10700
@@ -376,6 +406,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,sarajevo_canton,M,7392
 2021,NUMBER,sarajevo_canton,M,7353
 2022,NUMBER,sarajevo_canton,M,7320
+2023,NUMBER,sarajevo_canton,M,7433
 2010,NUMBER,sarajevo_canton,F,9265
 2011,NUMBER,sarajevo_canton,F,9994
 2012,NUMBER,sarajevo_canton,F,10529
@@ -389,6 +420,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,sarajevo_canton,F,7358
 2021,NUMBER,sarajevo_canton,F,7326
 2022,NUMBER,sarajevo_canton,F,7450
+2023,NUMBER,sarajevo_canton,F,7575
 2010,NUMBER,canton_10,_T,2626
 2011,NUMBER,canton_10,_T,2731
 2012,NUMBER,canton_10,_T,2864
@@ -402,6 +434,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,canton_10,_T,2043
 2021,NUMBER,canton_10,_T,1947
 2022,NUMBER,canton_10,_T,1817
+2023,NUMBER,canton_10,_T,1762
 2010,NUMBER,canton_10,M,1321
 2011,NUMBER,canton_10,M,1354
 2012,NUMBER,canton_10,M,1397
@@ -415,6 +448,7 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,canton_10,M,1070
 2021,NUMBER,canton_10,M,1007
 2022,NUMBER,canton_10,M,921
+2023,NUMBER,canton_10,M,912
 2010,NUMBER,canton_10,F,1305
 2011,NUMBER,canton_10,F,1377
 2012,NUMBER,canton_10,F,1467
@@ -428,3 +462,4 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2020,NUMBER,canton_10,F,973
 2021,NUMBER,canton_10,F,940
 2022,NUMBER,canton_10,F,896
+2023,NUMBER,canton_10,F,850
