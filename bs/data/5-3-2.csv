@@ -41,6 +41,12 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Federacija Bosne i Hercegovine,Umjetničke škole,924
 2022,Broj,Federacija Bosne i Hercegovine,Vjerske škole,2126
 2022,Broj,Federacija Bosne i Hercegovine,Srednje škole za djecu s poteškoćama u razvoju,166
+2023,Broj,Federacija Bosne i Hercegovine,Gimnazija,15250
+2023,Broj,Federacija Bosne i Hercegovine,Tehničke škole,38560
+2023,Broj,Federacija Bosne i Hercegovine,Stručne škole,13270
+2023,Broj,Federacija Bosne i Hercegovine,Umjetničke škole,970
+2023,Broj,Federacija Bosne i Hercegovine,Vjerske škole,2126
+2023,Broj,Federacija Bosne i Hercegovine,Srednje škole za djecu s poteškoćama u razvoju,180
 2016,Broj,Unsko-sanski kanton,Gimnazija,1905
 2016,Broj,Unsko-sanski kanton,Tehničke škole,4610
 2016,Broj,Unsko-sanski kanton,Stručne škole,2755
@@ -76,6 +82,11 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Unsko-sanski kanton,Stručne škole,2001
 2022,Broj,Unsko-sanski kanton,Umjetničke škole,65
 2022,Broj,Unsko-sanski kanton,Vjerske škole,220
+2023,Broj,Unsko-sanski kanton,Gimnazija,1101
+2023,Broj,Unsko-sanski kanton,Tehničke škole,3327
+2023,Broj,Unsko-sanski kanton,Stručne škole,2025
+2023,Broj,Unsko-sanski kanton,Umjetničke škole,54
+2023,Broj,Unsko-sanski kanton,Vjerske škole,226
 2016,Broj,Posavski kanton,Gimnazija,228
 2016,Broj,Posavski kanton,Tehničke škole,803
 2016,Broj,Posavski kanton,Stručne škole,269
@@ -97,6 +108,9 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Posavski kanton,Gimnazija,160
 2022,Broj,Posavski kanton,Tehničke škole,542
 2022,Broj,Posavski kanton,Stručne škole,103
+2023,Broj,Posavski kanton,Gimnazija,154
+2023,Broj,Posavski kanton,Tehničke škole,525
+2023,Broj,Posavski kanton,Stručne škole,80
 2016,Broj,Tuzlanski kanton,Gimnazija,2428
 2016,Broj,Tuzlanski kanton,Tehničke škole,8711
 2016,Broj,Tuzlanski kanton,Stručne škole,3898
@@ -137,6 +151,11 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Tuzlanski kanton,Stručne škole,3691
 2022,Broj,Tuzlanski kanton,Umjetničke škole,218
 2022,Broj,Tuzlanski kanton,Vjerske škole,523
+2023,Broj,Tuzlanski kanton,Gimnazija,1809
+2023,Broj,Tuzlanski kanton,Tehničke škole,7775
+2023,Broj,Tuzlanski kanton,Stručne škole,3771
+2023,Broj,Tuzlanski kanton,Umjetničke škole,241
+2023,Broj,Tuzlanski kanton,Vjerske škole,521
 2016,Broj,Zeničko-dobojski kanton,Gimnazija,3602
 2016,Broj,Zeničko-dobojski kanton,Tehničke škole,7104
 2016,Broj,Zeničko-dobojski kanton,Stručne škole,3417
@@ -179,6 +198,12 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Zeničko-dobojski kanton,Umjetničke škole,63
 2022,Broj,Zeničko-dobojski kanton,Vjerske škole,255
 2022,Broj,Zeničko-dobojski kanton,Srednje škole za djecu s poteškoćama u razvoju,20
+2023,Broj,Zeničko-dobojski kanton,Gimnazija,2352
+2023,Broj,Zeničko-dobojski kanton,Tehničke škole,6788
+2023,Broj,Zeničko-dobojski kanton,Stručne škole,2524
+2023,Broj,Zeničko-dobojski kanton,Umjetničke škole,54
+2023,Broj,Zeničko-dobojski kanton,Vjerske škole,261
+2023,Broj,Zeničko-dobojski kanton,Srednje škole za djecu s poteškoćama u razvoju,19
 2016,Broj,Bosansko-podrinjski kanton,Gimnazija,172
 2016,Broj,Bosansko-podrinjski kanton,Tehničke škole,534
 2016,Broj,Bosansko-podrinjski kanton,Stručne škole,242
@@ -199,6 +224,9 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Bosansko-podrinjski kanton,Gimnazija,108
 2022,Broj,Bosansko-podrinjski kanton,Tehničke škole,495
 2022,Broj,Bosansko-podrinjski kanton,Stručne škole,103
+2023,Broj,Bosansko-podrinjski kanton,Gimnazija,106
+2023,Broj,Bosansko-podrinjski kanton,Tehničke škole,486
+2023,Broj,Bosansko-podrinjski kanton,Stručne škole,93
 2016,Broj,Srednjobosanski kanton,Gimnazija,2287
 2016,Broj,Srednjobosanski kanton,Tehničke škole,5589
 2016,Broj,Srednjobosanski kanton,Stručne škole,2265
@@ -234,6 +262,11 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Srednjobosanski kanton,Stručne škole,1496
 2022,Broj,Srednjobosanski kanton,Umjetničke škole,84
 2022,Broj,Srednjobosanski kanton,Vjerske škole,435
+2023,Broj,Srednjobosanski kanton,Gimnazija,1164
+2023,Broj,Srednjobosanski kanton,Tehničke škole,5552
+2023,Broj,Srednjobosanski kanton,Stručne škole,1522
+2023,Broj,Srednjobosanski kanton,Umjetničke škole,73
+2023,Broj,Srednjobosanski kanton,Vjerske škole,438
 2016,Broj,Hercegovačko-neretvanski kanton,Gimnazija,2616
 2016,Broj,Hercegovačko-neretvanski kanton,Tehničke škole,4329
 2016,Broj,Hercegovačko-neretvanski kanton,Stručne škole,1210
@@ -276,6 +309,12 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Hercegovačko-neretvanski kanton,Umjetničke škole,143
 2022,Broj,Hercegovačko-neretvanski kanton,Vjerske škole,233
 2022,Broj,Hercegovačko-neretvanski kanton,Srednje škole za djecu s poteškoćama u razvoju,12
+2023,Broj,Hercegovačko-neretvanski kanton,Gimnazija,1511
+2023,Broj,Hercegovačko-neretvanski kanton,Tehničke škole,4614
+2023,Broj,Hercegovačko-neretvanski kanton,Stručne škole,693
+2023,Broj,Hercegovačko-neretvanski kanton,Umjetničke škole,123
+2023,Broj,Hercegovačko-neretvanski kanton,Vjerske škole,226
+2023,Broj,Hercegovačko-neretvanski kanton,Srednje škole za djecu s poteškoćama u razvoju,11
 2016,Broj,Zapadno-hercegovački kanton,Gimnazija,1603
 2016,Broj,Zapadno-hercegovački kanton,Tehničke škole,1831
 2016,Broj,Zapadno-hercegovački kanton,Stručne škole,571
@@ -310,6 +349,11 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Zapadno-hercegovački kanton,Stručne škole,363
 2022,Broj,Zapadno-hercegovački kanton,Umjetničke škole,52
 2022,Broj,Zapadno-hercegovački kanton,Srednje škole za djecu s poteškoćama u razvoju,2
+2023,Broj,Zapadno-hercegovački kanton,Gimnazija,1176
+2023,Broj,Zapadno-hercegovački kanton,Tehničke škole,1721
+2023,Broj,Zapadno-hercegovački kanton,Stručne škole,365
+2023,Broj,Zapadno-hercegovački kanton,Umjetničke škole,105
+2023,Broj,Zapadno-hercegovački kanton,Srednje škole za djecu s poteškoćama u razvoju, -
 2016,Broj,Kanton Sarajevo,Gimnazija,5120
 2016,Broj,Kanton Sarajevo,Tehničke škole,7464
 2016,Broj,Kanton Sarajevo,Stručne škole,1784
@@ -352,6 +396,12 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Kanton Sarajevo,Umjetničke škole,299
 2022,Broj,Kanton Sarajevo,Vjerske škole,460
 2022,Broj,Kanton Sarajevo,Srednje škole za djecu s poteškoćama u razvoju,128
+2023,Broj,Kanton Sarajevo,Gimnazija,5294
+2023,Broj,Kanton Sarajevo,Tehničke škole,6859
+2023,Broj,Kanton Sarajevo,Stručne škole,1938
+2023,Broj,Kanton Sarajevo,Umjetničke škole,320
+2023,Broj,Kanton Sarajevo,Vjerske škole,454
+2023,Broj,Kanton Sarajevo,Srednje škole za djecu s poteškoćama u razvoju,143
 2016,Broj,Kanton 10,Gimnazija,707
 2016,Broj,Kanton 10,Tehničke škole,989
 2016,Broj,Kanton 10,Stručne škole,340
@@ -380,3 +430,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Kanton 10,Tehničke škole,961
 2022,Broj,Kanton 10,Stručne škole,245
 2022,Broj,Kanton 10,Srednje škole za djecu s poteškoćama u razvoju,4
+2023,Broj,Kanton 10,Gimnazija,583
+2023,Broj,Kanton 10,Tehničke škole,913
+2023,Broj,Kanton 10,Stručne škole,259
+2023,Broj,Kanton 10,Srednje škole za djecu s poteškoćama u razvoju,7

@@ -41,6 +41,12 @@ Year,UNIT_MEASURE,Administrative Area,Type of school,Value
 2022,Number,Federation of Bosnia and Herzegovina,Art schools,924
 2022,Number,Federation of Bosnia and Herzegovina,Religious schools,2126
 2022,Number,Federation of Bosnia and Herzegovina,High schools for students with disabilities,166
+2023,Number,Federation of Bosnia and Herzegovina,Gymnasium,15250
+2023,Number,Federation of Bosnia and Herzegovina,Technical high schools,38560
+2023,Number,Federation of Bosnia and Herzegovina,Vocational high schools,13270
+2023,Number,Federation of Bosnia and Herzegovina,Art schools,970
+2023,Number,Federation of Bosnia and Herzegovina,Religious schools,2126
+2023,Number,Federation of Bosnia and Herzegovina,High schools for students with disabilities,180
 2016,Number,Una-Sana Canton,Gymnasium,1905
 2016,Number,Una-Sana Canton,Technical high schools,4610
 2016,Number,Una-Sana Canton,Vocational high schools,2755
@@ -76,6 +82,11 @@ Year,UNIT_MEASURE,Administrative Area,Type of school,Value
 2022,Number,Una-Sana Canton,Vocational high schools,2001
 2022,Number,Una-Sana Canton,Art schools,65
 2022,Number,Una-Sana Canton,Religious schools,220
+2023,Number,Una-Sana Canton,Gymnasium,1101
+2023,Number,Una-Sana Canton,Technical high schools,3327
+2023,Number,Una-Sana Canton,Vocational high schools,2025
+2023,Number,Una-Sana Canton,Art schools,54
+2023,Number,Una-Sana Canton,Religious schools,226
 2016,Number,Posavina Canton,Gymnasium,228
 2016,Number,Posavina Canton,Technical high schools,803
 2016,Number,Posavina Canton,Vocational high schools,269
@@ -97,6 +108,9 @@ Year,UNIT_MEASURE,Administrative Area,Type of school,Value
 2022,Number,Posavina Canton,Gymnasium,160
 2022,Number,Posavina Canton,Technical high schools,542
 2022,Number,Posavina Canton,Vocational high schools,103
+2023,Number,Posavina Canton,Gymnasium,154
+2023,Number,Posavina Canton,Technical high schools,525
+2023,Number,Posavina Canton,Vocational high schools,80
 2016,Number,Tuzla Canton,Gymnasium,2428
 2016,Number,Tuzla Canton,Technical high schools,8711
 2016,Number,Tuzla Canton,Vocational high schools,3898
@@ -137,6 +151,11 @@ Year,UNIT_MEASURE,Administrative Area,Type of school,Value
 2022,Number,Tuzla Canton,Vocational high schools,3691
 2022,Number,Tuzla Canton,Art schools,218
 2022,Number,Tuzla Canton,Religious schools,523
+2023,Number,Tuzla Canton,Gymnasium,1809
+2023,Number,Tuzla Canton,Technical high schools,7775
+2023,Number,Tuzla Canton,Vocational high schools,3771
+2023,Number,Tuzla Canton,Art schools,241
+2023,Number,Tuzla Canton,Religious schools,521
 2016,Number,Zenica-Doboj Canton,Gymnasium,3602
 2016,Number,Zenica-Doboj Canton,Technical high schools,7104
 2016,Number,Zenica-Doboj Canton,Vocational high schools,3417
@@ -179,6 +198,12 @@ Year,UNIT_MEASURE,Administrative Area,Type of school,Value
 2022,Number,Zenica-Doboj Canton,Art schools,63
 2022,Number,Zenica-Doboj Canton,Religious schools,255
 2022,Number,Zenica-Doboj Canton,High schools for students with disabilities,20
+2023,Number,Zenica-Doboj Canton,Gymnasium,2352
+2023,Number,Zenica-Doboj Canton,Technical high schools,6788
+2023,Number,Zenica-Doboj Canton,Vocational high schools,2524
+2023,Number,Zenica-Doboj Canton,Art schools,54
+2023,Number,Zenica-Doboj Canton,Religious schools,261
+2023,Number,Zenica-Doboj Canton,High schools for students with disabilities,19
 2016,Number,Bosnian-Podrinje Canton,Gymnasium,172
 2016,Number,Bosnian-Podrinje Canton,Technical high schools,534
 2016,Number,Bosnian-Podrinje Canton,Vocational high schools,242
@@ -199,6 +224,9 @@ Year,UNIT_MEASURE,Administrative Area,Type of school,Value
 2022,Number,Bosnian-Podrinje Canton,Gymnasium,108
 2022,Number,Bosnian-Podrinje Canton,Technical high schools,495
 2022,Number,Bosnian-Podrinje Canton,Vocational high schools,103
+2023,Number,Bosnian-Podrinje Canton,Gymnasium,106
+2023,Number,Bosnian-Podrinje Canton,Technical high schools,486
+2023,Number,Bosnian-Podrinje Canton,Vocational high schools,93
 2016,Number,Central Bosnia Canton,Gymnasium,2287
 2016,Number,Central Bosnia Canton,Technical high schools,5589
 2016,Number,Central Bosnia Canton,Vocational high schools,2265
@@ -234,6 +262,11 @@ Year,UNIT_MEASURE,Administrative Area,Type of school,Value
 2022,Number,Central Bosnia Canton,Vocational high schools,1496
 2022,Number,Central Bosnia Canton,Art schools,84
 2022,Number,Central Bosnia Canton,Religious schools,435
+2023,Number,Central Bosnia Canton,Gymnasium,1164
+2023,Number,Central Bosnia Canton,Technical high schools,5552
+2023,Number,Central Bosnia Canton,Vocational high schools,1522
+2023,Number,Central Bosnia Canton,Art schools,73
+2023,Number,Central Bosnia Canton,Religious schools,438
 2016,Number,Herzegovina-Neretva Canton,Gymnasium,2616
 2016,Number,Herzegovina-Neretva Canton,Technical high schools,4329
 2016,Number,Herzegovina-Neretva Canton,Vocational high schools,1210
@@ -276,6 +309,12 @@ Year,UNIT_MEASURE,Administrative Area,Type of school,Value
 2022,Number,Herzegovina-Neretva Canton,Art schools,143
 2022,Number,Herzegovina-Neretva Canton,Religious schools,233
 2022,Number,Herzegovina-Neretva Canton,High schools for students with disabilities,12
+2023,Number,Herzegovina-Neretva Canton,Gymnasium,1511
+2023,Number,Herzegovina-Neretva Canton,Technical high schools,4614
+2023,Number,Herzegovina-Neretva Canton,Vocational high schools,693
+2023,Number,Herzegovina-Neretva Canton,Art schools,123
+2023,Number,Herzegovina-Neretva Canton,Religious schools,226
+2023,Number,Herzegovina-Neretva Canton,High schools for students with disabilities,11
 2016,Number,West Herzegovina Canton,Gymnasium,1603
 2016,Number,West Herzegovina Canton,Technical high schools,1831
 2016,Number,West Herzegovina Canton,Vocational high schools,571
@@ -310,6 +349,11 @@ Year,UNIT_MEASURE,Administrative Area,Type of school,Value
 2022,Number,West Herzegovina Canton,Vocational high schools,363
 2022,Number,West Herzegovina Canton,Art schools,52
 2022,Number,West Herzegovina Canton,High schools for students with disabilities,2
+2023,Number,West Herzegovina Canton,Gymnasium,1176
+2023,Number,West Herzegovina Canton,Technical high schools,1721
+2023,Number,West Herzegovina Canton,Vocational high schools,365
+2023,Number,West Herzegovina Canton,Art schools,105
+2023,Number,West Herzegovina Canton,High schools for students with disabilities, -
 2016,Number,Sarajevo Canton,Gymnasium,5120
 2016,Number,Sarajevo Canton,Technical high schools,7464
 2016,Number,Sarajevo Canton,Vocational high schools,1784
@@ -352,6 +396,12 @@ Year,UNIT_MEASURE,Administrative Area,Type of school,Value
 2022,Number,Sarajevo Canton,Art schools,299
 2022,Number,Sarajevo Canton,Religious schools,460
 2022,Number,Sarajevo Canton,High schools for students with disabilities,128
+2023,Number,Sarajevo Canton,Gymnasium,5294
+2023,Number,Sarajevo Canton,Technical high schools,6859
+2023,Number,Sarajevo Canton,Vocational high schools,1938
+2023,Number,Sarajevo Canton,Art schools,320
+2023,Number,Sarajevo Canton,Religious schools,454
+2023,Number,Sarajevo Canton,High schools for students with disabilities,143
 2016,Number,Canton 10,Gymnasium,707
 2016,Number,Canton 10,Technical high schools,989
 2016,Number,Canton 10,Vocational high schools,340
@@ -380,3 +430,7 @@ Year,UNIT_MEASURE,Administrative Area,Type of school,Value
 2022,Number,Canton 10,Technical high schools,961
 2022,Number,Canton 10,Vocational high schools,245
 2022,Number,Canton 10,High schools for students with disabilities,4
+2023,Number,Canton 10,Gymnasium,583
+2023,Number,Canton 10,Technical high schools,913
+2023,Number,Canton 10,Vocational high schools,259
+2023,Number,Canton 10,High schools for students with disabilities,7

@@ -41,6 +41,12 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Federacija Bosne i Hercegovine,Umjetničke škole,924
 2022,Broj,Federacija Bosne i Hercegovine,Vjerske škole,2126
 2022,Broj,Federacija Bosne i Hercegovine,Srednje škole za djecu s poteškoćama u razvitku,166
+2023,Broj,Federacija Bosne i Hercegovine,Gimnazija,15250
+2023,Broj,Federacija Bosne i Hercegovine,Tehničke škole,38560
+2023,Broj,Federacija Bosne i Hercegovine,Stručne škole,13270
+2023,Broj,Federacija Bosne i Hercegovine,Umjetničke škole,970
+2023,Broj,Federacija Bosne i Hercegovine,Vjerske škole,2126
+2023,Broj,Federacija Bosne i Hercegovine,Srednje škole za djecu s poteškoćama u razvitku,180
 2016,Broj,Unsko-sanska županija,Gimnazija,1905
 2016,Broj,Unsko-sanska županija,Tehničke škole,4610
 2016,Broj,Unsko-sanska županija,Stručne škole,2755
@@ -76,6 +82,11 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Unsko-sanska županija,Stručne škole,2001
 2022,Broj,Unsko-sanska županija,Umjetničke škole,65
 2022,Broj,Unsko-sanska županija,Vjerske škole,220
+2023,Broj,Unsko-sanska županija,Gimnazija,1101
+2023,Broj,Unsko-sanska županija,Tehničke škole,3327
+2023,Broj,Unsko-sanska županija,Stručne škole,2025
+2023,Broj,Unsko-sanska županija,Umjetničke škole,54
+2023,Broj,Unsko-sanska županija,Vjerske škole,226
 2016,Broj,Posavska županija,Gimnazija,228
 2016,Broj,Posavska županija,Tehničke škole,803
 2016,Broj,Posavska županija,Stručne škole,269
@@ -97,6 +108,9 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Posavska županija,Gimnazija,160
 2022,Broj,Posavska županija,Tehničke škole,542
 2022,Broj,Posavska županija,Stručne škole,103
+2023,Broj,Posavska županija,Gimnazija,154
+2023,Broj,Posavska županija,Tehničke škole,525
+2023,Broj,Posavska županija,Stručne škole,80
 2016,Broj,Tuzlanska županija,Gimnazija,2428
 2016,Broj,Tuzlanska županija,Tehničke škole,8711
 2016,Broj,Tuzlanska županija,Stručne škole,3898
@@ -137,6 +151,11 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Tuzlanska županija,Stručne škole,3691
 2022,Broj,Tuzlanska županija,Umjetničke škole,218
 2022,Broj,Tuzlanska županija,Vjerske škole,523
+2023,Broj,Tuzlanska županija,Gimnazija,1809
+2023,Broj,Tuzlanska županija,Tehničke škole,7775
+2023,Broj,Tuzlanska županija,Stručne škole,3771
+2023,Broj,Tuzlanska županija,Umjetničke škole,241
+2023,Broj,Tuzlanska županija,Vjerske škole,521
 2016,Broj,Zeničko-dobojska županija,Gimnazija,3602
 2016,Broj,Zeničko-dobojska županija,Tehničke škole,7104
 2016,Broj,Zeničko-dobojska županija,Stručne škole,3417
@@ -179,6 +198,12 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Zeničko-dobojska županija,Umjetničke škole,63
 2022,Broj,Zeničko-dobojska županija,Vjerske škole,255
 2022,Broj,Zeničko-dobojska županija,Srednje škole za djecu s poteškoćama u razvitku,20
+2023,Broj,Zeničko-dobojska županija,Gimnazija,2352
+2023,Broj,Zeničko-dobojska županija,Tehničke škole,6788
+2023,Broj,Zeničko-dobojska županija,Stručne škole,2524
+2023,Broj,Zeničko-dobojska županija,Umjetničke škole,54
+2023,Broj,Zeničko-dobojska županija,Vjerske škole,261
+2023,Broj,Zeničko-dobojska županija,Srednje škole za djecu s poteškoćama u razvitku,19
 2016,Broj,Bosansko-podrinjska županija,Gimnazija,172
 2016,Broj,Bosansko-podrinjska županija,Tehničke škole,534
 2016,Broj,Bosansko-podrinjska županija,Stručne škole,242
@@ -199,6 +224,9 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Bosansko-podrinjska županija,Gimnazija,108
 2022,Broj,Bosansko-podrinjska županija,Tehničke škole,495
 2022,Broj,Bosansko-podrinjska županija,Stručne škole,103
+2023,Broj,Bosansko-podrinjska županija,Gimnazija,106
+2023,Broj,Bosansko-podrinjska županija,Tehničke škole,486
+2023,Broj,Bosansko-podrinjska županija,Stručne škole,93
 2016,Broj,Srednjobosanska županija,Gimnazija,2287
 2016,Broj,Srednjobosanska županija,Tehničke škole,5589
 2016,Broj,Srednjobosanska županija,Stručne škole,2265
@@ -234,6 +262,11 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Srednjobosanska županija,Stručne škole,1496
 2022,Broj,Srednjobosanska županija,Umjetničke škole,84
 2022,Broj,Srednjobosanska županija,Vjerske škole,435
+2023,Broj,Srednjobosanska županija,Gimnazija,1164
+2023,Broj,Srednjobosanska županija,Tehničke škole,5552
+2023,Broj,Srednjobosanska županija,Stručne škole,1522
+2023,Broj,Srednjobosanska županija,Umjetničke škole,73
+2023,Broj,Srednjobosanska županija,Vjerske škole,438
 2016,Broj,Hercegovačko-neretvanska županija,Gimnazija,2616
 2016,Broj,Hercegovačko-neretvanska županija,Tehničke škole,4329
 2016,Broj,Hercegovačko-neretvanska županija,Stručne škole,1210
@@ -276,6 +309,12 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Hercegovačko-neretvanska županija,Umjetničke škole,143
 2022,Broj,Hercegovačko-neretvanska županija,Vjerske škole,233
 2022,Broj,Hercegovačko-neretvanska županija,Srednje škole za djecu s poteškoćama u razvitku,12
+2023,Broj,Hercegovačko-neretvanska županija,Gimnazija,1511
+2023,Broj,Hercegovačko-neretvanska županija,Tehničke škole,4614
+2023,Broj,Hercegovačko-neretvanska županija,Stručne škole,693
+2023,Broj,Hercegovačko-neretvanska županija,Umjetničke škole,123
+2023,Broj,Hercegovačko-neretvanska županija,Vjerske škole,226
+2023,Broj,Hercegovačko-neretvanska županija,Srednje škole za djecu s poteškoćama u razvitku,11
 2016,Broj,Zapadno-hercegovačka županija,Gimnazija,1603
 2016,Broj,Zapadno-hercegovačka županija,Tehničke škole,1831
 2016,Broj,Zapadno-hercegovačka županija,Stručne škole,571
@@ -310,6 +349,11 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Zapadno-hercegovačka županija,Stručne škole,363
 2022,Broj,Zapadno-hercegovačka županija,Umjetničke škole,52
 2022,Broj,Zapadno-hercegovačka županija,Srednje škole za djecu s poteškoćama u razvitku,2
+2023,Broj,Zapadno-hercegovačka županija,Gimnazija,1176
+2023,Broj,Zapadno-hercegovačka županija,Tehničke škole,1721
+2023,Broj,Zapadno-hercegovačka županija,Stručne škole,365
+2023,Broj,Zapadno-hercegovačka županija,Umjetničke škole,105
+2023,Broj,Zapadno-hercegovačka županija,Srednje škole za djecu s poteškoćama u razvitku, -
 2016,Broj,Sarajevska županija,Gimnazija,5120
 2016,Broj,Sarajevska županija,Tehničke škole,7464
 2016,Broj,Sarajevska županija,Stručne škole,1784
@@ -352,6 +396,12 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Sarajevska županija,Umjetničke škole,299
 2022,Broj,Sarajevska županija,Vjerske škole,460
 2022,Broj,Sarajevska županija,Srednje škole za djecu s poteškoćama u razvitku,128
+2023,Broj,Sarajevska županija,Gimnazija,5294
+2023,Broj,Sarajevska županija,Tehničke škole,6859
+2023,Broj,Sarajevska županija,Stručne škole,1938
+2023,Broj,Sarajevska županija,Umjetničke škole,320
+2023,Broj,Sarajevska županija,Vjerske škole,454
+2023,Broj,Sarajevska županija,Srednje škole za djecu s poteškoćama u razvitku,143
 2016,Broj,Županija 10,Gimnazija,707
 2016,Broj,Županija 10,Tehničke škole,989
 2016,Broj,Županija 10,Stručne škole,340
@@ -380,3 +430,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Vrsta škole,Value
 2022,Broj,Županija 10,Tehničke škole,961
 2022,Broj,Županija 10,Stručne škole,245
 2022,Broj,Županija 10,Srednje škole za djecu s poteškoćama u razvitku,4
+2023,Broj,Županija 10,Gimnazija,583
+2023,Broj,Županija 10,Tehničke škole,913
+2023,Broj,Županija 10,Stručne škole,259
+2023,Broj,Županija 10,Srednje škole za djecu s poteškoćama u razvitku,7
