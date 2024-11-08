@@ -20,6 +20,9 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2022,Number,Federation of Bosnia and Herzegovina,Both sexes,16711
 2022,Number,Federation of Bosnia and Herzegovina,M,8674
 2022,Number,Federation of Bosnia and Herzegovina,F,8037
+2023,Number,Federation of Bosnia and Herzegovina,Both sexes,18808
+2023,Number,Federation of Bosnia and Herzegovina,M,9658
+2023,Number,Federation of Bosnia and Herzegovina,F,9150
 2016,Number,Una-Sana Canton,Both sexes,2933
 2016,Number,Una-Sana Canton,M,1492
 2016,Number,Una-Sana Canton,F,1441
@@ -41,6 +44,9 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2022,Number,Una-Sana Canton,Both sexes,1919
 2022,Number,Una-Sana Canton,M,987
 2022,Number,Una-Sana Canton,F,932
+2023,Number,Una-Sana Canton,Both sexes,1877
+2023,Number,Una-Sana Canton,M,963
+2023,Number,Una-Sana Canton,F,914
 2016,Number,Posavina Canton,Both sexes,412
 2016,Number,Posavina Canton,M,200
 2016,Number,Posavina Canton,F,212
@@ -83,6 +89,9 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2022,Number,Tuzla Canton,Both sexes,3887
 2022,Number,Tuzla Canton,M,2018
 2022,Number,Tuzla Canton,F,1869
+2023,Number,Posavina Canton,Both sexes,221
+2023,Number,Posavina Canton,M,118
+2023,Number,Posavina Canton,F,103
 2016,Number,Zenica-Doboj Canton,Both sexes,3805
 2016,Number,Zenica-Doboj Canton,M,2022
 2016,Number,Zenica-Doboj Canton,F,1783
@@ -104,6 +113,9 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2022,Number,Zenica-Doboj Canton,Both sexes,2823
 2022,Number,Zenica-Doboj Canton,M,1528
 2022,Number,Zenica-Doboj Canton,F,1295
+2023,Number,Tuzla Canton,Both sexes,3866
+2023,Number,Tuzla Canton,M,1991
+2023,Number,Tuzla Canton,F,1875
 2016,Number,Bosnian-Podrinje Canton,Both sexes,334
 2016,Number,Bosnian-Podrinje Canton,M,176
 2016,Number,Bosnian-Podrinje Canton,F,158
@@ -125,6 +137,9 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2022,Number,Bosnian-Podrinje Canton,Both sexes,191
 2022,Number,Bosnian-Podrinje Canton,M,103
 2022,Number,Bosnian-Podrinje Canton,F,88
+2023,Number,Zenica-Doboj Canton,Both sexes,3110
+2023,Number,Zenica-Doboj Canton,M,1599
+2023,Number,Zenica-Doboj Canton,F,1511
 2016,Number,Central Bosnia Canton,Both sexes,3081
 2016,Number,Central Bosnia Canton,M,1581
 2016,Number,Central Bosnia Canton,F,1500
@@ -146,6 +161,9 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2022,Number,Central Bosnia Canton,Both sexes,1306
 2022,Number,Central Bosnia Canton,M,753
 2022,Number,Central Bosnia Canton,F,553
+2023,Number,Bosnian-Podrinje Canton,Both sexes,199
+2023,Number,Bosnian-Podrinje Canton,M,106
+2023,Number,Bosnian-Podrinje Canton,F,93
 2016,Number,Herzegovina-Neretva Canton,Both sexes,2701
 2016,Number,Herzegovina-Neretva Canton,M,1349
 2016,Number,Herzegovina-Neretva Canton,F,1352
@@ -188,6 +206,9 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2022,Number,West Herzegovina Canton,Both sexes,644
 2022,Number,West Herzegovina Canton,M,357
 2022,Number,West Herzegovina Canton,F,287
+2023,Number,Central Bosnia Canton,Both sexes,2467
+2023,Number,Central Bosnia Canton,M,1245
+2023,Number,Central Bosnia Canton,F,1222
 2016,Number,Sarajevo Canton,Both sexes,4295
 2016,Number,Sarajevo Canton,M,2160
 2016,Number,Sarajevo Canton,F,2135
@@ -209,6 +230,9 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2022,Number,Sarajevo Canton,Both sexes,3700
 2022,Number,Sarajevo Canton,M,1839
 2022,Number,Sarajevo Canton,F,1861
+2023,Number,Herzegovina-Neretva Canton,Both sexes,1923
+2023,Number,Herzegovina-Neretva Canton,M,987
+2023,Number,Herzegovina-Neretva Canton,F,936
 2016,Number,Canton 10,Both sexes,740
 2016,Number,Canton 10,M,348
 2016,Number,Canton 10,F,392
@@ -230,3 +254,6 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2022,Number,Canton 10,Both sexes,518
 2022,Number,Canton 10,M,260
 2022,Number,Canton 10,F,258
+2023,Number,Herzegovina-Neretva Canton,Both sexes,1923
+2023,Number,Herzegovina-Neretva Canton,M,987
+2023,Number,Herzegovina-Neretva Canton,F,936

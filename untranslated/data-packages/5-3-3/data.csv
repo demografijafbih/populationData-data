@@ -20,6 +20,9 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2022,NUMBER,federation_of_bih,_T,16711
 2022,NUMBER,federation_of_bih,M,8674
 2022,NUMBER,federation_of_bih,F,8037
+2023,NUMBER,federation_of_bih,_T,18808
+2023,NUMBER,federation_of_bih,M,9658
+2023,NUMBER,federation_of_bih,F,9150
 2016,NUMBER,una-sana_canton,_T,2933
 2016,NUMBER,una-sana_canton,M,1492
 2016,NUMBER,una-sana_canton,F,1441
@@ -41,6 +44,9 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2022,NUMBER,una-sana_canton,_T,1919
 2022,NUMBER,una-sana_canton,M,987
 2022,NUMBER,una-sana_canton,F,932
+2023,NUMBER,una-sana_canton,_T,1877
+2023,NUMBER,una-sana_canton,M,963
+2023,NUMBER,una-sana_canton,F,914
 2016,NUMBER,posavina_canton,_T,412
 2016,NUMBER,posavina_canton,M,200
 2016,NUMBER,posavina_canton,F,212
@@ -83,6 +89,9 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2022,NUMBER,tuzla_canton,_T,3887
 2022,NUMBER,tuzla_canton,M,2018
 2022,NUMBER,tuzla_canton,F,1869
+2023,NUMBER,posavina_canton,_T,221
+2023,NUMBER,posavina_canton,M,118
+2023,NUMBER,posavina_canton,F,103
 2016,NUMBER,zenica-doboj_canton,_T,3805
 2016,NUMBER,zenica-doboj_canton,M,2022
 2016,NUMBER,zenica-doboj_canton,F,1783
@@ -104,6 +113,9 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2022,NUMBER,zenica-doboj_canton,_T,2823
 2022,NUMBER,zenica-doboj_canton,M,1528
 2022,NUMBER,zenica-doboj_canton,F,1295
+2023,NUMBER,tuzla_canton,_T,3866
+2023,NUMBER,tuzla_canton,M,1991
+2023,NUMBER,tuzla_canton,F,1875
 2016,NUMBER,bosnian-podrinje_canton,_T,334
 2016,NUMBER,bosnian-podrinje_canton,M,176
 2016,NUMBER,bosnian-podrinje_canton,F,158
@@ -125,6 +137,9 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2022,NUMBER,bosnian-podrinje_canton,_T,191
 2022,NUMBER,bosnian-podrinje_canton,M,103
 2022,NUMBER,bosnian-podrinje_canton,F,88
+2023,NUMBER,zenica-doboj_canton,_T,3110
+2023,NUMBER,zenica-doboj_canton,M,1599
+2023,NUMBER,zenica-doboj_canton,F,1511
 2016,NUMBER,central_bosnia_canton,_T,3081
 2016,NUMBER,central_bosnia_canton,M,1581
 2016,NUMBER,central_bosnia_canton,F,1500
@@ -146,6 +161,9 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2022,NUMBER,central_bosnia_canton,_T,1306
 2022,NUMBER,central_bosnia_canton,M,753
 2022,NUMBER,central_bosnia_canton,F,553
+2023,NUMBER,bosnian-podrinje_canton,_T,199
+2023,NUMBER,bosnian-podrinje_canton,M,106
+2023,NUMBER,bosnian-podrinje_canton,F,93
 2016,NUMBER,herzegovina-neretva_canton,_T,2701
 2016,NUMBER,herzegovina-neretva_canton,M,1349
 2016,NUMBER,herzegovina-neretva_canton,F,1352
@@ -188,6 +206,9 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2022,NUMBER,west_herzegovina_canton,_T,644
 2022,NUMBER,west_herzegovina_canton,M,357
 2022,NUMBER,west_herzegovina_canton,F,287
+2023,NUMBER,central_bosnia_canton,_T,2467
+2023,NUMBER,central_bosnia_canton,M,1245
+2023,NUMBER,central_bosnia_canton,F,1222
 2016,NUMBER,sarajevo_canton,_T,4295
 2016,NUMBER,sarajevo_canton,M,2160
 2016,NUMBER,sarajevo_canton,F,2135
@@ -209,6 +230,9 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2022,NUMBER,sarajevo_canton,_T,3700
 2022,NUMBER,sarajevo_canton,M,1839
 2022,NUMBER,sarajevo_canton,F,1861
+2023,NUMBER,herzegovina-neretva_canton,_T,1923
+2023,NUMBER,herzegovina-neretva_canton,M,987
+2023,NUMBER,herzegovina-neretva_canton,F,936
 2016,NUMBER,canton_10,_T,740
 2016,NUMBER,canton_10,M,348
 2016,NUMBER,canton_10,F,392
@@ -230,3 +254,6 @@ Year,UNIT_MEASURE,Admin_Area,Sex,Value
 2022,NUMBER,canton_10,_T,518
 2022,NUMBER,canton_10,M,260
 2022,NUMBER,canton_10,F,258
+2023,NUMBER,herzegovina-neretva_canton,_T,1923
+2023,NUMBER,herzegovina-neretva_canton,M,987
+2023,NUMBER,herzegovina-neretva_canton,F,936
