@@ -13,6 +13,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Federation of Bosnia and Herzegovina,Both sexes,6720
 2021,Number,Federation of Bosnia and Herzegovina,Both sexes,6663
 2022,Number,Federation of Bosnia and Herzegovina,Both sexes,6661
+2023,Number,Federation of Bosnia and Herzegovina,Both sexes,6376
 2009,Number,Federation of Bosnia and Herzegovina,M,365
 2010,Number,Federation of Bosnia and Herzegovina,M,626
 2011,Number,Federation of Bosnia and Herzegovina,M,1415
@@ -27,6 +28,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Federation of Bosnia and Herzegovina,M,1933
 2021,Number,Federation of Bosnia and Herzegovina,M,1768
 2022,Number,Federation of Bosnia and Herzegovina,M,1684
+2023,Number,Federation of Bosnia and Herzegovina,M,1573
 2009,Number,Federation of Bosnia and Herzegovina,F,507
 2010,Number,Federation of Bosnia and Herzegovina,F,847
 2011,Number,Federation of Bosnia and Herzegovina,F,2990
@@ -41,6 +43,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Federation of Bosnia and Herzegovina,F,4787
 2021,Number,Federation of Bosnia and Herzegovina,F,4895
 2022,Number,Federation of Bosnia and Herzegovina,F,4977
+2023,Number,Federation of Bosnia and Herzegovina,F,4803
 2011,Number,Tuzla Canton,Both sexes,1795
 2012,Number,Tuzla Canton,Both sexes,1794
 2013,Number,Tuzla Canton,Both sexes,1891
@@ -53,6 +56,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Tuzla Canton,Both sexes,1959
 2021,Number,Tuzla Canton,Both sexes,1889
 2022,Number,Tuzla Canton,Both sexes,1841
+2023,Number,Tuzla Canton,Both sexes,1721
 2011,Number,Tuzla Canton,M,501
 2012,Number,Tuzla Canton,M,503
 2013,Number,Tuzla Canton,M,535
@@ -65,6 +69,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Tuzla Canton,M,494
 2021,Number,Tuzla Canton,M,470
 2022,Number,Tuzla Canton,M,429
+2023,Number,Tuzla Canton,M,368
 2011,Number,Tuzla Canton,F,1294
 2012,Number,Tuzla Canton,F,1291
 2013,Number,Tuzla Canton,F,1356
@@ -77,6 +82,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Tuzla Canton,F,1465
 2021,Number,Tuzla Canton,F,1419
 2022,Number,Tuzla Canton,F,1412
+2023,Number,Tuzla Canton,F,1353
 2016,Number,Zenica-Doboj Canton,Both sexes,69
 2017,Number,Zenica-Doboj Canton,Both sexes,123
 2018,Number,Zenica-Doboj Canton,Both sexes,195
@@ -91,6 +97,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Zenica-Doboj Canton,M,64
 2021,Number,Zenica-Doboj Canton,M,77
 2022,Number,Zenica-Doboj Canton,M,84
+2023,Number,Zenica-Doboj Canton,M,72
 2016,Number,Zenica-Doboj Canton,F,48
 2017,Number,Zenica-Doboj Canton,F,88
 2018,Number,Zenica-Doboj Canton,F,143
@@ -98,6 +105,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Zenica-Doboj Canton,F,172
 2021,Number,Zenica-Doboj Canton,F,194
 2022,Number,Zenica-Doboj Canton,F,205
+2023,Number,Zenica-Doboj Canton,F,176
 2014,Number,Bosnian-Podrinje Canton,Both sexes,2
 2019,Number,Bosnian-Podrinje Canton,Both sexes,5
 2020,Number,Bosnian-Podrinje Canton,Both sexes,2
@@ -118,6 +126,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Central Bosnia Canton,Both sexes,262
 2021,Number,Central Bosnia Canton,Both sexes,221
 2022,Number,Central Bosnia Canton,Both sexes,157
+2023,Number,Central Bosnia Canton,Both sexes,172
 2012,Number,Central Bosnia Canton,M,41
 2013,Number,Central Bosnia Canton,M,70
 2014,Number,Central Bosnia Canton,M,190
@@ -129,6 +138,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Central Bosnia Canton,M,99
 2021,Number,Central Bosnia Canton,M,72
 2022,Number,Central Bosnia Canton,M,43
+2023,Number,Central Bosnia Canton,M,54
 2012,Number,Central Bosnia Canton,F,78
 2013,Number,Central Bosnia Canton,F,120
 2014,Number,Central Bosnia Canton,F,131
@@ -140,6 +150,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Central Bosnia Canton,F,163
 2021,Number,Central Bosnia Canton,F,149
 2022,Number,Central Bosnia Canton,F,114
+2023,Number,Central Bosnia Canton,F,118
 2009,Number,Herzegovina-Neretva Canton,Both sexes,688
 2010,Number,Herzegovina-Neretva Canton,Both sexes,861
 2011,Number,Herzegovina-Neretva Canton,Both sexes,1229
@@ -154,6 +165,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Herzegovina-Neretva Canton,Both sexes,748
 2021,Number,Herzegovina-Neretva Canton,Both sexes,887
 2022,Number,Herzegovina-Neretva Canton,Both sexes,940
+2023,Number,Herzegovina-Neretva Canton,Both sexes,959
 2009,Number,Herzegovina-Neretva Canton,M,264
 2010,Number,Herzegovina-Neretva Canton,M,326
 2011,Number,Herzegovina-Neretva Canton,M,454
@@ -168,6 +180,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Herzegovina-Neretva Canton,M,190
 2021,Number,Herzegovina-Neretva Canton,M,218
 2022,Number,Herzegovina-Neretva Canton,M,224
+2023,Number,Herzegovina-Neretva Canton,M,243
 2009,Number,Herzegovina-Neretva Canton,F,424
 2010,Number,Herzegovina-Neretva Canton,F,535
 2011,Number,Herzegovina-Neretva Canton,F,775
@@ -182,6 +195,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Herzegovina-Neretva Canton,F,558
 2021,Number,Herzegovina-Neretva Canton,F,669
 2022,Number,Herzegovina-Neretva Canton,F,716
+2023,Number,Herzegovina-Neretva Canton,F,716
 2009,Number,West Herzegovina Canton,Both sexes,85
 2010,Number,West Herzegovina Canton,Both sexes,85
 2011,Number,West Herzegovina Canton,Both sexes,81
@@ -235,6 +249,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Sarajevo Canton,Both sexes,3497
 2021,Number,Sarajevo Canton,Both sexes,3378
 2022,Number,Sarajevo Canton,Both sexes,3434
+2023,Number,Sarajevo Canton,Both sexes,3276
 2009,Number,Sarajevo Canton,M,13
 2010,Number,Sarajevo Canton,M,187
 2011,Number,Sarajevo Canton,M,354
@@ -248,6 +263,7 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2019,Number,Sarajevo Canton,M,1144
 2020,Number,Sarajevo Canton,M,1081
 2021,Number,Sarajevo Canton,M,928
+2022,Number,Sarajevo Canton,M,904
 2022,Number,Sarajevo Canton,M,904
 2009,Number,Sarajevo Canton,F,18
 2010,Number,Sarajevo Canton,F,242
@@ -263,3 +279,4 @@ Year,UNIT_MEASURE,Administrative Area,Sex,Value
 2020,Number,Sarajevo Canton,F,2416
 2021,Number,Sarajevo Canton,F,2450
 2022,Number,Sarajevo Canton,F,2530
+2023,Number,Sarajevo Canton,F,2440
