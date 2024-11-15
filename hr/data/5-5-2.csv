@@ -12,6 +12,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Federacija Bosne i Hercegovine,Oba spola,909
 2021,Broj,Federacija Bosne i Hercegovine,Oba spola,753
 2022,Broj,Federacija Bosne i Hercegovine,Oba spola,783
+2023,Broj,Federacija Bosne i Hercegovine,Oba spola,741
 2010,Broj,Federacija Bosne i Hercegovine,M,18
 2011,Broj,Federacija Bosne i Hercegovine,M,22
 2012,Broj,Federacija Bosne i Hercegovine,M,44
@@ -25,6 +26,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Federacija Bosne i Hercegovine,M,333
 2021,Broj,Federacija Bosne i Hercegovine,M,218
 2022,Broj,Federacija Bosne i Hercegovine,M,217
+2023,Broj,Federacija Bosne i Hercegovine,M,203
 2010,Broj,Federacija Bosne i Hercegovine,Ž,40
 2011,Broj,Federacija Bosne i Hercegovine,Ž,44
 2012,Broj,Federacija Bosne i Hercegovine,Ž,90
@@ -38,6 +40,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Federacija Bosne i Hercegovine,Ž,576
 2021,Broj,Federacija Bosne i Hercegovine,Ž,535
 2022,Broj,Federacija Bosne i Hercegovine,Ž,566
+2023,Broj,Federacija Bosne i Hercegovine,Ž,538
 2013,Broj,Tuzlanska županija,Oba spola,202
 2014,Broj,Tuzlanska županija,Oba spola,154
 2015,Broj,Tuzlanska županija,Oba spola,198
@@ -48,6 +51,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Tuzlanska županija,Oba spola,223
 2021,Broj,Tuzlanska županija,Oba spola,174
 2022,Broj,Tuzlanska županija,Oba spola,247
+2023,Broj,Tuzlanska županija,Oba spola,181
 2013,Broj,Tuzlanska županija,M,67
 2014,Broj,Tuzlanska županija,M,37
 2015,Broj,Tuzlanska županija,M,55
@@ -58,6 +62,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Tuzlanska županija,M,67
 2021,Broj,Tuzlanska županija,M,38
 2022,Broj,Tuzlanska županija,M,63
+2023,Broj,Tuzlanska županija,M,55
 2013,Broj,Tuzlanska županija,Ž,135
 2014,Broj,Tuzlanska županija,Ž,117
 2015,Broj,Tuzlanska županija,Ž,143
@@ -68,9 +73,13 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Tuzlanska županija,Ž,156
 2021,Broj,Tuzlanska županija,Ž,136
 2022,Broj,Tuzlanska županija,Ž,184
+2023,Broj,Tuzlanska županija,Ž,126
 2022,Broj,Zeničko-dobojska županija,Oba spola,4
+2023,Broj,Zeničko-dobojska županija,Oba spola,18
 2022,Broj,Zeničko-dobojska županija,M,3
+2023,Broj,Zeničko-dobojska županija,M,4
 2022,Broj,Zeničko-dobojska županija,Ž,1
+2023,Broj,Zeničko-dobojska županija,Ž,14
 2021,Broj,Bosansko-podrinjska županija,Oba spola,15
 2021,Broj,Bosansko-podrinjska županija,M,6
 2021,Broj,Bosansko-podrinjska županija,Ž,9
@@ -83,6 +92,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Srednjobosanska županija,Oba spola,73
 2021,Broj,Srednjobosanska županija,Oba spola,43
 2022,Broj,Srednjobosanska županija,Oba spola,43
+2023,Broj,Srednjobosanska županija,Oba spola,56
 2015,Broj,Srednjobosanska županija,M,5
 2016,Broj,Srednjobosanska županija,M,3
 2017,Broj,Srednjobosanska županija,M,10
@@ -91,6 +101,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Srednjobosanska županija,M,28
 2021,Broj,Srednjobosanska županija,M,14
 2022,Broj,Srednjobosanska županija,M,18
+2023,Broj,Srednjobosanska županija,M,21
 2014,Broj,Srednjobosanska županija,Ž,12
 2015,Broj,Srednjobosanska županija,Ž,41
 2016,Broj,Srednjobosanska županija,Ž,20
@@ -100,6 +111,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Srednjobosanska županija,Ž,45
 2021,Broj,Srednjobosanska županija,Ž,29
 2022,Broj,Srednjobosanska županija,Ž,25
+2023,Broj,Srednjobosanska županija,Ž,35
 2010,Broj,Hercegovačko-neretvanska županija,Oba spola,40
 2011,Broj,Hercegovačko-neretvanska županija,Oba spola,53
 2012,Broj,Hercegovačko-neretvanska županija,Oba spola,115
@@ -113,6 +125,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Hercegovačko-neretvanska županija,Oba spola,142
 2021,Broj,Hercegovačko-neretvanska županija,Oba spola,76
 2022,Broj,Hercegovačko-neretvanska županija,Oba spola,108
+2023,Broj,Hercegovačko-neretvanska županija,Oba spola,114
 2010,Broj,Hercegovačko-neretvanska županija,M,10
 2011,Broj,Hercegovačko-neretvanska županija,M,16
 2012,Broj,Hercegovačko-neretvanska županija,M,36
@@ -126,6 +139,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Hercegovačko-neretvanska županija,M,57
 2021,Broj,Hercegovačko-neretvanska županija,M,22
 2022,Broj,Hercegovačko-neretvanska županija,M,37
+2023,Broj,Hercegovačko-neretvanska županija,M,22
 2010,Broj,Hercegovačko-neretvanska županija,Ž,30
 2011,Broj,Hercegovačko-neretvanska županija,Ž,37
 2012,Broj,Hercegovačko-neretvanska županija,Ž,79
@@ -139,6 +153,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Hercegovačko-neretvanska županija,Ž,85
 2021,Broj,Hercegovačko-neretvanska županija,Ž,54
 2022,Broj,Hercegovačko-neretvanska županija,Ž,71
+2023,Broj,Hercegovačko-neretvanska županija,Ž,92
 2010,Broj,Zapadno-hercegovačka županija,Oba spola,16
 2011,Broj,Zapadno-hercegovačka županija,Oba spola,13
 2012,Broj,Zapadno-hercegovačka županija,Oba spola,19
@@ -152,6 +167,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Zapadno-hercegovačka županija,Oba spola,17
 2021,Broj,Zapadno-hercegovačka županija,Oba spola,16
 2022,Broj,Zapadno-hercegovačka županija,Oba spola,13
+2023,Broj,Zapadno-hercegovačka županija,Oba spola,0
 2010,Broj,Zapadno-hercegovačka županija,M,6
 2011,Broj,Zapadno-hercegovačka županija,M,6
 2012,Broj,Zapadno-hercegovačka županija,M,8
@@ -165,6 +181,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Zapadno-hercegovačka županija,M,7
 2021,Broj,Zapadno-hercegovačka županija,M,7
 2022,Broj,Zapadno-hercegovačka županija,M,2
+2023,Broj,Zapadno-hercegovačka županija,M,0
 2010,Broj,Zapadno-hercegovačka županija,Ž,10
 2011,Broj,Zapadno-hercegovačka županija,Ž,7
 2012,Broj,Zapadno-hercegovačka županija,Ž,11
@@ -178,6 +195,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Zapadno-hercegovačka županija,Ž,10
 2021,Broj,Zapadno-hercegovačka županija,Ž,9
 2022,Broj,Zapadno-hercegovačka županija,Ž,11
+2023,Broj,Zapadno-hercegovačka županija,Ž,0
 2010,Broj,Sarajevska županija,Oba spola,2
 2013,Broj,Sarajevska županija,Oba spola,27
 2014,Broj,Sarajevska županija,Oba spola,218
@@ -189,6 +207,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Sarajevska županija,Oba spola,454
 2021,Broj,Sarajevska županija,Oba spola,429
 2022,Broj,Sarajevska županija,Oba spola,368
+2023,Broj,Sarajevska županija,M,101
 2010,Broj,Sarajevska županija,M,2
 2013,Broj,Sarajevska županija,M,9
 2014,Broj,Sarajevska županija,M,95
@@ -200,6 +219,7 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Sarajevska županija,M,174
 2021,Broj,Sarajevska županija,M,131
 2022,Broj,Sarajevska županija,M,94
+2023,Broj,Sarajevska županija,M,101
 2013,Broj,Sarajevska županija,Ž,18
 2014,Broj,Sarajevska županija,Ž,123
 2015,Broj,Sarajevska županija,Ž,122
@@ -210,3 +230,4 @@ Year,UNIT_MEASURE,Administrativna jedinica,Spol,Value
 2020,Broj,Sarajevska županija,Ž,280
 2021,Broj,Sarajevska županija,Ž,298
 2022,Broj,Sarajevska županija,Ž,274
+2023,Broj,Sarajevska županija,Ž,271
