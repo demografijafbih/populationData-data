@@ -1,694 +1,860 @@
-Year,UNIT_MEASURE,Administrative Area,Sex,Value
-1998,Number,Federation of Bosnia and Herzegovina,Both sexes,483426.0
-1998,Number,Una-Sana Canton,Both sexes,19062.0
-1998,Number,Posavina Canton,Both sexes,400.0
-1998,Number,Tuzla Canton,Both sexes,52338.0
-1998,Number,Zenica-Doboj Canton,Both sexes,166900.0
-1998,Number,Bosnian-Podrinje Canton,Both sexes,
-1998,Number,Central Bosnia Canton,Both sexes,19686.0
-1998,Number,Herzegovina-Neretva Canton,Both sexes,18032.0
-1998,Number,West Herzegovina Canton,Both sexes,
-1998,Number,Sarajevo Canton,Both sexes,205599.0
-1998,Number,Canton 10,Both sexes,1409.0
-1998,Number,Federation of Bosnia and Herzegovina,M,256508.0
-1998,Number,Una-Sana Canton,M,8518.0
-1998,Number,Posavina Canton,M,167.0
-1998,Number,Tuzla Canton,M,25383.0
-1998,Number,Zenica-Doboj Canton,M,93367.0
-1998,Number,Bosnian-Podrinje Canton,M,
-1998,Number,Central Bosnia Canton,M,8634.0
-1998,Number,Herzegovina-Neretva Canton,M,7469.0
-1998,Number,West Herzegovina Canton,M,
-1998,Number,Sarajevo Canton,M,112504.0
-1998,Number,Canton 10,M,466.0
-1998,Number,Federation of Bosnia and Herzegovina,F,226918.0
-1998,Number,Una-Sana Canton,F,10544.0
-1998,Number,Posavina Canton,F,233.0
-1998,Number,Tuzla Canton,F,26955.0
-1998,Number,Zenica-Doboj Canton,F,73533.0
-1998,Number,Bosnian-Podrinje Canton,F,
-1998,Number,Central Bosnia Canton,F,11052.0
-1998,Number,Herzegovina-Neretva Canton,F,10563.0
-1998,Number,West Herzegovina Canton,F,
-1998,Number,Sarajevo Canton,F,93095.0
-1998,Number,Canton 10,F,943.0
-1999,Number,Federation of Bosnia and Herzegovina,Both sexes,316644.0
-1999,Number,Una-Sana Canton,Both sexes,8787.0
-1999,Number,Posavina Canton,Both sexes,911.0
-1999,Number,Tuzla Canton,Both sexes,49938.0
-1999,Number,Zenica-Doboj Canton,Both sexes,122126.0
-1999,Number,Bosnian-Podrinje Canton,Both sexes,
-1999,Number,Central Bosnia Canton,Both sexes,25288.0
-1999,Number,Herzegovina-Neretva Canton,Both sexes,33768.0
-1999,Number,West Herzegovina Canton,Both sexes,1198.0
-1999,Number,Sarajevo Canton,Both sexes,71624.0
-1999,Number,Canton 10,Both sexes,3004.0
-1999,Number,Federation of Bosnia and Herzegovina,M,158297.0
-1999,Number,Una-Sana Canton,M,4056.0
-1999,Number,Posavina Canton,M,459.0
-1999,Number,Tuzla Canton,M,24031.0
-1999,Number,Zenica-Doboj Canton,M,52694.0
-1999,Number,Bosnian-Podrinje Canton,M,
-1999,Number,Central Bosnia Canton,M,11153.0
-1999,Number,Herzegovina-Neretva Canton,M,18834.0
-1999,Number,West Herzegovina Canton,M,830.0
-1999,Number,Sarajevo Canton,M,45340.0
-1999,Number,Canton 10,M,901.0
-1999,Number,Federation of Bosnia and Herzegovina,F,158347.0
-1999,Number,Una-Sana Canton,F,4731.0
-1999,Number,Posavina Canton,F,452.0
-1999,Number,Tuzla Canton,F,25907.0
-1999,Number,Zenica-Doboj Canton,F,69432.0
-1999,Number,Bosnian-Podrinje Canton,F,
-1999,Number,Central Bosnia Canton,F,14135.0
-1999,Number,Herzegovina-Neretva Canton,F,14934.0
-1999,Number,West Herzegovina Canton,F,368.0
-1999,Number,Sarajevo Canton,F,26284.0
-1999,Number,Canton 10,F,2103.0
-2000,Number,Federation of Bosnia and Herzegovina,Both sexes,283785.0
-2000,Number,Una-Sana Canton,Both sexes,11514.0
-2000,Number,Posavina Canton,Both sexes,1759.0
-2000,Number,Tuzla Canton,Both sexes,51918.0
-2000,Number,Zenica-Doboj Canton,Both sexes,84090.0
-2000,Number,Bosnian-Podrinje Canton,Both sexes,
-2000,Number,Central Bosnia Canton,Both sexes,28632.0
-2000,Number,Herzegovina-Neretva Canton,Both sexes,25754.0
-2000,Number,West Herzegovina Canton,Both sexes,1198.0
-2000,Number,Sarajevo Canton,Both sexes,76363.0
-2000,Number,Canton 10,Both sexes,2557.0
-2000,Number,Federation of Bosnia and Herzegovina,M,150741.0
-2000,Number,Una-Sana Canton,M,3628.0
-2000,Number,Posavina Canton,M,900.0
-2000,Number,Tuzla Canton,M,25809.0
-2000,Number,Zenica-Doboj Canton,M,45290.0
-2000,Number,Bosnian-Podrinje Canton,M,
-2000,Number,Central Bosnia Canton,M,11909.0
-2000,Number,Herzegovina-Neretva Canton,M,10760.0
-2000,Number,West Herzegovina Canton,M,830.0
-2000,Number,Sarajevo Canton,M,50388.0
-2000,Number,Canton 10,M,1227.0
-2000,Number,Federation of Bosnia and Herzegovina,F,133044.0
-2000,Number,Una-Sana Canton,F,7886.0
-2000,Number,Posavina Canton,F,859.0
-2000,Number,Tuzla Canton,F,26109.0
-2000,Number,Zenica-Doboj Canton,F,38800.0
-2000,Number,Bosnian-Podrinje Canton,F,
-2000,Number,Central Bosnia Canton,F,16723.0
-2000,Number,Herzegovina-Neretva Canton,F,14994.0
-2000,Number,West Herzegovina Canton,F,368.0
-2000,Number,Sarajevo Canton,F,25975.0
-2000,Number,Canton 10,F,1330.0
-2001,Number,Federation of Bosnia and Herzegovina,Both sexes,290612.0
-2001,Number,Una-Sana Canton,Both sexes,11912.0
-2001,Number,Posavina Canton,Both sexes,1156.0
-2001,Number,Tuzla Canton,Both sexes,28365.0
-2001,Number,Zenica-Doboj Canton,Both sexes,94505.0
-2001,Number,Bosnian-Podrinje Canton,Both sexes,
-2001,Number,Central Bosnia Canton,Both sexes,21221.0
-2001,Number,Herzegovina-Neretva Canton,Both sexes,27091.0
-2001,Number,West Herzegovina Canton,Both sexes,627.0
-2001,Number,Sarajevo Canton,Both sexes,103226.0
-2001,Number,Canton 10,Both sexes,2509.0
-2001,Number,Federation of Bosnia and Herzegovina,M,174528.0
-2001,Number,Una-Sana Canton,M,6205.0
-2001,Number,Posavina Canton,M,481.0
-2001,Number,Tuzla Canton,M,11941.0
-2001,Number,Zenica-Doboj Canton,M,51720.0
-2001,Number,Bosnian-Podrinje Canton,M,
-2001,Number,Central Bosnia Canton,M,9183.0
-2001,Number,Herzegovina-Neretva Canton,M,12154.0
-2001,Number,West Herzegovina Canton,M,304.0
-2001,Number,Sarajevo Canton,M,81369.0
-2001,Number,Canton 10,M,1171.0
-2001,Number,Federation of Bosnia and Herzegovina,F,116084.0
-2001,Number,Una-Sana Canton,F,5707.0
-2001,Number,Posavina Canton,F,675.0
-2001,Number,Tuzla Canton,F,16424.0
-2001,Number,Zenica-Doboj Canton,F,42785.0
-2001,Number,Bosnian-Podrinje Canton,F,
-2001,Number,Central Bosnia Canton,F,12038.0
-2001,Number,Herzegovina-Neretva Canton,F,14937.0
-2001,Number,West Herzegovina Canton,F,323.0
-2001,Number,Sarajevo Canton,F,21857.0
-2001,Number,Canton 10,F,1338.0
-2002,Number,Federation of Bosnia and Herzegovina,Both sexes,278769.0
-2002,Number,Una-Sana Canton,Both sexes,13413.0
-2002,Number,Posavina Canton,Both sexes,445.0
-2002,Number,Tuzla Canton,Both sexes,27426.0
-2002,Number,Zenica-Doboj Canton,Both sexes,90861.0
-2002,Number,Bosnian-Podrinje Canton,Both sexes,
-2002,Number,Central Bosnia Canton,Both sexes,25509.0
-2002,Number,Herzegovina-Neretva Canton,Both sexes,33238.0
-2002,Number,West Herzegovina Canton,Both sexes,1435.0
-2002,Number,Sarajevo Canton,Both sexes,84101.0
-2002,Number,Canton 10,Both sexes,2341.0
-2002,Number,Federation of Bosnia and Herzegovina,M,149039.0
-2002,Number,Una-Sana Canton,M,6158.0
-2002,Number,Posavina Canton,M,209.0
-2002,Number,Tuzla Canton,M,11177.0
-2002,Number,Zenica-Doboj Canton,M,47241.0
-2002,Number,Bosnian-Podrinje Canton,M,
-2002,Number,Central Bosnia Canton,M,12470.0
-2002,Number,Herzegovina-Neretva Canton,M,14442.0
-2002,Number,West Herzegovina Canton,M,799.0
-2002,Number,Sarajevo Canton,M,55462.0
-2002,Number,Canton 10,M,1081.0
-2002,Number,Federation of Bosnia and Herzegovina,F,129730.0
-2002,Number,Una-Sana Canton,F,7255.0
-2002,Number,Posavina Canton,F,236.0
-2002,Number,Tuzla Canton,F,16249.0
-2002,Number,Zenica-Doboj Canton,F,43620.0
-2002,Number,Bosnian-Podrinje Canton,F,
-2002,Number,Central Bosnia Canton,F,13039.0
-2002,Number,Herzegovina-Neretva Canton,F,18796.0
-2002,Number,West Herzegovina Canton,F,636.0
-2002,Number,Sarajevo Canton,F,28639.0
-2002,Number,Canton 10,F,1260.0
-2003,Number,Federation of Bosnia and Herzegovina,Both sexes,289167.0
-2003,Number,Una-Sana Canton,Both sexes,31374.0
-2003,Number,Posavina Canton,Both sexes,63.0
-2003,Number,Tuzla Canton,Both sexes,28411.0
-2003,Number,Zenica-Doboj Canton,Both sexes,94539.0
-2003,Number,Bosnian-Podrinje Canton,Both sexes,
-2003,Number,Central Bosnia Canton,Both sexes,17320.0
-2003,Number,Herzegovina-Neretva Canton,Both sexes,31978.0
-2003,Number,West Herzegovina Canton,Both sexes,1733.0
-2003,Number,Sarajevo Canton,Both sexes,81448.0
-2003,Number,Canton 10,Both sexes,2301.0
-2003,Number,Federation of Bosnia and Herzegovina,M,156012.0
-2003,Number,Una-Sana Canton,M,21833.0
-2003,Number,Posavina Canton,M,26.0
-2003,Number,Tuzla Canton,M,11375.0
-2003,Number,Zenica-Doboj Canton,M,49827.0
-2003,Number,Bosnian-Podrinje Canton,M,
-2003,Number,Central Bosnia Canton,M,8597.0
-2003,Number,Herzegovina-Neretva Canton,M,14707.0
-2003,Number,West Herzegovina Canton,M,1020.0
-2003,Number,Sarajevo Canton,M,47683.0
-2003,Number,Canton 10,M,944.0
-2003,Number,Federation of Bosnia and Herzegovina,F,133155.0
-2003,Number,Una-Sana Canton,F,9541.0
-2003,Number,Posavina Canton,F,37.0
-2003,Number,Tuzla Canton,F,17036.0
-2003,Number,Zenica-Doboj Canton,F,44712.0
-2003,Number,Bosnian-Podrinje Canton,F,
-2003,Number,Central Bosnia Canton,F,8723.0
-2003,Number,Herzegovina-Neretva Canton,F,17271.0
-2003,Number,West Herzegovina Canton,F,713.0
-2003,Number,Sarajevo Canton,F,33765.0
-2003,Number,Canton 10,F,1357.0
-2004,Number,Federation of Bosnia and Herzegovina,Both sexes,270507.0
-2004,Number,Una-Sana Canton,Both sexes,15996.0
-2004,Number,Posavina Canton,Both sexes,94.0
-2004,Number,Tuzla Canton,Both sexes,29152.0
-2004,Number,Zenica-Doboj Canton,Both sexes,86461.0
-2004,Number,Bosnian-Podrinje Canton,Both sexes,
-2004,Number,Central Bosnia Canton,Both sexes,15487.0
-2004,Number,Herzegovina-Neretva Canton,Both sexes,26784.0
-2004,Number,West Herzegovina Canton,Both sexes,1826.0
-2004,Number,Sarajevo Canton,Both sexes,92390.0
-2004,Number,Canton 10,Both sexes,2317.0
-2004,Number,Federation of Bosnia and Herzegovina,M,140214.0
-2004,Number,Una-Sana Canton,M,4970.0
-2004,Number,Posavina Canton,M,35.0
-2004,Number,Tuzla Canton,M,13090.0
-2004,Number,Zenica-Doboj Canton,M,43327.0
-2004,Number,Bosnian-Podrinje Canton,M,
-2004,Number,Central Bosnia Canton,M,7645.0
-2004,Number,Herzegovina-Neretva Canton,M,13121.0
-2004,Number,West Herzegovina Canton,M,1053.0
-2004,Number,Sarajevo Canton,M,56016.0
-2004,Number,Canton 10,M,957.0
-2004,Number,Federation of Bosnia and Herzegovina,F,130293.0
-2004,Number,Una-Sana Canton,F,11026.0
-2004,Number,Posavina Canton,F,59.0
-2004,Number,Tuzla Canton,F,16062.0
-2004,Number,Zenica-Doboj Canton,F,43134.0
-2004,Number,Bosnian-Podrinje Canton,F,
-2004,Number,Central Bosnia Canton,F,7842.0
-2004,Number,Herzegovina-Neretva Canton,F,13663.0
-2004,Number,West Herzegovina Canton,F,773.0
-2004,Number,Sarajevo Canton,F,36374.0
-2004,Number,Canton 10,F,1360.0
-2005,Number,Federation of Bosnia and Herzegovina,Both sexes,249848.0
-2005,Number,Una-Sana Canton,Both sexes,17657.0
-2005,Number,Posavina Canton,Both sexes,120.0
-2005,Number,Tuzla Canton,Both sexes,31339.0
-2005,Number,Zenica-Doboj Canton,Both sexes,71895.0
-2005,Number,Bosnian-Podrinje Canton,Both sexes,
-2005,Number,Central Bosnia Canton,Both sexes,16422.0
-2005,Number,Herzegovina-Neretva Canton,Both sexes,19460.0
-2005,Number,West Herzegovina Canton,Both sexes,1894.0
-2005,Number,Sarajevo Canton,Both sexes,88769.0
-2005,Number,Canton 10,Both sexes,2292.0
-2005,Number,Federation of Bosnia and Herzegovina,M,126173.0
-2005,Number,Una-Sana Canton,M,5530.0
-2005,Number,Posavina Canton,M,51.0
-2005,Number,Tuzla Canton,M,13199.0
-2005,Number,Zenica-Doboj Canton,M,36270.0
-2005,Number,Bosnian-Podrinje Canton,M,
-2005,Number,Central Bosnia Canton,M,7964.0
-2005,Number,Herzegovina-Neretva Canton,M,8200.0
-2005,Number,West Herzegovina Canton,M,1097.0
-2005,Number,Sarajevo Canton,M,52885.0
-2005,Number,Canton 10,M,977.0
-2005,Number,Federation of Bosnia and Herzegovina,F,123675.0
-2005,Number,Una-Sana Canton,F,12127.0
-2005,Number,Posavina Canton,F,69.0
-2005,Number,Tuzla Canton,F,18140.0
-2005,Number,Zenica-Doboj Canton,F,35625.0
-2005,Number,Bosnian-Podrinje Canton,F,
-2005,Number,Central Bosnia Canton,F,8458.0
-2005,Number,Herzegovina-Neretva Canton,F,11260.0
-2005,Number,West Herzegovina Canton,F,797.0
-2005,Number,Sarajevo Canton,F,35884.0
-2005,Number,Canton 10,F,1315.0
-2006,Number,Federation of Bosnia and Herzegovina,Both sexes,333918.0
-2006,Number,Una-Sana Canton,Both sexes,21373.0
-2006,Number,Posavina Canton,Both sexes,136.0
-2006,Number,Tuzla Canton,Both sexes,48970.0
-2006,Number,Zenica-Doboj Canton,Both sexes,100693.0
-2006,Number,Bosnian-Podrinje Canton,Both sexes,
-2006,Number,Central Bosnia Canton,Both sexes,18658.0
-2006,Number,Herzegovina-Neretva Canton,Both sexes,21145.0
-2006,Number,West Herzegovina Canton,Both sexes,2345.0
-2006,Number,Sarajevo Canton,Both sexes,117743.0
-2006,Number,Canton 10,Both sexes,2855.0
-2006,Number,Federation of Bosnia and Herzegovina,M,188431.0
-2006,Number,Una-Sana Canton,M,8672.0
-2006,Number,Posavina Canton,M,136.0
-2006,Number,Tuzla Canton,M,26081.0
-2006,Number,Zenica-Doboj Canton,M,57897.0
-2006,Number,Bosnian-Podrinje Canton,M,
-2006,Number,Central Bosnia Canton,M,8419.0
-2006,Number,Herzegovina-Neretva Canton,M,10559.0
-2006,Number,West Herzegovina Canton,M,1460.0
-2006,Number,Sarajevo Canton,M,73991.0
-2006,Number,Canton 10,M,1219.0
-2006,Number,Federation of Bosnia and Herzegovina,F,145487.0
-2006,Number,Una-Sana Canton,F,12701.0
-2006,Number,Posavina Canton,F,0.0
-2006,Number,Tuzla Canton,F,22889.0
-2006,Number,Zenica-Doboj Canton,F,42796.0
-2006,Number,Bosnian-Podrinje Canton,F,
-2006,Number,Central Bosnia Canton,F,10239.0
-2006,Number,Herzegovina-Neretva Canton,F,10586.0
-2006,Number,West Herzegovina Canton,F,885.0
-2006,Number,Sarajevo Canton,F,43752.0
-2006,Number,Canton 10,F,1636.0
-2007,Number,Federation of Bosnia and Herzegovina,Both sexes,334660.0
-2007,Number,Una-Sana Canton,Both sexes,17226.0
-2007,Number,Posavina Canton,Both sexes,1287.0
-2007,Number,Tuzla Canton,Both sexes,46851.0
-2007,Number,Zenica-Doboj Canton,Both sexes,77762.0
-2007,Number,Bosnian-Podrinje Canton,Both sexes,
-2007,Number,Central Bosnia Canton,Both sexes,19464.0
-2007,Number,Herzegovina-Neretva Canton,Both sexes,21708.0
-2007,Number,West Herzegovina Canton,Both sexes,2560.0
-2007,Number,Sarajevo Canton,Both sexes,144940.0
-2007,Number,Canton 10,Both sexes,2862.0
-2007,Number,Federation of Bosnia and Herzegovina,M,183592.0
-2007,Number,Una-Sana Canton,M,7586.0
-2007,Number,Posavina Canton,M,481.0
-2007,Number,Tuzla Canton,M,21048.0
-2007,Number,Zenica-Doboj Canton,M,39940.0
-2007,Number,Bosnian-Podrinje Canton,M,
-2007,Number,Central Bosnia Canton,M,8681.0
-2007,Number,Herzegovina-Neretva Canton,M,9489.0
-2007,Number,West Herzegovina Canton,M,1579.0
-2007,Number,Sarajevo Canton,M,93705.0
-2007,Number,Canton 10,M,1083.0
-2007,Number,Federation of Bosnia and Herzegovina,F,151068.0
-2007,Number,Una-Sana Canton,F,9640.0
-2007,Number,Posavina Canton,F,806.0
-2007,Number,Tuzla Canton,F,25803.0
-2007,Number,Zenica-Doboj Canton,F,37822.0
-2007,Number,Bosnian-Podrinje Canton,F,
-2007,Number,Central Bosnia Canton,F,10783.0
-2007,Number,Herzegovina-Neretva Canton,F,12219.0
-2007,Number,West Herzegovina Canton,F,981.0
-2007,Number,Sarajevo Canton,F,51235.0
-2007,Number,Canton 10,F,1779.0
-2008,Number,Federation of Bosnia and Herzegovina,Both sexes,340152.0
-2008,Number,Una-Sana Canton,Both sexes,17453.0
-2008,Number,Posavina Canton,Both sexes,892.0
-2008,Number,Tuzla Canton,Both sexes,55890.0
-2008,Number,Zenica-Doboj Canton,Both sexes,70513.0
-2008,Number,Bosnian-Podrinje Canton,Both sexes,
-2008,Number,Central Bosnia Canton,Both sexes,22556.0
-2008,Number,Herzegovina-Neretva Canton,Both sexes,15078.0
-2008,Number,West Herzegovina Canton,Both sexes,2765.0
-2008,Number,Sarajevo Canton,Both sexes,152336.0
-2008,Number,Canton 10,Both sexes,2669.0
-2008,Number,Federation of Bosnia and Herzegovina,M,182103.0
-2008,Number,Una-Sana Canton,M,8106.0
-2008,Number,Posavina Canton,M,371.0
-2008,Number,Tuzla Canton,M,23290.0
-2008,Number,Zenica-Doboj Canton,M,35712.0
-2008,Number,Bosnian-Podrinje Canton,M,
-2008,Number,Central Bosnia Canton,M,9089.0
-2008,Number,Herzegovina-Neretva Canton,M,6274.0
-2008,Number,West Herzegovina Canton,M,1620.0
-2008,Number,Sarajevo Canton,M,96671.0
-2008,Number,Canton 10,M,970.0
-2008,Number,Federation of Bosnia and Herzegovina,F,158049.0
-2008,Number,Una-Sana Canton,F,9347.0
-2008,Number,Posavina Canton,F,521.0
-2008,Number,Tuzla Canton,F,32600.0
-2008,Number,Zenica-Doboj Canton,F,34801.0
-2008,Number,Bosnian-Podrinje Canton,F,
-2008,Number,Central Bosnia Canton,F,13467.0
-2008,Number,Herzegovina-Neretva Canton,F,8804.0
-2008,Number,West Herzegovina Canton,F,1145.0
-2008,Number,Sarajevo Canton,F,55665.0
-2008,Number,Canton 10,F,1699.0
-2009,Number,Federation of Bosnia and Herzegovina,Both sexes,403628.0
-2009,Number,Una-Sana Canton,Both sexes,20080.0
-2009,Number,Posavina Canton,Both sexes,538.0
-2009,Number,Tuzla Canton,Both sexes,68873.0
-2009,Number,Zenica-Doboj Canton,Both sexes,83298.0
-2009,Number,Bosnian-Podrinje Canton,Both sexes,
-2009,Number,Central Bosnia Canton,Both sexes,22343.0
-2009,Number,Herzegovina-Neretva Canton,Both sexes,14039.0
-2009,Number,West Herzegovina Canton,Both sexes,2897.0
-2009,Number,Sarajevo Canton,Both sexes,188504.0
-2009,Number,Canton 10,Both sexes,3056.0
-2009,Number,Federation of Bosnia and Herzegovina,M,198035.0
-2009,Number,Una-Sana Canton,M,7518.0
-2009,Number,Posavina Canton,M,210.0
-2009,Number,Tuzla Canton,M,32281.0
-2009,Number,Zenica-Doboj Canton,M,41961.0
-2009,Number,Bosnian-Podrinje Canton,M,
-2009,Number,Central Bosnia Canton,M,9826.0
-2009,Number,Herzegovina-Neretva Canton,M,5819.0
-2009,Number,West Herzegovina Canton,M,1511.0
-2009,Number,Sarajevo Canton,M,97779.0
-2009,Number,Canton 10,M,1130.0
-2009,Number,Federation of Bosnia and Herzegovina,F,205593.0
-2009,Number,Una-Sana Canton,F,12562.0
-2009,Number,Posavina Canton,F,328.0
-2009,Number,Tuzla Canton,F,36592.0
-2009,Number,Zenica-Doboj Canton,F,41337.0
-2009,Number,Bosnian-Podrinje Canton,F,
-2009,Number,Central Bosnia Canton,F,12517.0
-2009,Number,Herzegovina-Neretva Canton,F,8220.0
-2009,Number,West Herzegovina Canton,F,1386.0
-2009,Number,Sarajevo Canton,F,90725.0
-2009,Number,Canton 10,F,1926.0
-2010,Number,Federation of Bosnia and Herzegovina,Both sexes,368808.0
-2010,Number,Una-Sana Canton,Both sexes,19595.0
-2010,Number,Posavina Canton,Both sexes,830.0
-2010,Number,Tuzla Canton,Both sexes,68396.0
-2010,Number,Zenica-Doboj Canton,Both sexes,76610.0
-2010,Number,Bosnian-Podrinje Canton,Both sexes,
-2010,Number,Central Bosnia Canton,Both sexes,17177.0
-2010,Number,Herzegovina-Neretva Canton,Both sexes,14923.0
-2010,Number,West Herzegovina Canton,Both sexes,3684.0
-2010,Number,Sarajevo Canton,Both sexes,164918.0
-2010,Number,Canton 10,Both sexes,2675.0
-2010,Number,Federation of Bosnia and Herzegovina,M,174999.0
-2010,Number,Una-Sana Canton,M,7579.0
-2010,Number,Posavina Canton,M,295.0
-2010,Number,Tuzla Canton,M,29285.0
-2010,Number,Zenica-Doboj Canton,M,35188.0
-2010,Number,Bosnian-Podrinje Canton,M,
-2010,Number,Central Bosnia Canton,M,7780.0
-2010,Number,Herzegovina-Neretva Canton,M,3427.0
-2010,Number,West Herzegovina Canton,M,2148.0
-2010,Number,Sarajevo Canton,M,88379.0
-2010,Number,Canton 10,M,918.0
-2010,Number,Federation of Bosnia and Herzegovina,F,193809.0
-2010,Number,Una-Sana Canton,F,12016.0
-2010,Number,Posavina Canton,F,535.0
-2010,Number,Tuzla Canton,F,39111.0
-2010,Number,Zenica-Doboj Canton,F,41422.0
-2010,Number,Bosnian-Podrinje Canton,F,
-2010,Number,Central Bosnia Canton,F,9397.0
-2010,Number,Herzegovina-Neretva Canton,F,11496.0
-2010,Number,West Herzegovina Canton,F,1536.0
-2010,Number,Sarajevo Canton,F,76539.0
-2010,Number,Canton 10,F,1757.0
-2011,Number,Federation of Bosnia and Herzegovina,Both sexes,344976.0
-2011,Number,Una-Sana Canton,Both sexes,21212.0
-2011,Number,Posavina Canton,Both sexes,228.0
-2011,Number,Tuzla Canton,Both sexes,79042.0
-2011,Number,Zenica-Doboj Canton,Both sexes,73550.0
-2011,Number,Bosnian-Podrinje Canton,Both sexes,
-2011,Number,Central Bosnia Canton,Both sexes,11560.0
-2011,Number,Herzegovina-Neretva Canton,Both sexes,15304.0
-2011,Number,West Herzegovina Canton,Both sexes,3174.0
-2011,Number,Sarajevo Canton,Both sexes,137012.0
-2011,Number,Canton 10,Both sexes,3894.0
-2011,Number,Federation of Bosnia and Herzegovina,M,162768.0
-2011,Number,Una-Sana Canton,M,8760.0
-2011,Number,Posavina Canton,M,93.0
-2011,Number,Tuzla Canton,M,31106.0
-2011,Number,Zenica-Doboj Canton,M,35157.0
-2011,Number,Bosnian-Podrinje Canton,M,
-2011,Number,Central Bosnia Canton,M,5787.0
-2011,Number,Herzegovina-Neretva Canton,M,6800.0
-2011,Number,West Herzegovina Canton,M,1583.0
-2011,Number,Sarajevo Canton,M,71509.0
-2011,Number,Canton 10,M,1973.0
-2011,Number,Federation of Bosnia and Herzegovina,F,182208.0
-2011,Number,Una-Sana Canton,F,12452.0
-2011,Number,Posavina Canton,F,135.0
-2011,Number,Tuzla Canton,F,47936.0
-2011,Number,Zenica-Doboj Canton,F,38393.0
-2011,Number,Bosnian-Podrinje Canton,F,
-2011,Number,Central Bosnia Canton,F,5773.0
-2011,Number,Herzegovina-Neretva Canton,F,8504.0
-2011,Number,West Herzegovina Canton,F,1591.0
-2011,Number,Sarajevo Canton,F,65503.0
-2011,Number,Canton 10,F,1921.0
-2012,Number,Federation of Bosnia and Herzegovina,Both sexes,364552.0
-2012,Number,Una-Sana Canton,Both sexes,18348.0
-2012,Number,Posavina Canton,Both sexes,350.0
-2012,Number,Tuzla Canton,Both sexes,87038.0
-2012,Number,Zenica-Doboj Canton,Both sexes,61780.0
-2012,Number,Bosnian-Podrinje Canton,Both sexes,
-2012,Number,Central Bosnia Canton,Both sexes,20320.0
-2012,Number,Herzegovina-Neretva Canton,Both sexes,13180.0
-2012,Number,West Herzegovina Canton,Both sexes,3944.0
-2012,Number,Sarajevo Canton,Both sexes,155065.0
-2012,Number,Canton 10,Both sexes,4527.0
-2012,Number,Federation of Bosnia and Herzegovina,M,184723.0
-2012,Number,Una-Sana Canton,M,7074.0
-2012,Number,Posavina Canton,M,170.0
-2012,Number,Tuzla Canton,M,40077.0
-2012,Number,Zenica-Doboj Canton,M,28689.0
-2012,Number,Bosnian-Podrinje Canton,M,
-2012,Number,Central Bosnia Canton,M,9341.0
-2012,Number,Herzegovina-Neretva Canton,M,4865.0
-2012,Number,West Herzegovina Canton,M,2260.0
-2012,Number,Sarajevo Canton,M,89973.0
-2012,Number,Canton 10,M,2274.0
-2012,Number,Federation of Bosnia and Herzegovina,F,179829.0
-2012,Number,Una-Sana Canton,F,11274.0
-2012,Number,Posavina Canton,F,180.0
-2012,Number,Tuzla Canton,F,46961.0
-2012,Number,Zenica-Doboj Canton,F,33091.0
-2012,Number,Bosnian-Podrinje Canton,F,
-2012,Number,Central Bosnia Canton,F,10979.0
-2012,Number,Herzegovina-Neretva Canton,F,8315.0
-2012,Number,West Herzegovina Canton,F,1684.0
-2012,Number,Sarajevo Canton,F,65092.0
-2012,Number,Canton 10,F,2253.0
-2013,Number,Federation of Bosnia and Herzegovina,Both sexes,312990.0
-2013,Number,Una-Sana Canton,Both sexes,20984.0
-2013,Number,Posavina Canton,Both sexes,423.0
-2013,Number,Tuzla Canton,Both sexes,73700.0
-2013,Number,Zenica-Doboj Canton,Both sexes,64654.0
-2013,Number,Bosnian-Podrinje Canton,Both sexes,
-2013,Number,Central Bosnia Canton,Both sexes,18573.0
-2013,Number,Herzegovina-Neretva Canton,Both sexes,16085.0
-2013,Number,West Herzegovina Canton,Both sexes,4371.0
-2013,Number,Sarajevo Canton,Both sexes,108806.0
-2013,Number,Canton 10,Both sexes,5394.0
-2013,Number,Federation of Bosnia and Herzegovina,M,150170.0
-2013,Number,Una-Sana Canton,M,8082.0
-2013,Number,Posavina Canton,M,173.0
-2013,Number,Tuzla Canton,M,28461.0
-2013,Number,Zenica-Doboj Canton,M,29657.0
-2013,Number,Bosnian-Podrinje Canton,M,
-2013,Number,Central Bosnia Canton,M,8949.0
-2013,Number,Herzegovina-Neretva Canton,M,7054.0
-2013,Number,West Herzegovina Canton,M,2151.0
-2013,Number,Sarajevo Canton,M,63206.0
-2013,Number,Canton 10,M,2437.0
-2013,Number,Federation of Bosnia and Herzegovina,F,162820.0
-2013,Number,Una-Sana Canton,F,12902.0
-2013,Number,Posavina Canton,F,250.0
-2013,Number,Tuzla Canton,F,45239.0
-2013,Number,Zenica-Doboj Canton,F,34997.0
-2013,Number,Bosnian-Podrinje Canton,F,
-2013,Number,Central Bosnia Canton,F,9624.0
-2013,Number,Herzegovina-Neretva Canton,F,9031.0
-2013,Number,West Herzegovina Canton,F,2220.0
-2013,Number,Sarajevo Canton,F,45600.0
-2013,Number,Canton 10,F,2957.0
-2014,Number,Federation of Bosnia and Herzegovina,Both sexes,300743.0
-2014,Number,Una-Sana Canton,Both sexes,21524.0
-2014,Number,Posavina Canton,Both sexes,975.0
-2014,Number,Tuzla Canton,Both sexes,63748.0
-2014,Number,Zenica-Doboj Canton,Both sexes,59350.0
-2014,Number,Bosnian-Podrinje Canton,Both sexes,10433.0
-2014,Number,Central Bosnia Canton,Both sexes,19890.0
-2014,Number,Herzegovina-Neretva Canton,Both sexes,17882.0
-2014,Number,West Herzegovina Canton,Both sexes,3530.0
-2014,Number,Sarajevo Canton,Both sexes,97948.0
-2014,Number,Canton 10,Both sexes,5463.0
-2014,Number,Federation of Bosnia and Herzegovina,M,143250.0
-2014,Number,Una-Sana Canton,M,9405.0
-2014,Number,Posavina Canton,M,445.0
-2014,Number,Tuzla Canton,M,29484.0
-2014,Number,Zenica-Doboj Canton,M,26577.0
-2014,Number,Bosnian-Podrinje Canton,M,3283.0
-2014,Number,Central Bosnia Canton,M,9722.0
-2014,Number,Herzegovina-Neretva Canton,M,7567.0
-2014,Number,West Herzegovina Canton,M,1564.0
-2014,Number,Sarajevo Canton,M,52841.0
-2014,Number,Canton 10,M,2362.0
-2014,Number,Federation of Bosnia and Herzegovina,F,157493.0
-2014,Number,Una-Sana Canton,F,12119.0
-2014,Number,Posavina Canton,F,530.0
-2014,Number,Tuzla Canton,F,34264.0
-2014,Number,Zenica-Doboj Canton,F,32773.0
-2014,Number,Bosnian-Podrinje Canton,F,7150.0
-2014,Number,Central Bosnia Canton,F,10168.0
-2014,Number,Herzegovina-Neretva Canton,F,10315.0
-2014,Number,West Herzegovina Canton,F,1966.0
-2014,Number,Sarajevo Canton,F,45107.0
-2014,Number,Canton 10,F,3101.0
-2015,Number,Federation of Bosnia and Herzegovina,Both sexes,283575.0
-2015,Number,Una-Sana Canton,Both sexes,21810.0
-2015,Number,Posavina Canton,Both sexes,1041.0
-2015,Number,Tuzla Canton,Both sexes,63009.0
-2015,Number,Zenica-Doboj Canton,Both sexes,55022.0
-2015,Number,Bosnian-Podrinje Canton,Both sexes,11535.0
-2015,Number,Central Bosnia Canton,Both sexes,17407.0
-2015,Number,Herzegovina-Neretva Canton,Both sexes,17673.0
-2015,Number,West Herzegovina Canton,Both sexes,3614.0
-2015,Number,Sarajevo Canton,Both sexes,86478.0
-2015,Number,Canton 10,Both sexes,5986.0
-2015,Number,Federation of Bosnia and Herzegovina,M,139273.0
-2015,Number,Una-Sana Canton,M,10336.0
-2015,Number,Posavina Canton,M,425.0
-2015,Number,Tuzla Canton,M,27833.0
-2015,Number,Zenica-Doboj Canton,M,25681.0
-2015,Number,Bosnian-Podrinje Canton,M,4981.0
-2015,Number,Central Bosnia Canton,M,8230.0
-2015,Number,Herzegovina-Neretva Canton,M,7348.0
-2015,Number,West Herzegovina Canton,M,1671.0
-2015,Number,Sarajevo Canton,M,50212.0
-2015,Number,Canton 10,M,2556.0
-2015,Number,Federation of Bosnia and Herzegovina,F,144302.0
-2015,Number,Una-Sana Canton,F,11474.0
-2015,Number,Posavina Canton,F,616.0
-2015,Number,Tuzla Canton,F,35176.0
-2015,Number,Zenica-Doboj Canton,F,29341.0
-2015,Number,Bosnian-Podrinje Canton,F,6554.0
-2015,Number,Central Bosnia Canton,F,9177.0
-2015,Number,Herzegovina-Neretva Canton,F,10325.0
-2015,Number,West Herzegovina Canton,F,1943.0
-2015,Number,Sarajevo Canton,F,36266.0
-2015,Number,Canton 10,F,3430.0
-2016,Number,Federation of Bosnia and Herzegovina,Both sexes,295304.0
-2016,Number,Una-Sana Canton,Both sexes,21855.0
-2016,Number,Posavina Canton,Both sexes,1060.0
-2016,Number,Tuzla Canton,Both sexes,68369.0
-2016,Number,Zenica-Doboj Canton,Both sexes,48270.0
-2016,Number,Bosnian-Podrinje Canton,Both sexes,11194.0
-2016,Number,Central Bosnia Canton,Both sexes,18371.0
-2016,Number,Herzegovina-Neretva Canton,Both sexes,17707.0
-2016,Number,West Herzegovina Canton,Both sexes,2187.0
-2016,Number,Sarajevo Canton,Both sexes,101740.0
-2016,Number,Canton 10,Both sexes,4551.0
-2016,Number,Federation of Bosnia and Herzegovina,M,135801.0
-2016,Number,Una-Sana Canton,M,10051.0
-2016,Number,Posavina Canton,M,499.0
-2016,Number,Tuzla Canton,M,29440.0
-2016,Number,Zenica-Doboj Canton,M,23551.0
-2016,Number,Bosnian-Podrinje Canton,M,5162.0
-2016,Number,Central Bosnia Canton,M,8627.0
-2016,Number,Herzegovina-Neretva Canton,M,7663.0
-2016,Number,West Herzegovina Canton,M,979.0
-2016,Number,Sarajevo Canton,M,47713.0
-2016,Number,Canton 10,M,2116.0
-2016,Number,Federation of Bosnia and Herzegovina,F,159503.0
-2016,Number,Una-Sana Canton,F,11804.0
-2016,Number,Posavina Canton,F,561.0
-2016,Number,Tuzla Canton,F,38929.0
-2016,Number,Zenica-Doboj Canton,F,24719.0
-2016,Number,Bosnian-Podrinje Canton,F,6032.0
-2016,Number,Central Bosnia Canton,F,9744.0
-2016,Number,Herzegovina-Neretva Canton,F,10044.0
-2016,Number,West Herzegovina Canton,F,1208.0
-2016,Number,Sarajevo Canton,F,54027.0
-2016,Number,Canton 10,F,2435.0
-2017,Number,Federation of Bosnia and Herzegovina,Both sexes,272769.0
-2017,Number,Una-Sana Canton,Both sexes,21163.0
-2017,Number,Posavina Canton,Both sexes,1309.0
-2017,Number,Tuzla Canton,Both sexes,56420.0
-2017,Number,Zenica-Doboj Canton,Both sexes,48168.0
-2017,Number,Bosnian-Podrinje Canton,Both sexes,10088.0
-2017,Number,Central Bosnia Canton,Both sexes,18006.0
-2017,Number,Herzegovina-Neretva Canton,Both sexes,15978.0
-2017,Number,West Herzegovina Canton,Both sexes,2445.0
-2017,Number,Sarajevo Canton,Both sexes,95028.0
-2017,Number,Canton 10,Both sexes,4164.0
-2017,Number,Federation of Bosnia and Herzegovina,M,124731.0
-2017,Number,Una-Sana Canton,M,10694.0
-2017,Number,Posavina Canton,M,615.0
-2017,Number,Tuzla Canton,M,24534.0
-2017,Number,Zenica-Doboj Canton,M,22598.0
-2017,Number,Bosnian-Podrinje Canton,M,4588.0
-2017,Number,Central Bosnia Canton,M,8052.0
-2017,Number,Herzegovina-Neretva Canton,M,5238.0
-2017,Number,West Herzegovina Canton,M,1062.0
-2017,Number,Sarajevo Canton,M,45327.0
-2017,Number,Canton 10,M,2023.0
-2017,Number,Federation of Bosnia and Herzegovina,F,148038.0
-2017,Number,Una-Sana Canton,F,10469.0
-2017,Number,Posavina Canton,F,694.0
-2017,Number,Tuzla Canton,F,31886.0
-2017,Number,Zenica-Doboj Canton,F,25570.0
-2017,Number,Bosnian-Podrinje Canton,F,5500.0
-2017,Number,Central Bosnia Canton,F,9954.0
-2017,Number,Herzegovina-Neretva Canton,F,10740.0
-2017,Number,West Herzegovina Canton,F,1383.0
-2017,Number,Sarajevo Canton,F,49701.0
-2017,Number,Canton 10,F,2141.0
-2018,Number,Federation of Bosnia and Herzegovina,Both sexes,495614.0
-2018,Number,Una-Sana Canton,Both sexes,26314.0
-2018,Number,Posavina Canton,Both sexes,2532.0
-2018,Number,Tuzla Canton,Both sexes,92459.0
-2018,Number,Zenica-Doboj Canton,Both sexes,81918.0
-2018,Number,Bosnian-Podrinje Canton,Both sexes,14195.0
-2018,Number,Central Bosnia Canton,Both sexes,27811.0
-2018,Number,Herzegovina-Neretva Canton,Both sexes,29813.0
-2018,Number,West Herzegovina Canton,Both sexes,4328.0
-2018,Number,Sarajevo Canton,Both sexes,208374.0
-2018,Number,Canton 10,Both sexes,7870.0
-2018,Number,Federation of Bosnia and Herzegovina,M,324387.0
-2018,Number,Una-Sana Canton,M,17081.0
-2018,Number,Posavina Canton,M,1648.0
-2018,Number,Tuzla Canton,M,61012.0
-2018,Number,Zenica-Doboj Canton,M,53492.0
-2018,Number,Bosnian-Podrinje Canton,M,9490.0
-2018,Number,Central Bosnia Canton,M,17738.0
-2018,Number,Herzegovina-Neretva Canton,M,20533.0
-2018,Number,West Herzegovina Canton,M,2962.0
-2018,Number,Sarajevo Canton,M,134532.0
-2018,Number,Canton 10,M,5599.0
-2018,Number,Federation of Bosnia and Herzegovina,F,171227.0
-2018,Number,Una-Sana Canton,F,9233.0
-2018,Number,Posavina Canton,F,884.0
-2018,Number,Tuzla Canton,F,31447.0
-2018,Number,Zenica-Doboj Canton,F,28426.0
-2018,Number,Bosnian-Podrinje Canton,F,4705.0
-2018,Number,Central Bosnia Canton,F,10073.0
-2018,Number,Herzegovina-Neretva Canton,F,9280.0
-2018,Number,West Herzegovina Canton,F,1366.0
-2018,Number,Sarajevo Canton,F,73842.0
-2018,Number,Canton 10,F,1971.0
+Year,UNIT_MEASURE,Administrative Area,Sex,Unnamed: 5,Unnamed: 6,Unnamed: 7,Value
+1998.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,483426.0
+1998.0,Number,Una-Sana Canton,Both sexes,,,,19062.0
+1998.0,Number,Posavina Canton,Both sexes,,,,400.0
+1998.0,Number,Tuzla Canton,Both sexes,,,,52338.0
+1998.0,Number,Zenica-Doboj Canton,Both sexes,,,,166900.0
+1998.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+1998.0,Number,Central Bosnia Canton,Both sexes,,,,19686.0
+1998.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,18032.0
+1998.0,Number,West Herzegovina Canton,Both sexes,,,,
+1998.0,Number,Sarajevo Canton,Both sexes,,,,205599.0
+1998.0,Number,Canton 10,Both sexes,,,,1409.0
+1998.0,Number,Federation of Bosnia and Herzegovina,M,,,,256508.0
+1998.0,Number,Una-Sana Canton,M,,,,8518.0
+1998.0,Number,Posavina Canton,M,,,,167.0
+1998.0,Number,Tuzla Canton,M,,,,25383.0
+1998.0,Number,Zenica-Doboj Canton,M,,,,93367.0
+1998.0,Number,Bosnian-Podrinje Canton,M,,,,
+1998.0,Number,Central Bosnia Canton,M,,,,8634.0
+1998.0,Number,Herzegovina-Neretva Canton,M,,,,7469.0
+1998.0,Number,West Herzegovina Canton,M,,,,
+1998.0,Number,Sarajevo Canton,M,,,,112504.0
+1998.0,Number,Canton 10,M,,,,466.0
+1998.0,Number,Federation of Bosnia and Herzegovina,F,,,,226918.0
+1998.0,Number,Una-Sana Canton,F,,,,10544.0
+1998.0,Number,Posavina Canton,F,,,,233.0
+1998.0,Number,Tuzla Canton,F,,,,26955.0
+1998.0,Number,Zenica-Doboj Canton,F,,,,73533.0
+1998.0,Number,Bosnian-Podrinje Canton,F,,,,
+1998.0,Number,Central Bosnia Canton,F,,,,11052.0
+1998.0,Number,Herzegovina-Neretva Canton,F,,,,10563.0
+1998.0,Number,West Herzegovina Canton,F,,,,
+1998.0,Number,Sarajevo Canton,F,,,,93095.0
+1998.0,Number,Canton 10,F,,,,943.0
+1999.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,316644.0
+1999.0,Number,Una-Sana Canton,Both sexes,,,,8787.0
+1999.0,Number,Posavina Canton,Both sexes,,,,911.0
+1999.0,Number,Tuzla Canton,Both sexes,,,,49938.0
+1999.0,Number,Zenica-Doboj Canton,Both sexes,,,,122126.0
+1999.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+1999.0,Number,Central Bosnia Canton,Both sexes,,,,25288.0
+1999.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,33768.0
+1999.0,Number,West Herzegovina Canton,Both sexes,,,,1198.0
+1999.0,Number,Sarajevo Canton,Both sexes,,,,71624.0
+1999.0,Number,Canton 10,Both sexes,,,,3004.0
+1999.0,Number,Federation of Bosnia and Herzegovina,M,,,,158297.0
+1999.0,Number,Una-Sana Canton,M,,,,4056.0
+1999.0,Number,Posavina Canton,M,,,,459.0
+1999.0,Number,Tuzla Canton,M,,,,24031.0
+1999.0,Number,Zenica-Doboj Canton,M,,,,52694.0
+1999.0,Number,Bosnian-Podrinje Canton,M,,,,
+1999.0,Number,Central Bosnia Canton,M,,,,11153.0
+1999.0,Number,Herzegovina-Neretva Canton,M,,,,18834.0
+1999.0,Number,West Herzegovina Canton,M,,,,830.0
+1999.0,Number,Sarajevo Canton,M,,,,45340.0
+1999.0,Number,Canton 10,M,,,,901.0
+1999.0,Number,Federation of Bosnia and Herzegovina,F,,,,158347.0
+1999.0,Number,Una-Sana Canton,F,,,,4731.0
+1999.0,Number,Posavina Canton,F,,,,452.0
+1999.0,Number,Tuzla Canton,F,,,,25907.0
+1999.0,Number,Zenica-Doboj Canton,F,,,,69432.0
+1999.0,Number,Bosnian-Podrinje Canton,F,,,,
+1999.0,Number,Central Bosnia Canton,F,,,,14135.0
+1999.0,Number,Herzegovina-Neretva Canton,F,,,,14934.0
+1999.0,Number,West Herzegovina Canton,F,,,,368.0
+1999.0,Number,Sarajevo Canton,F,,,,26284.0
+1999.0,Number,Canton 10,F,,,,2103.0
+2000.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,283785.0
+2000.0,Number,Una-Sana Canton,Both sexes,,,,11514.0
+2000.0,Number,Posavina Canton,Both sexes,,,,1759.0
+2000.0,Number,Tuzla Canton,Both sexes,,,,51918.0
+2000.0,Number,Zenica-Doboj Canton,Both sexes,,,,84090.0
+2000.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2000.0,Number,Central Bosnia Canton,Both sexes,,,,28632.0
+2000.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,25754.0
+2000.0,Number,West Herzegovina Canton,Both sexes,,,,1198.0
+2000.0,Number,Sarajevo Canton,Both sexes,,,,76363.0
+2000.0,Number,Canton 10,Both sexes,,,,2557.0
+2000.0,Number,Federation of Bosnia and Herzegovina,M,,,,150741.0
+2000.0,Number,Una-Sana Canton,M,,,,3628.0
+2000.0,Number,Posavina Canton,M,,,,900.0
+2000.0,Number,Tuzla Canton,M,,,,25809.0
+2000.0,Number,Zenica-Doboj Canton,M,,,,45290.0
+2000.0,Number,Bosnian-Podrinje Canton,M,,,,
+2000.0,Number,Central Bosnia Canton,M,,,,11909.0
+2000.0,Number,Herzegovina-Neretva Canton,M,,,,10760.0
+2000.0,Number,West Herzegovina Canton,M,,,,830.0
+2000.0,Number,Sarajevo Canton,M,,,,50388.0
+2000.0,Number,Canton 10,M,,,,1227.0
+2000.0,Number,Federation of Bosnia and Herzegovina,F,,,,133044.0
+2000.0,Number,Una-Sana Canton,F,,,,7886.0
+2000.0,Number,Posavina Canton,F,,,,859.0
+2000.0,Number,Tuzla Canton,F,,,,26109.0
+2000.0,Number,Zenica-Doboj Canton,F,,,,38800.0
+2000.0,Number,Bosnian-Podrinje Canton,F,,,,
+2000.0,Number,Central Bosnia Canton,F,,,,16723.0
+2000.0,Number,Herzegovina-Neretva Canton,F,,,,14994.0
+2000.0,Number,West Herzegovina Canton,F,,,,368.0
+2000.0,Number,Sarajevo Canton,F,,,,25975.0
+2000.0,Number,Canton 10,F,,,,1330.0
+2001.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,290612.0
+2001.0,Number,Una-Sana Canton,Both sexes,,,,11912.0
+2001.0,Number,Posavina Canton,Both sexes,,,,1156.0
+2001.0,Number,Tuzla Canton,Both sexes,,,,28365.0
+2001.0,Number,Zenica-Doboj Canton,Both sexes,,,,94505.0
+2001.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2001.0,Number,Central Bosnia Canton,Both sexes,,,,21221.0
+2001.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,27091.0
+2001.0,Number,West Herzegovina Canton,Both sexes,,,,627.0
+2001.0,Number,Sarajevo Canton,Both sexes,,,,103226.0
+2001.0,Number,Canton 10,Both sexes,,,,2509.0
+2001.0,Number,Federation of Bosnia and Herzegovina,M,,,,174528.0
+2001.0,Number,Una-Sana Canton,M,,,,6205.0
+2001.0,Number,Posavina Canton,M,,,,481.0
+2001.0,Number,Tuzla Canton,M,,,,11941.0
+2001.0,Number,Zenica-Doboj Canton,M,,,,51720.0
+2001.0,Number,Bosnian-Podrinje Canton,M,,,,
+2001.0,Number,Central Bosnia Canton,M,,,,9183.0
+2001.0,Number,Herzegovina-Neretva Canton,M,,,,12154.0
+2001.0,Number,West Herzegovina Canton,M,,,,304.0
+2001.0,Number,Sarajevo Canton,M,,,,81369.0
+2001.0,Number,Canton 10,M,,,,1171.0
+2001.0,Number,Federation of Bosnia and Herzegovina,F,,,,116084.0
+2001.0,Number,Una-Sana Canton,F,,,,5707.0
+2001.0,Number,Posavina Canton,F,,,,675.0
+2001.0,Number,Tuzla Canton,F,,,,16424.0
+2001.0,Number,Zenica-Doboj Canton,F,,,,42785.0
+2001.0,Number,Bosnian-Podrinje Canton,F,,,,
+2001.0,Number,Central Bosnia Canton,F,,,,12038.0
+2001.0,Number,Herzegovina-Neretva Canton,F,,,,14937.0
+2001.0,Number,West Herzegovina Canton,F,,,,323.0
+2001.0,Number,Sarajevo Canton,F,,,,21857.0
+2001.0,Number,Canton 10,F,,,,1338.0
+2002.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,278769.0
+2002.0,Number,Una-Sana Canton,Both sexes,,,,13413.0
+2002.0,Number,Posavina Canton,Both sexes,,,,445.0
+2002.0,Number,Tuzla Canton,Both sexes,,,,27426.0
+2002.0,Number,Zenica-Doboj Canton,Both sexes,,,,90861.0
+2002.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2002.0,Number,Central Bosnia Canton,Both sexes,,,,25509.0
+2002.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,33238.0
+2002.0,Number,West Herzegovina Canton,Both sexes,,,,1435.0
+2002.0,Number,Sarajevo Canton,Both sexes,,,,84101.0
+2002.0,Number,Canton 10,Both sexes,,,,2341.0
+2002.0,Number,Federation of Bosnia and Herzegovina,M,,,,149039.0
+2002.0,Number,Una-Sana Canton,M,,,,6158.0
+2002.0,Number,Posavina Canton,M,,,,209.0
+2002.0,Number,Tuzla Canton,M,,,,11177.0
+2002.0,Number,Zenica-Doboj Canton,M,,,,47241.0
+2002.0,Number,Bosnian-Podrinje Canton,M,,,,
+2002.0,Number,Central Bosnia Canton,M,,,,12470.0
+2002.0,Number,Herzegovina-Neretva Canton,M,,,,14442.0
+2002.0,Number,West Herzegovina Canton,M,,,,799.0
+2002.0,Number,Sarajevo Canton,M,,,,55462.0
+2002.0,Number,Canton 10,M,,,,1081.0
+2002.0,Number,Federation of Bosnia and Herzegovina,F,,,,129730.0
+2002.0,Number,Una-Sana Canton,F,,,,7255.0
+2002.0,Number,Posavina Canton,F,,,,236.0
+2002.0,Number,Tuzla Canton,F,,,,16249.0
+2002.0,Number,Zenica-Doboj Canton,F,,,,43620.0
+2002.0,Number,Bosnian-Podrinje Canton,F,,,,
+2002.0,Number,Central Bosnia Canton,F,,,,13039.0
+2002.0,Number,Herzegovina-Neretva Canton,F,,,,18796.0
+2002.0,Number,West Herzegovina Canton,F,,,,636.0
+2002.0,Number,Sarajevo Canton,F,,,,28639.0
+2002.0,Number,Canton 10,F,,,,1260.0
+2003.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,289167.0
+2003.0,Number,Una-Sana Canton,Both sexes,,,,31374.0
+2003.0,Number,Posavina Canton,Both sexes,,,,63.0
+2003.0,Number,Tuzla Canton,Both sexes,,,,28411.0
+2003.0,Number,Zenica-Doboj Canton,Both sexes,,,,94539.0
+2003.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2003.0,Number,Central Bosnia Canton,Both sexes,,,,17320.0
+2003.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,31978.0
+2003.0,Number,West Herzegovina Canton,Both sexes,,,,1733.0
+2003.0,Number,Sarajevo Canton,Both sexes,,,,81448.0
+2003.0,Number,Canton 10,Both sexes,,,,2301.0
+2003.0,Number,Federation of Bosnia and Herzegovina,M,,,,156012.0
+2003.0,Number,Una-Sana Canton,M,,,,21833.0
+2003.0,Number,Posavina Canton,M,,,,26.0
+2003.0,Number,Tuzla Canton,M,,,,11375.0
+2003.0,Number,Zenica-Doboj Canton,M,,,,49827.0
+2003.0,Number,Bosnian-Podrinje Canton,M,,,,
+2003.0,Number,Central Bosnia Canton,M,,,,8597.0
+2003.0,Number,Herzegovina-Neretva Canton,M,,,,14707.0
+2003.0,Number,West Herzegovina Canton,M,,,,1020.0
+2003.0,Number,Sarajevo Canton,M,,,,47683.0
+2003.0,Number,Canton 10,M,,,,944.0
+2003.0,Number,Federation of Bosnia and Herzegovina,F,,,,133155.0
+2003.0,Number,Una-Sana Canton,F,,,,9541.0
+2003.0,Number,Posavina Canton,F,,,,37.0
+2003.0,Number,Tuzla Canton,F,,,,17036.0
+2003.0,Number,Zenica-Doboj Canton,F,,,,44712.0
+2003.0,Number,Bosnian-Podrinje Canton,F,,,,
+2003.0,Number,Central Bosnia Canton,F,,,,8723.0
+2003.0,Number,Herzegovina-Neretva Canton,F,,,,17271.0
+2003.0,Number,West Herzegovina Canton,F,,,,713.0
+2003.0,Number,Sarajevo Canton,F,,,,33765.0
+2003.0,Number,Canton 10,F,,,,1357.0
+2004.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,270507.0
+2004.0,Number,Una-Sana Canton,Both sexes,,,,15996.0
+2004.0,Number,Posavina Canton,Both sexes,,,,94.0
+2004.0,Number,Tuzla Canton,Both sexes,,,,29152.0
+2004.0,Number,Zenica-Doboj Canton,Both sexes,,,,86461.0
+2004.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2004.0,Number,Central Bosnia Canton,Both sexes,,,,15487.0
+2004.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,26784.0
+2004.0,Number,West Herzegovina Canton,Both sexes,,,,1826.0
+2004.0,Number,Sarajevo Canton,Both sexes,,,,92390.0
+2004.0,Number,Canton 10,Both sexes,,,,2317.0
+2004.0,Number,Federation of Bosnia and Herzegovina,M,,,,140214.0
+2004.0,Number,Una-Sana Canton,M,,,,4970.0
+2004.0,Number,Posavina Canton,M,,,,35.0
+2004.0,Number,Tuzla Canton,M,,,,13090.0
+2004.0,Number,Zenica-Doboj Canton,M,,,,43327.0
+2004.0,Number,Bosnian-Podrinje Canton,M,,,,
+2004.0,Number,Central Bosnia Canton,M,,,,7645.0
+2004.0,Number,Herzegovina-Neretva Canton,M,,,,13121.0
+2004.0,Number,West Herzegovina Canton,M,,,,1053.0
+2004.0,Number,Sarajevo Canton,M,,,,56016.0
+2004.0,Number,Canton 10,M,,,,957.0
+2004.0,Number,Federation of Bosnia and Herzegovina,F,,,,130293.0
+2004.0,Number,Una-Sana Canton,F,,,,11026.0
+2004.0,Number,Posavina Canton,F,,,,59.0
+2004.0,Number,Tuzla Canton,F,,,,16062.0
+2004.0,Number,Zenica-Doboj Canton,F,,,,43134.0
+2004.0,Number,Bosnian-Podrinje Canton,F,,,,
+2004.0,Number,Central Bosnia Canton,F,,,,7842.0
+2004.0,Number,Herzegovina-Neretva Canton,F,,,,13663.0
+2004.0,Number,West Herzegovina Canton,F,,,,773.0
+2004.0,Number,Sarajevo Canton,F,,,,36374.0
+2004.0,Number,Canton 10,F,,,,1360.0
+2005.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,249848.0
+2005.0,Number,Una-Sana Canton,Both sexes,,,,17657.0
+2005.0,Number,Posavina Canton,Both sexes,,,,120.0
+2005.0,Number,Tuzla Canton,Both sexes,,,,31339.0
+2005.0,Number,Zenica-Doboj Canton,Both sexes,,,,71895.0
+2005.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2005.0,Number,Central Bosnia Canton,Both sexes,,,,16422.0
+2005.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,19460.0
+2005.0,Number,West Herzegovina Canton,Both sexes,,,,1894.0
+2005.0,Number,Sarajevo Canton,Both sexes,,,,88769.0
+2005.0,Number,Canton 10,Both sexes,,,,2292.0
+2005.0,Number,Federation of Bosnia and Herzegovina,M,,,,126173.0
+2005.0,Number,Una-Sana Canton,M,,,,5530.0
+2005.0,Number,Posavina Canton,M,,,,51.0
+2005.0,Number,Tuzla Canton,M,,,,13199.0
+2005.0,Number,Zenica-Doboj Canton,M,,,,36270.0
+2005.0,Number,Bosnian-Podrinje Canton,M,,,,
+2005.0,Number,Central Bosnia Canton,M,,,,7964.0
+2005.0,Number,Herzegovina-Neretva Canton,M,,,,8200.0
+2005.0,Number,West Herzegovina Canton,M,,,,1097.0
+2005.0,Number,Sarajevo Canton,M,,,,52885.0
+2005.0,Number,Canton 10,M,,,,977.0
+2005.0,Number,Federation of Bosnia and Herzegovina,F,,,,123675.0
+2005.0,Number,Una-Sana Canton,F,,,,12127.0
+2005.0,Number,Posavina Canton,F,,,,69.0
+2005.0,Number,Tuzla Canton,F,,,,18140.0
+2005.0,Number,Zenica-Doboj Canton,F,,,,35625.0
+2005.0,Number,Bosnian-Podrinje Canton,F,,,,
+2005.0,Number,Central Bosnia Canton,F,,,,8458.0
+2005.0,Number,Herzegovina-Neretva Canton,F,,,,11260.0
+2005.0,Number,West Herzegovina Canton,F,,,,797.0
+2005.0,Number,Sarajevo Canton,F,,,,35884.0
+2005.0,Number,Canton 10,F,,,,1315.0
+2006.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,333918.0
+2006.0,Number,Una-Sana Canton,Both sexes,,,,21373.0
+2006.0,Number,Posavina Canton,Both sexes,,,,136.0
+2006.0,Number,Tuzla Canton,Both sexes,,,,48970.0
+2006.0,Number,Zenica-Doboj Canton,Both sexes,,,,100693.0
+2006.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2006.0,Number,Central Bosnia Canton,Both sexes,,,,18658.0
+2006.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,21145.0
+2006.0,Number,West Herzegovina Canton,Both sexes,,,,2345.0
+2006.0,Number,Sarajevo Canton,Both sexes,,,,117743.0
+2006.0,Number,Canton 10,Both sexes,,,,2855.0
+2006.0,Number,Federation of Bosnia and Herzegovina,M,,,,188431.0
+2006.0,Number,Una-Sana Canton,M,,,,8672.0
+2006.0,Number,Posavina Canton,M,,,,136.0
+2006.0,Number,Tuzla Canton,M,,,,26081.0
+2006.0,Number,Zenica-Doboj Canton,M,,,,57897.0
+2006.0,Number,Bosnian-Podrinje Canton,M,,,,
+2006.0,Number,Central Bosnia Canton,M,,,,8419.0
+2006.0,Number,Herzegovina-Neretva Canton,M,,,,10559.0
+2006.0,Number,West Herzegovina Canton,M,,,,1460.0
+2006.0,Number,Sarajevo Canton,M,,,,73991.0
+2006.0,Number,Canton 10,M,,,,1219.0
+2006.0,Number,Federation of Bosnia and Herzegovina,F,,,,145487.0
+2006.0,Number,Una-Sana Canton,F,,,,12701.0
+2006.0,Number,Posavina Canton,F,,,,0.0
+2006.0,Number,Tuzla Canton,F,,,,22889.0
+2006.0,Number,Zenica-Doboj Canton,F,,,,42796.0
+2006.0,Number,Bosnian-Podrinje Canton,F,,,,
+2006.0,Number,Central Bosnia Canton,F,,,,10239.0
+2006.0,Number,Herzegovina-Neretva Canton,F,,,,10586.0
+2006.0,Number,West Herzegovina Canton,F,,,,885.0
+2006.0,Number,Sarajevo Canton,F,,,,43752.0
+2006.0,Number,Canton 10,F,,,,1636.0
+2007.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,334660.0
+2007.0,Number,Una-Sana Canton,Both sexes,,,,17226.0
+2007.0,Number,Posavina Canton,Both sexes,,,,1287.0
+2007.0,Number,Tuzla Canton,Both sexes,,,,46851.0
+2007.0,Number,Zenica-Doboj Canton,Both sexes,,,,77762.0
+2007.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2007.0,Number,Central Bosnia Canton,Both sexes,,,,19464.0
+2007.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,21708.0
+2007.0,Number,West Herzegovina Canton,Both sexes,,,,2560.0
+2007.0,Number,Sarajevo Canton,Both sexes,,,,144940.0
+2007.0,Number,Canton 10,Both sexes,,,,2862.0
+2007.0,Number,Federation of Bosnia and Herzegovina,M,,,,183592.0
+2007.0,Number,Una-Sana Canton,M,,,,7586.0
+2007.0,Number,Posavina Canton,M,,,,481.0
+2007.0,Number,Tuzla Canton,M,,,,21048.0
+2007.0,Number,Zenica-Doboj Canton,M,,,,39940.0
+2007.0,Number,Bosnian-Podrinje Canton,M,,,,
+2007.0,Number,Central Bosnia Canton,M,,,,8681.0
+2007.0,Number,Herzegovina-Neretva Canton,M,,,,9489.0
+2007.0,Number,West Herzegovina Canton,M,,,,1579.0
+2007.0,Number,Sarajevo Canton,M,,,,93705.0
+2007.0,Number,Canton 10,M,,,,1083.0
+2007.0,Number,Federation of Bosnia and Herzegovina,F,,,,151068.0
+2007.0,Number,Una-Sana Canton,F,,,,9640.0
+2007.0,Number,Posavina Canton,F,,,,806.0
+2007.0,Number,Tuzla Canton,F,,,,25803.0
+2007.0,Number,Zenica-Doboj Canton,F,,,,37822.0
+2007.0,Number,Bosnian-Podrinje Canton,F,,,,
+2007.0,Number,Central Bosnia Canton,F,,,,10783.0
+2007.0,Number,Herzegovina-Neretva Canton,F,,,,12219.0
+2007.0,Number,West Herzegovina Canton,F,,,,981.0
+2007.0,Number,Sarajevo Canton,F,,,,51235.0
+2007.0,Number,Canton 10,F,,,,1779.0
+2008.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,340152.0
+2008.0,Number,Una-Sana Canton,Both sexes,,,,17453.0
+2008.0,Number,Posavina Canton,Both sexes,,,,892.0
+2008.0,Number,Tuzla Canton,Both sexes,,,,55890.0
+2008.0,Number,Zenica-Doboj Canton,Both sexes,,,,70513.0
+2008.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2008.0,Number,Central Bosnia Canton,Both sexes,,,,22556.0
+2008.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,15078.0
+2008.0,Number,West Herzegovina Canton,Both sexes,,,,2765.0
+2008.0,Number,Sarajevo Canton,Both sexes,,,,152336.0
+2008.0,Number,Canton 10,Both sexes,,,,2669.0
+2008.0,Number,Federation of Bosnia and Herzegovina,M,,,,182103.0
+2008.0,Number,Una-Sana Canton,M,,,,8106.0
+2008.0,Number,Posavina Canton,M,,,,371.0
+2008.0,Number,Tuzla Canton,M,,,,23290.0
+2008.0,Number,Zenica-Doboj Canton,M,,,,35712.0
+2008.0,Number,Bosnian-Podrinje Canton,M,,,,
+2008.0,Number,Central Bosnia Canton,M,,,,9089.0
+2008.0,Number,Herzegovina-Neretva Canton,M,,,,6274.0
+2008.0,Number,West Herzegovina Canton,M,,,,1620.0
+2008.0,Number,Sarajevo Canton,M,,,,96671.0
+2008.0,Number,Canton 10,M,,,,970.0
+2008.0,Number,Federation of Bosnia and Herzegovina,F,,,,158049.0
+2008.0,Number,Una-Sana Canton,F,,,,9347.0
+2008.0,Number,Posavina Canton,F,,,,521.0
+2008.0,Number,Tuzla Canton,F,,,,32600.0
+2008.0,Number,Zenica-Doboj Canton,F,,,,34801.0
+2008.0,Number,Bosnian-Podrinje Canton,F,,,,
+2008.0,Number,Central Bosnia Canton,F,,,,13467.0
+2008.0,Number,Herzegovina-Neretva Canton,F,,,,8804.0
+2008.0,Number,West Herzegovina Canton,F,,,,1145.0
+2008.0,Number,Sarajevo Canton,F,,,,55665.0
+2008.0,Number,Canton 10,F,,,,1699.0
+2009.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,403628.0
+2009.0,Number,Una-Sana Canton,Both sexes,,,,20080.0
+2009.0,Number,Posavina Canton,Both sexes,,,,538.0
+2009.0,Number,Tuzla Canton,Both sexes,,,,68873.0
+2009.0,Number,Zenica-Doboj Canton,Both sexes,,,,83298.0
+2009.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2009.0,Number,Central Bosnia Canton,Both sexes,,,,22343.0
+2009.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,14039.0
+2009.0,Number,West Herzegovina Canton,Both sexes,,,,2897.0
+2009.0,Number,Sarajevo Canton,Both sexes,,,,188504.0
+2009.0,Number,Canton 10,Both sexes,,,,3056.0
+2009.0,Number,Federation of Bosnia and Herzegovina,M,,,,198035.0
+2009.0,Number,Una-Sana Canton,M,,,,7518.0
+2009.0,Number,Posavina Canton,M,,,,210.0
+2009.0,Number,Tuzla Canton,M,,,,32281.0
+2009.0,Number,Zenica-Doboj Canton,M,,,,41961.0
+2009.0,Number,Bosnian-Podrinje Canton,M,,,,
+2009.0,Number,Central Bosnia Canton,M,,,,9826.0
+2009.0,Number,Herzegovina-Neretva Canton,M,,,,5819.0
+2009.0,Number,West Herzegovina Canton,M,,,,1511.0
+2009.0,Number,Sarajevo Canton,M,,,,97779.0
+2009.0,Number,Canton 10,M,,,,1130.0
+2009.0,Number,Federation of Bosnia and Herzegovina,F,,,,205593.0
+2009.0,Number,Una-Sana Canton,F,,,,12562.0
+2009.0,Number,Posavina Canton,F,,,,328.0
+2009.0,Number,Tuzla Canton,F,,,,36592.0
+2009.0,Number,Zenica-Doboj Canton,F,,,,41337.0
+2009.0,Number,Bosnian-Podrinje Canton,F,,,,
+2009.0,Number,Central Bosnia Canton,F,,,,12517.0
+2009.0,Number,Herzegovina-Neretva Canton,F,,,,8220.0
+2009.0,Number,West Herzegovina Canton,F,,,,1386.0
+2009.0,Number,Sarajevo Canton,F,,,,90725.0
+2009.0,Number,Canton 10,F,,,,1926.0
+2010.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,368808.0
+2010.0,Number,Una-Sana Canton,Both sexes,,,,19595.0
+2010.0,Number,Posavina Canton,Both sexes,,,,830.0
+2010.0,Number,Tuzla Canton,Both sexes,,,,68396.0
+2010.0,Number,Zenica-Doboj Canton,Both sexes,,,,76610.0
+2010.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2010.0,Number,Central Bosnia Canton,Both sexes,,,,17177.0
+2010.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,14923.0
+2010.0,Number,West Herzegovina Canton,Both sexes,,,,3684.0
+2010.0,Number,Sarajevo Canton,Both sexes,,,,164918.0
+2010.0,Number,Canton 10,Both sexes,,,,2675.0
+2010.0,Number,Federation of Bosnia and Herzegovina,M,,,,174999.0
+2010.0,Number,Una-Sana Canton,M,,,,7579.0
+2010.0,Number,Posavina Canton,M,,,,295.0
+2010.0,Number,Tuzla Canton,M,,,,29285.0
+2010.0,Number,Zenica-Doboj Canton,M,,,,35188.0
+2010.0,Number,Bosnian-Podrinje Canton,M,,,,
+2010.0,Number,Central Bosnia Canton,M,,,,7780.0
+2010.0,Number,Herzegovina-Neretva Canton,M,,,,3427.0
+2010.0,Number,West Herzegovina Canton,M,,,,2148.0
+2010.0,Number,Sarajevo Canton,M,,,,88379.0
+2010.0,Number,Canton 10,M,,,,918.0
+2010.0,Number,Federation of Bosnia and Herzegovina,F,,,,193809.0
+2010.0,Number,Una-Sana Canton,F,,,,12016.0
+2010.0,Number,Posavina Canton,F,,,,535.0
+2010.0,Number,Tuzla Canton,F,,,,39111.0
+2010.0,Number,Zenica-Doboj Canton,F,,,,41422.0
+2010.0,Number,Bosnian-Podrinje Canton,F,,,,
+2010.0,Number,Central Bosnia Canton,F,,,,9397.0
+2010.0,Number,Herzegovina-Neretva Canton,F,,,,11496.0
+2010.0,Number,West Herzegovina Canton,F,,,,1536.0
+2010.0,Number,Sarajevo Canton,F,,,,76539.0
+2010.0,Number,Canton 10,F,,,,1757.0
+2011.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,344976.0
+2011.0,Number,Una-Sana Canton,Both sexes,,,,21212.0
+2011.0,Number,Posavina Canton,Both sexes,,,,228.0
+2011.0,Number,Tuzla Canton,Both sexes,,,,79042.0
+2011.0,Number,Zenica-Doboj Canton,Both sexes,,,,73550.0
+2011.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2011.0,Number,Central Bosnia Canton,Both sexes,,,,11560.0
+2011.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,15304.0
+2011.0,Number,West Herzegovina Canton,Both sexes,,,,3174.0
+2011.0,Number,Sarajevo Canton,Both sexes,,,,137012.0
+2011.0,Number,Canton 10,Both sexes,,,,3894.0
+2011.0,Number,Federation of Bosnia and Herzegovina,M,,,,162768.0
+2011.0,Number,Una-Sana Canton,M,,,,8760.0
+2011.0,Number,Posavina Canton,M,,,,93.0
+2011.0,Number,Tuzla Canton,M,,,,31106.0
+2011.0,Number,Zenica-Doboj Canton,M,,,,35157.0
+2011.0,Number,Bosnian-Podrinje Canton,M,,,,
+2011.0,Number,Central Bosnia Canton,M,,,,5787.0
+2011.0,Number,Herzegovina-Neretva Canton,M,,,,6800.0
+2011.0,Number,West Herzegovina Canton,M,,,,1583.0
+2011.0,Number,Sarajevo Canton,M,,,,71509.0
+2011.0,Number,Canton 10,M,,,,1973.0
+2011.0,Number,Federation of Bosnia and Herzegovina,F,,,,182208.0
+2011.0,Number,Una-Sana Canton,F,,,,12452.0
+2011.0,Number,Posavina Canton,F,,,,135.0
+2011.0,Number,Tuzla Canton,F,,,,47936.0
+2011.0,Number,Zenica-Doboj Canton,F,,,,38393.0
+2011.0,Number,Bosnian-Podrinje Canton,F,,,,
+2011.0,Number,Central Bosnia Canton,F,,,,5773.0
+2011.0,Number,Herzegovina-Neretva Canton,F,,,,8504.0
+2011.0,Number,West Herzegovina Canton,F,,,,1591.0
+2011.0,Number,Sarajevo Canton,F,,,,65503.0
+2011.0,Number,Canton 10,F,,,,1921.0
+2012.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,364552.0
+2012.0,Number,Una-Sana Canton,Both sexes,,,,18348.0
+2012.0,Number,Posavina Canton,Both sexes,,,,350.0
+2012.0,Number,Tuzla Canton,Both sexes,,,,87038.0
+2012.0,Number,Zenica-Doboj Canton,Both sexes,,,,61780.0
+2012.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2012.0,Number,Central Bosnia Canton,Both sexes,,,,20320.0
+2012.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,13180.0
+2012.0,Number,West Herzegovina Canton,Both sexes,,,,3944.0
+2012.0,Number,Sarajevo Canton,Both sexes,,,,155065.0
+2012.0,Number,Canton 10,Both sexes,,,,4527.0
+2012.0,Number,Federation of Bosnia and Herzegovina,M,,,,184723.0
+2012.0,Number,Una-Sana Canton,M,,,,7074.0
+2012.0,Number,Posavina Canton,M,,,,170.0
+2012.0,Number,Tuzla Canton,M,,,,40077.0
+2012.0,Number,Zenica-Doboj Canton,M,,,,28689.0
+2012.0,Number,Bosnian-Podrinje Canton,M,,,,
+2012.0,Number,Central Bosnia Canton,M,,,,9341.0
+2012.0,Number,Herzegovina-Neretva Canton,M,,,,4865.0
+2012.0,Number,West Herzegovina Canton,M,,,,2260.0
+2012.0,Number,Sarajevo Canton,M,,,,89973.0
+2012.0,Number,Canton 10,M,,,,2274.0
+2012.0,Number,Federation of Bosnia and Herzegovina,F,,,,179829.0
+2012.0,Number,Una-Sana Canton,F,,,,11274.0
+2012.0,Number,Posavina Canton,F,,,,180.0
+2012.0,Number,Tuzla Canton,F,,,,46961.0
+2012.0,Number,Zenica-Doboj Canton,F,,,,33091.0
+2012.0,Number,Bosnian-Podrinje Canton,F,,,,
+2012.0,Number,Central Bosnia Canton,F,,,,10979.0
+2012.0,Number,Herzegovina-Neretva Canton,F,,,,8315.0
+2012.0,Number,West Herzegovina Canton,F,,,,1684.0
+2012.0,Number,Sarajevo Canton,F,,,,65092.0
+2012.0,Number,Canton 10,F,,,,2253.0
+2013.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,312990.0
+2013.0,Number,Una-Sana Canton,Both sexes,,,,20984.0
+2013.0,Number,Posavina Canton,Both sexes,,,,423.0
+2013.0,Number,Tuzla Canton,Both sexes,,,,73700.0
+2013.0,Number,Zenica-Doboj Canton,Both sexes,,,,64654.0
+2013.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,
+2013.0,Number,Central Bosnia Canton,Both sexes,,,,18573.0
+2013.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,16085.0
+2013.0,Number,West Herzegovina Canton,Both sexes,,,,4371.0
+2013.0,Number,Sarajevo Canton,Both sexes,,,,108806.0
+2013.0,Number,Canton 10,Both sexes,,,,5394.0
+2013.0,Number,Federation of Bosnia and Herzegovina,M,,,,150170.0
+2013.0,Number,Una-Sana Canton,M,,,,8082.0
+2013.0,Number,Posavina Canton,M,,,,173.0
+2013.0,Number,Tuzla Canton,M,,,,28461.0
+2013.0,Number,Zenica-Doboj Canton,M,,,,29657.0
+2013.0,Number,Bosnian-Podrinje Canton,M,,,,
+2013.0,Number,Central Bosnia Canton,M,,,,8949.0
+2013.0,Number,Herzegovina-Neretva Canton,M,,,,7054.0
+2013.0,Number,West Herzegovina Canton,M,,,,2151.0
+2013.0,Number,Sarajevo Canton,M,,,,63206.0
+2013.0,Number,Canton 10,M,,,,2437.0
+2013.0,Number,Federation of Bosnia and Herzegovina,F,,,,162820.0
+2013.0,Number,Una-Sana Canton,F,,,,12902.0
+2013.0,Number,Posavina Canton,F,,,,250.0
+2013.0,Number,Tuzla Canton,F,,,,45239.0
+2013.0,Number,Zenica-Doboj Canton,F,,,,34997.0
+2013.0,Number,Bosnian-Podrinje Canton,F,,,,
+2013.0,Number,Central Bosnia Canton,F,,,,9624.0
+2013.0,Number,Herzegovina-Neretva Canton,F,,,,9031.0
+2013.0,Number,West Herzegovina Canton,F,,,,2220.0
+2013.0,Number,Sarajevo Canton,F,,,,45600.0
+2013.0,Number,Canton 10,F,,,,2957.0
+2014.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,300743.0
+2014.0,Number,Una-Sana Canton,Both sexes,,,,21524.0
+2014.0,Number,Posavina Canton,Both sexes,,,,975.0
+2014.0,Number,Tuzla Canton,Both sexes,,,,63748.0
+2014.0,Number,Zenica-Doboj Canton,Both sexes,,,,59350.0
+2014.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,10433.0
+2014.0,Number,Central Bosnia Canton,Both sexes,,,,19890.0
+2014.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,17882.0
+2014.0,Number,West Herzegovina Canton,Both sexes,,,,3530.0
+2014.0,Number,Sarajevo Canton,Both sexes,,,,97948.0
+2014.0,Number,Canton 10,Both sexes,,,,5463.0
+2014.0,Number,Federation of Bosnia and Herzegovina,M,,,,143250.0
+2014.0,Number,Una-Sana Canton,M,,,,9405.0
+2014.0,Number,Posavina Canton,M,,,,445.0
+2014.0,Number,Tuzla Canton,M,,,,29484.0
+2014.0,Number,Zenica-Doboj Canton,M,,,,26577.0
+2014.0,Number,Bosnian-Podrinje Canton,M,,,,3283.0
+2014.0,Number,Central Bosnia Canton,M,,,,9722.0
+2014.0,Number,Herzegovina-Neretva Canton,M,,,,7567.0
+2014.0,Number,West Herzegovina Canton,M,,,,1564.0
+2014.0,Number,Sarajevo Canton,M,,,,52841.0
+2014.0,Number,Canton 10,M,,,,2362.0
+2014.0,Number,Federation of Bosnia and Herzegovina,F,,,,157493.0
+2014.0,Number,Una-Sana Canton,F,,,,12119.0
+2014.0,Number,Posavina Canton,F,,,,530.0
+2014.0,Number,Tuzla Canton,F,,,,34264.0
+2014.0,Number,Zenica-Doboj Canton,F,,,,32773.0
+2014.0,Number,Bosnian-Podrinje Canton,F,,,,7150.0
+2014.0,Number,Central Bosnia Canton,F,,,,10168.0
+2014.0,Number,Herzegovina-Neretva Canton,F,,,,10315.0
+2014.0,Number,West Herzegovina Canton,F,,,,1966.0
+2014.0,Number,Sarajevo Canton,F,,,,45107.0
+2014.0,Number,Canton 10,F,,,,3101.0
+2015.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,283575.0
+2015.0,Number,Una-Sana Canton,Both sexes,,,,21810.0
+2015.0,Number,Posavina Canton,Both sexes,,,,1041.0
+2015.0,Number,Tuzla Canton,Both sexes,,,,63009.0
+2015.0,Number,Zenica-Doboj Canton,Both sexes,,,,55022.0
+2015.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,11535.0
+2015.0,Number,Central Bosnia Canton,Both sexes,,,,17407.0
+2015.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,17673.0
+2015.0,Number,West Herzegovina Canton,Both sexes,,,,3614.0
+2015.0,Number,Sarajevo Canton,Both sexes,,,,86478.0
+2015.0,Number,Canton 10,Both sexes,,,,5986.0
+2015.0,Number,Federation of Bosnia and Herzegovina,M,,,,139273.0
+2015.0,Number,Una-Sana Canton,M,,,,10336.0
+2015.0,Number,Posavina Canton,M,,,,425.0
+2015.0,Number,Tuzla Canton,M,,,,27833.0
+2015.0,Number,Zenica-Doboj Canton,M,,,,25681.0
+2015.0,Number,Bosnian-Podrinje Canton,M,,,,4981.0
+2015.0,Number,Central Bosnia Canton,M,,,,8230.0
+2015.0,Number,Herzegovina-Neretva Canton,M,,,,7348.0
+2015.0,Number,West Herzegovina Canton,M,,,,1671.0
+2015.0,Number,Sarajevo Canton,M,,,,50212.0
+2015.0,Number,Canton 10,M,,,,2556.0
+2015.0,Number,Federation of Bosnia and Herzegovina,F,,,,144302.0
+2015.0,Number,Una-Sana Canton,F,,,,11474.0
+2015.0,Number,Posavina Canton,F,,,,616.0
+2015.0,Number,Tuzla Canton,F,,,,35176.0
+2015.0,Number,Zenica-Doboj Canton,F,,,,29341.0
+2015.0,Number,Bosnian-Podrinje Canton,F,,,,6554.0
+2015.0,Number,Central Bosnia Canton,F,,,,9177.0
+2015.0,Number,Herzegovina-Neretva Canton,F,,,,10325.0
+2015.0,Number,West Herzegovina Canton,F,,,,1943.0
+2015.0,Number,Sarajevo Canton,F,,,,36266.0
+2015.0,Number,Canton 10,F,,,,3430.0
+2016.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,295304.0
+2016.0,Number,Una-Sana Canton,Both sexes,,,,21855.0
+2016.0,Number,Posavina Canton,Both sexes,,,,1060.0
+2016.0,Number,Tuzla Canton,Both sexes,,,,68369.0
+2016.0,Number,Zenica-Doboj Canton,Both sexes,,,,48270.0
+2016.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,11194.0
+2016.0,Number,Central Bosnia Canton,Both sexes,,,,18371.0
+2016.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,17707.0
+2016.0,Number,West Herzegovina Canton,Both sexes,,,,2187.0
+2016.0,Number,Sarajevo Canton,Both sexes,,,,101740.0
+2016.0,Number,Canton 10,Both sexes,,,,4551.0
+2016.0,Number,Federation of Bosnia and Herzegovina,M,,,,135801.0
+2016.0,Number,Una-Sana Canton,M,,,,10051.0
+2016.0,Number,Posavina Canton,M,,,,499.0
+2016.0,Number,Tuzla Canton,M,,,,29440.0
+2016.0,Number,Zenica-Doboj Canton,M,,,,23551.0
+2016.0,Number,Bosnian-Podrinje Canton,M,,,,5162.0
+2016.0,Number,Central Bosnia Canton,M,,,,8627.0
+2016.0,Number,Herzegovina-Neretva Canton,M,,,,7663.0
+2016.0,Number,West Herzegovina Canton,M,,,,979.0
+2016.0,Number,Sarajevo Canton,M,,,,47713.0
+2016.0,Number,Canton 10,M,,,,2116.0
+2016.0,Number,Federation of Bosnia and Herzegovina,F,,,,159503.0
+2016.0,Number,Una-Sana Canton,F,,,,11804.0
+2016.0,Number,Posavina Canton,F,,,,561.0
+2016.0,Number,Tuzla Canton,F,,,,38929.0
+2016.0,Number,Zenica-Doboj Canton,F,,,,24719.0
+2016.0,Number,Bosnian-Podrinje Canton,F,,,,6032.0
+2016.0,Number,Central Bosnia Canton,F,,,,9744.0
+2016.0,Number,Herzegovina-Neretva Canton,F,,,,10044.0
+2016.0,Number,West Herzegovina Canton,F,,,,1208.0
+2016.0,Number,Sarajevo Canton,F,,,,54027.0
+2016.0,Number,Canton 10,F,,,,2435.0
+2017.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,272769.0
+2017.0,Number,Una-Sana Canton,Both sexes,,,,21163.0
+2017.0,Number,Posavina Canton,Both sexes,,,,1309.0
+2017.0,Number,Tuzla Canton,Both sexes,,,,56420.0
+2017.0,Number,Zenica-Doboj Canton,Both sexes,,,,48168.0
+2017.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,10088.0
+2017.0,Number,Central Bosnia Canton,Both sexes,,,,18006.0
+2017.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,15978.0
+2017.0,Number,West Herzegovina Canton,Both sexes,,,,2445.0
+2017.0,Number,Sarajevo Canton,Both sexes,,,,95028.0
+2017.0,Number,Canton 10,Both sexes,,,,4164.0
+2017.0,Number,Federation of Bosnia and Herzegovina,M,,,,124731.0
+2017.0,Number,Una-Sana Canton,M,,,,10694.0
+2017.0,Number,Posavina Canton,M,,,,615.0
+2017.0,Number,Tuzla Canton,M,,,,24534.0
+2017.0,Number,Zenica-Doboj Canton,M,,,,22598.0
+2017.0,Number,Bosnian-Podrinje Canton,M,,,,4588.0
+2017.0,Number,Central Bosnia Canton,M,,,,8052.0
+2017.0,Number,Herzegovina-Neretva Canton,M,,,,5238.0
+2017.0,Number,West Herzegovina Canton,M,,,,1062.0
+2017.0,Number,Sarajevo Canton,M,,,,45327.0
+2017.0,Number,Canton 10,M,,,,2023.0
+2017.0,Number,Federation of Bosnia and Herzegovina,F,,,,148038.0
+2017.0,Number,Una-Sana Canton,F,,,,10469.0
+2017.0,Number,Posavina Canton,F,,,,694.0
+2017.0,Number,Tuzla Canton,F,,,,31886.0
+2017.0,Number,Zenica-Doboj Canton,F,,,,25570.0
+2017.0,Number,Bosnian-Podrinje Canton,F,,,,5500.0
+2017.0,Number,Central Bosnia Canton,F,,,,9954.0
+2017.0,Number,Herzegovina-Neretva Canton,F,,,,10740.0
+2017.0,Number,West Herzegovina Canton,F,,,,1383.0
+2017.0,Number,Sarajevo Canton,F,,,,49701.0
+2017.0,Number,Canton 10,F,,,,2141.0
+2018.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,495614.0
+2018.0,Number,Una-Sana Canton,Both sexes,,,,26314.0
+2018.0,Number,Posavina Canton,Both sexes,,,,2532.0
+2018.0,Number,Tuzla Canton,Both sexes,,,,92459.0
+2018.0,Number,Zenica-Doboj Canton,Both sexes,,,,81918.0
+2018.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,14195.0
+2018.0,Number,Central Bosnia Canton,Both sexes,,,,27811.0
+2018.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,29813.0
+2018.0,Number,West Herzegovina Canton,Both sexes,,,,4328.0
+2018.0,Number,Sarajevo Canton,Both sexes,,,,208374.0
+2018.0,Number,Canton 10,Both sexes,,,,7870.0
+2018.0,Number,Federation of Bosnia and Herzegovina,M,,,,324387.0
+2018.0,Number,Una-Sana Canton,M,,,,17081.0
+2018.0,Number,Posavina Canton,M,,,,1648.0
+2018.0,Number,Tuzla Canton,M,,,,61012.0
+2018.0,Number,Zenica-Doboj Canton,M,,,,53492.0
+2018.0,Number,Bosnian-Podrinje Canton,M,,,,9490.0
+2018.0,Number,Central Bosnia Canton,M,,,,17738.0
+2018.0,Number,Herzegovina-Neretva Canton,M,,,,20533.0
+2018.0,Number,West Herzegovina Canton,M,,,,2962.0
+2018.0,Number,Sarajevo Canton,M,,,,134532.0
+2018.0,Number,Canton 10,M,,,,5599.0
+2018.0,Number,Federation of Bosnia and Herzegovina,F,,,,171227.0
+2018.0,Number,Una-Sana Canton,F,,,,9233.0
+2018.0,Number,Posavina Canton,F,,,,884.0
+2018.0,Number,Tuzla Canton,F,,,,31447.0
+2018.0,Number,Zenica-Doboj Canton,F,,,,28426.0
+2018.0,Number,Bosnian-Podrinje Canton,F,,,,4705.0
+2018.0,Number,Central Bosnia Canton,F,,,,10073.0
+2018.0,Number,Herzegovina-Neretva Canton,F,,,,9280.0
+2018.0,Number,West Herzegovina Canton,F,,,,1366.0
+2018.0,Number,Sarajevo Canton,F,,,,73842.0
+2018.0,Number,Canton 10,F,,,,1971.0
+2019.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,458855.0
+2019.0,Number,Una-Sana Canton,Both sexes,,,,15231.0
+2019.0,Number,Posavina Canton,Both sexes,,,,2093.0
+2019.0,Number,Tuzla Canton,Both sexes,,,,89802.0
+2019.0,Number,Zenica-Doboj Canton,Both sexes,,,,90368.0
+2019.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,13555.0
+2019.0,Number,Central Bosnia Canton,Both sexes,,,,25972.0
+2019.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,51674.0
+2019.0,Number,West Herzegovina Canton,Both sexes,,,,4965.0
+2019.0,Number,Sarajevo Canton,Both sexes,,,,158457.0
+2019.0,Number,Canton 10,Both sexes,,,,7338.0
+2019.0,Number,Federation of Bosnia and Herzegovina,M,,,,300713.0
+2019.0,Number,Una-Sana Canton,M,,,,10217.0
+2019.0,Number,Posavina Canton,M,,,,1349.0
+2019.0,Number,Tuzla Canton,M,,,,60188.0
+2019.0,Number,Zenica-Doboj Canton,M,,,,57853.0
+2019.0,Number,Bosnian-Podrinje Canton,M,,,,9165.0
+2019.0,Number,Central Bosnia Canton,M,,,,16657.0
+2019.0,Number,Herzegovina-Neretva Canton,M,,,,32715.0
+2019.0,Number,West Herzegovina Canton,M,,,,3403.0
+2019.0,Number,Sarajevo Canton,M,,,,103803.0
+2019.0,Number,Canton 10,M,,,,5363.0
+2019.0,Number,Federation of Bosnia and Herzegovina,F,,,,158142.0
+2019.0,Number,Una-Sana Canton,F,,,,5014.0
+2019.0,Number,Posavina Canton,F,,,,744.0
+2019.0,Number,Tuzla Canton,F,,,,29614.0
+2019.0,Number,Zenica-Doboj Canton,F,,,,32515.0
+2019.0,Number,Bosnian-Podrinje Canton,F,,,,4390.0
+2019.0,Number,Central Bosnia Canton,F,,,,8715.0
+2019.0,Number,Herzegovina-Neretva Canton,F,,,,18959.0
+2019.0,Number,West Herzegovina Canton,F,,,,1562.0
+2019.0,Number,Sarajevo Canton,F,,,,54654.0
+2019.0,Number,Canton 10,F,,,,1975.0
+2020.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,288778.0
+2020.0,Number,Una-Sana Canton,Both sexes,,,,9894.0
+2020.0,Number,Posavina Canton,Both sexes,,,,1429.0
+2020.0,Number,Tuzla Canton,Both sexes,,,,56979.0
+2020.0,Number,Zenica-Doboj Canton,Both sexes,,,,57823.0
+2020.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,9113.0
+2020.0,Number,Central Bosnia Canton,Both sexes,,,,16937.0
+2020.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,18217.0
+2020.0,Number,West Herzegovina Canton,Both sexes,,,,3335.0
+2020.0,Number,Sarajevo Canton,Both sexes,,,,110643.0
+2020.0,Number,Canton 10,Both sexes,,,,3488.0
+2020.0,Number,Federation of Bosnia and Herzegovina,M,,,,139897.0
+2020.0,Number,Una-Sana Canton,M,,,,4868.0
+2020.0,Number,Posavina Canton,M,,,,686.0
+2020.0,Number,Tuzla Canton,M,,,,27468.0
+2020.0,Number,Zenica-Doboj Canton,M,,,,24975.0
+2020.0,Number,Bosnian-Podrinje Canton,M,,,,4498.0
+2020.0,Number,Central Bosnia Canton,M,,,,8287.0
+2020.0,Number,Herzegovina-Neretva Canton,M,,,,3960.0
+2020.0,Number,West Herzegovina Canton,M,,,,1907.0
+2020.0,Number,Sarajevo Canton,M,,,,60453.0
+2020.0,Number,Canton 10,M,,,,2795.0
+2020.0,Number,Federation of Bosnia and Herzegovina,F,,,,148881.0
+2020.0,Number,Una-Sana Canton,F,,,,5026.0
+2020.0,Number,Posavina Canton,F,,,,743.0
+2020.0,Number,Tuzla Canton,F,,,,29511.0
+2020.0,Number,Zenica-Doboj Canton,F,,,,32848.0
+2020.0,Number,Bosnian-Podrinje Canton,F,,,,4615.0
+2020.0,Number,Central Bosnia Canton,F,,,,8650.0
+2020.0,Number,Herzegovina-Neretva Canton,F,,,,14257.0
+2020.0,Number,West Herzegovina Canton,F,,,,1428.0
+2020.0,Number,Sarajevo Canton,F,,,,50190.0
+2020.0,Number,Canton 10,F,,,,1613.0
+2021.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,298691.0
+2021.0,Number,Una-Sana Canton,Both sexes,,,,10207.0
+2021.0,Number,Posavina Canton,Both sexes,,,,1137.0
+2021.0,Number,Tuzla Canton,Both sexes,,,,55776.0
+2021.0,Number,Zenica-Doboj Canton,Both sexes,,,,53051.0
+2021.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,8450.0
+2021.0,Number,Central Bosnia Canton,Both sexes,,,,16215.0
+2021.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,26064.0
+2021.0,Number,West Herzegovina Canton,Both sexes,,,,4548.0
+2021.0,Number,Sarajevo Canton,Both sexes,,,,118941.0
+2021.0,Number,Canton 10,Both sexes,,,,4266.0
+2021.0,Number,Federation of Bosnia and Herzegovina,M,,,,153743.0
+2021.0,Number,Una-Sana Canton,M,,,,5055.0
+2021.0,Number,Posavina Canton,M,,,,518.0
+2021.0,Number,Tuzla Canton,M,,,,33633.0
+2021.0,Number,Zenica-Doboj Canton,M,,,,23269.0
+2021.0,Number,Bosnian-Podrinje Canton,M,,,,4030.0
+2021.0,Number,Central Bosnia Canton,M,,,,7707.0
+2021.0,Number,Herzegovina-Neretva Canton,M,,,,13127.0
+2021.0,Number,West Herzegovina Canton,M,,,,2959.0
+2021.0,Number,Sarajevo Canton,M,,,,60810.0
+2021.0,Number,Canton 10,M,,,,2635.0
+2021.0,Number,Federation of Bosnia and Herzegovina,F,,,,144948.0
+2021.0,Number,Una-Sana Canton,F,,,,5152.0
+2021.0,Number,Posavina Canton,F,,,,619.0
+2021.0,Number,Tuzla Canton,F,,,,22143.0
+2021.0,Number,Zenica-Doboj Canton,F,,,,29782.0
+2021.0,Number,Bosnian-Podrinje Canton,F,,,,4420.0
+2021.0,Number,Central Bosnia Canton,F,,,,8544.0
+2021.0,Number,Herzegovina-Neretva Canton,F,,,,12937.0
+2021.0,Number,West Herzegovina Canton,F,,,,1589.0
+2021.0,Number,Sarajevo Canton,F,,,,58131.0
+2021.0,Number,Canton 10,F,,,,1631.0
+2022.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,394098.0
+2022.0,Number,Una-Sana Canton,Both sexes,,,,1189.0
+2022.0,Number,Posavina Canton,Both sexes,,,,1746.0
+2022.0,Number,Tuzla Canton,Both sexes,,,,57388.0
+2022.0,Number,Zenica-Doboj Canton,Both sexes,,,,59726.0
+2022.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,8970.0
+2022.0,Number,Central Bosnia Canton,Both sexes,,,,16433.0
+2022.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,14777.0
+2022.0,Number,West Herzegovina Canton,Both sexes,,,,5121.0
+2022.0,Number,Sarajevo Canton,Both sexes,,,,213451.0
+2022.0,Number,Canton 10,Both sexes,,,,4587.0
+2022.0,Number,Federation of Bosnia and Herzegovina,M,,,,189608.0
+2022.0,Number,Una-Sana Canton,M,,,,5612.0
+2022.0,Number,Posavina Canton,M,,,,804.0
+2022.0,Number,Tuzla Canton,M,,,,38057.0
+2022.0,Number,Zenica-Doboj Canton,M,,,,26855.0
+2022.0,Number,Bosnian-Podrinje Canton,M,,,,3588.0
+2022.0,Number,Central Bosnia Canton,M,,,,7989.0
+2022.0,Number,Herzegovina-Neretva Canton,M,,,,5745.0
+2022.0,Number,West Herzegovina Canton,M,,,,2755.0
+2022.0,Number,Sarajevo Canton,M,,,,95191.0
+2022.0,Number,Canton 10,M,,,,3012.0
+2022.0,Number,Federation of Bosnia and Herzegovina,F,,,,204490.0
+2022.0,Number,Una-Sana Canton,F,,,,6287.0
+2022.0,Number,Posavina Canton,F,,,,942.0
+2022.0,Number,Tuzla Canton,F,,,,19331.0
+2022.0,Number,Zenica-Doboj Canton,F,,,,32871.0
+2022.0,Number,Bosnian-Podrinje Canton,F,,,,5382.0
+2022.0,Number,Central Bosnia Canton,F,,,,8444.0
+2022.0,Number,Herzegovina-Neretva Canton,F,,,,9032.0
+2022.0,Number,West Herzegovina Canton,F,,,,2366.0
+2022.0,Number,Sarajevo Canton,F,,,,118260.0
+2022.0,Number,Canton 10,F,,,,1575.0
+2023.0,Number,Federation of Bosnia and Herzegovina,Both sexes,,,,396895.0
+2023.0,Number,Una-Sana Canton,Both sexes,,,,13238.0
+2023.0,Number,Posavina Canton,Both sexes,,,,1823.0
+2023.0,Number,Tuzla Canton,Both sexes,,,,64681.0
+2023.0,Number,Zenica-Doboj Canton,Both sexes,,,,64098.0
+2023.0,Number,Bosnian-Podrinje Canton,Both sexes,,,,9750.0
+2023.0,Number,Central Bosnia Canton,Both sexes,,,,17967.0
+2023.0,Number,Herzegovina-Neretva Canton,Both sexes,,,,7860.0
+2023.0,Number,West Herzegovina Canton,Both sexes,,,,3384.0
+2023.0,Number,Sarajevo Canton,Both sexes,,,,209485.0
+2023.0,Number,Canton 10,Both sexes,,,,4879.0
+2023.0,Number,Federation of Bosnia and Herzegovina,M,,,,191116.0
+2023.0,Number,Una-Sana Canton,M,,,,6304.0
+2023.0,Number,Posavina Canton,M,,,,808.0
+2023.0,Number,Tuzla Canton,M,,,,38852.0
+2023.0,Number,Zenica-Doboj Canton,M,,,,30114.0
+2023.0,Number,Bosnian-Podrinje Canton,M,,,,3900.0
+2023.0,Number,Central Bosnia Canton,M,,,,8938.0
+2023.0,Number,Herzegovina-Neretva Canton,M,,,,3335.0
+2023.0,Number,West Herzegovina Canton,M,,,,1762.0
+2023.0,Number,Sarajevo Canton,M,,,,93956.0
+2023.0,Number,Canton 10,M,,,,3147.0
+2023.0,Number,Federation of Bosnia and Herzegovina,F,,,,205779.0
+2023.0,Number,Una-Sana Canton,F,,,,6934.0
+2023.0,Number,Posavina Canton,F,,,,1015.0
+2023.0,Number,Tuzla Canton,F,,,,25829.0
+2023.0,Number,Zenica-Doboj Canton,F,,,,33984.0
+2023.0,Number,Bosnian-Podrinje Canton,F,,,,5850.0
+2023.0,Number,Central Bosnia Canton,F,,,,8759.0
+2023.0,Number,Herzegovina-Neretva Canton,F,,,,4525.0
+2023.0,Number,West Herzegovina Canton,F,,,,1622.0
+2023.0,Number,Sarajevo Canton,F,,,,115529.0
+2023.0,Number,Canton 10,F,,,,1732.0
+,,,,,,,
