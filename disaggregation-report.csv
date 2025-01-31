@@ -4,8 +4,8 @@ ADMIN_AREA,Administrative area,Administrativna oblast,Административ
 AGE,Age,Starosna dob,Старосна доб,Starosna dob,19,190
 BIRTH,Birth,Vitalna statistika,Рађање,Vitalna statistika,1,2
 Births,Vital statistics,Vitalna statistika,Витална статистика,Vitalna statistika,1,3
-Cause_of_death,Cause of death,Uzrok smrti,Узрок смрти,Uzrok smrti,1,23
 CAUSE_OF_DEATH,CAUSE_OF_DEATH,CAUSE_OF_DEATH,CAUSE_OF_DEATH,CAUSE_OF_DEATH,2,22
+Cause_of_death,Cause of death,Uzrok smrti,Узрок смрти,Uzrok smrti,1,23
 Disabilities,Type of disability,Vrsta poteškoće,Врста потешкоће,Vrsta poteškoće,1,8
 HH_agri,Household agricultural activity,Poljoprivredna aktivnost,Пољопривредна активност,Poljoprivredna aktivnost,1,3
 HH_size,Household size,Brojnost domaćinstva,Бројност домаћинства,Brojnost kućanstava,1,9

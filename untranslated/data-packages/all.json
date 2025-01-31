@@ -3,8 +3,291 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "5-3-1/data.csv",
-      "name": "5-3-1",
+      "path": "7-2-3/data.csv",
+      "name": "7-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Quarter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 - 89",
+                "15 - 24",
+                "25 - 49",
+                "50 - 64",
+                "15 - 64",
+                "20 - 64",
+                "25 - 34",
+                "15 - 74",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.7-2-3-title"
+    },
+    {
+      "path": "1-2-4/data.csv",
+      "name": "1-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-2-4-title"
+    },
+    {
+      "path": "1-1-2/data.csv",
+      "name": "1-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-1-2-title"
+    },
+    {
+      "path": "7-2-1/data.csv",
+      "name": "7-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Quarter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 - 89",
+                "15 - 24",
+                "25 - 49",
+                "50 - 64",
+                "15 - 64",
+                "20 - 64",
+                "25 - 34",
+                "15 - 74",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.7-2-1-title"
+    },
+    {
+      "path": "3-3-5/data.csv",
+      "name": "3-3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "3-3-5"
+    },
+    {
+      "path": "2-3-1/data.csv",
+      "name": "2-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LITERACY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "literate",
+                "iliterate",
+                "unknown",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.2-3-1-title"
+    },
+    {
+      "path": "5-3-5/data.csv",
+      "name": "5-3-5",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -58,89 +341,11 @@
           }
         ]
       },
-      "title": "global_indicators.5-3-1-title"
+      "title": "global_indicators.5-3-5-title"
     },
     {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-2-1-title"
-    },
-    {
-      "path": "1-1-2/data.csv",
-      "name": "1-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-1-2-title"
-    },
-    {
-      "path": "3-5-6/data.csv",
-      "name": "3-5-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.3-5-6-title"
-    },
-    {
-      "path": "4-1-1/data.csv",
-      "name": "4-1-1",
+      "path": "5-3-2/data.csv",
+      "name": "5-3-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -177,6 +382,139 @@
             }
           },
           {
+            "name": "type_of_school",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "gymnasium",
+                "technical_high_schools",
+                "vocational_high_schools",
+                "art_schools",
+                "religious_schools",
+                "high_schools_for_students_with_disabilities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.5-3-2-title"
+    },
+    {
+      "path": "5-7-2/data.csv",
+      "name": "5-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "_M",
+                "_F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.5-7-2-title"
+    },
+    {
+      "path": "1-2-5/data.csv",
+      "name": "1-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "13-14",
+                "15-19",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.1-2-5-title"
+    },
+    {
+      "path": "5-4-1/data.csv",
+      "name": "5-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "sarajevo_canton",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -189,43 +527,16 @@
             }
           },
           {
-            "name": "Unnamed: 5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 6",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 7",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
-      "title": "global_indicators.4-1-1-title"
+      "title": "global_indicators.5-4-1-title"
     },
     {
-      "path": "6-1-1/data.csv",
-      "name": "6-1-1",
+      "path": "6-1-3/data.csv",
+      "name": "6-1-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -247,7 +558,411 @@
           }
         ]
       },
-      "title": "global_indicators.6-1-1-title"
+      "title": "global_indicators.6-1-3-title"
+    },
+    {
+      "path": "3-6-2/data.csv",
+      "name": "3-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-6-2-title"
+    },
+    {
+      "path": "3-6-4/data.csv",
+      "name": "3-6-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-6-4-title"
+    },
+    {
+      "path": "5-5-7/data.csv",
+      "name": "5-5-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "scientific_field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.5-5-7-title"
+    },
+    {
+      "path": "2-3-2/data.csv",
+      "name": "2-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "highest_attainment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T",
+                "no_education",
+                "incomplete_elementary",
+                "elementary_education",
+                "secondary_education",
+                "secondary_specialization",
+                "first_degree",
+                "university_degree",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.2-3-2-title"
+    },
+    {
+      "path": "1-3-3/data.csv",
+      "name": "1-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-3-3-title"
+    },
+    {
+      "path": "5-1-3/data.csv",
+      "name": "5-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.5-1-3-title"
+    },
+    {
+      "path": "5-2-1/data.csv",
+      "name": "5-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.5-2-1-title"
+    },
+    {
+      "path": "3-3-1/data.csv",
+      "name": "3-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.3-3-1-title"
+    },
+    {
+      "path": "5-3-4/data.csv",
+      "name": "5-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "posavina_canton",
+                "bosnian-podrinje_canton",
+                "canton_10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type_of_school",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "art_schools",
+                "gymnasium",
+                "high_schools_for_students_with_disabilities",
+                "religious_schools",
+                "technical_high_schools",
+                "vocational_high_schools",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.5-3-4-title"
     },
     {
       "path": "5-5-2/data.csv",
@@ -305,588 +1020,8 @@
       "title": "global_indicators.5-5-2-title"
     },
     {
-      "path": "5-6-3/data.csv",
-      "name": "5-6-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.5-6-3-title"
-    },
-    {
-      "path": "1-5-1/data.csv",
-      "name": "1-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-5-1-title"
-    },
-    {
-      "path": "3-6-4/data.csv",
-      "name": "3-6-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-6-4-title"
-    },
-    {
-      "path": "3-1-3/data.csv",
-      "name": "3-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                "_T",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-1-3-title"
-    },
-    {
-      "path": "1-3-4/data.csv",
-      "name": "1-3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "T",
-                "0",
-                " 1-4",
-                " 5-9",
-                " 10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85+",
-                "Unknown",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Cause_of_death",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "diseases_of_the_eye",
-                "pregnancy_childbirth_and_the",
-                "infectious_and_parasitic",
-                "neoplasms",
-                "diseases_of_the_blood",
-                "endocrine_metabolic_and_nutritional",
-                "mental_and_behavioural_disorders",
-                "diseases_of_the_nervous",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_digestive",
-                "diseases_of_the_skin",
-                "diseases_of_the_musculoskeletal",
-                "diseases_of_the_genitourinary",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "symptoms_signs_and_abnormal",
-                "unknown",
-                "injuries_poisoning_and_consequences",
-                "factors_influencing_health_status",
-                "diseases_of_the_ear",
-                "special_purpose_codes",
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-3-4-title"
-    },
-    {
-      "path": "3-5-1/data.csv",
-      "name": "3-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.3-5-1-title"
-    },
-    {
-      "path": "5-2-3/data.csv",
-      "name": "5-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.5-2-3-title"
-    },
-    {
-      "path": "5-4-2/data.csv",
-      "name": "5-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.5-4-2-title"
-    },
-    {
-      "path": "1-4-3/data.csv",
-      "name": "1-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-4-3-title"
-    },
-    {
-      "path": "1-7-3/data.csv",
-      "name": "1-7-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "TYPE_OF_DEPENDENCY_RATIO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "(0-14+60+)/(15-59)",
-                "(0-19+65+)/(20-64)",
-                "(0-14+50+)/(15-49)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-7-3-title"
-    },
-    {
-      "path": "3-3-3/data.csv",
-      "name": "3-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "3-3-3"
-    },
-    {
-      "path": "3-1-2/data.csv",
-      "name": "3-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "CAUSE_OF_DEATH",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "neoplasms",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_digestive",
-                "symptoms_signs_and_abnormal",
-                "injuries_poisoning_and_consequences",
-                "infectious_and_parasitic",
-                "diseases_of_the_blood",
-                "endocrine_metabolic_and_nutritional",
-                "mental_and_behavioural_disorders",
-                "diseases_of_the_nervous",
-                "diseases_of_the_eye",
-                "diseases_of_the_skin",
-                "diseases_of_the_genitourinary",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "external_causes_of_mortality",
-                "factors_influencing_health_status",
-                "unknown",
-                "diseases_of_the_musculoskeletal",
-                "pregnancy_childbirth_and_the",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-1-2-title"
-    },
-    {
-      "path": "1-3-6/data.csv",
-      "name": "1-3-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-3-6-title"
-    },
-    {
-      "path": "1-6-1/data.csv",
-      "name": "1-6-1",
+      "path": "1-6-3/data.csv",
+      "name": "1-6-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -928,11 +1063,48 @@
           }
         ]
       },
-      "title": "global_indicators.1-6-1-title"
+      "title": "global_indicators.1-6-3-title"
     },
     {
-      "path": "1-2-4/data.csv",
-      "name": "1-2-4",
+      "path": "1-4-4/data.csv",
+      "name": "1-4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-4-4-title"
+    },
+    {
+      "path": "1-6-4/data.csv",
+      "name": "1-6-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -954,77 +1126,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-4-title"
-    },
-    {
-      "path": "5-4-3/data.csv",
-      "name": "5-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "scientific_field",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.5-4-3-title"
-    },
-    {
-      "path": "3-6-2/data.csv",
-      "name": "3-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-6-2-title"
+      "title": "global_indicators.1-6-4-title"
     },
     {
       "path": "1-8-3/data.csv",
@@ -1192,8 +1294,421 @@
       "title": "1-8-3"
     },
     {
-      "path": "5-1-2/data.csv",
-      "name": "5-1-2",
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-2-2-title"
+    },
+    {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-2-1-title"
+    },
+    {
+      "path": "3-6-1/data.csv",
+      "name": "3-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "MICS_NUMBER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "all_methods",
+                "traditional_methods",
+                "modern_methods",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-6-1-title"
+    },
+    {
+      "path": "3-2-4/data.csv",
+      "name": "3-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-2-4-title"
+    },
+    {
+      "path": "7-3-2/data.csv",
+      "name": "7-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.7-3-2-title"
+    },
+    {
+      "path": "7-1-5/data.csv",
+      "name": "7-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "status_in_employment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.5-7-2-title"
+    },
+    {
+      "path": "1-3-2/data.csv",
+      "name": "1-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.1-3-2-title"
+    },
+    {
+      "path": "6-1-1/data.csv",
+      "name": "6-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.6-1-1-title"
+    },
+    {
+      "path": "5-5-5/data.csv",
+      "name": "5-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "scientific_field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.5-5-5-title"
+    },
+    {
+      "path": "5-5-1/data.csv",
+      "name": "5-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.5-5-1-title"
+    },
+    {
+      "path": "3-3-2/data.csv",
+      "name": "3-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "3-3-2"
+    },
+    {
+      "path": "3-5-2/data.csv",
+      "name": "3-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.3-5-2-title"
+    },
+    {
+      "path": "5-2-2/data.csv",
+      "name": "5-2-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1230,7 +1745,7 @@
             }
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1247,11 +1762,113 @@
           }
         ]
       },
-      "title": "global_indicators.5-1-2-title"
+      "title": "global_indicators.5-2-2-title"
     },
     {
-      "path": "1-3-1/data.csv",
-      "name": "1-3-1",
+      "path": "5-6-2/data.csv",
+      "name": "5-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "scientific_field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.5-6-2-title"
+    },
+    {
+      "path": "5-3-1/data.csv",
+      "name": "5-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.5-3-1-title"
+    },
+    {
+      "path": "1-7-7/data.csv",
+      "name": "1-7-7",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1273,11 +1890,11 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-1-title"
+      "title": "global_indicators.1-7-7-title"
     },
     {
-      "path": "1-7-2/data.csv",
-      "name": "1-7-2",
+      "path": "1-7-4/data.csv",
+      "name": "1-7-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1294,7 +1911,7 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1306,11 +1923,128 @@
             }
           },
           {
-            "name": "AGE",
+            "name": "BIRTH",
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
+                "LIVE_BIRTH",
+                "DEATHS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.1-7-4-title"
+    },
+    {
+      "path": "3-5-4/data.csv",
+      "name": "3-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.3-5-4-title"
+    },
+    {
+      "path": "5-6-3/data.csv",
+      "name": "5-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.5-6-3-title"
+    },
+    {
+      "path": "1-7-8/data.csv",
+      "name": "1-7-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "PYRAMID_SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "PYRAMID_AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "0-4",
                 " 5-9",
                 " 10-14",
@@ -1346,11 +2080,11 @@
           }
         ]
       },
-      "title": "global_indicators.1-7-2-title"
+      "title": "global_indicators.1-7-8-title"
     },
     {
-      "path": "1-4-1/data.csv",
-      "name": "1-4-1",
+      "path": "5-4-3/data.csv",
+      "name": "5-4-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1360,215 +2094,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-4-1-title"
-    },
-    {
-      "path": "7-1-1/data.csv",
-      "name": "7-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15",
-                "15-24",
-                "25-49",
-                "50-64",
-                "15-64",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.7-1-1-title"
-    },
-    {
-      "path": "4-1-2/data.csv",
-      "name": "4-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "type_of_institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "homes_for_children_and_youth_without_parental_care",
-                "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
-                "social_welfare_institutions_for_adults_with_disabilities",
-                "social_welfare_institutions_for_adults",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.4-1-2-title"
-    },
-    {
-      "path": "1-7-5/data.csv",
-      "name": "1-7-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-7-5-title"
-    },
-    {
-      "path": "7-1-3/data.csv",
-      "name": "7-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15",
-                "15-24",
-                "25-49",
-                "50-64",
-                "15-64",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.7-1-3-title"
-    },
-    {
-      "path": "5-3-4/data.csv",
-      "name": "5-3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1579,42 +2105,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "posavina_canton",
-                "bosnian-podrinje_canton",
-                "canton_10",
                 ""
               ]
             }
           },
           {
-            "name": "type_of_school",
+            "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "art_schools",
-                "gymnasium",
-                "high_schools_for_students_with_disabilities",
-                "religious_schools",
-                "technical_high_schools",
-                "vocational_high_schools",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.5-4-3-title"
+    },
+    {
+      "path": "2-1-4/data.csv",
+      "name": "2-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "PYRAMID_SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
                 "M",
                 "F",
                 ""
@@ -1622,172 +2156,13 @@
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.5-3-4-title"
-    },
-    {
-      "path": "1-2-5/data.csv",
-      "name": "1-2-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "AGE",
+            "name": "PYRAMID_AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "13-14",
-                "15-19",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-2-5-title"
-    },
-    {
-      "path": "2-1-5/data.csv",
-      "name": "2-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "No_of_births",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "did_not_give_birth",
-                "1",
-                "2",
-                "3",
-                "4",
-                "5+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.2-1-5-title"
-    },
-    {
-      "path": "3-1-4/data.csv",
-      "name": "3-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-1-4-title"
-    },
-    {
-      "path": "1-2-3/data.csv",
-      "name": "1-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "under_15",
+                "0-4",
+                " 5-9",
+                " 10-14",
                 "15-19",
                 "20-24",
                 "25-29",
@@ -1795,21 +2170,29 @@
                 "35-39",
                 "40-44",
                 "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
-      "title": "global_indicators.1-2-3-title"
+      "title": "global_indicators.2-1-4-title"
     },
     {
-      "path": "3-3-1/data.csv",
-      "name": "3-3-1",
+      "path": "1-7-3/data.csv",
+      "name": "1-7-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1826,67 +2209,16 @@
             "type": "string"
           },
           {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.3-3-1-title"
-    },
-    {
-      "path": "1-4-2/data.csv",
-      "name": "1-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "(0-14+60+)/(15-59)",
+                "(0-19+65+)/(20-64)",
+                "(0-14+50+)/(15-49)",
                 ""
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-4-2-title"
-    },
-    {
-      "path": "7-1-2/data.csv",
-      "name": "7-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "Sex",
@@ -1901,16 +2233,57 @@
             }
           },
           {
-            "name": "AGE",
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-7-3-title"
+    },
+    {
+      "path": "5-4-2/data.csv",
+      "name": "5-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "15",
-                "15-24",
-                "25-49",
-                "50-64",
-                "15-64",
-                "15-14",
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -1921,7 +2294,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-1-2-title"
+      "title": "global_indicators.5-4-2-title"
     },
     {
       "path": "2-1-1/data.csv",
@@ -2079,8 +2452,8 @@
       "title": "global_indicators.2-1-1-title"
     },
     {
-      "path": "5-5-6/data.csv",
-      "name": "5-5-6",
+      "path": "7-2-2/data.csv",
+      "name": "7-2-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2097,18 +2470,14 @@
             "type": "string"
           },
           {
-            "name": "Admin_Area",
+            "name": "Quarter",
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
                 ""
               ]
             }
@@ -2126,186 +2495,33 @@
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.5-5-6-title"
-    },
-    {
-      "path": "5-6-4/data.csv",
-      "name": "5-6-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "scientific_field",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "15 - 89",
+                "15 - 24",
+                "25 - 49",
+                "50 - 64",
+                "15 - 64",
+                "20 - 64",
+                "25 - 34",
+                "15 - 74",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.5-6-4-title"
+      "title": "global_indicators.7-2-2-title"
     },
     {
-      "path": "5-7-4/data.csv",
-      "name": "5-7-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "type_of_institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.5-7-4-title"
-    },
-    {
-      "path": "1-3-2/data.csv",
-      "name": "1-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-3-2-title"
-    },
-    {
-      "path": "5-5-3/data.csv",
-      "name": "5-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "type_of_education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.5-5-3-title"
-    },
-    {
-      "path": "5-1-4/data.csv",
-      "name": "5-1-4",
+      "path": "2-2-2/data.csv",
+      "name": "2-2-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2342,13 +2558,13 @@
             }
           },
           {
-            "name": "SEX",
+            "name": "HH_agri",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "T",
+                "agri_activity",
+                "agri_activity_sale",
                 ""
               ]
             }
@@ -2359,11 +2575,11 @@
           }
         ]
       },
-      "title": "global_indicators.5-1-4-title"
+      "title": "global_indicators.2-2-2-title"
     },
     {
-      "path": "1-4-5/data.csv",
-      "name": "1-4-5",
+      "path": "1-7-2/data.csv",
+      "name": "1-7-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2378,151 +2594,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "1-4-5"
-    },
-    {
-      "path": "1-3-5/data.csv",
-      "name": "1-3-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-3-5-title"
-    },
-    {
-      "path": "5-3-3/data.csv",
-      "name": "5-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.5-3-3-title"
-    },
-    {
-      "path": "2-1-6/data.csv",
-      "name": "2-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "TYPE_OF_DEPENDENCY_RATIO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "(0-14+60+)/(15-59)",
-                "(0-19+65+)/(20-64)",
-                "(0-14+50+)/(15-49)",
-                ""
-              ]
-            }
           },
           {
             "name": "SEX",
@@ -2537,42 +2608,51 @@
             }
           },
           {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.2-1-6-title"
-    },
-    {
-      "path": "1-7-7/data.csv",
-      "name": "1-7-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T",
+                "0-4",
+                " 5-9",
+                " 10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85-89",
+                "90-94",
+                "95-99",
+                "100-104",
+                "105-109",
+                "110-114",
+                "115-119",
+                "120+",
+                ""
+              ]
+            }
+          },
           {
-            "name": "Year",
+            "name": "Value",
             "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.1-7-7-title"
+      "title": "global_indicators.1-7-2-title"
     },
     {
-      "path": "5-6-2/data.csv",
-      "name": "5-6-2",
+      "path": "3-5-6/data.csv",
+      "name": "3-5-6",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2589,30 +2669,12 @@
             "type": "string"
           },
           {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "scientific_field",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "string"
           }
         ]
       },
-      "title": "global_indicators.5-6-2-title"
+      "title": "global_indicators.3-5-6-title"
     },
     {
       "path": "5-6-1/data.csv",
@@ -2671,8 +2733,144 @@
       "title": "global_indicators.5-6-1-title"
     },
     {
-      "path": "5-1-3/data.csv",
-      "name": "5-1-3",
+      "path": "1-4-2/data.csv",
+      "name": "1-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-4-2-title"
+    },
+    {
+      "path": "5-1-1/data.csv",
+      "name": "5-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                "public",
+                "private",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.5-1-1-title"
+    },
+    {
+      "path": "5-7-4/data.csv",
+      "name": "5-7-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.5-7-4-title"
+    },
+    {
+      "path": "3-2-1/data.csv",
+      "name": "3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.3-2-1-title"
+    },
+    {
+      "path": "1-8-2/data.csv",
+      "name": "1-8-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2701,16 +2899,280 @@
             }
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T",
+                "0-4",
+                " 5-9",
+                " 10-14",
+                " 15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "global_indicators.5-1-3-title"
+      "title": "1-8-2"
     },
     {
-      "path": "8-1-1/data.csv",
-      "name": "8-1-1",
+      "path": "4-1-2/data.csv",
+      "name": "4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "homes_for_children_and_youth_without_parental_care",
+                "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
+                "social_welfare_institutions_for_adults_with_disabilities",
+                "social_welfare_institutions_for_adults",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.4-1-2-title"
+    },
+    {
+      "path": "2-1-6/data.csv",
+      "name": "2-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(0-14+60+)/(15-59)",
+                "(0-19+65+)/(20-64)",
+                "(0-14+50+)/(15-49)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.2-1-6-title"
+    },
+    {
+      "path": "1-6-1/data.csv",
+      "name": "1-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.1-6-1-title"
+    },
+    {
+      "path": "2-1-5/data.csv",
+      "name": "2-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "No_of_births",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "did_not_give_birth",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.2-1-5-title"
+    },
+    {
+      "path": "3-6-3/data.csv",
+      "name": "3-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-6-3-title"
+    },
+    {
+      "path": "2-1-3/data.csv",
+      "name": "2-1-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2731,54 +3193,72 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "T",
+                "0-4",
+                " 5-9",
+                " 10-14",
+                " 15-19",
+                " 20-24",
+                " 25-29",
+                " 30-34",
+                " 35-39",
+                "40-44",
+                " 45-49",
+                " 50-54",
+                " 55-59",
+                " 60-64",
+                " 65-69",
+                " 70-74",
+                " 75-79",
+                " 80-84",
+                "85+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.8-1-1-title"
-    },
-    {
-      "path": "6-1-3/data.csv",
-      "name": "6-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.6-1-3-title"
+      "title": "global_indicators.2-1-3-title"
     },
     {
-      "path": "3-3-2/data.csv",
-      "name": "3-3-2",
+      "path": "3-5-3/data.csv",
+      "name": "3-5-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2800,7 +3280,7 @@
           }
         ]
       },
-      "title": "3-3-2"
+      "title": "global_indicators.3-5-3-title"
     },
     {
       "path": "1-7-1/data.csv",
@@ -2972,8 +3452,8 @@
       "title": "global_indicators.1-7-1-title"
     },
     {
-      "path": "3-6-3/data.csv",
-      "name": "3-6-3",
+      "path": "1-3-6/data.csv",
+      "name": "1-3-6",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2995,11 +3475,11 @@
           }
         ]
       },
-      "title": "global_indicators.3-6-3-title"
+      "title": "global_indicators.1-3-6-title"
     },
     {
-      "path": "2-1-3/data.csv",
-      "name": "2-1-3",
+      "path": "1-4-1/data.csv",
+      "name": "1-4-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3016,47 +3496,85 @@
             "type": "string"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "T",
-                "0-4",
-                " 5-9",
-                " 10-14",
-                " 15-19",
-                " 20-24",
-                " 25-29",
-                " 30-34",
-                " 35-39",
-                "40-44",
-                " 45-49",
-                " 50-54",
-                " 55-59",
-                " 60-64",
-                " 65-69",
-                " 70-74",
-                " 75-79",
-                " 80-84",
-                "85+",
-                ""
-              ]
-            }
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-4-1-title"
+    },
+    {
+      "path": "7-3-1/data.csv",
+      "name": "7-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.7-3-1-title"
+    },
+    {
+      "path": "3-2-3/data.csv",
+      "name": "3-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-2-3-title"
+    },
+    {
+      "path": "2-4-1/data.csv",
+      "name": "2-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3076,16 +3594,45 @@
             }
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disabilities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T",
+                "eyesight",
+                "hearing",
+                "walking",
+                "memory",
+                "dressing",
+                "communication",
+                "multiple_disabilities",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "global_indicators.2-1-3-title"
+      "title": "global_indicators.2-4-1-title"
     },
     {
-      "path": "5-7-2/data.csv",
-      "name": "5-7-2",
+      "path": "3-1-4/data.csv",
+      "name": "3-1-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3102,13 +3649,11 @@
             "type": "string"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "_T",
-                "_M",
-                "_F",
                 ""
               ]
             }
@@ -3119,7 +3664,205 @@
           }
         ]
       },
-      "title": "global_indicators.5-7-2-title"
+      "title": "global_indicators.3-1-4-title"
+    },
+    {
+      "path": "5-1-2/data.csv",
+      "name": "5-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.5-1-2-title"
+    },
+    {
+      "path": "1-7-5/data.csv",
+      "name": "1-7-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-7-5-title"
+    },
+    {
+      "path": "5-5-3/data.csv",
+      "name": "5-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type_of_education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.5-5-3-title"
+    },
+    {
+      "path": "1-3-1/data.csv",
+      "name": "1-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-3-1-title"
+    },
+    {
+      "path": "5-7-3/data.csv",
+      "name": "5-7-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.5-7-3-title"
     },
     {
       "path": "1-7-6/data.csv",
@@ -3148,8 +3891,773 @@
       "title": "global_indicators.1-7-6-title"
     },
     {
-      "path": "5-7-1/data.csv",
-      "name": "5-7-1",
+      "path": "1-3-5/data.csv",
+      "name": "1-3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.1-3-5-title"
+    },
+    {
+      "path": "1-5-1/data.csv",
+      "name": "1-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-5-1-title"
+    },
+    {
+      "path": "1-6-2/data.csv",
+      "name": "1-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-6-2-title"
+    },
+    {
+      "path": "7-1-1/data.csv",
+      "name": "7-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15",
+                "15-24",
+                "25-49",
+                "50-64",
+                "15-64",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.7-1-1-title"
+    },
+    {
+      "path": "3-1-2/data.csv",
+      "name": "3-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "CAUSE_OF_DEATH",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "neoplasms",
+                "diseases_of_the_circulatory",
+                "diseases_of_the_respiratory",
+                "diseases_of_the_digestive",
+                "symptoms_signs_and_abnormal",
+                "injuries_poisoning_and_consequences",
+                "infectious_and_parasitic",
+                "diseases_of_the_blood",
+                "endocrine_metabolic_and_nutritional",
+                "mental_and_behavioural_disorders",
+                "diseases_of_the_nervous",
+                "diseases_of_the_eye",
+                "diseases_of_the_skin",
+                "diseases_of_the_genitourinary",
+                "certain_conditions_originating",
+                "congenital_malformations_deformations",
+                "external_causes_of_mortality",
+                "factors_influencing_health_status",
+                "unknown",
+                "diseases_of_the_musculoskeletal",
+                "pregnancy_childbirth_and_the",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-1-2-title"
+    },
+    {
+      "path": "5-5-6/data.csv",
+      "name": "5-5-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.5-5-6-title"
+    },
+    {
+      "path": "3-4-2/data.csv",
+      "name": "3-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-4-2-title"
+    },
+    {
+      "path": "3-7-1/data.csv",
+      "name": "3-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-14",
+                "15-19",
+                "20-29",
+                "30-49",
+                "50-59",
+                "60-64",
+                "65+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-7-1-title"
+    },
+    {
+      "path": "7-1-2/data.csv",
+      "name": "7-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15",
+                "15-24",
+                "25-49",
+                "50-64",
+                "15-64",
+                "15-14",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.7-1-2-title"
+    },
+    {
+      "path": "2-1-2/data.csv",
+      "name": "2-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-4",
+                " 5-9",
+                " 10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.2-1-2-title"
+    },
+    {
+      "path": "7-1-4/data.csv",
+      "name": "7-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "status_in_employment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "employees",
+                "self_employed",
+                "unpaid_family_workers",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.7-1-4-title"
+    },
+    {
+      "path": "8-1-1/data.csv",
+      "name": "8-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "18-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.8-1-1-title"
+    },
+    {
+      "path": "4-1-1/data.csv",
+      "name": "4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 5",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 6",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 7",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.4-1-1-title"
+    },
+    {
+      "path": "1-3-4/data.csv",
+      "name": "1-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T",
+                "0",
+                " 1-4",
+                " 5-9",
+                " 10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85+",
+                "Unknown",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Cause_of_death",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "diseases_of_the_eye",
+                "pregnancy_childbirth_and_the",
+                "infectious_and_parasitic",
+                "neoplasms",
+                "diseases_of_the_blood",
+                "endocrine_metabolic_and_nutritional",
+                "mental_and_behavioural_disorders",
+                "diseases_of_the_nervous",
+                "diseases_of_the_circulatory",
+                "diseases_of_the_respiratory",
+                "diseases_of_the_digestive",
+                "diseases_of_the_skin",
+                "diseases_of_the_musculoskeletal",
+                "diseases_of_the_genitourinary",
+                "certain_conditions_originating",
+                "congenital_malformations_deformations",
+                "symptoms_signs_and_abnormal",
+                "unknown",
+                "injuries_poisoning_and_consequences",
+                "factors_influencing_health_status",
+                "diseases_of_the_ear",
+                "special_purpose_codes",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-3-4-title"
+    },
+    {
+      "path": "3-5-5/data.csv",
+      "name": "3-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.3-5-5-title"
+    },
+    {
+      "path": "5-6-4/data.csv",
+      "name": "5-6-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3166,7 +4674,16 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3180,7 +4697,245 @@
           }
         ]
       },
-      "title": "global_indicators.5-7-1-title"
+      "title": "global_indicators.5-6-4-title"
+    },
+    {
+      "path": "3-3-3/data.csv",
+      "name": "3-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "3-3-3"
+    },
+    {
+      "path": "1-1-1/data.csv",
+      "name": "1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Births",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LIVE_BIRTH",
+                "DEATHS",
+                "natural_change",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.1-1-1-title"
+    },
+    {
+      "path": "3-3-4/data.csv",
+      "name": "3-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "3-3-4"
+    },
+    {
+      "path": "5-3-3/data.csv",
+      "name": "5-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.5-3-3-title"
+    },
+    {
+      "path": "5-1-4/data.csv",
+      "name": "5-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.5-1-4-title"
     },
     {
       "path": "1-8-1/data.csv",
@@ -3317,8 +5072,64 @@
       "title": "1-8-1"
     },
     {
-      "path": "3-7-1/data.csv",
-      "name": "3-7-1",
+      "path": "5-5-4/data.csv",
+      "name": "5-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.5-5-4-title"
+    },
+    {
+      "path": "3-1-1/data.csv",
+      "name": "3-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3343,17 +5154,32 @@
             }
           },
           {
-            "name": "AGE",
+            "name": "CAUSE_OF_DEATH",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-14",
-                "15-19",
-                "20-29",
-                "30-49",
-                "50-59",
-                "60-64",
-                "65+",
+                "neoplasms",
+                "diseases_of_the_circulatory",
+                "diseases_of_the_respiratory",
+                "diseases_of_the_digestive",
+                "symptoms_signs_and_abnormal",
+                "injuries_poisoning_and_consequences",
+                "total",
+                "infectious_and_parasitic",
+                "diseases_of_the_blood",
+                "endocrine_metabolic_and_nutritional",
+                "mental_and_behavioural_disorders",
+                "diseases_of_the_nervous",
+                "diseases_of_the_eye",
+                "diseases_of_the_skin",
+                "diseases_of_the_musculoskeletal",
+                "diseases_of_the_genitourinary",
+                "pregnancy_childbirth_and_the",
+                "certain_conditions_originating",
+                "congenital_malformations_deformations",
+                "external_causes_of_mortality",
+                "factors_influencing_health_status",
+                "unknown",
                 ""
               ]
             }
@@ -3364,37 +5190,11 @@
           },
           {
             "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-7-1-title"
-    },
-    {
-      "path": "3-3-4/data.csv",
-      "name": "3-3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "3-3-4"
+      "title": "global_indicators.3-1-1-title"
     },
     {
       "path": "2-2-1/data.csv",
@@ -3540,8 +5340,8 @@
       "title": "global_indicators.2-2-1-title"
     },
     {
-      "path": "3-2-3/data.csv",
-      "name": "3-2-3",
+      "path": "6-1-2/data.csv",
+      "name": "6-1-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3556,6 +5356,44 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.6-1-2-title"
+    },
+    {
+      "path": "3-1-3/data.csv",
+      "name": "3-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                "_T",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3563,11 +5401,11 @@
           }
         ]
       },
-      "title": "global_indicators.3-2-3-title"
+      "title": "global_indicators.3-1-3-title"
     },
     {
-      "path": "5-3-2/data.csv",
-      "name": "5-3-2",
+      "path": "1-2-3/data.csv",
+      "name": "1-2-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3584,65 +5422,21 @@
             "type": "string"
           },
           {
-            "name": "Admin_Area",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
+                "under_15",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
                 ""
               ]
             }
-          },
-          {
-            "name": "type_of_school",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "gymnasium",
-                "technical_high_schools",
-                "vocational_high_schools",
-                "art_schools",
-                "religious_schools",
-                "high_schools_for_students_with_disabilities",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.5-3-2-title"
-    },
-    {
-      "path": "3-3-5/data.csv",
-      "name": "3-3-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "Value",
@@ -3650,120 +5444,7 @@
           }
         ]
       },
-      "title": "3-3-5"
-    },
-    {
-      "path": "5-5-1/data.csv",
-      "name": "5-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.5-5-1-title"
-    },
-    {
-      "path": "5-2-1/data.csv",
-      "name": "5-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.5-2-1-title"
+      "title": "global_indicators.1-2-3-title"
     },
     {
       "path": "3-2-2/data.csv",
@@ -3792,102 +5473,8 @@
       "title": "global_indicators.3-2-2-title"
     },
     {
-      "path": "5-5-5/data.csv",
-      "name": "5-5-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "scientific_field",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.5-5-5-title"
-    },
-    {
-      "path": "7-1-4/data.csv",
-      "name": "7-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "status_in_employment",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "employees",
-                "self_employed",
-                "unpaid_family_workers",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.7-1-4-title"
-    },
-    {
-      "path": "1-3-3/data.csv",
-      "name": "1-3-3",
+      "path": "1-4-5/data.csv",
+      "name": "1-4-5",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3908,7 +5495,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
                 "M",
                 "F",
                 ""
@@ -3921,75 +5507,11 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-3-title"
+      "title": "1-4-5"
     },
     {
-      "path": "2-1-4/data.csv",
-      "name": "2-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "PYRAMID_SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "PYRAMID_AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-4",
-                " 5-9",
-                " 10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.2-1-4-title"
-    },
-    {
-      "path": "7-3-2/data.csv",
-      "name": "7-3-2",
+      "path": "1-4-3/data.csv",
+      "name": "1-4-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4010,7 +5532,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
                 "M",
                 "F",
                 ""
@@ -4023,11 +5544,11 @@
           }
         ]
       },
-      "title": "global_indicators.7-3-2-title"
+      "title": "global_indicators.1-4-3-title"
     },
     {
-      "path": "7-2-3/data.csv",
-      "name": "7-2-3",
+      "path": "7-1-3/data.csv",
+      "name": "7-1-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4042,19 +5563,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "Quarter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                ""
-              ]
-            }
           },
           {
             "name": "Sex",
@@ -4073,14 +5581,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15 - 89",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "15 - 64",
-                "20 - 64",
-                "25 - 34",
-                "15 - 74",
+                "15",
+                "15-24",
+                "25-49",
+                "50-64",
+                "15-64",
                 ""
               ]
             }
@@ -4091,7 +5596,91 @@
           }
         ]
       },
-      "title": "global_indicators.7-2-3-title"
+      "title": "global_indicators.7-1-3-title"
+    },
+    {
+      "path": "3-5-1/data.csv",
+      "name": "3-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.3-5-1-title"
+    },
+    {
+      "path": "5-2-3/data.csv",
+      "name": "5-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Admin_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "federation_of_bih",
+                "una-sana_canton",
+                "posavina_canton",
+                "tuzla_canton",
+                "zenica-doboj_canton",
+                "bosnian-podrinje_canton",
+                "central_bosnia_canton",
+                "herzegovina-neretva_canton",
+                "west_herzegovina_canton",
+                "sarajevo_canton",
+                "canton_10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.5-2-3-title"
     },
     {
       "path": "3-4-1/data.csv",
@@ -4120,8 +5709,8 @@
       "title": "global_indicators.3-4-1-title"
     },
     {
-      "path": "3-1-1/data.csv",
-      "name": "3-1-1",
+      "path": "5-7-1/data.csv",
+      "name": "5-7-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4131,537 +5720,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
                 ""
               ]
             }
-          },
-          {
-            "name": "CAUSE_OF_DEATH",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "neoplasms",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_digestive",
-                "symptoms_signs_and_abnormal",
-                "injuries_poisoning_and_consequences",
-                "total",
-                "infectious_and_parasitic",
-                "diseases_of_the_blood",
-                "endocrine_metabolic_and_nutritional",
-                "mental_and_behavioural_disorders",
-                "diseases_of_the_nervous",
-                "diseases_of_the_eye",
-                "diseases_of_the_skin",
-                "diseases_of_the_musculoskeletal",
-                "diseases_of_the_genitourinary",
-                "pregnancy_childbirth_and_the",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "external_causes_of_mortality",
-                "factors_influencing_health_status",
-                "unknown",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.3-1-1-title"
-    },
-    {
-      "path": "5-2-2/data.csv",
-      "name": "5-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.5-2-2-title"
-    },
-    {
-      "path": "3-4-2/data.csv",
-      "name": "3-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-4-2-title"
-    },
-    {
-      "path": "3-5-2/data.csv",
-      "name": "3-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.3-5-2-title"
-    },
-    {
-      "path": "7-2-2/data.csv",
-      "name": "7-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Quarter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 - 89",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "15 - 64",
-                "20 - 64",
-                "25 - 34",
-                "15 - 74",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.7-2-2-title"
-    },
-    {
-      "path": "2-3-1/data.csv",
-      "name": "2-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "LITERACY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "literate",
-                "iliterate",
-                "unknown",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.2-3-1-title"
-    },
-    {
-      "path": "1-7-8/data.csv",
-      "name": "1-7-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "PYRAMID_SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "PYRAMID_AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-4",
-                " 5-9",
-                " 10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85-89",
-                "90-94",
-                "95-99",
-                "100-104",
-                "105-109",
-                "110-114",
-                "115-119",
-                "120+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-7-8-title"
-    },
-    {
-      "path": "1-7-4/data.csv",
-      "name": "1-7-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "BIRTH",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "LIVE_BIRTH",
-                "DEATHS",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-7-4-title"
-    },
-    {
-      "path": "5-1-1/data.csv",
-      "name": "5-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "type_of_institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total",
-                "public",
-                "private",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.5-1-1-title"
-    },
-    {
-      "path": "1-6-2/data.csv",
-      "name": "1-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-6-2-title"
-    },
-    {
-      "path": "3-5-5/data.csv",
-      "name": "3-5-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.3-5-5-title"
-    },
-    {
-      "path": "3-5-4/data.csv",
-      "name": "3-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "Value",
@@ -4669,202 +5741,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-4-title"
-    },
-    {
-      "path": "1-6-4/data.csv",
-      "name": "1-6-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-6-4-title"
-    },
-    {
-      "path": "7-2-1/data.csv",
-      "name": "7-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Quarter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 - 89",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "15 - 64",
-                "20 - 64",
-                "25 - 34",
-                "15 - 74",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.7-2-1-title"
-    },
-    {
-      "path": "3-2-4/data.csv",
-      "name": "3-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-2-4-title"
-    },
-    {
-      "path": "2-3-2/data.csv",
-      "name": "2-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "highest_attainment",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "T",
-                "no_education",
-                "incomplete_elementary",
-                "elementary_education",
-                "secondary_education",
-                "secondary_specialization",
-                "first_degree",
-                "university_degree",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.2-3-2-title"
+      "title": "global_indicators.5-7-1-title"
     },
     {
       "path": "3-1-5/data.csv",
@@ -4901,883 +5778,6 @@
         ]
       },
       "title": "global_indicators.3-1-5-title"
-    },
-    {
-      "path": "7-1-5/data.csv",
-      "name": "7-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "status_in_employment",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.5-7-2-title"
-    },
-    {
-      "path": "3-6-1/data.csv",
-      "name": "3-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "MICS_NUMBER",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "all_methods",
-                "traditional_methods",
-                "modern_methods",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-6-1-title"
-    },
-    {
-      "path": "5-5-4/data.csv",
-      "name": "5-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.5-5-4-title"
-    },
-    {
-      "path": "5-4-1/data.csv",
-      "name": "5-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "sarajevo_canton",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.5-4-1-title"
-    },
-    {
-      "path": "5-3-5/data.csv",
-      "name": "5-3-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.5-3-5-title"
-    },
-    {
-      "path": "5-5-7/data.csv",
-      "name": "5-5-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "scientific_field",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.5-5-7-title"
-    },
-    {
-      "path": "2-4-1/data.csv",
-      "name": "2-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F ",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disabilities",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "T",
-                "eyesight",
-                "hearing",
-                "walking",
-                "memory",
-                "dressing",
-                "communication",
-                "multiple_disabilities",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.2-4-1-title"
-    },
-    {
-      "path": "7-3-1/data.csv",
-      "name": "7-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.7-3-1-title"
-    },
-    {
-      "path": "3-2-1/data.csv",
-      "name": "3-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.3-2-1-title"
-    },
-    {
-      "path": "1-1-1/data.csv",
-      "name": "1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Births",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "LIVE_BIRTH",
-                "DEATHS",
-                "natural_change",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-1-1-title"
-    },
-    {
-      "path": "1-6-3/data.csv",
-      "name": "1-6-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-6-3-title"
-    },
-    {
-      "path": "5-7-3/data.csv",
-      "name": "5-7-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "type_of_institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.5-7-3-title"
-    },
-    {
-      "path": "1-2-2/data.csv",
-      "name": "1-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-2-2-title"
-    },
-    {
-      "path": "2-2-2/data.csv",
-      "name": "2-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Admin_Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "federation_of_bih",
-                "una-sana_canton",
-                "posavina_canton",
-                "tuzla_canton",
-                "zenica-doboj_canton",
-                "bosnian-podrinje_canton",
-                "central_bosnia_canton",
-                "herzegovina-neretva_canton",
-                "west_herzegovina_canton",
-                "sarajevo_canton",
-                "canton_10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "HH_agri",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "T",
-                "agri_activity",
-                "agri_activity_sale",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.2-2-2-title"
-    },
-    {
-      "path": "3-5-3/data.csv",
-      "name": "3-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.3-5-3-title"
-    },
-    {
-      "path": "1-4-4/data.csv",
-      "name": "1-4-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-4-4-title"
-    },
-    {
-      "path": "1-8-2/data.csv",
-      "name": "1-8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "T",
-                "0-4",
-                " 5-9",
-                " 10-14",
-                " 15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "1-8-2"
-    },
-    {
-      "path": "2-1-2/data.csv",
-      "name": "2-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-4",
-                " 5-9",
-                " 10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.2-1-2-title"
-    },
-    {
-      "path": "6-1-2/data.csv",
-      "name": "6-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.6-1-2-title"
     }
   ]
 }
